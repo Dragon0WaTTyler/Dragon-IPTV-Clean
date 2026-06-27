@@ -1,0 +1,222 @@
+{
+  "schema_version": 1,
+  "generated_by": "scripts/build_iptv_dist.py",
+  "source_repo": "https://github.com/mesbahikarim03-svg/krimo.-Iptv",
+  "source_pattern": "FIW_17*.m3u",
+  "limits": {
+    "arabic": {
+      "catalog": 8000,
+      "main": 3000,
+      "news": 500,
+      "documentary": 500,
+      "sports": 500,
+      "netflix": 1000
+    },
+    "english": {
+      "catalog": 8000,
+      "main": 3000,
+      "news": 500,
+      "documentary": 500,
+      "sports": 500,
+      "netflix": 1000
+    }
+  },
+  "cleanup": {
+    "drop_name_terms": [
+      "welcome",
+      "promo",
+      "demo",
+      "free iptv world promo",
+      "info"
+    ],
+    "drop_url_terms": [
+      "demo.mp4"
+    ],
+    "unsupported_protocols": [
+      "rtmp://",
+      "acestream://",
+      "sop://",
+      "magnet:",
+      "torrent:"
+    ],
+    "free_iptv_world_suffixes": [
+      " | 🌟 FREE IPTV WORLD 🌟",
+      "| 🌟 FREE IPTV WORLD 🌟",
+      "🌟 FREE IPTV WORLD 🌟"
+    ],
+    "token_query_params": [
+      "token",
+      "auth",
+      "signature",
+      "sig",
+      "expires",
+      "expire",
+      "ts",
+      "key",
+      "session",
+      "sid",
+      "user",
+      "pass",
+      "password"
+    ]
+  },
+  "language": {
+    "arabic_script_ranges": [
+      "\\u0600-\\u06FF",
+      "\\u0750-\\u077F",
+      "\\u08A0-\\u08FF",
+      "\\uFB50-\\uFDFF",
+      "\\uFE70-\\uFEFF"
+    ],
+    "arabic_keywords": [
+      "arabic",
+      "alarabiya",
+      "al arabiya",
+      "العربية",
+      "العربيه",
+      "الاخبار",
+      "الأخبار",
+      "اخبار",
+      "اخبارية",
+      "الجزيرة",
+      "الشرق",
+      "الحدث",
+      "mbc",
+      "rotana",
+      "dubai",
+      "qatar",
+      "syria",
+      "libya",
+      "almayadeen"
+    ],
+    "english_keywords": [
+      "english",
+      "news",
+      "sport",
+      "sports",
+      "documentary",
+      "documentaries",
+      "movie",
+      "movies",
+      "series",
+      "film",
+      "films",
+      "cinema",
+      "channel",
+      "tv",
+      "bbc",
+      "cnn",
+      "sky news",
+      "euronews",
+      "france24",
+      "al jazeera english",
+      "discovery",
+      "national geographic",
+      "nat geo",
+      "animal planet",
+      "history",
+      "eurosport",
+      "espn",
+      "fox",
+      "hbo",
+      "amc",
+      "tv1000",
+      "nickelodeon",
+      "cartoon network",
+      "disney",
+      "paramount",
+      "mtv",
+      "showtime",
+      "cinemax",
+      "tnt",
+      "action",
+      "comedy"
+    ],
+    "blocked_languages": [
+      "russian",
+      "french",
+      "spanish",
+      "german",
+      "turkish",
+      "uzbek"
+    ],
+    "blocked_language_keywords": [
+      "espanol",
+      "español",
+      "en espanol",
+      "latin",
+      "latino",
+      "francais",
+      "français",
+      "deutsch",
+      "turk",
+      "türk",
+      "uzbek",
+      "castellano"
+    ]
+  },
+  "categories": {
+    "order": [
+      "news",
+      "documentary",
+      "sports",
+      "netflix"
+    ],
+    "news": [
+      "news",
+      "bbc",
+      "cnn",
+      "sky news",
+      "france24",
+      "euronews",
+      "al jazeera",
+      "العربية",
+      "اخبار",
+      "الأخبار"
+    ],
+    "documentary": [
+      "documentary",
+      "docu",
+      "nature",
+      "history",
+      "science",
+      "discovery",
+      "national geographic",
+      "nat geo",
+      "animal planet",
+      "viasat history",
+      "viasat nature",
+      "وثائقي",
+      "طبيعة",
+      "تاريخ",
+      "علوم"
+    ],
+    "sports": [
+      "sport",
+      "sports",
+      "football",
+      "futbol",
+      "eurosport",
+      "match",
+      "khl",
+      "mma",
+      "رياضة",
+      "كورة"
+    ],
+    "netflix": [
+      "movie",
+      "movies",
+      "cinema",
+      "series",
+      "film",
+      "kino",
+      "amedia",
+      "tv1000",
+      "vip",
+      "comedy",
+      "action",
+      "أفلام",
+      "مسلسلات"
+    ]
+  }
+}

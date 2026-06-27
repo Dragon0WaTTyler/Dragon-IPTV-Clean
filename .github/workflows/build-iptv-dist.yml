@@ -1,0 +1,48 @@
+name: Build IPTV Dist
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "17 */5 * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout this repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python 3.11
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Clone source repo
+        run: |
+          rm -rf tmp/krimo-source
+          git clone --depth 1 https://github.com/mesbahikarim03-svg/krimo.-Iptv tmp/krimo-source
+
+      - name: Build dist
+        run: |
+          python3 scripts/build_iptv_dist.py --source-dir tmp/krimo-source --output-dir dist
+
+      - name: Show generated files
+        run: |
+          find dist -maxdepth 2 -type f -print
+          cat dist/arabic/manifest.json
+          cat dist/english/manifest.json
+
+      - name: Commit generated dist changes
+        run: |
+          if [ -n "$(git status --porcelain -- dist)" ]; then
+            git config user.name "dragon-iptv-bot"
+            git config user.email "dragon-iptv-bot@users.noreply.github.com"
+            git add dist
+            git commit -m "Update generated IPTV dist"
+            git push
+          else
+            echo "No generated dist changes to commit."
+          fi
