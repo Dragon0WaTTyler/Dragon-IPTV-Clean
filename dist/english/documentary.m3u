@@ -1,36 +1,22 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Animal Planet" tvg-logo="" group-title="documentary",Animal Planet
-http://46.32.176.50/animalplanet/index.m3u8
-#EXTINF:-1 tvg-name="Animal Planet HD" tvg-logo="" group-title="documentary",Animal Planet HD
-http://46.32.176.50/AnimalPlanetHD/index.m3u8
-#EXTINF:-1 tvg-name="Viasat history" tvg-logo="" group-title="documentary",Viasat history
-http://46.32.176.50/viasathistory/index.m3u8
-#EXTINF:-1 tvg-name="Viasat Nature" tvg-logo="" group-title="documentary",Viasat Nature
-http://46.32.176.50/viasatnature/index.m3u8
-#EXTINF:-1 tvg-name="Viasat Nature HD" tvg-logo="" group-title="documentary",Viasat Nature HD
-http://46.32.176.50/ViasatNatureHD/index.m3u8
-#EXTINF:-1 tvg-name="History HD" tvg-logo="" group-title="documentary",History HD
-http://46.32.176.50/HistoryHD/index.m3u8
-#EXTINF:-1 tvg-name="Nat Geo Wild HD" tvg-logo="http://sarkor.tv/static/images/channels/Nat Geo Wild HD.png" group-title="documentary",Nat Geo Wild HD
-https://s06.watcher.uz/116/video.m3u8
-#EXTINF:-1 tvg-name="Nat Geo Wild" tvg-logo="" group-title="documentary",Nat Geo Wild
-http://46.32.176.50/natgeowild/index.m3u8
-#EXTINF:-1 tvg-name="Discovery Channel" tvg-logo="" group-title="documentary",Discovery Channel
-http://46.32.176.50/discoverychannel/index.m3u8
-#EXTINF:-1 tvg-name="National Geographic" tvg-logo="" group-title="documentary",National Geographic
-http://46.32.176.50/nationalgeographic/index.m3u8
-#EXTINF:-1 tvg-name="National Geographic HD" tvg-logo="" group-title="documentary",National Geographic HD
-http://46.32.176.50/NationalGeographicHD/index.m3u8
-#EXTINF:-1 tvg-name="viasathistory" tvg-logo="" group-title="documentary",viasathistory
-http://178.134.1.158:8081/viasathistory/index.m3u8
+#EXTINF:-1 tvg-name="NATIONAL GEOGRAPHIC" tvg-logo="" group-title="documentary",NATIONAL GEOGRAPHIC
+http://p2.topten70.net/marko/marko/213
 #EXTINF:-1 tvg-name="DISCOVERY" tvg-logo="" group-title="documentary",DISCOVERY
 http://p2.topten70.net/marko/marko/214
 #EXTINF:-1 tvg-name="DISCOVERY SCI HD" tvg-logo="" group-title="documentary",DISCOVERY SCI HD
 http://p2.topten70.net/marko/marko/215
+#EXTINF:-1 tvg-name="VIASAT NATURE" tvg-logo="" group-title="documentary",VIASAT NATURE
+http://p2.topten70.net/marko/marko/217
+#EXTINF:-1 tvg-name="VIASAT HISTORY" tvg-logo="" group-title="documentary",VIASAT HISTORY
+http://p2.topten70.net/marko/marko/219
 #EXTINF:-1 tvg-name="NOVA DOCUMENTARY 2" tvg-logo="" group-title="documentary",NOVA DOCUMENTARY 2
 http://p2.topten70.net/marko/marko/646
 #EXTINF:-1 tvg-name="HISTORY HD 2" tvg-logo="" group-title="documentary",HISTORY HD 2
 http://p2.topten70.net/marko/marko/226
+#EXTINF:-1 tvg-name="HISTORY HD" tvg-logo="" group-title="documentary",HISTORY HD
+http://p2.topten70.net/marko/marko/225
+#EXTINF:-1 tvg-name="ANIMAL PLANET" tvg-logo="" group-title="documentary",ANIMAL PLANET
+http://p2.topten70.net/marko/marko/220
 #EXTINF:-1 tvg-name="DOCU BOX" tvg-logo="" group-title="documentary",DOCU BOX
 http://p2.topten70.net/marko/marko/231
 #EXTINF:-1 tvg-name="DISCOVERY ID" tvg-logo="" group-title="documentary",DISCOVERY ID
@@ -47,7 +33,7 @@ http://p2.topten70.net/marko/marko/312
 http://p2.topten70.net/marko/marko/313
 #EXTINF:-1 tvg-name="SL: DISCOVERY CHANNEL" tvg-logo="" group-title="documentary",SL: DISCOVERY CHANNEL
 http://p2.topten70.net/marko/marko/761
-#EXTINF:-1 tvg-name="ANIMAL PLANET (NL)" tvg-logo="" group-title="documentary",ANIMAL PLANET (NL)
+#EXTINF:-1 tvg-name="Animal Planet NL" tvg-logo="http://tugapt.com/picons/animalplanetnl.png" group-title="documentary",Animal Planet NL
 http://p2.topten70.net/marko/marko/731
 #EXTINF:-1 tvg-name="DISCOVERY CHANEL tr" tvg-logo="" group-title="documentary",DISCOVERY CHANEL tr
 http://p2.topten70.net/marko/marko/749
@@ -67,63 +53,13 @@ http://46.4.79.240/movie/marko/marko/5751.mp4
 http://46.4.79.240/movie/marko/marko/5212.mp4
 #EXTINF:-1 tvg-name="In a Violent Nature (2024) (2024)" tvg-logo="http://tztv.topten70.net:29001/movie_covers/cover-5272.jpg" group-title="documentary",In a Violent Nature (2024) (2024)
 http://46.4.79.240/movie/marko/marko/5272.mp4
-#EXTINF:-1 tvg-name="Animal Planet HD DE" tvg-logo="http://tugapt.com/picons/animalplanethdde.png" group-title="documentary",Animal Planet HD DE
-http://maxiptv.streamtv.to:8080/NBGkzg9dqf/y2YB5hNopM/2564
-#EXTINF:-1 tvg-name="Nat Geo Wild DE" tvg-logo="http://tugapt.com/picons/natgeowildde.png" group-title="documentary",Nat Geo Wild DE
-http://maxiptv.streamtv.to:8080/NBGkzg9dqf/y2YB5hNopM/2561
-#EXTINF:-1 tvg-name="National Geographic DE" tvg-logo="http://tugapt.com/picons/nationalgeographicde.png" group-title="documentary",National Geographic DE
-http://maxiptv.streamtv.to:8080/NBGkzg9dqf/y2YB5hNopM/5414
-#EXTINF:-1 tvg-name="National Geographic HD DE" tvg-logo="http://tugapt.com/picons/nationalgeographichdde.png" group-title="documentary",National Geographic HD DE
-http://maxiptv.streamtv.to:8080/NBGkzg9dqf/y2YB5hNopM/87
-#EXTINF:-1 tvg-name="History HD DE" tvg-logo="http://tugapt.com/picons/historyhdde.png" group-title="documentary",History HD DE
-http://maxiptv.streamtv.to:8080/NBGkzg9dqf/y2YB5hNopM/95
-#EXTINF:-1 tvg-name="GEO HD DE" tvg-logo="" group-title="documentary",GEO HD DE
-http://maxiptv.streamtv.to:8080/NBGkzg9dqf/y2YB5hNopM/104442
-#EXTINF:-1 tvg-name="Discovery Channel HD DE" tvg-logo="http://tugapt.com/picons/discoverychannelhdde.png" group-title="documentary",Discovery Channel HD DE
-http://maxiptv.streamtv.to:8080/NBGkzg9dqf/y2YB5hNopM/59
-#EXTINF:-1 tvg-name="Animal Planet FHD DE" tvg-logo="http://tugapt.com/picons/animalplanethd.png" group-title="documentary",Animal Planet FHD DE
-http://maxiptv.streamtv.to:8080/NBGkzg9dqf/y2YB5hNopM/30026
-#EXTINF:-1 tvg-name="Discovery Channel FHD DE" tvg-logo="http://tugapt.com/picons/discoverychannelhdde.png" group-title="documentary",Discovery Channel FHD DE
-http://maxiptv.streamtv.to:8080/NBGkzg9dqf/y2YB5hNopM/3944
-#EXTINF:-1 tvg-name="History FHD DE" tvg-logo="http://tugapt.com/picons/historyhdde.png" group-title="documentary",History FHD DE
-http://maxiptv.streamtv.to:8080/NBGkzg9dqf/y2YB5hNopM/3940
-#EXTINF:-1 tvg-name="National Geographic FHD DE" tvg-logo="http://tugapt.com/picons/nationalgeographichdde.png" group-title="documentary",National Geographic FHD DE
-http://maxiptv.streamtv.to:8080/NBGkzg9dqf/y2YB5hNopM/3935
-#EXTINF:-1 tvg-name="Nat Geo Wild FHD DE" tvg-logo="http://tugapt.com/picons/natgeowildhdde.png" group-title="documentary",Nat Geo Wild FHD DE
-http://maxiptv.streamtv.to:8080/NBGkzg9dqf/y2YB5hNopM/3937
-#EXTINF:-1 tvg-name="S Dokumentaries FHD DE" tvg-logo="" group-title="documentary",S Dokumentaries FHD DE
-http://maxiptv.streamtv.to:8080/NBGkzg9dqf/y2YB5hNopM/101901
-#EXTINF:-1 tvg-name="S Nature FHD DE" tvg-logo="" group-title="documentary",S Nature FHD DE
-http://maxiptv.streamtv.to:8080/NBGkzg9dqf/y2YB5hNopM/101900
-#EXTINF:-1 tvg-name="Bild Docu FHD DE" tvg-logo="" group-title="documentary",Bild Docu FHD DE
-http://maxiptv.streamtv.to:8080/NBGkzg9dqf/y2YB5hNopM/101904
-#EXTINF:-1 tvg-name="Star Trek: Discovery HD 24/7 VIP DE" tvg-logo="" group-title="documentary",Star Trek: Discovery HD 24/7 VIP DE
-http://maxiptv.streamtv.to:8080/NBGkzg9dqf/y2YB5hNopM/78532
-#EXTINF:-1 tvg-name="Animal Planet ex-Yu" tvg-logo="http://tugapt.com/picons/animalplanetnl.png" group-title="documentary",Animal Planet ex-Yu
-http://maxiptv.streamtv.to:8080/NBGkzg9dqf/y2YB5hNopM/190
-#EXTINF:-1 tvg-name="Discovery Channel ex-Yu" tvg-logo="https://static.epg.best/hr/DiscoveryChannel.hr.png" group-title="documentary",Discovery Channel ex-Yu
-http://maxiptv.streamtv.to:8080/NBGkzg9dqf/y2YB5hNopM/2325
-#EXTINF:-1 tvg-name="Discovery ID ex-Yu" tvg-logo="https://static.epg.best/ro/DiscoveryID.ro.png" group-title="documentary",Discovery ID ex-Yu
-http://maxiptv.streamtv.to:8080/NBGkzg9dqf/y2YB5hNopM/2324
-#EXTINF:-1 tvg-name="Discovery Science SRB ex-Yu" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-kingdom/discovery-science-uk.png?raw=true" group-title="documentary",Discovery Science SRB ex-Yu
-http://maxiptv.streamtv.to:8080/NBGkzg9dqf/y2YB5hNopM/4014
-#EXTINF:-1 tvg-name="History 2 SRB ex-Yu" tvg-logo="https://static.epg.best/rs/HistoryChannel2.rs.png" group-title="documentary",History 2 SRB ex-Yu
-http://maxiptv.streamtv.to:8080/NBGkzg9dqf/y2YB5hNopM/199
-#EXTINF:-1 tvg-name="History Channel ex-Yu" tvg-logo="http://tugapt.com/picons/historyuk.png" group-title="documentary",History Channel ex-Yu
-http://maxiptv.streamtv.to:8080/NBGkzg9dqf/y2YB5hNopM/2323
-#EXTINF:-1 tvg-name="Viasat History ex-Yu" tvg-logo="http://tugapt.com/picons/viasathistoryse.png" group-title="documentary",Viasat History ex-Yu
-http://maxiptv.streamtv.to:8080/NBGkzg9dqf/y2YB5hNopM/225
-#EXTINF:-1 tvg-name="Viasat Nature ex-Yu" tvg-logo="http://tugapt.com/picons/viasatnature.png" group-title="documentary",Viasat Nature ex-Yu
-http://maxiptv.streamtv.to:8080/NBGkzg9dqf/y2YB5hNopM/226
-#EXTINF:-1 tvg-name="Docu Box SRB ex-Yu" tvg-logo="https://static.epg.best/pl/DocuBox.pl.png" group-title="documentary",Docu Box SRB ex-Yu
-http://maxiptv.streamtv.to:8080/NBGkzg9dqf/y2YB5hNopM/4569
-#EXTINF:-1 tvg-name="Nat Geo Wild ex-Yu" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/national-geographic-wild-uk.png" group-title="documentary",Nat Geo Wild ex-Yu
-http://maxiptv.streamtv.to:8080/NBGkzg9dqf/y2YB5hNopM/209
-#EXTINF:-1 tvg-name="Nat Geo ex-Yu" tvg-logo="https://static.epg.best/hr/NationalGeographic.hr.png" group-title="documentary",Nat Geo ex-Yu
-http://maxiptv.streamtv.to:8080/NBGkzg9dqf/y2YB5hNopM/208
-#EXTINF:-1 tvg-name="Discovery Turbo Xtra FHD VIP ex-Yu" tvg-logo="https://static.epg.best/hu/DiscoveryTurboXtra.hu.png" group-title="documentary",Discovery Turbo Xtra FHD VIP ex-Yu
-http://maxiptv.streamtv.to:8080/NBGkzg9dqf/y2YB5hNopM/10904
-#EXTINF:-1 tvg-name="Viasat Nature / History FHD VIP ex-Yu" tvg-logo="http://tugapt.com/picons/viasatnature.png" group-title="documentary",Viasat Nature / History FHD VIP ex-Yu
-http://maxiptv.streamtv.to:8080/NBGkzg9dqf/y2YB5hNopM/10910
-#EXTINF:-1 tvg-name="DocuBox FHD VIP ex-Yu" tvg-logo="https://static.epg.best/pl/DocuBox.pl.png" group-title="documentary",DocuBox FHD VIP ex-Yu
-http://maxiptv.streamtv.to:8080/NBGkzg9dqf/y2YB5hNopM/13965
+#EXTINF:-1 tvg-name="DISCOVERY CHANNEL" tvg-logo="http://l2.mediaking.fi:8080/logoi/discovery.png" group-title="documentary",DISCOVERY CHANNEL
+http://serv2.mediaking.fi:8080/live/ninomk@gmail.com/aftermath/78.ts
+#EXTINF:-1 tvg-name="HISTORY" tvg-logo="https://images-web.ug-be.cdn.united.cloud/2017/07/21/15/57/01/history_384x216.png" group-title="documentary",HISTORY
+http://client.nodomain.vip/27nihadcelic/QXv5CCzkiE/84
+#EXTINF:-1 tvg-name="HISTORY 2" tvg-logo="https://images-web.ug-be.cdn.united.cloud/2020/05/28/12/39/51/history2hd_logo_16_9_light_384x216_960b676d_768e_4cf9_9aaf_316314e944a2.png" group-title="documentary",HISTORY 2
+http://client.nodomain.vip/27nihadcelic/QXv5CCzkiE/467
+#EXTINF:-1 tvg-name="NATIONAL GEOGRAPHIC CHANNEL" tvg-logo="http://144.76.182.124/exyulogo/natgeo.png" group-title="documentary",NATIONAL GEOGRAPHIC CHANNEL
+http://serv2.mediaking.fi:8080/live/ninomk@gmail.com/aftermath/79.ts
+#EXTINF:-1 tvg-name="NAT GEO WILD" tvg-logo="https://images-web.ug-be.cdn.united.cloud/2019/02/12/10/51/33/nat_geo_wild_384x216.png" group-title="documentary",NAT GEO WILD
+http://client.nodomain.vip/27nihadcelic/QXv5CCzkiE/263

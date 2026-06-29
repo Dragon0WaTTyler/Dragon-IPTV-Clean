@@ -1,36 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Setanta Sports 1 Georgia" tvg-logo="" group-title="sports",Setanta Sports 1 Georgia
-http://158.101.222.193:88/georgia_play.php?id=setanta_georgia
-#EXTINF:-1 tvg-name="Setanta Sports 2 Georgia" tvg-logo="" group-title="sports",Setanta Sports 2 Georgia
-http://158.101.222.193:88/georgia_play.php?id=setanta_sports_plus_georgia
-#EXTINF:-1 tvg-name="Setanta Sports 3 Georgia" tvg-logo="" group-title="sports",Setanta Sports 3 Georgia
-http://158.101.222.193:88/georgia_play.php?id=setanta_sports_3
-#EXTINF:-1 tvg-name="Silk Sport 4" tvg-logo="" group-title="sports",Silk Sport 4
-http://158.101.222.193:88/georgia_play.php?id=silk_sport4
-#EXTINF:-1 tvg-name="Viasat Sport" tvg-logo="" group-title="sports",Viasat Sport
-http://158.101.222.193:88/georgia_play.php?id=viasatsport
-#EXTINF:-1 tvg-name="KHL" tvg-logo="http://sarkor.tv/static/images/channels/KHL.png" group-title="sports",KHL
-https://s04.watcher.uz/20/video.m3u8
-#EXTINF:-1 tvg-name="eurosport" tvg-logo="" group-title="sports",eurosport
-http://178.134.1.158:8081/eurosport/index.m3u8
-#EXTINF:-1 tvg-name="Sport TV HD" tvg-logo="http://sarkor.tv/static/images/channels/Sport TV HD.png" group-title="sports",Sport TV HD
-https://s04.watcher.uz/59/video.m3u8
-#EXTINF:-1 tvg-name="Futbol TV" tvg-logo="http://sarkor.tv/static/images/channels/Futbol TV.png" group-title="sports",Futbol TV
-https://s03.watcher.uz/62/video.m3u8
-#EXTINF:-1 tvg-name="Trace Sport Stars HD" tvg-logo="http://sarkor.tv/static/images/channels/Trace Sport Stars HD.png" group-title="sports",Trace Sport Stars HD
-https://s06.watcher.uz/125/video.m3u8
-#EXTINF:-1 tvg-name="MMA-TV" tvg-logo="http://sarkor.tv/static/images/channels/MMA-TV.png" group-title="sports",MMA-TV
-https://s04.watcher.uz/19/video.m3u8
-#EXTINF:-1 tvg-name="Match Planeta" tvg-logo="http://sarkor.tv/static/images/channels/Match Planeta.png" group-title="sports",Match Planeta
-https://s07.watcher.uz/175/video.m3u8
-#EXTINF:-1 tvg-name="Setanta Sports" tvg-logo="http://sarkor.tv/static/images/channels/Setanta Sports.svg" group-title="sports",Setanta Sports
-https://s05.watcher.uz/191/video.m3u8
-#EXTINF:-1 tvg-name="Setanta Sports 2" tvg-logo="http://sarkor.tv/static/images/channels/Setanta Sports 2.svg" group-title="sports",Setanta Sports 2
-https://s05.watcher.uz/192/video.m3u8
-#EXTINF:-1 tvg-name="Viasat Sport HD" tvg-logo="" group-title="sports",Viasat Sport HD
-http://api.peers.tv/timeshift/viasat_sport_hd/16/playlist.m3u8?offset=10
-#EXTINF:-1 tvg-name="KHL Prime HD" tvg-logo="" group-title="sports",KHL Prime HD
-http://api.peers.tv/timeshift/kxl_hd/16/playlist.m3u8?offset=10
 #EXTINF:-1 tvg-name="PREMIER LIGA BIH" tvg-logo="" group-title="sports",PREMIER LIGA BIH
 http://p2.topten70.net/marko/marko/86
 #EXTINF:-1 tvg-name="HR| SPORT KLUB 1 HD" tvg-logo="" group-title="sports",HR| SPORT KLUB 1 HD
@@ -247,345 +215,97 @@ http://46.4.79.240/movie/marko/marko/5104.mp4
 http://46.4.79.240/movie/marko/marko/5314.mp4
 #EXTINF:-1 tvg-name="Space Command Redemption (2024) (2024)" tvg-logo="http://tztv.topten70.net:29001/movie_covers/cover-5367.jpg" group-title="sports",Space Command Redemption (2024) (2024)
 http://46.4.79.240/movie/marko/marko/5367.mp4
-#EXTINF:-1 tvg-name="Hunting Emma 2017 (2017)" tvg-logo="http://image.tmdb.org/t/p/w154/sPPOiZbyIOgx2jZegAPk447k64g.jpg" group-title="sports",Hunting Emma 2017 (2017)
+#EXTINF:-1 tvg-name="Hunting Emma (2017) (2017)" tvg-logo="http://tztv.topten70.net:29001/movie_covers/cover-6041.jpg" group-title="sports",Hunting Emma (2017) (2017)
 http://46.4.79.240/movie/marko/marko/6041.mp4
 #EXTINF:-1 tvg-name="General Commander (2019) (2019)" tvg-logo="http://tztv.topten70.net:29001/movie_covers/cover-6120.jpg" group-title="sports",General Commander (2019) (2019)
 http://46.4.79.240/movie/marko/marko/6120.mp4
-#EXTINF:-1 tvg-name="S Sport F1 HD DE" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sky-sport-f1-de.png" group-title="sports",S Sport F1 HD DE
-http://maxiptv.streamtv.to:8080/NBGkzg9dqf/y2YB5hNopM/130362
-#EXTINF:-1 tvg-name="Eurosport 1 HD DE" tvg-logo="http://tugapt.com/picons/eurosport1hdde.png" group-title="sports",Eurosport 1 HD DE
-http://maxiptv.streamtv.to:8080/NBGkzg9dqf/y2YB5hNopM/1316
-#EXTINF:-1 tvg-name="Eurosport 2 DE" tvg-logo="http://tugapt.com/picons/eurosport2de.png" group-title="sports",Eurosport 2 DE
-http://maxiptv.streamtv.to:8080/NBGkzg9dqf/y2YB5hNopM/97
-#EXTINF:-1 tvg-name="Eurosport 2 Xtra HD DE" tvg-logo="http://tugapt.com/picons/eurosport2xtrahdde.png" group-title="sports",Eurosport 2 Xtra HD DE
-http://maxiptv.streamtv.to:8080/NBGkzg9dqf/y2YB5hNopM/7430
-#EXTINF:-1 tvg-name="Sky Sport BundesLiga 4K DE" tvg-logo="" group-title="sports",Sky Sport BundesLiga 4K DE
-http://maxiptv.streamtv.to:8080/NBGkzg9dqf/y2YB5hNopM/122786
-#EXTINF:-1 tvg-name="Sky Sport Bundesliga 1 HD DE" tvg-logo="http://tugapt.com/picons/skysportbundesliga1hdde.png" group-title="sports",Sky Sport Bundesliga 1 HD DE
-http://maxiptv.streamtv.to:8080/NBGkzg9dqf/y2YB5hNopM/12700
-#EXTINF:-1 tvg-name="S Sport Bundesliga 2 HD (Live Event) DE" tvg-logo="http://tugapt.com/picons/skysportbundesliga2hdde.png" group-title="sports",S Sport Bundesliga 2 HD (Live Event) DE
-http://maxiptv.streamtv.to:8080/NBGkzg9dqf/y2YB5hNopM/1330
-#EXTINF:-1 tvg-name="Sky Sport Bundesliga 3 HD (Live Event) DE" tvg-logo="http://tugapt.com/picons/skysportbundesliga3hdde.png" group-title="sports",Sky Sport Bundesliga 3 HD (Live Event) DE
-http://maxiptv.streamtv.to:8080/NBGkzg9dqf/y2YB5hNopM/12699
-#EXTINF:-1 tvg-name="Sky Sport Bundesliga 4 HD (Live Event) DE" tvg-logo="http://tugapt.com/picons/skysportbundesliga4hdde.png" group-title="sports",Sky Sport Bundesliga 4 HD (Live Event) DE
-http://maxiptv.streamtv.to:8080/NBGkzg9dqf/y2YB5hNopM/1328
-#EXTINF:-1 tvg-name="S Sport Bundesliga 5 HD (Live Event) DE" tvg-logo="http://tugapt.com/picons/skysportbundesliga5hdde.png" group-title="sports",S Sport Bundesliga 5 HD (Live Event) DE
-http://maxiptv.streamtv.to:8080/NBGkzg9dqf/y2YB5hNopM/12698
-#EXTINF:-1 tvg-name="S Sport Bundesliga 6 HD (Live Event) DE" tvg-logo="http://tugapt.com/picons/skysportbundesliga6hdde.png" group-title="sports",S Sport Bundesliga 6 HD (Live Event) DE
-http://maxiptv.streamtv.to:8080/NBGkzg9dqf/y2YB5hNopM/1326
-#EXTINF:-1 tvg-name="Sky Sport 1 HD DE" tvg-logo="http://tugapt.com/picons/skysport1hdde.png" group-title="sports",Sky Sport 1 HD DE
-http://maxiptv.streamtv.to:8080/NBGkzg9dqf/y2YB5hNopM/12697
-#EXTINF:-1 tvg-name="Sky Sport 2 HD DE" tvg-logo="http://tugapt.com/picons/skysport2hdde.png" group-title="sports",Sky Sport 2 HD DE
-http://maxiptv.streamtv.to:8080/NBGkzg9dqf/y2YB5hNopM/12696
-#EXTINF:-1 tvg-name="Sky Sport 3 HD (Live Event) DE" tvg-logo="http://tugapt.com/picons/skysport3hdde.png" group-title="sports",Sky Sport 3 HD (Live Event) DE
-http://maxiptv.streamtv.to:8080/NBGkzg9dqf/y2YB5hNopM/1323
-#EXTINF:-1 tvg-name="S Sport 4 HD (Live Event) DE" tvg-logo="http://tugapt.com/picons/skysport4hdde.png" group-title="sports",S Sport 4 HD (Live Event) DE
-http://maxiptv.streamtv.to:8080/NBGkzg9dqf/y2YB5hNopM/1322
-#EXTINF:-1 tvg-name="S Sport 5 HD (Live Event) DE" tvg-logo="http://tugapt.com/picons/skysport5hdde.png" group-title="sports",S Sport 5 HD (Live Event) DE
-http://maxiptv.streamtv.to:8080/NBGkzg9dqf/y2YB5hNopM/12695
-#EXTINF:-1 tvg-name="Sky Sport 6 HD (Live Event) DE" tvg-logo="http://tugapt.com/picons/skysport6hdde.png" group-title="sports",Sky Sport 6 HD (Live Event) DE
-http://maxiptv.streamtv.to:8080/NBGkzg9dqf/y2YB5hNopM/1320
-#EXTINF:-1 tvg-name="S Sport 7 HD (Live Event) DE" tvg-logo="http://tugapt.com/picons/skysport7hdde.png" group-title="sports",S Sport 7 HD (Live Event) DE
-http://maxiptv.streamtv.to:8080/NBGkzg9dqf/y2YB5hNopM/1319
-#EXTINF:-1 tvg-name="S Sport 8 HD (Live Event) DE" tvg-logo="http://tugapt.com/picons/skysport8hdde.png" group-title="sports",S Sport 8 HD (Live Event) DE
-http://maxiptv.streamtv.to:8080/NBGkzg9dqf/y2YB5hNopM/12694
-#EXTINF:-1 tvg-name="Sky Sport 9 HD (Live Event) DE" tvg-logo="http://tugapt.com/picons/skysport9hdde.png" group-title="sports",Sky Sport 9 HD (Live Event) DE
-http://maxiptv.streamtv.to:8080/NBGkzg9dqf/y2YB5hNopM/8693
-#EXTINF:-1 tvg-name="Sky Sport Austria HD DE" tvg-logo="http://tugapt.com/picons/skysportaustria.png" group-title="sports",Sky Sport Austria HD DE
-http://maxiptv.streamtv.to:8080/NBGkzg9dqf/y2YB5hNopM/3176
-#EXTINF:-1 tvg-name="Dyn Sport 1 FHD DE" tvg-logo="" group-title="sports",Dyn Sport 1 FHD DE
-http://maxiptv.streamtv.to:8080/NBGkzg9dqf/y2YB5hNopM/119668
-#EXTINF:-1 tvg-name="Dyn Sport 2 FHD DE" tvg-logo="" group-title="sports",Dyn Sport 2 FHD DE
-http://maxiptv.streamtv.to:8080/NBGkzg9dqf/y2YB5hNopM/119667
-#EXTINF:-1 tvg-name="Sport1 HD DE" tvg-logo="http://tugapt.com/picons/sport1hdde.png" group-title="sports",Sport1 HD DE
-http://maxiptv.streamtv.to:8080/NBGkzg9dqf/y2YB5hNopM/9271
-#EXTINF:-1 tvg-name="SportDigital HD DE" tvg-logo="http://tugapt.com/picons/sportdigitalde.png" group-title="sports",SportDigital HD DE
-http://maxiptv.streamtv.to:8080/NBGkzg9dqf/y2YB5hNopM/3187
-#EXTINF:-1 tvg-name="DAZN | Unbeaten 24/7 Global Sports FHD DE" tvg-logo="" group-title="sports",DAZN | Unbeaten 24/7 Global Sports FHD DE
-http://maxiptv.streamtv.to:8080/NBGkzg9dqf/y2YB5hNopM/119737
-#EXTINF:-1 tvg-name="DAZN | BOXING TV MATCHROOM FHD DE" tvg-logo="" group-title="sports",DAZN | BOXING TV MATCHROOM FHD DE
-http://maxiptv.streamtv.to:8080/NBGkzg9dqf/y2YB5hNopM/119736
-#EXTINF:-1 tvg-name="DAZN | PowerSports World FHD DE" tvg-logo="" group-title="sports",DAZN | PowerSports World FHD DE
-http://maxiptv.streamtv.to:8080/NBGkzg9dqf/y2YB5hNopM/119733
-#EXTINF:-1 tvg-name="DAZN | SPORTDIGITAL FUSSBALL FHD DE" tvg-logo="" group-title="sports",DAZN | SPORTDIGITAL FUSSBALL FHD DE
-http://maxiptv.streamtv.to:8080/NBGkzg9dqf/y2YB5hNopM/119726
-#EXTINF:-1 tvg-name="DAZN | Eurosport 2 FHD DE" tvg-logo="" group-title="sports",DAZN | Eurosport 2 FHD DE
-http://maxiptv.streamtv.to:8080/NBGkzg9dqf/y2YB5hNopM/119722
-#EXTINF:-1 tvg-name="DAZN | Eurosport 1 FHD DE" tvg-logo="" group-title="sports",DAZN | Eurosport 1 FHD DE
-http://maxiptv.streamtv.to:8080/NBGkzg9dqf/y2YB5hNopM/119721
-#EXTINF:-1 tvg-name="DYN | Sport 3 FHD DE" tvg-logo="" group-title="sports",DYN | Sport 3 FHD DE
-http://maxiptv.streamtv.to:8080/NBGkzg9dqf/y2YB5hNopM/119666
-#EXTINF:-1 tvg-name="DYN | Sport 4 FHD DE" tvg-logo="" group-title="sports",DYN | Sport 4 FHD DE
-http://maxiptv.streamtv.to:8080/NBGkzg9dqf/y2YB5hNopM/119665
-#EXTINF:-1 tvg-name="DYN | Sport 5 FHD DE" tvg-logo="" group-title="sports",DYN | Sport 5 FHD DE
-http://maxiptv.streamtv.to:8080/NBGkzg9dqf/y2YB5hNopM/119664
-#EXTINF:-1 tvg-name="DYN | Sport 6 FHD DE" tvg-logo="" group-title="sports",DYN | Sport 6 FHD DE
-http://maxiptv.streamtv.to:8080/NBGkzg9dqf/y2YB5hNopM/119663
-#EXTINF:-1 tvg-name="DYN | Sport 7 FHD DE" tvg-logo="" group-title="sports",DYN | Sport 7 FHD DE
-http://maxiptv.streamtv.to:8080/NBGkzg9dqf/y2YB5hNopM/119662
-#EXTINF:-1 tvg-name="DYN | Sport 8 FHD DE" tvg-logo="" group-title="sports",DYN | Sport 8 FHD DE
-http://maxiptv.streamtv.to:8080/NBGkzg9dqf/y2YB5hNopM/119661
-#EXTINF:-1 tvg-name="DYN | Sport 9 FHD DE" tvg-logo="" group-title="sports",DYN | Sport 9 FHD DE
-http://maxiptv.streamtv.to:8080/NBGkzg9dqf/y2YB5hNopM/119660
-#EXTINF:-1 tvg-name="DYN | Sport 10 FHD DE" tvg-logo="" group-title="sports",DYN | Sport 10 FHD DE
-http://maxiptv.streamtv.to:8080/NBGkzg9dqf/y2YB5hNopM/119659
-#EXTINF:-1 tvg-name="DYN | Sport 11 FHD DE" tvg-logo="" group-title="sports",DYN | Sport 11 FHD DE
-http://maxiptv.streamtv.to:8080/NBGkzg9dqf/y2YB5hNopM/119658
-#EXTINF:-1 tvg-name="DYN | Sport 12 FHD DE" tvg-logo="" group-title="sports",DYN | Sport 12 FHD DE
-http://maxiptv.streamtv.to:8080/NBGkzg9dqf/y2YB5hNopM/119657
-#EXTINF:-1 tvg-name="DYN | Sport 13 FHD DE" tvg-logo="" group-title="sports",DYN | Sport 13 FHD DE
-http://maxiptv.streamtv.to:8080/NBGkzg9dqf/y2YB5hNopM/119656
-#EXTINF:-1 tvg-name="DYN | Sport 14 FHD DE" tvg-logo="" group-title="sports",DYN | Sport 14 FHD DE
-http://maxiptv.streamtv.to:8080/NBGkzg9dqf/y2YB5hNopM/119655
-#EXTINF:-1 tvg-name="DYN | Sport 15 FHD DE" tvg-logo="" group-title="sports",DYN | Sport 15 FHD DE
-http://maxiptv.streamtv.to:8080/NBGkzg9dqf/y2YB5hNopM/119654
-#EXTINF:-1 tvg-name="DYN | Sport 16 FHD DE" tvg-logo="" group-title="sports",DYN | Sport 16 FHD DE
-http://maxiptv.streamtv.to:8080/NBGkzg9dqf/y2YB5hNopM/119653
-#EXTINF:-1 tvg-name="DYN | Sport 17 FHD DE" tvg-logo="" group-title="sports",DYN | Sport 17 FHD DE
-http://maxiptv.streamtv.to:8080/NBGkzg9dqf/y2YB5hNopM/119652
-#EXTINF:-1 tvg-name="DYN | Sport 18 FHD DE" tvg-logo="" group-title="sports",DYN | Sport 18 FHD DE
-http://maxiptv.streamtv.to:8080/NBGkzg9dqf/y2YB5hNopM/119651
-#EXTINF:-1 tvg-name="DYN | Sport 19 FHD DE" tvg-logo="" group-title="sports",DYN | Sport 19 FHD DE
-http://maxiptv.streamtv.to:8080/NBGkzg9dqf/y2YB5hNopM/119650
-#EXTINF:-1 tvg-name="DYN | Sport 20 FHD DE" tvg-logo="" group-title="sports",DYN | Sport 20 FHD DE
-http://maxiptv.streamtv.to:8080/NBGkzg9dqf/y2YB5hNopM/119649
-#EXTINF:-1 tvg-name="DYN | Sport 21 FHD DE" tvg-logo="" group-title="sports",DYN | Sport 21 FHD DE
-http://maxiptv.streamtv.to:8080/NBGkzg9dqf/y2YB5hNopM/119648
-#EXTINF:-1 tvg-name="DYN | Sport 22 FHD DE" tvg-logo="" group-title="sports",DYN | Sport 22 FHD DE
-http://maxiptv.streamtv.to:8080/NBGkzg9dqf/y2YB5hNopM/119647
-#EXTINF:-1 tvg-name="DYN | Sport 23 FHD DE" tvg-logo="" group-title="sports",DYN | Sport 23 FHD DE
-http://maxiptv.streamtv.to:8080/NBGkzg9dqf/y2YB5hNopM/119646
-#EXTINF:-1 tvg-name="DYN | Sport 24 FHD DE" tvg-logo="" group-title="sports",DYN | Sport 24 FHD DE
-http://maxiptv.streamtv.to:8080/NBGkzg9dqf/y2YB5hNopM/119645
-#EXTINF:-1 tvg-name="DYN | Sport 25 FHD DE" tvg-logo="" group-title="sports",DYN | Sport 25 FHD DE
-http://maxiptv.streamtv.to:8080/NBGkzg9dqf/y2YB5hNopM/119644
-#EXTINF:-1 tvg-name="SportDigital Fussball 2 FHD DE" tvg-logo="" group-title="sports",SportDigital Fussball 2 FHD DE
-http://maxiptv.streamtv.to:8080/NBGkzg9dqf/y2YB5hNopM/133389
-#EXTINF:-1 tvg-name="Spiegel TV Wissen FHD DE" tvg-logo="http://tugapt.com/picons/spiegeltvwissenhdde.png" group-title="sports",Spiegel TV Wissen FHD DE
-http://maxiptv.streamtv.to:8080/NBGkzg9dqf/y2YB5hNopM/5398
-#EXTINF:-1 tvg-name="========== DE Sport ==========" tvg-logo="" group-title="sports",========== DE Sport ==========
-http://maxiptv.streamtv.to:8080/NBGkzg9dqf/y2YB5hNopM/14018
-#EXTINF:-1 tvg-name="Eurosport 2 Xtra FHD DE" tvg-logo="http://tugapt.com/picons/eurosport2xtrahdde.png" group-title="sports",Eurosport 2 Xtra FHD DE
-http://maxiptv.streamtv.to:8080/NBGkzg9dqf/y2YB5hNopM/6506
-#EXTINF:-1 tvg-name="Sky Sport Bundesliga1 FHD DE" tvg-logo="http://tugapt.com/picons/skysportbundesliga1hdde.png" group-title="sports",Sky Sport Bundesliga1 FHD DE
-http://maxiptv.streamtv.to:8080/NBGkzg9dqf/y2YB5hNopM/4387
-#EXTINF:-1 tvg-name="S Sport Bundesliga 2 FHD DE" tvg-logo="http://tugapt.com/picons/skysportbundesliga2hdde.png" group-title="sports",S Sport Bundesliga 2 FHD DE
-http://maxiptv.streamtv.to:8080/NBGkzg9dqf/y2YB5hNopM/4386
-#EXTINF:-1 tvg-name="Sky Sport Bundesliga 3 FHD DE" tvg-logo="http://tugapt.com/picons/skysportbundesliga3hdde.png" group-title="sports",Sky Sport Bundesliga 3 FHD DE
-http://maxiptv.streamtv.to:8080/NBGkzg9dqf/y2YB5hNopM/4385
-#EXTINF:-1 tvg-name="S Sport Bundesliga 4 FHD DE" tvg-logo="http://tugapt.com/picons/skysportbundesliga4hdde.png" group-title="sports",S Sport Bundesliga 4 FHD DE
-http://maxiptv.streamtv.to:8080/NBGkzg9dqf/y2YB5hNopM/4384
-#EXTINF:-1 tvg-name="S Sport Bundesliga 5 FHD DE" tvg-logo="http://tugapt.com/picons/skysportbundesliga5hdde.png" group-title="sports",S Sport Bundesliga 5 FHD DE
-http://maxiptv.streamtv.to:8080/NBGkzg9dqf/y2YB5hNopM/4383
-#EXTINF:-1 tvg-name="S Sport Bundesliga 6 FHD DE" tvg-logo="http://tugapt.com/picons/skysportbundesliga6hdde.png" group-title="sports",S Sport Bundesliga 6 FHD DE
-http://maxiptv.streamtv.to:8080/NBGkzg9dqf/y2YB5hNopM/4382
-#EXTINF:-1 tvg-name="S Sport Bundesliga 7 FHD DE" tvg-logo="http://tugapt.com/picons/skysportbundesliga7hdde.png" group-title="sports",S Sport Bundesliga 7 FHD DE
-http://maxiptv.streamtv.to:8080/NBGkzg9dqf/y2YB5hNopM/4381
-#EXTINF:-1 tvg-name="S Sport Bundesliga 8 FHD DE" tvg-logo="http://tugapt.com/picons/skysportbundesliga8hdde.png" group-title="sports",S Sport Bundesliga 8 FHD DE
-http://maxiptv.streamtv.to:8080/NBGkzg9dqf/y2YB5hNopM/4380
-#EXTINF:-1 tvg-name="S Sport Bundesliga 9 FHD DE" tvg-logo="http://tugapt.com/picons/skysportbundesliga9hdde.png" group-title="sports",S Sport Bundesliga 9 FHD DE
-http://maxiptv.streamtv.to:8080/NBGkzg9dqf/y2YB5hNopM/4379
-#EXTINF:-1 tvg-name="S Sport Bundesliga 10 FHD DE" tvg-logo="http://tugapt.com/picons/skysportbundesliga10hdde.png" group-title="sports",S Sport Bundesliga 10 FHD DE
-http://maxiptv.streamtv.to:8080/NBGkzg9dqf/y2YB5hNopM/4378
-#EXTINF:-1 tvg-name="Sky Sport 4K Ultra DE" tvg-logo="" group-title="sports",Sky Sport 4K Ultra DE
-http://maxiptv.streamtv.to:8080/NBGkzg9dqf/y2YB5hNopM/108527
-#EXTINF:-1 tvg-name="Sky Sport 1 DE" tvg-logo="" group-title="sports",Sky Sport 1 DE
-http://maxiptv.streamtv.to:8080/NBGkzg9dqf/y2YB5hNopM/73835
-#EXTINF:-1 tvg-name="S Sport 1 FHD DE" tvg-logo="http://tugapt.com/picons/skysport1hdde.png" group-title="sports",S Sport 1 FHD DE
-http://maxiptv.streamtv.to:8080/NBGkzg9dqf/y2YB5hNopM/4377
-#EXTINF:-1 tvg-name="Sky Sport 2 DE" tvg-logo="" group-title="sports",Sky Sport 2 DE
-http://maxiptv.streamtv.to:8080/NBGkzg9dqf/y2YB5hNopM/73836
-#EXTINF:-1 tvg-name="Sky Sport 2 FHD DE" tvg-logo="http://tugapt.com/picons/skysport2hdde.png" group-title="sports",Sky Sport 2 FHD DE
-http://maxiptv.streamtv.to:8080/NBGkzg9dqf/y2YB5hNopM/4376
-#EXTINF:-1 tvg-name="Sky Sport 3 FHD DE" tvg-logo="http://tugapt.com/picons/skysport3hdde.png" group-title="sports",Sky Sport 3 FHD DE
-http://maxiptv.streamtv.to:8080/NBGkzg9dqf/y2YB5hNopM/4375
-#EXTINF:-1 tvg-name="Sky Sport 4 FHD DE" tvg-logo="http://tugapt.com/picons/skysport4hdde.png" group-title="sports",Sky Sport 4 FHD DE
-http://maxiptv.streamtv.to:8080/NBGkzg9dqf/y2YB5hNopM/4374
-#EXTINF:-1 tvg-name="S Sport 5 FHD DE" tvg-logo="http://tugapt.com/picons/skysport5hdde.png" group-title="sports",S Sport 5 FHD DE
-http://maxiptv.streamtv.to:8080/NBGkzg9dqf/y2YB5hNopM/4373
-#EXTINF:-1 tvg-name="Sky Sport 6 FHD DE" tvg-logo="http://tugapt.com/picons/skysport6hdde.png" group-title="sports",Sky Sport 6 FHD DE
-http://maxiptv.streamtv.to:8080/NBGkzg9dqf/y2YB5hNopM/4372
-#EXTINF:-1 tvg-name="Sky Sport 7 FHD DE" tvg-logo="http://tugapt.com/picons/skysport7hdde.png" group-title="sports",Sky Sport 7 FHD DE
-http://maxiptv.streamtv.to:8080/NBGkzg9dqf/y2YB5hNopM/4371
-#EXTINF:-1 tvg-name="S Sport 9 FHD DE" tvg-logo="http://tugapt.com/picons/skysport9hdde.png" group-title="sports",S Sport 9 FHD DE
-http://maxiptv.streamtv.to:8080/NBGkzg9dqf/y2YB5hNopM/4369
-#EXTINF:-1 tvg-name="Sky Sport 10 FHD DE" tvg-logo="http://tugapt.com/picons/skysport10hdde.png" group-title="sports",Sky Sport 10 FHD DE
-http://maxiptv.streamtv.to:8080/NBGkzg9dqf/y2YB5hNopM/4368
-#EXTINF:-1 tvg-name="Sky Sport 11 FHD DE" tvg-logo="http://tugapt.com/picons/skysport11hdde.png" group-title="sports",Sky Sport 11 FHD DE
-http://maxiptv.streamtv.to:8080/NBGkzg9dqf/y2YB5hNopM/4367
-#EXTINF:-1 tvg-name="Sky Sport F1 FHD DE" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sky-sport-f1-de.png" group-title="sports",Sky Sport F1 FHD DE
-http://maxiptv.streamtv.to:8080/NBGkzg9dqf/y2YB5hNopM/96730
-#EXTINF:-1 tvg-name="Sky Sport Tennis FHD DE" tvg-logo="" group-title="sports",Sky Sport Tennis FHD DE
-http://maxiptv.streamtv.to:8080/NBGkzg9dqf/y2YB5hNopM/107886
-#EXTINF:-1 tvg-name="Sky Sport Top Event FHD DE" tvg-logo="" group-title="sports",Sky Sport Top Event FHD DE
-http://maxiptv.streamtv.to:8080/NBGkzg9dqf/y2YB5hNopM/107885
-#EXTINF:-1 tvg-name="Sky Sport Premier League FHD DE" tvg-logo="" group-title="sports",Sky Sport Premier League FHD DE
-http://maxiptv.streamtv.to:8080/NBGkzg9dqf/y2YB5hNopM/107884
-#EXTINF:-1 tvg-name="Sky Sport Mix FHD DE" tvg-logo="" group-title="sports",Sky Sport Mix FHD DE
-http://maxiptv.streamtv.to:8080/NBGkzg9dqf/y2YB5hNopM/107883
-#EXTINF:-1 tvg-name="Sky Sport Golf FHD DE" tvg-logo="" group-title="sports",Sky Sport Golf FHD DE
-http://maxiptv.streamtv.to:8080/NBGkzg9dqf/y2YB5hNopM/107882
-#EXTINF:-1 tvg-name="Sky Sport Austria FHD DE" tvg-logo="http://tugapt.com/picons/skysportaustria.png" group-title="sports",Sky Sport Austria FHD DE
-http://maxiptv.streamtv.to:8080/NBGkzg9dqf/y2YB5hNopM/5584
-#EXTINF:-1 tvg-name="Eurosport 1 FHD DE" tvg-logo="http://tugapt.com/picons/eurosport1hd.png" group-title="sports",Eurosport 1 FHD DE
-http://maxiptv.streamtv.to:8080/NBGkzg9dqf/y2YB5hNopM/9345
-#EXTINF:-1 tvg-name="Eurosport 2 FHD DE" tvg-logo="http://tugapt.com/picons/eurosport2hd.png" group-title="sports",Eurosport 2 FHD DE
-http://maxiptv.streamtv.to:8080/NBGkzg9dqf/y2YB5hNopM/9344
-#EXTINF:-1 tvg-name="Sport1 FHD DE" tvg-logo="http://tugapt.com/picons/sport1hdde.png" group-title="sports",Sport1 FHD DE
-http://maxiptv.streamtv.to:8080/NBGkzg9dqf/y2YB5hNopM/9342
-#EXTINF:-1 tvg-name="eSport1 US HD DE" tvg-logo="http://tugapt.com/picons/sport1ushd.png" group-title="sports",eSport1 US HD DE
-http://maxiptv.streamtv.to:8080/NBGkzg9dqf/y2YB5hNopM/9336
-#EXTINF:-1 tvg-name="Sportdigital FHD DE" tvg-logo="http://tugapt.com/picons/sportdigitalhd.png" group-title="sports",Sportdigital FHD DE
-http://maxiptv.streamtv.to:8080/NBGkzg9dqf/y2YB5hNopM/9343
-#EXTINF:-1 tvg-name="Magenta Sport 1 HD [Local] DE" tvg-logo="" group-title="sports",Magenta Sport 1 HD [Local] DE
-http://maxiptv.streamtv.to:8080/NBGkzg9dqf/y2YB5hNopM/105919
-#EXTINF:-1 tvg-name="Magenta Sport 2 HD [Local] DE" tvg-logo="" group-title="sports",Magenta Sport 2 HD [Local] DE
-http://maxiptv.streamtv.to:8080/NBGkzg9dqf/y2YB5hNopM/105918
-#EXTINF:-1 tvg-name="Magenta Sport 3 HD [Local] DE" tvg-logo="" group-title="sports",Magenta Sport 3 HD [Local] DE
-http://maxiptv.streamtv.to:8080/NBGkzg9dqf/y2YB5hNopM/105917
-#EXTINF:-1 tvg-name="Magenta Sport 5 HD [Local] DE" tvg-logo="" group-title="sports",Magenta Sport 5 HD [Local] DE
-http://maxiptv.streamtv.to:8080/NBGkzg9dqf/y2YB5hNopM/105916
-#EXTINF:-1 tvg-name="Magenta Sport 4 HD [Local] DE" tvg-logo="" group-title="sports",Magenta Sport 4 HD [Local] DE
-http://maxiptv.streamtv.to:8080/NBGkzg9dqf/y2YB5hNopM/105915
-#EXTINF:-1 tvg-name="Magenta Sport 6 HD [Local] DE" tvg-logo="" group-title="sports",Magenta Sport 6 HD [Local] DE
-http://maxiptv.streamtv.to:8080/NBGkzg9dqf/y2YB5hNopM/105914
-#EXTINF:-1 tvg-name="Magenta Sport 7 HD [Local] DE" tvg-logo="" group-title="sports",Magenta Sport 7 HD [Local] DE
-http://maxiptv.streamtv.to:8080/NBGkzg9dqf/y2YB5hNopM/105913
-#EXTINF:-1 tvg-name="Magenta Sport 8 HD [Local] DE" tvg-logo="" group-title="sports",Magenta Sport 8 HD [Local] DE
-http://maxiptv.streamtv.to:8080/NBGkzg9dqf/y2YB5hNopM/105912
-#EXTINF:-1 tvg-name="Magenta Sport 9 HD [Local] DE" tvg-logo="" group-title="sports",Magenta Sport 9 HD [Local] DE
-http://maxiptv.streamtv.to:8080/NBGkzg9dqf/y2YB5hNopM/105911
-#EXTINF:-1 tvg-name="Magenta Sport 10 HD [Local] DE" tvg-logo="" group-title="sports",Magenta Sport 10 HD [Local] DE
-http://maxiptv.streamtv.to:8080/NBGkzg9dqf/y2YB5hNopM/105910
-#EXTINF:-1 tvg-name="Magenta Sport 11 HD [Local] DE" tvg-logo="" group-title="sports",Magenta Sport 11 HD [Local] DE
-http://maxiptv.streamtv.to:8080/NBGkzg9dqf/y2YB5hNopM/105909
-#EXTINF:-1 tvg-name="Magenta Sport 12 HD [Local] DE" tvg-logo="" group-title="sports",Magenta Sport 12 HD [Local] DE
-http://maxiptv.streamtv.to:8080/NBGkzg9dqf/y2YB5hNopM/105908
-#EXTINF:-1 tvg-name="Magenta Sport 13 HD [Local] DE" tvg-logo="" group-title="sports",Magenta Sport 13 HD [Local] DE
-http://maxiptv.streamtv.to:8080/NBGkzg9dqf/y2YB5hNopM/105907
-#EXTINF:-1 tvg-name="Magenta Sport 14 HD [Local] DE" tvg-logo="" group-title="sports",Magenta Sport 14 HD [Local] DE
-http://maxiptv.streamtv.to:8080/NBGkzg9dqf/y2YB5hNopM/105906
-#EXTINF:-1 tvg-name="Magenta Sport 15 HD [Local] DE" tvg-logo="" group-title="sports",Magenta Sport 15 HD [Local] DE
-http://maxiptv.streamtv.to:8080/NBGkzg9dqf/y2YB5hNopM/105905
-#EXTINF:-1 tvg-name="Magenta Sport 16 HD [Local] DE" tvg-logo="" group-title="sports",Magenta Sport 16 HD [Local] DE
-http://maxiptv.streamtv.to:8080/NBGkzg9dqf/y2YB5hNopM/105904
-#EXTINF:-1 tvg-name="Magenta Sport 17 HD [Local] DE" tvg-logo="" group-title="sports",Magenta Sport 17 HD [Local] DE
-http://maxiptv.streamtv.to:8080/NBGkzg9dqf/y2YB5hNopM/105903
-#EXTINF:-1 tvg-name="Magenta Sport 18 HD [Local] DE" tvg-logo="" group-title="sports",Magenta Sport 18 HD [Local] DE
-http://maxiptv.streamtv.to:8080/NBGkzg9dqf/y2YB5hNopM/105902
-#EXTINF:-1 tvg-name="Magenta Sport 19 HD [Local] DE" tvg-logo="" group-title="sports",Magenta Sport 19 HD [Local] DE
-http://maxiptv.streamtv.to:8080/NBGkzg9dqf/y2YB5hNopM/105901
-#EXTINF:-1 tvg-name="Magenta Sport 20 HD [Local] DE" tvg-logo="" group-title="sports",Magenta Sport 20 HD [Local] DE
-http://maxiptv.streamtv.to:8080/NBGkzg9dqf/y2YB5hNopM/105900
-#EXTINF:-1 tvg-name="Auto Motor Sport TV HD DE" tvg-logo="" group-title="sports",Auto Motor Sport TV HD DE
-http://maxiptv.streamtv.to:8080/NBGkzg9dqf/y2YB5hNopM/47546
-#EXTINF:-1 tvg-name="Auto Motor und Sport FHD DE" tvg-logo="http://tugapt.com/picons/automotorundsporthd.png" group-title="sports",Auto Motor und Sport FHD DE
-http://maxiptv.streamtv.to:8080/NBGkzg9dqf/y2YB5hNopM/9340
-#EXTINF:-1 tvg-name="Max Sport 2 HD HR" tvg-logo="" group-title="sports",Max Sport 2 HD HR
-http://maxiptv.streamtv.to:8080/NBGkzg9dqf/y2YB5hNopM/108389
-#EXTINF:-1 tvg-name="Max Sport 1 HD HR" tvg-logo="" group-title="sports",Max Sport 1 HD HR
-http://maxiptv.streamtv.to:8080/NBGkzg9dqf/y2YB5hNopM/108388
-#EXTINF:-1 tvg-name="========== Sportski Kanali ==========" tvg-logo="" group-title="sports",========== Sportski Kanali ==========
-http://maxiptv.streamtv.to:8080/NBGkzg9dqf/y2YB5hNopM/12320
-#EXTINF:-1 tvg-name="EuroSport 1 ex-Yu" tvg-logo="http://tugapt.com/picons/eurosport1pt.png" group-title="sports",EuroSport 1 ex-Yu
-http://maxiptv.streamtv.to:8080/NBGkzg9dqf/y2YB5hNopM/594
-#EXTINF:-1 tvg-name="EuroSport 2 ex-Yu" tvg-logo="http://tugapt.com/picons/eurosport2pt.png" group-title="sports",EuroSport 2 ex-Yu
-http://maxiptv.streamtv.to:8080/NBGkzg9dqf/y2YB5hNopM/593
-#EXTINF:-1 tvg-name="Arena Sport 1 Srb ex-Yu" tvg-logo="https://static.epg.best/hr/ArenaSport1.hr.png" group-title="sports",Arena Sport 1 Srb ex-Yu
-http://maxiptv.streamtv.to:8080/NBGkzg9dqf/y2YB5hNopM/2284
-#EXTINF:-1 tvg-name="Arena Sport 2 Srb ex-Yu" tvg-logo="https://static.epg.best/hr/ArenaSport2.hr.png" group-title="sports",Arena Sport 2 Srb ex-Yu
-http://maxiptv.streamtv.to:8080/NBGkzg9dqf/y2YB5hNopM/2283
-#EXTINF:-1 tvg-name="Arena Sport 3 Srb ex-Yu" tvg-logo="https://static.epg.best/hr/ArenaSport3.hr.png" group-title="sports",Arena Sport 3 Srb ex-Yu
-http://maxiptv.streamtv.to:8080/NBGkzg9dqf/y2YB5hNopM/2282
-#EXTINF:-1 tvg-name="Arena Sport 4 Srb ex-Yu" tvg-logo="https://static.epg.best/hr/ArenaSport4.hr.png" group-title="sports",Arena Sport 4 Srb ex-Yu
-http://maxiptv.streamtv.to:8080/NBGkzg9dqf/y2YB5hNopM/2281
-#EXTINF:-1 tvg-name="Arena Sport 5 Srb ex-Yu" tvg-logo="https://static.epg.best/hr/ArenaSport5.hr.png" group-title="sports",Arena Sport 5 Srb ex-Yu
-http://maxiptv.streamtv.to:8080/NBGkzg9dqf/y2YB5hNopM/2280
-#EXTINF:-1 tvg-name="Arena Sport 1 HR HD ex-Yu" tvg-logo="https://static.epg.best/hr/ArenaSport1.hr.png" group-title="sports",Arena Sport 1 HR HD ex-Yu
-http://maxiptv.streamtv.to:8080/NBGkzg9dqf/y2YB5hNopM/589
-#EXTINF:-1 tvg-name="Arena Sport 2 HR HD ex-Yu" tvg-logo="https://static.epg.best/hr/ArenaSport2.hr.png" group-title="sports",Arena Sport 2 HR HD ex-Yu
-http://maxiptv.streamtv.to:8080/NBGkzg9dqf/y2YB5hNopM/588
-#EXTINF:-1 tvg-name="Arena Sport 3 HR HD ex-Yu" tvg-logo="https://static.epg.best/hr/ArenaSport3.hr.png" group-title="sports",Arena Sport 3 HR HD ex-Yu
-http://maxiptv.streamtv.to:8080/NBGkzg9dqf/y2YB5hNopM/587
-#EXTINF:-1 tvg-name="Arena Sport 4 HR HD ex-Yu" tvg-logo="https://static.epg.best/hr/ArenaSport4.hr.png" group-title="sports",Arena Sport 4 HR HD ex-Yu
-http://maxiptv.streamtv.to:8080/NBGkzg9dqf/y2YB5hNopM/586
-#EXTINF:-1 tvg-name="Arena Sport 5 HR HD ex-Yu" tvg-logo="https://static.epg.best/hr/ArenaSport5.hr.png" group-title="sports",Arena Sport 5 HR HD ex-Yu
-http://maxiptv.streamtv.to:8080/NBGkzg9dqf/y2YB5hNopM/585
-#EXTINF:-1 tvg-name="Arena Sport 6 HR ex-Yu" tvg-logo="https://static.epg.best/hr/ArenaSport6.hr.png" group-title="sports",Arena Sport 6 HR ex-Yu
-http://maxiptv.streamtv.to:8080/NBGkzg9dqf/y2YB5hNopM/80963
-#EXTINF:-1 tvg-name="ARENA SPORT 7 (HR) FHD ex-YU" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/4/img/kanali-logo/Arena_Sport_7_HR_logo.png" group-title="sports",ARENA SPORT 7 (HR) FHD ex-YU
-http://maxiptv.streamtv.to:8080/NBGkzg9dqf/y2YB5hNopM/101751
-#EXTINF:-1 tvg-name="ARENA SPORT 8 HR FHD ex-YU" tvg-logo="https://static.epg.best/rs/Arenasport8.rs.png" group-title="sports",ARENA SPORT 8 HR FHD ex-YU
-http://maxiptv.streamtv.to:8080/NBGkzg9dqf/y2YB5hNopM/101752
-#EXTINF:-1 tvg-name="ARENA SPORT 9 HR FHD ex-YU" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/Arena_Sport_9_HR_logo.png" group-title="sports",ARENA SPORT 9 HR FHD ex-YU
-http://maxiptv.streamtv.to:8080/NBGkzg9dqf/y2YB5hNopM/101753
-#EXTINF:-1 tvg-name="ARENA SPORT 10 HR FHD" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/Arena_Sport_10_HR_logo.png" group-title="sports",ARENA SPORT 10 HR FHD
-http://maxiptv.streamtv.to:8080/NBGkzg9dqf/y2YB5hNopM/101754
-#EXTINF:-1 tvg-name="Arena Sport 1x2 HD ex-YU" tvg-logo="" group-title="sports",Arena Sport 1x2 HD ex-YU
-http://maxiptv.streamtv.to:8080/NBGkzg9dqf/y2YB5hNopM/127975
-#EXTINF:-1 tvg-name="Arena Sport 1 SR Premium HD ex-YU" tvg-logo="" group-title="sports",Arena Sport 1 SR Premium HD ex-YU
-http://maxiptv.streamtv.to:8080/NBGkzg9dqf/y2YB5hNopM/127974
-#EXTINF:-1 tvg-name="Arena Sport 1 SR Premium ex-YU" tvg-logo="" group-title="sports",Arena Sport 1 SR Premium ex-YU
-http://maxiptv.streamtv.to:8080/NBGkzg9dqf/y2YB5hNopM/127973
-#EXTINF:-1 tvg-name="Arena Sport 2 SR Premium HD ex-YU" tvg-logo="" group-title="sports",Arena Sport 2 SR Premium HD ex-YU
-http://maxiptv.streamtv.to:8080/NBGkzg9dqf/y2YB5hNopM/127972
-#EXTINF:-1 tvg-name="Arena Sport 3 SR Premium HD ex-YU" tvg-logo="" group-title="sports",Arena Sport 3 SR Premium HD ex-YU
-http://maxiptv.streamtv.to:8080/NBGkzg9dqf/y2YB5hNopM/127971
-#EXTINF:-1 tvg-name="Sport Klub 1 SRB ex-Yu" tvg-logo="https://static.epg.best/hr/SportKlub1.hr.png" group-title="sports",Sport Klub 1 SRB ex-Yu
-http://maxiptv.streamtv.to:8080/NBGkzg9dqf/y2YB5hNopM/592
-#EXTINF:-1 tvg-name="Sport Klub HD 1 Srb ex-Yu" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/sk_1.png" group-title="sports",Sport Klub HD 1 Srb ex-Yu
-http://maxiptv.streamtv.to:8080/NBGkzg9dqf/y2YB5hNopM/2279
-#EXTINF:-1 tvg-name="Sport Klub 2 SRB ex-Yu" tvg-logo="https://static.epg.best/hr/SportKlub2.hr.png" group-title="sports",Sport Klub 2 SRB ex-Yu
-http://maxiptv.streamtv.to:8080/NBGkzg9dqf/y2YB5hNopM/591
-#EXTINF:-1 tvg-name="Sport Klub HD 2 Srb ex-Yu" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/sk_2.png" group-title="sports",Sport Klub HD 2 Srb ex-Yu
-http://maxiptv.streamtv.to:8080/NBGkzg9dqf/y2YB5hNopM/2278
-#EXTINF:-1 tvg-name="Sport Klub 3 SRB ex-Yu" tvg-logo="https://static.epg.best/hr/SportKlub3.hr.png" group-title="sports",Sport Klub 3 SRB ex-Yu
-http://maxiptv.streamtv.to:8080/NBGkzg9dqf/y2YB5hNopM/590
-#EXTINF:-1 tvg-name="Sport Klub HD 3 Srb ex-Yu" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/sk_3.png" group-title="sports",Sport Klub HD 3 Srb ex-Yu
-http://maxiptv.streamtv.to:8080/NBGkzg9dqf/y2YB5hNopM/2277
-#EXTINF:-1 tvg-name="Sport Klub 4 SR ex-Yu" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/sk_4.png" group-title="sports",Sport Klub 4 SR ex-Yu
-http://maxiptv.streamtv.to:8080/NBGkzg9dqf/y2YB5hNopM/1173
-#EXTINF:-1 tvg-name="Sport Klub 5 SR ex-Yu" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/sk_5.png" group-title="sports",Sport Klub 5 SR ex-Yu
-http://maxiptv.streamtv.to:8080/NBGkzg9dqf/y2YB5hNopM/1172
-#EXTINF:-1 tvg-name="Sport Klub 6 SR ex-Yu" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/sk_6.png" group-title="sports",Sport Klub 6 SR ex-Yu
-http://maxiptv.streamtv.to:8080/NBGkzg9dqf/y2YB5hNopM/1171
-#EXTINF:-1 tvg-name="Nova Sport HD SRB ex-YU" tvg-logo="https://static.epg.best/rs/Nova.rs.png" group-title="sports",Nova Sport HD SRB ex-YU
-http://maxiptv.streamtv.to:8080/NBGkzg9dqf/y2YB5hNopM/79722
-#EXTINF:-1 tvg-name="Arena Sport 1 Srb FHD ex-Yu" tvg-logo="https://static.epg.best/rs/Arenasport1.rs.png" group-title="sports",Arena Sport 1 Srb FHD ex-Yu
-http://maxiptv.streamtv.to:8080/NBGkzg9dqf/y2YB5hNopM/79821
-#EXTINF:-1 tvg-name="Arena Sport 2 Srb FHD ex-Yu" tvg-logo="https://static.epg.best/rs/Arenasport2.rs.png" group-title="sports",Arena Sport 2 Srb FHD ex-Yu
-http://maxiptv.streamtv.to:8080/NBGkzg9dqf/y2YB5hNopM/79822
-#EXTINF:-1 tvg-name="Arena Sport 3 Srb FHD ex-Yu" tvg-logo="https://static.epg.best/rs/Arenasport3.rs.png" group-title="sports",Arena Sport 3 Srb FHD ex-Yu
-http://maxiptv.streamtv.to:8080/NBGkzg9dqf/y2YB5hNopM/79823
-#EXTINF:-1 tvg-name="Arena Sport 4 Srb FHD ex-Yu" tvg-logo="https://static.epg.best/rs/Arenasport4.rs.png" group-title="sports",Arena Sport 4 Srb FHD ex-Yu
-http://maxiptv.streamtv.to:8080/NBGkzg9dqf/y2YB5hNopM/79824
-#EXTINF:-1 tvg-name="Arena Sport 5 Srb FHD ex-Yu" tvg-logo="https://static.epg.best/rs/Arenasport5.rs.png" group-title="sports",Arena Sport 5 Srb FHD ex-Yu
-http://maxiptv.streamtv.to:8080/NBGkzg9dqf/y2YB5hNopM/79825
-#EXTINF:-1 tvg-name="Moja TV Sport HD VIP ex-Yu" tvg-logo="https://www.bhtelecom.ba/wp-content/uploads/2020/10/Moja_tv_logo_02.jpg" group-title="sports",Moja TV Sport HD VIP ex-Yu
-http://maxiptv.streamtv.to:8080/NBGkzg9dqf/y2YB5hNopM/67260
-#EXTINF:-1 tvg-name="Sport Klub 1 HD VIP ex-Yu" tvg-logo="https://static.epg.best/hr/SportKlub1.hr.png" group-title="sports",Sport Klub 1 HD VIP ex-Yu
-http://maxiptv.streamtv.to:8080/NBGkzg9dqf/y2YB5hNopM/13966
-#EXTINF:-1 tvg-name="Sport Klub 1 FHD VIP ex-Yu" tvg-logo="https://static.epg.best/hr/SportKlub1.hr.png" group-title="sports",Sport Klub 1 FHD VIP ex-Yu
-http://maxiptv.streamtv.to:8080/NBGkzg9dqf/y2YB5hNopM/10900
-#EXTINF:-1 tvg-name="Sport Klub 2 HD VIP ex-Yu" tvg-logo="https://static.epg.best/hr/SportKlub2.hr.png" group-title="sports",Sport Klub 2 HD VIP ex-Yu
-http://maxiptv.streamtv.to:8080/NBGkzg9dqf/y2YB5hNopM/10896
-#EXTINF:-1 tvg-name="Sport Klub 2 FHD SRB/HRV/SLO VIP ex-Yu" tvg-logo="https://static.epg.best/hr/SportKlub2.hr.png" group-title="sports",Sport Klub 2 FHD SRB/HRV/SLO VIP ex-Yu
-http://maxiptv.streamtv.to:8080/NBGkzg9dqf/y2YB5hNopM/10884
-#EXTINF:-1 tvg-name="Sport Klub 3 HD VIP ex-Yu" tvg-logo="https://static.epg.best/hr/SportKlub3.hr.png" group-title="sports",Sport Klub 3 HD VIP ex-Yu
-http://maxiptv.streamtv.to:8080/NBGkzg9dqf/y2YB5hNopM/10897
-#EXTINF:-1 tvg-name="Sport Klub 3 FHD SRB/HRV/SLO VIP ex-Yu" tvg-logo="https://static.epg.best/hr/SportKlub3.hr.png" group-title="sports",Sport Klub 3 FHD SRB/HRV/SLO VIP ex-Yu
-http://maxiptv.streamtv.to:8080/NBGkzg9dqf/y2YB5hNopM/10883
-#EXTINF:-1 tvg-name="Sport Klub 7 ex-Yu" tvg-logo="https://static.epg.best/rs/SportKlub9.rs.png" group-title="sports",Sport Klub 7 ex-Yu
-http://maxiptv.streamtv.to:8080/NBGkzg9dqf/y2YB5hNopM/80959
-#EXTINF:-1 tvg-name="Sport Klub 8 ex-Yu" tvg-logo="https://static.epg.best/rs/SportKlub9.rs.png" group-title="sports",Sport Klub 8 ex-Yu
-http://maxiptv.streamtv.to:8080/NBGkzg9dqf/y2YB5hNopM/80960
-#EXTINF:-1 tvg-name="Sport Klub 9 ex-Yu" tvg-logo="https://static.epg.best/rs/SportKlub9.rs.png" group-title="sports",Sport Klub 9 ex-Yu
-http://maxiptv.streamtv.to:8080/NBGkzg9dqf/y2YB5hNopM/80961
-#EXTINF:-1 tvg-name="Sport Klub 10 ex-Yu" tvg-logo="https://static.epg.best/rs/SportKlub10.rs.png" group-title="sports",Sport Klub 10 ex-Yu
-http://maxiptv.streamtv.to:8080/NBGkzg9dqf/y2YB5hNopM/80962
-#EXTINF:-1 tvg-name="Trace Sport Stars FHD VIP ex-Yu" tvg-logo="https://static.epg.best/gb/TraceSportStars.uk.png" group-title="sports",Trace Sport Stars FHD VIP ex-Yu
-http://maxiptv.streamtv.to:8080/NBGkzg9dqf/y2YB5hNopM/10911
-#EXTINF:-1 tvg-name="Premier Sport 2 HD Ex-Yu" tvg-logo="" group-title="sports",Premier Sport 2 HD Ex-Yu
-http://maxiptv.streamtv.to:8080/NBGkzg9dqf/y2YB5hNopM/122472
-#EXTINF:-1 tvg-name="Sport Klub HD VIP ex-Yu" tvg-logo="" group-title="sports",Sport Klub HD VIP ex-Yu
-http://maxiptv.streamtv.to:8080/NBGkzg9dqf/y2YB5hNopM/104838
+#EXTINF:-1 tvg-name="SPORTSKA TELEVIZIJA HD" tvg-logo="http://l2.mediaking.fi:8080/logoi/sportskatv.png" group-title="sports",SPORTSKA TELEVIZIJA HD
+http://serv2.mediaking.fi:8080/live/ninomk@gmail.com/aftermath/20864.ts
+#EXTINF:-1 tvg-name="ARENA PREMIUM 1" tvg-logo="http://144.76.182.124/exyulogo/arenap1.png" group-title="sports",ARENA PREMIUM 1
+http://serv2.mediaking.fi:8080/live/ninomk@gmail.com/aftermath/4095.ts
+#EXTINF:-1 tvg-name="ARENA PREMIUM 1 (Ultra HD)" tvg-logo="http://144.76.182.124/exyulogo/arenap1.png" group-title="sports",ARENA PREMIUM 1 (Ultra HD)
+http://serv2.mediaking.fi:8080/live/ninomk@gmail.com/aftermath/30270.ts
+#EXTINF:-1 tvg-name="ARENA PREMIUM 2" tvg-logo="http://144.76.182.124/exyulogo/arenap2.png" group-title="sports",ARENA PREMIUM 2
+http://serv2.mediaking.fi:8080/live/ninomk@gmail.com/aftermath/4096.ts
+#EXTINF:-1 tvg-name="ARENA PREMIUM 2 (Ultra HD)" tvg-logo="http://144.76.182.124/exyulogo/arenap2.png" group-title="sports",ARENA PREMIUM 2 (Ultra HD)
+http://serv2.mediaking.fi:8080/live/ninomk@gmail.com/aftermath/31677.ts
+#EXTINF:-1 tvg-name="ARENA PREMIUM 3" tvg-logo="http://144.76.182.124/exyulogo/arenap3.png" group-title="sports",ARENA PREMIUM 3
+http://serv2.mediaking.fi:8080/live/ninomk@gmail.com/aftermath/4097.ts
+#EXTINF:-1 tvg-name="ARENA PREMIUM 3 (Ultra HD)" tvg-logo="http://144.76.182.124/exyulogo/arenap3.png" group-title="sports",ARENA PREMIUM 3 (Ultra HD)
+http://serv2.mediaking.fi:8080/live/ninomk@gmail.com/aftermath/41348.ts
+#EXTINF:-1 tvg-name="ARENA PREMIUM 4" tvg-logo="" group-title="sports",ARENA PREMIUM 4
+http://serv2.mediaking.fi:8080/live/ninomk@gmail.com/aftermath/42444.ts
+#EXTINF:-1 tvg-name="ARENA PREMIUM 5" tvg-logo="" group-title="sports",ARENA PREMIUM 5
+http://serv2.mediaking.fi:8080/live/ninomk@gmail.com/aftermath/42445.ts
+#EXTINF:-1 tvg-name="ARENA SPORT 1" tvg-logo="http://l2.mediaking.fi:8080/logoi/arenars1.png" group-title="sports",ARENA SPORT 1
+http://serv2.mediaking.fi:8080/live/ninomk@gmail.com/aftermath/10.ts
+#EXTINF:-1 tvg-name="ARENA SPORT 1 (Ultra HD)" tvg-logo="" group-title="sports",ARENA SPORT 1 (Ultra HD)
+http://serv2.mediaking.fi:8080/live/ninomk@gmail.com/aftermath/41345.ts
+#EXTINF:-1 tvg-name="ARENA SPORT 2" tvg-logo="http://l2.mediaking.fi:8080/logoi/arenars2.png" group-title="sports",ARENA SPORT 2
+http://serv2.mediaking.fi:8080/live/ninomk@gmail.com/aftermath/9.ts
+#EXTINF:-1 tvg-name="ARENA SPORT 2 (Ultra HD)" tvg-logo="" group-title="sports",ARENA SPORT 2 (Ultra HD)
+http://serv2.mediaking.fi:8080/live/ninomk@gmail.com/aftermath/41346.ts
+#EXTINF:-1 tvg-name="ARENA SPORT 3" tvg-logo="http://l2.mediaking.fi:8080/logoi/arenars3.png" group-title="sports",ARENA SPORT 3
+http://serv2.mediaking.fi:8080/live/ninomk@gmail.com/aftermath/8.ts
+#EXTINF:-1 tvg-name="ARENA SPORT 4" tvg-logo="http://l2.mediaking.fi:8080/logoi/arenars4.png" group-title="sports",ARENA SPORT 4
+http://serv2.mediaking.fi:8080/live/ninomk@gmail.com/aftermath/7.ts
+#EXTINF:-1 tvg-name="ARENA SPORT 5" tvg-logo="http://l2.mediaking.fi:8080/logoi/arenars5.png" group-title="sports",ARENA SPORT 5
+http://serv2.mediaking.fi:8080/live/ninomk@gmail.com/aftermath/6.ts
+#EXTINF:-1 tvg-name="SPORT KLUB 1" tvg-logo="" group-title="sports",SPORT KLUB 1
+http://serv2.mediaking.fi:8080/live/ninomk@gmail.com/aftermath/41340.ts
+#EXTINF:-1 tvg-name="SPORT KLUB 2" tvg-logo="" group-title="sports",SPORT KLUB 2
+http://serv2.mediaking.fi:8080/live/ninomk@gmail.com/aftermath/41341.ts
+#EXTINF:-1 tvg-name="SPORT KLUB 3" tvg-logo="" group-title="sports",SPORT KLUB 3
+http://serv2.mediaking.fi:8080/live/ninomk@gmail.com/aftermath/41342.ts
+#EXTINF:-1 tvg-name="SPORT KLUB 4" tvg-logo="" group-title="sports",SPORT KLUB 4
+http://serv2.mediaking.fi:8080/live/ninomk@gmail.com/aftermath/41343.ts
+#EXTINF:-1 tvg-name="ARENA SPORT 1 HR" tvg-logo="http://l2.mediaking.fi:8080/logoi/arenahr1.png" group-title="sports",ARENA SPORT 1 HR
+http://serv2.mediaking.fi:8080/live/ninomk@gmail.com/aftermath/11.ts
+#EXTINF:-1 tvg-name="ARENA SPORT 2 HR" tvg-logo="http://l2.mediaking.fi:8080/logoi/arenahr2.png" group-title="sports",ARENA SPORT 2 HR
+http://serv2.mediaking.fi:8080/live/ninomk@gmail.com/aftermath/522.ts
+#EXTINF:-1 tvg-name="ARENA SPORT 3 HR" tvg-logo="http://l2.mediaking.fi:8080/logoi/arenahr3.png" group-title="sports",ARENA SPORT 3 HR
+http://serv2.mediaking.fi:8080/live/ninomk@gmail.com/aftermath/523.ts
+#EXTINF:-1 tvg-name="ARENA SPORT 4 HR" tvg-logo="http://l2.mediaking.fi:8080/logoi/arenahr4.png" group-title="sports",ARENA SPORT 4 HR
+http://serv2.mediaking.fi:8080/live/ninomk@gmail.com/aftermath/524.ts
+#EXTINF:-1 tvg-name="ARENA SPORT 5 HR" tvg-logo="http://l2.mediaking.fi:8080/logoi/arenahr5.png" group-title="sports",ARENA SPORT 5 HR
+http://serv2.mediaking.fi:8080/live/ninomk@gmail.com/aftermath/525.ts
+#EXTINF:-1 tvg-name="ARENA SPORT 6 HR" tvg-logo="http://l2.mediaking.fi:8080/logoi/as6hr.png" group-title="sports",ARENA SPORT 6 HR
+http://serv2.mediaking.fi:8080/live/ninomk@gmail.com/aftermath/2940.ts
+#EXTINF:-1 tvg-name="ARENA SPORT 7 HR" tvg-logo="http://l2.mediaking.fi:8080/logoi/arenahr7.png" group-title="sports",ARENA SPORT 7 HR
+http://serv2.mediaking.fi:8080/live/ninomk@gmail.com/aftermath/3773.ts
+#EXTINF:-1 tvg-name="ARENA SPORT 8 HR" tvg-logo="http://l2.mediaking.fi:8080/logoi/arenahr8.png" group-title="sports",ARENA SPORT 8 HR
+http://serv2.mediaking.fi:8080/live/ninomk@gmail.com/aftermath/3774.ts
+#EXTINF:-1 tvg-name="ARENA SPORT 9 HR" tvg-logo="http://l2.mediaking.fi:8080/logoi/arenahr9.png" group-title="sports",ARENA SPORT 9 HR
+http://serv2.mediaking.fi:8080/live/ninomk@gmail.com/aftermath/3775.ts
+#EXTINF:-1 tvg-name="ARENA SPORT 10 HR" tvg-logo="http://l2.mediaking.fi:8080/logoi/arenahr10.png" group-title="sports",ARENA SPORT 10 HR
+http://serv2.mediaking.fi:8080/live/ninomk@gmail.com/aftermath/3776.ts
+#EXTINF:-1 tvg-name="EUROSPORT 1" tvg-logo="http://l2.mediaking.fi:8080/logoi/eurosport1.png" group-title="sports",EUROSPORT 1
+http://serv2.mediaking.fi:8080/live/ninomk@gmail.com/aftermath/4.ts
+#EXTINF:-1 tvg-name="EUROSPORT 1 (Ultra HD)" tvg-logo="http://l2.mediaking.fi:8080/logoi/eurosport1.png" group-title="sports",EUROSPORT 1 (Ultra HD)
+http://serv2.mediaking.fi:8080/live/ninomk@gmail.com/aftermath/44067.ts
+#EXTINF:-1 tvg-name="EUROSPORT 2" tvg-logo="https://layout.eurosport.com/i/v8_5/logo/epg/e2_new.png" group-title="sports",EUROSPORT 2
+http://client.nodomain.vip/27nihadcelic/QXv5CCzkiE/129
+#EXTINF:-1 tvg-name="ARENA SPORT FIGHT" tvg-logo="http://144.76.182.124/exyulogo/arenafight.png" group-title="sports",ARENA SPORT FIGHT
+http://serv2.mediaking.fi:8080/live/ninomk@gmail.com/aftermath/3899.ts
+#EXTINF:-1 tvg-name="NOVA SPORT" tvg-logo="http://l2.mediaking.fi:8080/logoi/novasport.png" group-title="sports",NOVA SPORT
+http://serv2.mediaking.fi:8080/live/ninomk@gmail.com/aftermath/1513.ts
+#EXTINF:-1 tvg-name="FIGHT NETWORK" tvg-logo="http://l2.mediaking.fi:8080/logoi/fightnetwork.png" group-title="sports",FIGHT NETWORK
+http://serv2.mediaking.fi:8080/live/ninomk@gmail.com/aftermath/3.ts
+#EXTINF:-1 tvg-name="ZVEZDA TV" tvg-logo="https://mojasupernova.rs/oec/images/tv_channels/5038738d7685ccde5ba527266b9caa05.png" group-title="sports",ZVEZDA TV
+http://client.nodomain.vip/27nihadcelic/QXv5CCzkiE/1888
+#EXTINF:-1 tvg-name="PARTIZAN TV" tvg-logo="http://185.32.222.175:8080/logo/Partizan-TV1.png" group-title="sports",PARTIZAN TV
+http://serv2.mediaking.fi:8080/live/ninomk@gmail.com/aftermath/3472.ts
+#EXTINF:-1 tvg-name="ARENA PREMIUM 1 BH" tvg-logo="http://l2.mediaking.fi:8080/logoi/arenapremium1bh.png" group-title="sports",ARENA PREMIUM 1 BH
+http://serv2.mediaking.fi:8080/live/ninomk@gmail.com/aftermath/29952.ts
+#EXTINF:-1 tvg-name="ARENA PREMIUM 2 BH" tvg-logo="http://l2.mediaking.fi:8080/logoi/arenapremium2bh.png" group-title="sports",ARENA PREMIUM 2 BH
+http://serv2.mediaking.fi:8080/live/ninomk@gmail.com/aftermath/29953.ts
+#EXTINF:-1 tvg-name="ARENA PREMIUM 3 BH" tvg-logo="http://l2.mediaking.fi:8080/logoi/arenapremium3bh.png" group-title="sports",ARENA PREMIUM 3 BH
+http://serv2.mediaking.fi:8080/live/ninomk@gmail.com/aftermath/29954.ts
+#EXTINF:-1 tvg-name="ARENA PREMIUM 1 - SD" tvg-logo="http://144.76.182.124/exyulogo/arenap1.png" group-title="sports",ARENA PREMIUM 1 - SD
+http://serv2.mediaking.fi:8080/live/ninomk@gmail.com/aftermath/15708.ts
+#EXTINF:-1 tvg-name="ARENA PREMIUM 2 - SD" tvg-logo="http://144.76.182.124/exyulogo/arenap2.png" group-title="sports",ARENA PREMIUM 2 - SD
+http://serv2.mediaking.fi:8080/live/ninomk@gmail.com/aftermath/15709.ts
+#EXTINF:-1 tvg-name="ARENA SPORT 1 - SD" tvg-logo="http://l2.mediaking.fi:8080/logoi/arenars1.png" group-title="sports",ARENA SPORT 1 - SD
+http://serv2.mediaking.fi:8080/live/ninomk@gmail.com/aftermath/19384.ts
+#EXTINF:-1 tvg-name="ARENA SPORT 2 - SD" tvg-logo="http://l2.mediaking.fi:8080/logoi/arenars2.png" group-title="sports",ARENA SPORT 2 - SD
+http://serv2.mediaking.fi:8080/live/ninomk@gmail.com/aftermath/19385.ts

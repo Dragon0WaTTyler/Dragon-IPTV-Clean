@@ -1,12 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="EuroNews" tvg-logo="http://sarkor.tv/static/images/channels/EuroNews.png" group-title="news",EuroNews
-https://s04.watcher.uz/16/video.m3u8
-#EXTINF:-1 tvg-name="France24HD" tvg-logo="http://sarkor.tv/static/images/channels/France24HD.png" group-title="news",France24HD
-https://s03.watcher.uz/89/video.m3u8
-#EXTINF:-1 tvg-name="CNN" tvg-logo="http://sarkor.tv/static/images/channels/CNN.png" group-title="news",CNN
-https://watcher.uz/90/video.m3u8
-#EXTINF:-1 tvg-name="BBC WN" tvg-logo="http://sarkor.tv/static/images/channels/BBC WN.png" group-title="news",BBC WN
-https://watcher.uz/104/video.m3u8
 #EXTINF:-1 tvg-name="NEWSMAX BALKAN" tvg-logo="" group-title="news",NEWSMAX BALKAN
 http://p2.topten70.net/marko/marko/867
 #EXTINF:-1 tvg-name="EURONEWS SRBIJA" tvg-logo="" group-title="news",EURONEWS SRBIJA
@@ -17,19 +9,5 @@ http://p2.topten70.net/marko/marko/864
 http://p2.topten70.net/marko/marko/865
 #EXTINF:-1 tvg-name="News of the World (2020) (2020)" tvg-logo="http://tztv.topten70.net:29001/movie_covers/cover-4640.jpg" group-title="news",News of the World (2020) (2020)
 http://46.4.79.240/movie/marko/marko/4640.mp4
-#EXTINF:-1 tvg-name="Sky Sport News DE" tvg-logo="http://tugapt.com/picons/skysportnewsde.png" group-title="news",Sky Sport News DE
-http://maxiptv.streamtv.to:8080/NBGkzg9dqf/y2YB5hNopM/24381
-#EXTINF:-1 tvg-name="Sky Sport News HD DE" tvg-logo="http://tugapt.com/picons/skysportnewshdde.png" group-title="news",Sky Sport News HD DE
-http://maxiptv.streamtv.to:8080/NBGkzg9dqf/y2YB5hNopM/1315
-#EXTINF:-1 tvg-name="Euronews DE" tvg-logo="http://tugapt.com/picons/euronews.png" group-title="news",Euronews DE
-http://maxiptv.streamtv.to:8080/NBGkzg9dqf/y2YB5hNopM/9305
-#EXTINF:-1 tvg-name="Euronews SRB ex-Yu" tvg-logo="" group-title="news",Euronews SRB ex-Yu
-http://maxiptv.streamtv.to:8080/NBGkzg9dqf/y2YB5hNopM/117167
-#EXTINF:-1 tvg-name="BBC FIRST HD ex-Yu" tvg-logo="" group-title="news",BBC FIRST HD ex-Yu
-http://maxiptv.streamtv.to:8080/NBGkzg9dqf/y2YB5hNopM/127847
-#EXTINF:-1 tvg-name="Al Jazeera Balkans ex-Yu" tvg-logo="https://static.epg.best/ba/AlJazeeraBalkans.ba.png" group-title="news",Al Jazeera Balkans ex-Yu
-http://maxiptv.streamtv.to:8080/NBGkzg9dqf/y2YB5hNopM/2331
-#EXTINF:-1 tvg-name="BBC Earth ex-YU" tvg-logo="" group-title="news",BBC Earth ex-YU
-http://maxiptv.streamtv.to:8080/NBGkzg9dqf/y2YB5hNopM/104445
-#EXTINF:-1 tvg-name="A1 Al Jazeera Balkans HD ex-Yu" tvg-logo="https://static.epg.best/ba/AlJazeeraBalkans.ba.png" group-title="news",A1 Al Jazeera Balkans HD ex-Yu
-http://maxiptv.streamtv.to:8080/NBGkzg9dqf/y2YB5hNopM/6926
+#EXTINF:-1 tvg-name="AL JAZEERA" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/al_jazeera_balkans.jpg" group-title="news",AL JAZEERA
+http://client.nodomain.vip/27nihadcelic/QXv5CCzkiE/117

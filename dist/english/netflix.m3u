@@ -1,66 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Amedia 1" tvg-logo="" group-title="netflix",Amedia 1
-http://46.32.176.50/amedia1/index.m3u8
-#EXTINF:-1 tvg-name="BCU Kinorating HD" tvg-logo="" group-title="netflix",BCU Kinorating HD
-http://hls127.freeott.top:8080/BCUKinoratingHD/mono.m3u8
-#EXTINF:-1 tvg-name="CPS Action" tvg-logo="" group-title="netflix",CPS Action
-http://hls127.freeott.top:8080/CPS_Action/mono.m3u8
-#EXTINF:-1 tvg-name="CPS Comedy" tvg-logo="" group-title="netflix",CPS Comedy
-http://hls127.freeott.top:8080/CPS_Comedy/mono.m3u8
-#EXTINF:-1 tvg-name="TV 1000 Action" tvg-logo="" group-title="netflix",TV 1000 Action
-http://46.32.176.50/tv1000action/index.m3u8
-#EXTINF:-1 tvg-name="VIP Megahit HD" tvg-logo="" group-title="netflix",VIP Megahit HD
-http://46.32.176.50/VIPMegahitHD/index.m3u8
-#EXTINF:-1 tvg-name="VIP Premiere HD" tvg-logo="" group-title="netflix",VIP Premiere HD
-http://46.32.176.50/VIPPremiereHD/index.m3u8
-#EXTINF:-1 tvg-name="VIP Comedy HD" tvg-logo="" group-title="netflix",VIP Comedy HD
-http://46.32.176.50/VIPComedyHD/index.m3u8
-#EXTINF:-1 tvg-name="VIP Serial HD" tvg-logo="" group-title="netflix",VIP Serial HD
-http://46.32.176.50/ViasatSportHD/index.m3u8
-#EXTINF:-1 tvg-name="Amedia 2" tvg-logo="" group-title="netflix",Amedia 2
-http://46.32.176.50/amedia2/index.m3u8
-#EXTINF:-1 tvg-name="Amedia Hit" tvg-logo="" group-title="netflix",Amedia Hit
-http://46.32.176.50/amediahit/index.m3u8
-#EXTINF:-1 tvg-name="Amedia Premium" tvg-logo="" group-title="netflix",Amedia Premium
-http://46.32.176.50/AmediaPremium/index.m3u8
-#EXTINF:-1 tvg-name="Amedia Premium HD" tvg-logo="" group-title="netflix",Amedia Premium HD
-http://46.32.176.50/AmediaPremiumHD/index.m3u8
-#EXTINF:-1 tvg-name="Dom kino" tvg-logo="" group-title="netflix",Dom kino
-http://176.118.197.101/Dom_kino/mono.m3u8
-#EXTINF:-1 tvg-name="Kinokomediya" tvg-logo="" group-title="netflix",Kinokomediya
-http://176.118.197.101/Kinokomediya/mono.m3u8
-#EXTINF:-1 tvg-name="Kinopokaz" tvg-logo="" group-title="netflix",Kinopokaz
-http://176.118.197.101/Kinopokaz/mono.m3u8
-#EXTINF:-1 tvg-name="Kinomix" tvg-logo="" group-title="netflix",Kinomix
-http://176.118.197.101/Kinomix/mono.m3u8
-#EXTINF:-1 tvg-name="Kinoseria" tvg-logo="" group-title="netflix",Kinoseria
-http://176.118.197.101/Kinoseria/mono.m3u8
-#EXTINF:-1 tvg-name="LubimoeKino" tvg-logo="" group-title="netflix",LubimoeKino
-http://176.118.197.101/LubimoeKino/mono.m3u8
-#EXTINF:-1 tvg-name="Cinema" tvg-logo="" group-title="netflix",Cinema
-http://176.118.197.101/Cinema/index.m3u8
-#EXTINF:-1 tvg-name="Evrokino" tvg-logo="" group-title="netflix",Evrokino
-http://176.118.197.101/Evrokino/mono.m3u8
-#EXTINF:-1 tvg-name="eurokino" tvg-logo="" group-title="netflix",eurokino
-http://178.134.1.158:8081/eurokino/index.m3u8
-#EXTINF:-1 tvg-name="mosfilm" tvg-logo="" group-title="netflix",mosfilm
-http://178.134.1.158:8081/mosfilm/index.m3u8
-#EXTINF:-1 tvg-name="tv1000action" tvg-logo="" group-title="netflix",tv1000action
-http://178.134.1.158:8081/tv1000action/index.m3u8
-#EXTINF:-1 tvg-name="tv1000" tvg-logo="" group-title="netflix",tv1000
-http://178.134.1.158:8081/tv1000/index.m3u8
-#EXTINF:-1 tvg-name="Kinoteatr HD" tvg-logo="http://sarkor.tv/static/images/channels/Kinoteatr HD.png" group-title="netflix",Kinoteatr HD
-https://s03.watcher.uz/83/video.m3u8
-#EXTINF:-1 tvg-name="Cinema SD" tvg-logo="http://sarkor.tv/static/images/channels/Cinema SD.png" group-title="netflix",Cinema SD
-https://s06.watcher.uz/155/video.m3u8
-#EXTINF:-1 tvg-name="Biz Cinema" tvg-logo="http://sarkor.tv/static/images/channels/Biz Cinema.png" group-title="netflix",Biz Cinema
-https://s07.watcher.uz/184/video.m3u8
-#EXTINF:-1 tvg-name="FILMBOX" tvg-logo="" group-title="netflix",FILMBOX
-http://api.peers.tv/timeshift/filmbox/16/playlist.m3u8?offset=10
-#EXTINF:-1 tvg-name="Filmbox Arthouse" tvg-logo="" group-title="netflix",Filmbox Arthouse
-http://api.peers.tv/timeshift/filmbox_arthouse/16/playlist.m3u8?offset=10
-#EXTINF:-1 tvg-name="TV1000 Action" tvg-logo="" group-title="netflix",TV1000 Action
-http://api.peers.tv/timeshift/tv1000_action/16/playlist.m3u8?offset=10
 #EXTINF:-1 tvg-name="DOMA TV" tvg-logo="" group-title="netflix",DOMA TV
 http://p2.topten70.net/marko/marko/52
 #EXTINF:-1 tvg-name="NOVA SERIES" tvg-logo="" group-title="netflix",NOVA SERIES
@@ -245,7 +183,7 @@ http://46.4.79.240/movie/marko/marko/1950.mp4
 http://46.4.79.240/movie/marko/marko/1948.mp4
 #EXTINF:-1 tvg-name="Crater (2023) (2023)" tvg-logo="http://tztv.topten70.net:29001/movie_covers/cover-1958.jpg" group-title="netflix",Crater (2023) (2023)
 http://46.4.79.240/movie/marko/marko/1958.mp4
-#EXTINF:-1 tvg-name="Creed III 2023 (2023)" tvg-logo="http://image.tmdb.org/t/p/w154/cvsXj3I9Q2iyyIo95AecSd1tad7.jpg" group-title="netflix",Creed III 2023 (2023)
+#EXTINF:-1 tvg-name="Creed III (2023) (2023)" tvg-logo="http://tztv.topten70.net:29001/movie_covers/cover-1959.jpg" group-title="netflix",Creed III (2023) (2023)
 http://46.4.79.240/movie/marko/marko/1959.mp4
 #EXTINF:-1 tvg-name="Disquiet (2023) (2023)" tvg-logo="http://tztv.topten70.net:29001/movie_covers/cover-1952.jpg" group-title="netflix",Disquiet (2023) (2023)
 http://46.4.79.240/movie/marko/marko/1952.mp4
@@ -261,7 +199,7 @@ http://46.4.79.240/movie/marko/marko/1963.mp4
 http://46.4.79.240/movie/marko/marko/1964.mp4
 #EXTINF:-1 tvg-name="Gran Turismo (2023) (2023)" tvg-logo="http://tztv.topten70.net:29001/movie_covers/cover-1965.jpg" group-title="netflix",Gran Turismo (2023) (2023)
 http://46.4.79.240/movie/marko/marko/1965.mp4
-#EXTINF:-1 tvg-name="In His Shadow 2023 (2023)" tvg-logo="http://image.tmdb.org/t/p/w154/ooyH5mGWvN3ZJOSqTBntlQ8Iail.jpg" group-title="netflix",In His Shadow 2023 (2023)
+#EXTINF:-1 tvg-name="In His Shadow (2023) (2023)" tvg-logo="http://tztv.topten70.net:29001/movie_covers/cover-1953.jpg" group-title="netflix",In His Shadow (2023) (2023)
 http://46.4.79.240/movie/marko/marko/1953.mp4
 #EXTINF:-1 tvg-name="Inside Man (2006) (2006)" tvg-logo="http://tztv.topten70.net:29001/movie_covers/cover-1966.jpg" group-title="netflix",Inside Man (2006) (2006)
 http://46.4.79.240/movie/marko/marko/1966.mp4
@@ -305,7 +243,7 @@ http://46.4.79.240/movie/marko/marko/1981.mp4
 http://46.4.79.240/movie/marko/marko/1982.mp4
 #EXTINF:-1 tvg-name="The Passenger (2023) (2024)" tvg-logo="http://tztv.topten70.net:29001/movie_covers/cover-1983.jpg" group-title="netflix",The Passenger (2023) (2024)
 http://46.4.79.240/movie/marko/marko/1983.mp4
-#EXTINF:-1 tvg-name="The Popes Exorcist (2023) (2023)" tvg-logo="http://image.tmdb.org/t/p/w154/jFC4LS5qTAT3PinzdEzINfu1CV9.jpg" group-title="netflix",The Popes Exorcist (2023) (2023)
+#EXTINF:-1 tvg-name="The Pope's Exorcist (2023) (2023)" tvg-logo="http://tztv.topten70.net:29001/movie_covers/cover-1951.jpg" group-title="netflix",The Pope's Exorcist (2023) (2023)
 http://46.4.79.240/movie/marko/marko/1951.mp4
 #EXTINF:-1 tvg-name="The Portable Door (2023) (2023)" tvg-logo="http://tztv.topten70.net:29001/movie_covers/cover-1985.jpg" group-title="netflix",The Portable Door (2023) (2023)
 http://46.4.79.240/movie/marko/marko/1985.mp4
@@ -1999,3 +1937,65 @@ http://46.4.79.240/movie/marko/marko/5790.mp4
 http://46.4.79.240/movie/marko/marko/5798.mp4
 #EXTINF:-1 tvg-name="Eastwood Directs: The Untold Story (2013) (2013)" tvg-logo="http://tztv.topten70.net:29001/movie_covers/cover-5791.jpg" group-title="netflix",Eastwood Directs: The Untold Story (2013) (2013)
 http://46.4.79.240/movie/marko/marko/5791.mp4
+#EXTINF:-1 tvg-name="Flight of the Conchords (2009) (2009)" tvg-logo="http://tztv.topten70.net:29001/movie_covers/cover-5819.jpg" group-title="netflix",Flight of the Conchords (2009) (2009)
+http://46.4.79.240/movie/marko/marko/5819.mp4
+#EXTINF:-1 tvg-name="Concorde Nadzvucna Utrka 1" tvg-logo="" group-title="netflix",Concorde Nadzvucna Utrka 1
+http://46.4.79.240/movie/marko/marko/5793.mp4
+#EXTINF:-1 tvg-name="Concorde Nadzvucna Utrka 2" tvg-logo="" group-title="netflix",Concorde Nadzvucna Utrka 2
+http://46.4.79.240/movie/marko/marko/5794.mp4
+#EXTINF:-1 tvg-name="Console Wars (2020) (2020)" tvg-logo="http://tztv.topten70.net:29001/movie_covers/cover-5795.jpg" group-title="netflix",Console Wars (2020) (2020)
+http://46.4.79.240/movie/marko/marko/5795.mp4
+#EXTINF:-1 tvg-name="Cosa Nostra 1" tvg-logo="" group-title="netflix",Cosa Nostra 1
+http://46.4.79.240/movie/marko/marko/5796.mp4
+#EXTINF:-1 tvg-name="Cosa Nostra 2" tvg-logo="" group-title="netflix",Cosa Nostra 2
+http://46.4.79.240/movie/marko/marko/5797.mp4
+#EXTINF:-1 tvg-name="Dd Attenborough A Life On Our Planet" tvg-logo="" group-title="netflix",Dd Attenborough A Life On Our Planet
+http://46.4.79.240/movie/marko/marko/5800.mp4
+#EXTINF:-1 tvg-name="Dd Attenboroughs Tasmania" tvg-logo="" group-title="netflix",Dd Attenboroughs Tasmania
+http://46.4.79.240/movie/marko/marko/5801.mp4
+#EXTINF:-1 tvg-name="Death March to the Parallel World Rhapsody (2018) (2018)" tvg-logo="http://tztv.topten70.net:29001/movie_covers/cover-5802.jpg" group-title="netflix",Death March to the Parallel World Rhapsody (2018) (2018)
+http://46.4.79.240/movie/marko/marko/5802.mp4
+#EXTINF:-1 tvg-name="Four Hours at the Capitol (2021) (2021)" tvg-logo="http://tztv.topten70.net:29001/movie_covers/cover-5821.jpg" group-title="netflix",Four Hours at the Capitol (2021) (2021)
+http://46.4.79.240/movie/marko/marko/5821.mp4
+#EXTINF:-1 tvg-name="H2 Izvanzemaljci I Polumrtvaci" tvg-logo="" group-title="netflix",H2 Izvanzemaljci I Polumrtvaci
+http://46.4.79.240/movie/marko/marko/5834.mp4
+#EXTINF:-1 tvg-name="Decoding the Great Pyramid (2019) (2019)" tvg-logo="http://tztv.topten70.net:29001/movie_covers/cover-5803.jpg" group-title="netflix",Decoding the Great Pyramid (2019) (2019)
+http://46.4.79.240/movie/marko/marko/5803.mp4
+#EXTINF:-1 tvg-name="Deep Web (2015) (2015)" tvg-logo="http://tztv.topten70.net:29001/movie_covers/cover-5804.jpg" group-title="netflix",Deep Web (2015) (2015)
+http://46.4.79.240/movie/marko/marko/5804.mp4
+#EXTINF:-1 tvg-name="In Seh Of Darkness" tvg-logo="" group-title="netflix",In Seh Of Darkness
+http://46.4.79.240/movie/marko/marko/5886.mp4
+#EXTINF:-1 tvg-name="Diego Maradona (2019) (2019)" tvg-logo="http://tztv.topten70.net:29001/movie_covers/cover-5807.jpg" group-title="netflix",Diego Maradona (2019) (2019)
+http://46.4.79.240/movie/marko/marko/5807.mp4
+#EXTINF:-1 tvg-name="#DIESELGATE (2021) (2021)" tvg-logo="http://tztv.topten70.net:29001/movie_covers/cover-5808.jpg" group-title="netflix",#DIESELGATE (2021) (2021)
+http://46.4.79.240/movie/marko/marko/5808.mp4
+#EXTINF:-1 tvg-name="Disclosure (1994) (1994)" tvg-logo="http://tztv.topten70.net:29001/movie_covers/cover-5809.jpg" group-title="netflix",Disclosure (1994) (1994)
+http://46.4.79.240/movie/marko/marko/5809.mp4
+#EXTINF:-1 tvg-name="Free Solo (2018) (2018)" tvg-logo="http://tztv.topten70.net:29001/movie_covers/cover-5822.jpg" group-title="netflix",Free Solo (2018) (2018)
+http://46.4.79.240/movie/marko/marko/5822.mp4
+#EXTINF:-1 tvg-name="Dolphin Reef (2018) (2018)" tvg-logo="http://tztv.topten70.net:29001/movie_covers/cover-5810.jpg" group-title="netflix",Dolphin Reef (2018) (2018)
+http://46.4.79.240/movie/marko/marko/5810.mp4
+#EXTINF:-1 tvg-name="From Mossad To Eichmann" tvg-logo="" group-title="netflix",From Mossad To Eichmann
+http://46.4.79.240/movie/marko/marko/5823.mp4
+#EXTINF:-1 tvg-name="Downfall: The Case Against Boeing (2022) (2022)" tvg-logo="http://tztv.topten70.net:29001/movie_covers/cover-5811.jpg" group-title="netflix",Downfall: The Case Against Boeing (2022) (2022)
+http://46.4.79.240/movie/marko/marko/5811.mp4
+#EXTINF:-1 tvg-name="Gascoigne (2015) (2015)" tvg-logo="http://tztv.topten70.net:29001/movie_covers/cover-5824.jpg" group-title="netflix",Gascoigne (2015) (2015)
+http://46.4.79.240/movie/marko/marko/5824.mp4
+#EXTINF:-1 tvg-name="H2 Bogovi I Izvanzemaljci" tvg-logo="" group-title="netflix",H2 Bogovi I Izvanzemaljci
+http://46.4.79.240/movie/marko/marko/5825.mp4
+#EXTINF:-1 tvg-name="H2 Carevi Kraljevi I Faraoni" tvg-logo="" group-title="netflix",H2 Carevi Kraljevi I Faraoni
+http://46.4.79.240/movie/marko/marko/5826.mp4
+#EXTINF:-1 tvg-name="H2 Drevni Arhitekti" tvg-logo="" group-title="netflix",H2 Drevni Arhitekti
+http://46.4.79.240/movie/marko/marko/5827.mp4
+#EXTINF:-1 tvg-name="H2 Drevni Izvanzemaljci Vizionari" tvg-logo="" group-title="netflix",H2 Drevni Izvanzemaljci Vizionari
+http://46.4.79.240/movie/marko/marko/5828.mp4
+#EXTINF:-1 tvg-name="H2 Faraonova Kletva" tvg-logo="" group-title="netflix",H2 Faraonova Kletva
+http://46.4.79.240/movie/marko/marko/5829.mp4
+#EXTINF:-1 tvg-name="H2 Glasovi Bogova" tvg-logo="" group-title="netflix",H2 Glasovi Bogova
+http://46.4.79.240/movie/marko/marko/5830.mp4
+#EXTINF:-1 tvg-name="H2 Iza Roswella" tvg-logo="" group-title="netflix",H2 Iza Roswella
+http://46.4.79.240/movie/marko/marko/5831.mp4
+#EXTINF:-1 tvg-name="H2 Izvanzemaljci Izgubljenog Kovcega" tvg-logo="" group-title="netflix",H2 Izvanzemaljci Izgubljenog Kovcega
+http://46.4.79.240/movie/marko/marko/5832.mp4
+#EXTINF:-1 tvg-name="H2 Izvanzemaljci I Izgubljeni Svjetovi" tvg-logo="" group-title="netflix",H2 Izvanzemaljci I Izgubljeni Svjetovi
+http://46.4.79.240/movie/marko/marko/5833.mp4

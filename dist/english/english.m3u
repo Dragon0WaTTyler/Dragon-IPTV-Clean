@@ -1,490 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="RTG TV" tvg-logo="" group-title="english",RTG TV
-http://hls127.freeott.top:8080/RTG_TV/mono.m3u8
-#EXTINF:-1 tvg-name="Ocean TV" tvg-logo="" group-title="english",Ocean TV
-http://hls127.freeott.top:8080/Ocean_TV/mono.m3u8
-#EXTINF:-1 tvg-name="Amedia 1" tvg-logo="" group-title="english",Amedia 1
-http://46.32.176.50/amedia1/index.m3u8
-#EXTINF:-1 tvg-name="BCU Kinorating HD" tvg-logo="" group-title="english",BCU Kinorating HD
-http://hls127.freeott.top:8080/BCUKinoratingHD/mono.m3u8
-#EXTINF:-1 tvg-name="BCU Stars HD" tvg-logo="" group-title="english",BCU Stars HD
-http://hls127.freeott.top:8080/BCUStarsHD/mono.m3u8
-#EXTINF:-1 tvg-name="CPS Action" tvg-logo="" group-title="english",CPS Action
-http://hls127.freeott.top:8080/CPS_Action/mono.m3u8
-#EXTINF:-1 tvg-name="CPS Comedy" tvg-logo="" group-title="english",CPS Comedy
-http://hls127.freeott.top:8080/CPS_Comedy/mono.m3u8
-#EXTINF:-1 tvg-name="CPS Drama" tvg-logo="" group-title="english",CPS Drama
-http://hls127.freeott.top:8080/CPS_Drama/mono.m3u8
-#EXTINF:-1 tvg-name="CPS Fiction" tvg-logo="" group-title="english",CPS Fiction
-http://hls127.freeott.top:8080/CPS_Fiction/mono.m3u8
-#EXTINF:-1 tvg-name="CPS Fresh" tvg-logo="" group-title="english",CPS Fresh
-http://hls127.freeott.top:8080/CPS_Fresh/mono.m3u8
-#EXTINF:-1 tvg-name="CPS Investigation" tvg-logo="" group-title="english",CPS Investigation
-http://hls127.freeott.top:8080/CPS_Investigation/mono.m3u8
-#EXTINF:-1 tvg-name="CPS Cartoon" tvg-logo="" group-title="english",CPS Cartoon
-http://hls127.freeott.top:8080/CPS_Cartoon/mono.m3u8
-#EXTINF:-1 tvg-name="CPS Fresh UA" tvg-logo="" group-title="english",CPS Fresh UA
-http://hls127.freeott.top:8080/CPS_Fresh_UA/mono.m3u8
-#EXTINF:-1 tvg-name="BOX Anime HD" tvg-logo="" group-title="english",BOX Anime HD
-http://hls127.freeott.top:8080/box_anime_hd/mono.m3u8
-#EXTINF:-1 tvg-name="BOX Metall HD" tvg-logo="" group-title="english",BOX Metall HD
-http://hls127.freeott.top:8080/BOX_Metall_HD/mono.m3u8
-#EXTINF:-1 tvg-name="Gagsnetwork" tvg-logo="" group-title="english",Gagsnetwork
-http://hls127.freeott.top:8080/Gagsnetwork/mono.m3u8
-#EXTINF:-1 tvg-name="MyTV" tvg-logo="" group-title="english",MyTV
-http://hls127.freeott.top:8080/MyTV/mono.m3u8
-#EXTINF:-1 tvg-name="MyTV2" tvg-logo="" group-title="english",MyTV2
-http://hls127.freeott.top:8080/MyTV2/mono.m3u8
-#EXTINF:-1 tvg-name="MyTV3" tvg-logo="" group-title="english",MyTV3
-http://hls127.freeott.top:8080/MyTV3/mono.m3u8
-#EXTINF:-1 tvg-name="OstWest" tvg-logo="" group-title="english",OstWest
-http://hls127.freeott.top:8080/OstWest/mono.m3u8
-#EXTINF:-1 tvg-name="Bridge TV" tvg-logo="" group-title="english",Bridge TV
-http://46.32.176.50/bridgetv/index.m3u8
-#EXTINF:-1 tvg-name="Bridge Classic" tvg-logo="" group-title="english",Bridge Classic
-http://46.32.176.50/rusong/index.m3u8
-#EXTINF:-1 tvg-name="Bolt" tvg-logo="" group-title="english",Bolt
-http://hls127.freeott.top:8080/Bolt/mono.m3u8
-#EXTINF:-1 tvg-name="Da Vinci Learning" tvg-logo="" group-title="english",Da Vinci Learning
-http://hls127.freeott.top:8080/Da_Vinci_Learning/mono.m3u8
-#EXTINF:-1 tvg-name="Big Planet" tvg-logo="" group-title="english",Big Planet
-http://46.32.176.50/bigplanet/index.m3u8
-#EXTINF:-1 tvg-name="Animal Planet" tvg-logo="" group-title="english",Animal Planet
-http://46.32.176.50/animalplanet/index.m3u8
-#EXTINF:-1 tvg-name="Animal Planet HD" tvg-logo="" group-title="english",Animal Planet HD
-http://46.32.176.50/AnimalPlanetHD/index.m3u8
-#EXTINF:-1 tvg-name="Viasat explore" tvg-logo="" group-title="english",Viasat explore
-http://46.32.176.50/viasatexplorer/index.m3u8
-#EXTINF:-1 tvg-name="Viasat history" tvg-logo="" group-title="english",Viasat history
-http://46.32.176.50/viasathistory/index.m3u8
-#EXTINF:-1 tvg-name="Viasat Nature" tvg-logo="" group-title="english",Viasat Nature
-http://46.32.176.50/viasatnature/index.m3u8
-#EXTINF:-1 tvg-name="Viasat Nature HD" tvg-logo="" group-title="english",Viasat Nature HD
-http://46.32.176.50/ViasatNatureHD/index.m3u8
-#EXTINF:-1 tvg-name="History HD" tvg-logo="" group-title="english",History HD
-http://46.32.176.50/HistoryHD/index.m3u8
-#EXTINF:-1 tvg-name="TLC" tvg-logo="" group-title="english",TLC
-http://46.32.176.50/tlc/index.m3u8
-#EXTINF:-1 tvg-name="Nat Geo Wild HD" tvg-logo="http://sarkor.tv/static/images/channels/Nat Geo Wild HD.png" group-title="english",Nat Geo Wild HD
-https://s06.watcher.uz/116/video.m3u8
-#EXTINF:-1 tvg-name="Nat Geo Wild" tvg-logo="" group-title="english",Nat Geo Wild
-http://46.32.176.50/natgeowild/index.m3u8
-#EXTINF:-1 tvg-name="Discovery Channel" tvg-logo="" group-title="english",Discovery Channel
-http://46.32.176.50/discoverychannel/index.m3u8
-#EXTINF:-1 tvg-name="National Geographic" tvg-logo="" group-title="english",National Geographic
-http://46.32.176.50/nationalgeographic/index.m3u8
-#EXTINF:-1 tvg-name="National Geographic HD" tvg-logo="" group-title="english",National Geographic HD
-http://46.32.176.50/NationalGeographicHD/index.m3u8
-#EXTINF:-1 tvg-name="TV 1000" tvg-logo="" group-title="english",TV 1000
-http://46.32.176.50/tv1000/index.m3u8
-#EXTINF:-1 tvg-name="TV 1000 Action" tvg-logo="" group-title="english",TV 1000 Action
-http://46.32.176.50/tv1000action/index.m3u8
-#EXTINF:-1 tvg-name="Hollywood HD" tvg-logo="" group-title="english",Hollywood HD
-http://46.32.176.50/HollywoodHD/index.m3u8
-#EXTINF:-1 tvg-name="VIP Megahit HD" tvg-logo="" group-title="english",VIP Megahit HD
-http://46.32.176.50/VIPMegahitHD/index.m3u8
-#EXTINF:-1 tvg-name="VIP Premiere HD" tvg-logo="" group-title="english",VIP Premiere HD
-http://46.32.176.50/VIPPremiereHD/index.m3u8
-#EXTINF:-1 tvg-name="VIP Comedy HD" tvg-logo="" group-title="english",VIP Comedy HD
-http://46.32.176.50/VIPComedyHD/index.m3u8
-#EXTINF:-1 tvg-name="VIP Serial HD" tvg-logo="" group-title="english",VIP Serial HD
-http://46.32.176.50/ViasatSportHD/index.m3u8
-#EXTINF:-1 tvg-name=".Black" tvg-logo="" group-title="english",.Black
-http://46.32.176.50/sonyturbo/index.m3u8
-#EXTINF:-1 tvg-name=".Sci-Fi" tvg-logo="" group-title="english",.Sci-Fi
-http://46.32.176.50/sonyscifi/index.m3u8
-#EXTINF:-1 tvg-name="TV XXI" tvg-logo="" group-title="english",TV XXI
-http://46.32.176.50/tv21/index.m3u8
-#EXTINF:-1 tvg-name="Plan B" tvg-logo="" group-title="english",Plan B
-http://46.32.176.50/paramountchannel/index.m3u8
-#EXTINF:-1 tvg-name="Amedia 2" tvg-logo="" group-title="english",Amedia 2
-http://46.32.176.50/amedia2/index.m3u8
-#EXTINF:-1 tvg-name="Amedia Hit" tvg-logo="" group-title="english",Amedia Hit
-http://46.32.176.50/amediahit/index.m3u8
-#EXTINF:-1 tvg-name="Amedia Premium" tvg-logo="" group-title="english",Amedia Premium
-http://46.32.176.50/AmediaPremium/index.m3u8
-#EXTINF:-1 tvg-name="Amedia Premium HD" tvg-logo="" group-title="english",Amedia Premium HD
-http://46.32.176.50/AmediaPremiumHD/index.m3u8
-#EXTINF:-1 tvg-name="EuroNews" tvg-logo="http://sarkor.tv/static/images/channels/EuroNews.png" group-title="english",EuroNews
-https://s04.watcher.uz/16/video.m3u8
-#EXTINF:-1 tvg-name="CBC" tvg-logo="" group-title="english",CBC
-http://46.32.176.50/cbc/index.m3u8
-#EXTINF:-1 tvg-name="Bridge Deluxe" tvg-logo="" group-title="english",Bridge Deluxe
-http://46.32.176.50/BridgeTVDance/index.m3u8
-#EXTINF:-1 tvg-name="Bridge Deluxe HD" tvg-logo="" group-title="english",Bridge Deluxe HD
-http://46.32.176.50/BridgeTVHD/index.m3u8
-#EXTINF:-1 tvg-name="Muz TV AZ" tvg-logo="" group-title="english",Muz TV AZ
-http://46.32.176.50/muztvaz/index.m3u8
-#EXTINF:-1 tvg-name="RU TV" tvg-logo="" group-title="english",RU TV
-http://46.32.176.50/rutv/index.m3u8
-#EXTINF:-1 tvg-name="MCM Top" tvg-logo="" group-title="english",MCM Top
-http://46.32.176.50/mcmtop/index.m3u8
-#EXTINF:-1 tvg-name="Europa Plus TV" tvg-logo="" group-title="english",Europa Plus TV
-http://46.32.176.50/europaplus/index.m3u8
-#EXTINF:-1 tvg-name="2x2" tvg-logo="" group-title="english",2x2
-http://46.32.176.50/2x2/index.m3u8
-#EXTINF:-1 tvg-name="Ani" tvg-logo="" group-title="english",Ani
-http://46.32.176.50/anitv/index.m3u8
-#EXTINF:-1 tvg-name="Nick Jr" tvg-logo="http://sarkor.tv/static/images/channels/Nick Jr.png" group-title="english",Nick Jr
-https://s06.watcher.uz/147/video.m3u8
-#EXTINF:-1 tvg-name=".red" tvg-logo="" group-title="english",.red
-http://api.peers.tv/timeshift/set/16/playlist.m3u8?offset=10
-#EXTINF:-1 tvg-name="Bollywood HD" tvg-logo="" group-title="english",Bollywood HD
-http://176.118.197.101/Bollywood_HD/index.m3u8
-#EXTINF:-1 tvg-name="M1" tvg-logo="" group-title="english",M1
-http://158.101.222.193:88/georgia_play.php?id=m1
-#EXTINF:-1 tvg-name="M2" tvg-logo="" group-title="english",M2
-http://158.101.222.193:88/georgia_play.php?id=m2
-#EXTINF:-1 tvg-name="Mezzo" tvg-logo="" group-title="english",Mezzo
-http://158.101.222.193:88/georgia_play.php?id=mezzo
-#EXTINF:-1 tvg-name="Da Vinci" tvg-logo="" group-title="english",Da Vinci
-http://api.peers.tv/timeshift/da_vinci/16/playlist.m3u8?offset=10
-#EXTINF:-1 tvg-name="Niki Junior" tvg-logo="" group-title="english",Niki Junior
-http://158.101.222.193:88/georgia_play.php?id=nikijunior
-#EXTINF:-1 tvg-name="Niki Kids" tvg-logo="" group-title="english",Niki Kids
-http://158.101.222.193:88/georgia_play.php?id=nikikids
-#EXTINF:-1 tvg-name="Setanta Sports 1 Georgia" tvg-logo="" group-title="english",Setanta Sports 1 Georgia
-http://158.101.222.193:88/georgia_play.php?id=setanta_georgia
-#EXTINF:-1 tvg-name="Setanta Sports 2 Georgia" tvg-logo="" group-title="english",Setanta Sports 2 Georgia
-http://158.101.222.193:88/georgia_play.php?id=setanta_sports_plus_georgia
-#EXTINF:-1 tvg-name="Setanta Sports 3 Georgia" tvg-logo="" group-title="english",Setanta Sports 3 Georgia
-http://158.101.222.193:88/georgia_play.php?id=setanta_sports_3
-#EXTINF:-1 tvg-name="Silk Sport 4" tvg-logo="" group-title="english",Silk Sport 4
-http://158.101.222.193:88/georgia_play.php?id=silk_sport4
-#EXTINF:-1 tvg-name="Viasat Sport" tvg-logo="" group-title="english",Viasat Sport
-http://158.101.222.193:88/georgia_play.php?id=viasatsport
-#EXTINF:-1 tvg-name="TVPLAY MORTAL KOMBATHD" tvg-logo="http://1lot.tv/ch/9415.png" group-title="english",TVPLAY MORTAL KOMBATHD
-http://5.188.158.65:4040/IPTVPLAYTEST.tv/video.m3u8
-#EXTINF:-1 tvg-name="Rossiya24" tvg-logo="" group-title="english",Rossiya24
-http://176.118.197.101/Rossiya24/mono.m3u8
-#EXTINF:-1 tvg-name="RBK" tvg-logo="" group-title="english",RBK
-http://178.134.1.158:8081/RBK/index.m3u8
-#EXTINF:-1 tvg-name="NTV" tvg-logo="" group-title="english",NTV
-http://176.118.197.101/NTV/mono.m3u8
-#EXTINF:-1 tvg-name="THT" tvg-logo="" group-title="english",THT
-http://94.230.128.107:8080/THT/video.m3u8
-#EXTINF:-1 tvg-name="KHL" tvg-logo="http://sarkor.tv/static/images/channels/KHL.png" group-title="english",KHL
-https://s04.watcher.uz/20/video.m3u8
-#EXTINF:-1 tvg-name="Nostalgiya" tvg-logo="" group-title="english",Nostalgiya
-http://176.118.197.101/Nostalgiya/mono.m3u8
-#EXTINF:-1 tvg-name="Dom kino" tvg-logo="" group-title="english",Dom kino
-http://176.118.197.101/Dom_kino/mono.m3u8
-#EXTINF:-1 tvg-name="Kinokomediya" tvg-logo="" group-title="english",Kinokomediya
-http://176.118.197.101/Kinokomediya/mono.m3u8
-#EXTINF:-1 tvg-name="HCT" tvg-logo="" group-title="english",HCT
-http://176.118.197.101/HCT/mono.m3u8
-#EXTINF:-1 tvg-name="Kinopokaz" tvg-logo="" group-title="english",Kinopokaz
-http://176.118.197.101/Kinopokaz/mono.m3u8
-#EXTINF:-1 tvg-name="Kinomix" tvg-logo="" group-title="english",Kinomix
-http://176.118.197.101/Kinomix/mono.m3u8
-#EXTINF:-1 tvg-name="Kinoseria" tvg-logo="" group-title="english",Kinoseria
-http://176.118.197.101/Kinoseria/mono.m3u8
-#EXTINF:-1 tvg-name="Komediya" tvg-logo="" group-title="english",Komediya
-http://176.118.197.101/Komediya/mono.m3u8
-#EXTINF:-1 tvg-name="LubimoeKino" tvg-logo="" group-title="english",LubimoeKino
-http://176.118.197.101/LubimoeKino/mono.m3u8
-#EXTINF:-1 tvg-name="Che" tvg-logo="" group-title="english",Che
-http://176.118.197.101/Che/mono.m3u8
-#EXTINF:-1 tvg-name="CTC" tvg-logo="" group-title="english",CTC
-http://178.134.1.158:8081/CTC/index.m3u8
-#EXTINF:-1 tvg-name="Retro" tvg-logo="" group-title="english",Retro
-http://176.118.197.101/Retro/mono.m3u8
-#EXTINF:-1 tvg-name="Cartoon Network" tvg-logo="" group-title="english",Cartoon Network
-http://176.118.197.101/Cartoon_Network/index.m3u8
-#EXTINF:-1 tvg-name="1HD" tvg-logo="" group-title="english",1HD
-http://176.118.197.101/1HD/index.m3u8
-#EXTINF:-1 tvg-name="Cinema" tvg-logo="" group-title="english",Cinema
-http://176.118.197.101/Cinema/index.m3u8
-#EXTINF:-1 tvg-name="RossiyaHD" tvg-logo="" group-title="english",RossiyaHD
-http://176.118.197.101/RossiyaHD/mono.m3u8
-#EXTINF:-1 tvg-name="Evrokino" tvg-logo="" group-title="english",Evrokino
-http://176.118.197.101/Evrokino/mono.m3u8
-#EXTINF:-1 tvg-name="5 kanal" tvg-logo="" group-title="english",5 kanal
-http://94.230.128.107:8080/5_kanal/video.m3u8
-#EXTINF:-1 tvg-name="Zvezda" tvg-logo="" group-title="english",Zvezda
-http://94.230.128.107:8080/Zvezda/video.m3u8
-#EXTINF:-1 tvg-name="MIR" tvg-logo="" group-title="english",MIR
-http://94.230.128.107:8080/MIR/video.m3u8
-#EXTINF:-1 tvg-name="Friday" tvg-logo="" group-title="english",Friday
-http://94.230.128.107:8080/Friday/video.m3u8
-#EXTINF:-1 tvg-name="nst" tvg-logo="" group-title="english",nst
-http://178.134.1.158:8081/nst/index.m3u8
-#EXTINF:-1 tvg-name="eurokino" tvg-logo="" group-title="english",eurokino
-http://178.134.1.158:8081/eurokino/index.m3u8
-#EXTINF:-1 tvg-name="tnt" tvg-logo="" group-title="english",tnt
-http://178.134.1.158:8081/tnt/index.m3u8
-#EXTINF:-1 tvg-name="t24" tvg-logo="" group-title="english",t24
-http://178.134.1.158:8081/t24/index.m3u8
-#EXTINF:-1 tvg-name="shottv" tvg-logo="" group-title="english",shottv
-http://178.134.1.158:8081/shottv/index.m3u8
-#EXTINF:-1 tvg-name="kineko" tvg-logo="" group-title="english",kineko
-http://178.134.1.158:8081/kineko/index.m3u8
-#EXTINF:-1 tvg-name="zoopark" tvg-logo="" group-title="english",zoopark
-http://178.134.1.158:8081/zoopark/index.m3u8
-#EXTINF:-1 tvg-name="setanta2" tvg-logo="" group-title="english",setanta2
-http://178.134.1.158:8081/setanta2/index.m3u8
-#EXTINF:-1 tvg-name="nauka" tvg-logo="" group-title="english",nauka
-http://178.134.1.158:8081/nauka/index.m3u8
-#EXTINF:-1 tvg-name="mosfilm" tvg-logo="" group-title="english",mosfilm
-http://178.134.1.158:8081/mosfilm/index.m3u8
-#EXTINF:-1 tvg-name="viasathistory" tvg-logo="" group-title="english",viasathistory
-http://178.134.1.158:8081/viasathistory/index.m3u8
-#EXTINF:-1 tvg-name="tv1000action" tvg-logo="" group-title="english",tv1000action
-http://178.134.1.158:8081/tv1000action/index.m3u8
-#EXTINF:-1 tvg-name="tv1000" tvg-logo="" group-title="english",tv1000
-http://178.134.1.158:8081/tv1000/index.m3u8
-#EXTINF:-1 tvg-name="rtvi" tvg-logo="" group-title="english",rtvi
-http://178.134.1.158:8081/rtvi/index.m3u8
-#EXTINF:-1 tvg-name="nano" tvg-logo="" group-title="english",nano
-http://178.134.1.158:8081/nano/index.m3u8
-#EXTINF:-1 tvg-name="eurosport" tvg-logo="" group-title="english",eurosport
-http://178.134.1.158:8081/eurosport/index.m3u8
-#EXTINF:-1 tvg-name="U" tvg-logo="" group-title="english",U
-http://178.134.1.158:8081/U/index.m3u8
-#EXTINF:-1 tvg-name="MIR24" tvg-logo="" group-title="english",MIR24
-http://178.134.1.158:8081/MIR24/index.m3u8
-#EXTINF:-1 tvg-name="Deluxe Music" tvg-logo="" group-title="english",Deluxe Music
-https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
-#EXTINF:-1 tvg-name="Deluxe Dance" tvg-logo="" group-title="english",Deluxe Dance
-https://sdn-global-live-streaming-packager-cache.3qsdn.com/64733/64733_264_live.m3u8
-#EXTINF:-1 tvg-name="Deluxe Rap" tvg-logo="" group-title="english",Deluxe Rap
-https://sdn-global-live-streaming-packager-cache.3qsdn.com/65183/65183_264_live.m3u8
-#EXTINF:-1 tvg-name="Schlager Deluxe" tvg-logo="" group-title="english",Schlager Deluxe
-https://sdn-global-live-streaming-packager-cache.3qsdn.com/26658/26658_264_live.m3u8
-#EXTINF:-1 tvg-name="A21 Network" tvg-logo="" group-title="english",A21 Network
-https://tv.a21network.ru/stream/37909/index.m3u8
-#EXTINF:-1 tvg-name="ZOR TV HD" tvg-logo="http://sarkor.tv/static/images/channels/ZOR TV HD.png" group-title="english",ZOR TV HD
-https://s03.watcher.uz/6/video.m3u8
-#EXTINF:-1 tvg-name="Ozbekiston 24 HD" tvg-logo="http://sarkor.tv/static/images/channels/Ozbekiston 24 HD.png" group-title="english",Ozbekiston 24 HD
-https://s04.watcher.uz/8/video.m3u8
-#EXTINF:-1 tvg-name="FTV HD" tvg-logo="http://sarkor.tv/static/images/channels/FTV HD.png" group-title="english",FTV HD
-https://s03.watcher.uz/74/video.m3u8
-#EXTINF:-1 tvg-name="UzReport HD" tvg-logo="http://sarkor.tv/static/images/channels/UzReport HD.png" group-title="english",UzReport HD
-https://s03.watcher.uz/75/video.m3u8
-#EXTINF:-1 tvg-name="Kinoteatr HD" tvg-logo="http://sarkor.tv/static/images/channels/Kinoteatr HD.png" group-title="english",Kinoteatr HD
-https://s03.watcher.uz/83/video.m3u8
-#EXTINF:-1 tvg-name="NurafshonTV" tvg-logo="http://sarkor.tv/static/images/channels/NurafshonTV.png" group-title="english",NurafshonTV
-https://s03.watcher.uz/87/video.m3u8
-#EXTINF:-1 tvg-name="Ozbekiston" tvg-logo="http://sarkor.tv/static/images/channels/Ozbekiston.png" group-title="english",Ozbekiston
-https://s03.watcher.uz/56/video.m3u8
-#EXTINF:-1 tvg-name="Taraqqiyot TV" tvg-logo="http://sarkor.tv/static/images/channels/Taraqqiyot TV.png" group-title="english",Taraqqiyot TV
-https://s05.watcher.uz/76/video.m3u8
-#EXTINF:-1 tvg-name="AQLVOY" tvg-logo="http://sarkor.tv/static/images/channels/AQLVOY.png" group-title="english",AQLVOY
-https://s04.watcher.uz/82/video.m3u8
-#EXTINF:-1 tvg-name="Yoshlar" tvg-logo="http://sarkor.tv/static/images/channels/Yoshlar.png" group-title="english",Yoshlar
-https://s03.watcher.uz/57/video.m3u8
-#EXTINF:-1 tvg-name="Toshkent" tvg-logo="http://sarkor.tv/static/images/channels/Toshkent.png" group-title="english",Toshkent
-https://s03.watcher.uz/58/video.m3u8
-#EXTINF:-1 tvg-name="Sport TV HD" tvg-logo="http://sarkor.tv/static/images/channels/Sport TV HD.png" group-title="english",Sport TV HD
-https://s04.watcher.uz/59/video.m3u8
-#EXTINF:-1 tvg-name="Madaniyat va Marifat" tvg-logo="http://sarkor.tv/static/images/channels/Madaniyat va Marifat.png" group-title="english",Madaniyat va Marifat
-https://s03.watcher.uz/60/video.m3u8
-#EXTINF:-1 tvg-name="Renessans TV" tvg-logo="http://sarkor.tv/static/images/channels/Renessans TV.png" group-title="english",Renessans TV
-https://s04.watcher.uz/83/video.m3u8
-#EXTINF:-1 tvg-name="Mahalla" tvg-logo="http://sarkor.tv/static/images/channels/Mahalla.png" group-title="english",Mahalla
-https://s03.watcher.uz/61/video.m3u8
-#EXTINF:-1 tvg-name="Futbol TV" tvg-logo="http://sarkor.tv/static/images/channels/Futbol TV.png" group-title="english",Futbol TV
-https://s03.watcher.uz/62/video.m3u8
-#EXTINF:-1 tvg-name="Dunyo Boylab" tvg-logo="http://sarkor.tv/static/images/channels/Dunyo Boylab.png" group-title="english",Dunyo Boylab
-https://s05.watcher.uz/63/video.m3u8
-#EXTINF:-1 tvg-name="Bolajon" tvg-logo="http://sarkor.tv/static/images/channels/Bolajon.png" group-title="english",Bolajon
-https://s05.watcher.uz/64/video.m3u8
-#EXTINF:-1 tvg-name="Navo" tvg-logo="http://sarkor.tv/static/images/channels/Navo.png" group-title="english",Navo
-https://s05.watcher.uz/65/video.m3u8
-#EXTINF:-1 tvg-name="Mening Yurtim" tvg-logo="http://sarkor.tv/static/images/channels/Mening Yurtim.png" group-title="english",Mening Yurtim
-https://s05.watcher.uz/69/video.m3u8
-#EXTINF:-1 tvg-name="Milliy TV" tvg-logo="http://sarkor.tv/static/images/channels/Milliy TV.png" group-title="english",Milliy TV
-https://s05.watcher.uz/70/video.m3u8
-#EXTINF:-1 tvg-name="Sevimli HD" tvg-logo="http://sarkor.tv/static/images/channels/Sevimli HD.png" group-title="english",Sevimli HD
-https://s03.watcher.uz/72/video.m3u8
-#EXTINF:-1 tvg-name="RU.TV" tvg-logo="http://sarkor.tv/static/images/channels/RU.TV.png" group-title="english",RU.TV
-https://s03.watcher.uz/55/video.m3u8
-#EXTINF:-1 tvg-name="Zoo TV" tvg-logo="http://sarkor.tv/static/images/channels/Zoo TV.png" group-title="english",Zoo TV
-https://watcher.uz/101/video.m3u8
-#EXTINF:-1 tvg-name="Dastarkhan TV" tvg-logo="http://sarkor.tv/static/images/channels/Dastarkhan TV.png" group-title="english",Dastarkhan TV
-https://s03.watcher.uz/85/video.m3u8
-#EXTINF:-1 tvg-name="France24HD" tvg-logo="http://sarkor.tv/static/images/channels/France24HD.png" group-title="english",France24HD
-https://s03.watcher.uz/89/video.m3u8
-#EXTINF:-1 tvg-name="CNN" tvg-logo="http://sarkor.tv/static/images/channels/CNN.png" group-title="english",CNN
-https://watcher.uz/90/video.m3u8
-#EXTINF:-1 tvg-name="CGTN" tvg-logo="http://sarkor.tv/static/images/channels/CGTN.png" group-title="english",CGTN
-https://s05.watcher.uz/92/video.m3u8
-#EXTINF:-1 tvg-name="BBC WN" tvg-logo="http://sarkor.tv/static/images/channels/BBC WN.png" group-title="english",BBC WN
-https://watcher.uz/104/video.m3u8
-#EXTINF:-1 tvg-name="8TVRU" tvg-logo="http://sarkor.tv/static/images/channels/8TVRU.png" group-title="english",8TVRU
-https://s05.watcher.uz/94/video.m3u8
-#EXTINF:-1 tvg-name="TuganTEL" tvg-logo="http://sarkor.tv/static/images/channels/TuganTEL.png" group-title="english",TuganTEL
-https://s05.watcher.uz/95/video.m3u8
-#EXTINF:-1 tvg-name="HDL" tvg-logo="http://sarkor.tv/static/images/channels/HDL.png" group-title="english",HDL
-https://s04.watcher.uz/113/video.m3u8
-#EXTINF:-1 tvg-name="Duck TV HD" tvg-logo="http://sarkor.tv/static/images/channels/Duck TV HD.png" group-title="english",Duck TV HD
-https://s06.watcher.uz/121/video.m3u8
-#EXTINF:-1 tvg-name="Insight TV HD" tvg-logo="http://sarkor.tv/static/images/channels/Insight TV HD.png" group-title="english",Insight TV HD
-https://s06.watcher.uz/124/video.m3u8
-#EXTINF:-1 tvg-name="Trace Sport Stars HD" tvg-logo="http://sarkor.tv/static/images/channels/Trace Sport Stars HD.png" group-title="english",Trace Sport Stars HD
-https://s06.watcher.uz/125/video.m3u8
-#EXTINF:-1 tvg-name="Avto24 SD" tvg-logo="http://sarkor.tv/static/images/channels/Avto24 SD.png" group-title="english",Avto24 SD
-https://s06.watcher.uz/129/video.m3u8
-#EXTINF:-1 tvg-name="Drive SD" tvg-logo="http://sarkor.tv/static/images/channels/Drive SD.png" group-title="english",Drive SD
-https://s06.watcher.uz/130/video.m3u8
-#EXTINF:-1 tvg-name="Dorama SD" tvg-logo="http://sarkor.tv/static/images/channels/Dorama SD.png" group-title="english",Dorama SD
-https://s06.watcher.uz/132/video.m3u8
-#EXTINF:-1 tvg-name="TRT Music SD" tvg-logo="http://sarkor.tv/static/images/channels/TRT Music SD.png" group-title="english",TRT Music SD
-https://s06.watcher.uz/139/video.m3u8
-#EXTINF:-1 tvg-name="TRT Haber SD" tvg-logo="http://sarkor.tv/static/images/channels/TRT Haber SD.png" group-title="english",TRT Haber SD
-https://s06.watcher.uz/142/video.m3u8
-#EXTINF:-1 tvg-name="AzTV SD" tvg-logo="http://sarkor.tv/static/images/channels/AzTV SD.png" group-title="english",AzTV SD
-https://s06.watcher.uz/146/video.m3u8
-#EXTINF:-1 tvg-name="NatGeo channel SD" tvg-logo="http://sarkor.tv/static/images/channels/NatGeo channel SD.png" group-title="english",NatGeo channel SD
-https://watcher.uz/150/video.m3u8
-#EXTINF:-1 tvg-name="Kazakhstan SD" tvg-logo="http://sarkor.tv/static/images/channels/Kazakhstan SD.png" group-title="english",Kazakhstan SD
-https://watcher.uz/151/video.m3u8
-#EXTINF:-1 tvg-name="Fashion TV SD" tvg-logo="http://sarkor.tv/static/images/channels/Fashion TV SD.png" group-title="english",Fashion TV SD
-https://s06.watcher.uz/154/video.m3u8
-#EXTINF:-1 tvg-name="Cinema SD" tvg-logo="http://sarkor.tv/static/images/channels/Cinema SD.png" group-title="english",Cinema SD
-https://s06.watcher.uz/155/video.m3u8
-#EXTINF:-1 tvg-name="S Iqbol SD" tvg-logo="http://sarkor.tv/static/images/channels/S Iqbol SD.png" group-title="english",S Iqbol SD
-https://s06.watcher.uz/157/video.m3u8
-#EXTINF:-1 tvg-name="TRT Avaz" tvg-logo="http://sarkor.tv/static/images/channels/TRT Avaz.png" group-title="english",TRT Avaz
-https://s04.watcher.uz/4/video.m3u8
-#EXTINF:-1 tvg-name="MMA-TV" tvg-logo="http://sarkor.tv/static/images/channels/MMA-TV.png" group-title="english",MMA-TV
-https://s04.watcher.uz/19/video.m3u8
-#EXTINF:-1 tvg-name="Gulli Girl" tvg-logo="http://sarkor.tv/static/images/channels/Gulli Girl.png" group-title="english",Gulli Girl
-https://s07.watcher.uz/164/video.m3u8
-#EXTINF:-1 tvg-name="Doctor" tvg-logo="http://sarkor.tv/static/images/channels/Doctor.png" group-title="english",Doctor
-https://s07.watcher.uz/165/video.m3u8
-#EXTINF:-1 tvg-name="English Club" tvg-logo="http://sarkor.tv/static/images/channels/English Club.png" group-title="english",English Club
-https://s07.watcher.uz/166/video.m3u8
-#EXTINF:-1 tvg-name="Bollywood" tvg-logo="http://sarkor.tv/static/images/channels/Bollywood.png" group-title="english",Bollywood
-https://s07.watcher.uz/167/video.m3u8
-#EXTINF:-1 tvg-name="HollyWood" tvg-logo="http://sarkor.tv/static/images/channels/HollyWood.png" group-title="english",HollyWood
-https://s07.watcher.uz/168/video.m3u8
-#EXTINF:-1 tvg-name="TiJi" tvg-logo="http://sarkor.tv/static/images/channels/TiJi.png" group-title="english",TiJi
-https://s07.watcher.uz/169/video.m3u8
-#EXTINF:-1 tvg-name="KBS WORLD HD" tvg-logo="http://sarkor.tv/static/images/channels/KBS WORLD HD.png" group-title="english",KBS WORLD HD
-https://s07.watcher.uz/170/video.m3u8
-#EXTINF:-1 tvg-name="TVC RU" tvg-logo="http://sarkor.tv/static/images/channels/TVC RU.png" group-title="english",TVC RU
-https://s07.watcher.uz/173/video.m3u8
-#EXTINF:-1 tvg-name="Bloomberg TV" tvg-logo="http://sarkor.tv/static/images/channels/Bloomberg TV.png" group-title="english",Bloomberg TV
-https://s07.watcher.uz/174/video.m3u8
-#EXTINF:-1 tvg-name="Match Planeta" tvg-logo="http://sarkor.tv/static/images/channels/Match Planeta.png" group-title="english",Match Planeta
-https://s07.watcher.uz/175/video.m3u8
-#EXTINF:-1 tvg-name="Ruxsor" tvg-logo="http://sarkor.tv/static/images/channels/Ruxsor.png" group-title="english",Ruxsor
-https://s07.watcher.uz/176/video.m3u8
-#EXTINF:-1 tvg-name="Lux TV HD" tvg-logo="http://sarkor.tv/static/images/channels/Lux TV HD.png" group-title="english",Lux TV HD
-https://s07.watcher.uz/177/video.m3u8
-#EXTINF:-1 tvg-name="Makon TV HD" tvg-logo="http://sarkor.tv/static/images/channels/Makon TV HD.png" group-title="english",Makon TV HD
-https://s07.watcher.uz/178/video.m3u8
-#EXTINF:-1 tvg-name="CGTN RU HD" tvg-logo="http://sarkor.tv/static/images/channels/CGTN RU HD.png" group-title="english",CGTN RU HD
-https://s07.watcher.uz/179/video.m3u8
-#EXTINF:-1 tvg-name="AlJazeera HD" tvg-logo="http://sarkor.tv/static/images/channels/AlJazeera HD.png" group-title="english",AlJazeera HD
-https://s07.watcher.uz/181/video.m3u8
-#EXTINF:-1 tvg-name="NHK WORLD" tvg-logo="http://sarkor.tv/static/images/channels/NHK WORLD.png" group-title="english",NHK WORLD
-https://s07.watcher.uz/182/video.m3u8
-#EXTINF:-1 tvg-name="Mulokot TV" tvg-logo="http://sarkor.tv/static/images/channels/Mulokot TV.png" group-title="english",Mulokot TV
-https://s07.watcher.uz/183/video.m3u8
-#EXTINF:-1 tvg-name="Biz Cinema" tvg-logo="http://sarkor.tv/static/images/channels/Biz Cinema.png" group-title="english",Biz Cinema
-https://s07.watcher.uz/184/video.m3u8
-#EXTINF:-1 tvg-name="DW RU HD" tvg-logo="http://sarkor.tv/static/images/channels/DW RU HD.png" group-title="english",DW RU HD
-https://s05.watcher.uz/186/video.m3u8
-#EXTINF:-1 tvg-name="Nickelodeon HD" tvg-logo="http://sarkor.tv/static/images/channels/Nickelodeon HD.png" group-title="english",Nickelodeon HD
-https://s05.watcher.uz/188/video.m3u8
-#EXTINF:-1 tvg-name="Nicktoons HD" tvg-logo="http://sarkor.tv/static/images/channels/Nicktoons HD.png" group-title="english",Nicktoons HD
-https://s05.watcher.uz/189/video.m3u8
-#EXTINF:-1 tvg-name="Setanta Sports" tvg-logo="http://sarkor.tv/static/images/channels/Setanta Sports.svg" group-title="english",Setanta Sports
-https://s05.watcher.uz/191/video.m3u8
-#EXTINF:-1 tvg-name="Setanta Sports 2" tvg-logo="http://sarkor.tv/static/images/channels/Setanta Sports 2.svg" group-title="english",Setanta Sports 2
-https://s05.watcher.uz/192/video.m3u8
-#EXTINF:-1 tvg-name="TV3 International" tvg-logo="http://sarkor.tv/static/images/channels/TV3 International.svg" group-title="english",TV3 International
-https://s05.watcher.uz/38/video.m3u8
-#EXTINF:-1 tvg-name="QiziqTV HD" tvg-logo="http://sarkor.tv/static/images/channels/QiziqTV HD.svg" group-title="english",QiziqTV HD
-https://s04.watcher.uz/193/video.m3u8
-#EXTINF:-1 tvg-name="MyDay TV HD" tvg-logo="http://sarkor.tv/static/images/channels/MyDay TV HD.svg" group-title="english",MyDay TV HD
-https://s04.watcher.uz/194/video.m3u8
-#EXTINF:-1 tvg-name="Retro UZ HD" tvg-logo="http://sarkor.tv/static/images/channels/Retro UZ HD.svg" group-title="english",Retro UZ HD
-https://s04.watcher.uz/195/video.m3u8
-#EXTINF:-1 tvg-name="The Explorers" tvg-logo="" group-title="english",The Explorers
-http://api.peers.tv/timeshift/the_explorers/16/playlist.m3u8?offset=10
-#EXTINF:-1 tvg-name="TERRA" tvg-logo="" group-title="english",TERRA
-http://api.peers.tv/timeshift/terras/16/playlist.m3u8?offset=10
-#EXTINF:-1 tvg-name="TERRA HD" tvg-logo="" group-title="english",TERRA HD
-http://api.peers.tv/timeshift/terra_hd/16/playlist.m3u8?offset=10
-#EXTINF:-1 tvg-name="Travel+Adventure" tvg-logo="" group-title="english",Travel+Adventure
-http://api.peers.tv/timeshift/travad/16/playlist.m3u8?offset=10
-#EXTINF:-1 tvg-name="Travel+Adventure HD" tvg-logo="" group-title="english",Travel+Adventure HD
-http://api.peers.tv/timeshift/travel_adventure_hd/16/playlist.m3u8?offset=10
-#EXTINF:-1 tvg-name="Galaxy TV" tvg-logo="" group-title="english",Galaxy TV
-http://api.peers.tv/timeshift/galaxy_tv/16/playlist.m3u8?offset=10
-#EXTINF:-1 tvg-name="2x2 (+4)" tvg-logo="" group-title="english",2x2 (+4)
-http://api.peers.tv/timeshift/2x2tv/16/playlist.m3u8?offset=10
-#EXTINF:-1 tvg-name="Fan HD" tvg-logo="" group-title="english",Fan HD
-http://api.peers.tv/timeshift/fan_hd/16/playlist.m3u8?offset=10
-#EXTINF:-1 tvg-name="FILMBOX" tvg-logo="" group-title="english",FILMBOX
-http://api.peers.tv/timeshift/filmbox/16/playlist.m3u8?offset=10
-#EXTINF:-1 tvg-name="Filmbox Arthouse" tvg-logo="" group-title="english",Filmbox Arthouse
-http://api.peers.tv/timeshift/filmbox_arthouse/16/playlist.m3u8?offset=10
-#EXTINF:-1 tvg-name="Star Family HD" tvg-logo="" group-title="english",Star Family HD
-http://api.peers.tv/timeshift/star_family_hd/16/playlist.m3u8?offset=10
-#EXTINF:-1 tvg-name="TV1000 Action" tvg-logo="" group-title="english",TV1000 Action
-http://api.peers.tv/timeshift/tv1000_action/16/playlist.m3u8?offset=10
-#EXTINF:-1 tvg-name="Timeless Dizi Channel" tvg-logo="" group-title="english",Timeless Dizi Channel
-http://api.peers.tv/timeshift/timeless_dizi_channel/16/playlist.m3u8?offset=10
-#EXTINF:-1 tvg-name="MyZen TV" tvg-logo="" group-title="english",MyZen TV
-http://api.peers.tv/timeshift/myzen_hd/16/playlist.m3u8?offset=10
-#EXTINF:-1 tvg-name="Song TV Armenia" tvg-logo="" group-title="english",Song TV Armenia
-http://api.peers.tv/timeshift/songtv_armenia/126/playlist.m3u8?offset=10
-#EXTINF:-1 tvg-name="Song TV Russia" tvg-logo="" group-title="english",Song TV Russia
-http://hls.peers.tv/streaming/songtv_russia/126/copy/playlist.m3u8?offset=10
-#EXTINF:-1 tvg-name="Music Box Russia" tvg-logo="" group-title="english",Music Box Russia
-http://hls.peers.tv/streaming/musboxru/126/vh1w/playlist.m3u8?offset=10
-#EXTINF:-1 tvg-name="Bolt HD" tvg-logo="" group-title="english",Bolt HD
-http://api.peers.tv/timeshift/bolt_hd/16/playlist.m3u8?offset=10
-#EXTINF:-1 tvg-name="Viasat Sport HD" tvg-logo="" group-title="english",Viasat Sport HD
-http://api.peers.tv/timeshift/viasat_sport_hd/16/playlist.m3u8?offset=10
-#EXTINF:-1 tvg-name="KHL Prime HD" tvg-logo="" group-title="english",KHL Prime HD
-http://api.peers.tv/timeshift/kxl_hd/16/playlist.m3u8?offset=10
-#EXTINF:-1 tvg-name="HiTFm" tvg-logo="" group-title="english",HiTFm
-http://live.hitfm.uz/hitfmuz
-#EXTINF:-1 tvg-name="TempFm" tvg-logo="" group-title="english",TempFm
-http://tempradio-live.uz/live
-#EXTINF:-1 tvg-name="Radio Grand" tvg-logo="" group-title="english",Radio Grand
-https://str1.tvcom.uz/RADIO-GRAND/shoutcast
-#EXTINF:-1 tvg-name="TruckFm" tvg-logo="" group-title="english",TruckFm
-http://fm.truckfm.uz:8000/128
-#EXTINF:-1 tvg-name="Qalbim Navosi" tvg-logo="" group-title="english",Qalbim Navosi
-http://tabassum.uz:9000/alo_low
-#EXTINF:-1 tvg-name="Navro'z" tvg-logo="" group-title="english",Navro'z
-http://navruzfm.uz:9000/navruz_low
-#EXTINF:-1 tvg-name="I-Kbol Fm" tvg-logo="" group-title="english",I-Kbol Fm
-http://oriat.mediabay.uz:8012/ikbol
-#EXTINF:-1 tvg-name="AvtoRadio" tvg-logo="" group-title="english",AvtoRadio
-https://fm102.uz:8443/autoradio
-#EXTINF:-1 tvg-name="Ruxsor FM" tvg-logo="" group-title="english",Ruxsor FM
-http://oriat.mediabay.uz:8012/RuxsorFM
-#EXTINF:-1 tvg-name="Oriat Dono" tvg-logo="" group-title="english",Oriat Dono
-http://194.5.152.248:8000/dono
-#EXTINF:-1 tvg-name="Super Radio" tvg-logo="" group-title="english",Super Radio
-https://stream.zeno.fm/b7ye4q0k3zhvv
-#EXTINF:-1 tvg-name="Parvoz FM" tvg-logo="" group-title="english",Parvoz FM
-https://stream.zeno.fm/p38kes0t498uv
-#EXTINF:-1 tvg-name="No'kis Fm" tvg-logo="" group-title="english",No'kis Fm
-http://185.196.214.70:8000/live
-#EXTINF:-1 tvg-name="Mars FM" tvg-logo="" group-title="english",Mars FM
-https://stream.zeno.fm/ugzz955srnhvv
-#EXTINF:-1 tvg-name="BiZFm" tvg-logo="" group-title="english",BiZFm
-http://fm.bizfm.uz:8443/128
-#EXTINF:-1 tvg-name="Nostalgia Fm" tvg-logo="" group-title="english",Nostalgia Fm
-https://classicfm.uz:8444/nostalgie.ogg
-#EXTINF:-1 tvg-name="Retro Fm" tvg-logo="" group-title="english",Retro Fm
-https://classicfm.uz:8444/retrofm.ogg
-#EXTINF:-1 tvg-name="Classic FM" tvg-logo="" group-title="english",Classic FM
-https://classicfm.uz:8444/classic.ogg
-#EXTINF:-1 tvg-name="Poytaxt Uz" tvg-logo="" group-title="english",Poytaxt Uz
-https://st4.mediabay.uz/Poytaxt/PoytaxtUz/tracks-a1/mono.m3u8
-#EXTINF:-1 tvg-name="Poytaxt Ru" tvg-logo="" group-title="english",Poytaxt Ru
-https://st4.mediabay.uz/Poytaxt/Poytaxt/tracks-a1/mono.m3u8
-#EXTINF:-1 tvg-name="Radio Markaz" tvg-logo="" group-title="english",Radio Markaz
-http://mediamarkaz.com:8000/radiomarkaz
 #EXTINF:-1 tvg-name="BHT HD" tvg-logo="" group-title="english",BHT HD
 http://p2.topten70.net/marko/marko/1
 #EXTINF:-1 tvg-name="FEDERALNA TV" tvg-logo="" group-title="english",FEDERALNA TV
@@ -619,7 +133,7 @@ http://p2.topten70.net/marko/marko/53
 http://p2.topten70.net/marko/marko/707
 #EXTINF:-1 tvg-name="RTL 2 HR" tvg-logo="" group-title="english",RTL 2 HR
 http://p2.topten70.net/marko/marko/54
-#EXTINF:-1 tvg-name="RTL" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/rtl-logo.png" group-title="english",RTL
+#EXTINF:-1 tvg-name="RTL" tvg-logo="http://144.76.182.124/exyulogo/rtl.png" group-title="english",RTL
 http://p2.topten70.net/marko/marko/705
 #EXTINF:-1 tvg-name="RTL ADRIA" tvg-logo="" group-title="english",RTL ADRIA
 http://p2.topten70.net/marko/marko/567
@@ -1043,16 +557,26 @@ http://p2.topten70.net/marko/marko/770
 http://p2.topten70.net/marko/marko/774
 #EXTINF:-1 tvg-name="PINK PEDIA" tvg-logo="" group-title="english",PINK PEDIA
 http://p2.topten70.net/marko/marko/163
+#EXTINF:-1 tvg-name="NATIONAL GEOGRAPHIC" tvg-logo="" group-title="english",NATIONAL GEOGRAPHIC
+http://p2.topten70.net/marko/marko/213
 #EXTINF:-1 tvg-name="DISCOVERY" tvg-logo="" group-title="english",DISCOVERY
 http://p2.topten70.net/marko/marko/214
 #EXTINF:-1 tvg-name="DISCOVERY SCI HD" tvg-logo="" group-title="english",DISCOVERY SCI HD
 http://p2.topten70.net/marko/marko/215
+#EXTINF:-1 tvg-name="VIASAT NATURE" tvg-logo="" group-title="english",VIASAT NATURE
+http://p2.topten70.net/marko/marko/217
 #EXTINF:-1 tvg-name="VIASAT EXPLORER" tvg-logo="" group-title="english",VIASAT EXPLORER
 http://p2.topten70.net/marko/marko/218
+#EXTINF:-1 tvg-name="VIASAT HISTORY" tvg-logo="" group-title="english",VIASAT HISTORY
+http://p2.topten70.net/marko/marko/219
 #EXTINF:-1 tvg-name="NOVA DOCUMENTARY 2" tvg-logo="" group-title="english",NOVA DOCUMENTARY 2
 http://p2.topten70.net/marko/marko/646
 #EXTINF:-1 tvg-name="HISTORY HD 2" tvg-logo="" group-title="english",HISTORY HD 2
 http://p2.topten70.net/marko/marko/226
+#EXTINF:-1 tvg-name="HISTORY HD" tvg-logo="" group-title="english",HISTORY HD
+http://p2.topten70.net/marko/marko/225
+#EXTINF:-1 tvg-name="ANIMAL PLANET" tvg-logo="" group-title="english",ANIMAL PLANET
+http://p2.topten70.net/marko/marko/220
 #EXTINF:-1 tvg-name="NG WILD" tvg-logo="" group-title="english",NG WILD
 http://p2.topten70.net/marko/marko/221
 #EXTINF:-1 tvg-name="TRAVEL CHANEL" tvg-logo="" group-title="english",TRAVEL CHANEL
@@ -1067,6 +591,8 @@ http://p2.topten70.net/marko/marko/228
 http://p2.topten70.net/marko/marko/230
 #EXTINF:-1 tvg-name="DOCU BOX" tvg-logo="" group-title="english",DOCU BOX
 http://p2.topten70.net/marko/marko/231
+#EXTINF:-1 tvg-name="TLC" tvg-logo="" group-title="english",TLC
+http://p2.topten70.net/marko/marko/232
 #EXTINF:-1 tvg-name="AGRO TV" tvg-logo="" group-title="english",AGRO TV
 http://p2.topten70.net/marko/marko/229
 #EXTINF:-1 tvg-name="DISCOVERY ID" tvg-logo="" group-title="english",DISCOVERY ID
@@ -1735,13 +1261,13 @@ http://p2.topten70.net/marko/marko/553
 http://p2.topten70.net/marko/marko/554
 #EXTINF:-1 tvg-name="TV ORANJE" tvg-logo="" group-title="english",TV ORANJE
 http://p2.topten70.net/marko/marko/555
-#EXTINF:-1 tvg-name="ANIMAL PLANET (NL)" tvg-logo="" group-title="english",ANIMAL PLANET (NL)
+#EXTINF:-1 tvg-name="Animal Planet NL" tvg-logo="http://tugapt.com/picons/animalplanetnl.png" group-title="english",Animal Planet NL
 http://p2.topten70.net/marko/marko/731
-#EXTINF:-1 tvg-name="BOOMERANG (NL)" tvg-logo="" group-title="english",BOOMERANG (NL)
+#EXTINF:-1 tvg-name="Boomerang NL" tvg-logo="http://tugapt.com/picons/boomerangnl.png" group-title="english",Boomerang NL
 http://p2.topten70.net/marko/marko/732
-#EXTINF:-1 tvg-name="RTL CRIME (NL)" tvg-logo="" group-title="english",RTL CRIME (NL)
+#EXTINF:-1 tvg-name="RTL Crime NL" tvg-logo="http://tugapt.com/picons/rtlcrimenl.png" group-title="english",RTL Crime NL
 http://p2.topten70.net/marko/marko/733
-#EXTINF:-1 tvg-name="RTL Z (NL)" tvg-logo="" group-title="english",RTL Z (NL)
+#EXTINF:-1 tvg-name="RTL Z NL" tvg-logo="http://tugapt.com/picons/rtlznl.png" group-title="english",RTL Z NL
 http://p2.topten70.net/marko/marko/734
 #EXTINF:-1 tvg-name="NET 5" tvg-logo="" group-title="english",NET 5
 http://p2.topten70.net/marko/marko/735
@@ -1833,7 +1359,7 @@ http://46.4.79.240/movie/marko/marko/1950.mp4
 http://46.4.79.240/movie/marko/marko/1948.mp4
 #EXTINF:-1 tvg-name="Crater (2023) (2023)" tvg-logo="http://tztv.topten70.net:29001/movie_covers/cover-1958.jpg" group-title="english",Crater (2023) (2023)
 http://46.4.79.240/movie/marko/marko/1958.mp4
-#EXTINF:-1 tvg-name="Creed III 2023 (2023)" tvg-logo="http://image.tmdb.org/t/p/w154/cvsXj3I9Q2iyyIo95AecSd1tad7.jpg" group-title="english",Creed III 2023 (2023)
+#EXTINF:-1 tvg-name="Creed III (2023) (2023)" tvg-logo="http://tztv.topten70.net:29001/movie_covers/cover-1959.jpg" group-title="english",Creed III (2023) (2023)
 http://46.4.79.240/movie/marko/marko/1959.mp4
 #EXTINF:-1 tvg-name="Disquiet (2023) (2023)" tvg-logo="http://tztv.topten70.net:29001/movie_covers/cover-1952.jpg" group-title="english",Disquiet (2023) (2023)
 http://46.4.79.240/movie/marko/marko/1952.mp4
@@ -1849,7 +1375,7 @@ http://46.4.79.240/movie/marko/marko/1963.mp4
 http://46.4.79.240/movie/marko/marko/1964.mp4
 #EXTINF:-1 tvg-name="Gran Turismo (2023) (2023)" tvg-logo="http://tztv.topten70.net:29001/movie_covers/cover-1965.jpg" group-title="english",Gran Turismo (2023) (2023)
 http://46.4.79.240/movie/marko/marko/1965.mp4
-#EXTINF:-1 tvg-name="In His Shadow 2023 (2023)" tvg-logo="http://image.tmdb.org/t/p/w154/ooyH5mGWvN3ZJOSqTBntlQ8Iail.jpg" group-title="english",In His Shadow 2023 (2023)
+#EXTINF:-1 tvg-name="In His Shadow (2023) (2023)" tvg-logo="http://tztv.topten70.net:29001/movie_covers/cover-1953.jpg" group-title="english",In His Shadow (2023) (2023)
 http://46.4.79.240/movie/marko/marko/1953.mp4
 #EXTINF:-1 tvg-name="Inside Man (2006) (2006)" tvg-logo="http://tztv.topten70.net:29001/movie_covers/cover-1966.jpg" group-title="english",Inside Man (2006) (2006)
 http://46.4.79.240/movie/marko/marko/1966.mp4
@@ -1893,7 +1419,7 @@ http://46.4.79.240/movie/marko/marko/1981.mp4
 http://46.4.79.240/movie/marko/marko/1982.mp4
 #EXTINF:-1 tvg-name="The Passenger (2023) (2024)" tvg-logo="http://tztv.topten70.net:29001/movie_covers/cover-1983.jpg" group-title="english",The Passenger (2023) (2024)
 http://46.4.79.240/movie/marko/marko/1983.mp4
-#EXTINF:-1 tvg-name="The Popes Exorcist (2023) (2023)" tvg-logo="http://image.tmdb.org/t/p/w154/jFC4LS5qTAT3PinzdEzINfu1CV9.jpg" group-title="english",The Popes Exorcist (2023) (2023)
+#EXTINF:-1 tvg-name="The Pope's Exorcist (2023) (2023)" tvg-logo="http://tztv.topten70.net:29001/movie_covers/cover-1951.jpg" group-title="english",The Pope's Exorcist (2023) (2023)
 http://46.4.79.240/movie/marko/marko/1951.mp4
 #EXTINF:-1 tvg-name="The Portable Door (2023) (2023)" tvg-logo="http://tztv.topten70.net:29001/movie_covers/cover-1985.jpg" group-title="english",The Portable Door (2023) (2023)
 http://46.4.79.240/movie/marko/marko/1985.mp4
@@ -2995,7 +2521,7 @@ http://46.4.79.240/movie/marko/marko/2074.mp4
 http://46.4.79.240/movie/marko/marko/2105.mp4
 #EXTINF:-1 tvg-name="Emergency Landing (2023) (2023)" tvg-logo="http://tztv.topten70.net:29001/movie_covers/cover-2088.jpg" group-title="english",Emergency Landing (2023) (2023)
 http://46.4.79.240/movie/marko/marko/2088.mp4
-#EXTINF:-1 tvg-name="Five Nights at Freddy's (2023) (2023)" tvg-logo="http://tztv.topten70.net:29001/movie_covers/cover-2198.jpg" group-title="english",Five Nights at Freddy's (2023) (2023)
+#EXTINF:-1 tvg-name="Five Nights at Freddys (2023) (2023)" tvg-logo="http://image.tmdb.org/t/p/w154/4dKRTUylqwXQ4VJz0BS84fqW2wa.jpg" group-title="english",Five Nights at Freddys (2023) (2023)
 http://46.4.79.240/movie/marko/marko/2198.mp4
 #EXTINF:-1 tvg-name="Golda (2023) (2023)" tvg-logo="http://tztv.topten70.net:29001/movie_covers/cover-2256.jpg" group-title="english",Golda (2023) (2023)
 http://46.4.79.240/movie/marko/marko/2256.mp4
@@ -5499,7 +5025,7 @@ http://46.4.79.240/movie/marko/marko/3227.mp4
 http://46.4.79.240/movie/marko/marko/3226.mp4
 #EXTINF:-1 tvg-name="Wendell & Wild (2022) (2022)" tvg-logo="http://tztv.topten70.net:29001/movie_covers/cover-3230.jpg" group-title="english",Wendell & Wild (2022) (2022)
 http://46.4.79.240/movie/marko/marko/3230.mp4
-#EXTINF:-1 tvg-name="Tad, the Lost Explorer and the Emerald Tablet (2022) (2022)" tvg-logo="http://tztv.topten70.net:29001/movie_covers/cover-3222.jpg" group-title="english",Tad, the Lost Explorer and the Emerald Tablet (2022) (2022)
+#EXTINF:-1 tvg-name="Tad the Lost Explorer and the Emerald Tablet (2022) (2022)" tvg-logo="https://m.media-amazon.com/images/M/MV5BNmEzOTJlOTMtYTJhMC00YTFhLWI0MDYtOWM1NGRhNjkxZDNhXkEyXkFqcGdeQXVyOTE1MjI5OTc@._V1_SX155.jpg" group-title="english",Tad the Lost Explorer and the Emerald Tablet (2022) (2022)
 http://46.4.79.240/movie/marko/marko/3222.mp4
 #EXTINF:-1 tvg-name="Snoopy Praesentiert Keine Ist Wie Mie" tvg-logo="" group-title="english",Snoopy Praesentiert Keine Ist Wie Mie
 http://46.4.79.240/movie/marko/marko/3219.mp4
@@ -5529,7 +5055,7 @@ http://46.4.79.240/movie/marko/marko/3210.mp4
 http://46.4.79.240/movie/marko/marko/3208.mp4
 #EXTINF:-1 tvg-name="Minions Und Mehr 2" tvg-logo="" group-title="english",Minions Und Mehr 2
 http://46.4.79.240/movie/marko/marko/3207.mp4
-#EXTINF:-1 tvg-name="Minions The Rise Of Gru 2022 (2022)" tvg-logo="http://image.tmdb.org/t/p/w154/wKiOkZTN9lUUUNZLmtnwubZYONg.jpg" group-title="english",Minions The Rise Of Gru 2022 (2022)
+#EXTINF:-1 tvg-name="Minions: The Rise of Gru (2022) (2022)" tvg-logo="http://tztv.topten70.net:29001/movie_covers/cover-3206.jpg" group-title="english",Minions: The Rise of Gru (2022) (2022)
 http://46.4.79.240/movie/marko/marko/3206.mp4
 #EXTINF:-1 tvg-name="Mavka Hueterin Des Waldes" tvg-logo="" group-title="english",Mavka Hueterin Des Waldes
 http://46.4.79.240/movie/marko/marko/3203.mp4
@@ -5541,7 +5067,7 @@ http://46.4.79.240/movie/marko/marko/3209.mp4
 http://46.4.79.240/movie/marko/marko/3194.mp4
 #EXTINF:-1 tvg-name="Hotel Transylvania: Transformania (2022) (2022)" tvg-logo="http://tztv.topten70.net:29001/movie_covers/cover-3193.jpg" group-title="english",Hotel Transylvania: Transformania (2022) (2022)
 http://46.4.79.240/movie/marko/marko/3193.mp4
-#EXTINF:-1 tvg-name="Guillermo del Toro's Pinocchio (2022) (2022)" tvg-logo="http://tztv.topten70.net:29001/movie_covers/cover-3192.jpg" group-title="english",Guillermo del Toro's Pinocchio (2022) (2022)
+#EXTINF:-1 tvg-name="Guillermo Del Toros Pinocchio (2022) (2022)" tvg-logo="" group-title="english",Guillermo Del Toros Pinocchio (2022) (2022)
 http://46.4.79.240/movie/marko/marko/3192.mp4
 #EXTINF:-1 tvg-name="Diary of a Wimpy Kid: Rodrick Rules (2011) (2011)" tvg-logo="http://tztv.topten70.net:29001/movie_covers/cover-3190.jpg" group-title="english",Diary of a Wimpy Kid: Rodrick Rules (2011) (2011)
 http://46.4.79.240/movie/marko/marko/3190.mp4
@@ -5573,11 +5099,11 @@ http://46.4.79.240/movie/marko/marko/3181.mp4
 http://46.4.79.240/movie/marko/marko/3172.mp4
 #EXTINF:-1 tvg-name="The Sea Beast (2022) (2022)" tvg-logo="http://tztv.topten70.net:29001/movie_covers/cover-3176.jpg" group-title="english",The Sea Beast (2022) (2022)
 http://46.4.79.240/movie/marko/marko/3176.mp4
-#EXTINF:-1 tvg-name="The Magician's Elephant (2023) (2023)" tvg-logo="http://tztv.topten70.net:29001/movie_covers/cover-3178.jpg" group-title="english",The Magician's Elephant (2023) (2023)
+#EXTINF:-1 tvg-name="The Magicians Elephant (2023) (2023)" tvg-logo="http://image.tmdb.org/t/p/w154/cAoAgzOCxSytYBqqCQulhXNR3LB.jpg" group-title="english",The Magicians Elephant (2023) (2023)
 http://46.4.79.240/movie/marko/marko/3178.mp4
 #EXTINF:-1 tvg-name="The Swan Princess: A Fairytale Is Born (2023) (2023)" tvg-logo="http://tztv.topten70.net:29001/movie_covers/cover-3225.jpg" group-title="english",The Swan Princess: A Fairytale Is Born (2023) (2023)
 http://46.4.79.240/movie/marko/marko/3225.mp4
-#EXTINF:-1 tvg-name="DC League of Super-Pets (2022) (2022)" tvg-logo="http://tztv.topten70.net:29001/movie_covers/cover-3175.jpg" group-title="english",DC League of Super-Pets (2022) (2022)
+#EXTINF:-1 tvg-name="DC League of SuperPets (2022) (2022)" tvg-logo="http://image.tmdb.org/t/p/w154/qpPMewlugFaejXjz4YNDnpTniFX.jpg" group-title="english",DC League of SuperPets (2022) (2022)
 http://46.4.79.240/movie/marko/marko/3175.mp4
 #EXTINF:-1 tvg-name="Diary of a Wimpy Kid Christmas: Cabin Fever (2023) (2023)" tvg-logo="http://tztv.topten70.net:29001/movie_covers/cover-3191.jpg" group-title="english",Diary of a Wimpy Kid Christmas: Cabin Fever (2023) (2023)
 http://46.4.79.240/movie/marko/marko/3191.mp4
@@ -5837,7 +5363,7 @@ http://46.4.79.240/movie/marko/marko/4650.mp4
 http://46.4.79.240/movie/marko/marko/4651.mp4
 #EXTINF:-1 tvg-name="Gunfight at the O.K. Corral (1957) (1957)" tvg-logo="http://tztv.topten70.net:29001/movie_covers/cover-4653.jpg" group-title="english",Gunfight at the O.K. Corral (1957) (1957)
 http://46.4.79.240/movie/marko/marko/4653.mp4
-#EXTINF:-1 tvg-name="Hannah's Law (2012) (2012)" tvg-logo="http://tztv.topten70.net:29001/movie_covers/cover-4654.jpg" group-title="english",Hannah's Law (2012) (2012)
+#EXTINF:-1 tvg-name="Hannahs Law (2012) (2012)" tvg-logo="https://m.media-amazon.com/images/M/MV5BYzAxYzU5NzUtOTc3Zi00MDcyLTk3MTEtZmU0ZGI4ZmFhMTZiXkEyXkFqcGdeQXVyMjQwMjk0NjI@._V1_SX155.jpg" group-title="english",Hannahs Law (2012) (2012)
 http://46.4.79.240/movie/marko/marko/4654.mp4
 #EXTINF:-1 tvg-name="Heller in Pink Tights (1960) (1960)" tvg-logo="http://tztv.topten70.net:29001/movie_covers/cover-4655.jpg" group-title="english",Heller in Pink Tights (1960) (1960)
 http://46.4.79.240/movie/marko/marko/4655.mp4
@@ -5999,3 +5525,477 @@ http://46.4.79.240/movie/marko/marko/4774.mp4
 http://46.4.79.240/movie/marko/marko/4775.mp4
 #EXTINF:-1 tvg-name="Horizon An American Saga Chapter 1 2024 2024" tvg-logo="" group-title="english",Horizon An American Saga Chapter 1 2024 2024
 http://46.4.79.240/movie/marko/marko/4777.mp4
+#EXTINF:-1 tvg-name="Bury My Heart at Wounded Knee (2007) (2007)" tvg-logo="http://tztv.topten70.net:29001/movie_covers/cover-4776.jpg" group-title="english",Bury My Heart at Wounded Knee (2007) (2007)
+http://46.4.79.240/movie/marko/marko/4776.mp4
+#EXTINF:-1 tvg-name="The Gold Behind the Stone (2025) (2025)" tvg-logo="http://tztv.topten70.net:29001/movie_covers/cover-4652.jpg" group-title="english",The Gold Behind the Stone (2025) (2025)
+http://46.4.79.240/movie/marko/marko/4652.mp4
+#EXTINF:-1 tvg-name="Cave of Outlaws (1951) (1951)" tvg-logo="http://tztv.topten70.net:29001/movie_covers/cover-4647.jpg" group-title="english",Cave of Outlaws (1951) (1951)
+http://46.4.79.240/movie/marko/marko/4647.mp4
+#EXTINF:-1 tvg-name="Buck and the Preacher (1972) (1972)" tvg-logo="http://tztv.topten70.net:29001/movie_covers/cover-4732.jpg" group-title="english",Buck and the Preacher (1972) (1972)
+http://46.4.79.240/movie/marko/marko/4732.mp4
+#EXTINF:-1 tvg-name="Dakota Incident (1956) (1956)" tvg-logo="http://tztv.topten70.net:29001/movie_covers/cover-4710.jpg" group-title="english",Dakota Incident (1956) (1956)
+http://46.4.79.240/movie/marko/marko/4710.mp4
+#EXTINF:-1 tvg-name="Dead Again in Tombstone (2017) (2017)" tvg-logo="http://tztv.topten70.net:29001/movie_covers/cover-4734.jpg" group-title="english",Dead Again in Tombstone (2017) (2017)
+http://46.4.79.240/movie/marko/marko/4734.mp4
+#EXTINF:-1 tvg-name="Gallowwalkers (2012) (2012)" tvg-logo="http://tztv.topten70.net:29001/movie_covers/cover-4741.jpg" group-title="english",Gallowwalkers (2012) (2012)
+http://46.4.79.240/movie/marko/marko/4741.mp4
+#EXTINF:-1 tvg-name="Gone Are the Days (2018) (2018)" tvg-logo="http://tztv.topten70.net:29001/movie_covers/cover-4690.jpg" group-title="english",Gone Are the Days (2018) (2018)
+http://46.4.79.240/movie/marko/marko/4690.mp4
+#EXTINF:-1 tvg-name="Justice (2006) (2006)" tvg-logo="http://tztv.topten70.net:29001/movie_covers/cover-4639.jpg" group-title="english",Justice (2006) (2006)
+http://46.4.79.240/movie/marko/marko/4639.mp4
+#EXTINF:-1 tvg-name="Once Upon a Time in the West (1968) (1968)" tvg-logo="http://tztv.topten70.net:29001/movie_covers/cover-4700.jpg" group-title="english",Once Upon a Time in the West (1968) (1968)
+http://46.4.79.240/movie/marko/marko/4700.mp4
+#EXTINF:-1 tvg-name="Ride the High Country (1962) (1962)" tvg-logo="http://tztv.topten70.net:29001/movie_covers/cover-4660.jpg" group-title="english",Ride the High Country (1962) (1962)
+http://46.4.79.240/movie/marko/marko/4660.mp4
+#EXTINF:-1 tvg-name="Ringo and His Golden Pistol (1966) (1966)" tvg-logo="http://tztv.topten70.net:29001/movie_covers/cover-4746.jpg" group-title="english",Ringo and His Golden Pistol (1966) (1966)
+http://46.4.79.240/movie/marko/marko/4746.mp4
+#EXTINF:-1 tvg-name="Ringo: The Lone Rider (1968) (1968)" tvg-logo="http://tztv.topten70.net:29001/movie_covers/cover-4626.jpg" group-title="english",Ringo: The Lone Rider (1968) (1968)
+http://46.4.79.240/movie/marko/marko/4626.mp4
+#EXTINF:-1 tvg-name="Rio Bravo (1959) (1959)" tvg-logo="http://tztv.topten70.net:29001/movie_covers/cover-4702.jpg" group-title="english",Rio Bravo (1959) (1959)
+http://46.4.79.240/movie/marko/marko/4702.mp4
+#EXTINF:-1 tvg-name="The Ballad of Buster Scruggs (2018) (2018)" tvg-logo="http://tztv.topten70.net:29001/movie_covers/cover-4661.jpg" group-title="english",The Ballad of Buster Scruggs (2018) (2018)
+http://46.4.79.240/movie/marko/marko/4661.mp4
+#EXTINF:-1 tvg-name="The Rounders (1967) (1967)" tvg-logo="http://tztv.topten70.net:29001/movie_covers/cover-4695.jpg" group-title="english",The Rounders (1967) (1967)
+http://46.4.79.240/movie/marko/marko/4695.mp4
+#EXTINF:-1 tvg-name="Unforgiven (1992) (1992)" tvg-logo="http://tztv.topten70.net:29001/movie_covers/cover-4719.jpg" group-title="english",Unforgiven (1992) (1992)
+http://46.4.79.240/movie/marko/marko/4719.mp4
+#EXTINF:-1 tvg-name="Downloaded (2013) (2013)" tvg-logo="http://tztv.topten70.net:29001/movie_covers/cover-5812.jpg" group-title="english",Downloaded (2013) (2013)
+http://46.4.79.240/movie/marko/marko/5812.mp4
+#EXTINF:-1 tvg-name="40 Years of Rocky: The Birth of a Classic (2020) (2020)" tvg-logo="http://tztv.topten70.net:29001/movie_covers/cover-5750.jpg" group-title="english",40 Years of Rocky: The Birth of a Classic (2020) (2020)
+http://46.4.79.240/movie/marko/marko/5750.mp4
+#EXTINF:-1 tvg-name="A Brief History of Time (1991) (1991)" tvg-logo="http://tztv.topten70.net:29001/movie_covers/cover-5751.jpg" group-title="english",A Brief History of Time (1991) (1991)
+http://46.4.79.240/movie/marko/marko/5751.mp4
+#EXTINF:-1 tvg-name="A Cop Movie (2021) (2021)" tvg-logo="http://tztv.topten70.net:29001/movie_covers/cover-5752.jpg" group-title="english",A Cop Movie (2021) (2021)
+http://46.4.79.240/movie/marko/marko/5752.mp4
+#EXTINF:-1 tvg-name="A Good American (2015) (2015)" tvg-logo="http://tztv.topten70.net:29001/movie_covers/cover-5753.jpg" group-title="english",A Good American (2015) (2015)
+http://46.4.79.240/movie/marko/marko/5753.mp4
+#EXTINF:-1 tvg-name="ABBA: The Movie (1977) (1977)" tvg-logo="http://tztv.topten70.net:29001/movie_covers/cover-5754.jpg" group-title="english",ABBA: The Movie (1977) (1977)
+http://46.4.79.240/movie/marko/marko/5754.mp4
+#EXTINF:-1 tvg-name="Acasă, My Home (2020) (2020)" tvg-logo="http://tztv.topten70.net:29001/movie_covers/cover-5755.jpg" group-title="english",Acasă, My Home (2020) (2020)
+http://46.4.79.240/movie/marko/marko/5755.mp4
+#EXTINF:-1 tvg-name="Alcatraz Zatvorske Legende" tvg-logo="" group-title="english",Alcatraz Zatvorske Legende
+http://46.4.79.240/movie/marko/marko/5757.mp4
+#EXTINF:-1 tvg-name="Alternate Endings: Six New Ways to Die in America (2019) (2019)" tvg-logo="http://tztv.topten70.net:29001/movie_covers/cover-5758.jpg" group-title="english",Alternate Endings: Six New Ways to Die in America (2019) (2019)
+http://46.4.79.240/movie/marko/marko/5758.mp4
+#EXTINF:-1 tvg-name="American Factory (2019) (2019)" tvg-logo="http://tztv.topten70.net:29001/movie_covers/cover-5759.jpg" group-title="english",American Factory (2019) (2019)
+http://46.4.79.240/movie/marko/marko/5759.mp4
+#EXTINF:-1 tvg-name="The Last Light: An Irish Ghost Story (2011) (2011)" tvg-logo="http://tztv.topten70.net:29001/movie_covers/cover-5760.jpg" group-title="english",The Last Light: An Irish Ghost Story (2011) (2011)
+http://46.4.79.240/movie/marko/marko/5760.mp4
+#EXTINF:-1 tvg-name="Drone (2024) (2024)" tvg-logo="http://tztv.topten70.net:29001/movie_covers/cover-5813.jpg" group-title="english",Drone (2024) (2024)
+http://46.4.79.240/movie/marko/marko/5813.mp4
+#EXTINF:-1 tvg-name="Anunnaki (2018) (2018)" tvg-logo="http://tztv.topten70.net:29001/movie_covers/cover-5761.jpg" group-title="english",Anunnaki (2018) (2018)
+http://46.4.79.240/movie/marko/marko/5761.mp4
+#EXTINF:-1 tvg-name="Apollo 11 (2019) (2019)" tvg-logo="http://tztv.topten70.net:29001/movie_covers/cover-5762.jpg" group-title="english",Apollo 11 (2019) (2019)
+http://46.4.79.240/movie/marko/marko/5762.mp4
+#EXTINF:-1 tvg-name="Aquarela (2018) (2018)" tvg-logo="http://tztv.topten70.net:29001/movie_covers/cover-5763.jpg" group-title="english",Aquarela (2018) (2018)
+http://46.4.79.240/movie/marko/marko/5763.mp4
+#EXTINF:-1 tvg-name="ariana grande: excuse me, i love you (2020) (2020)" tvg-logo="http://tztv.topten70.net:29001/movie_covers/cover-5764.jpg" group-title="english",ariana grande: excuse me, i love you (2020) (2020)
+http://46.4.79.240/movie/marko/marko/5764.mp4
+#EXTINF:-1 tvg-name="Army Urban Combat" tvg-logo="" group-title="english",Army Urban Combat
+http://46.4.79.240/movie/marko/marko/5765.mp4
+#EXTINF:-1 tvg-name="Audible (2021) (2021)" tvg-logo="http://tztv.topten70.net:29001/movie_covers/cover-5766.jpg" group-title="english",Audible (2021) (2021)
+http://46.4.79.240/movie/marko/marko/5766.mp4
+#EXTINF:-1 tvg-name="Pompeii: Life and Death in a Roman Town (2010) (2010)" tvg-logo="http://tztv.topten70.net:29001/movie_covers/cover-5767.jpg" group-title="english",Pompeii: Life and Death in a Roman Town (2010) (2010)
+http://46.4.79.240/movie/marko/marko/5767.mp4
+#EXTINF:-1 tvg-name="Baby God (2020) (2020)" tvg-logo="http://tztv.topten70.net:29001/movie_covers/cover-5768.jpg" group-title="english",Baby God (2020) (2020)
+http://46.4.79.240/movie/marko/marko/5768.mp4
+#EXTINF:-1 tvg-name="Baikonur, Earth (2019) (2019)" tvg-logo="http://tztv.topten70.net:29001/movie_covers/cover-5769.jpg" group-title="english",Baikonur, Earth (2019) (2019)
+http://46.4.79.240/movie/marko/marko/5769.mp4
+#EXTINF:-1 tvg-name="Banksy and the Rise of Outlaw Art (2020) (2020)" tvg-logo="http://tztv.topten70.net:29001/movie_covers/cover-5770.jpg" group-title="english",Banksy and the Rise of Outlaw Art (2020) (2020)
+http://46.4.79.240/movie/marko/marko/5770.mp4
+#EXTINF:-1 tvg-name="Engor Dreams at 18 (2024) (2024)" tvg-logo="http://tztv.topten70.net:29001/movie_covers/cover-5771.jpg" group-title="english",Engor Dreams at 18 (2024) (2024)
+http://46.4.79.240/movie/marko/marko/5771.mp4
+#EXTINF:-1 tvg-name="Drowning in Plastic (2018) (2018)" tvg-logo="http://tztv.topten70.net:29001/movie_covers/cover-5814.jpg" group-title="english",Drowning in Plastic (2018) (2018)
+http://46.4.79.240/movie/marko/marko/5814.mp4
+#EXTINF:-1 tvg-name="Battle of Dunkirk: From Disaster to Triumph (2018) (2018)" tvg-logo="http://tztv.topten70.net:29001/movie_covers/cover-5772.jpg" group-title="english",Battle of Dunkirk: From Disaster to Triumph (2018) (2018)
+http://46.4.79.240/movie/marko/marko/5772.mp4
+#EXTINF:-1 tvg-name="Englands Lost Children" tvg-logo="" group-title="english",Englands Lost Children
+http://46.4.79.240/movie/marko/marko/5815.mp4
+#EXTINF:-1 tvg-name="Beastie Boys Story (2020) (2020)" tvg-logo="http://tztv.topten70.net:29001/movie_covers/cover-5773.jpg" group-title="english",Beastie Boys Story (2020) (2020)
+http://46.4.79.240/movie/marko/marko/5773.mp4
+#EXTINF:-1 tvg-name="Before the Flood (2016) (2016)" tvg-logo="http://tztv.topten70.net:29001/movie_covers/cover-5774.jpg" group-title="english",Before the Flood (2016) (2016)
+http://46.4.79.240/movie/marko/marko/5774.mp4
+#EXTINF:-1 tvg-name="Enron: The Smartest Guys in the Room (2005) (2005)" tvg-logo="http://tztv.topten70.net:29001/movie_covers/cover-5816.jpg" group-title="english",Enron: The Smartest Guys in the Room (2005) (2005)
+http://46.4.79.240/movie/marko/marko/5816.mp4
+#EXTINF:-1 tvg-name="Being James Bond (2021) (2021)" tvg-logo="http://tztv.topten70.net:29001/movie_covers/cover-5775.jpg" group-title="english",Being James Bond (2021) (2021)
+http://46.4.79.240/movie/marko/marko/5775.mp4
+#EXTINF:-1 tvg-name="Biggie: I Got a Story to Tell (2021) (2021)" tvg-logo="http://tztv.topten70.net:29001/movie_covers/cover-5776.jpg" group-title="english",Biggie: I Got a Story to Tell (2021) (2021)
+http://46.4.79.240/movie/marko/marko/5776.mp4
+#EXTINF:-1 tvg-name="First Man (2018) (2018)" tvg-logo="http://tztv.topten70.net:29001/movie_covers/cover-5818.jpg" group-title="english",First Man (2018) (2018)
+http://46.4.79.240/movie/marko/marko/5818.mp4
+#EXTINF:-1 tvg-name="Found (2021) (2021)" tvg-logo="http://tztv.topten70.net:29001/movie_covers/cover-5820.jpg" group-title="english",Found (2021) (2021)
+http://46.4.79.240/movie/marko/marko/5820.mp4
+#EXTINF:-1 tvg-name="Billie (2020) (2020)" tvg-logo="http://tztv.topten70.net:29001/movie_covers/cover-5777.jpg" group-title="english",Billie (2020) (2020)
+http://46.4.79.240/movie/marko/marko/5777.mp4
+#EXTINF:-1 tvg-name="Bitcoin: The End of Money as We Know It (2015) (2015)" tvg-logo="http://tztv.topten70.net:29001/movie_covers/cover-5778.jpg" group-title="english",Bitcoin: The End of Money as We Know It (2015) (2015)
+http://46.4.79.240/movie/marko/marko/5778.mp4
+#EXTINF:-1 tvg-name="BLACKPINK: Light Up the Sky (2020) (2020)" tvg-logo="http://tztv.topten70.net:29001/movie_covers/cover-5779.jpg" group-title="english",BLACKPINK: Light Up the Sky (2020) (2020)
+http://46.4.79.240/movie/marko/marko/5779.mp4
+#EXTINF:-1 tvg-name="Pirates: Blood Brothers (1999) (1999)" tvg-logo="http://tztv.topten70.net:29001/movie_covers/cover-5780.jpg" group-title="english",Pirates: Blood Brothers (1999) (1999)
+http://46.4.79.240/movie/marko/marko/5780.mp4
+#EXTINF:-1 tvg-name="Bob Ross: Happy Accidents, Betrayal & Greed (2021) (2021)" tvg-logo="http://tztv.topten70.net:29001/movie_covers/cover-5781.jpg" group-title="english",Bob Ross: Happy Accidents, Betrayal & Greed (2021) (2021)
+http://46.4.79.240/movie/marko/marko/5781.mp4
+#EXTINF:-1 tvg-name="Bobby Fischer Against the World (2011) (2011)" tvg-logo="http://tztv.topten70.net:29001/movie_covers/cover-5782.jpg" group-title="english",Bobby Fischer Against the World (2011) (2011)
+http://46.4.79.240/movie/marko/marko/5782.mp4
+#EXTINF:-1 tvg-name="Hills Village 21000 Split (2012) (2012)" tvg-logo="http://tztv.topten70.net:29001/movie_covers/cover-5783.jpg" group-title="english",Hills Village 21000 Split (2012) (2012)
+http://46.4.79.240/movie/marko/marko/5783.mp4
+#EXTINF:-1 tvg-name="Breaking Boundaries (2024) (2024)" tvg-logo="http://tztv.topten70.net:29001/movie_covers/cover-5784.jpg" group-title="english",Breaking Boundaries (2024) (2024)
+http://46.4.79.240/movie/marko/marko/5784.mp4
+#EXTINF:-1 tvg-name="Dancing with the Birds (2019) (2019)" tvg-logo="http://tztv.topten70.net:29001/movie_covers/cover-5799.jpg" group-title="english",Dancing with the Birds (2019) (2019)
+http://46.4.79.240/movie/marko/marko/5799.mp4
+#EXTINF:-1 tvg-name="Britney vs. Spears (2021) (2021)" tvg-logo="http://tztv.topten70.net:29001/movie_covers/cover-5785.jpg" group-title="english",Britney vs. Spears (2021) (2021)
+http://46.4.79.240/movie/marko/marko/5785.mp4
+#EXTINF:-1 tvg-name="Carmine Street Guitars (2018) (2018)" tvg-logo="http://tztv.topten70.net:29001/movie_covers/cover-5786.jpg" group-title="english",Carmine Street Guitars (2018) (2018)
+http://46.4.79.240/movie/marko/marko/5786.mp4
+#EXTINF:-1 tvg-name="Cartel Land (2015) (2015)" tvg-logo="http://tztv.topten70.net:29001/movie_covers/cover-5787.jpg" group-title="english",Cartel Land (2015) (2015)
+http://46.4.79.240/movie/marko/marko/5787.mp4
+#EXTINF:-1 tvg-name="Ce Gevara Istina Ispod Mita" tvg-logo="" group-title="english",Ce Gevara Istina Ispod Mita
+http://46.4.79.240/movie/marko/marko/5788.mp4
+#EXTINF:-1 tvg-name="Grizzly Tour (2020) (2020)" tvg-logo="http://tztv.topten70.net:29001/movie_covers/cover-5789.jpg" group-title="english",Grizzly Tour (2020) (2020)
+http://46.4.79.240/movie/marko/marko/5789.mp4
+#EXTINF:-1 tvg-name="Citizen Soldiers" tvg-logo="" group-title="english",Citizen Soldiers
+http://46.4.79.240/movie/marko/marko/5790.mp4
+#EXTINF:-1 tvg-name="Crack: Cocaine, Corruption & Conspiracy (2021) (2021)" tvg-logo="http://tztv.topten70.net:29001/movie_covers/cover-5798.jpg" group-title="english",Crack: Cocaine, Corruption & Conspiracy (2021) (2021)
+http://46.4.79.240/movie/marko/marko/5798.mp4
+#EXTINF:-1 tvg-name="Eastwood Directs: The Untold Story (2013) (2013)" tvg-logo="http://tztv.topten70.net:29001/movie_covers/cover-5791.jpg" group-title="english",Eastwood Directs: The Untold Story (2013) (2013)
+http://46.4.79.240/movie/marko/marko/5791.mp4
+#EXTINF:-1 tvg-name="Flight of the Conchords (2009) (2009)" tvg-logo="http://tztv.topten70.net:29001/movie_covers/cover-5819.jpg" group-title="english",Flight of the Conchords (2009) (2009)
+http://46.4.79.240/movie/marko/marko/5819.mp4
+#EXTINF:-1 tvg-name="Cold Case Hammarskjöld (2019) (2019)" tvg-logo="http://tztv.topten70.net:29001/movie_covers/cover-5792.jpg" group-title="english",Cold Case Hammarskjöld (2019) (2019)
+http://46.4.79.240/movie/marko/marko/5792.mp4
+#EXTINF:-1 tvg-name="Concorde Nadzvucna Utrka 1" tvg-logo="" group-title="english",Concorde Nadzvucna Utrka 1
+http://46.4.79.240/movie/marko/marko/5793.mp4
+#EXTINF:-1 tvg-name="Concorde Nadzvucna Utrka 2" tvg-logo="" group-title="english",Concorde Nadzvucna Utrka 2
+http://46.4.79.240/movie/marko/marko/5794.mp4
+#EXTINF:-1 tvg-name="Console Wars (2020) (2020)" tvg-logo="http://tztv.topten70.net:29001/movie_covers/cover-5795.jpg" group-title="english",Console Wars (2020) (2020)
+http://46.4.79.240/movie/marko/marko/5795.mp4
+#EXTINF:-1 tvg-name="Cosa Nostra 1" tvg-logo="" group-title="english",Cosa Nostra 1
+http://46.4.79.240/movie/marko/marko/5796.mp4
+#EXTINF:-1 tvg-name="Cosa Nostra 2" tvg-logo="" group-title="english",Cosa Nostra 2
+http://46.4.79.240/movie/marko/marko/5797.mp4
+#EXTINF:-1 tvg-name="Dd Attenborough A Life On Our Planet" tvg-logo="" group-title="english",Dd Attenborough A Life On Our Planet
+http://46.4.79.240/movie/marko/marko/5800.mp4
+#EXTINF:-1 tvg-name="Dd Attenboroughs Tasmania" tvg-logo="" group-title="english",Dd Attenboroughs Tasmania
+http://46.4.79.240/movie/marko/marko/5801.mp4
+#EXTINF:-1 tvg-name="Death March to the Parallel World Rhapsody (2018) (2018)" tvg-logo="http://tztv.topten70.net:29001/movie_covers/cover-5802.jpg" group-title="english",Death March to the Parallel World Rhapsody (2018) (2018)
+http://46.4.79.240/movie/marko/marko/5802.mp4
+#EXTINF:-1 tvg-name="Four Hours at the Capitol (2021) (2021)" tvg-logo="http://tztv.topten70.net:29001/movie_covers/cover-5821.jpg" group-title="english",Four Hours at the Capitol (2021) (2021)
+http://46.4.79.240/movie/marko/marko/5821.mp4
+#EXTINF:-1 tvg-name="H2 Izvanzemaljci I Polumrtvaci" tvg-logo="" group-title="english",H2 Izvanzemaljci I Polumrtvaci
+http://46.4.79.240/movie/marko/marko/5834.mp4
+#EXTINF:-1 tvg-name="Decoding the Great Pyramid (2019) (2019)" tvg-logo="http://tztv.topten70.net:29001/movie_covers/cover-5803.jpg" group-title="english",Decoding the Great Pyramid (2019) (2019)
+http://46.4.79.240/movie/marko/marko/5803.mp4
+#EXTINF:-1 tvg-name="Deep Web (2015) (2015)" tvg-logo="http://tztv.topten70.net:29001/movie_covers/cover-5804.jpg" group-title="english",Deep Web (2015) (2015)
+http://46.4.79.240/movie/marko/marko/5804.mp4
+#EXTINF:-1 tvg-name="In Seh Of Darkness" tvg-logo="" group-title="english",In Seh Of Darkness
+http://46.4.79.240/movie/marko/marko/5886.mp4
+#EXTINF:-1 tvg-name="Diego Maradona (2019) (2019)" tvg-logo="http://tztv.topten70.net:29001/movie_covers/cover-5807.jpg" group-title="english",Diego Maradona (2019) (2019)
+http://46.4.79.240/movie/marko/marko/5807.mp4
+#EXTINF:-1 tvg-name="#DIESELGATE (2021) (2021)" tvg-logo="http://tztv.topten70.net:29001/movie_covers/cover-5808.jpg" group-title="english",#DIESELGATE (2021) (2021)
+http://46.4.79.240/movie/marko/marko/5808.mp4
+#EXTINF:-1 tvg-name="Disclosure (1994) (1994)" tvg-logo="http://tztv.topten70.net:29001/movie_covers/cover-5809.jpg" group-title="english",Disclosure (1994) (1994)
+http://46.4.79.240/movie/marko/marko/5809.mp4
+#EXTINF:-1 tvg-name="Free Solo (2018) (2018)" tvg-logo="http://tztv.topten70.net:29001/movie_covers/cover-5822.jpg" group-title="english",Free Solo (2018) (2018)
+http://46.4.79.240/movie/marko/marko/5822.mp4
+#EXTINF:-1 tvg-name="Dolphin Reef (2018) (2018)" tvg-logo="http://tztv.topten70.net:29001/movie_covers/cover-5810.jpg" group-title="english",Dolphin Reef (2018) (2018)
+http://46.4.79.240/movie/marko/marko/5810.mp4
+#EXTINF:-1 tvg-name="From Mossad To Eichmann" tvg-logo="" group-title="english",From Mossad To Eichmann
+http://46.4.79.240/movie/marko/marko/5823.mp4
+#EXTINF:-1 tvg-name="Downfall: The Case Against Boeing (2022) (2022)" tvg-logo="http://tztv.topten70.net:29001/movie_covers/cover-5811.jpg" group-title="english",Downfall: The Case Against Boeing (2022) (2022)
+http://46.4.79.240/movie/marko/marko/5811.mp4
+#EXTINF:-1 tvg-name="Gascoigne (2015) (2015)" tvg-logo="http://tztv.topten70.net:29001/movie_covers/cover-5824.jpg" group-title="english",Gascoigne (2015) (2015)
+http://46.4.79.240/movie/marko/marko/5824.mp4
+#EXTINF:-1 tvg-name="H2 Bogovi I Izvanzemaljci" tvg-logo="" group-title="english",H2 Bogovi I Izvanzemaljci
+http://46.4.79.240/movie/marko/marko/5825.mp4
+#EXTINF:-1 tvg-name="H2 Carevi Kraljevi I Faraoni" tvg-logo="" group-title="english",H2 Carevi Kraljevi I Faraoni
+http://46.4.79.240/movie/marko/marko/5826.mp4
+#EXTINF:-1 tvg-name="H2 Drevni Arhitekti" tvg-logo="" group-title="english",H2 Drevni Arhitekti
+http://46.4.79.240/movie/marko/marko/5827.mp4
+#EXTINF:-1 tvg-name="H2 Drevni Izvanzemaljci Vizionari" tvg-logo="" group-title="english",H2 Drevni Izvanzemaljci Vizionari
+http://46.4.79.240/movie/marko/marko/5828.mp4
+#EXTINF:-1 tvg-name="H2 Faraonova Kletva" tvg-logo="" group-title="english",H2 Faraonova Kletva
+http://46.4.79.240/movie/marko/marko/5829.mp4
+#EXTINF:-1 tvg-name="H2 Glasovi Bogova" tvg-logo="" group-title="english",H2 Glasovi Bogova
+http://46.4.79.240/movie/marko/marko/5830.mp4
+#EXTINF:-1 tvg-name="H2 Iza Roswella" tvg-logo="" group-title="english",H2 Iza Roswella
+http://46.4.79.240/movie/marko/marko/5831.mp4
+#EXTINF:-1 tvg-name="H2 Izvanzemaljci Izgubljenog Kovcega" tvg-logo="" group-title="english",H2 Izvanzemaljci Izgubljenog Kovcega
+http://46.4.79.240/movie/marko/marko/5832.mp4
+#EXTINF:-1 tvg-name="H2 Izvanzemaljci I Izgubljeni Svjetovi" tvg-logo="" group-title="english",H2 Izvanzemaljci I Izgubljeni Svjetovi
+http://46.4.79.240/movie/marko/marko/5833.mp4
+#EXTINF:-1 tvg-name="H2 Izvanzemaljci I Postanak Covjeka" tvg-logo="" group-title="english",H2 Izvanzemaljci I Postanak Covjeka
+http://46.4.79.240/movie/marko/marko/5835.mp4
+#EXTINF:-1 tvg-name="H2 Izvanzemaljci I Smrtonosni Kultovi" tvg-logo="" group-title="english",H2 Izvanzemaljci I Smrtonosni Kultovi
+http://46.4.79.240/movie/marko/marko/5836.mp4
+#EXTINF:-1 tvg-name="H2 Izvanzemaljci I Smrtonosno Oruzje" tvg-logo="" group-title="english",H2 Izvanzemaljci I Smrtonosno Oruzje
+http://46.4.79.240/movie/marko/marko/5837.mp4
+#EXTINF:-1 tvg-name="H2 Izvanzemaljci I Sveta Mjesta" tvg-logo="" group-title="english",H2 Izvanzemaljci I Sveta Mjesta
+http://46.4.79.240/movie/marko/marko/5838.mp4
+#EXTINF:-1 tvg-name="H2 Izvanzemaljci I Tajanstveni Rituali" tvg-logo="" group-title="english",H2 Izvanzemaljci I Tajanstveni Rituali
+http://46.4.79.240/movie/marko/marko/5839.mp4
+#EXTINF:-1 tvg-name="H2 Izvanzemaljci I Tajni Kod" tvg-logo="" group-title="english",H2 Izvanzemaljci I Tajni Kod
+http://46.4.79.240/movie/marko/marko/5840.mp4
+#EXTINF:-1 tvg-name="H2 Izvanzemaljci I Ukleta Mjesta" tvg-logo="" group-title="english",H2 Izvanzemaljci I Ukleta Mjesta
+http://46.4.79.240/movie/marko/marko/5841.mp4
+#EXTINF:-1 tvg-name="H2 Izvanzemaljska Razaranja" tvg-logo="" group-title="english",H2 Izvanzemaljska Razaranja
+http://46.4.79.240/movie/marko/marko/5842.mp4
+#EXTINF:-1 tvg-name="H2 Izvanzemaljske Akcije" tvg-logo="" group-title="english",H2 Izvanzemaljske Akcije
+http://46.4.79.240/movie/marko/marko/5843.mp4
+#EXTINF:-1 tvg-name="H2 Izvanzemaljske Posasti I Epidemije" tvg-logo="" group-title="english",H2 Izvanzemaljske Posasti I Epidemije
+http://46.4.79.240/movie/marko/marko/5844.mp4
+#EXTINF:-1 tvg-name="H2 Kamena Letjelica" tvg-logo="" group-title="english",H2 Kamena Letjelica
+http://46.4.79.240/movie/marko/marko/5845.mp4
+#EXTINF:-1 tvg-name="H2 Konacan Dokaz Izvanzemaljci I Izgubljeni Kovceg" tvg-logo="" group-title="english",H2 Konacan Dokaz Izvanzemaljci I Izgubljeni Kovceg
+http://46.4.79.240/movie/marko/marko/5846.mp4
+#EXTINF:-1 tvg-name="H2 Konacan Dokaz Izvanzemaljci I Stvaranje Covjeka" tvg-logo="" group-title="english",H2 Konacan Dokaz Izvanzemaljci I Stvaranje Covjeka
+http://46.4.79.240/movie/marko/marko/5847.mp4
+#EXTINF:-1 tvg-name="H2 Konacan Dokaz Izvanzemaljske Poruke" tvg-logo="" group-title="english",H2 Konacan Dokaz Izvanzemaljske Poruke
+http://46.4.79.240/movie/marko/marko/5848.mp4
+#EXTINF:-1 tvg-name="H2 Konacan Dokaz Monoliti" tvg-logo="" group-title="english",H2 Konacan Dokaz Monoliti
+http://46.4.79.240/movie/marko/marko/5849.mp4
+#EXTINF:-1 tvg-name="H2 Konacan Dokaz Pogonski Sustav Izvanzemaljaca" tvg-logo="" group-title="english",H2 Konacan Dokaz Pogonski Sustav Izvanzemaljaca
+http://46.4.79.240/movie/marko/marko/5850.mp4
+#EXTINF:-1 tvg-name="H2 Konacan Dokaz Tajna Puma Punkua" tvg-logo="" group-title="english",H2 Konacan Dokaz Tajna Puma Punkua
+http://46.4.79.240/movie/marko/marko/5851.mp4
+#EXTINF:-1 tvg-name="H2 Konacan Dokaz Tajne Nazce" tvg-logo="" group-title="english",H2 Konacan Dokaz Tajne Nazce
+http://46.4.79.240/movie/marko/marko/5852.mp4
+#EXTINF:-1 tvg-name="H2 Konacan Dokaz Teslin Pokus" tvg-logo="" group-title="english",H2 Konacan Dokaz Teslin Pokus
+http://46.4.79.240/movie/marko/marko/5853.mp4
+#EXTINF:-1 tvg-name="H2 Kristalne Lubanje" tvg-logo="" group-title="english",H2 Kristalne Lubanje
+http://46.4.79.240/movie/marko/marko/5854.mp4
+#EXTINF:-1 tvg-name="H2 Lovci Na Izvanzemaljce" tvg-logo="" group-title="english",H2 Lovci Na Izvanzemaljce
+http://46.4.79.240/movie/marko/marko/5855.mp4
+#EXTINF:-1 tvg-name="H2 Misteriozni Ostaci" tvg-logo="" group-title="english",H2 Misteriozni Ostaci
+http://46.4.79.240/movie/marko/marko/5856.mp4
+#EXTINF:-1 tvg-name="H2 Moc Trojstva" tvg-logo="" group-title="english",H2 Moc Trojstva
+http://46.4.79.240/movie/marko/marko/5857.mp4
+#EXTINF:-1 tvg-name="H2 Monoliti" tvg-logo="" group-title="english",H2 Monoliti
+http://46.4.79.240/movie/marko/marko/5858.mp4
+#EXTINF:-1 tvg-name="H2 Novi Dokazi" tvg-logo="" group-title="english",H2 Novi Dokazi
+http://46.4.79.240/movie/marko/marko/5859.mp4
+#EXTINF:-1 tvg-name="H2 Odrediste Mars" tvg-logo="" group-title="english",H2 Odrediste Mars
+http://46.4.79.240/movie/marko/marko/5860.mp4
+#EXTINF:-1 tvg-name="H2 Poveznica S Bogovima Anunnakija" tvg-logo="" group-title="english",H2 Poveznica S Bogovima Anunnakija
+http://46.4.79.240/movie/marko/marko/5861.mp4
+#EXTINF:-1 tvg-name="H2 Povratnici" tvg-logo="" group-title="english",H2 Povratnici
+http://46.4.79.240/movie/marko/marko/5862.mp4
+#EXTINF:-1 tvg-name="H2 Replikanti" tvg-logo="" group-title="english",H2 Replikanti
+http://46.4.79.240/movie/marko/marko/5863.mp4
+#EXTINF:-1 tvg-name="H2 Siva Razarac" tvg-logo="" group-title="english",H2 Siva Razarac
+http://46.4.79.240/movie/marko/marko/5864.mp4
+#EXTINF:-1 tvg-name="H2 Sotonina Urota" tvg-logo="" group-title="english",H2 Sotonina Urota
+http://46.4.79.240/movie/marko/marko/5865.mp4
+#EXTINF:-1 tvg-name="H2 Svemirska Stanica Mjesec" tvg-logo="" group-title="english",H2 Svemirska Stanica Mjesec
+http://46.4.79.240/movie/marko/marko/5866.mp4
+#EXTINF:-1 tvg-name="H2 Tajna Rudloe Manora" tvg-logo="" group-title="english",H2 Tajna Rudloe Manora
+http://46.4.79.240/movie/marko/marko/5867.mp4
+#EXTINF:-1 tvg-name="H2 Tajne Sfinge" tvg-logo="" group-title="english",H2 Tajne Sfinge
+http://46.4.79.240/movie/marko/marko/5868.mp4
+#EXTINF:-1 tvg-name="H2 Tajni Ruski Dosjei" tvg-logo="" group-title="english",H2 Tajni Ruski Dosjei
+http://46.4.79.240/movie/marko/marko/5869.mp4
+#EXTINF:-1 tvg-name="H2 Tudjinski Diskovi" tvg-logo="" group-title="english",H2 Tudjinski Diskovi
+http://46.4.79.240/movie/marko/marko/5870.mp4
+#EXTINF:-1 tvg-name="H2 Vikinski Bogovi" tvg-logo="" group-title="english",H2 Vikinski Bogovi
+http://46.4.79.240/movie/marko/marko/5871.mp4
+#EXTINF:-1 tvg-name="H2 Von Danikenovo Nasljedje" tvg-logo="" group-title="english",H2 Von Danikenovo Nasljedje
+http://46.4.79.240/movie/marko/marko/5872.mp4
+#EXTINF:-1 tvg-name="H2 Zabranjene Spilje" tvg-logo="" group-title="english",H2 Zabranjene Spilje
+http://46.4.79.240/movie/marko/marko/5873.mp4
+#EXTINF:-1 tvg-name="H2 Znanstveni Ratovi" tvg-logo="" group-title="english",H2 Znanstveni Ratovi
+http://46.4.79.240/movie/marko/marko/5874.mp4
+#EXTINF:-1 tvg-name="Happiness At Work (2015) (2015)" tvg-logo="http://tztv.topten70.net:29001/movie_covers/cover-5875.jpg" group-title="english",Happiness At Work (2015) (2015)
+http://46.4.79.240/movie/marko/marko/5875.mp4
+#EXTINF:-1 tvg-name="Happy People: A Year in the Taiga (2010) (2010)" tvg-logo="http://tztv.topten70.net:29001/movie_covers/cover-5876.jpg" group-title="english",Happy People: A Year in the Taiga (2010) (2010)
+http://46.4.79.240/movie/marko/marko/5876.mp4
+#EXTINF:-1 tvg-name="Harry Potter 20th Anniversary: Return to Hogwarts (2022) (2022)" tvg-logo="http://tztv.topten70.net:29001/movie_covers/cover-5877.jpg" group-title="english",Harry Potter 20th Anniversary: Return to Hogwarts (2022) (2022)
+http://46.4.79.240/movie/marko/marko/5877.mp4
+#EXTINF:-1 tvg-name="Hold-Up (2013) (2013)" tvg-logo="http://tztv.topten70.net:29001/movie_covers/cover-5878.jpg" group-title="english",Hold-Up (2013) (2013)
+http://46.4.79.240/movie/marko/marko/5878.mp4
+#EXTINF:-1 tvg-name="Honeyland (1935) (1935)" tvg-logo="http://tztv.topten70.net:29001/movie_covers/cover-5879.jpg" group-title="english",Honeyland (1935) (1935)
+http://46.4.79.240/movie/marko/marko/5879.mp4
+#EXTINF:-1 tvg-name="I Am Alfred Hitchcock (2021) (2021)" tvg-logo="http://tztv.topten70.net:29001/movie_covers/cover-5880.jpg" group-title="english",I Am Alfred Hitchcock (2021) (2021)
+http://46.4.79.240/movie/marko/marko/5880.mp4
+#EXTINF:-1 tvg-name="I Am Bruce Lee (2012) (2012)" tvg-logo="http://tztv.topten70.net:29001/movie_covers/cover-5881.jpg" group-title="english",I Am Bruce Lee (2012) (2012)
+http://46.4.79.240/movie/marko/marko/5881.mp4
+#EXTINF:-1 tvg-name="I Am (Not) a Monster (2019) (2019)" tvg-logo="http://tztv.topten70.net:29001/movie_covers/cover-5882.jpg" group-title="english",I Am (Not) a Monster (2019) (2019)
+http://46.4.79.240/movie/marko/marko/5882.mp4
+#EXTINF:-1 tvg-name="I Remember Piazza Fontana (2019) (2019)" tvg-logo="http://tztv.topten70.net:29001/movie_covers/cover-5883.jpg" group-title="english",I Remember Piazza Fontana (2019) (2019)
+http://46.4.79.240/movie/marko/marko/5883.mp4
+#EXTINF:-1 tvg-name="Icahn: The Restless Billionaire (2022) (2022)" tvg-logo="http://tztv.topten70.net:29001/movie_covers/cover-5884.jpg" group-title="english",Icahn: The Restless Billionaire (2022) (2022)
+http://46.4.79.240/movie/marko/marko/5884.mp4
+#EXTINF:-1 tvg-name="Icarus (2017) (2017)" tvg-logo="http://tztv.topten70.net:29001/movie_covers/cover-5885.jpg" group-title="english",Icarus (2017) (2017)
+http://46.4.79.240/movie/marko/marko/5885.mp4
+#EXTINF:-1 tvg-name="Into the Okavango (2018) (2018)" tvg-logo="http://tztv.topten70.net:29001/movie_covers/cover-5887.jpg" group-title="english",Into the Okavango (2018) (2018)
+http://46.4.79.240/movie/marko/marko/5887.mp4
+#EXTINF:-1 tvg-name="Irrésistible Gary Cooper (2020) (2020)" tvg-logo="http://tztv.topten70.net:29001/movie_covers/cover-5888.jpg" group-title="english",Irrésistible Gary Cooper (2020) (2020)
+http://46.4.79.240/movie/marko/marko/5888.mp4
+#EXTINF:-1 tvg-name="It's a Hard Truth Ain't It (2018) (2018)" tvg-logo="http://tztv.topten70.net:29001/movie_covers/cover-5889.jpg" group-title="english",It's a Hard Truth Ain't It (2018) (2018)
+http://46.4.79.240/movie/marko/marko/5889.mp4
+#EXTINF:-1 tvg-name="Untitled Jamal Khashoggi Project ()" tvg-logo="http://tztv.topten70.net:29001/movie_covers/cover-5890.jpg" group-title="english",Untitled Jamal Khashoggi Project ()
+http://46.4.79.240/movie/marko/marko/5890.mp4
+#EXTINF:-1 tvg-name="Joanna Lumleys Hidden Caribbean Havana To Haiti 1" tvg-logo="" group-title="english",Joanna Lumleys Hidden Caribbean Havana To Haiti 1
+http://46.4.79.240/movie/marko/marko/5891.mp4
+#EXTINF:-1 tvg-name="Joanna Lumleys Hidden Caribbean Havana To Haiti 2" tvg-logo="" group-title="english",Joanna Lumleys Hidden Caribbean Havana To Haiti 2
+http://46.4.79.240/movie/marko/marko/5892.mp4
+#EXTINF:-1 tvg-name="Johnny Cash: American Rebel (2015) (2015)" tvg-logo="http://tztv.topten70.net:29001/movie_covers/cover-5893.jpg" group-title="english",Johnny Cash: American Rebel (2015) (2015)
+http://46.4.79.240/movie/marko/marko/5893.mp4
+#EXTINF:-1 tvg-name="NG Drugi Svjetski Rat Prava Istina" tvg-logo="" group-title="english",NG Drugi Svjetski Rat Prava Istina
+http://46.4.79.240/movie/marko/marko/5913.mp4
+#EXTINF:-1 tvg-name="Juice WRLD: Into the Abyss (2021) (2021)" tvg-logo="http://tztv.topten70.net:29001/movie_covers/cover-5894.jpg" group-title="english",Juice WRLD: Into the Abyss (2021) (2021)
+http://46.4.79.240/movie/marko/marko/5894.mp4
+#EXTINF:-1 tvg-name="King's Ransom (2005) (2005)" tvg-logo="http://tztv.topten70.net:29001/movie_covers/cover-5895.jpg" group-title="english",King's Ransom (2005) (2005)
+http://46.4.79.240/movie/marko/marko/5895.mp4
+#EXTINF:-1 tvg-name="The God-daddy (2020) (2020)" tvg-logo="http://tztv.topten70.net:29001/movie_covers/cover-5896.jpg" group-title="english",The God-daddy (2020) (2020)
+http://46.4.79.240/movie/marko/marko/5896.mp4
+#EXTINF:-1 tvg-name="Liberation Day (2016) (2016)" tvg-logo="http://tztv.topten70.net:29001/movie_covers/cover-5897.jpg" group-title="english",Liberation Day (2016) (2016)
+http://46.4.79.240/movie/marko/marko/5897.mp4
+#EXTINF:-1 tvg-name="Life of Crime (2013) (2013)" tvg-logo="http://tztv.topten70.net:29001/movie_covers/cover-5898.jpg" group-title="english",Life of Crime (2013) (2013)
+http://46.4.79.240/movie/marko/marko/5898.mp4
+#EXTINF:-1 tvg-name="Made You Look: A True Story About Fake Art (2020) (2020)" tvg-logo="http://tztv.topten70.net:29001/movie_covers/cover-5899.jpg" group-title="english",Made You Look: A True Story About Fake Art (2020) (2020)
+http://46.4.79.240/movie/marko/marko/5899.mp4
+#EXTINF:-1 tvg-name="Makala (2017) (2017)" tvg-logo="http://tztv.topten70.net:29001/movie_covers/cover-5900.jpg" group-title="english",Makala (2017) (2017)
+http://46.4.79.240/movie/marko/marko/5900.mp4
+#EXTINF:-1 tvg-name="NG Gola Znanost Asteroid Ubojica" tvg-logo="" group-title="english",NG Gola Znanost Asteroid Ubojica
+http://46.4.79.240/movie/marko/marko/5914.mp4
+#EXTINF:-1 tvg-name="NG Hubble Vrhunski Teleskop" tvg-logo="" group-title="english",NG Hubble Vrhunski Teleskop
+http://46.4.79.240/movie/marko/marko/5915.mp4
+#EXTINF:-1 tvg-name="NG Izgubljene Podmornice Nestanak Sa Radara" tvg-logo="" group-title="english",NG Izgubljene Podmornice Nestanak Sa Radara
+http://46.4.79.240/movie/marko/marko/5916.mp4
+#EXTINF:-1 tvg-name="Making Waves (2004) (2004)" tvg-logo="http://tztv.topten70.net:29001/movie_covers/cover-5901.jpg" group-title="english",Making Waves (2004) (2004)
+http://46.4.79.240/movie/marko/marko/5901.mp4
+#EXTINF:-1 tvg-name="Mh Of The Penguins" tvg-logo="" group-title="english",Mh Of The Penguins
+http://46.4.79.240/movie/marko/marko/5902.mp4
+#EXTINF:-1 tvg-name="Maria by Callas (2017) (2017)" tvg-logo="http://tztv.topten70.net:29001/movie_covers/cover-5903.jpg" group-title="english",Maria by Callas (2017) (2017)
+http://46.4.79.240/movie/marko/marko/5903.mp4
+#EXTINF:-1 tvg-name="Mein Kampf (2009) (2009)" tvg-logo="http://tztv.topten70.net:29001/movie_covers/cover-5904.jpg" group-title="english",Mein Kampf (2009) (2009)
+http://46.4.79.240/movie/marko/marko/5904.mp4
+#EXTINF:-1 tvg-name="Memories of a Murderer: The Nilsen Tapes (2021) (2021)" tvg-logo="http://tztv.topten70.net:29001/movie_covers/cover-5905.jpg" group-title="english",Memories of a Murderer: The Nilsen Tapes (2021) (2021)
+http://46.4.79.240/movie/marko/marko/5905.mp4
+#EXTINF:-1 tvg-name="Metal: A Headbanger's Journey (2005) (2005)" tvg-logo="http://tztv.topten70.net:29001/movie_covers/cover-5906.jpg" group-title="english",Metal: A Headbanger's Journey (2005) (2005)
+http://46.4.79.240/movie/marko/marko/5906.mp4
+#EXTINF:-1 tvg-name="Misha and the Wolves (2021) (2021)" tvg-logo="http://tztv.topten70.net:29001/movie_covers/cover-5907.jpg" group-title="english",Misha and the Wolves (2021) (2021)
+http://46.4.79.240/movie/marko/marko/5907.mp4
+#EXTINF:-1 tvg-name="Money Heist: From Tokyo to Berlin (2021) (2021)" tvg-logo="http://tztv.topten70.net:29001/movie_covers/cover-5908.jpg" group-title="english",Money Heist: From Tokyo to Berlin (2021) (2021)
+http://46.4.79.240/movie/marko/marko/5908.mp4
+#EXTINF:-1 tvg-name="Money Heist: The Phenomenon (2020) (2020)" tvg-logo="http://tztv.topten70.net:29001/movie_covers/cover-5909.jpg" group-title="english",Money Heist: The Phenomenon (2020) (2020)
+http://46.4.79.240/movie/marko/marko/5909.mp4
+#EXTINF:-1 tvg-name="NG Anatomija Potresa" tvg-logo="" group-title="english",NG Anatomija Potresa
+http://46.4.79.240/movie/marko/marko/5911.mp4
+#EXTINF:-1 tvg-name="NG Covjek Ljudsko Tijelo" tvg-logo="" group-title="english",NG Covjek Ljudsko Tijelo
+http://46.4.79.240/movie/marko/marko/5912.mp4
+#EXTINF:-1 tvg-name="NG Jesu Li Stvarni Duhovi" tvg-logo="" group-title="english",NG Jesu Li Stvarni Duhovi
+http://46.4.79.240/movie/marko/marko/5917.mp4
+#EXTINF:-1 tvg-name="NG Kako Smo Nastali" tvg-logo="" group-title="english",NG Kako Smo Nastali
+http://46.4.79.240/movie/marko/marko/5918.mp4
+#EXTINF:-1 tvg-name="NG Konacno Odrediste Svemir" tvg-logo="" group-title="english",NG Konacno Odrediste Svemir
+http://46.4.79.240/movie/marko/marko/5919.mp4
+#EXTINF:-1 tvg-name="NG Legija Stranaca 01" tvg-logo="" group-title="english",NG Legija Stranaca 01
+http://46.4.79.240/movie/marko/marko/5920.mp4
+#EXTINF:-1 tvg-name="NG Legija Stranaca 02" tvg-logo="" group-title="english",NG Legija Stranaca 02
+http://46.4.79.240/movie/marko/marko/5921.mp4
+#EXTINF:-1 tvg-name="NG Legija Stranaca 03" tvg-logo="" group-title="english",NG Legija Stranaca 03
+http://46.4.79.240/movie/marko/marko/5922.mp4
+#EXTINF:-1 tvg-name="NG Nostradamus" tvg-logo="" group-title="english",NG Nostradamus
+http://46.4.79.240/movie/marko/marko/5923.mp4
+#EXTINF:-1 tvg-name="NG Sva Nasa Oruzja" tvg-logo="" group-title="english",NG Sva Nasa Oruzja
+http://46.4.79.240/movie/marko/marko/5924.mp4
+#EXTINF:-1 tvg-name="NG Taboo Iskusenje Vjere" tvg-logo="" group-title="english",NG Taboo Iskusenje Vjere
+http://46.4.79.240/movie/marko/marko/5925.mp4
+#EXTINF:-1 tvg-name="NG Vrhunske Zmije Otrovnice" tvg-logo="" group-title="english",NG Vrhunske Zmije Otrovnice
+http://46.4.79.240/movie/marko/marko/5926.mp4
+#EXTINF:-1 tvg-name="Nasrin (2020) (2020)" tvg-logo="http://tztv.topten70.net:29001/movie_covers/cover-5927.jpg" group-title="english",Nasrin (2020) (2020)
+http://46.4.79.240/movie/marko/marko/5927.mp4
+#EXTINF:-1 tvg-name="Pamela A Love Story 2023 NF DDP5 1 DV HDR10 SMURF" tvg-logo="" group-title="english",Pamela A Love Story 2023 NF DDP5 1 DV HDR10 SMURF
+http://46.4.79.240/movie/marko/marko/5928.mp4
+#EXTINF:-1 tvg-name="Pavarotti (2019) (2019)" tvg-logo="http://tztv.topten70.net:29001/movie_covers/cover-5929.jpg" group-title="english",Pavarotti (2019) (2019)
+http://46.4.79.240/movie/marko/marko/5929.mp4
+#EXTINF:-1 tvg-name="Pelé (2021) (2021)" tvg-logo="http://tztv.topten70.net:29001/movie_covers/cover-5930.jpg" group-title="english",Pelé (2021) (2021)
+http://46.4.79.240/movie/marko/marko/5930.mp4
+#EXTINF:-1 tvg-name="Picture a Scientist (2020) (2020)" tvg-logo="http://tztv.topten70.net:29001/movie_covers/cover-5931.jpg" group-title="english",Picture a Scientist (2020) (2020)
+http://46.4.79.240/movie/marko/marko/5931.mp4
+#EXTINF:-1 tvg-name="Planet Ocean (1974) (1974)" tvg-logo="http://tztv.topten70.net:29001/movie_covers/cover-5932.jpg" group-title="english",Planet Ocean (1974) (1974)
+http://46.4.79.240/movie/marko/marko/5932.mp4
+#EXTINF:-1 tvg-name="Provjereno Specijal Iz Wuhana" tvg-logo="" group-title="english",Provjereno Specijal Iz Wuhana
+http://46.4.79.240/movie/marko/marko/5933.mp4
+#EXTINF:-1 tvg-name="Senna (2024) (2024)" tvg-logo="http://tztv.topten70.net:29001/movie_covers/cover-5934.jpg" group-title="english",Senna (2024) (2024)
+http://46.4.79.240/movie/marko/marko/5934.mp4
+#EXTINF:-1 tvg-name="Shooting the Mafia (2019) (2019)" tvg-logo="http://tztv.topten70.net:29001/movie_covers/cover-5935.jpg" group-title="english",Shooting the Mafia (2019) (2019)
+http://46.4.79.240/movie/marko/marko/5935.mp4
+#EXTINF:-1 tvg-name="Silent Night: A Song for the World (2021) (2021)" tvg-logo="http://tztv.topten70.net:29001/movie_covers/cover-5936.jpg" group-title="english",Silent Night: A Song for the World (2021) (2021)
+http://46.4.79.240/movie/marko/marko/5936.mp4
+#EXTINF:-1 tvg-name="Tajne Masona" tvg-logo="" group-title="english",Tajne Masona
+http://46.4.79.240/movie/marko/marko/5937.mp4
+#EXTINF:-1 tvg-name="From Bedrooms to Billions: The Amiga Years (2016) (2016)" tvg-logo="http://tztv.topten70.net:29001/movie_covers/cover-5938.jpg" group-title="english",From Bedrooms to Billions: The Amiga Years (2016) (2016)
+http://46.4.79.240/movie/marko/marko/5938.mp4
+#EXTINF:-1 tvg-name="The Battle of Chernobyl (2007) (2007)" tvg-logo="http://tztv.topten70.net:29001/movie_covers/cover-5939.jpg" group-title="english",The Battle of Chernobyl (2007) (2007)
+http://46.4.79.240/movie/marko/marko/5939.mp4
+#EXTINF:-1 tvg-name="The Crime Of The Century 1" tvg-logo="" group-title="english",The Crime Of The Century 1
+http://46.4.79.240/movie/marko/marko/5940.mp4
+#EXTINF:-1 tvg-name="The Crime Of The Century 2" tvg-logo="" group-title="english",The Crime Of The Century 2
+http://46.4.79.240/movie/marko/marko/5941.mp4
+#EXTINF:-1 tvg-name="The Mystery of D.B. Cooper (2020) (2020)" tvg-logo="http://tztv.topten70.net:29001/movie_covers/cover-5942.jpg" group-title="english",The Mystery of D.B. Cooper (2020) (2020)
+http://46.4.79.240/movie/marko/marko/5942.mp4
+#EXTINF:-1 tvg-name="The Obamas Believe" tvg-logo="" group-title="english",The Obamas Believe
+http://46.4.79.240/movie/marko/marko/5943.mp4
+#EXTINF:-1 tvg-name="Under the Wire (2018) (2018)" tvg-logo="http://tztv.topten70.net:29001/movie_covers/cover-5944.jpg" group-title="english",Under the Wire (2018) (2018)
+http://46.4.79.240/movie/marko/marko/5944.mp4
+#EXTINF:-1 tvg-name="What the Health (2017) (2017)" tvg-logo="http://tztv.topten70.net:29001/movie_covers/cover-5945.jpg" group-title="english",What the Health (2017) (2017)
+http://46.4.79.240/movie/marko/marko/5945.mp4
+#EXTINF:-1 tvg-name="Zero Days (2016) (2016)" tvg-logo="http://tztv.topten70.net:29001/movie_covers/cover-5946.jpg" group-title="english",Zero Days (2016) (2016)
+http://46.4.79.240/movie/marko/marko/5946.mp4
+#EXTINF:-1 tvg-name="Azrael (2024) (2024)" tvg-logo="http://tztv.topten70.net:29001/movie_covers/cover-4814.jpg" group-title="english",Azrael (2024) (2024)
+http://46.4.79.240/movie/marko/marko/4814.mp4
+#EXTINF:-1 tvg-name="Cold Copy (2024) (2024)" tvg-logo="http://tztv.topten70.net:29001/movie_covers/cover-4815.jpg" group-title="english",Cold Copy (2024) (2024)
+http://46.4.79.240/movie/marko/marko/4815.mp4
+#EXTINF:-1 tvg-name="Darkness of Man (2024) (2024)" tvg-logo="http://tztv.topten70.net:29001/movie_covers/cover-4816.jpg" group-title="english",Darkness of Man (2024) (2024)
+http://46.4.79.240/movie/marko/marko/4816.mp4
+#EXTINF:-1 tvg-name="Hard Home (2024) (2024)" tvg-logo="http://tztv.topten70.net:29001/movie_covers/cover-4817.jpg" group-title="english",Hard Home (2024) (2024)
+http://46.4.79.240/movie/marko/marko/4817.mp4
+#EXTINF:-1 tvg-name="He'll Never Let Go (2024) (2024)" tvg-logo="http://tztv.topten70.net:29001/movie_covers/cover-4818.jpg" group-title="english",He'll Never Let Go (2024) (2024)
+http://46.4.79.240/movie/marko/marko/4818.mp4
+#EXTINF:-1 tvg-name="Hold Your Breath (2024) (2024)" tvg-logo="http://tztv.topten70.net:29001/movie_covers/cover-4819.jpg" group-title="english",Hold Your Breath (2024) (2024)
+http://46.4.79.240/movie/marko/marko/4819.mp4
+#EXTINF:-1 tvg-name="Humane (2024) (2024)" tvg-logo="http://tztv.topten70.net:29001/movie_covers/cover-4820.jpg" group-title="english",Humane (2024) (2024)
+http://46.4.79.240/movie/marko/marko/4820.mp4
+#EXTINF:-1 tvg-name="Interstate (2022) (2022)" tvg-logo="http://tztv.topten70.net:29001/movie_covers/cover-4821.jpg" group-title="english",Interstate (2022) (2022)
+http://46.4.79.240/movie/marko/marko/4821.mp4
+#EXTINF:-1 tvg-name="Rumours (2006) (2006)" tvg-logo="http://tztv.topten70.net:29001/movie_covers/cover-4823.jpg" group-title="english",Rumours (2006) (2006)
+http://46.4.79.240/movie/marko/marko/4823.mp4
+#EXTINF:-1 tvg-name="Speak No Evil (2024) (2024)" tvg-logo="http://tztv.topten70.net:29001/movie_covers/cover-4824.jpg" group-title="english",Speak No Evil (2024) (2024)
+http://46.4.79.240/movie/marko/marko/4824.mp4
+#EXTINF:-1 tvg-name="The Pform 2" tvg-logo="" group-title="english",The Pform 2
+http://46.4.79.240/movie/marko/marko/4825.mp4
+#EXTINF:-1 tvg-name="The Seed of the Sacred Fig (2024) (2024)" tvg-logo="http://tztv.topten70.net:29001/movie_covers/cover-4826.jpg" group-title="english",The Seed of the Sacred Fig (2024) (2024)
+http://46.4.79.240/movie/marko/marko/4826.mp4
+#EXTINF:-1 tvg-name="The Union (2024) (2024)" tvg-logo="http://tztv.topten70.net:29001/movie_covers/cover-4827.jpg" group-title="english",The Union (2024) (2024)
+http://46.4.79.240/movie/marko/marko/4827.mp4
+#EXTINF:-1 tvg-name="The Last Survivors (2014) (2014)" tvg-logo="http://tztv.topten70.net:29001/movie_covers/cover-4828.jpg" group-title="english",The Last Survivors (2014) (2014)
+http://46.4.79.240/movie/marko/marko/4828.mp4
+#EXTINF:-1 tvg-name="9 Windows (2024) (2024)" tvg-logo="http://tztv.topten70.net:29001/movie_covers/cover-5197.jpg" group-title="english",9 Windows (2024) (2024)
+http://46.4.79.240/movie/marko/marko/5197.mp4
+#EXTINF:-1 tvg-name="Unsung Hero (2024) (2024)" tvg-logo="http://tztv.topten70.net:29001/movie_covers/cover-4829.jpg" group-title="english",Unsung Hero (2024) (2024)
+http://46.4.79.240/movie/marko/marko/4829.mp4
+#EXTINF:-1 tvg-name="Venom: The Last Dance (2024) (2024)" tvg-logo="http://tztv.topten70.net:29001/movie_covers/cover-4830.jpg" group-title="english",Venom: The Last Dance (2024) (2024)
+http://46.4.79.240/movie/marko/marko/4830.mp4
+#EXTINF:-1 tvg-name="12 to Midnight (2024) (2024)" tvg-logo="http://tztv.topten70.net:29001/movie_covers/cover-4832.jpg" group-title="english",12 to Midnight (2024) (2024)
+http://46.4.79.240/movie/marko/marko/4832.mp4
+#EXTINF:-1 tvg-name="1992" tvg-logo="" group-title="english",1992
+http://46.4.79.240/movie/marko/marko/4833.mp4
+#EXTINF:-1 tvg-name="A Costa Rican Wedding (2024) (2024)" tvg-logo="http://tztv.topten70.net:29001/movie_covers/cover-4834.jpg" group-title="english",A Costa Rican Wedding (2024) (2024)
+http://46.4.79.240/movie/marko/marko/4834.mp4
+#EXTINF:-1 tvg-name="A Million Minutes (2024) (2024)" tvg-logo="http://tztv.topten70.net:29001/movie_covers/cover-4835.jpg" group-title="english",A Million Minutes (2024) (2024)
+http://46.4.79.240/movie/marko/marko/4835.mp4
+#EXTINF:-1 tvg-name="A Sacrifice (2024) (2024)" tvg-logo="http://tztv.topten70.net:29001/movie_covers/cover-4836.jpg" group-title="english",A Sacrifice (2024) (2024)
+http://46.4.79.240/movie/marko/marko/4836.mp4
+#EXTINF:-1 tvg-name="A Sudden Case of Christmas (2024) (2024)" tvg-logo="http://tztv.topten70.net:29001/movie_covers/cover-4837.jpg" group-title="english",A Sudden Case of Christmas (2024) (2024)
+http://46.4.79.240/movie/marko/marko/4837.mp4
+#EXTINF:-1 tvg-name="A Traveler's Needs (2024) (2024)" tvg-logo="http://tztv.topten70.net:29001/movie_covers/cover-5198.jpg" group-title="english",A Traveler's Needs (2024) (2024)
+http://46.4.79.240/movie/marko/marko/5198.mp4
+#EXTINF:-1 tvg-name="Adam Sandler: Love You (2024) (2024)" tvg-logo="http://tztv.topten70.net:29001/movie_covers/cover-4838.jpg" group-title="english",Adam Sandler: Love You (2024) (2024)
+http://46.4.79.240/movie/marko/marko/4838.mp4
+#EXTINF:-1 tvg-name="Agent Recon (2025) (2025)" tvg-logo="http://tztv.topten70.net:29001/movie_covers/cover-4839.jpg" group-title="english",Agent Recon (2025) (2025)
+http://46.4.79.240/movie/marko/marko/4839.mp4
+#EXTINF:-1 tvg-name="Absolution (1978) (1978)" tvg-logo="http://tztv.topten70.net:29001/movie_covers/cover-5199.jpg" group-title="english",Absolution (1978) (1978)
+http://46.4.79.240/movie/marko/marko/5199.mp4
+#EXTINF:-1 tvg-name="Alien Country (2024) (2024)" tvg-logo="http://tztv.topten70.net:29001/movie_covers/cover-4840.jpg" group-title="english",Alien Country (2024) (2024)
+http://46.4.79.240/movie/marko/marko/4840.mp4
