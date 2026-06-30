@@ -1,65 +1,19 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="NATIONAL GEOGRAPHIC" tvg-logo="" group-title="documentary",NATIONAL GEOGRAPHIC
-http://p2.topten70.net/marko/marko/213
-#EXTINF:-1 tvg-name="DISCOVERY" tvg-logo="" group-title="documentary",DISCOVERY
-http://p2.topten70.net/marko/marko/214
-#EXTINF:-1 tvg-name="DISCOVERY SCI HD" tvg-logo="" group-title="documentary",DISCOVERY SCI HD
-http://p2.topten70.net/marko/marko/215
-#EXTINF:-1 tvg-name="VIASAT NATURE" tvg-logo="" group-title="documentary",VIASAT NATURE
-http://p2.topten70.net/marko/marko/217
-#EXTINF:-1 tvg-name="VIASAT HISTORY" tvg-logo="" group-title="documentary",VIASAT HISTORY
-http://p2.topten70.net/marko/marko/219
-#EXTINF:-1 tvg-name="NOVA DOCUMENTARY 2" tvg-logo="" group-title="documentary",NOVA DOCUMENTARY 2
-http://p2.topten70.net/marko/marko/646
-#EXTINF:-1 tvg-name="HISTORY HD 2" tvg-logo="" group-title="documentary",HISTORY HD 2
-http://p2.topten70.net/marko/marko/226
-#EXTINF:-1 tvg-name="HISTORY HD" tvg-logo="" group-title="documentary",HISTORY HD
-http://p2.topten70.net/marko/marko/225
-#EXTINF:-1 tvg-name="ANIMAL PLANET" tvg-logo="" group-title="documentary",ANIMAL PLANET
-http://p2.topten70.net/marko/marko/220
-#EXTINF:-1 tvg-name="DOCU BOX" tvg-logo="" group-title="documentary",DOCU BOX
-http://p2.topten70.net/marko/marko/231
-#EXTINF:-1 tvg-name="DISCOVERY ID" tvg-logo="" group-title="documentary",DISCOVERY ID
-http://p2.topten70.net/marko/marko/350
-#EXTINF:-1 tvg-name="HISTORY CHANNEL HD" tvg-logo="" group-title="documentary",HISTORY CHANNEL HD
-http://p2.topten70.net/marko/marko/272
-#EXTINF:-1 tvg-name="DISCOVERY DE" tvg-logo="" group-title="documentary",DISCOVERY DE
-http://p2.topten70.net/marko/marko/273
-#EXTINF:-1 tvg-name="ANIMAL PLANET DE" tvg-logo="" group-title="documentary",ANIMAL PLANET DE
-http://p2.topten70.net/marko/marko/276
-#EXTINF:-1 tvg-name="DISCOVERY CHANNEL SE" tvg-logo="" group-title="documentary",DISCOVERY CHANNEL SE
-http://p2.topten70.net/marko/marko/312
-#EXTINF:-1 tvg-name="NATIONAL GEOGRAPHIC SE" tvg-logo="" group-title="documentary",NATIONAL GEOGRAPHIC SE
-http://p2.topten70.net/marko/marko/313
-#EXTINF:-1 tvg-name="SL: DISCOVERY CHANNEL" tvg-logo="" group-title="documentary",SL: DISCOVERY CHANNEL
-http://p2.topten70.net/marko/marko/761
-#EXTINF:-1 tvg-name="Animal Planet NL" tvg-logo="http://tugapt.com/picons/animalplanetnl.png" group-title="documentary",Animal Planet NL
-http://p2.topten70.net/marko/marko/731
-#EXTINF:-1 tvg-name="DISCOVERY CHANEL tr" tvg-logo="" group-title="documentary",DISCOVERY CHANEL tr
-http://p2.topten70.net/marko/marko/749
-#EXTINF:-1 tvg-name="HISTORY CHANEL tr" tvg-logo="" group-title="documentary",HISTORY CHANEL tr
-http://p2.topten70.net/marko/marko/755
-#EXTINF:-1 tvg-name="Force Of Nature 2020 Sf" tvg-logo="" group-title="documentary",Force Of Nature 2020 Sf
-http://46.4.79.240/movie/marko/marko/542.mp4
-#EXTINF:-1 tvg-name="33 American History X 1998" tvg-logo="" group-title="documentary",33 American History X 1998
-http://46.4.79.240/movie/marko/marko/3413.mp4
-#EXTINF:-1 tvg-name="Force Of Nature The Dry 2 DE" tvg-logo="" group-title="documentary",Force Of Nature The Dry 2 DE
-http://46.4.79.240/movie/marko/marko/3137.mp4
-#EXTINF:-1 tvg-name="Force Of Nature DE" tvg-logo="" group-title="documentary",Force Of Nature DE
-http://46.4.79.240/movie/marko/marko/5401.mp4
-#EXTINF:-1 tvg-name="A Brief History of Time (1991) (1991)" tvg-logo="http://tztv.topten70.net:29001/movie_covers/cover-5751.jpg" group-title="documentary",A Brief History of Time (1991) (1991)
-http://46.4.79.240/movie/marko/marko/5751.mp4
-#EXTINF:-1 tvg-name="Force of Nature: The Dry 2 (2024) (2024)" tvg-logo="http://tztv.topten70.net:29001/movie_covers/cover-5212.jpg" group-title="documentary",Force of Nature: The Dry 2 (2024) (2024)
-http://46.4.79.240/movie/marko/marko/5212.mp4
-#EXTINF:-1 tvg-name="In a Violent Nature (2024) (2024)" tvg-logo="http://tztv.topten70.net:29001/movie_covers/cover-5272.jpg" group-title="documentary",In a Violent Nature (2024) (2024)
-http://46.4.79.240/movie/marko/marko/5272.mp4
+#EXTINF:-1 tvg-name="ANIMAL PLANET" tvg-logo="http://l2.mediaking.fi:8080/logoi/animalplanet.png" group-title="documentary",ANIMAL PLANET
+http://serv2.mediaking.fi:8080/live/ninomk@gmail.com/aftermath/149.ts
 #EXTINF:-1 tvg-name="DISCOVERY CHANNEL" tvg-logo="http://l2.mediaking.fi:8080/logoi/discovery.png" group-title="documentary",DISCOVERY CHANNEL
 http://serv2.mediaking.fi:8080/live/ninomk@gmail.com/aftermath/78.ts
-#EXTINF:-1 tvg-name="HISTORY" tvg-logo="https://images-web.ug-be.cdn.united.cloud/2017/07/21/15/57/01/history_384x216.png" group-title="documentary",HISTORY
-http://client.nodomain.vip/27nihadcelic/QXv5CCzkiE/84
-#EXTINF:-1 tvg-name="HISTORY 2" tvg-logo="https://images-web.ug-be.cdn.united.cloud/2020/05/28/12/39/51/history2hd_logo_16_9_light_384x216_960b676d_768e_4cf9_9aaf_316314e944a2.png" group-title="documentary",HISTORY 2
-http://client.nodomain.vip/27nihadcelic/QXv5CCzkiE/467
+#EXTINF:-1 tvg-name="HISTORY" tvg-logo="http://l2.mediaking.fi:8080/logoi/historychannel.png" group-title="documentary",HISTORY
+http://serv2.mediaking.fi:8080/live/ninomk@gmail.com/aftermath/203.ts
+#EXTINF:-1 tvg-name="HISTORY 2" tvg-logo="http://144.76.182.124/exyulogo/history2.png" group-title="documentary",HISTORY 2
+http://serv2.mediaking.fi:8080/live/ninomk@gmail.com/aftermath/589.ts
 #EXTINF:-1 tvg-name="NATIONAL GEOGRAPHIC CHANNEL" tvg-logo="http://144.76.182.124/exyulogo/natgeo.png" group-title="documentary",NATIONAL GEOGRAPHIC CHANNEL
 http://serv2.mediaking.fi:8080/live/ninomk@gmail.com/aftermath/79.ts
-#EXTINF:-1 tvg-name="NAT GEO WILD" tvg-logo="https://images-web.ug-be.cdn.united.cloud/2019/02/12/10/51/33/nat_geo_wild_384x216.png" group-title="documentary",NAT GEO WILD
-http://client.nodomain.vip/27nihadcelic/QXv5CCzkiE/263
+#EXTINF:-1 tvg-name="NAT GEO WILD" tvg-logo="http://144.76.182.124/exyulogo/natgeowild.png" group-title="documentary",NAT GEO WILD
+http://serv2.mediaking.fi:8080/live/ninomk@gmail.com/aftermath/588.ts
+#EXTINF:-1 tvg-name="VIASAT HISTORY" tvg-logo="http://144.76.182.124/exyulogo/Viasat_History.png" group-title="documentary",VIASAT HISTORY
+http://serv2.mediaking.fi:8080/live/ninomk@gmail.com/aftermath/302.ts
+#EXTINF:-1 tvg-name="VIASAT NATURE" tvg-logo="http://144.76.182.124/exyulogo/Viasat_Nature.png" group-title="documentary",VIASAT NATURE
+http://serv2.mediaking.fi:8080/live/ninomk@gmail.com/aftermath/303.ts
+#EXTINF:-1 tvg-name="DOCU BOX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/DocuBox_HD_logo.png" group-title="documentary",DOCU BOX
+http://serv2.mediaking.fi:8080/live/ninomk@gmail.com/aftermath/15697.ts
