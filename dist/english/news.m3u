@@ -1,7 +1,259 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="EURONEWS SRBIJA" tvg-logo="" group-title="news",EURONEWS SRBIJA
-http://serv2.mediaking.fi:8080/live/ninomk@gmail.com/aftermath/42154.ts
-#EXTINF:-1 tvg-name="AL JAZEERA" tvg-logo="http://144.76.182.124/exyulogo/aljazeera.png" group-title="news",AL JAZEERA
-http://serv2.mediaking.fi:8080/live/ninomk@gmail.com/aftermath/56.ts
-#EXTINF:-1 tvg-name="BBC EARTH" tvg-logo="http://144.76.182.124/exyulogo/bbcearth.png" group-title="news",BBC EARTH
-http://serv2.mediaking.fi:8080/live/ninomk@gmail.com/aftermath/1888.ts
+#EXTINF:-1 tvg-name="EuroNews" tvg-logo="http://sarkor.tv/static/images/channels/EuroNews.png" group-title="news",EuroNews
+https://s04.watcher.uz/16/video.m3u8
+#EXTINF:-1 tvg-name="France24HD" tvg-logo="http://sarkor.tv/static/images/channels/France24HD.png" group-title="news",France24HD
+https://s03.watcher.uz/89/video.m3u8
+#EXTINF:-1 tvg-name="CNN" tvg-logo="http://sarkor.tv/static/images/channels/CNN.png" group-title="news",CNN
+https://watcher.uz/90/video.m3u8
+#EXTINF:-1 tvg-name="BBC WN" tvg-logo="http://sarkor.tv/static/images/channels/BBC WN.png" group-title="news",BBC WN
+https://watcher.uz/104/video.m3u8
+#EXTINF:-1 tvg-name="FR| RMC NEWS SPORT HD" tvg-logo="https://www.teleclub.ch/romandie/wp-content/uploads/sites/3/2018/06/RMC_SPORT_news.png" group-title="news",FR| RMC NEWS SPORT HD
+http://hdlocal.de:8080/eurotv/jyrDCMeEZchhnvsWWS2211/2399
+#EXTINF:-1 tvg-name="AR.BEIN| BEIN SPORTS NEWS" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/e/e4/Bein_sport_news_arabia.png" group-title="news",AR.BEIN| BEIN SPORTS NEWS
+http://hdlocal.de:8080/eurotv/jyrDCMeEZchhnvsWWS2211/1898
+#EXTINF:-1 tvg-name="AR.ALG| ECHOROUK NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/ECHOUROUK-NEWS.png" group-title="news",AR.ALG| ECHOROUK NEWS
+http://hdlocal.de:8080/eurotv/jyrDCMeEZchhnvsWWS2211/665017042
+#EXTINF:-1 tvg-name="AR.ALG| DZAIR NEWS" tvg-logo="https://www.alg24.net/wp-content/uploads/2017/04/Dzair.png" group-title="news",AR.ALG| DZAIR NEWS
+http://hdlocal.de:8080/eurotv/jyrDCMeEZchhnvsWWS2211/1753
+#EXTINF:-1 tvg-name="AR.ALG| ECHOUROUK NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/ECHOUROUK-NEWS.png" group-title="news",AR.ALG| ECHOUROUK NEWS
+http://hdlocal.de:8080/eurotv/jyrDCMeEZchhnvsWWS2211/2675
+#EXTINF:-1 tvg-name="AR.ALG| NUMIDIA NEWS" tvg-logo="http://wikipedia.ma/wp-content/uploads/2015/06/photo-1331508081.jpg" group-title="news",AR.ALG| NUMIDIA NEWS
+http://hdlocal.de:8080/eurotv/jyrDCMeEZchhnvsWWS2211/1740
+#EXTINF:-1 tvg-name="AR.EGY| NILE NEWS" tvg-logo="http://x.pure-redirect.com/nilesat/1_0_1_25B_6_800_DCA0000_0_0_0.png" group-title="news",AR.EGY| NILE NEWS
+http://hdlocal.de:8080/eurotv/jyrDCMeEZchhnvsWWS2211/1820
+#EXTINF:-1 tvg-name="AR.QAT| AL JAZEERA DOC" tvg-logo="https://upload.wikimedia.org/wikipedia/ar/e/e6/Al_Jazeera_Doc.png" group-title="news",AR.QAT| AL JAZEERA DOC
+http://hdlocal.de:8080/eurotv/jyrDCMeEZchhnvsWWS2211/745
+#EXTINF:-1 tvg-name="AR.QAT| AL JAZEERA NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/0/0f/Al_Jazeera.svg/614px-Al_Jazeera.svg.png" group-title="news",AR.QAT| AL JAZEERA NEWS
+http://hdlocal.de:8080/eurotv/jyrDCMeEZchhnvsWWS2211/746
+#EXTINF:-1 tvg-name="AR.QAT| AL JAZEERA MUBASHER" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/6/63/Al_Jazeera_Mubasher.png/revision/latest?cb=20120211110554" group-title="news",AR.QAT| AL JAZEERA MUBASHER
+http://hdlocal.de:8080/eurotv/jyrDCMeEZchhnvsWWS2211/2132
+#EXTINF:-1 tvg-name="(IT) FOX LIFE FHD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/fox-life-it.png" group-title="news",(IT) FOX LIFE FHD
+http://hdlocal.de:8080/eurotv/jyrDCMeEZchhnvsWWS2211/265011414
+#EXTINF:-1 tvg-name="IT| RAI NEWS 24 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-news-24-it.png" group-title="news",IT| RAI NEWS 24 HD
+http://hdlocal.de:8080/eurotv/jyrDCMeEZchhnvsWWS2211/3581
+#EXTINF:-1 tvg-name="IT| FOX HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/fox-it.png" group-title="news",IT| FOX HD
+http://hdlocal.de:8080/eurotv/jyrDCMeEZchhnvsWWS2211/2784
+#EXTINF:-1 tvg-name="IT| FOX LIFE HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/fox-life-it.png" group-title="news",IT| FOX LIFE HD
+http://hdlocal.de:8080/eurotv/jyrDCMeEZchhnvsWWS2211/2877
+#EXTINF:-1 tvg-name="PT| EURONEWS HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/euronews-deutsch-de.png" group-title="news",PT| EURONEWS HD
+http://hdlocal.de:8080/eurotv/jyrDCMeEZchhnvsWWS2211/2335
+#EXTINF:-1 tvg-name="PT| FOX NEWS HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fox-news-us.png" group-title="news",PT| FOX NEWS HD
+http://hdlocal.de:8080/eurotv/jyrDCMeEZchhnvsWWS2211/2331
+#EXTINF:-1 tvg-name="PT| CNN PORTUGAL HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/cnn-portugal-pt.png" group-title="news",PT| CNN PORTUGAL HD
+http://hdlocal.de:8080/eurotv/jyrDCMeEZchhnvsWWS2211/665035093
+#EXTINF:-1 tvg-name="PT| EUROSPORT NEWS HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/eurosport-1-uk.png" group-title="news",PT| EUROSPORT NEWS HD
+http://hdlocal.de:8080/eurotv/jyrDCMeEZchhnvsWWS2211/2325
+#EXTINF:-1 tvg-name="PT| A&E HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/AETN_logo.png/280px-AETN_logo.png" group-title="news",PT| A&E HD
+http://hdlocal.de:8080/eurotv/jyrDCMeEZchhnvsWWS2211/1711
+#EXTINF:-1 tvg-name="DE| EURONEWS HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/euronews-deutsch-de.png" group-title="news",DE| EURONEWS HD
+http://hdlocal.de:8080/eurotv/jyrDCMeEZchhnvsWWS2211/11167
+#EXTINF:-1 tvg-name="DE| SKY SPORT NEWS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b2/Sky_Sport_News_Logo_2020.png" group-title="news",DE| SKY SPORT NEWS HD
+http://hdlocal.de:8080/eurotv/jyrDCMeEZchhnvsWWS2211/11169
+#EXTINF:-1 tvg-name="UK|| SKY ONE FHD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-one-icon-uk.png" group-title="news",UK|| SKY ONE FHD
+http://hdlocal.de:8080/eurotv/jyrDCMeEZchhnvsWWS2211/9853
+#EXTINF:-1 tvg-name="UK| SKY SPORTS NEWS FHD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-sports-news-hz-uk.png" group-title="news",UK| SKY SPORTS NEWS FHD
+http://hdlocal.de:8080/eurotv/jyrDCMeEZchhnvsWWS2211/9895
+#EXTINF:-1 tvg-name="UK| SKY SPORTS NEWS HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-sports-news-hz-uk.png" group-title="news",UK| SKY SPORTS NEWS HD
+http://hdlocal.de:8080/eurotv/jyrDCMeEZchhnvsWWS2211/4218
+#EXTINF:-1 tvg-name="UK| FREE SPORTS HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/free-sports-uk.png" group-title="news",UK| FREE SPORTS HD
+http://hdlocal.de:8080/eurotv/jyrDCMeEZchhnvsWWS2211/11036
+#EXTINF:-1 tvg-name="|UK| News |UK|" tvg-logo="" group-title="news",|UK| News |UK|
+http://hdlocal.de:8080/eurotv/jyrDCMeEZchhnvsWWS2211/10875
+#EXTINF:-1 tvg-name="UK| ALJAZEERA NEWS ENGLISH HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/aljazeera-uk.png" group-title="news",UK| ALJAZEERA NEWS ENGLISH HD
+http://hdlocal.de:8080/eurotv/jyrDCMeEZchhnvsWWS2211/11043
+#EXTINF:-1 tvg-name="UK| BBC NEWS HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/bbc-news-hz-uk.png" group-title="news",UK| BBC NEWS HD
+http://hdlocal.de:8080/eurotv/jyrDCMeEZchhnvsWWS2211/11047
+#EXTINF:-1 tvg-name="UK| BBC WORLD NEWS HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/bbc-world-news-hz-uk.png" group-title="news",UK| BBC WORLD NEWS HD
+http://hdlocal.de:8080/eurotv/jyrDCMeEZchhnvsWWS2211/11042
+#EXTINF:-1 tvg-name="UK| CNN HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cnn-us.png" group-title="news",UK| CNN HD
+http://hdlocal.de:8080/eurotv/jyrDCMeEZchhnvsWWS2211/11041
+#EXTINF:-1 tvg-name="UK| EURONEWS HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/euronews-deutsch-de.png" group-title="news",UK| EURONEWS HD
+http://hdlocal.de:8080/eurotv/jyrDCMeEZchhnvsWWS2211/11045
+#EXTINF:-1 tvg-name="UK| FRANCE 24 ENGLISH HD" tvg-logo="https://static.france24.com/meta_og_twcards/jsonld_publisher.png" group-title="news",UK| FRANCE 24 ENGLISH HD
+http://hdlocal.de:8080/eurotv/jyrDCMeEZchhnvsWWS2211/10880
+#EXTINF:-1 tvg-name="UK| SKY NEWS HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-news-icon-uk.png" group-title="news",UK| SKY NEWS HD
+http://hdlocal.de:8080/eurotv/jyrDCMeEZchhnvsWWS2211/11048
+#EXTINF:-1 tvg-name="UK| FRANCE 24 HD" tvg-logo="https://static.france24.com/meta_og_twcards/jsonld_publisher.png" group-title="news",UK| FRANCE 24 HD
+http://hdlocal.de:8080/eurotv/jyrDCMeEZchhnvsWWS2211/11044
+#EXTINF:-1 tvg-name="UK| CNBC NEWS HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cnbc-us.png" group-title="news",UK| CNBC NEWS HD
+http://hdlocal.de:8080/eurotv/jyrDCMeEZchhnvsWWS2211/11009
+#EXTINF:-1 tvg-name="UK| BBC AKA HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/aka-uk.png" group-title="news",UK| BBC AKA HD
+http://hdlocal.de:8080/eurotv/jyrDCMeEZchhnvsWWS2211/11291
+#EXTINF:-1 tvg-name="UK| CBBC HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/bbc-cbbc-uk.png" group-title="news",UK| CBBC HD
+http://hdlocal.de:8080/eurotv/jyrDCMeEZchhnvsWWS2211/11152
+#EXTINF:-1 tvg-name="UK| BBC 1 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/bbc-one-uk.png" group-title="news",UK| BBC 1 HD
+http://hdlocal.de:8080/eurotv/jyrDCMeEZchhnvsWWS2211/11222
+#EXTINF:-1 tvg-name="UK| BBC 2 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/bbc-two-uk.png" group-title="news",UK| BBC 2 HD
+http://hdlocal.de:8080/eurotv/jyrDCMeEZchhnvsWWS2211/11224
+#EXTINF:-1 tvg-name="UK| BBC 3 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/bbc-three-uk.png" group-title="news",UK| BBC 3 HD
+http://hdlocal.de:8080/eurotv/jyrDCMeEZchhnvsWWS2211/11225
+#EXTINF:-1 tvg-name="UK| BBC 4 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/bbc-four-uk.png" group-title="news",UK| BBC 4 HD
+http://hdlocal.de:8080/eurotv/jyrDCMeEZchhnvsWWS2211/11226
+#EXTINF:-1 tvg-name="UK| BBC PARLIAMENT HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/bbc-parliament-hz-uk.png" group-title="news",UK| BBC PARLIAMENT HD
+http://hdlocal.de:8080/eurotv/jyrDCMeEZchhnvsWWS2211/11227
+#EXTINF:-1 tvg-name="UK| BBC ALBA HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/bbc-alba-uk.png" group-title="news",UK| BBC ALBA HD
+http://hdlocal.de:8080/eurotv/jyrDCMeEZchhnvsWWS2211/11228
+#EXTINF:-1 tvg-name="UK| PICK HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/pick-plus-uk.png" group-title="news",UK| PICK HD
+http://hdlocal.de:8080/eurotv/jyrDCMeEZchhnvsWWS2211/11278
+#EXTINF:-1 tvg-name="UK| BBC ENTERTAINMENT HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/bbc-one-uk.png" group-title="news",UK| BBC ENTERTAINMENT HD
+http://hdlocal.de:8080/eurotv/jyrDCMeEZchhnvsWWS2211/11014
+#EXTINF:-1 tvg-name="UK| FOX NEWS HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fox-news-us.png" group-title="news",UK| FOX NEWS HD
+http://hdlocal.de:8080/eurotv/jyrDCMeEZchhnvsWWS2211/11035
+#EXTINF:-1 tvg-name="|UK| UK News |UK|" tvg-logo="" group-title="news",|UK| UK News |UK|
+http://hdlocal.de:8080/eurotv/jyrDCMeEZchhnvsWWS2211/11049
+#EXTINF:-1 tvg-name="TR| BBC EARTH HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/bbc-one-uk.png" group-title="news",TR| BBC EARTH HD
+http://hdlocal.de:8080/eurotv/jyrDCMeEZchhnvsWWS2211/9994
+#EXTINF:-1 tvg-name="AVA MEDIA HD" tvg-logo="https://i.postimg.cc/hP9TvDn4/Pics-Art-25-08-05-22-57-05-434.png" group-title="news",AVA MEDIA HD
+http://max4kcdn.com:8080/live/9051425339/1800781514/29384.ts
+#EXTINF:-1 tvg-name="RUDAW HD" tvg-logo="https://i.postimg.cc/rpTvrtr0/Pics-Art-RUDAW_HD.png" group-title="news",RUDAW HD
+http://max4kcdn.com:8080/live/9051425339/1800781514/30658.ts
+#EXTINF:-1 tvg-name="KURDISTAN 24 FHD" tvg-logo="https://i.postimg.cc/HnMqM0BM/Pics-Art-25-08-01-14-37-22-115.png" group-title="news",KURDISTAN 24 FHD
+http://max4kcdn.com:8080/live/9051425339/1800781514/119600.ts
+#EXTINF:-1 tvg-name="KURDISTAN 24 HD" tvg-logo="https://logo.0964750.xyz/logo/logos/k24.png" group-title="news",KURDISTAN 24 HD
+http://max4kcdn.com:8080/live/9051425339/1800781514/14148.ts
+#EXTINF:-1 tvg-name="NRT FHD" tvg-logo="https://logo.0964750.xyz/logo/logos/nrt.png" group-title="news",NRT FHD
+http://max4kcdn.com:8080/live/9051425339/1800781514/31390.ts
+#EXTINF:-1 tvg-name="NRT HD" tvg-logo="https://i.postimg.cc/Rhm6rd6C/Pics-Art-NRT_NEWS.png" group-title="news",NRT HD
+http://max4kcdn.com:8080/live/9051425339/1800781514/182928.ts
+#EXTINF:-1 tvg-name="CHANNEL 8 HD" tvg-logo="https://i.postimg.cc/DfQ5SYcg/Pics-Art-25-08-01-14-38-42-434.png" group-title="news",CHANNEL 8 HD
+http://max4kcdn.com:8080/live/9051425339/1800781514/141736.ts
+#EXTINF:-1 tvg-name="KURDSAT NEWS HD" tvg-logo="https://i.postimg.cc/FFwCSLtr/Pics-Art-25-08-01-14-30-46-258.png" group-title="news",KURDSAT NEWS HD
+http://max4kcdn.com:8080/live/9051425339/1800781514/15175.ts
+#EXTINF:-1 tvg-name="GELI KURDISTAN HD" tvg-logo="https://i.postimg.cc/gc6jsf7V/Pics-Art-25-08-01-14-43-00-201.png" group-title="news",GELI KURDISTAN HD
+http://max4kcdn.com:8080/live/9051425339/1800781514/30656.ts
+#EXTINF:-1 tvg-name="MMN NEWS" tvg-logo="https://i.postimg.cc/d0ky0S9s/Pics-Art-25-08-01-20-19-12-076.png" group-title="news",MMN NEWS
+http://max4kcdn.com:8080/live/9051425339/1800781514/144703.ts
+#EXTINF:-1 tvg-name="AL JAZEERA HD" tvg-logo="https://logo.0964750.xyz/logo/logos/jazeera.png" group-title="news",AL JAZEERA HD
+http://max4kcdn.com:8080/live/9051425339/1800781514/183404.ts
+#EXTINF:-1 tvg-name="AL HADATH HD" tvg-logo="https://logo.0964750.xyz/logo/logos/alhadath.png" group-title="news",AL HADATH HD
+http://max4kcdn.com:8080/live/9051425339/1800781514/183406.ts
+#EXTINF:-1 tvg-name="TRT WORLD" tvg-logo="" group-title="news",TRT WORLD
+http://max4kcdn.com:8080/live/9051425339/1800781514/183419.ts
+#EXTINF:-1 tvg-name="SHAMS HD" tvg-logo="" group-title="news",SHAMS HD
+http://max4kcdn.com:8080/live/9051425339/1800781514/183422.ts
+#EXTINF:-1 tvg-name="BBC EARTH HD" tvg-logo="" group-title="news",BBC EARTH HD
+http://max4kcdn.com:8080/live/9051425339/1800781514/144426.ts
+#EXTINF:-1 tvg-name="BEIN SPORTS NEWS FHD" tvg-logo="https://i.postimg.cc/y6w0760D/Pics-Art-bein_Sport_News.png" group-title="news",BEIN SPORTS NEWS FHD
+http://max4kcdn.com:8080/live/9051425339/1800781514/144961.ts
+#EXTINF:-1 tvg-name="BEIN SPORTS NEWS HD" tvg-logo="https://www.gifservice.fr/img/gif-vignette-small/307b2bb04f8de3559aae2e25b0832e2e/377035.gif" group-title="news",BEIN SPORTS NEWS HD
+http://max4kcdn.com:8080/live/9051425339/1800781514/176654.ts
+#EXTINF:-1 tvg-name="IR: BBC PERSIAN HD" tvg-logo="" group-title="news",IR: BBC PERSIAN HD
+http://max4kcdn.com:8080/live/9051425339/1800781514/182815.ts
+#EXTINF:-1 tvg-name="BBC PERSIAN HD" tvg-logo="" group-title="news",BBC PERSIAN HD
+http://max4kcdn.com:8080/live/9051425339/1800781514/179009.ts
+#EXTINF:-1 tvg-name="AR: AL JAZEERA HD" tvg-logo="https://logo.0964750.xyz/logo/logos/jazeera.png" group-title="news",AR: AL JAZEERA HD
+http://max4kcdn.com:8080/live/9051425339/1800781514/144692.ts
+#EXTINF:-1 tvg-name="AR: INEWS HD" tvg-logo="" group-title="news",AR: INEWS HD
+http://max4kcdn.com:8080/live/9051425339/1800781514/144627.ts
+#EXTINF:-1 tvg-name="AR: SHAMS HD" tvg-logo="" group-title="news",AR: SHAMS HD
+http://max4kcdn.com:8080/live/9051425339/1800781514/141347.ts
+#EXTINF:-1 tvg-name="AR: AL HADATH HD" tvg-logo="https://logo.0964750.xyz/logo/logos/alhadath.png" group-title="news",AR: AL HADATH HD
+http://max4kcdn.com:8080/live/9051425339/1800781514/144694.ts
+#EXTINF:-1 tvg-name="AL SHARQIYA NEWS HD" tvg-logo="https://logo.0964750.xyz/logo/logos/sharqiyanews.png" group-title="news",AL SHARQIYA NEWS HD
+http://max4kcdn.com:8080/live/9051425339/1800781514/144695.ts
+#EXTINF:-1 tvg-name="AL IRAQIYA NEWS HD" tvg-logo="" group-title="news",AL IRAQIYA NEWS HD
+http://max4kcdn.com:8080/live/9051425339/1800781514/149235.ts
+#EXTINF:-1 tvg-name="AR: AL JAZEERA MUBASHER HD" tvg-logo="" group-title="news",AR: AL JAZEERA MUBASHER HD
+http://max4kcdn.com:8080/live/9051425339/1800781514/149604.ts
+#EXTINF:-1 tvg-name="AR: AL JAZEERA AMERCIA HD" tvg-logo="" group-title="news",AR: AL JAZEERA AMERCIA HD
+http://max4kcdn.com:8080/live/9051425339/1800781514/149605.ts
+#EXTINF:-1 tvg-name="AR: AL JAZEERA BALKANS HD" tvg-logo="" group-title="news",AR: AL JAZEERA BALKANS HD
+http://max4kcdn.com:8080/live/9051425339/1800781514/149606.ts
+#EXTINF:-1 tvg-name="AR: ALARABY HD" tvg-logo="" group-title="news",AR: ALARABY HD
+http://max4kcdn.com:8080/live/9051425339/1800781514/180902.ts
+#EXTINF:-1 tvg-name="AR : AL SHARQ NEWS 4K" tvg-logo="" group-title="news",AR : AL SHARQ NEWS 4K
+http://max4kcdn.com:8080/live/9051425339/1800781514/180904.ts
+#EXTINF:-1 tvg-name="AR: AL GHAD HD" tvg-logo="" group-title="news",AR: AL GHAD HD
+http://max4kcdn.com:8080/live/9051425339/1800781514/180905.ts
+#EXTINF:-1 tvg-name="AR: DW ENGLISH HD" tvg-logo="" group-title="news",AR: DW ENGLISH HD
+http://max4kcdn.com:8080/live/9051425339/1800781514/180906.ts
+#EXTINF:-1 tvg-name="AR: ALHURRA 4K" tvg-logo="" group-title="news",AR: ALHURRA 4K
+http://max4kcdn.com:8080/live/9051425339/1800781514/180911.ts
+#EXTINF:-1 tvg-name="AR: MKAMALEYN NEWS" tvg-logo="" group-title="news",AR: MKAMALEYN NEWS
+http://max4kcdn.com:8080/live/9051425339/1800781514/180912.ts
+#EXTINF:-1 tvg-name="AR: EURONEWS HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyxZhVysA9Rd1kXTetMuUVqZN9MTJt2DF_wTsAc_1DrzaRQCrAo1NgOcQApZ26GOl9_h4&usqp=CAU" group-title="news",AR: EURONEWS HD
+http://max4kcdn.com:8080/live/9051425339/1800781514/180918.ts
+#EXTINF:-1 tvg-name="AR: AL ALAM HD" tvg-logo="http://faucontv.live:80/images/g-dotYH9xINHixEP8X_eC-3vyUco38fdK1zjMxD-Ouco6Z1DWBogRalq6n0hkMNu.png" group-title="news",AR: AL ALAM HD
+http://max4kcdn.com:8080/live/9051425339/1800781514/180923.ts
+#EXTINF:-1 tvg-name="AR: AL MAYADEEN HD" tvg-logo="http://faucontv.live:80/images/3g3pPpn683RjmFf9NReXSP7VtVGVdC-bYbM14JftXKgVQl9JLkECmPNG291Dc74Yaepls7yQ_8xMs7JkmMD8yCfHt9nHNNWzsGezlwfwCLYT8p6NNHXrOL7pNMAA9OGgqK7kZMz52toZEXz_WnRLiDCXy8MpLsKWpryKV5GJDSZxQVbGg2X7LZzosWF4BmNW.png" group-title="news",AR: AL MAYADEEN HD
+http://max4kcdn.com:8080/live/9051425339/1800781514/180924.ts
+#EXTINF:-1 tvg-name="AR: AL SHARQIYA HD" tvg-logo="http://faucontv.live:80/images/3g3pPpn683RjmFf9NReXSP7VtVGVdC-bYbM14JftXKio3jxCKt0YuI-8-sZ9ke95KMNGtS5scmiuRM3FgDCPLjeTqWFbUme1qNNC4yPK8klZN3ID-MZWRk4b5Lx6fVM7pldolcAc6nmhPbCqr4MBAseilF3RURGjOn8IMXL-eTnDzHIB4QR2gD3T7LA48yUk.png" group-title="news",AR: AL SHARQIYA HD
+http://max4kcdn.com:8080/live/9051425339/1800781514/180925.ts
+#EXTINF:-1 tvg-name="AR: Al Jazeera Documentary FHD" tvg-logo="http://faucontv.live:80/images/g-dotYH9xINHixEP8X_eC6Rt8psP4m7NXvwnUTnkaKGcflcRj0OpGCDp16vTL8Jmc8ZFyYMwCdeEGeY2fWhCFQ.png" group-title="news",AR: Al Jazeera Documentary FHD
+http://max4kcdn.com:8080/live/9051425339/1800781514/180930.ts
+#EXTINF:-1 tvg-name="AR: AL JAZEERA ENGLISH HD" tvg-logo="http://faucontv.live:80/images/3g3pPpn683RjmFf9NReXSP7VtVGVdC-bYbM14JftXKio3jxCKt0YuI-8-sZ9ke95KMNGtS5scmiuRM3FgDCPLjeTqWFbUme1qNNC4yPK8klfWoM9FbPyA48110kMiMw2zi6IDRDTvsGeNUJXbQn1eLDcJpLlJ72KOSICkrqNMT3xcIU6eoK6Zi1GvxRU_4wG.png" group-title="news",AR: AL JAZEERA ENGLISH HD
+http://max4kcdn.com:8080/live/9051425339/1800781514/180931.ts
+#EXTINF:-1 tvg-name="AR: AL HADATH ALYOUM HD" tvg-logo="http://faucontv.live:80/images/3g3pPpn683RjmFf9NReXSP7VtVGVdC-bYbM14JftXKio3jxCKt0YuI-8-sZ9ke95KMNGtS5scmiuRM3FgDCPLjeTqWFbUme1qNNC4yPK8kknoao0US8G5fW5VP9jWzvDmsFCM5rTJ5p278mn8e8j3HqvE21i02PlcZI3kSPtj3gRx1reRxSQkmFasmllJxir.png" group-title="news",AR: AL HADATH ALYOUM HD
+http://max4kcdn.com:8080/live/9051425339/1800781514/180934.ts
+#EXTINF:-1 tvg-name="AR: TRT ARABI HD" tvg-logo="http://faucontv.live:80/images/VsbfhsmEnQ3OVcjOsrgrnIJkiwOc8rd4AAbwSZsy5Zw.png" group-title="news",AR: TRT ARABI HD
+http://max4kcdn.com:8080/live/9051425339/1800781514/180938.ts
+#EXTINF:-1 tvg-name="AR: AL QAHERA NEWS HD" tvg-logo="" group-title="news",AR: AL QAHERA NEWS HD
+http://max4kcdn.com:8080/live/9051425339/1800781514/180940.ts
+#EXTINF:-1 tvg-name="AR: ARABIYA ENGLISH HD" tvg-logo="" group-title="news",AR: ARABIYA ENGLISH HD
+http://max4kcdn.com:8080/live/9051425339/1800781514/180983.ts
+#EXTINF:-1 tvg-name="AR: Extra News FHD" tvg-logo="http://faucontv.live:80/images/8SleNxM_nABVffRT06zzr2gmC8P08BnD_F3JD3np6sUPHsWSgoLxn8TzQF539Pjm.png" group-title="news",AR: Extra News FHD
+http://max4kcdn.com:8080/live/9051425339/1800781514/181014.ts
+#EXTINF:-1 tvg-name="AR: dmc News" tvg-logo="http://arabi21.com/Content/Upload/large/920184223433721.jpg" group-title="news",AR: dmc News
+http://max4kcdn.com:8080/live/9051425339/1800781514/181026.ts
+#EXTINF:-1 tvg-name="AR: Extra News" tvg-logo="http://faucontv.live:80/images/mHi0VR03ylCR5S1mbXz6CUGJZ34-8vGL6Vae3a7s2qNW0d27WYnQ6Y9bXR4fwK9M1D3dlFNHRZ0Ymz9kdI_gIkNeQqUqfBAsO0Vc-RlY2_Q.png" group-title="news",AR: Extra News
+http://max4kcdn.com:8080/live/9051425339/1800781514/181039.ts
+#EXTINF:-1 tvg-name="AR: Nile News" tvg-logo="http://faucontv.live:80/images/y1P9oQWOYjjCozO6Rgs7XsL4bR1Bw7pL0cf6SFeHZQtH03553no9QIu2RFA01tEb.png" group-title="news",AR: Nile News
+http://max4kcdn.com:8080/live/9051425339/1800781514/181053.ts
+#EXTINF:-1 tvg-name="AR: Nile News FHD" tvg-logo="http://faucontv.live:80/images/y1P9oQWOYjjCozO6Rgs7XsL4bR1Bw7pL0cf6SFeHZQtH03553no9QIu2RFA01tEb.png" group-title="news",AR: Nile News FHD
+http://max4kcdn.com:8080/live/9051425339/1800781514/181054.ts
+#EXTINF:-1 tvg-name="Al Iraqia News (720p)" tvg-logo="" group-title="news",Al Iraqia News (720p)
+http://max4kcdn.com:8080/live/9051425339/1800781514/181877.ts
+#EXTINF:-1 tvg-name="iNEWS TV (1080p)" tvg-logo="" group-title="news",iNEWS TV (1080p)
+http://max4kcdn.com:8080/live/9051425339/1800781514/181923.ts
+#EXTINF:-1 tvg-name="KTV News (1080p)" tvg-logo="" group-title="news",KTV News (1080p)
+http://max4kcdn.com:8080/live/9051425339/1800781514/181966.ts
+#EXTINF:-1 tvg-name="KTV News (360p)" tvg-logo="" group-title="news",KTV News (360p)
+http://max4kcdn.com:8080/live/9051425339/1800781514/181967.ts
+#EXTINF:-1 tvg-name="AR : BEIN BBC EARTH HD" tvg-logo="http://faucontv.live:80/images/xfy802CRYGzGJh-OsZpl9BaODTK4rx963my5m0P7gaRm_AW2f6Mf8pjcSTKc56CABUSAsSiQJr3bnMcZRhLKfiilt-hXmDGxRcrE05z7iHdXLuO5a-kfxAdaIHnl-raF.png" group-title="news",AR : BEIN BBC EARTH HD
+http://max4kcdn.com:8080/live/9051425339/1800781514/181308.ts
+#EXTINF:-1 tvg-name="AR: AL JAZEERA DOCUMENTARY HD" tvg-logo="" group-title="news",AR: AL JAZEERA DOCUMENTARY HD
+http://max4kcdn.com:8080/live/9051425339/1800781514/183397.ts
+#EXTINF:-1 tvg-name="EN: CBS NEWS HD" tvg-logo="" group-title="news",EN: CBS NEWS HD
+http://max4kcdn.com:8080/live/9051425339/1800781514/179011.ts
+#EXTINF:-1 tvg-name="EN: SKY NEWS HD" tvg-logo="" group-title="news",EN: SKY NEWS HD
+http://max4kcdn.com:8080/live/9051425339/1800781514/179892.ts
+#EXTINF:-1 tvg-name="EN: CNN INTERNATIONAL HD" tvg-logo="https://logo.0964750.xyz/logo/logos/cnn.png" group-title="news",EN: CNN INTERNATIONAL HD
+http://max4kcdn.com:8080/live/9051425339/1800781514/144704.ts
+#EXTINF:-1 tvg-name="EN: BBC NEWS HD" tvg-logo="https://logo.0964750.xyz/logo/logos/bbc.png" group-title="news",EN: BBC NEWS HD
+http://max4kcdn.com:8080/live/9051425339/1800781514/145537.ts
+#EXTINF:-1 tvg-name="CGTN EUROPE" tvg-logo="" group-title="news",CGTN EUROPE
+http://max4kcdn.com:8080/live/9051425339/1800781514/182465.ts
+#EXTINF:-1 tvg-name="EN: SKY WEATEHR HD" tvg-logo="" group-title="news",EN: SKY WEATEHR HD
+http://max4kcdn.com:8080/live/9051425339/1800781514/183377.ts
+#EXTINF:-1 tvg-name="EN: ABC NEWS HD" tvg-logo="" group-title="news",EN: ABC NEWS HD
+http://max4kcdn.com:8080/live/9051425339/1800781514/183378.ts
+#EXTINF:-1 tvg-name="EN: FRANCE 24 HD" tvg-logo="" group-title="news",EN: FRANCE 24 HD
+http://max4kcdn.com:8080/live/9051425339/1800781514/183379.ts
+#EXTINF:-1 tvg-name="EN: NEWSMAX HD" tvg-logo="" group-title="news",EN: NEWSMAX HD
+http://max4kcdn.com:8080/live/9051425339/1800781514/183380.ts
+#EXTINF:-1 tvg-name="EN: TRT WORLD HD" tvg-logo="" group-title="news",EN: TRT WORLD HD
+http://max4kcdn.com:8080/live/9051425339/1800781514/183381.ts
+#EXTINF:-1 tvg-name="EN: EURONEWS HD" tvg-logo="" group-title="news",EN: EURONEWS HD
+http://max4kcdn.com:8080/live/9051425339/1800781514/183382.ts
+#EXTINF:-1 tvg-name="EN: FOX WEATHER HD" tvg-logo="" group-title="news",EN: FOX WEATHER HD
+http://max4kcdn.com:8080/live/9051425339/1800781514/183383.ts
+#EXTINF:-1 tvg-name="PL: BBC EARTH" tvg-logo="https://docdog.top/logo/countries/poland/bbcearth.png" group-title="news",PL: BBC EARTH
+http://neosfpoo.top:8080/mikobart/miko123/10117
+#EXTINF:-1 tvg-name="PL: BBC FIRST" tvg-logo="https://docdog.top/logo/countries/poland/bbcfirst.png" group-title="news",PL: BBC FIRST
+http://neosfpoo.top:8080/mikobart/miko123/10118
+#EXTINF:-1 tvg-name="PL: BBC LIFESTYLE" tvg-logo="https://docdog.top/logo/countries/poland/bbclifestyle.png" group-title="news",PL: BBC LIFESTYLE
+http://neosfpoo.top:8080/mikobart/miko123/10119
+#EXTINF:-1 tvg-name="PL: BBC BRIT" tvg-logo="https://docdog.top/logo/countries/poland/bbcbrit.png" group-title="news",PL: BBC BRIT
+http://neosfpoo.top:8080/mikobart/miko123/10115
+#EXTINF:-1 tvg-name="PL: POLSAT SPORT FIGHT" tvg-logo="https://docdog.top/logo/countries/poland/polsatsportnews.png" group-title="news",PL: POLSAT SPORT FIGHT
+http://neosfpoo.top:8080/mikobart/miko123/23838
+#EXTINF:-1 tvg-name="PL: POLSAT NEWS" tvg-logo="https://docdog.top/logo/countries/poland/polsatnews.png" group-title="news",PL: POLSAT NEWS
+http://neosfpoo.top:8080/mikobart/miko123/10211
+#EXTINF:-1 tvg-name="PL: POLSAT NEWS 2" tvg-logo="https://docdog.top/logo/countries/poland/polsat_news_2.png" group-title="news",PL: POLSAT NEWS 2
+http://neosfpoo.top:8080/mikobart/miko123/49574
+#EXTINF:-1 tvg-name="PL: BBC CBEEBIES" tvg-logo="https://docdog.top/logo/countries/poland/bbccbeebies.png" group-title="news",PL: BBC CBEEBIES
+http://neosfpoo.top:8080/mikobart/miko123/10116
+#EXTINF:-1 tvg-name="PL: POLSAT NEWS POLITYKA" tvg-logo="https://docdog.top/logo/countries/poland/" group-title="news",PL: POLSAT NEWS POLITYKA
+http://neosfpoo.top:8080/mikobart/miko123/60938
+#EXTINF:-1 tvg-name="AR: BEIN SPORTS NEWS" tvg-logo="https://docdog.top/logo/countries/bein/BEINSPORTSNEWS.png" group-title="news",AR: BEIN SPORTS NEWS
+http://neosfpoo.top:8080/8461773685460/881b84d889e9/25117
