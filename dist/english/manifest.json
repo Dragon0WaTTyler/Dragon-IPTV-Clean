@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "revision_utc": "2026-07-01T04:55:51Z",
+  "revision_utc": "2026-07-01T08:57:17Z",
   "source_repo": "https://github.com/mesbahikarim03-svg/krimo.-Iptv",
   "source_pattern": "FIW_17*.m3u",
   "language": "english",
@@ -14,18 +14,18 @@
     "netflix": 1000
   },
   "counts": {
-    "raw_files": 21,
-    "raw_channels": 17786,
-    "dropped_promo": 75,
-    "dropped_unsupported_protocol": 2,
-    "dropped_language": 2706,
-    "deduped": 553,
-    "kept_channels": 4764,
+    "raw_files": 12,
+    "raw_channels": 115702,
+    "dropped_promo": 294,
+    "dropped_unsupported_protocol": 0,
+    "dropped_language": 46001,
+    "deduped": 28486,
+    "kept_channels": 8000,
     "english": 3000,
-    "news": 129,
-    "documentary": 477,
-    "sports": 500,
-    "netflix": 740
+    "news": 0,
+    "documentary": 1,
+    "sports": 14,
+    "netflix": 1000
   },
   "files": {
     "catalog": "dragon_iptv_catalog.json",
