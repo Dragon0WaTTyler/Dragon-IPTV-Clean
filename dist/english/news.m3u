@@ -1,7 +1,733 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="EURONEWS SRBIJA" tvg-logo="https://www.euronews.rs/files/img/logo-new.png" group-title="news",EURONEWS SRBIJA
-http://client.nodomain.vip/27nihadcelic/QXv5CCzkiE/2060
-#EXTINF:-1 tvg-name="AL JAZEERA" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/al_jazeera_balkans.jpg" group-title="news",AL JAZEERA
-http://client.nodomain.vip/27nihadcelic/QXv5CCzkiE/117
-#EXTINF:-1 tvg-name="BBC Earth" tvg-logo="https://images.pluto.tv/channels/656535fc2c46f30008870fae/colorLogoPNG.png" group-title="news",BBC Earth
-https://stitcher.pluto.tv/stitch/hls/channel/656535fc2c46f30008870fae/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web
+#EXTINF:-1 tvg-name="AR: AL JAZEERA HD" tvg-logo="s:1:/images/ab200a010e13010768d6ef415c7f8569.png" group-title="news",AR: AL JAZEERA HD
+http://elattar-tv.org/CfDWZmrpF7/ZNBNM8VCuR/970
+#EXTINF:-1 tvg-name="AR: AL JAZEERA ENGLISH HD" tvg-logo="http://195.211.191.31:808/logo/Arabic_news/ALJAZEERAENGLISHHD.png" group-title="news",AR: AL JAZEERA ENGLISH HD
+http://elattar-tv.org/CfDWZmrpF7/ZNBNM8VCuR/971
+#EXTINF:-1 tvg-name="AR: AL Jazeera Documentory HD" tvg-logo="http://195.211.191.31:808/logo/Arabic_news/ALJAZEERADOCUMENTARY.png" group-title="news",AR: AL Jazeera Documentory HD
+http://elattar-tv.org/CfDWZmrpF7/ZNBNM8VCuR/973
+#EXTINF:-1 tvg-name="AR: I 24 NEWS" tvg-logo="http://195.211.191.31:808/logo/Arabic_news/I24NEWSENGLISHHD.png" group-title="news",AR: I 24 NEWS
+http://elattar-tv.org/CfDWZmrpF7/ZNBNM8VCuR/976
+#EXTINF:-1 tvg-name="AR: BBC WORLD NEWS" tvg-logo="http://195.211.191.31:808/logo/Arabic_news/BBCWORLDNEWS.png" group-title="news",AR: BBC WORLD NEWS
+http://elattar-tv.org/CfDWZmrpF7/ZNBNM8VCuR/978
+#EXTINF:-1 tvg-name="AR: France 24 AR" tvg-logo="http://195.211.191.31:808/logo/Arabic_news/FRANCE24.png" group-title="news",AR: France 24 AR
+http://elattar-tv.org/CfDWZmrpF7/ZNBNM8VCuR/979
+#EXTINF:-1 tvg-name="AR: France 24 ENG" tvg-logo="http://195.211.191.31:808/logo/Arabic_news/FRANCE24.png" group-title="news",AR: France 24 ENG
+http://elattar-tv.org/CfDWZmrpF7/ZNBNM8VCuR/980
+#EXTINF:-1 tvg-name="AR: SKY NEWS ARABIA HD Local" tvg-logo="http://195.211.191.31:808/logo/Arabic_news/SKYNEWS.png" group-title="news",AR: SKY NEWS ARABIA HD Local
+http://elattar-tv.org/CfDWZmrpF7/ZNBNM8VCuR/984
+#EXTINF:-1 tvg-name="AR: AL QANAT 9" tvg-logo="http://195.211.191.31:808/logo/Arabic_news/9news.png" group-title="news",AR: AL QANAT 9
+http://elattar-tv.org/CfDWZmrpF7/ZNBNM8VCuR/985
+#EXTINF:-1 tvg-name="AR: AL ALAM" tvg-logo="http://195.211.191.31:808/logo/Arabic_news/alaalamjx.png" group-title="news",AR: AL ALAM
+http://elattar-tv.org/CfDWZmrpF7/ZNBNM8VCuR/986
+#EXTINF:-1 tvg-name="AR: AL SHARQIYA NEWS HD" tvg-logo="http://195.211.191.31:808/logo/Arabic_news/ALSHARQIANEWS.png" group-title="news",AR: AL SHARQIYA NEWS HD
+http://elattar-tv.org/CfDWZmrpF7/ZNBNM8VCuR/987
+#EXTINF:-1 tvg-name="AR: AL JAZEERA MUBASHER HD Local" tvg-logo="http://195.211.191.31:808/logo/Arabic_news/ALJAZEERAMUBASHER.png" group-title="news",AR: AL JAZEERA MUBASHER HD Local
+http://elattar-tv.org/CfDWZmrpF7/ZNBNM8VCuR/30909
+#EXTINF:-1 tvg-name="AR: CNN INTERNATIONAL HD" tvg-logo="http://195.211.191.31:808/logo/Arabic_news/CNNHD.png" group-title="news",AR: CNN INTERNATIONAL HD
+http://elattar-tv.org/CfDWZmrpF7/ZNBNM8VCuR/65440
+#EXTINF:-1 tvg-name="AR: Al Araby HD" tvg-logo="http://195.211.191.31:808/logo/" group-title="news",AR: Al Araby HD
+http://elattar-tv.org/CfDWZmrpF7/ZNBNM8VCuR/84
+#EXTINF:-1 tvg-name="AR: beIN Sports NEWS" tvg-logo="http://195.211.191.31:808/logo/logo_1/BEIN/bein/beinnews.png" group-title="news",AR: beIN Sports NEWS
+http://elattar-tv.org/CfDWZmrpF7/ZNBNM8VCuR/869
+#EXTINF:-1 tvg-name="AR: beIN Sports NEWS HD" tvg-logo="http://195.211.191.31:808/logo/logo_1/BEIN/bein/beinnews.png" group-title="news",AR: beIN Sports NEWS HD
+http://elattar-tv.org/CfDWZmrpF7/ZNBNM8VCuR/880
+#EXTINF:-1 tvg-name="OSN: SKY NEWS ARABIA FHD" tvg-logo="http://195.211.191.31:808/logo/logo_1/OSN/skynews.png" group-title="news",OSN: SKY NEWS ARABIA FHD
+http://elattar-tv.org/CfDWZmrpF7/ZNBNM8VCuR/183
+#EXTINF:-1 tvg-name="DZ: Echorouk NEWS HD" tvg-logo="http://195.211.191.31:808/logo/logo_1/AFRICA/ALGERIA/ECHOUROUKNEWSTV-1.png" group-title="news",DZ: Echorouk NEWS HD
+http://elattar-tv.org/CfDWZmrpF7/ZNBNM8VCuR/916
+#EXTINF:-1 tvg-name="DZ: ECHOROUK NEWS HD Local" tvg-logo="http://195.211.191.31:808/logo/logo_1/AFRICA/ALGERIA/ECHOUROUKNEWSTV-1.png" group-title="news",DZ: ECHOROUK NEWS HD Local
+http://elattar-tv.org/CfDWZmrpF7/ZNBNM8VCuR/917
+#EXTINF:-1 tvg-name="DZ: AL24 NEWS HD" tvg-logo="http://195.211.191.31:808/logo/logo_1/AFRICA/ALGERIA/alg-24.png" group-title="news",DZ: AL24 NEWS HD
+http://elattar-tv.org/CfDWZmrpF7/ZNBNM8VCuR/922
+#EXTINF:-1 tvg-name="IQ: IRAQIA NEWS" tvg-logo="" group-title="news",IQ: IRAQIA NEWS
+http://elattar-tv.org/CfDWZmrpF7/ZNBNM8VCuR/550
+#EXTINF:-1 tvg-name="IQ: I NEWS HD" tvg-logo="" group-title="news",IQ: I NEWS HD
+http://elattar-tv.org/CfDWZmrpF7/ZNBNM8VCuR/552
+#EXTINF:-1 tvg-name="IQ: AL SHARQIA NEWS HD" tvg-logo="s:1:/images/gwyuxguDloDD4l9XwIwb6EA1CC8GyMepyZ5vA-6LWde2G04CMq-0DCop-8RzII7FWzW4_TcSYZ-4bfb9wrhWgSp2twoT3GbnKJKZONLfK3I.png" group-title="news",IQ: AL SHARQIA NEWS HD
+http://elattar-tv.org/CfDWZmrpF7/ZNBNM8VCuR/557
+#EXTINF:-1 tvg-name="PS: PALESTINE NEWS" tvg-logo="" group-title="news",PS: PALESTINE NEWS
+http://elattar-tv.org/CfDWZmrpF7/ZNBNM8VCuR/469
+#EXTINF:-1 tvg-name="PS: PALESTINE NEWS HD" tvg-logo="" group-title="news",PS: PALESTINE NEWS HD
+http://elattar-tv.org/CfDWZmrpF7/ZNBNM8VCuR/470
+#EXTINF:-1 tvg-name="◉◉◉◉ FR NEWS ◉◉◉◉" tvg-logo="http://195.211.191.31:808/logo/logo_1/EUROPE/FRANCE/france_flag.png" group-title="news",◉◉◉◉ FR NEWS ◉◉◉◉
+http://elattar-tv.org/CfDWZmrpF7/ZNBNM8VCuR/722
+#EXTINF:-1 tvg-name="FR: EURONEWS FHD" tvg-logo="http://195.211.191.31:808/logo/logo_1/EUROPE/FRANCE/EURONEWSHD.png" group-title="news",FR: EURONEWS FHD
+http://elattar-tv.org/CfDWZmrpF7/ZNBNM8VCuR/723
+#EXTINF:-1 tvg-name="FR: Canal+ NEWS FHD" tvg-logo="http://195.211.191.31:808/logo/logo_1/EUROPE/FRANCE/CANALNEWSHD.png" group-title="news",FR: Canal+ NEWS FHD
+http://elattar-tv.org/CfDWZmrpF7/ZNBNM8VCuR/726
+#EXTINF:-1 tvg-name="FR: France 24 HD Local" tvg-logo="http://195.211.191.31:808/logo/logo_1/EUROPE/FRANCE/FRANCE24.png" group-title="news",FR: France 24 HD Local
+http://elattar-tv.org/CfDWZmrpF7/ZNBNM8VCuR/727
+#EXTINF:-1 tvg-name="FR: LCP HD Local" tvg-logo="http://195.211.191.31:808/logo/logo_1/EUROPE/FRANCE/LCP.png" group-title="news",FR: LCP HD Local
+http://elattar-tv.org/CfDWZmrpF7/ZNBNM8VCuR/728
+#EXTINF:-1 tvg-name="FR: BFM HD Local" tvg-logo="http://195.211.191.31:808/logo/logo_1/EUROPE/FRANCE/BFM-TV-FHD.png" group-title="news",FR: BFM HD Local
+http://elattar-tv.org/CfDWZmrpF7/ZNBNM8VCuR/729
+#EXTINF:-1 tvg-name="FR: BFM PARIS FHD" tvg-logo="http://195.211.191.31:808/logo/logo_1/EUROPE/FRANCE/BFMPARIS.png" group-title="news",FR: BFM PARIS FHD
+http://elattar-tv.org/CfDWZmrpF7/ZNBNM8VCuR/730
+#EXTINF:-1 tvg-name="FR: BFM BUSINESS HD Local" tvg-logo="http://195.211.191.31:808/logo/logo_1/EUROPE/FRANCE/BFM-BUSINESS-FHD.png" group-title="news",FR: BFM BUSINESS HD Local
+http://elattar-tv.org/CfDWZmrpF7/ZNBNM8VCuR/731
+#EXTINF:-1 tvg-name="FR: TV5 MONDE HD Local" tvg-logo="http://195.211.191.31:808/logo/logo_1/EUROPE/FRANCE/TV5MONDE.png" group-title="news",FR: TV5 MONDE HD Local
+http://elattar-tv.org/CfDWZmrpF7/ZNBNM8VCuR/732
+#EXTINF:-1 tvg-name="FR: LA CHAINE METEO" tvg-logo="http://195.211.191.31:808/logo/logo_1/EUROPE/FRANCE/LACHAINEMETEO.png" group-title="news",FR: LA CHAINE METEO
+http://elattar-tv.org/CfDWZmrpF7/ZNBNM8VCuR/733
+#EXTINF:-1 tvg-name="FR: RMC NEWS SPORT" tvg-logo="http://195.211.191.31:808/logo/logo_1/EUROPE/FRANCE/RMCSPORTNEWS.png" group-title="news",FR: RMC NEWS SPORT
+http://elattar-tv.org/CfDWZmrpF7/ZNBNM8VCuR/848
+#EXTINF:-1 tvg-name="◉◉◉◉ NEWS ◉◉◉◉" tvg-logo="http://195.211.191.31:808/logo/logo_1/EUROPE/UK/UK.png" group-title="news",◉◉◉◉ NEWS ◉◉◉◉
+http://elattar-tv.org/CfDWZmrpF7/ZNBNM8VCuR/1424
+#EXTINF:-1 tvg-name="◉◉◉◉ UK NEWS ◉◉◉◉" tvg-logo="http://195.211.191.31:808/logo/logo_1/UK/" group-title="news",◉◉◉◉ UK NEWS ◉◉◉◉
+http://elattar-tv.org/CfDWZmrpF7/ZNBNM8VCuR/1948
+#EXTINF:-1 tvg-name="UK: BBC NEWS" tvg-logo="http://195.211.191.31:808/logo/logo_1/UK/BBCNEWS.png" group-title="news",UK: BBC NEWS
+http://elattar-tv.org/CfDWZmrpF7/ZNBNM8VCuR/1949
+#EXTINF:-1 tvg-name="UK: BBC WORLD NEWS HD" tvg-logo="http://195.211.191.31:808/logo/logo_1/UK/" group-title="news",UK: BBC WORLD NEWS HD
+http://elattar-tv.org/CfDWZmrpF7/ZNBNM8VCuR/1950
+#EXTINF:-1 tvg-name="UK: BLOOMBERG HD" tvg-logo="http://195.211.191.31:808/logo/logo_1/UK/" group-title="news",UK: BLOOMBERG HD
+http://elattar-tv.org/CfDWZmrpF7/ZNBNM8VCuR/1951
+#EXTINF:-1 tvg-name="UK: CNN HD" tvg-logo="http://195.211.191.31:808/logo/logo_1/UK/CNN.png" group-title="news",UK: CNN HD
+http://elattar-tv.org/CfDWZmrpF7/ZNBNM8VCuR/1953
+#EXTINF:-1 tvg-name="UK: FRANCE 24" tvg-logo="http://195.211.191.31:808/logo/logo_1/UK/" group-title="news",UK: FRANCE 24
+http://elattar-tv.org/CfDWZmrpF7/ZNBNM8VCuR/1954
+#EXTINF:-1 tvg-name="UK: SKY NEWS" tvg-logo="http://195.211.191.31:808/logo/logo_1/UK/skaynews.png" group-title="news",UK: SKY NEWS
+http://elattar-tv.org/CfDWZmrpF7/ZNBNM8VCuR/1955
+#EXTINF:-1 tvg-name="UK: CNBC" tvg-logo="http://195.211.191.31:808/logo/logo_1/UK/" group-title="news",UK: CNBC
+http://elattar-tv.org/CfDWZmrpF7/ZNBNM8VCuR/1956
+#EXTINF:-1 tvg-name="UK: EURO NEWS" tvg-logo="http://195.211.191.31:808/logo/logo_1/UK/" group-title="news",UK: EURO NEWS
+http://elattar-tv.org/CfDWZmrpF7/ZNBNM8VCuR/1957
+#EXTINF:-1 tvg-name="UK: AL JAZEERA ENG" tvg-logo="http://195.211.191.31:808/logo/logo_1/UK/" group-title="news",UK: AL JAZEERA ENG
+http://elattar-tv.org/CfDWZmrpF7/ZNBNM8VCuR/1958
+#EXTINF:-1 tvg-name="UK: 24 News" tvg-logo="http://195.211.191.31:808/logo/logo_1/UK/" group-title="news",UK: 24 News
+http://elattar-tv.org/CfDWZmrpF7/ZNBNM8VCuR/31004
+#EXTINF:-1 tvg-name="UK: Fox News" tvg-logo="http://195.211.191.31:808/logo/logo_1/UK/FOX.png" group-title="news",UK: Fox News
+http://elattar-tv.org/CfDWZmrpF7/ZNBNM8VCuR/31005
+#EXTINF:-1 tvg-name="UK: BBC FOUR HD" tvg-logo="http://195.211.191.31:808/logo/logo_1/UK/BBC4.png" group-title="news",UK: BBC FOUR HD
+http://elattar-tv.org/CfDWZmrpF7/ZNBNM8VCuR/1429
+#EXTINF:-1 tvg-name="UK: ITV QUIZ HD" tvg-logo="http://195.211.191.31:808/logo/logo_1/UK/" group-title="news",UK: ITV QUIZ HD
+http://elattar-tv.org/CfDWZmrpF7/ZNBNM8VCuR/1434
+#EXTINF:-1 tvg-name="UK: CHANNEL 5 HD" tvg-logo="http://195.211.191.31:808/logo/logo_1/UK/CHANNEL5.png" group-title="news",UK: CHANNEL 5 HD
+http://elattar-tv.org/CfDWZmrpF7/ZNBNM8VCuR/1436
+#EXTINF:-1 tvg-name="UK: CHANNEL 4 HD" tvg-logo="http://195.211.191.31:808/logo/logo_1/UK/CHANNEL4.png" group-title="news",UK: CHANNEL 4 HD
+http://elattar-tv.org/CfDWZmrpF7/ZNBNM8VCuR/1435
+#EXTINF:-1 tvg-name="UK: ITV 4 HD" tvg-logo="http://195.211.191.31:808/logo/logo_1/UK/ITV4.png" group-title="news",UK: ITV 4 HD
+http://elattar-tv.org/CfDWZmrpF7/ZNBNM8VCuR/1433
+#EXTINF:-1 tvg-name="UK: BBC THREE HD" tvg-logo="http://195.211.191.31:808/logo/logo_1/UK/" group-title="news",UK: BBC THREE HD
+http://elattar-tv.org/CfDWZmrpF7/ZNBNM8VCuR/1427
+#EXTINF:-1 tvg-name="UK: ITV 1 HD" tvg-logo="http://195.211.191.31:808/logo/logo_1/UK/ITV1.png" group-title="news",UK: ITV 1 HD
+http://elattar-tv.org/CfDWZmrpF7/ZNBNM8VCuR/1430
+#EXTINF:-1 tvg-name="UK: BBC ONE HD" tvg-logo="http://195.211.191.31:808/logo/logo_1/UK/BBC1.png" group-title="news",UK: BBC ONE HD
+http://elattar-tv.org/CfDWZmrpF7/ZNBNM8VCuR/1425
+#EXTINF:-1 tvg-name="UK: BBC TWO HD" tvg-logo="http://195.211.191.31:808/logo/logo_1/UK/BBC2.png" group-title="news",UK: BBC TWO HD
+http://elattar-tv.org/CfDWZmrpF7/ZNBNM8VCuR/1426
+#EXTINF:-1 tvg-name="UK: ITV 2 HD" tvg-logo="http://195.211.191.31:808/logo/logo_1/UK/ITV2.png" group-title="news",UK: ITV 2 HD
+http://elattar-tv.org/CfDWZmrpF7/ZNBNM8VCuR/1431
+#EXTINF:-1 tvg-name="UK: ITV 3 HD" tvg-logo="http://195.211.191.31:808/logo/logo_1/UK/ITV3.png" group-title="news",UK: ITV 3 HD
+http://elattar-tv.org/CfDWZmrpF7/ZNBNM8VCuR/1432
+#EXTINF:-1 tvg-name="UK: BBC PARLIAMENT HD" tvg-logo="http://195.211.191.31:808/logo/logo_1/UK/" group-title="news",UK: BBC PARLIAMENT HD
+http://elattar-tv.org/CfDWZmrpF7/ZNBNM8VCuR/1440
+#EXTINF:-1 tvg-name="UK: BBC ONE WEST HD" tvg-logo="http://195.211.191.31:808/logo/logo_1/UK/BBCONEWEST.png" group-title="news",UK: BBC ONE WEST HD
+http://elattar-tv.org/CfDWZmrpF7/ZNBNM8VCuR/1930
+#EXTINF:-1 tvg-name="UK: BBC ONE WALES HD" tvg-logo="http://195.211.191.31:808/logo/logo_1/UK/BBCONEWALES.png" group-title="news",UK: BBC ONE WALES HD
+http://elattar-tv.org/CfDWZmrpF7/ZNBNM8VCuR/1931
+#EXTINF:-1 tvg-name="UK: BBC ONE SCOTLAND HD" tvg-logo="http://195.211.191.31:808/logo/logo_1/UK/BBCONESCOTTLAND.png" group-title="news",UK: BBC ONE SCOTLAND HD
+http://elattar-tv.org/CfDWZmrpF7/ZNBNM8VCuR/1932
+#EXTINF:-1 tvg-name="UK: BBC ONE SOUTH WEST HD" tvg-logo="http://195.211.191.31:808/logo/logo_1/UK/" group-title="news",UK: BBC ONE SOUTH WEST HD
+http://elattar-tv.org/CfDWZmrpF7/ZNBNM8VCuR/1933
+#EXTINF:-1 tvg-name="UK: BBC One South East" tvg-logo="http://195.211.191.31:808/logo/logo_1/UK/BBCONESOUTHEAST.png" group-title="news",UK: BBC One South East
+http://elattar-tv.org/CfDWZmrpF7/ZNBNM8VCuR/1934
+#EXTINF:-1 tvg-name="UK: BBC ONE SOUTH HD" tvg-logo="http://195.211.191.31:808/logo/logo_1/UK/BBCONESOUTH.png" group-title="news",UK: BBC ONE SOUTH HD
+http://elattar-tv.org/CfDWZmrpF7/ZNBNM8VCuR/1935
+#EXTINF:-1 tvg-name="UK: BBC ONE OXFORD" tvg-logo="http://195.211.191.31:808/logo/logo_1/UK/BBCONEOXFORD.png" group-title="news",UK: BBC ONE OXFORD
+http://elattar-tv.org/CfDWZmrpF7/ZNBNM8VCuR/1936
+#EXTINF:-1 tvg-name="UK: BBC One Northern Ireland HD" tvg-logo="http://195.211.191.31:808/logo/logo_1/UK/" group-title="news",UK: BBC One Northern Ireland HD
+http://elattar-tv.org/CfDWZmrpF7/ZNBNM8VCuR/1937
+#EXTINF:-1 tvg-name="UK: BBC ONE NORTH WEST HD" tvg-logo="http://195.211.191.31:808/logo/logo_1/UK/BBCONENORTHWEST.png" group-title="news",UK: BBC ONE NORTH WEST HD
+http://elattar-tv.org/CfDWZmrpF7/ZNBNM8VCuR/1938
+#EXTINF:-1 tvg-name="UK: BBC ONE NORTH EAST & CUMBRIA HD" tvg-logo="http://195.211.191.31:808/logo/logo_1/UK/BBCONECUMBRIA.png" group-title="news",UK: BBC ONE NORTH EAST & CUMBRIA HD
+http://elattar-tv.org/CfDWZmrpF7/ZNBNM8VCuR/1939
+#EXTINF:-1 tvg-name="UK: BBC ONE LONDON HD" tvg-logo="http://195.211.191.31:808/logo/logo_1/UK/BBCONELONDON.png" group-title="news",UK: BBC ONE LONDON HD
+http://elattar-tv.org/CfDWZmrpF7/ZNBNM8VCuR/1941
+#EXTINF:-1 tvg-name="UK: BBC TWO WALES HD" tvg-logo="http://195.211.191.31:808/logo/logo_1/UK/BBCTWOWALES.png" group-title="news",UK: BBC TWO WALES HD
+http://elattar-tv.org/CfDWZmrpF7/ZNBNM8VCuR/1460
+#EXTINF:-1 tvg-name="UK: BBC ONE WEST MIDLANDS" tvg-logo="http://195.211.191.31:808/logo/logo_1/UK/BBCONEMIDLANDS.png" group-title="news",UK: BBC ONE WEST MIDLANDS
+http://elattar-tv.org/CfDWZmrpF7/ZNBNM8VCuR/1463
+#EXTINF:-1 tvg-name="UK: BBC ONE EAST MIDLANDS HD" tvg-logo="http://195.211.191.31:808/logo/logo_1/UK/BBCONEEASTMIDLANDS.png" group-title="news",UK: BBC ONE EAST MIDLANDS HD
+http://elattar-tv.org/CfDWZmrpF7/ZNBNM8VCuR/1942
+#EXTINF:-1 tvg-name="UK: BBC ONE EAST" tvg-logo="http://195.211.191.31:808/logo/logo_1/UK/" group-title="news",UK: BBC ONE EAST
+http://elattar-tv.org/CfDWZmrpF7/ZNBNM8VCuR/1943
+#EXTINF:-1 tvg-name="UK: BBC ONE CHANNEL ISLANDS" tvg-logo="http://195.211.191.31:808/logo/logo_1/UK/BBCONEISLANDS.png" group-title="news",UK: BBC ONE CHANNEL ISLANDS
+http://elattar-tv.org/CfDWZmrpF7/ZNBNM8VCuR/1944
+#EXTINF:-1 tvg-name="UK: BBC SCOTLAND HD" tvg-logo="http://195.211.191.31:808/logo/logo_1/UK/" group-title="news",UK: BBC SCOTLAND HD
+http://elattar-tv.org/CfDWZmrpF7/ZNBNM8VCuR/1945
+#EXTINF:-1 tvg-name="UK: BBC ALBA HD" tvg-logo="http://195.211.191.31:808/logo/logo_1/UK/BBCALBA.png" group-title="news",UK: BBC ALBA HD
+http://elattar-tv.org/CfDWZmrpF7/ZNBNM8VCuR/1946
+#EXTINF:-1 tvg-name="UK: SKY SPORTS NEWS HD" tvg-logo="http://195.211.191.31:808/logo/logo_1/UK/SKYSPORTSNEWS.png" group-title="news",UK: SKY SPORTS NEWS HD
+http://elattar-tv.org/CfDWZmrpF7/ZNBNM8VCuR/1961
+#EXTINF:-1 tvg-name="UK: SKY SPORTS PREMIER LEAGUE HD" tvg-logo="http://195.211.191.31:808/logo/logo_1/UK/SKYSPORTSPREMIERLEAGUE.png" group-title="news",UK: SKY SPORTS PREMIER LEAGUE HD
+http://elattar-tv.org/CfDWZmrpF7/ZNBNM8VCuR/1964
+#EXTINF:-1 tvg-name="UK: SKY SPORTS CRICKET HD" tvg-logo="http://195.211.191.31:808/logo/logo_1/UK/SKYSPORTSCRICKET.png" group-title="news",UK: SKY SPORTS CRICKET HD
+http://elattar-tv.org/CfDWZmrpF7/ZNBNM8VCuR/1968
+#EXTINF:-1 tvg-name="UK: U&Dave HD" tvg-logo="http://195.211.191.31:808/logo/logo_1/UK/DAVE.png" group-title="news",UK: U&Dave HD
+http://elattar-tv.org/CfDWZmrpF7/ZNBNM8VCuR/2024
+#EXTINF:-1 tvg-name="UK: Bbc Entertainment HD" tvg-logo="http://195.211.191.31:808/logo/logo_1/EUROPE/UK/BBC_Entertainment_Logo.svg.png" group-title="news",UK: Bbc Entertainment HD
+http://elattar-tv.org/CfDWZmrpF7/ZNBNM8VCuR/31008
+#EXTINF:-1 tvg-name="UK: Geo News" tvg-logo="" group-title="news",UK: Geo News
+http://elattar-tv.org/CfDWZmrpF7/ZNBNM8VCuR/2231
+#EXTINF:-1 tvg-name="UK: Al Jazeera" tvg-logo="http://195.211.191.31:808/logo/logo_1/UK/" group-title="news",UK: Al Jazeera
+http://elattar-tv.org/CfDWZmrpF7/ZNBNM8VCuR/2267
+#EXTINF:-1 tvg-name="UK: Sky News Arabia" tvg-logo="http://195.211.191.31:808/logo/logo_1/UK/skaynews.png" group-title="news",UK: Sky News Arabia
+http://elattar-tv.org/CfDWZmrpF7/ZNBNM8VCuR/2271
+#EXTINF:-1 tvg-name="PT: ARTV" tvg-logo="http://195.211.191.31:808/logo/logo_1/EUROPE/PORTUGAL/ARTV.png" group-title="news",PT: ARTV
+http://elattar-tv.org/CfDWZmrpF7/ZNBNM8VCuR/29931
+#EXTINF:-1 tvg-name="PT: RECORD NEWS" tvg-logo="http://195.211.191.31:808/logo/logo_1/EUROPE/PORTUGAL/RECORDNEWS.png" group-title="news",PT: RECORD NEWS
+http://elattar-tv.org/CfDWZmrpF7/ZNBNM8VCuR/29941
+#EXTINF:-1 tvg-name="PT: SIC Noticias HD" tvg-logo="http://195.211.191.31:808/logo/logo_1/EUROPE/PORTUGAL/SICNOTICIAS.png" group-title="news",PT: SIC Noticias HD
+http://elattar-tv.org/CfDWZmrpF7/ZNBNM8VCuR/29952
+#EXTINF:-1 tvg-name="Pt: CNN Portugal HD" tvg-logo="" group-title="news",Pt: CNN Portugal HD
+http://elattar-tv.org/CfDWZmrpF7/ZNBNM8VCuR/65482
+#EXTINF:-1 tvg-name="PT: France 24 English" tvg-logo="" group-title="news",PT: France 24 English
+http://elattar-tv.org/CfDWZmrpF7/ZNBNM8VCuR/65485
+#EXTINF:-1 tvg-name="PT: Euro News" tvg-logo="" group-title="news",PT: Euro News
+http://elattar-tv.org/CfDWZmrpF7/ZNBNM8VCuR/65483
+#EXTINF:-1 tvg-name="DE: Sky Sport News HD" tvg-logo="http://195.211.191.31:808/logo/germany/Sky_Sport_News_Logo_2020.png" group-title="news",DE: Sky Sport News HD
+http://elattar-tv.org/CfDWZmrpF7/ZNBNM8VCuR/21684
+#EXTINF:-1 tvg-name="DE: N-TV HD" tvg-logo="https://www.lyngsat.com/logo/tv/vv/voxup-de.png/logo/germany/N-TV_Germany_HD_Logo_2017.png" group-title="news",DE: N-TV HD
+http://elattar-tv.org/CfDWZmrpF7/ZNBNM8VCuR/21739
+#EXTINF:-1 tvg-name="DE: Welt HD" tvg-logo="" group-title="news",DE: Welt HD
+http://elattar-tv.org/CfDWZmrpF7/ZNBNM8VCuR/21741
+#EXTINF:-1 tvg-name="DE: Phoenix HD" tvg-logo="http://185.177.228.135:808/logo/germany/Phoenix_Logo_2012.svg.png" group-title="news",DE: Phoenix HD
+http://elattar-tv.org/CfDWZmrpF7/ZNBNM8VCuR/65325
+#EXTINF:-1 tvg-name="DE: Tagesschau 24 HD" tvg-logo="" group-title="news",DE: Tagesschau 24 HD
+http://elattar-tv.org/CfDWZmrpF7/ZNBNM8VCuR/21744
+#EXTINF:-1 tvg-name="◉◉◉◉ DE NEWS ◉◉◉◉" tvg-logo="" group-title="news",◉◉◉◉ DE NEWS ◉◉◉◉
+http://elattar-tv.org/CfDWZmrpF7/ZNBNM8VCuR/21745
+#EXTINF:-1 tvg-name="DE: WDR Dortmund HD Local" tvg-logo="" group-title="news",DE: WDR Dortmund HD Local
+http://elattar-tv.org/CfDWZmrpF7/ZNBNM8VCuR/66928
+#EXTINF:-1 tvg-name="◉◉◉◉ NL NEWS ◉◉◉◉" tvg-logo="http://195.211.191.31:808/logo/logo_1/NEDERLAND/NEDERLAND.png" group-title="news",◉◉◉◉ NL NEWS ◉◉◉◉
+http://elattar-tv.org/CfDWZmrpF7/ZNBNM8VCuR/5582
+#EXTINF:-1 tvg-name="NL: NPO POLITIEK & NIEUWS HD" tvg-logo="" group-title="news",NL: NPO POLITIEK & NIEUWS HD
+http://elattar-tv.org/CfDWZmrpF7/ZNBNM8VCuR/5458
+#EXTINF:-1 tvg-name="NL: RTV NOORD" tvg-logo="http://195.211.191.31:808/logo/logo_1/NEDERLAND/" group-title="news",NL: RTV NOORD
+http://elattar-tv.org/CfDWZmrpF7/ZNBNM8VCuR/5457
+#EXTINF:-1 tvg-name="NL: RTL Z HD" tvg-logo="http://195.211.191.31:808/logo/logo_1/NEDERLAND/" group-title="news",NL: RTL Z HD
+http://elattar-tv.org/CfDWZmrpF7/ZNBNM8VCuR/5456
+#EXTINF:-1 tvg-name="NL: BBC NL HD" tvg-logo="" group-title="news",NL: BBC NL HD
+http://elattar-tv.org/CfDWZmrpF7/ZNBNM8VCuR/5480
+#EXTINF:-1 tvg-name="CH: TELE TOP HD" tvg-logo="" group-title="news",CH: TELE TOP HD
+http://elattar-tv.org/CfDWZmrpF7/ZNBNM8VCuR/65466
+#EXTINF:-1 tvg-name="CH: Tele Top FHD" tvg-logo="" group-title="news",CH: Tele Top FHD
+http://elattar-tv.org/CfDWZmrpF7/ZNBNM8VCuR/65467
+#EXTINF:-1 tvg-name="SE: BBC WORLD NEWS" tvg-logo="" group-title="news",SE: BBC WORLD NEWS
+http://elattar-tv.org/CfDWZmrpF7/ZNBNM8VCuR/65794
+#EXTINF:-1 tvg-name="SE: CNBC" tvg-logo="http://www.tmsimg.com/assets/s10139_ll_h3_aa.png" group-title="news",SE: CNBC
+http://elattar-tv.org/CfDWZmrpF7/ZNBNM8VCuR/65795
+#EXTINF:-1 tvg-name="SE: CNN" tvg-logo="" group-title="news",SE: CNN
+http://elattar-tv.org/CfDWZmrpF7/ZNBNM8VCuR/65796
+#EXTINF:-1 tvg-name="◉◉◉◉ TR NEWS ◉◉◉◉" tvg-logo="" group-title="news",◉◉◉◉ TR NEWS ◉◉◉◉
+http://elattar-tv.org/CfDWZmrpF7/ZNBNM8VCuR/11826
+#EXTINF:-1 tvg-name="TR: CAY TV HD" tvg-logo="" group-title="news",TR: CAY TV HD
+http://elattar-tv.org/CfDWZmrpF7/ZNBNM8VCuR/18303
+#EXTINF:-1 tvg-name="TR: EKOL TV HD" tvg-logo="" group-title="news",TR: EKOL TV HD
+http://elattar-tv.org/CfDWZmrpF7/ZNBNM8VCuR/18304
+#EXTINF:-1 tvg-name="TR: TRT HABER HD" tvg-logo="" group-title="news",TR: TRT HABER HD
+http://elattar-tv.org/CfDWZmrpF7/ZNBNM8VCuR/18305
+#EXTINF:-1 tvg-name="TR: A PARA HD" tvg-logo="" group-title="news",TR: A PARA HD
+http://elattar-tv.org/CfDWZmrpF7/ZNBNM8VCuR/18306
+#EXTINF:-1 tvg-name="TR: A HBR HD" tvg-logo="" group-title="news",TR: A HBR HD
+http://elattar-tv.org/CfDWZmrpF7/ZNBNM8VCuR/18307
+#EXTINF:-1 tvg-name="TR: NTV HABER HD" tvg-logo="" group-title="news",TR: NTV HABER HD
+http://elattar-tv.org/CfDWZmrpF7/ZNBNM8VCuR/18308
+#EXTINF:-1 tvg-name="TR: HABER GLOBAL HD" tvg-logo="" group-title="news",TR: HABER GLOBAL HD
+http://elattar-tv.org/CfDWZmrpF7/ZNBNM8VCuR/18311
+#EXTINF:-1 tvg-name="TR: HALK TV HD" tvg-logo="" group-title="news",TR: HALK TV HD
+http://elattar-tv.org/CfDWZmrpF7/ZNBNM8VCuR/18312
+#EXTINF:-1 tvg-name="TR: TGRT HABER HD" tvg-logo="" group-title="news",TR: TGRT HABER HD
+http://elattar-tv.org/CfDWZmrpF7/ZNBNM8VCuR/18313
+#EXTINF:-1 tvg-name="TR: ULUSAL KANAL HD" tvg-logo="" group-title="news",TR: ULUSAL KANAL HD
+http://elattar-tv.org/CfDWZmrpF7/ZNBNM8VCuR/18315
+#EXTINF:-1 tvg-name="TR: ULKE TV HD" tvg-logo="" group-title="news",TR: ULKE TV HD
+http://elattar-tv.org/CfDWZmrpF7/ZNBNM8VCuR/18316
+#EXTINF:-1 tvg-name="TR: TELE 1 HD" tvg-logo="" group-title="news",TR: TELE 1 HD
+http://elattar-tv.org/CfDWZmrpF7/ZNBNM8VCuR/18317
+#EXTINF:-1 tvg-name="TR: SZC TV HD" tvg-logo="" group-title="news",TR: SZC TV HD
+http://elattar-tv.org/CfDWZmrpF7/ZNBNM8VCuR/18319
+#EXTINF:-1 tvg-name="TR: FLASH HABER HD" tvg-logo="" group-title="news",TR: FLASH HABER HD
+http://elattar-tv.org/CfDWZmrpF7/ZNBNM8VCuR/18320
+#EXTINF:-1 tvg-name="TR: 24 TV HD" tvg-logo="" group-title="news",TR: 24 TV HD
+http://elattar-tv.org/CfDWZmrpF7/ZNBNM8VCuR/65715
+#EXTINF:-1 tvg-name="TR: TVNET HD" tvg-logo="" group-title="news",TR: TVNET HD
+http://elattar-tv.org/CfDWZmrpF7/ZNBNM8VCuR/65716
+#EXTINF:-1 tvg-name="TR: BLOOMBERG HD" tvg-logo="" group-title="news",TR: BLOOMBERG HD
+http://elattar-tv.org/CfDWZmrpF7/ZNBNM8VCuR/65718
+#EXTINF:-1 tvg-name="◉◉◉◉ ALBANIA NEWS ◉◉◉◉" tvg-logo="" group-title="news",◉◉◉◉ ALBANIA NEWS ◉◉◉◉
+http://elattar-tv.org/CfDWZmrpF7/ZNBNM8VCuR/2304
+#EXTINF:-1 tvg-name="AL: Syri News HD" tvg-logo="" group-title="news",AL: Syri News HD
+http://elattar-tv.org/CfDWZmrpF7/ZNBNM8VCuR/2305
+#EXTINF:-1 tvg-name="AL: ABC News 24" tvg-logo="" group-title="news",AL: ABC News 24
+http://elattar-tv.org/CfDWZmrpF7/ZNBNM8VCuR/2306
+#EXTINF:-1 tvg-name="AL: News 24" tvg-logo="" group-title="news",AL: News 24
+http://elattar-tv.org/CfDWZmrpF7/ZNBNM8VCuR/2307
+#EXTINF:-1 tvg-name="AL: Top News FHD" tvg-logo="" group-title="news",AL: Top News FHD
+http://elattar-tv.org/CfDWZmrpF7/ZNBNM8VCuR/2308
+#EXTINF:-1 tvg-name="AL: SYRI VISION" tvg-logo="" group-title="news",AL: SYRI VISION
+http://elattar-tv.org/CfDWZmrpF7/ZNBNM8VCuR/2309
+#EXTINF:-1 tvg-name="AL: ORA NEWS" tvg-logo="" group-title="news",AL: ORA NEWS
+http://elattar-tv.org/CfDWZmrpF7/ZNBNM8VCuR/2310
+#EXTINF:-1 tvg-name="AL: Arta News" tvg-logo="" group-title="news",AL: Arta News
+http://elattar-tv.org/CfDWZmrpF7/ZNBNM8VCuR/2311
+#EXTINF:-1 tvg-name="AL: FAX NEWS HD" tvg-logo="" group-title="news",AL: FAX NEWS HD
+http://elattar-tv.org/CfDWZmrpF7/ZNBNM8VCuR/2312
+#EXTINF:-1 tvg-name="AL: Report TV" tvg-logo="" group-title="news",AL: Report TV
+http://elattar-tv.org/CfDWZmrpF7/ZNBNM8VCuR/2313
+#EXTINF:-1 tvg-name="AL: Kanali 7" tvg-logo="" group-title="news",AL: Kanali 7
+http://elattar-tv.org/CfDWZmrpF7/ZNBNM8VCuR/2314
+#EXTINF:-1 tvg-name="AL: EuroNews" tvg-logo="" group-title="news",AL: EuroNews
+http://elattar-tv.org/CfDWZmrpF7/ZNBNM8VCuR/2315
+#EXTINF:-1 tvg-name="AL: A2 CNN" tvg-logo="" group-title="news",AL: A2 CNN
+http://elattar-tv.org/CfDWZmrpF7/ZNBNM8VCuR/2316
+#EXTINF:-1 tvg-name="AL: NTV FHD" tvg-logo="" group-title="news",AL: NTV FHD
+http://elattar-tv.org/CfDWZmrpF7/ZNBNM8VCuR/2317
+#EXTINF:-1 tvg-name="AL: Panorama TV" tvg-logo="" group-title="news",AL: Panorama TV
+http://elattar-tv.org/CfDWZmrpF7/ZNBNM8VCuR/2318
+#EXTINF:-1 tvg-name="AL: Klan News HD" tvg-logo="" group-title="news",AL: Klan News HD
+http://elattar-tv.org/CfDWZmrpF7/ZNBNM8VCuR/2319
+#EXTINF:-1 tvg-name="AL: CNA NEWS" tvg-logo="" group-title="news",AL: CNA NEWS
+http://elattar-tv.org/CfDWZmrpF7/ZNBNM8VCuR/2320
+#EXTINF:-1 tvg-name="AL: Scan TV" tvg-logo="" group-title="news",AL: Scan TV
+http://elattar-tv.org/CfDWZmrpF7/ZNBNM8VCuR/2322
+#EXTINF:-1 tvg-name="AL: Super Sport News HD" tvg-logo="" group-title="news",AL: Super Sport News HD
+http://elattar-tv.org/CfDWZmrpF7/ZNBNM8VCuR/2324
+#EXTINF:-1 tvg-name="AL: Tring Sport News HD" tvg-logo="" group-title="news",AL: Tring Sport News HD
+http://elattar-tv.org/CfDWZmrpF7/ZNBNM8VCuR/2337
+#EXTINF:-1 tvg-name="◉◉◉◉ RO NEWS ◉◉◉◉" tvg-logo="" group-title="news",◉◉◉◉ RO NEWS ◉◉◉◉
+http://elattar-tv.org/CfDWZmrpF7/ZNBNM8VCuR/40575
+#EXTINF:-1 tvg-name="RO: Digi 24" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Logo_Digi_24_%282012%29.svg/1200px-Logo_Digi_24_%282012%29.svg.png" group-title="news",RO: Digi 24
+http://elattar-tv.org/CfDWZmrpF7/ZNBNM8VCuR/40576
+#EXTINF:-1 tvg-name="RO: Romania TV" tvg-logo="https://www.romaniatv.net/wp-content/uploads/2020/11/fb-logo-rtv.png" group-title="news",RO: Romania TV
+http://elattar-tv.org/CfDWZmrpF7/ZNBNM8VCuR/40577
+#EXTINF:-1 tvg-name="RO: National TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ed/National_TV_stacked.png" group-title="news",RO: National TV
+http://elattar-tv.org/CfDWZmrpF7/ZNBNM8VCuR/40578
+#EXTINF:-1 tvg-name="RO: Realitatea PLUS" tvg-logo="http://cdn.teleon.tv/logo/realitatea_tv_plus.png" group-title="news",RO: Realitatea PLUS
+http://elattar-tv.org/CfDWZmrpF7/ZNBNM8VCuR/40579
+#EXTINF:-1 tvg-name="RO: REALITATEA STAR HD" tvg-logo="https://realitateastar.net/wp-content/uploads/2021/03/Realitatea_Star_LOGOa-01-300x123.png" group-title="news",RO: REALITATEA STAR HD
+http://elattar-tv.org/CfDWZmrpF7/ZNBNM8VCuR/40580
+#EXTINF:-1 tvg-name="RO: REALITATEA SPORTIVA HD" tvg-logo="https://www.dvbnews.ro/wp-content/uploads/2020/07/logo-realitatea-sportiva.png" group-title="news",RO: REALITATEA SPORTIVA HD
+http://elattar-tv.org/CfDWZmrpF7/ZNBNM8VCuR/40581
+#EXTINF:-1 tvg-name="RO: ALEPH BUSINESS" tvg-logo="https://www.interlan.ro/wp-content/uploads/2021/11/aleph-business-1.png" group-title="news",RO: ALEPH BUSINESS
+http://elattar-tv.org/CfDWZmrpF7/ZNBNM8VCuR/40582
+#EXTINF:-1 tvg-name="RO: ALEPH SMART TV HD" tvg-logo="" group-title="news",RO: ALEPH SMART TV HD
+http://elattar-tv.org/CfDWZmrpF7/ZNBNM8VCuR/40583
+#EXTINF:-1 tvg-name="RO: Alpha NEWS" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/9/92/Aleph_News_%282020-.n.v.%29.png" group-title="news",RO: Alpha NEWS
+http://elattar-tv.org/CfDWZmrpF7/ZNBNM8VCuR/40584
+#EXTINF:-1 tvg-name="RO: PROFIT TV HD" tvg-logo="http://cdn.teleon.tv/logo/profit-tv-ro.png" group-title="news",RO: PROFIT TV HD
+http://elattar-tv.org/CfDWZmrpF7/ZNBNM8VCuR/40585
+#EXTINF:-1 tvg-name="RO: Intermedia TV" tvg-logo="http://cdn.teleon.tv/logo/intermedia-tv-ro.png" group-title="news",RO: Intermedia TV
+http://elattar-tv.org/CfDWZmrpF7/ZNBNM8VCuR/40586
+#EXTINF:-1 tvg-name="RO: TV Arad" tvg-logo="https://tvarad.ro/assets/site/images/logo/logo-arad-orange.png" group-title="news",RO: TV Arad
+http://elattar-tv.org/CfDWZmrpF7/ZNBNM8VCuR/40587
+#EXTINF:-1 tvg-name="RO: B 1" tvg-logo="https://cdn.teleon.tv/logo/b1_tv-transparent.png" group-title="news",RO: B 1
+http://elattar-tv.org/CfDWZmrpF7/ZNBNM8VCuR/40588
+#EXTINF:-1 tvg-name="RU: EURONEWS" tvg-logo="" group-title="news",RU: EURONEWS
+http://elattar-tv.org/CfDWZmrpF7/ZNBNM8VCuR/9696
+#EXTINF:-1 tvg-name="RU: CNN" tvg-logo="" group-title="news",RU: CNN
+http://elattar-tv.org/CfDWZmrpF7/ZNBNM8VCuR/9850
+#EXTINF:-1 tvg-name="PK: HUM NEWS HD" tvg-logo="" group-title="news",PK: HUM NEWS HD
+http://elattar-tv.org/CfDWZmrpF7/ZNBNM8VCuR/477
+#EXTINF:-1 tvg-name="PK: Lahore NEWS HD" tvg-logo="" group-title="news",PK: Lahore NEWS HD
+http://elattar-tv.org/CfDWZmrpF7/ZNBNM8VCuR/478
+#EXTINF:-1 tvg-name="PK: Lahore Rang" tvg-logo="" group-title="news",PK: Lahore Rang
+http://elattar-tv.org/CfDWZmrpF7/ZNBNM8VCuR/479
+#EXTINF:-1 tvg-name="PK: Neo NEWS HD" tvg-logo="" group-title="news",PK: Neo NEWS HD
+http://elattar-tv.org/CfDWZmrpF7/ZNBNM8VCuR/480
+#EXTINF:-1 tvg-name="PK: NEWS ONE" tvg-logo="" group-title="news",PK: NEWS ONE
+http://elattar-tv.org/CfDWZmrpF7/ZNBNM8VCuR/481
+#EXTINF:-1 tvg-name="PK: PTV NEWS" tvg-logo="" group-title="news",PK: PTV NEWS
+http://elattar-tv.org/CfDWZmrpF7/ZNBNM8VCuR/482
+#EXTINF:-1 tvg-name="PK: PTV World" tvg-logo="" group-title="news",PK: PTV World
+http://elattar-tv.org/CfDWZmrpF7/ZNBNM8VCuR/483
+#EXTINF:-1 tvg-name="PK: Public NEWS" tvg-logo="" group-title="news",PK: Public NEWS
+http://elattar-tv.org/CfDWZmrpF7/ZNBNM8VCuR/484
+#EXTINF:-1 tvg-name="PK: Raavi TV" tvg-logo="" group-title="news",PK: Raavi TV
+http://elattar-tv.org/CfDWZmrpF7/ZNBNM8VCuR/485
+#EXTINF:-1 tvg-name="PK: Roze NEWS" tvg-logo="" group-title="news",PK: Roze NEWS
+http://elattar-tv.org/CfDWZmrpF7/ZNBNM8VCuR/486
+#EXTINF:-1 tvg-name="PK: Samaa NEWS" tvg-logo="" group-title="news",PK: Samaa NEWS
+http://elattar-tv.org/CfDWZmrpF7/ZNBNM8VCuR/487
+#EXTINF:-1 tvg-name="PK: Suno TV" tvg-logo="" group-title="news",PK: Suno TV
+http://elattar-tv.org/CfDWZmrpF7/ZNBNM8VCuR/488
+#EXTINF:-1 tvg-name="PK: PTV National HD" tvg-logo="" group-title="news",PK: PTV National HD
+http://elattar-tv.org/CfDWZmrpF7/ZNBNM8VCuR/489
+#EXTINF:-1 tvg-name="PK: TV Today NEWS" tvg-logo="" group-title="news",PK: TV Today NEWS
+http://elattar-tv.org/CfDWZmrpF7/ZNBNM8VCuR/490
+#EXTINF:-1 tvg-name="#PK:" tvg-logo="" group-title="news",#PK:
+http://elattar-tv.org/CfDWZmrpF7/ZNBNM8VCuR/491
+#EXTINF:-1 tvg-name="PK: Venus HD" tvg-logo="" group-title="news",PK: Venus HD
+http://elattar-tv.org/CfDWZmrpF7/ZNBNM8VCuR/492
+#EXTINF:-1 tvg-name="PK: KTN NEWS" tvg-logo="" group-title="news",PK: KTN NEWS
+http://elattar-tv.org/CfDWZmrpF7/ZNBNM8VCuR/493
+#EXTINF:-1 tvg-name="PK: Khyber NEWS" tvg-logo="" group-title="news",PK: Khyber NEWS
+http://elattar-tv.org/CfDWZmrpF7/ZNBNM8VCuR/494
+#EXTINF:-1 tvg-name="PK: Rohi TV" tvg-logo="" group-title="news",PK: Rohi TV
+http://elattar-tv.org/CfDWZmrpF7/ZNBNM8VCuR/495
+#EXTINF:-1 tvg-name="#PK: VSH NEWS" tvg-logo="" group-title="news",#PK: VSH NEWS
+http://elattar-tv.org/CfDWZmrpF7/ZNBNM8VCuR/496
+#EXTINF:-1 tvg-name="PK: Kohenoor NEWS" tvg-logo="" group-title="news",PK: Kohenoor NEWS
+http://elattar-tv.org/CfDWZmrpF7/ZNBNM8VCuR/497
+#EXTINF:-1 tvg-name="PK: K21" tvg-logo="" group-title="news",PK: K21
+http://elattar-tv.org/CfDWZmrpF7/ZNBNM8VCuR/498
+#EXTINF:-1 tvg-name="◉◉◉◉ PAKISTAN ◉◉◉◉" tvg-logo="" group-title="news",◉◉◉◉ PAKISTAN ◉◉◉◉
+http://elattar-tv.org/CfDWZmrpF7/ZNBNM8VCuR/626
+#EXTINF:-1 tvg-name="PK: Mehran TV" tvg-logo="" group-title="news",PK: Mehran TV
+http://elattar-tv.org/CfDWZmrpF7/ZNBNM8VCuR/23863
+#EXTINF:-1 tvg-name="PK: Aaj NEWS" tvg-logo="" group-title="news",PK: Aaj NEWS
+http://elattar-tv.org/CfDWZmrpF7/ZNBNM8VCuR/23864
+#EXTINF:-1 tvg-name="#PK: PNN NEWS" tvg-logo="" group-title="news",#PK: PNN NEWS
+http://elattar-tv.org/CfDWZmrpF7/ZNBNM8VCuR/23865
+#EXTINF:-1 tvg-name="PK: Sindh NEWS" tvg-logo="" group-title="news",PK: Sindh NEWS
+http://elattar-tv.org/CfDWZmrpF7/ZNBNM8VCuR/23868
+#EXTINF:-1 tvg-name="PK: Such TV" tvg-logo="" group-title="news",PK: Such TV
+http://elattar-tv.org/CfDWZmrpF7/ZNBNM8VCuR/31189
+#EXTINF:-1 tvg-name="PK: 365 NEWS" tvg-logo="" group-title="news",PK: 365 NEWS
+http://elattar-tv.org/CfDWZmrpF7/ZNBNM8VCuR/31190
+#EXTINF:-1 tvg-name="PK: Geo NEWS HD" tvg-logo="" group-title="news",PK: Geo NEWS HD
+http://elattar-tv.org/CfDWZmrpF7/ZNBNM8VCuR/31191
+#EXTINF:-1 tvg-name="PK: Abb Takk" tvg-logo="" group-title="news",PK: Abb Takk
+http://elattar-tv.org/CfDWZmrpF7/ZNBNM8VCuR/31192
+#EXTINF:-1 tvg-name="PK: GNN NEWS" tvg-logo="" group-title="news",PK: GNN NEWS
+http://elattar-tv.org/CfDWZmrpF7/ZNBNM8VCuR/31194
+#EXTINF:-1 tvg-name="PK: 24 NEWS HD" tvg-logo="" group-title="news",PK: 24 NEWS HD
+http://elattar-tv.org/CfDWZmrpF7/ZNBNM8VCuR/31195
+#EXTINF:-1 tvg-name="PK: Express NEWS" tvg-logo="" group-title="news",PK: Express NEWS
+http://elattar-tv.org/CfDWZmrpF7/ZNBNM8VCuR/31196
+#EXTINF:-1 tvg-name="PK: ARY NEWS HD" tvg-logo="" group-title="news",PK: ARY NEWS HD
+http://elattar-tv.org/CfDWZmrpF7/ZNBNM8VCuR/31197
+#EXTINF:-1 tvg-name="PK: Bol NEWS HD" tvg-logo="" group-title="news",PK: Bol NEWS HD
+http://elattar-tv.org/CfDWZmrpF7/ZNBNM8VCuR/31198
+#EXTINF:-1 tvg-name="PK: Capital NEWS" tvg-logo="" group-title="news",PK: Capital NEWS
+http://elattar-tv.org/CfDWZmrpF7/ZNBNM8VCuR/31199
+#EXTINF:-1 tvg-name="PK: Channel 5" tvg-logo="" group-title="news",PK: Channel 5
+http://elattar-tv.org/CfDWZmrpF7/ZNBNM8VCuR/31200
+#EXTINF:-1 tvg-name="PK: Dawn NEWS" tvg-logo="" group-title="news",PK: Dawn NEWS
+http://elattar-tv.org/CfDWZmrpF7/ZNBNM8VCuR/31202
+#EXTINF:-1 tvg-name="PK: Dunya NEWS" tvg-logo="" group-title="news",PK: Dunya NEWS
+http://elattar-tv.org/CfDWZmrpF7/ZNBNM8VCuR/31203
+#EXTINF:-1 tvg-name="IN: Sony BBC Earth HD" tvg-logo="" group-title="news",IN: Sony BBC Earth HD
+http://elattar-tv.org/CfDWZmrpF7/ZNBNM8VCuR/23996
+#EXTINF:-1 tvg-name="IN: ABP NEWS" tvg-logo="" group-title="news",IN: ABP NEWS
+http://elattar-tv.org/CfDWZmrpF7/ZNBNM8VCuR/24008
+#EXTINF:-1 tvg-name="IN: DD NEWS HD" tvg-logo="" group-title="news",IN: DD NEWS HD
+http://elattar-tv.org/CfDWZmrpF7/ZNBNM8VCuR/24022
+#EXTINF:-1 tvg-name="IN: NEWS 18 INDIA" tvg-logo="" group-title="news",IN: NEWS 18 INDIA
+http://elattar-tv.org/CfDWZmrpF7/ZNBNM8VCuR/24044
+#EXTINF:-1 tvg-name="IN: NEWS 18 RAJASTHAN" tvg-logo="" group-title="news",IN: NEWS 18 RAJASTHAN
+http://elattar-tv.org/CfDWZmrpF7/ZNBNM8VCuR/24045
+#EXTINF:-1 tvg-name="IN: NEWS NATION" tvg-logo="" group-title="news",IN: NEWS NATION
+http://elattar-tv.org/CfDWZmrpF7/ZNBNM8VCuR/24046
+#EXTINF:-1 tvg-name="IN: NEWS STATE" tvg-logo="" group-title="news",IN: NEWS STATE
+http://elattar-tv.org/CfDWZmrpF7/ZNBNM8VCuR/24047
+#EXTINF:-1 tvg-name="IN: ZEE HINDUSTAN NEWS" tvg-logo="" group-title="news",IN: ZEE HINDUSTAN NEWS
+http://elattar-tv.org/CfDWZmrpF7/ZNBNM8VCuR/24061
+#EXTINF:-1 tvg-name="IN: ZEE NEWS" tvg-logo="" group-title="news",IN: ZEE NEWS
+http://elattar-tv.org/CfDWZmrpF7/ZNBNM8VCuR/24062
+#EXTINF:-1 tvg-name="IN: ZEE NEWS BIHAR" tvg-logo="" group-title="news",IN: ZEE NEWS BIHAR
+http://elattar-tv.org/CfDWZmrpF7/ZNBNM8VCuR/24063
+#EXTINF:-1 tvg-name="IN: ZEE NEWS MP/CHATTISGARH" tvg-logo="" group-title="news",IN: ZEE NEWS MP/CHATTISGARH
+http://elattar-tv.org/CfDWZmrpF7/ZNBNM8VCuR/24064
+#EXTINF:-1 tvg-name="IN: ZEE NEWS UP" tvg-logo="" group-title="news",IN: ZEE NEWS UP
+http://elattar-tv.org/CfDWZmrpF7/ZNBNM8VCuR/24065
+#EXTINF:-1 tvg-name="IN: ABN NEWS TV" tvg-logo="" group-title="news",IN: ABN NEWS TV
+http://elattar-tv.org/CfDWZmrpF7/ZNBNM8VCuR/24067
+#EXTINF:-1 tvg-name="IN: CNBC TV18 NEWS HD" tvg-logo="" group-title="news",IN: CNBC TV18 NEWS HD
+http://elattar-tv.org/CfDWZmrpF7/ZNBNM8VCuR/24159
+#EXTINF:-1 tvg-name="IN: INDIA NEWS" tvg-logo="" group-title="news",IN: INDIA NEWS
+http://elattar-tv.org/CfDWZmrpF7/ZNBNM8VCuR/24089
+#EXTINF:-1 tvg-name="IN: INDIA NEWS MP" tvg-logo="" group-title="news",IN: INDIA NEWS MP
+http://elattar-tv.org/CfDWZmrpF7/ZNBNM8VCuR/24094
+#EXTINF:-1 tvg-name="IN: INDIA NEWS UP" tvg-logo="" group-title="news",IN: INDIA NEWS UP
+http://elattar-tv.org/CfDWZmrpF7/ZNBNM8VCuR/24095
+#EXTINF:-1 tvg-name="IN: INDIA NEWS HARYANA" tvg-logo="" group-title="news",IN: INDIA NEWS HARYANA
+http://elattar-tv.org/CfDWZmrpF7/ZNBNM8VCuR/24096
+#EXTINF:-1 tvg-name="IN: NEWS X" tvg-logo="" group-title="news",IN: NEWS X
+http://elattar-tv.org/CfDWZmrpF7/ZNBNM8VCuR/24176
+#EXTINF:-1 tvg-name="IN: INDIA NEWS RAJASTHAN" tvg-logo="" group-title="news",IN: INDIA NEWS RAJASTHAN
+http://elattar-tv.org/CfDWZmrpF7/ZNBNM8VCuR/24098
+#EXTINF:-1 tvg-name="IN: SUDARSHAN NEWS" tvg-logo="" group-title="news",IN: SUDARSHAN NEWS
+http://elattar-tv.org/CfDWZmrpF7/ZNBNM8VCuR/24099
+#EXTINF:-1 tvg-name="IN: NEWS 24" tvg-logo="" group-title="news",IN: NEWS 24
+http://elattar-tv.org/CfDWZmrpF7/ZNBNM8VCuR/24104
+#EXTINF:-1 tvg-name="IN: CVR NEWS" tvg-logo="" group-title="news",IN: CVR NEWS
+http://elattar-tv.org/CfDWZmrpF7/ZNBNM8VCuR/24105
+#EXTINF:-1 tvg-name="IN: PRAG NEWS" tvg-logo="" group-title="news",IN: PRAG NEWS
+http://elattar-tv.org/CfDWZmrpF7/ZNBNM8VCuR/24113
+#EXTINF:-1 tvg-name="IN: NEWS 18 LIVE" tvg-logo="" group-title="news",IN: NEWS 18 LIVE
+http://elattar-tv.org/CfDWZmrpF7/ZNBNM8VCuR/24115
+#EXTINF:-1 tvg-name="IN: E NEWS 24" tvg-logo="" group-title="news",IN: E NEWS 24
+http://elattar-tv.org/CfDWZmrpF7/ZNBNM8VCuR/24120
+#EXTINF:-1 tvg-name="IN: REPUBLIC NEWS" tvg-logo="" group-title="news",IN: REPUBLIC NEWS
+http://elattar-tv.org/CfDWZmrpF7/ZNBNM8VCuR/24131
+#EXTINF:-1 tvg-name="IN: ZEE NEWS MP" tvg-logo="" group-title="news",IN: ZEE NEWS MP
+http://elattar-tv.org/CfDWZmrpF7/ZNBNM8VCuR/24133
+#EXTINF:-1 tvg-name="IN: SONY BBC EARTH ENGLISH HD" tvg-logo="" group-title="news",IN: SONY BBC EARTH ENGLISH HD
+http://elattar-tv.org/CfDWZmrpF7/ZNBNM8VCuR/24178
+#EXTINF:-1 tvg-name="IR: KALMEAH FARSI" tvg-logo="http://195.211.191.31:808/logo/logo_1/IRAN/KalemehTV.png" group-title="news",IR: KALMEAH FARSI
+http://elattar-tv.org/CfDWZmrpF7/ZNBNM8VCuR/65517
+#EXTINF:-1 tvg-name="IR: MOHABAT TV" tvg-logo="http://195.211.191.31:808/logo/logo_1/IRAN/MOHABAT.png" group-title="news",IR: MOHABAT TV
+http://elattar-tv.org/CfDWZmrpF7/ZNBNM8VCuR/65518
+#EXTINF:-1 tvg-name="IR: IRAN TV NETWORK ITN" tvg-logo="http://195.211.191.31:808/logo/logo_1/IRAN/" group-title="news",IR: IRAN TV NETWORK ITN
+http://elattar-tv.org/CfDWZmrpF7/ZNBNM8VCuR/65529
+#EXTINF:-1 tvg-name="IR: KANAL JADID" tvg-logo="http://195.211.191.31:808/logo/logo_1/IRAN/kanaljadid.png" group-title="news",IR: KANAL JADID
+http://elattar-tv.org/CfDWZmrpF7/ZNBNM8VCuR/65533
+#EXTINF:-1 tvg-name="IR: PARS TV" tvg-logo="http://195.211.191.31:808/logo/logo_1/IRAN/PARSTV.png" group-title="news",IR: PARS TV
+http://elattar-tv.org/CfDWZmrpF7/ZNBNM8VCuR/65534
+#EXTINF:-1 tvg-name="IR: DIDGAH TV" tvg-logo="http://195.211.191.31:808/logo/logo_1/IRAN/DIDGAH.png" group-title="news",IR: DIDGAH TV
+http://elattar-tv.org/CfDWZmrpF7/ZNBNM8VCuR/65535
+#EXTINF:-1 tvg-name="IR: IRAN E FARDA HD" tvg-logo="http://195.211.191.31:808/logo/logo_1/IRAN/IRAN-E-FARADA.png" group-title="news",IR: IRAN E FARDA HD
+http://elattar-tv.org/CfDWZmrpF7/ZNBNM8VCuR/65539
+#EXTINF:-1 tvg-name="IR: BBC PERSIAN" tvg-logo="http://195.211.191.31:808/logo/logo_1/IRAN/BBCPERSIANN.png" group-title="news",IR: BBC PERSIAN
+http://elattar-tv.org/CfDWZmrpF7/ZNBNM8VCuR/65555
+#EXTINF:-1 tvg-name="IR: IRAN INTERNATIONAL HD" tvg-logo="http://195.211.191.31:808/logo/logo_1/IRAN/IRANINTERNATIONAL.png" group-title="news",IR: IRAN INTERNATIONAL HD
+http://elattar-tv.org/CfDWZmrpF7/ZNBNM8VCuR/65579
+#EXTINF:-1 tvg-name="IR: VOA FARSI HD" tvg-logo="http://195.211.191.31:808/logo/logo_1/IRAN/voxhd1.png" group-title="news",IR: VOA FARSI HD
+http://elattar-tv.org/CfDWZmrpF7/ZNBNM8VCuR/65582
+#EXTINF:-1 tvg-name="IL:YES -24" tvg-logo="" group-title="news",IL:YES -24
+http://elattar-tv.org/CfDWZmrpF7/ZNBNM8VCuR/31046
+#EXTINF:-1 tvg-name="IL:CHANNEL 11 KAN" tvg-logo="" group-title="news",IL:CHANNEL 11 KAN
+http://elattar-tv.org/CfDWZmrpF7/ZNBNM8VCuR/31047
+#EXTINF:-1 tvg-name="IL: Channel 12 Keset" tvg-logo="" group-title="news",IL: Channel 12 Keset
+http://elattar-tv.org/CfDWZmrpF7/ZNBNM8VCuR/31048
+#EXTINF:-1 tvg-name="IL:CHANNEL 9" tvg-logo="" group-title="news",IL:CHANNEL 9
+http://elattar-tv.org/CfDWZmrpF7/ZNBNM8VCuR/31049
+#EXTINF:-1 tvg-name="IL:KNESSET TV" tvg-logo="" group-title="news",IL:KNESSET TV
+http://elattar-tv.org/CfDWZmrpF7/ZNBNM8VCuR/31050
+#EXTINF:-1 tvg-name="IL: Reshet 13" tvg-logo="" group-title="news",IL: Reshet 13
+http://elattar-tv.org/CfDWZmrpF7/ZNBNM8VCuR/31057
+#EXTINF:-1 tvg-name="IL: KAN 23 HD" tvg-logo="" group-title="news",IL: KAN 23 HD
+http://elattar-tv.org/CfDWZmrpF7/ZNBNM8VCuR/65213
+#EXTINF:-1 tvg-name="IL: CH 13 HD" tvg-logo="" group-title="news",IL: CH 13 HD
+http://elattar-tv.org/CfDWZmrpF7/ZNBNM8VCuR/65214
+#EXTINF:-1 tvg-name="IL: CH 14 HD" tvg-logo="" group-title="news",IL: CH 14 HD
+http://elattar-tv.org/CfDWZmrpF7/ZNBNM8VCuR/65215
+#EXTINF:-1 tvg-name="IL: KAN 24 HD" tvg-logo="" group-title="news",IL: KAN 24 HD
+http://elattar-tv.org/CfDWZmrpF7/ZNBNM8VCuR/65216
+#EXTINF:-1 tvg-name="IL: Makan HD" tvg-logo="" group-title="news",IL: Makan HD
+http://elattar-tv.org/CfDWZmrpF7/ZNBNM8VCuR/132
+#EXTINF:-1 tvg-name="US: ABC NEWS HD" tvg-logo="" group-title="news",US: ABC NEWS HD
+http://elattar-tv.org/CfDWZmrpF7/ZNBNM8VCuR/26369
+#EXTINF:-1 tvg-name="US: FOX HD" tvg-logo="" group-title="news",US: FOX HD
+http://elattar-tv.org/CfDWZmrpF7/ZNBNM8VCuR/26370
+#EXTINF:-1 tvg-name="US: FOX NEWS CHANNEL HD" tvg-logo="" group-title="news",US: FOX NEWS CHANNEL HD
+http://elattar-tv.org/CfDWZmrpF7/ZNBNM8VCuR/26371
+#EXTINF:-1 tvg-name="US: LOGO HD" tvg-logo="" group-title="news",US: LOGO HD
+http://elattar-tv.org/CfDWZmrpF7/ZNBNM8VCuR/26373
+#EXTINF:-1 tvg-name="US: REELZ HD" tvg-logo="" group-title="news",US: REELZ HD
+http://elattar-tv.org/CfDWZmrpF7/ZNBNM8VCuR/26374
+#EXTINF:-1 tvg-name="US: TBN HD" tvg-logo="" group-title="news",US: TBN HD
+http://elattar-tv.org/CfDWZmrpF7/ZNBNM8VCuR/26375
+#EXTINF:-1 tvg-name="US: CBS HD" tvg-logo="" group-title="news",US: CBS HD
+http://elattar-tv.org/CfDWZmrpF7/ZNBNM8VCuR/26376
+#EXTINF:-1 tvg-name="US: CBS NEWS BAY AREA" tvg-logo="" group-title="news",US: CBS NEWS BAY AREA
+http://elattar-tv.org/CfDWZmrpF7/ZNBNM8VCuR/26377
+#EXTINF:-1 tvg-name="US: FOX DEPORTES HD" tvg-logo="" group-title="news",US: FOX DEPORTES HD
+http://elattar-tv.org/CfDWZmrpF7/ZNBNM8VCuR/26378
+#EXTINF:-1 tvg-name="US: BBC WORLD NEWS" tvg-logo="" group-title="news",US: BBC WORLD NEWS
+http://elattar-tv.org/CfDWZmrpF7/ZNBNM8VCuR/26379
+#EXTINF:-1 tvg-name="US: CNN HD" tvg-logo="" group-title="news",US: CNN HD
+http://elattar-tv.org/CfDWZmrpF7/ZNBNM8VCuR/26380
+#EXTINF:-1 tvg-name="US: CNN INTERNATIONAL HD" tvg-logo="" group-title="news",US: CNN INTERNATIONAL HD
+http://elattar-tv.org/CfDWZmrpF7/ZNBNM8VCuR/26381
+#EXTINF:-1 tvg-name="US: CW HD" tvg-logo="" group-title="news",US: CW HD
+http://elattar-tv.org/CfDWZmrpF7/ZNBNM8VCuR/26382
+#EXTINF:-1 tvg-name="US: NBC SPORTS CHICAGO HD" tvg-logo="" group-title="news",US: NBC SPORTS CHICAGO HD
+http://elattar-tv.org/CfDWZmrpF7/ZNBNM8VCuR/26383
+#EXTINF:-1 tvg-name="US: NBC NEWS NOW HD" tvg-logo="" group-title="news",US: NBC NEWS NOW HD
+http://elattar-tv.org/CfDWZmrpF7/ZNBNM8VCuR/26384
+#EXTINF:-1 tvg-name="US: HLN HD" tvg-logo="" group-title="news",US: HLN HD
+http://elattar-tv.org/CfDWZmrpF7/ZNBNM8VCuR/26385
+#EXTINF:-1 tvg-name="US: CNBC HD" tvg-logo="" group-title="news",US: CNBC HD
+http://elattar-tv.org/CfDWZmrpF7/ZNBNM8VCuR/26386
+#EXTINF:-1 tvg-name="US: CNBC WORLD HD" tvg-logo="" group-title="news",US: CNBC WORLD HD
+http://elattar-tv.org/CfDWZmrpF7/ZNBNM8VCuR/26387
+#EXTINF:-1 tvg-name="US: MSNBC HD" tvg-logo="" group-title="news",US: MSNBC HD
+http://elattar-tv.org/CfDWZmrpF7/ZNBNM8VCuR/26388
+#EXTINF:-1 tvg-name="US: FOX BUSINESS NETWORK HD" tvg-logo="" group-title="news",US: FOX BUSINESS NETWORK HD
+http://elattar-tv.org/CfDWZmrpF7/ZNBNM8VCuR/26389
+#EXTINF:-1 tvg-name="US: NEWSY HD" tvg-logo="" group-title="news",US: NEWSY HD
+http://elattar-tv.org/CfDWZmrpF7/ZNBNM8VCuR/26390
+#EXTINF:-1 tvg-name="US: NEWSMAX TV HD." tvg-logo="" group-title="news",US: NEWSMAX TV HD.
+http://elattar-tv.org/CfDWZmrpF7/ZNBNM8VCuR/26391
+#EXTINF:-1 tvg-name="US: CHEDDAR NEWS HD" tvg-logo="" group-title="news",US: CHEDDAR NEWS HD
+http://elattar-tv.org/CfDWZmrpF7/ZNBNM8VCuR/26392
+#EXTINF:-1 tvg-name="US: ONE AMERICAN NEWS NETWORK HD" tvg-logo="" group-title="news",US: ONE AMERICAN NEWS NETWORK HD
+http://elattar-tv.org/CfDWZmrpF7/ZNBNM8VCuR/26393
+#EXTINF:-1 tvg-name="US: BBC AMERICA HD" tvg-logo="" group-title="news",US: BBC AMERICA HD
+http://elattar-tv.org/CfDWZmrpF7/ZNBNM8VCuR/26394
+#EXTINF:-1 tvg-name="US: C-SPAN HD" tvg-logo="" group-title="news",US: C-SPAN HD
+http://elattar-tv.org/CfDWZmrpF7/ZNBNM8VCuR/26395
+#EXTINF:-1 tvg-name="US: C-SPAN 2 HD" tvg-logo="" group-title="news",US: C-SPAN 2 HD
+http://elattar-tv.org/CfDWZmrpF7/ZNBNM8VCuR/26396
+#EXTINF:-1 tvg-name="US: C-SPAN 3 HD" tvg-logo="" group-title="news",US: C-SPAN 3 HD
+http://elattar-tv.org/CfDWZmrpF7/ZNBNM8VCuR/26397
+#EXTINF:-1 tvg-name="US: CNBC TV18" tvg-logo="" group-title="news",US: CNBC TV18
+http://elattar-tv.org/CfDWZmrpF7/ZNBNM8VCuR/26398
+#EXTINF:-1 tvg-name="US: AL JAZEERA HD" tvg-logo="" group-title="news",US: AL JAZEERA HD
+http://elattar-tv.org/CfDWZmrpF7/ZNBNM8VCuR/26399
+#EXTINF:-1 tvg-name="US: 7NEWS BOSTON" tvg-logo="" group-title="news",US: 7NEWS BOSTON
+http://elattar-tv.org/CfDWZmrpF7/ZNBNM8VCuR/26400
+#EXTINF:-1 tvg-name="US: KTLA 5 HD (LOS ANGELES)" tvg-logo="" group-title="news",US: KTLA 5 HD (LOS ANGELES)
+http://elattar-tv.org/CfDWZmrpF7/ZNBNM8VCuR/26401
+#EXTINF:-1 tvg-name="US: NEW ENGLAND CABLE NEWS" tvg-logo="" group-title="news",US: NEW ENGLAND CABLE NEWS
+http://elattar-tv.org/CfDWZmrpF7/ZNBNM8VCuR/26402
+#EXTINF:-1 tvg-name="US: NBCSN BAY AREA HD" tvg-logo="" group-title="news",US: NBCSN BAY AREA HD
+http://elattar-tv.org/CfDWZmrpF7/ZNBNM8VCuR/26403
+#EXTINF:-1 tvg-name="US: NEWSNET" tvg-logo="" group-title="news",US: NEWSNET
+http://elattar-tv.org/CfDWZmrpF7/ZNBNM8VCuR/26404
+#EXTINF:-1 tvg-name="US: NEWS 12 NEW JERSEY" tvg-logo="" group-title="news",US: NEWS 12 NEW JERSEY
+http://elattar-tv.org/CfDWZmrpF7/ZNBNM8VCuR/26425
+#EXTINF:-1 tvg-name="US: NEWS 12 LONG ISLAND." tvg-logo="" group-title="news",US: NEWS 12 LONG ISLAND.
+http://elattar-tv.org/CfDWZmrpF7/ZNBNM8VCuR/26406
+#EXTINF:-1 tvg-name="US: NEWS 12 BROOKLYN" tvg-logo="" group-title="news",US: NEWS 12 BROOKLYN
+http://elattar-tv.org/CfDWZmrpF7/ZNBNM8VCuR/26407
+#EXTINF:-1 tvg-name="US: CHEDDAR BUSINESS HD" tvg-logo="" group-title="news",US: CHEDDAR BUSINESS HD
+http://elattar-tv.org/CfDWZmrpF7/ZNBNM8VCuR/26408
+#EXTINF:-1 tvg-name="US: BLAZE TV HD" tvg-logo="" group-title="news",US: BLAZE TV HD
+http://elattar-tv.org/CfDWZmrpF7/ZNBNM8VCuR/26409
+#EXTINF:-1 tvg-name="US: BOUNCE TV HD" tvg-logo="" group-title="news",US: BOUNCE TV HD
+http://elattar-tv.org/CfDWZmrpF7/ZNBNM8VCuR/26410
+#EXTINF:-1 tvg-name="US: TASTEMADE HD" tvg-logo="" group-title="news",US: TASTEMADE HD
+http://elattar-tv.org/CfDWZmrpF7/ZNBNM8VCuR/26411
+#EXTINF:-1 tvg-name="US: INSP HD" tvg-logo="" group-title="news",US: INSP HD
+http://elattar-tv.org/CfDWZmrpF7/ZNBNM8VCuR/26412
+#EXTINF:-1 tvg-name="US: FOOD52 HD" tvg-logo="" group-title="news",US: FOOD52 HD
+http://elattar-tv.org/CfDWZmrpF7/ZNBNM8VCuR/26413
+#EXTINF:-1 tvg-name="US: SO YUMMY! HD" tvg-logo="" group-title="news",US: SO YUMMY! HD
+http://elattar-tv.org/CfDWZmrpF7/ZNBNM8VCuR/26414
+#EXTINF:-1 tvg-name="US: START TV HD" tvg-logo="" group-title="news",US: START TV HD
+http://elattar-tv.org/CfDWZmrpF7/ZNBNM8VCuR/26415
+#EXTINF:-1 tvg-name="US: TMZ HD" tvg-logo="" group-title="news",US: TMZ HD
+http://elattar-tv.org/CfDWZmrpF7/ZNBNM8VCuR/26416
+#EXTINF:-1 tvg-name="US: MAV TV HD" tvg-logo="" group-title="news",US: MAV TV HD
+http://elattar-tv.org/CfDWZmrpF7/ZNBNM8VCuR/26417
+#EXTINF:-1 tvg-name="US: ME TV HD" tvg-logo="" group-title="news",US: ME TV HD
+http://elattar-tv.org/CfDWZmrpF7/ZNBNM8VCuR/26418
+#EXTINF:-1 tvg-name="US: LAFF TV HD" tvg-logo="" group-title="news",US: LAFF TV HD
+http://elattar-tv.org/CfDWZmrpF7/ZNBNM8VCuR/26419
+#EXTINF:-1 tvg-name="US: DOG TV HD" tvg-logo="" group-title="news",US: DOG TV HD
+http://elattar-tv.org/CfDWZmrpF7/ZNBNM8VCuR/26420
+#EXTINF:-1 tvg-name="US: KTVU PLUS (SAN FRANCISCO)" tvg-logo="" group-title="news",US: KTVU PLUS (SAN FRANCISCO)
+http://elattar-tv.org/CfDWZmrpF7/ZNBNM8VCuR/26421
+#EXTINF:-1 tvg-name="US: 3TV HD (PHOENIX)" tvg-logo="" group-title="news",US: 3TV HD (PHOENIX)
+http://elattar-tv.org/CfDWZmrpF7/ZNBNM8VCuR/26422
+#EXTINF:-1 tvg-name="US: THE WEATHER CHANNEL HD" tvg-logo="" group-title="news",US: THE WEATHER CHANNEL HD
+http://elattar-tv.org/CfDWZmrpF7/ZNBNM8VCuR/26423
+#EXTINF:-1 tvg-name="US: ACCU WEATHER HD" tvg-logo="" group-title="news",US: ACCU WEATHER HD
+http://elattar-tv.org/CfDWZmrpF7/ZNBNM8VCuR/26424
+#EXTINF:-1 tvg-name="US: FOX BUSSINESS" tvg-logo="" group-title="news",US: FOX BUSSINESS
+http://elattar-tv.org/CfDWZmrpF7/ZNBNM8VCuR/27610
+#EXTINF:-1 tvg-name="US: ESPN+ 9 : LaLiga News 09:00et-14:00uk" tvg-logo="" group-title="news",US: ESPN+ 9 : LaLiga News 09:00et-14:00uk
+http://elattar-tv.org/CfDWZmrpF7/ZNBNM8VCuR/26965
+#EXTINF:-1 tvg-name="BR: GLOBO NEWS HD" tvg-logo="" group-title="news",BR: GLOBO NEWS HD
+http://elattar-tv.org/CfDWZmrpF7/ZNBNM8VCuR/30925
+#EXTINF:-1 tvg-name="BR: RECORD NEWS HD" tvg-logo="" group-title="news",BR: RECORD NEWS HD
+http://elattar-tv.org/CfDWZmrpF7/ZNBNM8VCuR/30926
+#EXTINF:-1 tvg-name="BR: BAND NEWS HD" tvg-logo="" group-title="news",BR: BAND NEWS HD
+http://elattar-tv.org/CfDWZmrpF7/ZNBNM8VCuR/30927
+#EXTINF:-1 tvg-name="BR: CNN BRAZIL HD" tvg-logo="" group-title="news",BR: CNN BRAZIL HD
+http://elattar-tv.org/CfDWZmrpF7/ZNBNM8VCuR/30928
+#EXTINF:-1 tvg-name="NGA: NTA NEWS" tvg-logo="" group-title="news",NGA: NTA NEWS
+http://elattar-tv.org/CfDWZmrpF7/ZNBNM8VCuR/9353
+#EXTINF:-1 tvg-name="IT: Canale 5 HD Local" tvg-logo="" group-title="news",IT: Canale 5 HD Local
+http://elattar-tv.org/CfDWZmrpF7/ZNBNM8VCuR/22413
+#EXTINF:-1 tvg-name="IT: Byoblu TV HD Local" tvg-logo="" group-title="news",IT: Byoblu TV HD Local
+http://elattar-tv.org/CfDWZmrpF7/ZNBNM8VCuR/22421
+#EXTINF:-1 tvg-name="IT: Rete 4 HD Local" tvg-logo="http://195.211.191.31:808/logo/logo_1/EUROPE/ITALY/RETE4HD.png" group-title="news",IT: Rete 4 HD Local
+http://elattar-tv.org/CfDWZmrpF7/ZNBNM8VCuR/22433
+#EXTINF:-1 tvg-name="IT: TG Com 24 HD Local" tvg-logo="http://195.211.191.31:808/logo/logo_1/EUROPE/ITALY/TGCOM24.png" group-title="news",IT: TG Com 24 HD Local
+http://elattar-tv.org/CfDWZmrpF7/ZNBNM8VCuR/22434
+#EXTINF:-1 tvg-name="IT: RAI NEWS 24 HD Local" tvg-logo="http://195.211.191.31:808/logo/logo_1/EUROPE/ITALY/RAINEWS24HD.png" group-title="news",IT: RAI NEWS 24 HD Local
+http://elattar-tv.org/CfDWZmrpF7/ZNBNM8VCuR/30967
+#EXTINF:-1 tvg-name="◉◉◉◉ POLAND NEWS ◉◉◉◉" tvg-logo="http://195.211.191.31:808/logo/logo_1/EUROPE/POLONIA/" group-title="news",◉◉◉◉ POLAND NEWS ◉◉◉◉
+http://elattar-tv.org/CfDWZmrpF7/ZNBNM8VCuR/4741
+#EXTINF:-1 tvg-name="PL: Polsat News Polityka" tvg-logo="http://195.211.191.31:808/logo/logo_1/EUROPE/POLONIA/Polsat_News_Polityka_2024_gradient.svg.png" group-title="news",PL: Polsat News Polityka
+http://elattar-tv.org/CfDWZmrpF7/ZNBNM8VCuR/4861
+#EXTINF:-1 tvg-name="PL: Polsat NEWS" tvg-logo="http://195.211.191.31:808/logo/logo_1/EUROPE/POLONIA/POLSATNEWS.png" group-title="news",PL: Polsat NEWS
+http://elattar-tv.org/CfDWZmrpF7/ZNBNM8VCuR/4863
+#EXTINF:-1 tvg-name="PL: Polsat News 2" tvg-logo="http://195.211.191.31:808/logo/logo_1/EUROPE/POLONIA/POLSATNEWS2.png" group-title="news",PL: Polsat News 2
+http://elattar-tv.org/CfDWZmrpF7/ZNBNM8VCuR/4862
+#EXTINF:-1 tvg-name="PL: Polsat 2 HD" tvg-logo="http://195.211.191.31:808/logo/logo_1/EUROPE/POLONIA/POLSAT2.png" group-title="news",PL: Polsat 2 HD
+http://elattar-tv.org/CfDWZmrpF7/ZNBNM8VCuR/4851
+#EXTINF:-1 tvg-name="PL: TVN 24" tvg-logo="http://195.211.191.31:808/logo/logo_1/EUROPE/POLONIA/TVN24.png" group-title="news",PL: TVN 24
+http://elattar-tv.org/CfDWZmrpF7/ZNBNM8VCuR/4898
+#EXTINF:-1 tvg-name="PL: TVN 24 Bis" tvg-logo="http://195.211.191.31:808/logo/logo_1/EUROPE/POLONIA/TVN24BISHD.png" group-title="news",PL: TVN 24 Bis
+http://elattar-tv.org/CfDWZmrpF7/ZNBNM8VCuR/4899
+#EXTINF:-1 tvg-name="PL: TVN 24 FHD" tvg-logo="http://195.211.191.31:808/logo/logo_1/EUROPE/POLONIA/TVN24.png" group-title="news",PL: TVN 24 FHD
+http://elattar-tv.org/CfDWZmrpF7/ZNBNM8VCuR/4900
+#EXTINF:-1 tvg-name="PL: TVP3 GDANSK" tvg-logo="http://195.211.191.31:808/logo/logo_1/EUROPE/POLONIA/TVP3.png" group-title="news",PL: TVP3 GDANSK
+http://elattar-tv.org/CfDWZmrpF7/ZNBNM8VCuR/4934
+#EXTINF:-1 tvg-name="PL: TV Republika" tvg-logo="http://195.211.191.31:808/logo/logo_1/EUROPE/POLONIA/TVREPUBLIKA.png" group-title="news",PL: TV Republika
+http://elattar-tv.org/CfDWZmrpF7/ZNBNM8VCuR/4893
+#EXTINF:-1 tvg-name="PL: TVP" tvg-logo="http://195.211.191.31:808/logo/logo_1/EUROPE/POLONIA/TVP.png" group-title="news",PL: TVP
+http://elattar-tv.org/CfDWZmrpF7/ZNBNM8VCuR/4908
+#EXTINF:-1 tvg-name="PL: TVP 1 HD" tvg-logo="http://195.211.191.31:808/logo/logo_1/EUROPE/POLONIA/TVP1.png" group-title="news",PL: TVP 1 HD
+http://elattar-tv.org/CfDWZmrpF7/ZNBNM8VCuR/4909
+#EXTINF:-1 tvg-name="PL: TVP 2 HD" tvg-logo="http://195.211.191.31:808/logo/logo_1/EUROPE/POLONIA/TVP2.png" group-title="news",PL: TVP 2 HD
+http://elattar-tv.org/CfDWZmrpF7/ZNBNM8VCuR/4910
+#EXTINF:-1 tvg-name="PL: TVP 3 Warszawa" tvg-logo="http://195.211.191.31:808/logo/logo_1/EUROPE/POLONIA/TVP3.png" group-title="news",PL: TVP 3 Warszawa
+http://elattar-tv.org/CfDWZmrpF7/ZNBNM8VCuR/4911
+#EXTINF:-1 tvg-name="PL: TV4" tvg-logo="http://195.211.191.31:808/logo/logo_1/EUROPE/POLONIA/TV4HD.png" group-title="news",PL: TV4
+http://elattar-tv.org/CfDWZmrpF7/ZNBNM8VCuR/4894
+#EXTINF:-1 tvg-name="PL: TV6" tvg-logo="http://195.211.191.31:808/logo/logo_1/EUROPE/POLONIA/TV6.png" group-title="news",PL: TV6
+http://elattar-tv.org/CfDWZmrpF7/ZNBNM8VCuR/4896
+#EXTINF:-1 tvg-name="PL: TV6 FHD" tvg-logo="http://195.211.191.31:808/logo/logo_1/EUROPE/POLONIA/TV6.png" group-title="news",PL: TV6 FHD
+http://elattar-tv.org/CfDWZmrpF7/ZNBNM8VCuR/4897
+#EXTINF:-1 tvg-name="PL: TVN 7 HD" tvg-logo="http://195.211.191.31:808/logo/logo_1/EUROPE/POLONIA/TVN7.png" group-title="news",PL: TVN 7 HD
+http://elattar-tv.org/CfDWZmrpF7/ZNBNM8VCuR/4902
+#EXTINF:-1 tvg-name="PL: Super Polsat" tvg-logo="http://195.211.191.31:808/logo/logo_1/EUROPE/POLONIA/SUPERPOLSAT.png" group-title="news",PL: Super Polsat
+http://elattar-tv.org/CfDWZmrpF7/ZNBNM8VCuR/4882
+#EXTINF:-1 tvg-name="PL: Fox Comedy" tvg-logo="http://195.211.191.31:808/logo/logo_1/EUROPE/POLONIA/FOX.png" group-title="news",PL: Fox Comedy
+http://elattar-tv.org/CfDWZmrpF7/ZNBNM8VCuR/4814
+#EXTINF:-1 tvg-name="PL: CBS Reality HD" tvg-logo="http://195.211.191.31:808/logo/logo_1/EUROPE/POLONIA/CBSREALITY.png" group-title="news",PL: CBS Reality HD
+http://elattar-tv.org/CfDWZmrpF7/ZNBNM8VCuR/4776
+#EXTINF:-1 tvg-name="PL: H2 HD" tvg-logo="http://195.211.191.31:808/logo/logo_1/EUROPE/POLONIA/H2HD.png" group-title="news",PL: H2 HD
+http://elattar-tv.org/CfDWZmrpF7/ZNBNM8VCuR/4761
+#EXTINF:-1 tvg-name="PL: Canal+ Kuchnia FHD" tvg-logo="http://195.211.191.31:808/logo/logo_1/EUROPE/POLONIA/Canal+_Kuchnia.png" group-title="news",PL: Canal+ Kuchnia FHD
+http://elattar-tv.org/CfDWZmrpF7/ZNBNM8VCuR/4828
+#EXTINF:-1 tvg-name="PL: Canal+ Kuchnia HD" tvg-logo="http://195.211.191.31:808/logo/logo_1/EUROPE/POLONIA/Canal+_Kuchnia.png" group-title="news",PL: Canal+ Kuchnia HD
+http://elattar-tv.org/CfDWZmrpF7/ZNBNM8VCuR/4829
+#EXTINF:-1 tvg-name="PL: Lifetime FHD" tvg-logo="http://195.211.191.31:808/logo/logo_1/EUROPE/POLONIA/LIFETIMEHD.png" group-title="news",PL: Lifetime FHD
+http://elattar-tv.org/CfDWZmrpF7/ZNBNM8VCuR/4830
+#EXTINF:-1 tvg-name="PL: Polsat Doku FHD" tvg-logo="http://195.211.191.31:808/logo/logo_1/EUROPE/POLONIA/POLSATDOKU.png" group-title="news",PL: Polsat Doku FHD
+http://elattar-tv.org/CfDWZmrpF7/ZNBNM8VCuR/4853
+#EXTINF:-1 tvg-name="PL: Polsat FHD" tvg-logo="http://195.211.191.31:808/logo/logo_1/EUROPE/POLONIA/POLSAT.png" group-title="news",PL: Polsat FHD
+http://elattar-tv.org/CfDWZmrpF7/ZNBNM8VCuR/4854
+#EXTINF:-1 tvg-name="PL: Polsat HD" tvg-logo="http://195.211.191.31:808/logo/logo_1/EUROPE/POLONIA/POLSAT.png" group-title="news",PL: Polsat HD
+http://elattar-tv.org/CfDWZmrpF7/ZNBNM8VCuR/4858
+#EXTINF:-1 tvg-name="PL: Polsat Rodzina FHD" tvg-logo="http://195.211.191.31:808/logo/logo_1/EUROPE/POLONIA/Polsat_Rodzina_2021_gradient.svg.png" group-title="news",PL: Polsat Rodzina FHD
+http://elattar-tv.org/CfDWZmrpF7/ZNBNM8VCuR/4864
+#EXTINF:-1 tvg-name="PL: TTV" tvg-logo="http://195.211.191.31:808/logo/logo_1/EUROPE/POLONIA/TTV.png" group-title="news",PL: TTV
+http://elattar-tv.org/CfDWZmrpF7/ZNBNM8VCuR/4888
+#EXTINF:-1 tvg-name="PL: TTV HD" tvg-logo="http://195.211.191.31:808/logo/logo_1/EUROPE/POLONIA/TTV.png" group-title="news",PL: TTV HD
+http://elattar-tv.org/CfDWZmrpF7/ZNBNM8VCuR/4889
+#EXTINF:-1 tvg-name="PL: TV Puls 2" tvg-logo="http://195.211.191.31:808/logo/logo_1/EUROPE/POLONIA/TVPULS.png" group-title="news",PL: TV Puls 2
+http://elattar-tv.org/CfDWZmrpF7/ZNBNM8VCuR/4890
+#EXTINF:-1 tvg-name="PL: TV Puls FHD" tvg-logo="http://195.211.191.31:808/logo/logo_1/EUROPE/POLONIA/TVPULS.png" group-title="news",PL: TV Puls FHD
+http://elattar-tv.org/CfDWZmrpF7/ZNBNM8VCuR/4891
+#EXTINF:-1 tvg-name="PL: TV Puls HD" tvg-logo="http://195.211.191.31:808/logo/logo_1/EUROPE/POLONIA/TVPULS.png" group-title="news",PL: TV Puls HD
+http://elattar-tv.org/CfDWZmrpF7/ZNBNM8VCuR/4892
+#EXTINF:-1 tvg-name="PL: TVN HD" tvg-logo="http://195.211.191.31:808/logo/logo_1/EUROPE/POLONIA/TVN.png" group-title="news",PL: TVN HD
+http://elattar-tv.org/CfDWZmrpF7/ZNBNM8VCuR/4905
+#EXTINF:-1 tvg-name="PL: TVP Polonia" tvg-logo="http://195.211.191.31:808/logo/logo_1/EUROPE/POLONIA/TVP_POLONIA.png" group-title="news",PL: TVP Polonia
+http://elattar-tv.org/CfDWZmrpF7/ZNBNM8VCuR/4918
+#EXTINF:-1 tvg-name="PL: TVS" tvg-logo="http://195.211.191.31:808/logo/logo_1/EUROPE/POLONIA/TVS.png" group-title="news",PL: TVS
+http://elattar-tv.org/CfDWZmrpF7/ZNBNM8VCuR/4922
+#EXTINF:-1 tvg-name="PL: VOD 205" tvg-logo="http://195.211.191.31:808/logo/logo_1/EUROPE/POLONIA/VOD205.png" group-title="news",PL: VOD 205
+http://elattar-tv.org/CfDWZmrpF7/ZNBNM8VCuR/4924
+#EXTINF:-1 tvg-name="PL: VOD 208 HD" tvg-logo="http://195.211.191.31:808/logo/logo_1/EUROPE/POLONIA/VOD208.png" group-title="news",PL: VOD 208 HD
+http://elattar-tv.org/CfDWZmrpF7/ZNBNM8VCuR/4925
+#EXTINF:-1 tvg-name="PL: VOD 206" tvg-logo="http://195.211.191.31:808/logo/logo_1/EUROPE/POLONIA/VOD206.png" group-title="news",PL: VOD 206
+http://elattar-tv.org/CfDWZmrpF7/ZNBNM8VCuR/4931
+#EXTINF:-1 tvg-name="PL: VOD 207" tvg-logo="http://195.211.191.31:808/logo/logo_1/EUROPE/POLONIA/VOD207.png" group-title="news",PL: VOD 207
+http://elattar-tv.org/CfDWZmrpF7/ZNBNM8VCuR/4932
+#EXTINF:-1 tvg-name="PL: BBC First HD" tvg-logo="http://195.211.191.31:808/logo/logo_1/EUROPE/POLONIA/" group-title="news",PL: BBC First HD
+http://elattar-tv.org/CfDWZmrpF7/ZNBNM8VCuR/4762
+#EXTINF:-1 tvg-name="PL: BBC Lifestyle HD" tvg-logo="http://195.211.191.31:808/logo/logo_1/EUROPE/POLONIA/" group-title="news",PL: BBC Lifestyle HD
+http://elattar-tv.org/CfDWZmrpF7/ZNBNM8VCuR/4763
+#EXTINF:-1 tvg-name="Broadcast News" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kQNR1Lc0qAF5xuBySpDn481KVjb.jpg" group-title="news",Broadcast News
+http://elattar-tv.org/movie/CfDWZmrpF7/ZNBNM8VCuR/52691.mp4
+#EXTINF:-1 tvg-name="Behind the News" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oVx5gKXN8Fs6FC7y72Rju34874N.jpg" group-title="news",Behind the News
+http://elattar-tv.org/movie/CfDWZmrpF7/ZNBNM8VCuR/56406.mkv

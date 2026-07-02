@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "revision_utc": "2026-07-02T08:26:25Z",
+  "revision_utc": "2026-07-02T12:22:46Z",
   "source_repo": "https://github.com/mesbahikarim03-svg/krimo.-Iptv",
   "source_pattern": "FIW_17*.m3u",
   "language": "arabic",
@@ -14,17 +14,17 @@
     "netflix": 1000
   },
   "counts": {
-    "raw_files": 13,
-    "raw_channels": 205660,
-    "dropped_promo": 726,
+    "raw_files": 12,
+    "raw_channels": 192011,
+    "dropped_promo": 735,
     "dropped_unsupported_protocol": 1925,
-    "dropped_language": 6998,
-    "deduped": 25385,
+    "dropped_language": 7297,
+    "deduped": 8388,
     "kept_channels": 8000,
     "arabic": 3000,
-    "news": 15,
+    "news": 12,
     "documentary": 32,
-    "sports": 74,
+    "sports": 72,
     "netflix": 1000
   },
   "files": {

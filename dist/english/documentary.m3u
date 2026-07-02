@@ -1,19 +1,71 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="ANIMAL PLANET" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/animal_planet_poland.png" group-title="documentary",ANIMAL PLANET
-http://client.nodomain.vip/27nihadcelic/QXv5CCzkiE/108
-#EXTINF:-1 tvg-name="Discovery Channel" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/discovery-channel-east-us.png" group-title="documentary",Discovery Channel
-http://newultra.xyz:8080/franco74993/A65543392266V/260138
-#EXTINF:-1 tvg-name="HISTORY" tvg-logo="https://images-web.ug-be.cdn.united.cloud/2017/07/21/15/57/01/history_384x216.png" group-title="documentary",HISTORY
-http://client.nodomain.vip/27nihadcelic/QXv5CCzkiE/84
-#EXTINF:-1 tvg-name="HISTORY 2" tvg-logo="https://images-web.ug-be.cdn.united.cloud/2020/05/28/12/39/51/history2hd_logo_16_9_light_384x216_960b676d_768e_4cf9_9aaf_316314e944a2.png" group-title="documentary",HISTORY 2
-http://client.nodomain.vip/27nihadcelic/QXv5CCzkiE/467
-#EXTINF:-1 tvg-name="NATIONAL GEOGRAPHIC CHANNEL" tvg-logo="http://144.76.182.124/exyulogo/natgeo.png" group-title="documentary",NATIONAL GEOGRAPHIC CHANNEL
-http://serv2.mediaking.fi:8080/live/ninomk@gmail.com/aftermath/79.ts
-#EXTINF:-1 tvg-name="NAT GEO WILD" tvg-logo="https://images-web.ug-be.cdn.united.cloud/2019/02/12/10/51/33/nat_geo_wild_384x216.png" group-title="documentary",NAT GEO WILD
-http://client.nodomain.vip/27nihadcelic/QXv5CCzkiE/263
-#EXTINF:-1 tvg-name="VIASAT HISTORY" tvg-logo="https://images-web.ug-be.cdn.united.cloud/2020/05/28/13/12/56/viasathistory_logo_16_9_light_384x216_81d897e3_8090_4a26_9636_7a755b99ccd3.png" group-title="documentary",VIASAT HISTORY
-http://client.nodomain.vip/27nihadcelic/QXv5CCzkiE/587
-#EXTINF:-1 tvg-name="VIASAT NATURE" tvg-logo="https://images-web.ug-be.cdn.united.cloud/2017/07/21/15/54/22/viasat_nature_384x216.png" group-title="documentary",VIASAT NATURE
-http://client.nodomain.vip/27nihadcelic/QXv5CCzkiE/1663
-#EXTINF:-1 tvg-name="DOCU BOX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/DocuBox_HD_logo.png" group-title="documentary",DOCU BOX
-http://serv2.mediaking.fi:8080/live/ninomk@gmail.com/aftermath/15697.ts
+#EXTINF:-1 tvg-name="AR: BEIN NAT GEO" tvg-logo="http://195.211.191.31:808/logo/logo_1/BEIN/BEIN_NAT_GEO.png" group-title="documentary",AR: BEIN NAT GEO
+http://elattar-tv.org/CfDWZmrpF7/ZNBNM8VCuR/20703
+#EXTINF:-1 tvg-name="AR: BEIN NAT GEO WILD" tvg-logo="http://195.211.191.31:808/logo/logo_1/BEIN/BEIN_NAT_WILD.png" group-title="documentary",AR: BEIN NAT GEO WILD
+http://elattar-tv.org/CfDWZmrpF7/ZNBNM8VCuR/20704
+#EXTINF:-1 tvg-name="OSN: HISTORY CHANNEL HD" tvg-logo="http://195.211.191.31:808/logo/logo_1/OSN/OSNHISTORYHD.png" group-title="documentary",OSN: HISTORY CHANNEL HD
+http://elattar-tv.org/CfDWZmrpF7/ZNBNM8VCuR/171
+#EXTINF:-1 tvg-name="OSN: Discovery Science HD" tvg-logo="http://195.211.191.31:808/logo/logo_1/OSN/OSNDISCOVERYSCHD.png" group-title="documentary",OSN: Discovery Science HD
+http://elattar-tv.org/CfDWZmrpF7/ZNBNM8VCuR/175
+#EXTINF:-1 tvg-name="OSN: DISCOVERY CHANNEL HD" tvg-logo="http://195.211.191.31:808/logo/logo_1/OSN/OSNDISCOVERYHD.png" group-title="documentary",OSN: DISCOVERY CHANNEL HD
+http://elattar-tv.org/CfDWZmrpF7/ZNBNM8VCuR/176
+#EXTINF:-1 tvg-name="OSN: DISCOVERY IDX HD" tvg-logo="http://195.211.191.31:808/logo/logo_1/OSN/OSNDISCOVERYIDHD.png" group-title="documentary",OSN: DISCOVERY IDX HD
+http://elattar-tv.org/CfDWZmrpF7/ZNBNM8VCuR/177
+#EXTINF:-1 tvg-name="OSN: ANIMAL PLANET" tvg-logo="http://195.211.191.31:808/logo/logo_1/OSN/OSNANIMALPLANETHD.png" group-title="documentary",OSN: ANIMAL PLANET
+http://elattar-tv.org/CfDWZmrpF7/ZNBNM8VCuR/181
+#EXTINF:-1 tvg-name="AR: Asharq Discovery FHD" tvg-logo="http://195.211.191.31:808/logo/logo_1/ASIA/SAUDI/Asharq_Discovery.png" group-title="documentary",AR: Asharq Discovery FHD
+http://elattar-tv.org/CfDWZmrpF7/ZNBNM8VCuR/350
+#EXTINF:-1 tvg-name="AR: Asharq Documentary FHD" tvg-logo="http://195.211.191.31:808/logo/logo_1/ASIA/SAUDI/Asharq_Documentary_1.png" group-title="documentary",AR: Asharq Documentary FHD
+http://elattar-tv.org/CfDWZmrpF7/ZNBNM8VCuR/351
+#EXTINF:-1 tvg-name="AR: Asharq Documentary HD" tvg-logo="http://195.211.191.31:808/logo/logo_1/ASIA/SAUDI/Asharq_Documentary_1.png" group-title="documentary",AR: Asharq Documentary HD
+http://elattar-tv.org/CfDWZmrpF7/ZNBNM8VCuR/352
+#EXTINF:-1 tvg-name="AE: ABU DHABI NAT GEO" tvg-logo="http://195.211.191.31:808/logo/logo_1/ASIA/UAE/ABUDHABINGCHD.png" group-title="documentary",AE: ABU DHABI NAT GEO
+http://elattar-tv.org/CfDWZmrpF7/ZNBNM8VCuR/374
+#EXTINF:-1 tvg-name="AE: ABU DHABI NAT GEO HD" tvg-logo="http://195.211.191.31:808/logo/logo_1/ASIA/UAE/ABUDHABINGCHD.png" group-title="documentary",AE: ABU DHABI NAT GEO HD
+http://elattar-tv.org/CfDWZmrpF7/ZNBNM8VCuR/375
+#EXTINF:-1 tvg-name="ISLAMIC: AL MAJD DOCUMENTARY" tvg-logo="" group-title="documentary",ISLAMIC: AL MAJD DOCUMENTARY
+http://elattar-tv.org/CfDWZmrpF7/ZNBNM8VCuR/644
+#EXTINF:-1 tvg-name="ISLAMIC: AL MAJD RELIGIOUS SCIENCE" tvg-logo="" group-title="documentary",ISLAMIC: AL MAJD RELIGIOUS SCIENCE
+http://elattar-tv.org/CfDWZmrpF7/ZNBNM8VCuR/647
+#EXTINF:-1 tvg-name="RU: HISTORY HD" tvg-logo="" group-title="documentary",RU: HISTORY HD
+http://elattar-tv.org/CfDWZmrpF7/ZNBNM8VCuR/9746
+#EXTINF:-1 tvg-name="RU: VIASAT HISTORY" tvg-logo="s:1:/images/gwyuxguDloDD4l9XwIwb6EA1CC8GyMepyZ5vA-6LWde3E-RWWaTWB-obALJ7yWW2YK6qNLXlKDCxCDRurRt_xw.png" group-title="documentary",RU: VIASAT HISTORY
+http://elattar-tv.org/CfDWZmrpF7/ZNBNM8VCuR/9777
+#EXTINF:-1 tvg-name="RU: VIASAT NATURE" tvg-logo="s:1:/images/gwyuxguDloDD4l9XwIwb6EA1CC8GyMepyZ5vA-6LWde3E-RWWaTWB-obALJ7yWW2MyWKbepGOTsrOfjv54SjvQ.png" group-title="documentary",RU: VIASAT NATURE
+http://elattar-tv.org/CfDWZmrpF7/ZNBNM8VCuR/9778
+#EXTINF:-1 tvg-name="RU: National Geographic HD" tvg-logo="" group-title="documentary",RU: National Geographic HD
+http://elattar-tv.org/CfDWZmrpF7/ZNBNM8VCuR/9779
+#EXTINF:-1 tvg-name="RU: NAT GEO WILD HD" tvg-logo="http://195.211.191.31:808/logo/logo_1/RUSSIA/" group-title="documentary",RU: NAT GEO WILD HD
+http://elattar-tv.org/CfDWZmrpF7/ZNBNM8VCuR/9780
+#EXTINF:-1 tvg-name="RU: DISCOVERY CHANNEL HD" tvg-logo="" group-title="documentary",RU: DISCOVERY CHANNEL HD
+http://elattar-tv.org/CfDWZmrpF7/ZNBNM8VCuR/9781
+#EXTINF:-1 tvg-name="RU: ANIMAL PLANET HD" tvg-logo="http://195.211.191.31:808/logo/logo_1/RUSSIA/" group-title="documentary",RU: ANIMAL PLANET HD
+http://elattar-tv.org/CfDWZmrpF7/ZNBNM8VCuR/9782
+#EXTINF:-1 tvg-name="IN: Animal Planet HD" tvg-logo="" group-title="documentary",IN: Animal Planet HD
+http://elattar-tv.org/CfDWZmrpF7/ZNBNM8VCuR/24171
+#EXTINF:-1 tvg-name="IN: Discovery HD Hindi" tvg-logo="" group-title="documentary",IN: Discovery HD Hindi
+http://elattar-tv.org/CfDWZmrpF7/ZNBNM8VCuR/24030
+#EXTINF:-1 tvg-name="IN: HISTORY TV18 HD" tvg-logo="" group-title="documentary",IN: HISTORY TV18 HD
+http://elattar-tv.org/CfDWZmrpF7/ZNBNM8VCuR/24035
+#EXTINF:-1 tvg-name="IN: NAT GEO WILD HD" tvg-logo="" group-title="documentary",IN: NAT GEO WILD HD
+http://elattar-tv.org/CfDWZmrpF7/ZNBNM8VCuR/24173
+#EXTINF:-1 tvg-name="IN: NATIONAL GEOGRAPHIC HD" tvg-logo="" group-title="documentary",IN: NATIONAL GEOGRAPHIC HD
+http://elattar-tv.org/CfDWZmrpF7/ZNBNM8VCuR/24043
+#EXTINF:-1 tvg-name="IN: DISCOVERY KIDS" tvg-logo="" group-title="documentary",IN: DISCOVERY KIDS
+http://elattar-tv.org/CfDWZmrpF7/ZNBNM8VCuR/24124
+#EXTINF:-1 tvg-name="IN: HISTORY TV 18 HD" tvg-logo="" group-title="documentary",IN: HISTORY TV 18 HD
+http://elattar-tv.org/CfDWZmrpF7/ZNBNM8VCuR/24167
+#EXTINF:-1 tvg-name="IN: Discovery HD English" tvg-logo="" group-title="documentary",IN: Discovery HD English
+http://elattar-tv.org/CfDWZmrpF7/ZNBNM8VCuR/24172
+#EXTINF:-1 tvg-name="IN: National Geographics HD" tvg-logo="" group-title="documentary",IN: National Geographics HD
+http://elattar-tv.org/CfDWZmrpF7/ZNBNM8VCuR/24174
+#EXTINF:-1 tvg-name="US: HBO SIGNATURE HD (EAST)" tvg-logo="" group-title="documentary",US: HBO SIGNATURE HD (EAST)
+http://elattar-tv.org/CfDWZmrpF7/ZNBNM8VCuR/27597
+#EXTINF:-1 tvg-name="US: HBO SIGNATURE HD (WEST)" tvg-logo="" group-title="documentary",US: HBO SIGNATURE HD (WEST)
+http://elattar-tv.org/CfDWZmrpF7/ZNBNM8VCuR/27598
+#EXTINF:-1 tvg-name="Ace Ventura: When Nature Calls" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wcinCf1ov2D6M3P7BBZkzQFOiIb.jpg" group-title="documentary",Ace Ventura: When Nature Calls
+http://elattar-tv.org/movie/CfDWZmrpF7/ZNBNM8VCuR/53039.mkv
+#EXTINF:-1 tvg-name="American History X" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x2drgoXYZ8484lqyDj7L1CEVR4T.jpg" group-title="documentary",American History X
+http://elattar-tv.org/movie/CfDWZmrpF7/ZNBNM8VCuR/53058.mkv
+#EXTINF:-1 tvg-name="Força da Natureza" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aCbYUY1xuyaxbp5F1KuyH7AIvHg.jpg" group-title="documentary",Força da Natureza
+http://elattar-tv.org/movie/CfDWZmrpF7/ZNBNM8VCuR/55979.mkv
