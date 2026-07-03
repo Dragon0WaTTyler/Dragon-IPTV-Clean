@@ -1,127 +1,113 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="BBC Entertainment NL" tvg-logo="http://tugapt.com/picons/bbcentertainmentnl.png" group-title="news",BBC Entertainment NL
-http://tv.123tv.to:8080/MartaZbicinskaMAMA/QqEUyJx1pn/4517
-#EXTINF:-1 tvg-name="BBC First HD NL" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/netherlands/bbc-first-nl.png" group-title="news",BBC First HD NL
-http://tv.123tv.to:8080/MartaZbicinskaMAMA/QqEUyJx1pn/82811
-#EXTINF:-1 tvg-name="Polsat News 1 FHD PL" tvg-logo="http://tugapt.com/picons/polsat-news-pl.png" group-title="news",Polsat News 1 FHD PL
-http://tv.123tv.to:8080/MartaZbicinskaMAMA/QqEUyJx1pn/907
-#EXTINF:-1 tvg-name="Polsat News 1 FHD (backup) PL" tvg-logo="http://tugapt.com/picons/polsat-news-pl.png" group-title="news",Polsat News 1 FHD (backup) PL
-http://tv.123tv.to:8080/MartaZbicinskaMAMA/QqEUyJx1pn/107252
-#EXTINF:-1 tvg-name="Polsat News 2 PL" tvg-logo="http://tugapt.com/picons/polsat-news-2-pl.png" group-title="news",Polsat News 2 PL
-http://tv.123tv.to:8080/MartaZbicinskaMAMA/QqEUyJx1pn/4541
-#EXTINF:-1 tvg-name="BBC Brit FHD PL" tvg-logo="http://tugapt.com/picons/bbc_brit_uk.png" group-title="news",BBC Brit FHD PL
-http://tv.123tv.to:8080/MartaZbicinskaMAMA/QqEUyJx1pn/21327
-#EXTINF:-1 tvg-name="BBC Earth HD PL" tvg-logo="http://tugapt.com/picons/bbc-earth-uk.png" group-title="news",BBC Earth HD PL
-http://tv.123tv.to:8080/MartaZbicinskaMAMA/QqEUyJx1pn/4560
-#EXTINF:-1 tvg-name="BBC HD PL" tvg-logo="http://tugapt.com/picons/bbc-first-uk.png" group-title="news",BBC HD PL
-http://tv.123tv.to:8080/MartaZbicinskaMAMA/QqEUyJx1pn/4559
-#EXTINF:-1 tvg-name="BBC LIFESTYLE FHD PL" tvg-logo="http://tugapt.com/picons/bbc_lifestyle_uk.png" group-title="news",BBC LIFESTYLE FHD PL
-http://tv.123tv.to:8080/MartaZbicinskaMAMA/QqEUyJx1pn/79819
-#EXTINF:-1 tvg-name="BBC FIRST FHD PL" tvg-logo="http://tugapt.com/picons/bbc-first-uk.png" group-title="news",BBC FIRST FHD PL
-http://tv.123tv.to:8080/MartaZbicinskaMAMA/QqEUyJx1pn/82812
-#EXTINF:-1 tvg-name="BBC Earth FHD PL" tvg-logo="http://tugapt.com/picons/bbc-earth-uk.png" group-title="news",BBC Earth FHD PL
-http://tv.123tv.to:8080/MartaZbicinskaMAMA/QqEUyJx1pn/83770
-#EXTINF:-1 tvg-name="Polsat News Polityka FHD PL" tvg-logo="" group-title="news",Polsat News Polityka FHD PL
-http://tv.123tv.to:8080/MartaZbicinskaMAMA/QqEUyJx1pn/124706
-#EXTINF:-1 tvg-name="FR| RMC NEWS SPORT HD" tvg-logo="https://www.teleclub.ch/romandie/wp-content/uploads/sites/3/2018/06/RMC_SPORT_news.png" group-title="news",FR| RMC NEWS SPORT HD
-http://hdlocal.de:8080/eurotv/jyrDCMeEZchhnvsWWS2211/2399
-#EXTINF:-1 tvg-name="AR.BEIN| BEIN SPORTS NEWS" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/e/e4/Bein_sport_news_arabia.png" group-title="news",AR.BEIN| BEIN SPORTS NEWS
-http://hdlocal.de:8080/eurotv/jyrDCMeEZchhnvsWWS2211/1898
-#EXTINF:-1 tvg-name="AR.ALG| ECHOROUK NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/ECHOUROUK-NEWS.png" group-title="news",AR.ALG| ECHOROUK NEWS
-http://hdlocal.de:8080/eurotv/jyrDCMeEZchhnvsWWS2211/665017042
-#EXTINF:-1 tvg-name="AR.ALG| DZAIR NEWS" tvg-logo="https://www.alg24.net/wp-content/uploads/2017/04/Dzair.png" group-title="news",AR.ALG| DZAIR NEWS
-http://hdlocal.de:8080/eurotv/jyrDCMeEZchhnvsWWS2211/1753
-#EXTINF:-1 tvg-name="AR.ALG| ECHOUROUK NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/ECHOUROUK-NEWS.png" group-title="news",AR.ALG| ECHOUROUK NEWS
-http://hdlocal.de:8080/eurotv/jyrDCMeEZchhnvsWWS2211/2675
-#EXTINF:-1 tvg-name="AR.ALG| NUMIDIA NEWS" tvg-logo="http://wikipedia.ma/wp-content/uploads/2015/06/photo-1331508081.jpg" group-title="news",AR.ALG| NUMIDIA NEWS
-http://hdlocal.de:8080/eurotv/jyrDCMeEZchhnvsWWS2211/1740
-#EXTINF:-1 tvg-name="AR.EGY| NILE NEWS" tvg-logo="http://x.pure-redirect.com/nilesat/1_0_1_25B_6_800_DCA0000_0_0_0.png" group-title="news",AR.EGY| NILE NEWS
-http://hdlocal.de:8080/eurotv/jyrDCMeEZchhnvsWWS2211/1820
-#EXTINF:-1 tvg-name="AR.QAT| AL JAZEERA DOC" tvg-logo="https://upload.wikimedia.org/wikipedia/ar/e/e6/Al_Jazeera_Doc.png" group-title="news",AR.QAT| AL JAZEERA DOC
-http://hdlocal.de:8080/eurotv/jyrDCMeEZchhnvsWWS2211/745
-#EXTINF:-1 tvg-name="AR.QAT| AL JAZEERA NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/0/0f/Al_Jazeera.svg/614px-Al_Jazeera.svg.png" group-title="news",AR.QAT| AL JAZEERA NEWS
-http://hdlocal.de:8080/eurotv/jyrDCMeEZchhnvsWWS2211/746
-#EXTINF:-1 tvg-name="AR.QAT| AL JAZEERA MUBASHER" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/6/63/Al_Jazeera_Mubasher.png/revision/latest?cb=20120211110554" group-title="news",AR.QAT| AL JAZEERA MUBASHER
-http://hdlocal.de:8080/eurotv/jyrDCMeEZchhnvsWWS2211/2132
-#EXTINF:-1 tvg-name="(IT) FOX LIFE FHD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/fox-life-it.png" group-title="news",(IT) FOX LIFE FHD
-http://hdlocal.de:8080/eurotv/jyrDCMeEZchhnvsWWS2211/265011414
-#EXTINF:-1 tvg-name="IT| RAI NEWS 24 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-news-24-it.png" group-title="news",IT| RAI NEWS 24 HD
-http://hdlocal.de:8080/eurotv/jyrDCMeEZchhnvsWWS2211/3581
-#EXTINF:-1 tvg-name="IT| FOX HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/fox-it.png" group-title="news",IT| FOX HD
-http://hdlocal.de:8080/eurotv/jyrDCMeEZchhnvsWWS2211/2784
-#EXTINF:-1 tvg-name="IT| FOX LIFE HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/fox-life-it.png" group-title="news",IT| FOX LIFE HD
-http://hdlocal.de:8080/eurotv/jyrDCMeEZchhnvsWWS2211/2877
-#EXTINF:-1 tvg-name="PT| EURONEWS HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/euronews-deutsch-de.png" group-title="news",PT| EURONEWS HD
-http://hdlocal.de:8080/eurotv/jyrDCMeEZchhnvsWWS2211/2335
-#EXTINF:-1 tvg-name="PT| FOX NEWS HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fox-news-us.png" group-title="news",PT| FOX NEWS HD
-http://hdlocal.de:8080/eurotv/jyrDCMeEZchhnvsWWS2211/2331
-#EXTINF:-1 tvg-name="PT| CNN PORTUGAL HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/cnn-portugal-pt.png" group-title="news",PT| CNN PORTUGAL HD
-http://hdlocal.de:8080/eurotv/jyrDCMeEZchhnvsWWS2211/665035093
-#EXTINF:-1 tvg-name="PT| EUROSPORT NEWS HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/eurosport-1-uk.png" group-title="news",PT| EUROSPORT NEWS HD
-http://hdlocal.de:8080/eurotv/jyrDCMeEZchhnvsWWS2211/2325
-#EXTINF:-1 tvg-name="PT| A&E HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/AETN_logo.png/280px-AETN_logo.png" group-title="news",PT| A&E HD
-http://hdlocal.de:8080/eurotv/jyrDCMeEZchhnvsWWS2211/1711
-#EXTINF:-1 tvg-name="DE| EURONEWS HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/euronews-deutsch-de.png" group-title="news",DE| EURONEWS HD
-http://hdlocal.de:8080/eurotv/jyrDCMeEZchhnvsWWS2211/11167
+#EXTINF:-1 tvg-name="ALB - SYRI NEWS HD" tvg-logo="" group-title="news",ALB - SYRI NEWS HD
+http://ihom66.xyz/82F13D1/4MBV36P/988025
+#EXTINF:-1 tvg-name="ALB - TRING SPORT NEWS FHD" tvg-logo="" group-title="news",ALB - TRING SPORT NEWS FHD
+http://ihom66.xyz/82F13D1/4MBV36P/53759
+#EXTINF:-1 tvg-name="ALB - ARTA NEWS 4K" tvg-logo="" group-title="news",ALB - ARTA NEWS 4K
+http://ihom66.xyz/82F13D1/4MBV36P/1029100
+#EXTINF:-1 tvg-name="ALB - ORA NEWS 4K" tvg-logo="" group-title="news",ALB - ORA NEWS 4K
+http://ihom66.xyz/82F13D1/4MBV36P/1023376
+#EXTINF:-1 tvg-name="ALB - TOP NEWS FHD" tvg-logo="" group-title="news",ALB - TOP NEWS FHD
+http://ihom66.xyz/82F13D1/4MBV36P/53778
+#EXTINF:-1 tvg-name="ALB - ABC NEWS FHD" tvg-logo="" group-title="news",ALB - ABC NEWS FHD
+http://ihom66.xyz/82F13D1/4MBV36P/53780
+#EXTINF:-1 tvg-name="ALB - AL JAZEERA BALLKAN FHD" tvg-logo="" group-title="news",ALB - AL JAZEERA BALLKAN FHD
+http://ihom66.xyz/82F13D1/4MBV36P/762520
+#EXTINF:-1 tvg-name="ALB - NEWS 24 FHD" tvg-logo="" group-title="news",ALB - NEWS 24 FHD
+http://ihom66.xyz/82F13D1/4MBV36P/53777
+#EXTINF:-1 tvg-name="ALB - ARTA NEWS FHD" tvg-logo="" group-title="news",ALB - ARTA NEWS FHD
+http://ihom66.xyz/82F13D1/4MBV36P/762507
+#EXTINF:-1 tvg-name="ALB - ARTA NEWS HEVC" tvg-logo="" group-title="news",ALB - ARTA NEWS HEVC
+http://ihom66.xyz/82F13D1/4MBV36P/762506
+#EXTINF:-1 tvg-name="ALB - ORA NEWS FHD" tvg-logo="" group-title="news",ALB - ORA NEWS FHD
+http://ihom66.xyz/82F13D1/4MBV36P/762505
+#EXTINF:-1 tvg-name="ALB - ORA NEWS HD" tvg-logo="" group-title="news",ALB - ORA NEWS HD
+http://ihom66.xyz/82F13D1/4MBV36P/53781
+#EXTINF:-1 tvg-name="ALB - A2 CNN FHD" tvg-logo="" group-title="news",ALB - A2 CNN FHD
+http://ihom66.xyz/82F13D1/4MBV36P/473315
+#EXTINF:-1 tvg-name="ALB - KLAN NEWS FHD" tvg-logo="" group-title="news",ALB - KLAN NEWS FHD
+http://ihom66.xyz/82F13D1/4MBV36P/329591
+#EXTINF:-1 tvg-name="ALB - EURONEWS ALBANIA FHD" tvg-logo="" group-title="news",ALB - EURONEWS ALBANIA FHD
+http://ihom66.xyz/82F13D1/4MBV36P/1177623
+#EXTINF:-1 tvg-name="ALB - FAX NEWS HD" tvg-logo="" group-title="news",ALB - FAX NEWS HD
+http://ihom66.xyz/82F13D1/4MBV36P/762512
+#EXTINF:-1 tvg-name="ALB - TV NEWS HD" tvg-logo="" group-title="news",ALB - TV NEWS HD
+http://ihom66.xyz/82F13D1/4MBV36P/1023380
+#EXTINF:-1 tvg-name="MK - BBC FIRST HD" tvg-logo="" group-title="news",MK - BBC FIRST HD
+http://ihom66.xyz/82F13D1/4MBV36P/305007
+#EXTINF:-1 tvg-name="BA - AL JAZEERA BALKAN FHD" tvg-logo="" group-title="news",BA - AL JAZEERA BALKAN FHD
+http://ihom66.xyz/82F13D1/4MBV36P/74641
+#EXTINF:-1 tvg-name="RS - EURONEWS SERBIA FHD" tvg-logo="" group-title="news",RS - EURONEWS SERBIA FHD
+http://ihom66.xyz/82F13D1/4MBV36P/1328876
+#EXTINF:-1 tvg-name="DE - EURONEWS 8K" tvg-logo="" group-title="news",DE - EURONEWS 8K
+http://ihom66.xyz/82F13D1/4MBV36P/1139028
+#EXTINF:-1 tvg-name="DE - EURONEWS GERMANY 4K" tvg-logo="" group-title="news",DE - EURONEWS GERMANY 4K
+http://ihom66.xyz/82F13D1/4MBV36P/1140196
+#EXTINF:-1 tvg-name="DE - EURONEWS GERMAN FHD" tvg-logo="" group-title="news",DE - EURONEWS GERMAN FHD
+http://ihom66.xyz/82F13D1/4MBV36P/498400
+#EXTINF:-1 tvg-name="DE - EURONEWS GERMAN HD" tvg-logo="" group-title="news",DE - EURONEWS GERMAN HD
+http://ihom66.xyz/82F13D1/4MBV36P/33478
+#EXTINF:-1 tvg-name="DE - EURONEWS DE HD" tvg-logo="" group-title="news",DE - EURONEWS DE HD
+http://ihom66.xyz/82F13D1/4MBV36P/762747
+#EXTINF:-1 tvg-name="DE - EURONEWS DE SD" tvg-logo="" group-title="news",DE - EURONEWS DE SD
+http://ihom66.xyz/82F13D1/4MBV36P/762748
+#EXTINF:-1 tvg-name="DE - SKY SPORT NEWS 4K" tvg-logo="" group-title="news",DE - SKY SPORT NEWS 4K
+http://ihom66.xyz/82F13D1/4MBV36P/1030378
+#EXTINF:-1 tvg-name="DE - SKY SPORT NEWS 4K2" tvg-logo="" group-title="news",DE - SKY SPORT NEWS 4K2
+http://ihom66.xyz/82F13D1/4MBV36P/1140267
+#EXTINF:-1 tvg-name="DE: SKY SPORT NEWS FHD" tvg-logo="" group-title="news",DE: SKY SPORT NEWS FHD
+http://ihom66.xyz/82F13D1/4MBV36P/497966
 #EXTINF:-1 tvg-name="DE: SKY SPORT NEWS HD" tvg-logo="" group-title="news",DE: SKY SPORT NEWS HD
 http://ihom66.xyz/82F13D1/4MBV36P/33453
-#EXTINF:-1 tvg-name="UK|| SKY ONE FHD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-one-icon-uk.png" group-title="news",UK|| SKY ONE FHD
-http://hdlocal.de:8080/eurotv/jyrDCMeEZchhnvsWWS2211/9853
-#EXTINF:-1 tvg-name="UK| SKY SPORTS NEWS FHD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-sports-news-hz-uk.png" group-title="news",UK| SKY SPORTS NEWS FHD
-http://ihom66.xyz/82F13D1/4MBV36P/348323
-#EXTINF:-1 tvg-name="UK| SKY SPORTS NEWS HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-sports-news-hz-uk.png" group-title="news",UK| SKY SPORTS NEWS HD
-http://hdlocal.de:8080/eurotv/jyrDCMeEZchhnvsWWS2211/4218
-#EXTINF:-1 tvg-name="UK| FREE SPORTS HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/free-sports-uk.png" group-title="news",UK| FREE SPORTS HD
-http://hdlocal.de:8080/eurotv/jyrDCMeEZchhnvsWWS2211/11036
-#EXTINF:-1 tvg-name="|UK| News |UK|" tvg-logo="" group-title="news",|UK| News |UK|
-http://hdlocal.de:8080/eurotv/jyrDCMeEZchhnvsWWS2211/10875
-#EXTINF:-1 tvg-name="UK| ALJAZEERA NEWS ENGLISH HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/aljazeera-uk.png" group-title="news",UK| ALJAZEERA NEWS ENGLISH HD
-http://hdlocal.de:8080/eurotv/jyrDCMeEZchhnvsWWS2211/11043
-#EXTINF:-1 tvg-name="UK| BBC NEWS HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/bbc-news-hz-uk.png" group-title="news",UK| BBC NEWS HD
-http://hdlocal.de:8080/eurotv/jyrDCMeEZchhnvsWWS2211/11047
-#EXTINF:-1 tvg-name="UK| BBC WORLD NEWS HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/bbc-world-news-hz-uk.png" group-title="news",UK| BBC WORLD NEWS HD
-http://hdlocal.de:8080/eurotv/jyrDCMeEZchhnvsWWS2211/11042
-#EXTINF:-1 tvg-name="UK| CNN HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cnn-us.png" group-title="news",UK| CNN HD
-http://hdlocal.de:8080/eurotv/jyrDCMeEZchhnvsWWS2211/11041
-#EXTINF:-1 tvg-name="UK| EURONEWS HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/euronews-deutsch-de.png" group-title="news",UK| EURONEWS HD
-http://hdlocal.de:8080/eurotv/jyrDCMeEZchhnvsWWS2211/11045
-#EXTINF:-1 tvg-name="UK| FRANCE 24 ENGLISH HD" tvg-logo="https://static.france24.com/meta_og_twcards/jsonld_publisher.png" group-title="news",UK| FRANCE 24 ENGLISH HD
-http://hdlocal.de:8080/eurotv/jyrDCMeEZchhnvsWWS2211/10880
-#EXTINF:-1 tvg-name="UK| SKY NEWS HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-news-icon-uk.png" group-title="news",UK| SKY NEWS HD
-http://hdlocal.de:8080/eurotv/jyrDCMeEZchhnvsWWS2211/11048
-#EXTINF:-1 tvg-name="UK| FRANCE 24 HD" tvg-logo="https://static.france24.com/meta_og_twcards/jsonld_publisher.png" group-title="news",UK| FRANCE 24 HD
-http://hdlocal.de:8080/eurotv/jyrDCMeEZchhnvsWWS2211/11044
-#EXTINF:-1 tvg-name="UK| CNBC NEWS HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cnbc-us.png" group-title="news",UK| CNBC NEWS HD
-http://hdlocal.de:8080/eurotv/jyrDCMeEZchhnvsWWS2211/11009
-#EXTINF:-1 tvg-name="UK| BBC AKA HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/aka-uk.png" group-title="news",UK| BBC AKA HD
-http://hdlocal.de:8080/eurotv/jyrDCMeEZchhnvsWWS2211/11291
-#EXTINF:-1 tvg-name="UK| CBBC HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/bbc-cbbc-uk.png" group-title="news",UK| CBBC HD
-http://hdlocal.de:8080/eurotv/jyrDCMeEZchhnvsWWS2211/11152
-#EXTINF:-1 tvg-name="UK| BBC 1 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/bbc-one-uk.png" group-title="news",UK| BBC 1 HD
-http://hdlocal.de:8080/eurotv/jyrDCMeEZchhnvsWWS2211/11222
-#EXTINF:-1 tvg-name="UK| BBC 2 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/bbc-two-uk.png" group-title="news",UK| BBC 2 HD
-http://hdlocal.de:8080/eurotv/jyrDCMeEZchhnvsWWS2211/11224
-#EXTINF:-1 tvg-name="UK| BBC 3 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/bbc-three-uk.png" group-title="news",UK| BBC 3 HD
-http://hdlocal.de:8080/eurotv/jyrDCMeEZchhnvsWWS2211/11225
-#EXTINF:-1 tvg-name="UK| BBC 4 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/bbc-four-uk.png" group-title="news",UK| BBC 4 HD
-http://hdlocal.de:8080/eurotv/jyrDCMeEZchhnvsWWS2211/11226
-#EXTINF:-1 tvg-name="UK| BBC PARLIAMENT HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/bbc-parliament-hz-uk.png" group-title="news",UK| BBC PARLIAMENT HD
-http://hdlocal.de:8080/eurotv/jyrDCMeEZchhnvsWWS2211/11227
-#EXTINF:-1 tvg-name="UK| BBC ALBA HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/bbc-alba-uk.png" group-title="news",UK| BBC ALBA HD
-http://hdlocal.de:8080/eurotv/jyrDCMeEZchhnvsWWS2211/11228
-#EXTINF:-1 tvg-name="UK| PICK HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/pick-plus-uk.png" group-title="news",UK| PICK HD
-http://hdlocal.de:8080/eurotv/jyrDCMeEZchhnvsWWS2211/11278
-#EXTINF:-1 tvg-name="UK| BBC ENTERTAINMENT HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/bbc-one-uk.png" group-title="news",UK| BBC ENTERTAINMENT HD
-http://hdlocal.de:8080/eurotv/jyrDCMeEZchhnvsWWS2211/11014
-#EXTINF:-1 tvg-name="UK| FOX NEWS HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fox-news-us.png" group-title="news",UK| FOX NEWS HD
-http://hdlocal.de:8080/eurotv/jyrDCMeEZchhnvsWWS2211/11035
-#EXTINF:-1 tvg-name="|UK| UK News |UK|" tvg-logo="" group-title="news",|UK| UK News |UK|
-http://hdlocal.de:8080/eurotv/jyrDCMeEZchhnvsWWS2211/11049
+#EXTINF:-1 tvg-name="DE - BBC NL 8K" tvg-logo="" group-title="news",DE - BBC NL 8K
+http://ihom66.xyz/82F13D1/4MBV36P/1139930
+#EXTINF:-1 tvg-name="##### CH - NEWS #####" tvg-logo="" group-title="news",##### CH - NEWS #####
+http://ihom66.xyz/82F13D1/4MBV36P/1356841
+#EXTINF:-1 tvg-name="CH - C NEWS HD" tvg-logo="" group-title="news",CH - C NEWS HD
+http://ihom66.xyz/82F13D1/4MBV36P/1054619
+#EXTINF:-1 tvg-name="TR - A NEWS HD PLUS" tvg-logo="" group-title="news",TR - A NEWS HD PLUS
+http://ihom66.xyz/82F13D1/4MBV36P/39729
 #EXTINF:-1 tvg-name="TR| BBC EARTH HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/bbc-one-uk.png" group-title="news",TR| BBC EARTH HD
 http://ihom66.xyz/82F13D1/4MBV36P/82341
-#EXTINF:-1 tvg-name="EURONEWS SRBIJA" tvg-logo="https://www.euronews.rs/files/img/logo-new.png" group-title="news",EURONEWS SRBIJA
-http://client.nodomain.vip/27nihadcelic/QXv5CCzkiE/2060
-#EXTINF:-1 tvg-name="AL JAZEERA" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/al_jazeera_balkans.jpg" group-title="news",AL JAZEERA
-http://client.nodomain.vip/27nihadcelic/QXv5CCzkiE/117
-#EXTINF:-1 tvg-name="BBC EARTH" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_Earth_logo.png" group-title="news",BBC EARTH
-http://client.nodomain.vip/27nihadcelic/QXv5CCzkiE/1430
+#EXTINF:-1 tvg-name="TR - AL JAZEERA ENGLISH HD" tvg-logo="" group-title="news",TR - AL JAZEERA ENGLISH HD
+http://ihom66.xyz/82F13D1/4MBV36P/1099488
+#EXTINF:-1 tvg-name="TR - A NEWS FHD" tvg-logo="" group-title="news",TR - A NEWS FHD
+http://ihom66.xyz/82F13D1/4MBV36P/1099511
+#EXTINF:-1 tvg-name="UK: Sky Sports News" tvg-logo="" group-title="news",UK: Sky Sports News
+http://ihom66.xyz/82F13D1/4MBV36P/325432
+#EXTINF:-1 tvg-name="UK: Sky Sports News FHD" tvg-logo="" group-title="news",UK: Sky Sports News FHD
+http://ihom66.xyz/82F13D1/4MBV36P/348323
+#EXTINF:-1 tvg-name="UK - SKY SPORTS NEWS HEVC" tvg-logo="" group-title="news",UK - SKY SPORTS NEWS HEVC
+http://ihom66.xyz/82F13D1/4MBV36P/980429
+#EXTINF:-1 tvg-name="UK - SKY SPORTS NEWS HEVC2" tvg-logo="" group-title="news",UK - SKY SPORTS NEWS HEVC2
+http://ihom66.xyz/82F13D1/4MBV36P/980403
+#EXTINF:-1 tvg-name="UK - SKY SPORTS NEWS HD2" tvg-logo="" group-title="news",UK - SKY SPORTS NEWS HD2
+http://ihom66.xyz/82F13D1/4MBV36P/17283
+#EXTINF:-1 tvg-name="UK - SKY SPORTS NEWS SD" tvg-logo="" group-title="news",UK - SKY SPORTS NEWS SD
+http://ihom66.xyz/82F13D1/4MBV36P/348324
+#EXTINF:-1 tvg-name="US - BBC EARTH HD" tvg-logo="" group-title="news",US - BBC EARTH HD
+http://ihom66.xyz/82F13D1/4MBV36P/273578
+#EXTINF:-1 tvg-name="AR - BEIN SPORTS NEWS FHD" tvg-logo="" group-title="news",AR - BEIN SPORTS NEWS FHD
+http://ihom66.xyz/82F13D1/4MBV36P/986958
+#EXTINF:-1 tvg-name="AR - BEIN SPORTS NEWS HD1" tvg-logo="" group-title="news",AR - BEIN SPORTS NEWS HD1
+http://ihom66.xyz/82F13D1/4MBV36P/27925
+#EXTINF:-1 tvg-name="AR - BEIN SPORTS NEWS HD2" tvg-logo="" group-title="news",AR - BEIN SPORTS NEWS HD2
+http://ihom66.xyz/82F13D1/4MBV36P/551270
+#EXTINF:-1 tvg-name="AR - BEIN SPORTS NEWS HD3" tvg-logo="" group-title="news",AR - BEIN SPORTS NEWS HD3
+http://ihom66.xyz/82F13D1/4MBV36P/986992
+#EXTINF:-1 tvg-name="AR - BEIN SPORTS NEWS HD4" tvg-logo="" group-title="news",AR - BEIN SPORTS NEWS HD4
+http://ihom66.xyz/82F13D1/4MBV36P/986993
+#EXTINF:-1 tvg-name="AR - BEIN SPORTS NEWS SD" tvg-logo="" group-title="news",AR - BEIN SPORTS NEWS SD
+http://ihom66.xyz/82F13D1/4MBV36P/987010
+#EXTINF:-1 tvg-name="AR - BEIN SPORTS NEWS SD2" tvg-logo="" group-title="news",AR - BEIN SPORTS NEWS SD2
+http://ihom66.xyz/82F13D1/4MBV36P/551290
+#EXTINF:-1 tvg-name="AR - BEIN SPORTS NEWS 4K" tvg-logo="" group-title="news",AR - BEIN SPORTS NEWS 4K
+http://ihom66.xyz/82F13D1/4MBV36P/333932
+#EXTINF:-1 tvg-name="AR - BEIN SPORTS NEWS 4K2" tvg-logo="" group-title="news",AR - BEIN SPORTS NEWS 4K2
+http://ihom66.xyz/82F13D1/4MBV36P/552065
+#EXTINF:-1 tvg-name="ALB - News of the World - 2020" tvg-logo="" group-title="news",ALB - News of the World - 2020
+http://ihom66.xyz/movie/82F13D1/4MBV36P/223909.mkv
+#EXTINF:-1 tvg-name="ALB - Breaking News in Yuba County - 2021" tvg-logo="" group-title="news",ALB - Breaking News in Yuba County - 2021
+http://ihom66.xyz/movie/82F13D1/4MBV36P/1153931.mp4
+#EXTINF:-1 tvg-name="ALB - Newsmakers - 2009" tvg-logo="" group-title="news",ALB - Newsmakers - 2009
+http://ihom66.xyz/movie/82F13D1/4MBV36P/1225658.mp4
