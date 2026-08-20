@@ -6,6 +6,7 @@ import sys
 import tempfile
 import unittest
 from pathlib import Path
+from unittest.mock import patch
 
 
 ROOT = Path(__file__).resolve().parents[1]
@@ -75,6 +76,126 @@ class ClassificationTests(unittest.TestCase):
         url = "https://example.test/live.m3u8?token=secret&expires=999&quality=hd"
         _, playback_url, _ = BUILD.canonicalize_url(url, {"token", "expires"})
         self.assertEqual(playback_url, url)
+
+
+class HealthCheckTests(unittest.TestCase):
+    @classmethod
+    def setUpClass(cls) -> None:
+        cls.rules = BUILD.load_rules(ROOT / "config" / "iptv_rules.json")
+
+    @staticmethod
+    def record(**overrides):
+        values = {
+            "sequence": 1,
+            "name": "Al Jazeera Arabic",
+            "original_name": "AR: Al Jazeera Arabic",
+            "language": "arabic",
+            "groups": ["news"],
+            "raw_group": "",
+            "logo": "",
+            "primary_url": "https://stream.example/primary.m3u8",
+            "alternates": ["https://stream.example/alternate.m3u8"],
+            "source_file": "FIW_1700000000_test.m3u",
+            "primary_category": "news",
+            "name_key": "aljazeera",
+        }
+        values.update(overrides)
+        return BUILD.ChannelRecord(**values)
+
+    def test_private_and_local_targets_are_blocked(self) -> None:
+        blocked = [
+            "http://127.0.0.1/live.m3u8",
+            "http://10.0.0.1/live.m3u8",
+            "http://169.254.169.254/latest/meta-data/",
+            "http://[::1]/live.m3u8",
+        ]
+        for url in blocked:
+            with self.subTest(url=url):
+                self.assertFalse(BUILD.is_public_http_target(url))
+        self.assertTrue(BUILD.is_public_http_target("https://1.1.1.1/live.m3u8"))
+
+    def test_html_error_page_is_not_treated_as_a_stream(self) -> None:
+        class FakeResponse:
+            status = 200
+            headers = {"Content-Type": "text/html; charset=utf-8"}
+
+            def __enter__(self):
+                return self
+
+            def __exit__(self, exc_type, exc, traceback):
+                return False
+
+            def getcode(self):
+                return self.status
+
+            def read(self, size):
+                return b"<!doctype html><title>Expired</title>"
+
+        class FakeOpener:
+            def open(self, request, timeout):
+                return FakeResponse()
+
+        with (
+            patch.object(BUILD, "validate_public_http_target", return_value=(True, "ok")),
+            patch.object(BUILD, "build_opener", return_value=FakeOpener()),
+        ):
+            reachable, reason = BUILD.check_stream_url(
+                "https://stream.example/live.m3u8",
+                5,
+                1024,
+            )
+        self.assertFalse(reachable)
+        self.assertEqual(reason, "html_response")
+
+    def test_reachable_alternate_is_promoted_without_changing_id(self) -> None:
+        record = self.record()
+        original_id = BUILD.stable_id(record)
+
+        def fake_checker(url, timeout_seconds, read_bytes):
+            self.assertEqual(timeout_seconds, 5)
+            self.assertEqual(read_bytes, 1024)
+            return url.endswith("alternate.m3u8"), "test"
+
+        counts = BUILD.health_check_records([record], self.rules, fake_checker)
+
+        self.assertEqual(record.primary_url, "https://stream.example/alternate.m3u8")
+        self.assertEqual(record.alternates, ["https://stream.example/primary.m3u8"])
+        self.assertEqual(record.health_status, "reachable")
+        self.assertEqual(record.health_checked_urls, 2)
+        self.assertTrue(record.health_promoted)
+        self.assertEqual(counts["promoted"], 1)
+        self.assertEqual(BUILD.stable_id(record), original_id)
+
+    def test_failed_checks_keep_original_primary(self) -> None:
+        record = self.record()
+        original_primary = record.primary_url
+        counts = BUILD.health_check_records(
+            [record],
+            self.rules,
+            lambda url, timeout_seconds, read_bytes: (False, "test"),
+        )
+        self.assertEqual(record.primary_url, original_primary)
+        self.assertEqual(record.health_status, "unreachable")
+        self.assertFalse(record.health_promoted)
+        self.assertEqual(counts["unreachable"], 1)
+
+    def test_non_target_channel_is_not_checked(self) -> None:
+        record = self.record(
+            name="Arabic Entertainment",
+            original_name="AR: Arabic Entertainment",
+            groups=[],
+            primary_category=None,
+            name_key="arabicentertainment",
+        )
+        calls = []
+
+        def fake_checker(url, timeout_seconds, read_bytes):
+            calls.append(url)
+            return True, "test"
+
+        BUILD.health_check_records([record], self.rules, fake_checker)
+        self.assertEqual(calls, [])
+        self.assertEqual(record.health_status, "not_checked")
 
 
 class BuildIntegrationTests(unittest.TestCase):

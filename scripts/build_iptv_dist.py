@@ -3,17 +3,23 @@ from __future__ import annotations
 
 import argparse
 import hashlib
+import ipaddress
 import json
 import os
 import re
 import shutil
+import socket
 import unicodedata
 from collections import Counter, defaultdict
+from concurrent.futures import ThreadPoolExecutor, as_completed
 from dataclasses import dataclass, field
 from datetime import datetime, timezone
+from functools import lru_cache
 from pathlib import Path
-from typing import Iterable
+from typing import Callable, Iterable
+from urllib.error import HTTPError, URLError
 from urllib.parse import parse_qsl, urlencode, urlsplit, urlunsplit
+from urllib.request import HTTPRedirectHandler, Request, build_opener
 
 
 ROOT = Path(__file__).resolve().parents[1]
@@ -55,6 +61,9 @@ class ChannelRecord:
     source_file: str = ""
     primary_category: str | None = None
     name_key: str = ""
+    health_status: str = "not_checked"
+    health_checked_urls: int = 0
+    health_promoted: bool = False
 
 
 def load_rules(path: Path) -> dict:
@@ -522,6 +531,149 @@ def escape_attr(value: str) -> str:
     return normalize_whitespace(value).replace("\\", "\\\\").replace('"', '\\"')
 
 
+@lru_cache(maxsize=4096)
+def public_hostname_addresses(hostname: str) -> tuple[bool, str]:
+    try:
+        literal = ipaddress.ip_address(hostname)
+    except ValueError:
+        try:
+            addresses = {
+                item[4][0]
+                for item in socket.getaddrinfo(hostname, None, type=socket.SOCK_STREAM)
+            }
+        except (OSError, UnicodeError):
+            return False, "dns_error"
+        if not addresses:
+            return False, "dns_error"
+        try:
+            parsed_addresses = [ipaddress.ip_address(address) for address in addresses]
+        except ValueError:
+            return False, "dns_error"
+    else:
+        parsed_addresses = [literal]
+
+    if not all(address.is_global for address in parsed_addresses):
+        return False, "non_public_address"
+    return True, "ok"
+
+
+def validate_public_http_target(url: str) -> tuple[bool, str]:
+    parsed = urlsplit(url)
+    if parsed.scheme.lower() not in {"http", "https"}:
+        return False, "unsupported_scheme"
+    if not parsed.hostname:
+        return False, "missing_hostname"
+    return public_hostname_addresses(parsed.hostname.rstrip(".").casefold())
+
+
+def is_public_http_target(url: str) -> bool:
+    return validate_public_http_target(url)[0]
+
+
+class SafeRedirectHandler(HTTPRedirectHandler):
+    def redirect_request(self, req, fp, code, msg, headers, newurl):  # type: ignore[no-untyped-def]
+        allowed, reason = validate_public_http_target(newurl)
+        if not allowed:
+            raise URLError(f"blocked_redirect:{reason}")
+        return super().redirect_request(req, fp, code, msg, headers, newurl)
+
+
+def check_stream_url(url: str, timeout_seconds: float, read_bytes: int) -> tuple[bool, str]:
+    allowed, reason = validate_public_http_target(url)
+    if not allowed:
+        return False, reason
+
+    request = Request(
+        url,
+        headers={
+            "Accept": "application/vnd.apple.mpegurl, application/x-mpegURL, video/*, */*;q=0.5",
+            "User-Agent": "Dragon-IPTV-Clean/2.1",
+        },
+    )
+    try:
+        opener = build_opener(SafeRedirectHandler())
+        with opener.open(request, timeout=timeout_seconds) as response:
+            status = getattr(response, "status", response.getcode())
+            if status is not None and int(status) >= 400:
+                return False, f"http_{status}"
+            sample = response.read(max(read_bytes, 1))
+            if not sample:
+                return False, "empty_response"
+            content_type = response.headers.get("Content-Type", "").casefold()
+            stripped_sample = sample.lstrip().lower()
+            if "text/html" in content_type or stripped_sample.startswith((b"<!doctype html", b"<html")):
+                return False, "html_response"
+    except HTTPError as exc:
+        return False, f"http_{exc.code}"
+    except (TimeoutError, socket.timeout):
+        return False, "timeout"
+    except (URLError, OSError, ValueError):
+        return False, "network_error"
+    return True, "ok"
+
+
+HealthChecker = Callable[[str, float, int], tuple[bool, str]]
+
+
+def should_health_check(record: ChannelRecord, rules: dict) -> bool:
+    health_rules = rules.get("health_check", {})
+    categories = set(health_rules.get("categories", []))
+    priorities = rules.get("priority_channels", {}).get(record.language, [])
+    is_priority = priority_rank(record, rules) < len(priorities)
+    return record.primary_category in categories or is_priority
+
+
+def health_check_records(
+    records: list[ChannelRecord],
+    rules: dict,
+    checker: HealthChecker = check_stream_url,
+) -> Counter:
+    health_rules = rules.get("health_check", {})
+    timeout_seconds = float(health_rules.get("timeout_seconds", 5))
+    read_bytes = max(1, int(health_rules.get("read_bytes", 1024)))
+    max_urls = max(1, int(health_rules.get("max_urls_per_channel", 3)))
+    configured_workers = max(1, int(health_rules.get("max_workers", 40)))
+    targets = [record for record in records if should_health_check(record, rules)]
+    results = Counter()
+    if not targets:
+        return results
+
+    def evaluate(record: ChannelRecord) -> tuple[ChannelRecord, str | None, int]:
+        candidates = list(dict.fromkeys([record.primary_url, *record.alternates]))[:max_urls]
+        checked = 0
+        for candidate in candidates:
+            checked += 1
+            try:
+                reachable, _ = checker(candidate, timeout_seconds, read_bytes)
+            except Exception:
+                reachable = False
+            if reachable:
+                return record, candidate, checked
+        return record, None, checked
+
+    with ThreadPoolExecutor(max_workers=min(configured_workers, len(targets))) as executor:
+        futures = [executor.submit(evaluate, record) for record in targets]
+        for future in as_completed(futures):
+            record, reachable_url, checked = future.result()
+            record.health_checked_urls = checked
+            results["checked"] += 1
+            if reachable_url is None:
+                record.health_status = "unreachable"
+                results["unreachable"] += 1
+                continue
+
+            record.health_status = "reachable"
+            results["reachable"] += 1
+            if reachable_url != record.primary_url:
+                old_primary = record.primary_url
+                record.primary_url = reachable_url
+                record.alternates = list(dict.fromkeys([old_primary, *record.alternates]))
+                record.alternates = [url for url in record.alternates if url != reachable_url]
+                record.health_promoted = True
+                results["promoted"] += 1
+    return results
+
+
 def record_to_json(record: ChannelRecord) -> dict:
     payload = {
         "id": stable_id(record),
@@ -534,13 +686,16 @@ def record_to_json(record: ChannelRecord) -> dict:
         "primary_url": record.primary_url,
         "alternates": record.alternates,
         "source_file": record.source_file,
+        "health_status": record.health_status,
+        "health_checked_urls": record.health_checked_urls,
+        "health_promoted": record.health_promoted,
     }
     return payload
 
 
 def stable_id(record: ChannelRecord) -> str:
     digest = hashlib.sha1(
-        f"{record.language}|{record.primary_category or ''}|{record.name.casefold()}|{record.primary_url}".encode("utf-8")
+        f"{record.language}|{record.primary_category or ''}|{record.name_key or channel_identity_key(record.name)}".encode("utf-8")
     ).hexdigest()[:12]
     return f"dragon_{record.language}_{digest}"
 
@@ -560,6 +715,7 @@ def build_manifest(
     language_records: list[ChannelRecord],
     category_records: dict[str, list[ChannelRecord]],
     output_dir: Path,
+    health_check_enabled: bool,
 ) -> dict:
     files = {
         "catalog": "dragon_iptv_catalog.json",
@@ -576,6 +732,11 @@ def build_manifest(
         "source_pattern": SOURCE_PATTERN,
         "language": language,
         "generated_by": rules["generated_by"],
+        "health_check": {
+            "enabled": health_check_enabled,
+            "categories": rules.get("health_check", {}).get("categories", []),
+            "max_urls_per_channel": rules.get("health_check", {}).get("max_urls_per_channel", 0),
+        },
         "limits": rules["limits"][language],
         "counts": {
             "raw_files": counts["raw_files"],
@@ -591,6 +752,10 @@ def build_manifest(
             "documentary": len(category_records["documentary"]),
             "sports": len(category_records["sports"]),
             "netflix": len(category_records["netflix"]),
+            "health_checked": sum(record.health_status != "not_checked" for record in catalog_records),
+            "health_reachable": sum(record.health_status == "reachable" for record in catalog_records),
+            "health_unreachable": sum(record.health_status == "unreachable" for record in catalog_records),
+            "health_promoted": sum(record.health_promoted for record in catalog_records),
         },
         "files": files,
     }
@@ -631,7 +796,13 @@ def select_category_records(records: list[ChannelRecord], category: str, limit: 
     return selected[:limit]
 
 
-def build_dist(source_dir: Path, output_dir: Path, rules: dict) -> dict[str, dict]:
+def build_dist(
+    source_dir: Path,
+    output_dir: Path,
+    rules: dict,
+    health_check: bool = False,
+    health_checker: HealthChecker | None = None,
+) -> dict[str, dict]:
     entries, counts = build_entries(source_dir, rules)
     global CATEGORY_ORDER
     CATEGORY_ORDER = list(rules["categories"]["order"])
@@ -649,6 +820,8 @@ def build_dist(source_dir: Path, output_dir: Path, rules: dict) -> dict[str, dic
         language_dir.mkdir(parents=True, exist_ok=True)
 
         catalog_records = sort_language_records(merged_records, language, rules)[: language_rules["catalog"]]
+        if health_check:
+            health_check_records(catalog_records, rules, health_checker or check_stream_url)
         language_records = select_language_records(catalog_records, language, language_rules["main"])
         category_records = {
             category: select_category_records(catalog_records, category, language_rules[category], language)
@@ -660,7 +833,16 @@ def build_dist(source_dir: Path, output_dir: Path, rules: dict) -> dict[str, dic
         for category, records in category_records.items():
             write_m3u(language_dir / f"{category}.m3u", records, category)
 
-        manifest = build_manifest(language, rules, counts, catalog_records, language_records, category_records, language_dir)
+        manifest = build_manifest(
+            language,
+            rules,
+            counts,
+            catalog_records,
+            language_records,
+            category_records,
+            language_dir,
+            health_check,
+        )
         write_json(language_dir / "manifest.json", manifest)
         manifests[language] = manifest
 
@@ -672,13 +854,27 @@ def main() -> int:
     parser.add_argument("--source-dir", required=True, type=Path)
     parser.add_argument("--output-dir", required=True, type=Path)
     parser.add_argument("--rules", type=Path, default=DEFAULT_RULES)
+    parser.add_argument(
+        "--health-check",
+        action="store_true",
+        help="Check priority/news/documentary streams and promote reachable alternates.",
+    )
     args = parser.parse_args()
 
     rules = load_rules(args.rules)
     if args.output_dir.exists():
         shutil.rmtree(args.output_dir)
     args.output_dir.mkdir(parents=True, exist_ok=True)
-    build_dist(args.source_dir, args.output_dir, rules)
+    manifests = build_dist(args.source_dir, args.output_dir, rules, health_check=args.health_check)
+    if args.health_check:
+        for language, manifest in manifests.items():
+            health = manifest["counts"]
+            print(
+                f"{language}: checked={health['health_checked']} "
+                f"reachable={health['health_reachable']} "
+                f"unreachable={health['health_unreachable']} "
+                f"promoted={health['health_promoted']}"
+            )
     return 0
 
 
