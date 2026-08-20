@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "revision_utc": "2026-07-04T04:07:21Z",
+  "revision_utc": "2026-08-20T17:17:40Z",
   "source_repo": "https://github.com/mesbahikarim63-commits/hot-dodo",
   "source_pattern": "FIW_17*.m3u",
   "language": "english",
@@ -14,18 +14,18 @@
     "netflix": 1000
   },
   "counts": {
-    "raw_files": 85,
-    "raw_channels": 1711910,
-    "dropped_promo": 3401,
-    "dropped_unsupported_protocol": 147,
-    "dropped_language": 266052,
-    "deduped": 1037830,
+    "raw_files": 29,
+    "raw_channels": 2182986,
+    "dropped_promo": 4387,
+    "dropped_unsupported_protocol": 276,
+    "dropped_language": 25964,
+    "deduped": 1736202,
     "kept_channels": 8000,
     "english": 3000,
-    "news": 8,
-    "documentary": 27,
-    "sports": 228,
-    "netflix": 183
+    "news": 3,
+    "documentary": 21,
+    "sports": 88,
+    "netflix": 107
   },
   "files": {
     "catalog": "dragon_iptv_catalog.json",
