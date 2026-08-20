@@ -167,13 +167,35 @@ def contains_keyword(text: str, keywords: Iterable[str]) -> bool:
 
 
 def extract_country_prefix(text: str) -> str | None:
-    match = re.match(r"^\s*([A-Za-z]{2,3})(?=\s*[:|._-])", text)
+    match = re.match(r"^\s*[^A-Za-z0-9]*([A-Za-z]{2,3})(?=\s*[:|._-])", text)
     return match.group(1).upper() if match else None
+
+
+def contains_blocked_country_marker(text: str, rules: dict) -> bool:
+    markers = rules["language"].get("blocked_country_markers", [])
+    if not markers:
+        return False
+    marker_pattern = "|".join(re.escape(marker) for marker in markers)
+    return bool(
+        re.search(
+            rf"(?<![A-Za-z0-9])(?:{marker_pattern})(?:[\s|:._()\[\]-])*$",
+            text,
+            flags=re.IGNORECASE,
+        )
+    )
 
 
 def infer_language(text: str, rules: dict) -> str | None:
     language_rules = rules["language"]
     if contains_keyword(text, language_rules.get("blocked_language_keywords", [])):
+        return None
+    if contains_blocked_country_marker(text, rules):
+        return None
+
+    prefix = extract_country_prefix(text)
+    arabic_prefixes = set(language_rules.get("arabic_prefixes", []))
+    english_prefixes = set(language_rules.get("english_prefixes", []))
+    if prefix and prefix not in arabic_prefixes | english_prefixes:
         return None
 
     lowered = text.casefold()
@@ -184,13 +206,10 @@ def infer_language(text: str, rules: dict) -> str | None:
     if explicit_arabic and not explicit_english:
         return "arabic"
 
-    prefix = extract_country_prefix(text)
-    if prefix in set(language_rules.get("english_prefixes", [])):
+    if prefix in english_prefixes:
         return "english"
-    if prefix in set(language_rules.get("arabic_prefixes", [])):
+    if prefix in arabic_prefixes:
         return "arabic"
-    if prefix in set(language_rules.get("blocked_prefixes", [])):
-        return None
 
     if explicit_english:
         return "english"
@@ -207,9 +226,13 @@ def infer_language(text: str, rules: dict) -> str | None:
 
 def infer_categories(text: str, rules: dict) -> list[str]:
     category_rules = rules["categories"]
+    exclusions = category_rules.get("exclude_terms", {})
     detected: list[str] = []
     for category in category_rules["order"]:
-        if contains_keyword(text, category_rules[category]):
+        if contains_keyword(text, category_rules[category]) and not contains_keyword(
+            text,
+            exclusions.get(category, []),
+        ):
             detected.append(category)
     return detected
 
@@ -723,7 +746,6 @@ def build_manifest(
         "news": "news.m3u",
         "documentary": "documentary.m3u",
         "sports": "sports.m3u",
-        "netflix": "netflix.m3u",
     }
     return {
         "schema_version": rules["schema_version"],
@@ -751,7 +773,6 @@ def build_manifest(
             "news": len(category_records["news"]),
             "documentary": len(category_records["documentary"]),
             "sports": len(category_records["sports"]),
-            "netflix": len(category_records["netflix"]),
             "health_checked": sum(record.health_status != "not_checked" for record in catalog_records),
             "health_reachable": sum(record.health_status == "reachable" for record in catalog_records),
             "health_unreachable": sum(record.health_status == "unreachable" for record in catalog_records),
@@ -825,7 +846,7 @@ def build_dist(
         language_records = select_language_records(catalog_records, language, language_rules["main"])
         category_records = {
             category: select_category_records(catalog_records, category, language_rules[category], language)
-            for category in ("news", "documentary", "sports", "netflix")
+            for category in ("news", "documentary", "sports")
         }
 
         write_json(language_dir / "dragon_iptv_catalog.json", [record_to_json(record) for record in catalog_records])

@@ -51,12 +51,10 @@ Per language folder you will find:
 - `news.m3u`
 - `documentary.m3u`
 - `sports.m3u`
-- `netflix.m3u`
 
 Notes:
 
-- `netflix.m3u` means movies, series, and cinema-style channels. It does not mean the official Netflix service.
-- The builder keeps only Arabic and English channels and drops promo/demo/info/welcome entries, unsupported protocols, and non-target languages by default.
+- The builder keeps only Arabic and English live channels and drops movies, series, promo/demo/info/welcome entries, unsupported protocols, and non-target country prefixes by default.
 - iOS should consume this clean repo after verification.
 
 Build entry point:

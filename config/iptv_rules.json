@@ -22,16 +22,14 @@
       "main": 3000,
       "news": 500,
       "documentary": 500,
-      "sports": 500,
-      "netflix": 1000
+      "sports": 500
     },
     "english": {
       "catalog": 8000,
       "main": 3000,
       "news": 500,
       "documentary": 500,
-      "sports": 500,
-      "netflix": 1000
+      "sports": 500
     }
   },
   "cleanup": {
@@ -126,43 +124,37 @@
       "US",
       "USA"
     ],
-    "blocked_prefixes": [
+    "blocked_country_markers": [
       "AL",
-      "ALB",
-      "AT",
-      "AZ",
-      "BE",
       "BG",
-      "BIH",
       "BR",
-      "ARG",
-      "CH",
-      "CL",
-      "CO",
-      "COL",
+      "CN",
       "CZ",
       "DE",
-      "DK",
       "ES",
-      "FI",
       "FR",
       "GR",
       "HR",
       "HU",
-      "IL",
+      "ID",
+      "IN",
+      "IR",
       "IT",
-      "MEX",
+      "JP",
+      "KR",
       "MK",
-      "MNE",
       "NL",
-      "NO",
+      "PH",
+      "PK",
       "PL",
       "PT",
-      "PE",
       "RO",
+      "RS",
       "RU",
-      "SRB",
-      "TR"
+      "TH",
+      "TR",
+      "VF",
+      "VN"
     ],
     "arabic_script_ranges": [
       "\\u0600-\\u06FF",
@@ -228,23 +220,37 @@
       "balkan",
       "brasil",
       "chile",
+      "cosmote",
+      "cyta",
+      "farsi",
+      "greek",
+      "hindi",
       "internacional",
+      "korean",
       "en espaniol",
       "espaniol",
       "exyu",
-      "indonesia"
+      "indonesia",
+      "persian",
+      "urdu"
     ]
   },
   "categories": {
     "order": [
       "documentary",
       "sports",
-      "news",
-      "netflix"
+      "news"
     ],
+    "exclude_terms": {
+      "documentary": [
+        "cooking",
+        "food"
+      ],
+      "sports": [],
+      "news": []
+    },
     "news": [
       "news",
-      "bbc",
       "cnn",
       "sky news",
       "france24",
@@ -289,20 +295,6 @@
       "mma",
       "رياضة",
       "كورة"
-    ],
-    "netflix": [
-      "movie",
-      "movies",
-      "cinema",
-      "series",
-      "film",
-      "kino",
-      "amedia",
-      "tv1000",
-      "comedy",
-      "action",
-      "أفلام",
-      "مسلسلات"
     ]
   },
   "known_channel_categories": {
@@ -333,14 +325,15 @@
       "France 24 English",
       "BBC Arabic",
       "BBC News",
+      "BBC World",
+      "BBC World News",
       "DW Arabic",
       "DW English",
       "CNN International",
       "Euronews",
       "TRT World",
       "Al Mayadeen"
-    ],
-    "netflix": []
+    ]
   },
   "priority_channels": {
     "arabic": [

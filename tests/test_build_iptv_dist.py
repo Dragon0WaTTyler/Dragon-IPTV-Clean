@@ -33,6 +33,13 @@ class ClassificationTests(unittest.TestCase):
         self.assertEqual(BUILD.infer_language("UK: BBC News", self.rules), "english")
         self.assertEqual(BUILD.infer_language("AR: Al Jazeera", self.rules), "arabic")
         self.assertIsNone(BUILD.infer_language("DE: Sky Sport News", self.rules))
+        self.assertIsNone(BUILD.infer_language("IR: GEM ARABIC", self.rules))
+        self.assertIsNone(BUILD.infer_language("IR: BBC PERSIAN", self.rules))
+        self.assertIsNone(BUILD.infer_language("KR: MBC", self.rules))
+        self.assertIsNone(BUILD.infer_language("|IN| SONY BBC Earth HD", self.rules))
+        self.assertIsNone(BUILD.infer_language("^CH: Animal Planet FHD", self.rules))
+        self.assertIsNone(BUILD.infer_language("DISCOVERY CHANNEL RU", self.rules))
+        self.assertIsNone(BUILD.infer_language("Cosmote | Euronews Greek", self.rules))
         self.assertIsNone(BUILD.infer_language("CNN TURK", self.rules))
         self.assertIsNone(BUILD.infer_language("CL: CNN", self.rules))
         self.assertIsNone(BUILD.infer_language("CNN CHILE", self.rules))
@@ -48,6 +55,17 @@ class ClassificationTests(unittest.TestCase):
         self.assertEqual(
             BUILD.known_channel_category("AR|DOCU: BBC ARABIC", self.rules),
             "news",
+        )
+
+    def test_bbc_entertainment_is_not_classified_as_news(self) -> None:
+        self.assertNotIn("news", BUILD.infer_categories("UK: BBC One HD", self.rules))
+        self.assertNotIn("news", BUILD.infer_categories("USA: BBC KIDS HD", self.rules))
+        self.assertEqual(BUILD.known_channel_category("BBC World", self.rules), "news")
+
+    def test_food_channels_are_not_documentaries(self) -> None:
+        self.assertNotIn(
+            "documentary",
+            BUILD.infer_categories("DOCUMENTARY | BBC FOOD", self.rules),
         )
 
     def test_channel_identity_merges_common_al_jazeera_variants(self) -> None:
@@ -243,6 +261,9 @@ https://example.test/series/user/pass/episode.mkv
             self.assertIn("BBC News", english_news)
             self.assertNotIn("DE: Sky Sport News", english_news)
             self.assertEqual(arabic_manifest["counts"]["dropped_vod"], 1)
+            self.assertNotIn("netflix", arabic_manifest["files"])
+            self.assertFalse((output / "arabic" / "netflix.m3u").exists())
+            self.assertFalse((output / "english" / "netflix.m3u").exists())
 
 
 if __name__ == "__main__":

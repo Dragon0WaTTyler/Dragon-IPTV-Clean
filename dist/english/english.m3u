@@ -1,11 +1,11 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="NL: ALJAZEERA ENGLISH" tvg-logo="" group-title="english",NL: ALJAZEERA ENGLISH
+#EXTINF:-1 tvg-name="AR: AL JAZEERA ENGLISH HD" tvg-logo="" group-title="english",AR: AL JAZEERA ENGLISH HD
 http://ctn34.xyz:2095/bbbr6109/bb00yy2611/165874
 #EXTINF:-1 tvg-name="USA: AL JAZEERA ENGLISH US" tvg-logo="" group-title="english",USA: AL JAZEERA ENGLISH US
 http://31.43.191.125:8080/VIP019571742829342372/2b1fd1919d22/154626
 #EXTINF:-1 tvg-name="NEWs | BBC NEWS AMERICA UHD" tvg-logo="http://mundo2.pro:80/images/901fab25d89cb06f982baafd89791c8b.png" group-title="english",NEWs | BBC NEWS AMERICA UHD
 http://cinemagold.org:80/live/12MPremiumSep29/8Vkwukoebc/399499.m3u8
-#EXTINF:-1 tvg-name="MY: BBC NEWS" tvg-logo="https://docdog.top/logo/countries/malaysia/bbcnews.png" group-title="english",MY: BBC NEWS
+#EXTINF:-1 tvg-name="CA: BBC NEWS" tvg-logo="" group-title="english",CA: BBC NEWS
 http://31.43.191.125:8080/VIP019571742829342372/2b1fd1919d22/1864
 #EXTINF:-1 tvg-name="USA:CNN" tvg-logo="http://yt3.ggpht.com/liqi8BaSebW4AITqSvaN06IHjAYPeAztg7CrnlINfjvMTL6blPHgc1B1NPHM3nLfOWsYiPYA7OG3=ns-nd" group-title="english",USA:CNN
 http://cinemagold.org:80/live/12MPremiumSep29/8Vkwukoebc/63078.m3u8
@@ -13,12 +13,8 @@ http://cinemagold.org:80/live/12MPremiumSep29/8Vkwukoebc/63078.m3u8
 http://ctn34.xyz:2095/bbbr6109/bb00yy2611/135112
 #EXTINF:-1 tvg-name="USA: CNN FHD US.*" tvg-logo="http://mundo2.pro:80/images/57c6fd1ead5c64211481a7d3b1b95204.png" group-title="english",USA: CNN FHD US.*
 http://cinemagold.org:80/live/12MPremiumSep29/8Vkwukoebc/399128.m3u8
-#EXTINF:-1 tvg-name="MY: CNN International" tvg-logo="https://docdog.top/logo/countries/malaysia/cnninternational.png" group-title="english",MY: CNN International
-http://31.43.191.125:8080/VIP019571742829342372/2b1fd1919d22/34673
-#EXTINF:-1 tvg-name="IN: CNN News 18" tvg-logo="" group-title="english",IN: CNN News 18
-http://shqiptv.online:8080/liv3cid90a49fe9a03af459/fXz6WrqDH/99349
-#EXTINF:-1 tvg-name="PH: CNN PHILIPINES VIP" tvg-logo="https://docdog.top/logo/countries/philippines/cnnphilippines.png" group-title="english",PH: CNN PHILIPINES VIP
-http://31.43.191.125:8080/VIP019571742829342372/2b1fd1919d22/34755
+#EXTINF:-1 tvg-name="USA: CNN INTERNATIONAL" tvg-logo="" group-title="english",USA: CNN INTERNATIONAL
+http://shqiptv.online:8080/liv3cid90a49fe9a03af459/fXz6WrqDH/100245
 #EXTINF:-1 tvg-name="UK: Sky News" tvg-logo="" group-title="english",UK: Sky News
 http://ctn34.xyz:2095/bbbr6109/bb00yy2611/77121
 #EXTINF:-1 tvg-name="USA: SKY NEWS AMERICA" tvg-logo="" group-title="english",USA: SKY NEWS AMERICA
@@ -27,64 +23,30 @@ http://31.43.191.125:8080/VIP019571742829342372/2b1fd1919d22/156544
 http://31.43.191.125:8080/VIP019571742829342372/2b1fd1919d22/25044
 #EXTINF:-1 tvg-name="UK: France 24 English" tvg-logo="" group-title="english",UK: France 24 English
 http://31.43.191.125:8080/VIP019571742829342372/2b1fd1919d22/146958
-#EXTINF:-1 tvg-name="IDS: DW English VIP" tvg-logo="" group-title="english",IDS: DW English VIP
-http://31.43.191.125:8080/VIP019571742829342372/2b1fd1919d22/34415
 #EXTINF:-1 tvg-name="Euronews" tvg-logo="" group-title="english",Euronews
 http://ctn34.xyz:2095/bbbr6109/bb00yy2611/66930
-#EXTINF:-1 tvg-name="EURONEWS RU" tvg-logo="" group-title="english",EURONEWS RU
-http://shqiptv.online:8080/liv3cid90a49fe9a03af459/fXz6WrqDH/70977
-#EXTINF:-1 tvg-name="Cosmote | Euronews Greek" tvg-logo="" group-title="english",Cosmote | Euronews Greek
-http://shqiptv.online:8080/liv3cid90a49fe9a03af459/fXz6WrqDH/112721
-#EXTINF:-1 tvg-name="Cyta | EURONEWS GREECE" tvg-logo="" group-title="english",Cyta | EURONEWS GREECE
-http://shqiptv.online:8080/liv3cid90a49fe9a03af459/fXz6WrqDH/112649
-#EXTINF:-1 tvg-name="UA: EURONEWS ENGLISH" tvg-logo="" group-title="english",UA: EURONEWS ENGLISH
-http://31.43.191.125:8080/VIP019571742829342372/2b1fd1919d22/157714
-#EXTINF:-1 tvg-name="TRT WORLD" tvg-logo="https://www.tvlogolar.xyz/europa/turkey/trtworld.png" group-title="english",TRT WORLD
+#EXTINF:-1 tvg-name="UK: VIP TRT WORLD" tvg-logo="https://docdog.top/logo/countries/uk/trtworld.png" group-title="english",UK: VIP TRT WORLD
 http://31.43.191.125:8080/VIP019571742829342372/2b1fd1919d22/1934
 #EXTINF:-1 tvg-name="Discovery Channel SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2he_V5EXXTHItP1KU4wxitqgJH_SHy6yBRNYEx-AXwg&s=10" group-title="english",Discovery Channel SD
 http://cinemagold.org:80/live/12MPremiumSep29/8Vkwukoebc/53458.m3u8
-#EXTINF:-1 tvg-name="EX-YU: DISCOVERY CHANNEL" tvg-logo="https://docdog.top/logo/countries/exyu/discoverychannel.png" group-title="english",EX-YU: DISCOVERY CHANNEL
-http://ctn34.xyz:2095/bbbr6109/bb00yy2611/101548
 #EXTINF:-1 tvg-name="US: Discovery Channel West" tvg-logo="" group-title="english",US: Discovery Channel West
 http://ctn34.xyz:2095/bbbr6109/bb00yy2611/81775
 #EXTINF:-1 tvg-name="US: Discovery Channel East" tvg-logo="" group-title="english",US: Discovery Channel East
 http://ctn34.xyz:2095/bbbr6109/bb00yy2611/127983
 #EXTINF:-1 tvg-name="USA: Discovery Channel USA" tvg-logo="http://mundo2.pro:80/images/a6c118590d6a858d1f40ff2c60426697.png" group-title="english",USA: Discovery Channel USA
 http://cinemagold.org:80/live/12MPremiumSep29/8Vkwukoebc/399139.m3u8
-#EXTINF:-1 tvg-name="Discovery Channel (mk)" tvg-logo="" group-title="english",Discovery Channel (mk)
-http://shqiptv.online:8080/liv3cid90a49fe9a03af459/fXz6WrqDH/99118
-#EXTINF:-1 tvg-name="DISCOVERY CHANNEL RU" tvg-logo="" group-title="english",DISCOVERY CHANNEL RU
-http://shqiptv.online:8080/liv3cid90a49fe9a03af459/fXz6WrqDH/70971
-#EXTINF:-1 tvg-name="Cosmote | Discovery Channel" tvg-logo="" group-title="english",Cosmote | Discovery Channel
-http://shqiptv.online:8080/liv3cid90a49fe9a03af459/fXz6WrqDH/112714
-#EXTINF:-1 tvg-name="Discovery Channel [VF]" tvg-logo="" group-title="english",Discovery Channel [VF]
-http://mk-liveportal.com:5909/GoldSx/fXJem3k3UfCs/831
-#EXTINF:-1 tvg-name="DISCOVERY CHANNEL HD TR" tvg-logo="" group-title="english",DISCOVERY CHANNEL HD TR
-http://mk-liveportal.com:5909/GoldSx/fXJem3k3UfCs/2454
-#EXTINF:-1 tvg-name="IN: DISCOVERY CHANNEL HINDI" tvg-logo="https://docdog.top/logo/countries/india/countrypic.png" group-title="english",IN: DISCOVERY CHANNEL HINDI
-http://31.43.191.125:8080/VIP019571742829342372/2b1fd1919d22/7149
 #EXTINF:-1 tvg-name="NATIONAL GEOGRAPHIC | 4k" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhr-_qkw-1COwq8e9hlWZb5JLS-UJ7BVb8DQ&usqp=CAU" group-title="english",NATIONAL GEOGRAPHIC | 4k
 http://cinemagold.org:80/live/12MPremiumSep29/8Vkwukoebc/111751.m3u8
-#EXTINF:-1 tvg-name="EX-YU: NATIONAL GEOGRAPHIC HD" tvg-logo="" group-title="english",EX-YU: NATIONAL GEOGRAPHIC HD
-http://ctn34.xyz:2095/bbbr6109/bb00yy2611/79864
 #EXTINF:-1 tvg-name="US: National Geographic Wild" tvg-logo="" group-title="english",US: National Geographic Wild
 http://ctn34.xyz:2095/bbbr6109/bb00yy2611/132256
-#EXTINF:-1 tvg-name="NATIONAL GEOGRAPHIC RAW" tvg-logo="https://www.tvlogolar.xyz/logo/germany/NATGEO.png" group-title="english",NATIONAL GEOGRAPHIC RAW
-http://lefanten.com:8080/cjEyUzA2b3NPVUgwQm0wdCsxMldacE40Y1VQbnkvQ1M4NU5CaXo3RWlPRXhCUjIreGY5NW5kV1VnNjJIQ1hHcg
-#EXTINF:-1 tvg-name="National Geographic (mk)" tvg-logo="" group-title="english",National Geographic (mk)
-http://shqiptv.online:8080/liv3cid90a49fe9a03af459/fXz6WrqDH/99117
-#EXTINF:-1 tvg-name="EX-YU: National Geographic fHD(HR)" tvg-logo="" group-title="english",EX-YU: National Geographic fHD(HR)
-http://shqiptv.online:8080/liv3cid90a49fe9a03af459/fXz6WrqDH/22058
-#EXTINF:-1 tvg-name="NATIONAL GEOGRAPHIC RU" tvg-logo="" group-title="english",NATIONAL GEOGRAPHIC RU
-http://shqiptv.online:8080/liv3cid90a49fe9a03af459/fXz6WrqDH/71022
-#EXTINF:-1 tvg-name="Cosmote | National Geographic Wild" tvg-logo="" group-title="english",Cosmote | National Geographic Wild
-http://shqiptv.online:8080/liv3cid90a49fe9a03af459/fXz6WrqDH/112748
 #EXTINF:-1 tvg-name="USA: NAT GEO WILD HD" tvg-logo="http://mundo2.pro:80/images/2d0ec700bad3020bde54d4560c3addb4.png" group-title="english",USA: NAT GEO WILD HD
 http://cinemagold.org:80/live/12MPremiumSep29/8Vkwukoebc/399233.m3u8
 #EXTINF:-1 tvg-name="DISCOVERY Science HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbAEa5E1Ee1JI3a42vhC2g0l_LJZ8go9akDRCPGZKRrg&s=10" group-title="english",DISCOVERY Science HD
 http://cinemagold.org:80/live/12MPremiumSep29/8Vkwukoebc/53464.m3u8
 #EXTINF:-1 tvg-name="⚜️⚜️ EUROSPORT EXTRA ⚜️⚜️" tvg-logo="" group-title="english",⚜️⚜️ EUROSPORT EXTRA ⚜️⚜️
 http://ctn34.xyz:2095/bbbr6109/bb00yy2611/94259
+#EXTINF:-1 tvg-name="UK: Sky Sports F1" tvg-logo="" group-title="english",UK: Sky Sports F1
+http://ctn34.xyz:2095/bbbr6109/bb00yy2611/71229
 #EXTINF:-1 tvg-name="FOREST DISCOVERY" tvg-logo="" group-title="english",FOREST DISCOVERY
 http://benstv.store:2095/grr4211/grr4822/165428
 #EXTINF:-1 tvg-name="AR: BE*IN SPORTS 1 HD ENGLISH" tvg-logo="" group-title="english",AR: BE*IN SPORTS 1 HD ENGLISH
@@ -106,7 +68,7 @@ http://ctn34.xyz:2095/bbbr6109/bb00yy2611/127614
 #EXTINF:-1 tvg-name="Eurosport 1" tvg-logo="" group-title="english",Eurosport 1
 http://ctn34.xyz:2095/bbbr6109/bb00yy2611/76888
 #EXTINF:-1 tvg-name="Eurosport 2" tvg-logo="" group-title="english",Eurosport 2
-http://ctn34.xyz:2095/bbbr6109/bb00yy2611/72622
+http://ctn34.xyz:2095/bbbr6109/bb00yy2611/69916
 #EXTINF:-1 tvg-name="Discovery 4K" tvg-logo="https://brandemia.org/sites/default/files/inline/images/discovery_logo_antes.jpg" group-title="english",Discovery 4K
 http://cinemagold.org:80/live/12MPremiumSep29/8Vkwukoebc/400100.m3u8
 #EXTINF:-1 tvg-name="ID Investigation Discovery" tvg-logo="" group-title="english",ID Investigation Discovery
@@ -223,7 +185,7 @@ http://ctn34.xyz:2095/bbbr6109/bb00yy2611/26160
 http://ctn34.xyz:2095/bbbr6109/bb00yy2611/95429
 #EXTINF:-1 tvg-name="UK: BBC 1 HD" tvg-logo="" group-title="english",UK: BBC 1 HD
 http://ctn34.xyz:2095/bbbr6109/bb00yy2611/152881
-#EXTINF:-1 tvg-name="LA: BBC WORLD NEWS" tvg-logo="https://docdog.top/logo/countries/latino/bbcworldnews.png" group-title="english",LA: BBC WORLD NEWS
+#EXTINF:-1 tvg-name="CA: BBC WORLD NEWS" tvg-logo="https://docdog.top/logo/countries/canada/bbcworldnews.png" group-title="english",CA: BBC WORLD NEWS
 http://ctn34.xyz:2095/bbbr6109/bb00yy2611/169555
 #EXTINF:-1 tvg-name="UK: BBC 3/CBBC HD" tvg-logo="" group-title="english",UK: BBC 3/CBBC HD
 http://ctn34.xyz:2095/bbbr6109/bb00yy2611/11159
@@ -335,8 +297,6 @@ http://ctn34.xyz:2095/bbbr6109/bb00yy2611/140696
 http://ctn34.xyz:2095/bbbr6109/bb00yy2611/77894
 #EXTINF:-1 tvg-name="UK: SKY SPORTS Cricket" tvg-logo="" group-title="english",UK: SKY SPORTS Cricket
 http://ctn34.xyz:2095/bbbr6109/bb00yy2611/139559
-#EXTINF:-1 tvg-name="UK: Sky Sports F1" tvg-logo="" group-title="english",UK: Sky Sports F1
-http://ctn34.xyz:2095/bbbr6109/bb00yy2611/71229
 #EXTINF:-1 tvg-name="UK: SKY SPORTS Golf" tvg-logo="" group-title="english",UK: SKY SPORTS Golf
 http://ctn34.xyz:2095/bbbr6109/bb00yy2611/140643
 #EXTINF:-1 tvg-name="UK: EUROSPORTS 1 FHD" tvg-logo="" group-title="english",UK: EUROSPORTS 1 FHD
@@ -369,20 +329,6 @@ http://ctn34.xyz:2095/bbbr6109/bb00yy2611/41687
 http://ctn34.xyz:2095/bbbr6109/bb00yy2611/70320
 #EXTINF:-1 tvg-name="UK: CLUBLAND HD" tvg-logo="" group-title="english",UK: CLUBLAND HD
 http://ctn34.xyz:2095/bbbr6109/bb00yy2611/88447
-#EXTINF:-1 tvg-name="EX-YU: ANIMAL PLANET" tvg-logo="https://docdog.top/logo/countries/exyu/animalplanet.png" group-title="english",EX-YU: ANIMAL PLANET
-http://ctn34.xyz:2095/bbbr6109/bb00yy2611/142175
-#EXTINF:-1 tvg-name="EX-YU: DISCOVERY ID HD" tvg-logo="" group-title="english",EX-YU: DISCOVERY ID HD
-http://ctn34.xyz:2095/bbbr6109/bb00yy2611/139600
-#EXTINF:-1 tvg-name="IN: SONY BBC EARTH" tvg-logo="https://docdog.top/logo/countries/india/sony-bbc-earth-in.png" group-title="english",IN: SONY BBC EARTH
-http://ctn34.xyz:2095/bbbr6109/bb00yy2611/206566
-#EXTINF:-1 tvg-name="Discovery Kids 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Discovery_kids_logo.png" group-title="english",Discovery Kids 4K
-http://cinemagold.org:80/live/12MPremiumSep29/8Vkwukoebc/400101.m3u8
-#EXTINF:-1 tvg-name="DISCOVERY ID HD" tvg-logo="https://www.tvlogolar.xyz/logo/Sirbistan/ID.DISCOVERY.png" group-title="english",DISCOVERY ID HD
-http://ctn34.xyz:2095/bbbr6109/bb00yy2611/206522
-#EXTINF:-1 tvg-name="BBC Earth" tvg-logo="" group-title="english",BBC Earth
-http://ctn34.xyz:2095/bbbr6109/bb00yy2611/164339
-#EXTINF:-1 tvg-name="USA: Investigation Discovery HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Investigation_Discovery_Logo_2018.svg/1200px-Investigation_Discovery_Logo_2018.svg.png" group-title="english",USA: Investigation Discovery HD
-http://cinemagold.org:80/live/12MPremiumSep29/8Vkwukoebc/399221.m3u8
 #EXTINF:-1 tvg-name="US: Showtime Family Zone" tvg-logo="" group-title="english",US: Showtime Family Zone
 http://ctn34.xyz:2095/bbbr6109/bb00yy2611/69333
 #EXTINF:-1 tvg-name="US | Showtime Next HD" tvg-logo="http://fanc.tmsimg.com/assets/s68342_ll_h3_aa.png" group-title="english",US | Showtime Next HD
@@ -479,6 +425,8 @@ http://ctn34.xyz:2095/bbbr6109/bb00yy2611/86120
 http://ctn34.xyz:2095/bbbr6109/bb00yy2611/81998
 #EXTINF:-1 tvg-name="US | History Channel" tvg-logo="http://dplatino.net:8080/images/3cd15f8f2940aff879df34df4e5c2cd1.png" group-title="english",US | History Channel
 http://cinemagold.org:80/live/12MPremiumSep29/8Vkwukoebc/307677.m3u8
+#EXTINF:-1 tvg-name="USA: Investigation Discovery HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Investigation_Discovery_Logo_2018.svg/1200px-Investigation_Discovery_Logo_2018.svg.png" group-title="english",USA: Investigation Discovery HD
+http://cinemagold.org:80/live/12MPremiumSep29/8Vkwukoebc/399221.m3u8
 #EXTINF:-1 tvg-name="CA: LIFETIME" tvg-logo="https://docdog.top/logo/countries/canada/lifetime.png" group-title="english",CA: LIFETIME
 http://ctn34.xyz:2095/bbbr6109/bb00yy2611/134364
 #EXTINF:-1 tvg-name="AU: Outdoor Channel" tvg-logo="" group-title="english",AU: Outdoor Channel
@@ -621,8 +569,6 @@ http://ctn34.xyz:2095/bbbr6109/bb00yy2611/157118
 http://ctn34.xyz:2095/bbbr6109/bb00yy2611/56436
 #EXTINF:-1 tvg-name="US: Ride TV" tvg-logo="" group-title="english",US: Ride TV
 http://ctn34.xyz:2095/bbbr6109/bb00yy2611/80244
-#EXTINF:-1 tvg-name="US: Epix Drive IN" tvg-logo="" group-title="english",US: Epix Drive IN
-http://ctn34.xyz:2095/bbbr6109/bb00yy2611/135433
 #EXTINF:-1 tvg-name="US: PixL" tvg-logo="" group-title="english",US: PixL
 http://ctn34.xyz:2095/bbbr6109/bb00yy2611/24342
 #EXTINF:-1 tvg-name="US: AHC" tvg-logo="" group-title="english",US: AHC
@@ -833,24 +779,6 @@ http://cinemagold.org:80/live/12MPremiumSep29/8Vkwukoebc/399199.m3u8
 http://ctn34.xyz:2095/bbbr6109/bb00yy2611/12316
 #EXTINF:-1 tvg-name="USA: BALLY SPORTS SUN⭐⭐" tvg-logo="https://i.picasion.com/pic92/2288e8398a7ca0ae80fbd76b38a46ecf.gif" group-title="english",USA: BALLY SPORTS SUN⭐⭐
 http://cinemagold.org:80/live/12MPremiumSep29/8Vkwukoebc/360877.m3u8
-#EXTINF:-1 tvg-name="NAT GEO WILD RAW" tvg-logo="https://www.tvlogolar.xyz/logo/Sirbistan/national_geo_wild.png" group-title="english",NAT GEO WILD RAW
-http://lefanten.com:8080/cjEyUzA2b3NPVUgwQm0wdCsxMldabk9wditHeXkvZ2FCRUxRNjliRjBFeGRkWU5nRTdzN0ZvKzkzOVFwd3VpLw
-#EXTINF:-1 tvg-name="DISCOVERY RAW" tvg-logo="https://www.tvlogolar.xyz/europa/germany/discovery-channel-de.png" group-title="english",DISCOVERY RAW
-http://lefanten.com:8080/cjEyUzA2b3NPVUgwQm0wdCsxMldabUI4Y254eXVjSkZUdDBqTWdQaDBDdFRSbHJSRVRpeit6bDRCTGtvY1JCSQ
-#EXTINF:-1 tvg-name="E$PN SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/77/Logo_espnbrasil.png" group-title="english",E$PN SD
-http://cinemagold.org:80/live/12MPremiumSep29/8Vkwukoebc/306498.m3u8
-#EXTINF:-1 tvg-name="USA : E$PN 2" tvg-logo="http://daleplaypro.com:8080/images/017f41a2ef4ff9d39f45f680b88cd23b.png" group-title="english",USA : E$PN 2
-http://cinemagold.org:80/live/12MPremiumSep29/8Vkwukoebc/20636.m3u8
-#EXTINF:-1 tvg-name="E$PN 3 SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png" group-title="english",E$PN 3 SD
-http://cinemagold.org:80/live/12MPremiumSep29/8Vkwukoebc/306490.m3u8
-#EXTINF:-1 tvg-name="E$PN 4 SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/2560px-ESPN_4_logo.svg.png" group-title="english",E$PN 4 SD
-http://cinemagold.org:80/live/12MPremiumSep29/8Vkwukoebc/306493.m3u8
-#EXTINF:-1 tvg-name="E$PN EXTRA 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/77/Logo_espnbrasil.png" group-title="english",E$PN EXTRA 4K
-http://cinemagold.org:80/live/12MPremiumSep29/8Vkwukoebc/306494.m3u8
-#EXTINF:-1 tvg-name="MX | ESPN 2 MX HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/2560px-ESPN2_logo.svg.png" group-title="english",MX | ESPN 2 MX HD
-http://cinemagold.org:80/live/12MPremiumSep29/8Vkwukoebc/437843.m3u8
-#EXTINF:-1 tvg-name="MX | ESPN 3 MX HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/ESPN_3D_logo.svg/3840px-ESPN_3D_logo.svg.png" group-title="english",MX | ESPN 3 MX HD
-http://cinemagold.org:80/live/12MPremiumSep29/8Vkwukoebc/566646.m3u8
 #EXTINF:-1 tvg-name="ESPN HD OP 2" tvg-logo="http://mundo2.pro:80/images/db74988ae31d459907f62c43dcc987eb.jpg" group-title="english",ESPN HD OP 2
 http://cinemagold.org:80/live/12MPremiumSep29/8Vkwukoebc/472221.m3u8
 #EXTINF:-1 tvg-name="ESPN 3 HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKEF6ZBpdGrphpxWN411VHj3RZ70HYSO0p4VNZo3UOxA&s=10" group-title="english",ESPN 3 HD
@@ -953,6 +881,10 @@ http://cinemagold.org:80/live/12MPremiumSep29/8Vkwukoebc/454968.m3u8
 http://cinemagold.org:80/live/12MPremiumSep29/8Vkwukoebc/454969.m3u8
 #EXTINF:-1 tvg-name="USA | TM 47 NEWYORK. 02" tvg-logo="https://i.postimg.cc/90Jv9THD/TELEMUNDO-NY.png" group-title="english",USA | TM 47 NEWYORK. 02
 http://cinemagold.org:80/live/12MPremiumSep29/8Vkwukoebc/454970.m3u8
+#EXTINF:-1 tvg-name="⭐USA | TM Orlando OP2⭐" tvg-logo="https://i.postimg.cc/02F05fzb/TELEMUNDO-ORLANDO.png" group-title="english",⭐USA | TM Orlando OP2⭐
+http://cinemagold.org:80/live/12MPremiumSep29/8Vkwukoebc/454972.m3u8
+#EXTINF:-1 tvg-name="⭐USA | TM | CHICAGO | HD⭐" tvg-logo="https://i.postimg.cc/vHxypqrT/TELEMUNDO-CHICAGO.png" group-title="english",⭐USA | TM | CHICAGO | HD⭐
+http://cinemagold.org:80/live/12MPremiumSep29/8Vkwukoebc/454974.m3u8
 #EXTINF:-1 tvg-name="USA: UNIMAS NEW YORK HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_UniM%C3%A1s.svg/1200px-Logo_UniM%C3%A1s.svg.png" group-title="english",USA: UNIMAS NEW YORK HD
 http://cinemagold.org:80/live/12MPremiumSep29/8Vkwukoebc/346673.m3u8
 #EXTINF:-1 tvg-name="USA: UNIVISION CHICAGO FHD" tvg-logo="http://mundo2.vip:80/images/59f918b4617d1d9d44be37b127297672.png" group-title="english",USA: UNIVISION CHICAGO FHD
@@ -1019,6 +951,8 @@ http://cinemagold.org:80/live/12MPremiumSep29/8Vkwukoebc/361022.m3u8
 http://cinemagold.org:80/live/12MPremiumSep29/8Vkwukoebc/361023.m3u8
 #EXTINF:-1 tvg-name="Discovery H&H 4K" tvg-logo="https://pbs.twimg.com/profile_images/3639003358/23e52515625283e900f33d5545c603bd_400x400.jpeg" group-title="english",Discovery H&H 4K
 http://cinemagold.org:80/live/12MPremiumSep29/8Vkwukoebc/400099.m3u8
+#EXTINF:-1 tvg-name="Discovery Kids 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Discovery_kids_logo.png" group-title="english",Discovery Kids 4K
+http://cinemagold.org:80/live/12MPremiumSep29/8Vkwukoebc/400101.m3u8
 #EXTINF:-1 tvg-name="Nat Geo 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Nat_Geo_HD.png" group-title="english",Nat Geo 4K
 http://cinemagold.org:80/live/12MPremiumSep29/8Vkwukoebc/400153.m3u8
 #EXTINF:-1 tvg-name="24/7 | Action Movies (ENG)" tvg-logo="http://mundo2.vip:8080/images/c0d54ec651ce52076790641f5e909ee9.png" group-title="english",24/7 | Action Movies (ENG)
@@ -2357,6 +2291,8 @@ http://cinemagold.org:80/live/12MPremiumSep29/8Vkwukoebc/399457.m3u8
 http://cinemagold.org:80/live/12MPremiumSep29/8Vkwukoebc/227474.m3u8
 #EXTINF:-1 tvg-name="USA: F0X DEPORTES" tvg-logo="http://dplatino.net:8080/images/a17f39c72ff2944f97d7706828c008b3.png" group-title="english",USA: F0X DEPORTES
 http://cinemagold.org:80/live/12MPremiumSep29/8Vkwukoebc/111540.m3u8
+#EXTINF:-1 tvg-name="USA : E$PN 2" tvg-logo="http://daleplaypro.com:8080/images/017f41a2ef4ff9d39f45f680b88cd23b.png" group-title="english",USA : E$PN 2
+http://cinemagold.org:80/live/12MPremiumSep29/8Vkwukoebc/20636.m3u8
 #EXTINF:-1 tvg-name="ᴜsᴀ Spᴏʀᴛs HD | SPORTS ESPN U HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/SEC_Network_%282024%29.svg/1200px-SEC_Network_%282024%29.svg.png" group-title="english",ᴜsᴀ Spᴏʀᴛs HD | SPORTS ESPN U HD
 http://cinemagold.org:80/live/12MPremiumSep29/8Vkwukoebc/399001.m3u8
 #EXTINF:-1 tvg-name="ᴜsᴀ Spᴏʀᴛs HD | ESPN USA" tvg-logo="http://mundo2.pro:80/images/6c606747a87d50e5dfcd8b2a5a927115.png" group-title="english",ᴜsᴀ Spᴏʀᴛs HD | ESPN USA
@@ -2433,8 +2369,6 @@ http://shqiptv.online:8080/liv3cid90a49fe9a03af459/fXz6WrqDH/101741
 http://shqiptv.online:8080/liv3cid90a49fe9a03af459/fXz6WrqDH/101740
 #EXTINF:-1 tvg-name="CA: OLN" tvg-logo="https://docdog.top/logo/countries/canada/oln.png" group-title="english",CA: OLN
 http://31.43.191.125:8080/VIP019571742829342372/2b1fd1919d22/5479
-#EXTINF:-1 tvg-name="CA: MOI & CIE (FR)" tvg-logo="" group-title="english",CA: MOI & CIE (FR)
-http://shqiptv.online:8080/liv3cid90a49fe9a03af459/fXz6WrqDH/101738
 #EXTINF:-1 tvg-name="CA: Miracle Channel" tvg-logo="" group-title="english",CA: Miracle Channel
 http://shqiptv.online:8080/liv3cid90a49fe9a03af459/fXz6WrqDH/101737
 #EXTINF:-1 tvg-name="CA: Game+" tvg-logo="" group-title="english",CA: Game+
@@ -2447,10 +2381,6 @@ http://shqiptv.online:8080/liv3cid90a49fe9a03af459/fXz6WrqDH/101734
 http://shqiptv.online:8080/liv3cid90a49fe9a03af459/fXz6WrqDH/101732
 #EXTINF:-1 tvg-name="CA: Citytv Montreal" tvg-logo="" group-title="english",CA: Citytv Montreal
 http://shqiptv.online:8080/liv3cid90a49fe9a03af459/fXz6WrqDH/101731
-#EXTINF:-1 tvg-name="CA: Casa (FR)" tvg-logo="" group-title="english",CA: Casa (FR)
-http://shqiptv.online:8080/liv3cid90a49fe9a03af459/fXz6WrqDH/101730
-#EXTINF:-1 tvg-name="CA: Canal Vie (FR)" tvg-logo="" group-title="english",CA: Canal Vie (FR)
-http://shqiptv.online:8080/liv3cid90a49fe9a03af459/fXz6WrqDH/101729
 #EXTINF:-1 tvg-name="CA: APTN W" tvg-logo="" group-title="english",CA: APTN W
 http://shqiptv.online:8080/liv3cid90a49fe9a03af459/fXz6WrqDH/101728
 #EXTINF:-1 tvg-name="CA: 3ABN Canada" tvg-logo="" group-title="english",CA: 3ABN Canada
@@ -2475,10 +2405,6 @@ http://31.43.191.125:8080/VIP019571742829342372/2b1fd1919d22/5437
 http://31.43.191.125:8080/VIP019571742829342372/2b1fd1919d22/5436
 #EXTINF:-1 tvg-name="CA: Cinepop" tvg-logo="" group-title="english",CA: Cinepop
 http://shqiptv.online:8080/liv3cid90a49fe9a03af459/fXz6WrqDH/101715
-#EXTINF:-1 tvg-name="CA: ICi Vancouver (FR)" tvg-logo="" group-title="english",CA: ICi Vancouver (FR)
-http://shqiptv.online:8080/liv3cid90a49fe9a03af459/fXz6WrqDH/101714
-#EXTINF:-1 tvg-name="CA: Ici RDI (FR)" tvg-logo="" group-title="english",CA: Ici RDI (FR)
-http://shqiptv.online:8080/liv3cid90a49fe9a03af459/fXz6WrqDH/101713
 #EXTINF:-1 tvg-name="CA: Global TV Saskatoon" tvg-logo="" group-title="english",CA: Global TV Saskatoon
 http://shqiptv.online:8080/liv3cid90a49fe9a03af459/fXz6WrqDH/101712
 #EXTINF:-1 tvg-name="CA: Global TV Regina" tvg-logo="" group-title="english",CA: Global TV Regina
@@ -2535,8 +2461,6 @@ http://shqiptv.online:8080/liv3cid90a49fe9a03af459/fXz6WrqDH/101677
 http://shqiptv.online:8080/liv3cid90a49fe9a03af459/fXz6WrqDH/101676
 #EXTINF:-1 tvg-name="CA: FAMILY JR" tvg-logo="https://docdog.top/logo/countries/canada/familyjr.png" group-title="english",CA: FAMILY JR
 http://31.43.191.125:8080/VIP019571742829342372/2b1fd1919d22/5454
-#EXTINF:-1 tvg-name="CA: Disney Junior (FR)" tvg-logo="" group-title="english",CA: Disney Junior (FR)
-http://shqiptv.online:8080/liv3cid90a49fe9a03af459/fXz6WrqDH/101673
 #EXTINF:-1 tvg-name="CA: RDS" tvg-logo="https://docdog.top/logo/countries/canada/rds.png" group-title="english",CA: RDS
 http://31.43.191.125:8080/VIP019571742829342372/2b1fd1919d22/5486
 #EXTINF:-1 tvg-name="CA:TVA Sports 2" tvg-logo="" group-title="english",CA:TVA Sports 2
@@ -2613,8 +2537,6 @@ http://31.43.191.125:8080/VIP019571742829342372/2b1fd1919d22/5446
 http://31.43.191.125:8080/VIP019571742829342372/2b1fd1919d22/5435
 #EXTINF:-1 tvg-name="CA: CBC NEWS NETWORK FHD" tvg-logo="" group-title="english",CA: CBC NEWS NETWORK FHD
 http://shqiptv.online:8080/liv3cid90a49fe9a03af459/fXz6WrqDH/100700
-#EXTINF:-1 tvg-name="CA: CANAL SAVOIR (FR)" tvg-logo="" group-title="english",CA: CANAL SAVOIR (FR)
-http://shqiptv.online:8080/liv3cid90a49fe9a03af459/fXz6WrqDH/100699
 #EXTINF:-1 tvg-name="CA: ABC SPARK" tvg-logo="https://docdog.top/logo/countries/canada/abcspark.png" group-title="english",CA: ABC SPARK
 http://31.43.191.125:8080/VIP019571742829342372/2b1fd1919d22/5401
 #EXTINF:-1 tvg-name="CA: CHCH" tvg-logo="https://docdog.top/logo/countries/canada/chch.png" group-title="english",CA: CHCH
@@ -2657,8 +2579,6 @@ http://31.43.191.125:8080/VIP019571742829342372/2b1fd1919d22/5517
 http://shqiptv.online:8080/liv3cid90a49fe9a03af459/fXz6WrqDH/100659
 #EXTINF:-1 tvg-name="CA: TREEHOUSE" tvg-logo="https://docdog.top/logo/countries/canada/treehouse.png" group-title="english",CA: TREEHOUSE
 http://31.43.191.125:8080/VIP019571742829342372/2b1fd1919d22/5507
-#EXTINF:-1 tvg-name="CA: TRACE NAIJA (FR)" tvg-logo="" group-title="english",CA: TRACE NAIJA (FR)
-http://shqiptv.online:8080/liv3cid90a49fe9a03af459/fXz6WrqDH/100657
 #EXTINF:-1 tvg-name="CA: VIP SUPER CHANNEL VAULT" tvg-logo="https://docdog.top/logo/countries/indonesia/SUPER CHANNEL VAULT.jpeg" group-title="english",CA: VIP SUPER CHANNEL VAULT
 http://31.43.191.125:8080/VIP019571742829342372/2b1fd1919d22/34359
 #EXTINF:-1 tvg-name="CA: SUPER CHANNEL HEART & HOME FHD" tvg-logo="" group-title="english",CA: SUPER CHANNEL HEART & HOME FHD
@@ -2813,6 +2733,8 @@ http://shqiptv.online:8080/liv3cid90a49fe9a03af459/fXz6WrqDH/100217
 http://31.43.191.125:8080/VIP019571742829342372/2b1fd1919d22/5407
 #EXTINF:-1 tvg-name="CA | BBC First HD" tvg-logo="" group-title="english",CA | BBC First HD
 http://shqiptv.online:8080/liv3cid90a49fe9a03af459/fXz6WrqDH/100212
+#EXTINF:-1 tvg-name="BBC Earth" tvg-logo="" group-title="english",BBC Earth
+http://mk-liveportal.com:5909/GoldSx/fXJem3k3UfCs/2453
 #EXTINF:-1 tvg-name="CA | APTN HD" tvg-logo="" group-title="english",CA | APTN HD
 http://shqiptv.online:8080/liv3cid90a49fe9a03af459/fXz6WrqDH/100209
 #EXTINF:-1 tvg-name="CA | ABC West HD" tvg-logo="" group-title="english",CA | ABC West HD
@@ -2827,10 +2749,6 @@ http://shqiptv.online:8080/liv3cid90a49fe9a03af459/fXz6WrqDH/85589
 http://shqiptv.online:8080/liv3cid90a49fe9a03af459/fXz6WrqDH/85585
 #EXTINF:-1 tvg-name="CA: CBC TORONTO" tvg-logo="https://docdog.top/logo/countries/canada/cbctoronto.png" group-title="english",CA: CBC TORONTO
 http://31.43.191.125:8080/VIP019571742829342372/2b1fd1919d22/5418
-#EXTINF:-1 tvg-name="CA: C-PAC (FR)" tvg-logo="" group-title="english",CA: C-PAC (FR)
-http://shqiptv.online:8080/liv3cid90a49fe9a03af459/fXz6WrqDH/85543
-#EXTINF:-1 tvg-name="CA: LCN (FR)" tvg-logo="" group-title="english",CA: LCN (FR)
-http://shqiptv.online:8080/liv3cid90a49fe9a03af459/fXz6WrqDH/85541
 #EXTINF:-1 tvg-name="CA: PBS HD" tvg-logo="" group-title="english",CA: PBS HD
 http://shqiptv.online:8080/liv3cid90a49fe9a03af459/fXz6WrqDH/85535
 #EXTINF:-1 tvg-name="CA: OMNI 1" tvg-logo="https://docdog.top/logo/countries/canada/omni1.png" group-title="english",CA: OMNI 1
@@ -2907,18 +2825,6 @@ http://31.43.191.125:8080/VIP019571742829342372/2b1fd1919d22/5490
 http://31.43.191.125:8080/VIP019571742829342372/2b1fd1919d22/5489
 #EXTINF:-1 tvg-name="CA: Family" tvg-logo="" group-title="english",CA: Family
 http://shqiptv.online:8080/liv3cid90a49fe9a03af459/fXz6WrqDH/45236
-#EXTINF:-1 tvg-name="Animal Planet (mk)" tvg-logo="" group-title="english",Animal Planet (mk)
-http://shqiptv.online:8080/liv3cid90a49fe9a03af459/fXz6WrqDH/99116
-#EXTINF:-1 tvg-name="EX-YU: BBC EARTH" tvg-logo="https://docdog.top/logo/countries/exyu/bbcearth.png" group-title="english",EX-YU: BBC EARTH
-http://31.43.191.125:8080/VIP019571742829342372/2b1fd1919d22/3425
-#EXTINF:-1 tvg-name="EX-YU: DISCOVERY SCIENCE" tvg-logo="https://docdog.top/logo/countries/exyu/discoveryscience.png" group-title="english",EX-YU: DISCOVERY SCIENCE
-http://31.43.191.125:8080/VIP019571742829342372/2b1fd1919d22/3443
-#EXTINF:-1 tvg-name="EX-YU: eurosport 1" tvg-logo="https://docdog.top/logo/countries/exyu/eurosport1.png" group-title="english",EX-YU: eurosport 1
-http://shqiptv.online:8080/liv3cid90a49fe9a03af459/fXz6WrqDH/2948
-#EXTINF:-1 tvg-name="EX-YU: eurosport 2" tvg-logo="https://docdog.top/logo/countries/exyu/eurosport2.png" group-title="english",EX-YU: eurosport 2
-http://shqiptv.online:8080/liv3cid90a49fe9a03af459/fXz6WrqDH/2949
-#EXTINF:-1 tvg-name="EX-YU: NAT GEO WILD" tvg-logo="https://docdog.top/logo/countries/exyu/natgeowild.png" group-title="english",EX-YU: NAT GEO WILD
-http://31.43.191.125:8080/VIP019571742829342372/2b1fd1919d22/3504
 #EXTINF:-1 tvg-name="UK: TNT SPORTS 10" tvg-logo="" group-title="english",UK: TNT SPORTS 10
 http://shqiptv.online:8080/liv3cid90a49fe9a03af459/fXz6WrqDH/88650
 #EXTINF:-1 tvg-name="UK: TNT SPORTS 9 HD" tvg-logo="" group-title="english",UK: TNT SPORTS 9 HD
@@ -3017,8 +2923,8 @@ http://shqiptv.online:8080/liv3cid90a49fe9a03af459/fXz6WrqDH/22823
 http://shqiptv.online:8080/liv3cid90a49fe9a03af459/fXz6WrqDH/37064
 #EXTINF:-1 tvg-name="UK: Eman TV fHD" tvg-logo="" group-title="english",UK: Eman TV fHD
 http://shqiptv.online:8080/liv3cid90a49fe9a03af459/fXz6WrqDH/91754
-#EXTINF:-1 tvg-name="PK: PEACE TV ENGLISH" tvg-logo="https://docdog.top/logo/countries/pakistan/PEACETVENGLISH.jpg" group-title="english",PK: PEACE TV ENGLISH
-http://31.43.191.125:8080/VIP019571742829342372/2b1fd1919d22/7598
+#EXTINF:-1 tvg-name="UK: Peace TV English" tvg-logo="" group-title="english",UK: Peace TV English
+http://shqiptv.online:8080/liv3cid90a49fe9a03af459/fXz6WrqDH/29625
 #EXTINF:-1 tvg-name="UK: Racing UK (Full HD)" tvg-logo="" group-title="english",UK: Racing UK (Full HD)
 http://shqiptv.online:8080/liv3cid90a49fe9a03af459/fXz6WrqDH/9793
 #EXTINF:-1 tvg-name="UK: 5 ACTION TV" tvg-logo="" group-title="english",UK: 5 ACTION TV
@@ -3053,22 +2959,6 @@ http://shqiptv.online:8080/liv3cid90a49fe9a03af459/fXz6WrqDH/60499
 http://shqiptv.online:8080/liv3cid90a49fe9a03af459/fXz6WrqDH/60491
 #EXTINF:-1 tvg-name="UK: Clubbing TV" tvg-logo="" group-title="english",UK: Clubbing TV
 http://shqiptv.online:8080/liv3cid90a49fe9a03af459/fXz6WrqDH/60487
-#EXTINF:-1 tvg-name="SE: DISCOVERY + 2" tvg-logo="" group-title="english",SE: DISCOVERY + 2
-http://shqiptv.online:8080/liv3cid90a49fe9a03af459/fXz6WrqDH/78697
-#EXTINF:-1 tvg-name="SE: DISCOVERY+ 3" tvg-logo="" group-title="english",SE: DISCOVERY+ 3
-http://shqiptv.online:8080/liv3cid90a49fe9a03af459/fXz6WrqDH/78698
-#EXTINF:-1 tvg-name="SE: DISCOVERY + 4" tvg-logo="" group-title="english",SE: DISCOVERY + 4
-http://shqiptv.online:8080/liv3cid90a49fe9a03af459/fXz6WrqDH/78699
-#EXTINF:-1 tvg-name="SE: DISCOVERY + 5" tvg-logo="" group-title="english",SE: DISCOVERY + 5
-http://shqiptv.online:8080/liv3cid90a49fe9a03af459/fXz6WrqDH/78700
-#EXTINF:-1 tvg-name="SE: DISCOVERY + 6" tvg-logo="" group-title="english",SE: DISCOVERY + 6
-http://shqiptv.online:8080/liv3cid90a49fe9a03af459/fXz6WrqDH/78701
-#EXTINF:-1 tvg-name="SE: DISCOVERY + 7" tvg-logo="" group-title="english",SE: DISCOVERY + 7
-http://shqiptv.online:8080/liv3cid90a49fe9a03af459/fXz6WrqDH/78702
-#EXTINF:-1 tvg-name="SE: EuroSport 1 SE" tvg-logo="" group-title="english",SE: EuroSport 1 SE
-http://shqiptv.online:8080/liv3cid90a49fe9a03af459/fXz6WrqDH/9806
-#EXTINF:-1 tvg-name="^CH: Animal Planet FHD" tvg-logo="" group-title="english",^CH: Animal Planet FHD
-http://shqiptv.online:8080/liv3cid90a49fe9a03af459/fXz6WrqDH/64451
 #EXTINF:-1 tvg-name="USA: FloRacing" tvg-logo="" group-title="english",USA: FloRacing
 http://shqiptv.online:8080/liv3cid90a49fe9a03af459/fXz6WrqDH/102964
 #EXTINF:-1 tvg-name="USA: ABC 11 DURHAM/RALEIGH (WTVD)" tvg-logo="" group-title="english",USA: ABC 11 DURHAM/RALEIGH (WTVD)
@@ -3137,56 +3027,184 @@ http://shqiptv.online:8080/liv3cid90a49fe9a03af459/fXz6WrqDH/100634
 http://shqiptv.online:8080/liv3cid90a49fe9a03af459/fXz6WrqDH/100632
 #EXTINF:-1 tvg-name="USA: BET GOSPEL" tvg-logo="" group-title="english",USA: BET GOSPEL
 http://shqiptv.online:8080/liv3cid90a49fe9a03af459/fXz6WrqDH/100631
-#EXTINF:-1 tvg-name="*IT: Eagle Cinema 007 ꜰʜᴅ HEVC H265 (dual audio ITA/ENG)" tvg-logo="" group-title="english",*IT: Eagle Cinema 007 ꜰʜᴅ HEVC H265 (dual audio ITA/ENG)
-http://shqiptv.online:8080/liv3cid90a49fe9a03af459/fXz6WrqDH/76037
-#EXTINF:-1 tvg-name="*IT: Eagle Dragon Ball Z Channel 4K (Audio-1.ITA-2.ENG)" tvg-logo="" group-title="english",*IT: Eagle Dragon Ball Z Channel 4K (Audio-1.ITA-2.ENG)
-http://shqiptv.online:8080/liv3cid90a49fe9a03af459/fXz6WrqDH/76042
-#EXTINF:-1 tvg-name="*IT: Eagle Nature Discovery 4K UHD (double audio)" tvg-logo="" group-title="english",*IT: Eagle Nature Discovery 4K UHD (double audio)
-http://shqiptv.online:8080/liv3cid90a49fe9a03af459/fXz6WrqDH/76044
-#EXTINF:-1 tvg-name="*IT: Discovery Dmax Sport WWE HD" tvg-logo="" group-title="english",*IT: Discovery Dmax Sport WWE HD
-http://shqiptv.online:8080/liv3cid90a49fe9a03af459/fXz6WrqDH/76198
-#EXTINF:-1 tvg-name="NAT GEO WILD RU" tvg-logo="" group-title="english",NAT GEO WILD RU
-http://shqiptv.online:8080/liv3cid90a49fe9a03af459/fXz6WrqDH/71031
-#EXTINF:-1 tvg-name="English Club FHD RU" tvg-logo="" group-title="english",English Club FHD RU
-http://shqiptv.online:8080/liv3cid90a49fe9a03af459/fXz6WrqDH/70982
-#EXTINF:-1 tvg-name="EUROSPORT HD RU" tvg-logo="" group-title="english",EUROSPORT HD RU
-http://shqiptv.online:8080/liv3cid90a49fe9a03af459/fXz6WrqDH/70981
-#EXTINF:-1 tvg-name="EUROSPORT 2 RU" tvg-logo="" group-title="english",EUROSPORT 2 RU
-http://shqiptv.online:8080/liv3cid90a49fe9a03af459/fXz6WrqDH/70980
-#EXTINF:-1 tvg-name="EUROSPORT 1 RU" tvg-logo="" group-title="english",EUROSPORT 1 RU
-http://shqiptv.online:8080/liv3cid90a49fe9a03af459/fXz6WrqDH/70979
-#EXTINF:-1 tvg-name="DISCOVERY SCIENCE HD RU" tvg-logo="" group-title="english",DISCOVERY SCIENCE HD RU
-http://shqiptv.online:8080/liv3cid90a49fe9a03af459/fXz6WrqDH/70973
-#EXTINF:-1 tvg-name="Discovery ID FHD RU" tvg-logo="" group-title="english",Discovery ID FHD RU
-http://shqiptv.online:8080/liv3cid90a49fe9a03af459/fXz6WrqDH/70972
-#EXTINF:-1 tvg-name="DISCOVERY ID XTRA RU" tvg-logo="" group-title="english",DISCOVERY ID XTRA RU
-http://shqiptv.online:8080/liv3cid90a49fe9a03af459/fXz6WrqDH/70966
-#EXTINF:-1 tvg-name="DISCOVERY ID RU RU" tvg-logo="" group-title="english",DISCOVERY ID RU RU
-http://shqiptv.online:8080/liv3cid90a49fe9a03af459/fXz6WrqDH/70965
-#EXTINF:-1 tvg-name="Animal Planet RU" tvg-logo="" group-title="english",Animal Planet RU
-http://shqiptv.online:8080/liv3cid90a49fe9a03af459/fXz6WrqDH/70957
-#EXTINF:-1 tvg-name="IN: Star Sports 1 HD English" tvg-logo="" group-title="english",IN: Star Sports 1 HD English
-http://shqiptv.online:8080/liv3cid90a49fe9a03af459/fXz6WrqDH/100000
-#EXTINF:-1 tvg-name="PK: Madani Channel English" tvg-logo="" group-title="english",PK: Madani Channel English
-http://shqiptv.online:8080/liv3cid90a49fe9a03af459/fXz6WrqDH/102318
-#EXTINF:-1 tvg-name="PK: DISCOVERY PAKISTAN" tvg-logo="" group-title="english",PK: DISCOVERY PAKISTAN
-http://shqiptv.online:8080/liv3cid90a49fe9a03af459/fXz6WrqDH/77368
+#EXTINF:-1 tvg-name="*USA: EMPIRE CINEMA 007 HD" tvg-logo="" group-title="english",*USA: EMPIRE CINEMA 007 HD
+http://shqiptv.online:8080/liv3cid90a49fe9a03af459/fXz6WrqDH/36376
+#EXTINF:-1 tvg-name="*USA: EMPIRE CINEMA 4K" tvg-logo="" group-title="english",*USA: EMPIRE CINEMA 4K
+http://shqiptv.online:8080/liv3cid90a49fe9a03af459/fXz6WrqDH/36397
+#EXTINF:-1 tvg-name="*USA: EMPIRE CINEMA PREMIERE FHD" tvg-logo="" group-title="english",*USA: EMPIRE CINEMA PREMIERE FHD
+http://shqiptv.online:8080/liv3cid90a49fe9a03af459/fXz6WrqDH/36382
+#EXTINF:-1 tvg-name="*USA: EMPIRE CINEMA ANIMATION FHD" tvg-logo="" group-title="english",*USA: EMPIRE CINEMA ANIMATION FHD
+http://shqiptv.online:8080/liv3cid90a49fe9a03af459/fXz6WrqDH/36381
+#EXTINF:-1 tvg-name="*USA: EMPIRE CINEMA COMEDY FHD" tvg-logo="" group-title="english",*USA: EMPIRE CINEMA COMEDY FHD
+http://shqiptv.online:8080/liv3cid90a49fe9a03af459/fXz6WrqDH/36387
+#EXTINF:-1 tvg-name="*USA: EMPIRE CINEMA FAMILY FHD" tvg-logo="" group-title="english",*USA: EMPIRE CINEMA FAMILY FHD
+http://shqiptv.online:8080/liv3cid90a49fe9a03af459/fXz6WrqDH/36395
+#EXTINF:-1 tvg-name="*USA: EMPIRE CINEMA FANTASY FHD" tvg-logo="" group-title="english",*USA: EMPIRE CINEMA FANTASY FHD
+http://shqiptv.online:8080/liv3cid90a49fe9a03af459/fXz6WrqDH/36385
+#EXTINF:-1 tvg-name="*USA: EMPIRE CINEMA ADVENTURE FHD" tvg-logo="" group-title="english",*USA: EMPIRE CINEMA ADVENTURE FHD
+http://shqiptv.online:8080/liv3cid90a49fe9a03af459/fXz6WrqDH/36384
+#EXTINF:-1 tvg-name="*USA: EMPIRE CINEMA ACTION FHD" tvg-logo="" group-title="english",*USA: EMPIRE CINEMA ACTION FHD
+http://shqiptv.online:8080/liv3cid90a49fe9a03af459/fXz6WrqDH/36383
+#EXTINF:-1 tvg-name="*USA: EMPIRE CINEMA HORROR FHD" tvg-logo="" group-title="english",*USA: EMPIRE CINEMA HORROR FHD
+http://shqiptv.online:8080/liv3cid90a49fe9a03af459/fXz6WrqDH/36393
+#EXTINF:-1 tvg-name="*USA: EMPIRE CINEMA DRAMA FHD" tvg-logo="" group-title="english",*USA: EMPIRE CINEMA DRAMA FHD
+http://shqiptv.online:8080/liv3cid90a49fe9a03af459/fXz6WrqDH/36392
+#EXTINF:-1 tvg-name="*USA: EMPIRE CINEMA ROMANCE FHD" tvg-logo="" group-title="english",*USA: EMPIRE CINEMA ROMANCE FHD
+http://shqiptv.online:8080/liv3cid90a49fe9a03af459/fXz6WrqDH/36391
+#EXTINF:-1 tvg-name="*USA: EMPIRE CINEMA HISTORY FHD" tvg-logo="" group-title="english",*USA: EMPIRE CINEMA HISTORY FHD
+http://shqiptv.online:8080/liv3cid90a49fe9a03af459/fXz6WrqDH/36390
+#EXTINF:-1 tvg-name="*USA: EMPIRE CINEMA THRILLER FHD" tvg-logo="" group-title="english",*USA: EMPIRE CINEMA THRILLER FHD
+http://shqiptv.online:8080/liv3cid90a49fe9a03af459/fXz6WrqDH/36389
+#EXTINF:-1 tvg-name="*USA: EMPIRE CINEMA BIOGRAPHY FHD" tvg-logo="" group-title="english",*USA: EMPIRE CINEMA BIOGRAPHY FHD
+http://shqiptv.online:8080/liv3cid90a49fe9a03af459/fXz6WrqDH/36394
+#EXTINF:-1 tvg-name="*USA: EMPIRE CINEMA COMICULT FHD" tvg-logo="" group-title="english",*USA: EMPIRE CINEMA COMICULT FHD
+http://shqiptv.online:8080/liv3cid90a49fe9a03af459/fXz6WrqDH/36388
+#EXTINF:-1 tvg-name="*USA: EMPIRE CINEMA SCI-FI FHD" tvg-logo="" group-title="english",*USA: EMPIRE CINEMA SCI-FI FHD
+http://shqiptv.online:8080/liv3cid90a49fe9a03af459/fXz6WrqDH/36386
+#EXTINF:-1 tvg-name="*USA: EMPIRE CINEMA THEATRE FHD" tvg-logo="" group-title="english",*USA: EMPIRE CINEMA THEATRE FHD
+http://shqiptv.online:8080/liv3cid90a49fe9a03af459/fXz6WrqDH/36380
+#EXTINF:-1 tvg-name="*USA: EMPIRE CINEMA MYTHOLOGY HD" tvg-logo="" group-title="english",*USA: EMPIRE CINEMA MYTHOLOGY HD
+http://shqiptv.online:8080/liv3cid90a49fe9a03af459/fXz6WrqDH/36379
+#EXTINF:-1 tvg-name="*USA: EMPIRE CINEMA WESTERN FHD" tvg-logo="" group-title="english",*USA: EMPIRE CINEMA WESTERN FHD
+http://shqiptv.online:8080/liv3cid90a49fe9a03af459/fXz6WrqDH/36377
+#EXTINF:-1 tvg-name="*USA: EMPIRE CINEMA RELIGION HD" tvg-logo="" group-title="english",*USA: EMPIRE CINEMA RELIGION HD
+http://shqiptv.online:8080/liv3cid90a49fe9a03af459/fXz6WrqDH/36378
+#EXTINF:-1 tvg-name="*UK: Sky Select Premiere Schedule 4K UHD" tvg-logo="" group-title="english",*UK: Sky Select Premiere Schedule 4K UHD
+http://shqiptv.online:8080/liv3cid90a49fe9a03af459/fXz6WrqDH/76253
+#EXTINF:-1 tvg-name="*UK: Sky Select Premiere 01 4K UHD (multiaudio)" tvg-logo="" group-title="english",*UK: Sky Select Premiere 01 4K UHD (multiaudio)
+http://shqiptv.online:8080/liv3cid90a49fe9a03af459/fXz6WrqDH/76252
+#EXTINF:-1 tvg-name="*UK: Sky Select Premiere 02 4K UHD (multiaudio)" tvg-logo="" group-title="english",*UK: Sky Select Premiere 02 4K UHD (multiaudio)
+http://shqiptv.online:8080/liv3cid90a49fe9a03af459/fXz6WrqDH/76251
+#EXTINF:-1 tvg-name="*UK: Sky Select Premiere 03 4K UHD (multiaudio)" tvg-logo="" group-title="english",*UK: Sky Select Premiere 03 4K UHD (multiaudio)
+http://shqiptv.online:8080/liv3cid90a49fe9a03af459/fXz6WrqDH/76250
+#EXTINF:-1 tvg-name="*UK: Sky Select Premiere 04 4K UHD (multiaudio)" tvg-logo="" group-title="english",*UK: Sky Select Premiere 04 4K UHD (multiaudio)
+http://shqiptv.online:8080/liv3cid90a49fe9a03af459/fXz6WrqDH/76249
+#EXTINF:-1 tvg-name="*UK: Sky Select Premiere 05 4K UHD (multiaudio)" tvg-logo="" group-title="english",*UK: Sky Select Premiere 05 4K UHD (multiaudio)
+http://shqiptv.online:8080/liv3cid90a49fe9a03af459/fXz6WrqDH/76248
+#EXTINF:-1 tvg-name="*UK: Sky Select Premiere 06 4K UHD (multiaudio)" tvg-logo="" group-title="english",*UK: Sky Select Premiere 06 4K UHD (multiaudio)
+http://shqiptv.online:8080/liv3cid90a49fe9a03af459/fXz6WrqDH/76247
+#EXTINF:-1 tvg-name="*UK: Sky Select Premiere 07 4K UHD (multiaudio)" tvg-logo="" group-title="english",*UK: Sky Select Premiere 07 4K UHD (multiaudio)
+http://shqiptv.online:8080/liv3cid90a49fe9a03af459/fXz6WrqDH/76246
+#EXTINF:-1 tvg-name="*UK: Sky Select Premiere 08 4K UHD (multiaudio)" tvg-logo="" group-title="english",*UK: Sky Select Premiere 08 4K UHD (multiaudio)
+http://shqiptv.online:8080/liv3cid90a49fe9a03af459/fXz6WrqDH/76245
+#EXTINF:-1 tvg-name="*UK: Sky Select Premiere 09 4K UHD (multiaudio)" tvg-logo="" group-title="english",*UK: Sky Select Premiere 09 4K UHD (multiaudio)
+http://shqiptv.online:8080/liv3cid90a49fe9a03af459/fXz6WrqDH/76244
+#EXTINF:-1 tvg-name="*UK: Sky Select Premiere 10 4K UHD (multiaudio)" tvg-logo="" group-title="english",*UK: Sky Select Premiere 10 4K UHD (multiaudio)
+http://shqiptv.online:8080/liv3cid90a49fe9a03af459/fXz6WrqDH/76243
+#EXTINF:-1 tvg-name="*UK: Sky Select Premiere 11 4K UHD (multiaudio)" tvg-logo="" group-title="english",*UK: Sky Select Premiere 11 4K UHD (multiaudio)
+http://shqiptv.online:8080/liv3cid90a49fe9a03af459/fXz6WrqDH/76242
+#EXTINF:-1 tvg-name="*UK: Sky Select Premiere 12 4K UHD (multiaudio)" tvg-logo="" group-title="english",*UK: Sky Select Premiere 12 4K UHD (multiaudio)
+http://shqiptv.online:8080/liv3cid90a49fe9a03af459/fXz6WrqDH/76241
+#EXTINF:-1 tvg-name="*UK: Sky Select Premiere 13 4K UHD (multiaudio)" tvg-logo="" group-title="english",*UK: Sky Select Premiere 13 4K UHD (multiaudio)
+http://shqiptv.online:8080/liv3cid90a49fe9a03af459/fXz6WrqDH/76240
+#EXTINF:-1 tvg-name="*UK: Sky Select Premiere 14 4K UHD (multiaudio)" tvg-logo="" group-title="english",*UK: Sky Select Premiere 14 4K UHD (multiaudio)
+http://shqiptv.online:8080/liv3cid90a49fe9a03af459/fXz6WrqDH/76239
+#EXTINF:-1 tvg-name="*UK: Sky Select Premiere 15 4K UHD (multiaudio)" tvg-logo="" group-title="english",*UK: Sky Select Premiere 15 4K UHD (multiaudio)
+http://shqiptv.online:8080/liv3cid90a49fe9a03af459/fXz6WrqDH/76238
+#EXTINF:-1 tvg-name="*UK: Sky Store Bollywood H265" tvg-logo="" group-title="english",*UK: Sky Store Bollywood H265
+http://shqiptv.online:8080/liv3cid90a49fe9a03af459/fXz6WrqDH/76272
+#EXTINF:-1 tvg-name="*UK: Sky Store Romance H265" tvg-logo="" group-title="english",*UK: Sky Store Romance H265
+http://shqiptv.online:8080/liv3cid90a49fe9a03af459/fXz6WrqDH/76273
+#EXTINF:-1 tvg-name="*UK: Sky Store Mythology H265" tvg-logo="" group-title="english",*UK: Sky Store Mythology H265
+http://shqiptv.online:8080/liv3cid90a49fe9a03af459/fXz6WrqDH/76274
+#EXTINF:-1 tvg-name="*UK: Sky Store History H265" tvg-logo="" group-title="english",*UK: Sky Store History H265
+http://shqiptv.online:8080/liv3cid90a49fe9a03af459/fXz6WrqDH/76275
+#EXTINF:-1 tvg-name="*UK: Sky Store Western H265" tvg-logo="" group-title="english",*UK: Sky Store Western H265
+http://shqiptv.online:8080/liv3cid90a49fe9a03af459/fXz6WrqDH/76276
+#EXTINF:-1 tvg-name="*UK: Sky Store Horror H265" tvg-logo="" group-title="english",*UK: Sky Store Horror H265
+http://shqiptv.online:8080/liv3cid90a49fe9a03af459/fXz6WrqDH/76277
+#EXTINF:-1 tvg-name="*UK: Sky Store Sci-Fi H265" tvg-logo="" group-title="english",*UK: Sky Store Sci-Fi H265
+http://shqiptv.online:8080/liv3cid90a49fe9a03af459/fXz6WrqDH/76278
+#EXTINF:-1 tvg-name="*UK: Sky Store Thriller H265" tvg-logo="" group-title="english",*UK: Sky Store Thriller H265
+http://shqiptv.online:8080/liv3cid90a49fe9a03af459/fXz6WrqDH/76279
+#EXTINF:-1 tvg-name="*UK: Sky Store Comicult H265" tvg-logo="" group-title="english",*UK: Sky Store Comicult H265
+http://shqiptv.online:8080/liv3cid90a49fe9a03af459/fXz6WrqDH/76280
+#EXTINF:-1 tvg-name="*UK: Sky Store Comedy H265" tvg-logo="" group-title="english",*UK: Sky Store Comedy H265
+http://shqiptv.online:8080/liv3cid90a49fe9a03af459/fXz6WrqDH/76281
+#EXTINF:-1 tvg-name="*UK: Sky Store Fantasy H265" tvg-logo="" group-title="english",*UK: Sky Store Fantasy H265
+http://shqiptv.online:8080/liv3cid90a49fe9a03af459/fXz6WrqDH/76282
+#EXTINF:-1 tvg-name="*UK: Sky Store Animation H265" tvg-logo="" group-title="english",*UK: Sky Store Animation H265
+http://shqiptv.online:8080/liv3cid90a49fe9a03af459/fXz6WrqDH/76283
+#EXTINF:-1 tvg-name="*UK: Sky Store Adventure H265" tvg-logo="" group-title="english",*UK: Sky Store Adventure H265
+http://shqiptv.online:8080/liv3cid90a49fe9a03af459/fXz6WrqDH/76284
+#EXTINF:-1 tvg-name="*UK: Sky Store Family H265" tvg-logo="" group-title="english",*UK: Sky Store Family H265
+http://shqiptv.online:8080/liv3cid90a49fe9a03af459/fXz6WrqDH/76285
+#EXTINF:-1 tvg-name="*UK: Sky Store Action H265" tvg-logo="" group-title="english",*UK: Sky Store Action H265
+http://shqiptv.online:8080/liv3cid90a49fe9a03af459/fXz6WrqDH/76286
+#EXTINF:-1 tvg-name="*UK: Sky Store 007 H265" tvg-logo="" group-title="english",*UK: Sky Store 007 H265
+http://shqiptv.online:8080/liv3cid90a49fe9a03af459/fXz6WrqDH/76287
+#EXTINF:-1 tvg-name="*UK: Sky Store Theatre (HDTS quality)" tvg-logo="" group-title="english",*UK: Sky Store Theatre (HDTS quality)
+http://shqiptv.online:8080/liv3cid90a49fe9a03af459/fXz6WrqDH/76288
+#EXTINF:-1 tvg-name="*UK: Sky Store PreOrder H265" tvg-logo="" group-title="english",*UK: Sky Store PreOrder H265
+http://shqiptv.online:8080/liv3cid90a49fe9a03af459/fXz6WrqDH/76289
+#EXTINF:-1 tvg-name="*UK: Sky Store PreOrder 4K UHD" tvg-logo="" group-title="english",*UK: Sky Store PreOrder 4K UHD
+http://shqiptv.online:8080/liv3cid90a49fe9a03af459/fXz6WrqDH/76290
+#EXTINF:-1 tvg-name="*UK: Sky Store Drama H265" tvg-logo="" group-title="english",*UK: Sky Store Drama H265
+http://shqiptv.online:8080/liv3cid90a49fe9a03af459/fXz6WrqDH/76292
+#EXTINF:-1 tvg-name="*UK: Sky Store Spaghetti Western H265" tvg-logo="" group-title="english",*UK: Sky Store Spaghetti Western H265
+http://shqiptv.online:8080/liv3cid90a49fe9a03af459/fXz6WrqDH/76293
+#EXTINF:-1 tvg-name="*UK: Sky Store Biography H265" tvg-logo="" group-title="english",*UK: Sky Store Biography H265
+http://shqiptv.online:8080/liv3cid90a49fe9a03af459/fXz6WrqDH/76294
+#EXTINF:-1 tvg-name="*UK: Sky Store Crimi H265" tvg-logo="" group-title="english",*UK: Sky Store Crimi H265
+http://shqiptv.online:8080/liv3cid90a49fe9a03af459/fXz6WrqDH/76295
+#EXTINF:-1 tvg-name="*USA: Game of Thrones Channel FHD" tvg-logo="" group-title="english",*USA: Game of Thrones Channel FHD
+http://shqiptv.online:8080/liv3cid90a49fe9a03af459/fXz6WrqDH/36467
+#EXTINF:-1 tvg-name="*USA: Jean Claude Van Damme Channel FHD" tvg-logo="" group-title="english",*USA: Jean Claude Van Damme Channel FHD
+http://shqiptv.online:8080/liv3cid90a49fe9a03af459/fXz6WrqDH/36445
+#EXTINF:-1 tvg-name="*USA: Kung Fu Panda Film Channel FHD" tvg-logo="" group-title="english",*USA: Kung Fu Panda Film Channel FHD
+http://shqiptv.online:8080/liv3cid90a49fe9a03af459/fXz6WrqDH/36450
+#EXTINF:-1 tvg-name="*USA: Kung Fu Panda Series Channel FHD" tvg-logo="" group-title="english",*USA: Kung Fu Panda Series Channel FHD
+http://shqiptv.online:8080/liv3cid90a49fe9a03af459/fXz6WrqDH/36451
+#EXTINF:-1 tvg-name="*USA: Masha and the Bear HD" tvg-logo="" group-title="english",*USA: Masha and the Bear HD
+http://shqiptv.online:8080/liv3cid90a49fe9a03af459/fXz6WrqDH/51660
+#EXTINF:-1 tvg-name="*USA: Paw Patrol 24h FHD" tvg-logo="" group-title="english",*USA: Paw Patrol 24h FHD
+http://shqiptv.online:8080/liv3cid90a49fe9a03af459/fXz6WrqDH/36398
+#EXTINF:-1 tvg-name="*USA: Peppa Pig HD" tvg-logo="" group-title="english",*USA: Peppa Pig HD
+http://shqiptv.online:8080/liv3cid90a49fe9a03af459/fXz6WrqDH/37276
+#EXTINF:-1 tvg-name="*USA: PJ Mask HD" tvg-logo="" group-title="english",*USA: PJ Mask HD
+http://shqiptv.online:8080/liv3cid90a49fe9a03af459/fXz6WrqDH/37277
+#EXTINF:-1 tvg-name="*USA: Starzplay Showcase HD" tvg-logo="" group-title="english",*USA: Starzplay Showcase HD
+http://shqiptv.online:8080/liv3cid90a49fe9a03af459/fXz6WrqDH/76175
+#EXTINF:-1 tvg-name="*USA: Starzplay 1 ꜰʜᴅ" tvg-logo="" group-title="english",*USA: Starzplay 1 ꜰʜᴅ
+http://shqiptv.online:8080/liv3cid90a49fe9a03af459/fXz6WrqDH/76176
+#EXTINF:-1 tvg-name="*USA: Starzplay 2 ꜰʜᴅ" tvg-logo="" group-title="english",*USA: Starzplay 2 ꜰʜᴅ
+http://shqiptv.online:8080/liv3cid90a49fe9a03af459/fXz6WrqDH/76177
+#EXTINF:-1 tvg-name="*USA: Starzplay 3 ꜰʜᴅ" tvg-logo="" group-title="english",*USA: Starzplay 3 ꜰʜᴅ
+http://shqiptv.online:8080/liv3cid90a49fe9a03af459/fXz6WrqDH/76178
+#EXTINF:-1 tvg-name="*USA: Starzplay 4 ꜰʜᴅ" tvg-logo="" group-title="english",*USA: Starzplay 4 ꜰʜᴅ
+http://shqiptv.online:8080/liv3cid90a49fe9a03af459/fXz6WrqDH/76179
+#EXTINF:-1 tvg-name="*USA: Starzplay 5 ꜰʜᴅ" tvg-logo="" group-title="english",*USA: Starzplay 5 ꜰʜᴅ
+http://shqiptv.online:8080/liv3cid90a49fe9a03af459/fXz6WrqDH/76180
+#EXTINF:-1 tvg-name="*USA: Starzplay 6 ꜰʜᴅ" tvg-logo="" group-title="english",*USA: Starzplay 6 ꜰʜᴅ
+http://shqiptv.online:8080/liv3cid90a49fe9a03af459/fXz6WrqDH/76181
+#EXTINF:-1 tvg-name="*USA: Starzplay 7 ꜰʜᴅ" tvg-logo="" group-title="english",*USA: Starzplay 7 ꜰʜᴅ
+http://shqiptv.online:8080/liv3cid90a49fe9a03af459/fXz6WrqDH/76182
+#EXTINF:-1 tvg-name="*USA: Starzplay 8 ꜰʜᴅ" tvg-logo="" group-title="english",*USA: Starzplay 8 ꜰʜᴅ
+http://shqiptv.online:8080/liv3cid90a49fe9a03af459/fXz6WrqDH/76183
+#EXTINF:-1 tvg-name="*USA: Starzplay 9 ꜰʜᴅ" tvg-logo="" group-title="english",*USA: Starzplay 9 ꜰʜᴅ
+http://shqiptv.online:8080/liv3cid90a49fe9a03af459/fXz6WrqDH/76184
+#EXTINF:-1 tvg-name="*USA: Starzplay 10 ꜰʜᴅ" tvg-logo="" group-title="english",*USA: Starzplay 10 ꜰʜᴅ
+http://shqiptv.online:8080/liv3cid90a49fe9a03af459/fXz6WrqDH/76185
+#EXTINF:-1 tvg-name="*USA: Starzplay 11 ꜰʜᴅ" tvg-logo="" group-title="english",*USA: Starzplay 11 ꜰʜᴅ
+http://shqiptv.online:8080/liv3cid90a49fe9a03af459/fXz6WrqDH/76186
+#EXTINF:-1 tvg-name="*USA: Starzplay 12 ꜰʜᴅ" tvg-logo="" group-title="english",*USA: Starzplay 12 ꜰʜᴅ
+http://shqiptv.online:8080/liv3cid90a49fe9a03af459/fXz6WrqDH/76187
+#EXTINF:-1 tvg-name="*USA: Starzplay 13 ꜰʜᴅ" tvg-logo="" group-title="english",*USA: Starzplay 13 ꜰʜᴅ
+http://shqiptv.online:8080/liv3cid90a49fe9a03af459/fXz6WrqDH/76188
+#EXTINF:-1 tvg-name="*USA: Starzplay 14 ꜰʜᴅ" tvg-logo="" group-title="english",*USA: Starzplay 14 ꜰʜᴅ
+http://shqiptv.online:8080/liv3cid90a49fe9a03af459/fXz6WrqDH/76189
+#EXTINF:-1 tvg-name="*USA: Starzplay 15 ꜰʜᴅ" tvg-logo="" group-title="english",*USA: Starzplay 15 ꜰʜᴅ
+http://shqiptv.online:8080/liv3cid90a49fe9a03af459/fXz6WrqDH/76190
+#EXTINF:-1 tvg-name="*USA: Starzplay 16 ꜰʜᴅ" tvg-logo="" group-title="english",*USA: Starzplay 16 ꜰʜᴅ
+http://shqiptv.online:8080/liv3cid90a49fe9a03af459/fXz6WrqDH/76191
+#EXTINF:-1 tvg-name="*USA: Starzplay 17 ꜰʜᴅ" tvg-logo="" group-title="english",*USA: Starzplay 17 ꜰʜᴅ
+http://shqiptv.online:8080/liv3cid90a49fe9a03af459/fXz6WrqDH/76192
+#EXTINF:-1 tvg-name="*USA: Starzplay 18 ꜰʜᴅ" tvg-logo="" group-title="english",*USA: Starzplay 18 ꜰʜᴅ
+http://shqiptv.online:8080/liv3cid90a49fe9a03af459/fXz6WrqDH/76193
 #EXTINF:-1 tvg-name="NZ: SKY SPORT 2" tvg-logo="" group-title="english",NZ: SKY SPORT 2
 http://shqiptv.online:8080/liv3cid90a49fe9a03af459/fXz6WrqDH/76697
-#EXTINF:-1 tvg-name="IR: IRIB iFilm English" tvg-logo="" group-title="english",IR: IRIB iFilm English
-http://shqiptv.online:8080/liv3cid90a49fe9a03af459/fXz6WrqDH/76779
-#EXTINF:-1 tvg-name="IR: BBC Persian IR" tvg-logo="" group-title="english",IR: BBC Persian IR
-http://shqiptv.online:8080/liv3cid90a49fe9a03af459/fXz6WrqDH/76715
 #EXTINF:-1 tvg-name="UK: STC" tvg-logo="" group-title="english",UK: STC
 http://shqiptv.online:8080/liv3cid90a49fe9a03af459/fXz6WrqDH/102323
-#EXTINF:-1 tvg-name="MX: ESPN Dos" tvg-logo="" group-title="english",MX: ESPN Dos
-http://shqiptv.online:8080/liv3cid90a49fe9a03af459/fXz6WrqDH/99014
-#EXTINF:-1 tvg-name="MX: ESPN SEC NETWORK" tvg-logo="" group-title="english",MX: ESPN SEC NETWORK
-http://shqiptv.online:8080/liv3cid90a49fe9a03af459/fXz6WrqDH/81740
-#EXTINF:-1 tvg-name="MX: ESPN PLUS HD" tvg-logo="" group-title="english",MX: ESPN PLUS HD
-http://shqiptv.online:8080/liv3cid90a49fe9a03af459/fXz6WrqDH/81739
-#EXTINF:-1 tvg-name="LA: DISCOVERY CIVILIZATION" tvg-logo="https://docdog.top/logo/countries/latino/discoverycivilization.png" group-title="english",LA: DISCOVERY CIVILIZATION
-http://31.43.191.125:8080/VIP019571742829342372/2b1fd1919d22/5016
 #EXTINF:-1 tvg-name="AU: ORF Sport+ 4K" tvg-logo="" group-title="english",AU: ORF Sport+ 4K
 http://shqiptv.online:8080/liv3cid90a49fe9a03af459/fXz6WrqDH/80291
 #EXTINF:-1 tvg-name="AU: Sky Sport Austria 1 4K" tvg-logo="" group-title="english",AU: Sky Sport Austria 1 4K
@@ -3221,22 +3239,28 @@ http://shqiptv.online:8080/liv3cid90a49fe9a03af459/fXz6WrqDH/5070
 http://shqiptv.online:8080/liv3cid90a49fe9a03af459/fXz6WrqDH/5077
 #EXTINF:-1 tvg-name="UK: Sky Sports Mix" tvg-logo="" group-title="english",UK: Sky Sports Mix
 http://31.43.191.125:8080/VIP019571742829342372/2b1fd1919d22/1670
-#EXTINF:-1 tvg-name="Cosmote | Eurosport 2" tvg-logo="" group-title="english",Cosmote | Eurosport 2
-http://shqiptv.online:8080/liv3cid90a49fe9a03af459/fXz6WrqDH/112824
-#EXTINF:-1 tvg-name="Cosmote | Eurosport 1" tvg-logo="" group-title="english",Cosmote | Eurosport 1
-http://shqiptv.online:8080/liv3cid90a49fe9a03af459/fXz6WrqDH/112823
-#EXTINF:-1 tvg-name="Cosmote | Nat Geo" tvg-logo="" group-title="english",Cosmote | Nat Geo
-http://shqiptv.online:8080/liv3cid90a49fe9a03af459/fXz6WrqDH/112747
-#EXTINF:-1 tvg-name="Cosmote | Investigation Discovery" tvg-logo="" group-title="english",Cosmote | Investigation Discovery
-http://shqiptv.online:8080/liv3cid90a49fe9a03af459/fXz6WrqDH/112729
-#EXTINF:-1 tvg-name="Cosmote | BBC Earth" tvg-logo="" group-title="english",Cosmote | BBC Earth
-http://shqiptv.online:8080/liv3cid90a49fe9a03af459/fXz6WrqDH/112707
-#EXTINF:-1 tvg-name="Cyta | BBC Earth HD" tvg-logo="" group-title="english",Cyta | BBC Earth HD
-http://shqiptv.online:8080/liv3cid90a49fe9a03af459/fXz6WrqDH/112687
+#EXTINF:-1 tvg-name="^AU: Fox Sports 501 fHD" tvg-logo="" group-title="english",^AU: Fox Sports 501 fHD
+http://shqiptv.online:8080/liv3cid90a49fe9a03af459/fXz6WrqDH/62961
+#EXTINF:-1 tvg-name="^AU: Fox Sports 502 fHD" tvg-logo="" group-title="english",^AU: Fox Sports 502 fHD
+http://shqiptv.online:8080/liv3cid90a49fe9a03af459/fXz6WrqDH/62960
+#EXTINF:-1 tvg-name="^AU: Fox Sports 503 fHD" tvg-logo="" group-title="english",^AU: Fox Sports 503 fHD
+http://shqiptv.online:8080/liv3cid90a49fe9a03af459/fXz6WrqDH/62959
+#EXTINF:-1 tvg-name="^AU: Fox Sports 504 fHD" tvg-logo="" group-title="english",^AU: Fox Sports 504 fHD
+http://shqiptv.online:8080/liv3cid90a49fe9a03af459/fXz6WrqDH/62958
+#EXTINF:-1 tvg-name="^AU: Fox Sports 505 fHD" tvg-logo="" group-title="english",^AU: Fox Sports 505 fHD
+http://shqiptv.online:8080/liv3cid90a49fe9a03af459/fXz6WrqDH/62957
+#EXTINF:-1 tvg-name="^AU: Fox Sports 506 fHD" tvg-logo="" group-title="english",^AU: Fox Sports 506 fHD
+http://shqiptv.online:8080/liv3cid90a49fe9a03af459/fXz6WrqDH/62956
+#EXTINF:-1 tvg-name="^AU: Fox Sports 507 fHD" tvg-logo="" group-title="english",^AU: Fox Sports 507 fHD
+http://shqiptv.online:8080/liv3cid90a49fe9a03af459/fXz6WrqDH/62955
+#EXTINF:-1 tvg-name="^AU: Fox Sports News fHD" tvg-logo="" group-title="english",^AU: Fox Sports News fHD
+http://shqiptv.online:8080/liv3cid90a49fe9a03af459/fXz6WrqDH/62962
 #EXTINF:-1 tvg-name="BBC Series" tvg-logo="" group-title="english",BBC Series
 http://mk-liveportal.com:5909/GoldSx/fXJem3k3UfCs/49216
 #EXTINF:-1 tvg-name="BBC Lifestyle" tvg-logo="" group-title="english",BBC Lifestyle
 http://mk-liveportal.com:5909/GoldSx/fXJem3k3UfCs/46668
+#EXTINF:-1 tvg-name="Discovery ID HD." tvg-logo="" group-title="english",Discovery ID HD.
+http://mk-liveportal.com:5909/GoldSx/fXJem3k3UfCs/869
 #EXTINF:-1 tvg-name="ESPN 1 HD [Holland]" tvg-logo="" group-title="english",ESPN 1 HD [Holland]
 http://mk-liveportal.com:5909/GoldSx/fXJem3k3UfCs/13993
 #EXTINF:-1 tvg-name="ESPN 2 HD [Holland]" tvg-logo="" group-title="english",ESPN 2 HD [Holland]
@@ -3251,10 +3275,6 @@ http://31.43.191.125:8080/VIP019571742829342372/2b1fd1919d22/848
 http://31.43.191.125:8080/VIP019571742829342372/2b1fd1919d22/849
 #EXTINF:-1 tvg-name="AR: BEIN SPORTS ENG 3" tvg-logo="https://docdog.top/logo/countries/bein/beinsports3.png" group-title="english",AR: BEIN SPORTS ENG 3
 http://31.43.191.125:8080/VIP019571742829342372/2b1fd1919d22/850
-#EXTINF:-1 tvg-name="IT: EAGLE CINEMA 007 FHD HEVC (DUAL AUDIO ITA/ENG)" tvg-logo="https://docdog.top/logo/countries/italy/eagle_film.png" group-title="english",IT: EAGLE CINEMA 007 FHD HEVC (DUAL AUDIO ITA/ENG)
-http://31.43.191.125:8080/VIP019571742829342372/2b1fd1919d22/136129
-#EXTINF:-1 tvg-name="IT: EAGLE DRAGON BALL Z CHANNEL FHD (DUAL AUDIO ITA/ENG IT" tvg-logo="https://docdog.top/logo/countries/italy/eagle_film.png" group-title="english",IT: EAGLE DRAGON BALL Z CHANNEL FHD (DUAL AUDIO ITA/ENG IT
-http://31.43.191.125:8080/VIP019571742829342372/2b1fd1919d22/136157
 #EXTINF:-1 tvg-name="UK: Sky Sports Racing" tvg-logo="" group-title="english",UK: Sky Sports Racing
 http://31.43.191.125:8080/VIP019571742829342372/2b1fd1919d22/1676
 #EXTINF:-1 tvg-name="UK: VIP Sky Sports NFL" tvg-logo="" group-title="english",UK: VIP Sky Sports NFL
@@ -3547,8 +3567,6 @@ http://31.43.191.125:8080/VIP019571742829342372/2b1fd1919d22/146585
 http://31.43.191.125:8080/VIP019571742829342372/2b1fd1919d22/146805
 #EXTINF:-1 tvg-name="UK: RUSH SPORT" tvg-logo="" group-title="english",UK: RUSH SPORT
 http://31.43.191.125:8080/VIP019571742829342372/2b1fd1919d22/146806
-#EXTINF:-1 tvg-name="Uk: Bein Sports 1 PL" tvg-logo="" group-title="english",Uk: Bein Sports 1 PL
-http://31.43.191.125:8080/VIP019571742829342372/2b1fd1919d22/146808
 #EXTINF:-1 tvg-name="UK: Bein Sports English 2" tvg-logo="" group-title="english",UK: Bein Sports English 2
 http://31.43.191.125:8080/VIP019571742829342372/2b1fd1919d22/147047
 #EXTINF:-1 tvg-name="AU: BEIN SPORTS 3" tvg-logo="https:/docdog.top/logo/countries/beinsports3.png" group-title="english",AU: BEIN SPORTS 3
@@ -3797,8 +3815,6 @@ http://31.43.191.125:8080/VIP019571742829342372/2b1fd1919d22/146664
 http://31.43.191.125:8080/VIP019571742829342372/2b1fd1919d22/146665
 #EXTINF:-1 tvg-name="UK: HIGHLANDER ꜱᴇʀɪᴇ" tvg-logo="" group-title="english",UK: HIGHLANDER ꜱᴇʀɪᴇ
 http://31.43.191.125:8080/VIP019571742829342372/2b1fd1919d22/146666
-#EXTINF:-1 tvg-name="UK: GREEK ꜱᴇʀɪᴇ" tvg-logo="" group-title="english",UK: GREEK ꜱᴇʀɪᴇ
-http://31.43.191.125:8080/VIP019571742829342372/2b1fd1919d22/146667
 #EXTINF:-1 tvg-name="UK: GODFATHER OF HARLEM ꜱᴇʀɪᴇ" tvg-logo="" group-title="english",UK: GODFATHER OF HARLEM ꜱᴇʀɪᴇ
 http://31.43.191.125:8080/VIP019571742829342372/2b1fd1919d22/146668
 #EXTINF:-1 tvg-name="UK: GAME OF THRONES ꜱᴇʀɪᴇ" tvg-logo="" group-title="english",UK: GAME OF THRONES ꜱᴇʀɪᴇ
@@ -4079,8 +4095,6 @@ http://31.43.191.125:8080/VIP019571742829342372/2b1fd1919d22/146811
 http://31.43.191.125:8080/VIP019571742829342372/2b1fd1919d22/146812
 #EXTINF:-1 tvg-name="UK: Astro PL2" tvg-logo="" group-title="english",UK: Astro PL2
 http://31.43.191.125:8080/VIP019571742829342372/2b1fd1919d22/146813
-#EXTINF:-1 tvg-name="UK: Astro PL" tvg-logo="" group-title="english",UK: Astro PL
-http://31.43.191.125:8080/VIP019571742829342372/2b1fd1919d22/146814
 #EXTINF:-1 tvg-name="UK: Astro Premier League 2" tvg-logo="" group-title="english",UK: Astro Premier League 2
 http://31.43.191.125:8080/VIP019571742829342372/2b1fd1919d22/146815
 #EXTINF:-1 tvg-name="UK: Astro Premier League" tvg-logo="" group-title="english",UK: Astro Premier League
@@ -4463,26 +4477,6 @@ http://31.43.191.125:8080/VIP019571742829342372/2b1fd1919d22/146579
 http://31.43.191.125:8080/VIP019571742829342372/2b1fd1919d22/146580
 #EXTINF:-1 tvg-name="UK: EPL07:" tvg-logo="" group-title="english",UK: EPL07:
 http://31.43.191.125:8080/VIP019571742829342372/2b1fd1919d22/146581
-#EXTINF:-1 tvg-name="SWE: BBC BRIT" tvg-logo="https://docdog.top/logo/countries/sweden/bbcbrit.png" group-title="english",SWE: BBC BRIT
-http://31.43.191.125:8080/VIP019571742829342372/2b1fd1919d22/2272
-#EXTINF:-1 tvg-name="CRO: DISCOVERY ID XTRA" tvg-logo="https://docdog.top/logo/countries/croatia/discoveryidxtra.png" group-title="english",CRO: DISCOVERY ID XTRA
-http://31.43.191.125:8080/VIP019571742829342372/2b1fd1919d22/3021
-#EXTINF:-1 tvg-name="EX-YU: NAT GEO" tvg-logo="https://docdog.top/logo/countries/exyu/natgeo.png" group-title="english",EX-YU: NAT GEO
-http://31.43.191.125:8080/VIP019571742829342372/2b1fd1919d22/3503
-#EXTINF:-1 tvg-name="EX-YU: ID Discovery / Investigation Discovery" tvg-logo="" group-title="english",EX-YU: ID Discovery / Investigation Discovery
-http://31.43.191.125:8080/VIP019571742829342372/2b1fd1919d22/115125
-#EXTINF:-1 tvg-name="MT: DISCOVERY MALTA" tvg-logo="https://docdog.top/logo/countries/malta/DISCOVERYMALTA.png" group-title="english",MT: DISCOVERY MALTA
-http://31.43.191.125:8080/VIP019571742829342372/2b1fd1919d22/3981
-#EXTINF:-1 tvg-name="IN: EUROSPORT" tvg-logo="https://docdog.top/logo/countries/india/eurosport.png" group-title="english",IN: EUROSPORT
-http://31.43.191.125:8080/VIP019571742829342372/2b1fd1919d22/7168
-#EXTINF:-1 tvg-name="UA: ENGLISH CLUB" tvg-logo="" group-title="english",UA: ENGLISH CLUB
-http://31.43.191.125:8080/VIP019571742829342372/2b1fd1919d22/157766
-#EXTINF:-1 tvg-name="CAR: ESPN 2 CARIBBEAN" tvg-logo="https://docdog.top/logo/countries/caribbean/espn2caribbean.png" group-title="english",CAR: ESPN 2 CARIBBEAN
-http://31.43.191.125:8080/VIP019571742829342372/2b1fd1919d22/5340
-#EXTINF:-1 tvg-name="CAR: ESPN CARIBBEAN" tvg-logo="https://docdog.top/logo/countries/caribbean/espncaribbean.png" group-title="english",CAR: ESPN CARIBBEAN
-http://31.43.191.125:8080/VIP019571742829342372/2b1fd1919d22/5341
-#EXTINF:-1 tvg-name="CAR: TELE SUR ENGLISH" tvg-logo="https://docdog.top/logo/countries/caribbean/telesurenglish.png" group-title="english",CAR: TELE SUR ENGLISH
-http://31.43.191.125:8080/VIP019571742829342372/2b1fd1919d22/5370
 #EXTINF:-1 tvg-name="CA: CBS" tvg-logo="https://docdog.top/logo/countries/canada/cbs.png" group-title="english",CA: CBS
 http://31.43.191.125:8080/VIP019571742829342372/2b1fd1919d22/5421
 #EXTINF:-1 tvg-name="CA: CITY TV" tvg-logo="https://docdog.top/logo/countries/canada/city.png" group-title="english",CA: CITY TV
@@ -4515,12 +4509,8 @@ http://31.43.191.125:8080/VIP019571742829342372/2b1fd1919d22/5485
 http://31.43.191.125:8080/VIP019571742829342372/2b1fd1919d22/5503
 #EXTINF:-1 tvg-name="CA: TMN 2" tvg-logo="https://docdog.top/logo/countries/canada/tmn2.png" group-title="english",CA: TMN 2
 http://31.43.191.125:8080/VIP019571742829342372/2b1fd1919d22/5506
-#EXTINF:-1 tvg-name="CA: VRAK TV FR" tvg-logo="" group-title="english",CA: VRAK TV FR
-http://31.43.191.125:8080/VIP019571742829342372/2b1fd1919d22/5519
 #EXTINF:-1 tvg-name="CA: YES NETWORK" tvg-logo="https://docdog.top/logo/countries/canada/yesnetwork.png" group-title="english",CA: YES NETWORK
 http://31.43.191.125:8080/VIP019571742829342372/2b1fd1919d22/5522
-#EXTINF:-1 tvg-name="CA: YOOPA (FR)" tvg-logo="https://docdog.top/logo/countries/canada/yoopa-ca.png" group-title="english",CA: YOOPA (FR)
-http://31.43.191.125:8080/VIP019571742829342372/2b1fd1919d22/5524
 #EXTINF:-1 tvg-name="CA: YTV" tvg-logo="https://docdog.top/logo/countries/canada/ytv.png" group-title="english",CA: YTV
 http://31.43.191.125:8080/VIP019571742829342372/2b1fd1919d22/5525
 #EXTINF:-1 tvg-name="USA : NHL MONTREAL CANADIENS" tvg-logo="" group-title="english",USA : NHL MONTREAL CANADIENS
@@ -5999,3 +5989,13 @@ http://31.43.191.125:8080/VIP019571742829342372/2b1fd1919d22/155335
 http://31.43.191.125:8080/VIP019571742829342372/2b1fd1919d22/155336
 #EXTINF:-1 tvg-name="USA: FOOTBALL EVENTS 11" tvg-logo="" group-title="english",USA: FOOTBALL EVENTS 11
 http://31.43.191.125:8080/VIP019571742829342372/2b1fd1919d22/155337
+#EXTINF:-1 tvg-name="USA: FOOTBALL EVENTS 12" tvg-logo="" group-title="english",USA: FOOTBALL EVENTS 12
+http://31.43.191.125:8080/VIP019571742829342372/2b1fd1919d22/155338
+#EXTINF:-1 tvg-name="USA: FOOTBALL EVENTS 13" tvg-logo="" group-title="english",USA: FOOTBALL EVENTS 13
+http://31.43.191.125:8080/VIP019571742829342372/2b1fd1919d22/155339
+#EXTINF:-1 tvg-name="USA: FOOTBALL EVENTS 15" tvg-logo="" group-title="english",USA: FOOTBALL EVENTS 15
+http://31.43.191.125:8080/VIP019571742829342372/2b1fd1919d22/155340
+#EXTINF:-1 tvg-name="USA: FOOTBALL EVENTS 16" tvg-logo="" group-title="english",USA: FOOTBALL EVENTS 16
+http://31.43.191.125:8080/VIP019571742829342372/2b1fd1919d22/155341
+#EXTINF:-1 tvg-name="USA: FOOTBALL EVENTS 17" tvg-logo="" group-title="english",USA: FOOTBALL EVENTS 17
+http://31.43.191.125:8080/VIP019571742829342372/2b1fd1919d22/155342

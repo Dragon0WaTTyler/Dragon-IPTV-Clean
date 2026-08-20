@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="⚜️⚜️ EUROSPORT EXTRA ⚜️⚜️" tvg-logo="" group-title="sports",⚜️⚜️ EUROSPORT EXTRA ⚜️⚜️
 http://ctn34.xyz:2095/bbbr6109/bb00yy2611/94259
+#EXTINF:-1 tvg-name="UK: Sky Sports F1" tvg-logo="" group-title="sports",UK: Sky Sports F1
+http://ctn34.xyz:2095/bbbr6109/bb00yy2611/71229
 #EXTINF:-1 tvg-name="AR: BE*IN SPORTS 1 HD ENGLISH" tvg-logo="" group-title="sports",AR: BE*IN SPORTS 1 HD ENGLISH
 http://ctn34.xyz:2095/bbbr6109/bb00yy2611/165274
 #EXTINF:-1 tvg-name="AR: BE*IN SPORTS 2 4K ENGLISH" tvg-logo="" group-title="sports",AR: BE*IN SPORTS 2 4K ENGLISH
@@ -10,7 +12,7 @@ http://ctn34.xyz:2095/bbbr6109/bb00yy2611/91838
 #EXTINF:-1 tvg-name="Eurosport 1" tvg-logo="" group-title="sports",Eurosport 1
 http://ctn34.xyz:2095/bbbr6109/bb00yy2611/76888
 #EXTINF:-1 tvg-name="Eurosport 2" tvg-logo="" group-title="sports",Eurosport 2
-http://ctn34.xyz:2095/bbbr6109/bb00yy2611/72622
+http://ctn34.xyz:2095/bbbr6109/bb00yy2611/69916
 #EXTINF:-1 tvg-name="UK: BT SPORTS 1 FHD" tvg-logo="" group-title="sports",UK: BT SPORTS 1 FHD
 http://ctn34.xyz:2095/bbbr6109/bb00yy2611/70718
 #EXTINF:-1 tvg-name="UK: BT SPORTS 2 FHD" tvg-logo="" group-title="sports",UK: BT SPORTS 2 FHD
@@ -41,8 +43,6 @@ http://ctn34.xyz:2095/bbbr6109/bb00yy2611/140696
 http://ctn34.xyz:2095/bbbr6109/bb00yy2611/77894
 #EXTINF:-1 tvg-name="UK: SKY SPORTS Cricket" tvg-logo="" group-title="sports",UK: SKY SPORTS Cricket
 http://ctn34.xyz:2095/bbbr6109/bb00yy2611/139559
-#EXTINF:-1 tvg-name="UK: Sky Sports F1" tvg-logo="" group-title="sports",UK: Sky Sports F1
-http://ctn34.xyz:2095/bbbr6109/bb00yy2611/71229
 #EXTINF:-1 tvg-name="UK: SKY SPORTS Golf" tvg-logo="" group-title="sports",UK: SKY SPORTS Golf
 http://ctn34.xyz:2095/bbbr6109/bb00yy2611/140643
 #EXTINF:-1 tvg-name="UK: EUROSPORTS 1 FHD" tvg-logo="" group-title="sports",UK: EUROSPORTS 1 FHD
@@ -161,12 +161,6 @@ http://cinemagold.org:80/live/12MPremiumSep29/8Vkwukoebc/399199.m3u8
 http://ctn34.xyz:2095/bbbr6109/bb00yy2611/12316
 #EXTINF:-1 tvg-name="USA: BALLY SPORTS SUN⭐⭐" tvg-logo="https://i.picasion.com/pic92/2288e8398a7ca0ae80fbd76b38a46ecf.gif" group-title="sports",USA: BALLY SPORTS SUN⭐⭐
 http://cinemagold.org:80/live/12MPremiumSep29/8Vkwukoebc/360877.m3u8
-#EXTINF:-1 tvg-name="USA : E$PN 2" tvg-logo="http://daleplaypro.com:8080/images/017f41a2ef4ff9d39f45f680b88cd23b.png" group-title="sports",USA : E$PN 2
-http://cinemagold.org:80/live/12MPremiumSep29/8Vkwukoebc/20636.m3u8
-#EXTINF:-1 tvg-name="MX | ESPN 2 MX HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/2560px-ESPN2_logo.svg.png" group-title="sports",MX | ESPN 2 MX HD
-http://cinemagold.org:80/live/12MPremiumSep29/8Vkwukoebc/437843.m3u8
-#EXTINF:-1 tvg-name="MX | ESPN 3 MX HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/ESPN_3D_logo.svg/3840px-ESPN_3D_logo.svg.png" group-title="sports",MX | ESPN 3 MX HD
-http://cinemagold.org:80/live/12MPremiumSep29/8Vkwukoebc/566646.m3u8
 #EXTINF:-1 tvg-name="ESPN HD OP 2" tvg-logo="http://mundo2.pro:80/images/db74988ae31d459907f62c43dcc987eb.jpg" group-title="sports",ESPN HD OP 2
 http://cinemagold.org:80/live/12MPremiumSep29/8Vkwukoebc/472221.m3u8
 #EXTINF:-1 tvg-name="ESPN 3 HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKEF6ZBpdGrphpxWN411VHj3RZ70HYSO0p4VNZo3UOxA&s=10" group-title="sports",ESPN 3 HD
@@ -313,6 +307,8 @@ http://cinemagold.org:80/live/12MPremiumSep29/8Vkwukoebc/399485.m3u8
 http://cinemagold.org:80/live/12MPremiumSep29/8Vkwukoebc/227474.m3u8
 #EXTINF:-1 tvg-name="USA: F0X DEPORTES" tvg-logo="http://dplatino.net:8080/images/a17f39c72ff2944f97d7706828c008b3.png" group-title="sports",USA: F0X DEPORTES
 http://cinemagold.org:80/live/12MPremiumSep29/8Vkwukoebc/111540.m3u8
+#EXTINF:-1 tvg-name="USA : E$PN 2" tvg-logo="http://daleplaypro.com:8080/images/017f41a2ef4ff9d39f45f680b88cd23b.png" group-title="sports",USA : E$PN 2
+http://cinemagold.org:80/live/12MPremiumSep29/8Vkwukoebc/20636.m3u8
 #EXTINF:-1 tvg-name="ᴜsᴀ Spᴏʀᴛs HD | SPORTS ESPN U HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/SEC_Network_%282024%29.svg/1200px-SEC_Network_%282024%29.svg.png" group-title="sports",ᴜsᴀ Spᴏʀᴛs HD | SPORTS ESPN U HD
 http://cinemagold.org:80/live/12MPremiumSep29/8Vkwukoebc/399001.m3u8
 #EXTINF:-1 tvg-name="ᴜsᴀ Spᴏʀᴛs HD | ESPN USA" tvg-logo="http://mundo2.pro:80/images/6c606747a87d50e5dfcd8b2a5a927115.png" group-title="sports",ᴜsᴀ Spᴏʀᴛs HD | ESPN USA
@@ -357,10 +353,6 @@ http://shqiptv.online:8080/liv3cid90a49fe9a03af459/fXz6WrqDH/100689
 http://shqiptv.online:8080/liv3cid90a49fe9a03af459/fXz6WrqDH/100687
 #EXTINF:-1 tvg-name="CA: SPORTSNET 360 UHD (60FPS)" tvg-logo="" group-title="sports",CA: SPORTSNET 360 UHD (60FPS)
 http://shqiptv.online:8080/liv3cid90a49fe9a03af459/fXz6WrqDH/100685
-#EXTINF:-1 tvg-name="EX-YU: eurosport 1" tvg-logo="https://docdog.top/logo/countries/exyu/eurosport1.png" group-title="sports",EX-YU: eurosport 1
-http://shqiptv.online:8080/liv3cid90a49fe9a03af459/fXz6WrqDH/2948
-#EXTINF:-1 tvg-name="EX-YU: eurosport 2" tvg-logo="https://docdog.top/logo/countries/exyu/eurosport2.png" group-title="sports",EX-YU: eurosport 2
-http://shqiptv.online:8080/liv3cid90a49fe9a03af459/fXz6WrqDH/2949
 #EXTINF:-1 tvg-name="UK: TNT SPORTS 10" tvg-logo="" group-title="sports",UK: TNT SPORTS 10
 http://shqiptv.online:8080/liv3cid90a49fe9a03af459/fXz6WrqDH/88650
 #EXTINF:-1 tvg-name="UK: TNT SPORTS 9 HD" tvg-logo="" group-title="sports",UK: TNT SPORTS 9 HD
@@ -375,24 +367,8 @@ http://shqiptv.online:8080/liv3cid90a49fe9a03af459/fXz6WrqDH/88646
 http://shqiptv.online:8080/liv3cid90a49fe9a03af459/fXz6WrqDH/88645
 #EXTINF:-1 tvg-name="UK: TNT SPORTS 4 HD" tvg-logo="" group-title="sports",UK: TNT SPORTS 4 HD
 http://shqiptv.online:8080/liv3cid90a49fe9a03af459/fXz6WrqDH/88644
-#EXTINF:-1 tvg-name="SE: EuroSport 1 SE" tvg-logo="" group-title="sports",SE: EuroSport 1 SE
-http://shqiptv.online:8080/liv3cid90a49fe9a03af459/fXz6WrqDH/9806
-#EXTINF:-1 tvg-name="EUROSPORT HD RU" tvg-logo="" group-title="sports",EUROSPORT HD RU
-http://shqiptv.online:8080/liv3cid90a49fe9a03af459/fXz6WrqDH/70981
-#EXTINF:-1 tvg-name="EUROSPORT 2 RU" tvg-logo="" group-title="sports",EUROSPORT 2 RU
-http://shqiptv.online:8080/liv3cid90a49fe9a03af459/fXz6WrqDH/70980
-#EXTINF:-1 tvg-name="EUROSPORT 1 RU" tvg-logo="" group-title="sports",EUROSPORT 1 RU
-http://shqiptv.online:8080/liv3cid90a49fe9a03af459/fXz6WrqDH/70979
-#EXTINF:-1 tvg-name="IN: Star Sports 1 HD English" tvg-logo="" group-title="sports",IN: Star Sports 1 HD English
-http://shqiptv.online:8080/liv3cid90a49fe9a03af459/fXz6WrqDH/100000
 #EXTINF:-1 tvg-name="NZ: SKY SPORT 2" tvg-logo="" group-title="sports",NZ: SKY SPORT 2
 http://shqiptv.online:8080/liv3cid90a49fe9a03af459/fXz6WrqDH/76697
-#EXTINF:-1 tvg-name="MX: ESPN Dos" tvg-logo="" group-title="sports",MX: ESPN Dos
-http://shqiptv.online:8080/liv3cid90a49fe9a03af459/fXz6WrqDH/99014
-#EXTINF:-1 tvg-name="MX: ESPN SEC NETWORK" tvg-logo="" group-title="sports",MX: ESPN SEC NETWORK
-http://shqiptv.online:8080/liv3cid90a49fe9a03af459/fXz6WrqDH/81740
-#EXTINF:-1 tvg-name="MX: ESPN PLUS HD" tvg-logo="" group-title="sports",MX: ESPN PLUS HD
-http://shqiptv.online:8080/liv3cid90a49fe9a03af459/fXz6WrqDH/81739
 #EXTINF:-1 tvg-name="AU: ORF Sport+ 4K" tvg-logo="" group-title="sports",AU: ORF Sport+ 4K
 http://shqiptv.online:8080/liv3cid90a49fe9a03af459/fXz6WrqDH/80291
 #EXTINF:-1 tvg-name="AU: Sky Sport Austria 1 4K" tvg-logo="" group-title="sports",AU: Sky Sport Austria 1 4K
@@ -425,10 +401,22 @@ http://shqiptv.online:8080/liv3cid90a49fe9a03af459/fXz6WrqDH/1671
 http://shqiptv.online:8080/liv3cid90a49fe9a03af459/fXz6WrqDH/5077
 #EXTINF:-1 tvg-name="UK: Sky Sports Mix" tvg-logo="" group-title="sports",UK: Sky Sports Mix
 http://31.43.191.125:8080/VIP019571742829342372/2b1fd1919d22/1670
-#EXTINF:-1 tvg-name="Cosmote | Eurosport 2" tvg-logo="" group-title="sports",Cosmote | Eurosport 2
-http://shqiptv.online:8080/liv3cid90a49fe9a03af459/fXz6WrqDH/112824
-#EXTINF:-1 tvg-name="Cosmote | Eurosport 1" tvg-logo="" group-title="sports",Cosmote | Eurosport 1
-http://shqiptv.online:8080/liv3cid90a49fe9a03af459/fXz6WrqDH/112823
+#EXTINF:-1 tvg-name="^AU: Fox Sports 501 fHD" tvg-logo="" group-title="sports",^AU: Fox Sports 501 fHD
+http://shqiptv.online:8080/liv3cid90a49fe9a03af459/fXz6WrqDH/62961
+#EXTINF:-1 tvg-name="^AU: Fox Sports 502 fHD" tvg-logo="" group-title="sports",^AU: Fox Sports 502 fHD
+http://shqiptv.online:8080/liv3cid90a49fe9a03af459/fXz6WrqDH/62960
+#EXTINF:-1 tvg-name="^AU: Fox Sports 503 fHD" tvg-logo="" group-title="sports",^AU: Fox Sports 503 fHD
+http://shqiptv.online:8080/liv3cid90a49fe9a03af459/fXz6WrqDH/62959
+#EXTINF:-1 tvg-name="^AU: Fox Sports 504 fHD" tvg-logo="" group-title="sports",^AU: Fox Sports 504 fHD
+http://shqiptv.online:8080/liv3cid90a49fe9a03af459/fXz6WrqDH/62958
+#EXTINF:-1 tvg-name="^AU: Fox Sports 505 fHD" tvg-logo="" group-title="sports",^AU: Fox Sports 505 fHD
+http://shqiptv.online:8080/liv3cid90a49fe9a03af459/fXz6WrqDH/62957
+#EXTINF:-1 tvg-name="^AU: Fox Sports 506 fHD" tvg-logo="" group-title="sports",^AU: Fox Sports 506 fHD
+http://shqiptv.online:8080/liv3cid90a49fe9a03af459/fXz6WrqDH/62956
+#EXTINF:-1 tvg-name="^AU: Fox Sports 507 fHD" tvg-logo="" group-title="sports",^AU: Fox Sports 507 fHD
+http://shqiptv.online:8080/liv3cid90a49fe9a03af459/fXz6WrqDH/62955
+#EXTINF:-1 tvg-name="^AU: Fox Sports News fHD" tvg-logo="" group-title="sports",^AU: Fox Sports News fHD
+http://shqiptv.online:8080/liv3cid90a49fe9a03af459/fXz6WrqDH/62962
 #EXTINF:-1 tvg-name="ESPN 1 HD [Holland]" tvg-logo="" group-title="sports",ESPN 1 HD [Holland]
 http://mk-liveportal.com:5909/GoldSx/fXJem3k3UfCs/13993
 #EXTINF:-1 tvg-name="ESPN 2 HD [Holland]" tvg-logo="" group-title="sports",ESPN 2 HD [Holland]
@@ -527,8 +515,6 @@ http://31.43.191.125:8080/VIP019571742829342372/2b1fd1919d22/146585
 http://31.43.191.125:8080/VIP019571742829342372/2b1fd1919d22/146805
 #EXTINF:-1 tvg-name="UK: RUSH SPORT" tvg-logo="" group-title="sports",UK: RUSH SPORT
 http://31.43.191.125:8080/VIP019571742829342372/2b1fd1919d22/146806
-#EXTINF:-1 tvg-name="Uk: Bein Sports 1 PL" tvg-logo="" group-title="sports",Uk: Bein Sports 1 PL
-http://31.43.191.125:8080/VIP019571742829342372/2b1fd1919d22/146808
 #EXTINF:-1 tvg-name="UK: Bein Sports English 2" tvg-logo="" group-title="sports",UK: Bein Sports English 2
 http://31.43.191.125:8080/VIP019571742829342372/2b1fd1919d22/147047
 #EXTINF:-1 tvg-name="AU: BEIN SPORTS 3" tvg-logo="https:/docdog.top/logo/countries/beinsports3.png" group-title="sports",AU: BEIN SPORTS 3
@@ -635,12 +621,6 @@ http://31.43.191.125:8080/VIP019571742829342372/2b1fd1919d22/146894
 http://31.43.191.125:8080/VIP019571742829342372/2b1fd1919d22/146897
 #EXTINF:-1 tvg-name="UK: DAZN Sport Stack" tvg-logo="" group-title="sports",UK: DAZN Sport Stack
 http://31.43.191.125:8080/VIP019571742829342372/2b1fd1919d22/146907
-#EXTINF:-1 tvg-name="IN: EUROSPORT" tvg-logo="https://docdog.top/logo/countries/india/eurosport.png" group-title="sports",IN: EUROSPORT
-http://31.43.191.125:8080/VIP019571742829342372/2b1fd1919d22/7168
-#EXTINF:-1 tvg-name="CAR: ESPN 2 CARIBBEAN" tvg-logo="https://docdog.top/logo/countries/caribbean/espn2caribbean.png" group-title="sports",CAR: ESPN 2 CARIBBEAN
-http://31.43.191.125:8080/VIP019571742829342372/2b1fd1919d22/5340
-#EXTINF:-1 tvg-name="CAR: ESPN CARIBBEAN" tvg-logo="https://docdog.top/logo/countries/caribbean/espncaribbean.png" group-title="sports",CAR: ESPN CARIBBEAN
-http://31.43.191.125:8080/VIP019571742829342372/2b1fd1919d22/5341
 #EXTINF:-1 tvg-name="USA: ACCN ESPN" tvg-logo="" group-title="sports",USA: ACCN ESPN
 http://31.43.191.125:8080/VIP019571742829342372/2b1fd1919d22/154614
 #EXTINF:-1 tvg-name="USA: AFN SPORT" tvg-logo="" group-title="sports",USA: AFN SPORT
