@@ -62,10 +62,15 @@ def load_rules(path: Path) -> dict:
         return json.load(fh)
 
 
-def iter_source_files(source_dir: Path) -> list[Path]:
-    return sorted(
-        p for p in source_dir.rglob(SOURCE_PATTERN) if p.is_file()
+def iter_source_files(source_dir: Path, max_files: int | None = None) -> list[Path]:
+    files = sorted(
+        (p for p in source_dir.rglob(SOURCE_PATTERN) if p.is_file()),
+        key=lambda path: path.name,
+        reverse=True,
     )
+    if max_files and max_files > 0:
+        return files[:max_files]
+    return files
 
 
 def find_unquoted_comma(value: str) -> int:
@@ -152,18 +157,42 @@ def contains_keyword(text: str, keywords: Iterable[str]) -> bool:
     return False
 
 
+def extract_country_prefix(text: str) -> str | None:
+    match = re.match(r"^\s*([A-Za-z]{2,3})(?=\s*[:|._-])", text)
+    return match.group(1).upper() if match else None
+
+
 def infer_language(text: str, rules: dict) -> str | None:
     language_rules = rules["language"]
     if contains_keyword(text, language_rules.get("blocked_language_keywords", [])):
         return None
-    if contains_arabic_script(text) or contains_keyword(text, language_rules["arabic_keywords"]):
+
+    lowered = text.casefold()
+    explicit_english = bool(re.search(r"\b(?:english|eng)\b", lowered))
+    explicit_arabic = bool(re.search(r"\b(?:arabic|arab|arabia)\b", lowered)) or contains_arabic_script(text)
+    if explicit_english and not explicit_arabic:
+        return "english"
+    if explicit_arabic and not explicit_english:
+        return "arabic"
+
+    prefix = extract_country_prefix(text)
+    if prefix in set(language_rules.get("english_prefixes", [])):
+        return "english"
+    if prefix in set(language_rules.get("arabic_prefixes", [])):
+        return "arabic"
+    if prefix in set(language_rules.get("blocked_prefixes", [])):
+        return None
+
+    if explicit_english:
+        return "english"
+    if explicit_arabic:
         return "arabic"
     if contains_cyrillic(text):
         return None
+    if contains_keyword(text, language_rules["arabic_keywords"]):
+        return "arabic"
     if contains_keyword(text, language_rules["english_keywords"]):
         return "english"
-    if re.search(r"[A-Za-z]", text) and not re.search(r"[\u0370-\u1FFF\u2C00-\uD7FF]", text):
-        return None
     return None
 
 
@@ -174,6 +203,29 @@ def infer_categories(text: str, rules: dict) -> list[str]:
         if contains_keyword(text, category_rules[category]):
             detected.append(category)
     return detected
+
+
+def known_channel_category(name: str, rules: dict) -> str | None:
+    identity = channel_identity_key(name)
+    category_rules = rules.get("known_channel_categories", {})
+    for category in rules["categories"]["order"]:
+        aliases = category_rules.get(category, [])
+        if any(channel_identity_key(alias) in identity for alias in aliases):
+            return category
+    return None
+
+
+def is_vod_entry(name: str, url: str, rules: dict) -> bool:
+    cleanup_rules = rules["cleanup"]
+    url_path = urlsplit(url).path.casefold()
+    if any(marker.casefold() in url_path for marker in cleanup_rules.get("vod_url_markers", [])):
+        return True
+    if any(url_path.endswith(extension.casefold()) for extension in cleanup_rules.get("vod_extensions", [])):
+        return True
+    return any(
+        re.search(pattern, name, flags=re.IGNORECASE)
+        for pattern in cleanup_rules.get("vod_name_patterns", [])
+    )
 
 
 def normalize_name_key(value: str) -> str:
@@ -190,6 +242,26 @@ def normalize_name_key(value: str) -> str:
                 parts.append(" ")
             previous_space = True
     return "".join(parts).strip()
+
+
+def channel_identity_key(value: str) -> str:
+    text = normalize_whitespace(value)
+    text = re.sub(
+        r"^\s*[A-Za-z]{2,3}(?:\s*[.|_-]\s*(?:NEWS|DOCU|SPORTS?))?\s*[:|._-]\s*",
+        "",
+        text,
+        flags=re.IGNORECASE,
+    )
+    text = re.sub(r"\((?:\d{3,4}p|HD|FHD|UHD|4K)\)", " ", text, flags=re.IGNORECASE)
+    text = re.sub(
+        r"\b(?:VIP|FHD|UHD|HD|SD|4K|HEVC|H\.26[45]|BACKUP|ALT)\b",
+        " ",
+        text,
+        flags=re.IGNORECASE,
+    )
+    text = re.sub(r"\baljazeera\b", "al jazeera", text, flags=re.IGNORECASE)
+    text = re.sub(r"\bmubashar\b", "mubasher", text, flags=re.IGNORECASE)
+    return normalize_name_key(normalize_whitespace(text))
 
 
 def canonicalize_url(url: str, token_params: set[str]) -> tuple[str, str, str]:
@@ -212,8 +284,8 @@ def canonicalize_url(url: str, token_params: set[str]) -> tuple[str, str, str]:
         filtered_query.append((key, value))
     canonical_query = urlencode(filtered_query, doseq=True)
     family_key = urlunsplit(("", netloc, parsed.path, canonical_query, ""))
-    normalized_url = urlunsplit((scheme, netloc, parsed.path, canonical_query, ""))
-    return family_key, normalized_url, parsed.query
+    playback_url = urlunsplit((parsed.scheme, parsed.netloc, parsed.path, parsed.query, ""))
+    return family_key, playback_url, parsed.query
 
 
 def url_sort_key(url: str) -> tuple[int, int, int, int, str]:
@@ -267,14 +339,13 @@ def representative_record(entries: list[Entry]) -> ChannelRecord:
         primary_url=primary_url,
         alternates=alternates,
         source_file=best.source_file,
-        primary_category=best.primary_category,
+        primary_category=groups[0] if groups else None,
         name_key=best.name_key,
     )
 
 
-def record_key(record: ChannelRecord) -> tuple[str, str, str]:
-    primary_category = record.primary_category or ""
-    return (normalize_name_key(record.name), record.language, primary_category)
+def record_key(record: ChannelRecord) -> tuple[str, str]:
+    return (record.name_key or channel_identity_key(record.name), record.language)
 
 
 def build_entries(source_dir: Path, rules: dict) -> tuple[list[Entry], Counter]:
@@ -286,7 +357,8 @@ def build_entries(source_dir: Path, rules: dict) -> tuple[list[Entry], Counter]:
     unsupported_protocols = [term.casefold() for term in rules["cleanup"]["unsupported_protocols"]]
     entries: list[Entry] = []
     sequence = 0
-    for source_file in iter_source_files(source_dir):
+    max_files = int(rules.get("source_selection", {}).get("max_files", 0)) or None
+    for source_file in iter_source_files(source_dir, max_files=max_files):
         counts["raw_files"] += 1
         with source_file.open("r", encoding="utf-8-sig", errors="replace") as fh:
             pending_attrs: dict[str, str] | None = None
@@ -316,7 +388,8 @@ def build_entries(source_dir: Path, rules: dict) -> tuple[list[Entry], Counter]:
                 original_name = normalize_whitespace(pending_display or tvg_name or tvg_id or "")
                 cleaned_name = clean_name(original_name, suffixes)
 
-                search_text = searchable_text(original_name, cleaned_name, tvg_name, tvg_id, raw_group)
+                language_text = searchable_text(original_name, cleaned_name, tvg_name, tvg_id)
+                search_text = searchable_text(language_text, raw_group)
                 lowered = search_text.casefold()
                 if any(url.lower().startswith(protocol) for protocol in unsupported_protocols):
                     counts["dropped_unsupported_protocol"] += 1
@@ -324,19 +397,25 @@ def build_entries(source_dir: Path, rules: dict) -> tuple[list[Entry], Counter]:
                 if not url.lower().startswith(("http://", "https://")):
                     counts["dropped_unsupported_protocol"] += 1
                     continue
-                if any(term in lowered for term in drop_url_terms):
+                if any(term in url.casefold() for term in drop_url_terms):
                     counts["dropped_promo"] += 1
                     continue
                 if any(term in lowered for term in drop_terms) or "free iptv world promo" in lowered:
                     counts["dropped_promo"] += 1
                     continue
+                if is_vod_entry(cleaned_name or original_name, url, rules):
+                    counts["dropped_vod"] += 1
+                    continue
 
-                language = infer_language(search_text, rules)
+                language = infer_language(language_text, rules)
                 if language not in {"arabic", "english"}:
                     counts["dropped_language"] += 1
                     continue
 
                 categories = infer_categories(search_text, rules)
+                known_category = known_channel_category(cleaned_name or original_name, rules)
+                if known_category:
+                    categories = [known_category]
                 primary_category = categories[0] if categories else None
 
                 family_key, normalized_url, _ = canonicalize_url(url, token_params)
@@ -354,16 +433,16 @@ def build_entries(source_dir: Path, rules: dict) -> tuple[list[Entry], Counter]:
                     primary_category=primary_category,
                     url=normalized_url,
                     url_key=family_key,
-                    name_key=normalize_name_key(cleaned_name or original_name),
+                    name_key=channel_identity_key(cleaned_name or original_name),
                 )
                 entries.append(entry)
     return entries, counts
 
 
 def group_by_url(entries: list[Entry]) -> list[ChannelRecord]:
-    grouped: dict[str, list[Entry]] = defaultdict(list)
+    grouped: dict[tuple[str, str], list[Entry]] = defaultdict(list)
     for entry in entries:
-        grouped[entry.url_key].append(entry)
+        grouped[(entry.url_key, entry.language)].append(entry)
     records: list[ChannelRecord] = []
     for group_entries in grouped.values():
         records.append(representative_record(group_entries))
@@ -372,7 +451,7 @@ def group_by_url(entries: list[Entry]) -> list[ChannelRecord]:
 
 
 def merge_by_name(records: list[ChannelRecord]) -> tuple[list[ChannelRecord], int]:
-    grouped: dict[tuple[str, str, str], list[ChannelRecord]] = defaultdict(list)
+    grouped: dict[tuple[str, str], list[ChannelRecord]] = defaultdict(list)
     for record in records:
         grouped[record_key(record)].append(record)
     merged: list[ChannelRecord] = []
@@ -401,23 +480,24 @@ def merge_by_name(records: list[ChannelRecord]) -> tuple[list[ChannelRecord], in
         urls.sort(key=url_sort_key, reverse=True)
         primary_url = urls[0]
         alternates = urls[1:]
+        combined_groups = sorted(
+            {group for record in group_records for group in record.groups},
+            key=lambda item: CATEGORY_ORDER.index(item) if item in CATEGORY_ORDER else 999,
+        )
         merged.append(
             ChannelRecord(
                 sequence=min(record.sequence for record in group_records),
                 name=best.name,
                 original_name=best.original_name,
                 language=best.language,
-                groups=sorted(
-                    {group for record in group_records for group in record.groups},
-                    key=lambda item: CATEGORY_ORDER.index(item) if item in CATEGORY_ORDER else 999,
-                ),
+                groups=combined_groups,
                 raw_group=next((record.raw_group for record in group_records if record.raw_group), ""),
                 logo=best.logo,
                 primary_url=primary_url,
                 alternates=alternates,
                 source_file=best.source_file,
-                primary_category=best.primary_category,
-                name_key=best.name_key or normalize_name_key(best.name),
+                primary_category=combined_groups[0] if combined_groups else None,
+                name_key=best.name_key or channel_identity_key(best.name),
             )
         )
     merged.sort(key=lambda record: (record.sequence, record.name.casefold(), record.primary_url))
@@ -501,6 +581,7 @@ def build_manifest(
             "raw_files": counts["raw_files"],
             "raw_channels": counts["raw_channels"],
             "dropped_promo": counts["dropped_promo"],
+            "dropped_vod": counts["dropped_vod"],
             "dropped_unsupported_protocol": counts["dropped_unsupported_protocol"],
             "dropped_language": counts["dropped_language"],
             "deduped": counts["deduped"],
@@ -518,6 +599,27 @@ def build_manifest(
 def select_language_records(records: list[ChannelRecord], language: str, limit: int) -> list[ChannelRecord]:
     selected = [record for record in records if record.language == language]
     return selected[:limit]
+
+
+def priority_rank(record: ChannelRecord, rules: dict) -> int:
+    priorities = rules.get("priority_channels", {}).get(record.language, [])
+    haystack = record.name_key or channel_identity_key(record.name)
+    for index, channel_name in enumerate(priorities):
+        if channel_identity_key(channel_name) in haystack:
+            return index
+    return len(priorities) + 1
+
+
+def sort_language_records(records: list[ChannelRecord], language: str, rules: dict) -> list[ChannelRecord]:
+    selected = [record for record in records if record.language == language]
+    return sorted(
+        selected,
+        key=lambda record: (
+            priority_rank(record, rules),
+            record.sequence,
+            record.name.casefold(),
+        ),
+    )
 
 
 def select_category_records(records: list[ChannelRecord], category: str, limit: int, language: str) -> list[ChannelRecord]:
@@ -546,7 +648,7 @@ def build_dist(source_dir: Path, output_dir: Path, rules: dict) -> dict[str, dic
             shutil.rmtree(language_dir)
         language_dir.mkdir(parents=True, exist_ok=True)
 
-        catalog_records = [record for record in merged_records if record.language == language][: language_rules["catalog"]]
+        catalog_records = sort_language_records(merged_records, language, rules)[: language_rules["catalog"]]
         language_records = select_language_records(catalog_records, language, language_rules["main"])
         category_records = {
             category: select_category_records(catalog_records, category, language_rules[category], language)

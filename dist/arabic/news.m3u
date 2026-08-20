@@ -1,221 +1,145 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="AR.NEW| SKY NEWS ARABIC" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-middle-east/sky-news-arabia-mea.png" group-title="news",AR.NEW| SKY NEWS ARABIC
-http://hdlocal.de:8080/eurotv/jyrDCMeEZchhnvsWWS2211/2358
-#EXTINF:-1 tvg-name="AR.NEW| BBC ARABIC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Logo_BBC_Arabic.png/800px-Logo_BBC_Arabic.png" group-title="news",AR.NEW| BBC ARABIC
-http://hdlocal.de:8080/eurotv/jyrDCMeEZchhnvsWWS2211/1894
-#EXTINF:-1 tvg-name="AR.NEW| AL ARABIYA NEWS" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-arab-emirates/al-arabiya-ae.png" group-title="news",AR.NEW| AL ARABIYA NEWS
-http://hdlocal.de:8080/eurotv/jyrDCMeEZchhnvsWWS2211/1328
-#EXTINF:-1 tvg-name="DW Arabic (1080p)" tvg-logo="https://i.imgur.com/8MRNFb9.png" group-title="news",DW Arabic (1080p)
-https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/master.m3u8
-#EXTINF:-1 tvg-name="Al Arabiya Programs (1280p)" tvg-logo="https://i.imgur.com/Hoc3cfO.png" group-title="news",Al Arabiya Programs (1280p)
-https://live.alarabiya.net/alarabiapublish/aaprograms.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="Al Arabiya (1080p)" tvg-logo="https://shahid.mbc.net/mediaObject/a4c125db-ede8-4970-9eed-963948c78651?height=auto&width=512&croppingPoint=&version=1&type=png" group-title="news",Al Arabiya (1080p)
-https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="CGTN Arabic (1080p) [Not 24/7]" tvg-logo="https://i.imgur.com/AkFFrS7.png" group-title="news",CGTN Arabic (1080p) [Not 24/7]
-https://arabic-livews.cgtn.com/hls/LSveq57bErWLinBnxosqjisZ220802LSTefTAS9zc9mpU08y3np9TH220802cd/playlist.m3u8
-#EXTINF:-1 tvg-name="Al Jazeera Arabic" tvg-logo="" group-title="news",Al Jazeera Arabic
-https://op-group1-swiftservehd-1.dens.tv/s/s16/index.m3u8
-#EXTINF:-1 tvg-name="Medi 1 TV Arabic (1080p)" tvg-logo="https://i.imgur.com/3YsZPY6.jpeg" group-title="news",Medi 1 TV Arabic (1080p)
-https://cdn.live.easybroadcast.io/abr_corp/83_medi1tv-arabic_g90v4ec/playlist.m3u8
-#EXTINF:-1 tvg-name="France 24 Arabic (1080p)" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_FRANCE_24/images/LOGO_HD/image.png" group-title="news",France 24 Arabic (1080p)
-https://live.france24.com/hls/live/2037222-b/F24_AR_HI_HLS/master_5000.m3u8
-#EXTINF:-1 tvg-name="Al Jazeera Arabic (1080p)" tvg-logo="" group-title="news",Al Jazeera Arabic (1080p)
-https://live-hls-web-aja.getaj.net/AJA/index.m3u8
-#EXTINF:-1 tvg-name="Libya Al Ahrar TV (1080p)" tvg-logo="https://i.imgur.com/xkQKVGi.png" group-title="news",Libya Al Ahrar TV (1080p)
-https://stream-hls.castr.net/64490fcefe045f1b63012886/live_22d9a1f0c69c11ee9441219c2cc6d61f/index.fmp4.m3u8
-#EXTINF:-1 tvg-name="Al Mayadeen (576p)" tvg-logo="https://i.imgur.com/GtQOKeW.png" group-title="news",Al Mayadeen (576p)
-https://mdnlv.cdn.octivid.com/almdn/smil:mpegts.stream.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="RT Arabic (1080p) [Geo-blocked]" tvg-logo="https://i.imgur.com/G8vGrn1.png" group-title="news",RT Arabic (1080p) [Geo-blocked]
-https://rt-arb.rttv.com/dvr/rtarab/playlist.m3u8
-#EXTINF:-1 tvg-name="Syria TV (1080p)" tvg-logo="https://i.imgur.com/FjuVuXF.jpeg" group-title="news",Syria TV (1080p)
-https://live.kwikmotion.com/syriatvlive/syriatv.smil/playlist_dvr.m3u8
-#EXTINF:-1 tvg-name="Alalam News Channel Syria (1080p)" tvg-logo="" group-title="news",Alalam News Channel Syria (1080p)
-https://live2.alalam.ir/live/Alalam/index.m3u8
-#EXTINF:-1 tvg-name="Al Arabiya English (1080p)" tvg-logo="https://shahid.mbc.net/mediaObject/7cfc0baf-1201-477f-b722-d3099fafe17f?height=230&width=512&croppingPoint=&version=1&type=png" group-title="news",Al Arabiya English (1080p)
-https://live.alarabiya.net/alarabiapublish/english/playlist_dvr.m3u8
-#EXTINF:-1 tvg-name="Al Hadath العربية" tvg-logo="" group-title="news",Al Hadath العربية
-http://maximsmartv.shop:8080/th9255/a8703f4ff2dd0827/626284
-#EXTINF:-1 tvg-name="France 24 العربية Y" tvg-logo="" group-title="news",France 24 العربية Y
-http://maximsmartv.shop:8080/th9255/a8703f4ff2dd0827/626285
-#EXTINF:-1 tvg-name="BBC Arabic (720p)" tvg-logo="https://i.imgur.com/ScyTG6P.png" group-title="news",BBC Arabic (720p)
-https://vs-cmaf-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_arabic_tv/pc_hd_abr_v2.mpd
-#EXTINF:-1 tvg-name="AR: SYRIA NEWS" tvg-logo="https://docdog.top/logo/countries/arab/SYRIANEWS.jpg" group-title="news",AR: SYRIA NEWS
-http://vipbtpxnzmb.top:8080/VIP012681760795419102/1fe6bce04fc9/6841
-#EXTINF:-1 tvg-name="AR: LIBYA 218 NEWS" tvg-logo="https://docdog.top/logo/countries/arab/libya218news.png" group-title="news",AR: LIBYA 218 NEWS
-http://vipbtpxnzmb.top:8080/VIP012681760795419102/1fe6bce04fc9/6872
-#EXTINF:-1 tvg-name="AR: BBC ARABIC" tvg-logo="https://docdog.top/logo/countries/arab/bbcarabic.png" group-title="news",AR: BBC ARABIC
-http://teknom.store:2095/mm7788dd6/mm0602ss00/23606
-#EXTINF:-1 tvg-name="AR-SYR: SYRIA NEWS" tvg-logo="https://docdog.top/logo/countries/ar/SYR_SYRIA_NEWS.png" group-title="news",AR-SYR: SYRIA NEWS
-http://vipbtpxnzmb.top:8080/VIP012681760795419102/1fe6bce04fc9/130608
-#EXTINF:-1 tvg-name="AR|DOCU: BBC ARABIC" tvg-logo="https://docdog.top/logo/countries/ar/BBC_ARABIC.png" group-title="news",AR|DOCU: BBC ARABIC
-http://vipbtpxnzmb.top:8080/VIP012681760795419102/1fe6bce04fc9/130739
-#EXTINF:-1 tvg-name="AR|NEWS: AL ARABIYA" tvg-logo="https://docdog.top/logo/countries/ar/AL_ARABIYA.png" group-title="news",AR|NEWS: AL ARABIYA
-http://vipbtpxnzmb.top:8080/VIP012681760795419102/1fe6bce04fc9/130848
-#EXTINF:-1 tvg-name="AR|NEWS: Al ARABIYA BUSINESS" tvg-logo="https://docdog.top/logo/countries/ar/Al_ARABIYA_BUSINESS.png" group-title="news",AR|NEWS: Al ARABIYA BUSINESS
-http://vipbtpxnzmb.top:8080/VIP012681760795419102/1fe6bce04fc9/130849
-#EXTINF:-1 tvg-name="AR|NEWS: TRT ARABIC" tvg-logo="https://docdog.top/logo/countries/ar/TRT_ARABIC.png" group-title="news",AR|NEWS: TRT ARABIC
-http://vipbtpxnzmb.top:8080/VIP012681760795419102/1fe6bce04fc9/130871
-#EXTINF:-1 tvg-name="ALJAZEERA NEWS TV" tvg-logo="https://logo.m3uassets.com/aljazeeranews.png" group-title="news",ALJAZEERA NEWS TV
-http://arabitv5.com:8000/res-ms543/aatnR3HQJA7A/64
-#EXTINF:-1 tvg-name="ALARABIYA NEWS HD" tvg-logo="https://logo.m3uassets.com/alarabiya.png" group-title="news",ALARABIYA NEWS HD
-http://arabitv5.com:8000/res-ms543/aatnR3HQJA7A/65
-#EXTINF:-1 tvg-name="RT NEWS TV" tvg-logo="https://logo.m3uassets.com/rtnews.png" group-title="news",RT NEWS TV
-http://arabitv5.com:8000/res-ms543/aatnR3HQJA7A/66
-#EXTINF:-1 tvg-name="SHARQIA NEWS TV" tvg-logo="https://logo.m3uassets.com/alsharqianews.png" group-title="news",SHARQIA NEWS TV
-http://arabitv5.com:8000/res-ms543/aatnR3HQJA7A/96
-#EXTINF:-1 tvg-name="ALJAZEERA" tvg-logo="https://logo.m3uassets.com/aljazeera.png" group-title="news",ALJAZEERA
-http://arabitv5.com:8000/res-ms543/aatnR3HQJA7A/231
-#EXTINF:-1 tvg-name="ALJAZEERA MUBASHAR TV" tvg-logo="https://logo.m3uassets.com/aljazeeramubashar.png" group-title="news",ALJAZEERA MUBASHAR TV
-http://arabitv5.com:8000/res-ms543/aatnR3HQJA7A/232
-#EXTINF:-1 tvg-name="ALJAZEERA ENGLISH TV" tvg-logo="https://logo.m3uassets.com/aljazeeraenglish.png" group-title="news",ALJAZEERA ENGLISH TV
-http://arabitv5.com:8000/res-ms543/aatnR3HQJA7A/237
-#EXTINF:-1 tvg-name="FRANCE 24 TV" tvg-logo="https://logo.m3uassets.com/24tv.png" group-title="news",FRANCE 24 TV
-http://arabitv5.com:8000/res-ms543/aatnR3HQJA7A/238
-#EXTINF:-1 tvg-name="AL HADATH TV" tvg-logo="https://logo.m3uassets.com/chadatv.png" group-title="news",AL HADATH TV
-http://arabitv5.com:8000/res-ms543/aatnR3HQJA7A/310
-#EXTINF:-1 tvg-name="ALJAZEERA DOCUMENTARY HD" tvg-logo="https://logo.m3uassets.com/aljazeeradocumentary.png" group-title="news",ALJAZEERA DOCUMENTARY HD
-http://arabitv5.com:8000/res-ms543/aatnR3HQJA7A/1737
-#EXTINF:-1 tvg-name="SKY NEWS ARABIA HD" tvg-logo="https://logo.m3uassets.com/skynewsarabia.png" group-title="news",SKY NEWS ARABIA HD
-http://arabitv5.com:8000/res-ms543/aatnR3HQJA7A/1740
-#EXTINF:-1 tvg-name="BBC ARABIC HD" tvg-logo="https://logo.m3uassets.com/bbcarabic.png" group-title="news",BBC ARABIC HD
-http://arabitv5.com:8000/res-ms543/aatnR3HQJA7A/1741
-#EXTINF:-1 tvg-name="AL MAYADEEN TV" tvg-logo="https://logo.m3uassets.com/almayadeentv.png" group-title="news",AL MAYADEEN TV
-http://arabitv5.com:8000/res-ms543/aatnR3HQJA7A/1904
-#EXTINF:-1 tvg-name="EURO NEWS HD" tvg-logo="https://logo.m3uassets.com/euronews.png" group-title="news",EURO NEWS HD
-http://arabitv5.com:8000/res-ms543/aatnR3HQJA7A/3179
-#EXTINF:-1 tvg-name="TRT ARABIC TV" tvg-logo="https://logo.m3uassets.com/trtarabic.png" group-title="news",TRT ARABIC TV
-http://arabitv5.com:8000/res-ms543/aatnR3HQJA7A/3182
-#EXTINF:-1 tvg-name="WATAN TV" tvg-logo="https://logo.m3uassets.com/watantv.png" group-title="news",WATAN TV
-http://arabitv5.com:8000/res-ms543/aatnR3HQJA7A/3347
-#EXTINF:-1 tvg-name="MEKAMLEEN TV" tvg-logo="https://logo.m3uassets.com/mekameleentv.png" group-title="news",MEKAMLEEN TV
-http://arabitv5.com:8000/res-ms543/aatnR3HQJA7A/3376
-#EXTINF:-1 tvg-name="CNBC NEWS HD" tvg-logo="https://logo.m3uassets.com/nbcnews.png" group-title="news",CNBC NEWS HD
-http://arabitv5.com:8000/res-ms543/aatnR3HQJA7A/3393
-#EXTINF:-1 tvg-name="BBC WORLD TV" tvg-logo="https://logo.m3uassets.com/bbcworld.png" group-title="news",BBC WORLD TV
-http://arabitv5.com:8000/res-ms543/aatnR3HQJA7A/3402
-#EXTINF:-1 tvg-name="EL SHARQ TV" tvg-logo="https://logo.m3uassets.com/elsharqtv.png" group-title="news",EL SHARQ TV
-http://arabitv5.com:8000/res-ms543/aatnR3HQJA7A/4837
-#EXTINF:-1 tvg-name="DW ARABIA TV" tvg-logo="https://logo.m3uassets.com/dwarabia.png" group-title="news",DW ARABIA TV
-http://arabitv5.com:8000/res-ms543/aatnR3HQJA7A/5658
-#EXTINF:-1 tvg-name="ALARABIYA NEWS TV" tvg-logo="https://logo.m3uassets.com/alarabiyatv.png" group-title="news",ALARABIYA NEWS TV
-http://arabitv5.com:8000/res-ms543/aatnR3HQJA7A/7182
-#EXTINF:-1 tvg-name="ALJAZEERA NEWS HD" tvg-logo="https://logo.m3uassets.com/aljazeeranews.png" group-title="news",ALJAZEERA NEWS HD
-http://arabitv5.com:8000/res-ms543/aatnR3HQJA7A/7195
-#EXTINF:-1 tvg-name="ALHADATH HD TV" tvg-logo="https://logo.m3uassets.com/alhadath.png" group-title="news",ALHADATH HD TV
-http://arabitv5.com:8000/res-ms543/aatnR3HQJA7A/12586
-#EXTINF:-1 tvg-name="NILE NEWS TV" tvg-logo="https://logo.m3uassets.com/nilenews.png" group-title="news",NILE NEWS TV
-http://arabitv5.com:8000/res-ms543/aatnR3HQJA7A/1788
-#EXTINF:-1 tvg-name="IRAQ NEWS TV" tvg-logo="https://logo.m3uassets.com/armnewstv.png" group-title="news",IRAQ NEWS TV
-http://arabitv5.com:8000/res-ms543/aatnR3HQJA7A/4102
-#EXTINF:-1 tvg-name="DZAIR NEWS" tvg-logo="http://136.243.38.238/logos/general1/aljeria-min.png" group-title="news",DZAIR NEWS
-http://arabitv5.com:8000/res-ms543/aatnR3HQJA7A/13277
+#EXTINF:-1 tvg-name="AR: AL JAZEERA MUBASHER" tvg-logo="" group-title="news",AR: AL JAZEERA MUBASHER
+http://ctn34.xyz:2095/bbbr6109/bb00yy2611/157776
+#EXTINF:-1 tvg-name="AR: AL JAZEERA" tvg-logo="https://docdog.top/logo/countries/arab/aljazeera.png" group-title="news",AR: AL JAZEERA
+http://ctn34.xyz:2095/bbbr6109/bb00yy2611/163784
+#EXTINF:-1 tvg-name="AR: AL ARABIYA HD" tvg-logo="" group-title="news",AR: AL ARABIYA HD
+http://ctn34.xyz:2095/bbbr6109/bb00yy2611/84816
+#EXTINF:-1 tvg-name="AR: AL ARABIYA BUSINESS HD" tvg-logo="" group-title="news",AR: AL ARABIYA BUSINESS HD
+http://ctn34.xyz:2095/bbbr6109/bb00yy2611/114155
+#EXTINF:-1 tvg-name="Al Arabiya News" tvg-logo="" group-title="news",Al Arabiya News
+http://mk-liveportal.com:5909/GoldSx/fXJem3k3UfCs/48022
+#EXTINF:-1 tvg-name="AR: AL HADATH NEWS" tvg-logo="" group-title="news",AR: AL HADATH NEWS
+http://ctn34.xyz:2095/bbbr6109/bb00yy2611/63809
+#EXTINF:-1 tvg-name="AR: Al Hadath Al Youm [ Al Hadath Today ]" tvg-logo="" group-title="news",AR: Al Hadath Al Youm [ Al Hadath Today ]
+http://ctn34.xyz:2095/bbbr6109/bb00yy2611/62182
+#EXTINF:-1 tvg-name="UAE: Al Hadath FHD" tvg-logo="" group-title="news",UAE: Al Hadath FHD
+http://shqiptv.online:8080/liv3cid90a49fe9a03af459/fXz6WrqDH/3270
+#EXTINF:-1 tvg-name="AR: SKY NEWS ARABIA" tvg-logo="" group-title="news",AR: SKY NEWS ARABIA
+http://ctn34.xyz:2095/bbbr6109/bb00yy2611/6100
+#EXTINF:-1 tvg-name="UA: FRANCE 24 ARABIC" tvg-logo="" group-title="news",UA: FRANCE 24 ARABIC
+http://31.43.191.125:8080/VIP019571742829342372/2b1fd1919d22/157723
+#EXTINF:-1 tvg-name="AR: BBC ARABIC" tvg-logo="" group-title="news",AR: BBC ARABIC
+http://ctn34.xyz:2095/bbbr6109/bb00yy2611/23606
+#EXTINF:-1 tvg-name="AR|DOCU: DW ARABIC" tvg-logo="https://docdog.top/logo/countries/ar/DW_ARABIC.png" group-title="news",AR|DOCU: DW ARABIC
+http://31.43.191.125:8080/VIP019571742829342372/2b1fd1919d22/130742
+#EXTINF:-1 tvg-name="AR: AL MAYADEEN" tvg-logo="" group-title="news",AR: AL MAYADEEN
+http://ctn34.xyz:2095/bbbr6109/bb00yy2611/53343
+#EXTINF:-1 tvg-name="LB: Al Mayadeen TV" tvg-logo="" group-title="news",LB: Al Mayadeen TV
+http://shqiptv.online:8080/liv3cid90a49fe9a03af459/fXz6WrqDH/3229
+#EXTINF:-1 tvg-name="AR-LBN: AL MAYADEEN" tvg-logo="https://docdog.top/logo/countries/ar/AL_MAYADEEN.png" group-title="news",AR-LBN: AL MAYADEEN
+http://31.43.191.125:8080/VIP019571742829342372/2b1fd1919d22/130444
 #EXTINF:-1 tvg-name="AR: RT NEWS ARABIC" tvg-logo="" group-title="news",AR: RT NEWS ARABIC
-http://teknom.store:2095/mm7788dd6/mm0602ss00/25261
-#EXTINF:-1 tvg-name="BIH:Al Jazeera Arabic HD" tvg-logo="https://i0.wp.com/resim.yayins.com/ulkeler/EX-YU-.png" group-title="news",BIH:Al Jazeera Arabic HD
-http://europlayiptv.de/live/MehmetKotil/SVJYDGN8l9/fd28e288-64a7-45d5-983c-a879810c8c4e.m3u
-#EXTINF:-1 tvg-name="PK:ARY NEWS HD" tvg-logo="https://i0.wp.com/resim.yayins.com/ulkeler/ARAP.png" group-title="news",PK:ARY NEWS HD
-http://europlayiptv.de/live/MehmetKotil/SVJYDGN8l9/8236366f-c547-4140-a5a8-27d600b040b4.m3u
-#EXTINF:-1 tvg-name="PK:92 NEWS HD" tvg-logo="https://i0.wp.com/resim.yayins.com/ulkeler/ARAP.png" group-title="news",PK:92 NEWS HD
-http://europlayiptv.de/live/MehmetKotil/SVJYDGN8l9/309ebaaa-07e2-4643-a157-ec0033edbe1e.m3u
-#EXTINF:-1 tvg-name="YEM:AL SHARQIYA NEWS HD" tvg-logo="https://i0.wp.com/resim.yayins.com/ulkeler/ARAP.png" group-title="news",YEM:AL SHARQIYA NEWS HD
-http://europlayiptv.de/live/MehmetKotil/SVJYDGN8l9/0d33ed77-391c-45b2-84dd-0a295936f128.m3u
-#EXTINF:-1 tvg-name="AR:AL JAZEERA HD" tvg-logo="https://i0.wp.com/resim.yayins.com/ulkeler/ARAP.png" group-title="news",AR:AL JAZEERA HD
-http://europlayiptv.de/live/MehmetKotil/SVJYDGN8l9/46bfd9e7-e9b5-438d-9498-e1a07cf0cf8f.m3u
-#EXTINF:-1 tvg-name="AR:BBC ARABIC HD" tvg-logo="https://i0.wp.com/resim.yayins.com/ulkeler/ARAP.png" group-title="news",AR:BBC ARABIC HD
-http://europlayiptv.de/live/MehmetKotil/SVJYDGN8l9/e2f71164-02d3-4d96-a79c-f7de05000e20.m3u
-#EXTINF:-1 tvg-name="AR:CNN HD" tvg-logo="https://i0.wp.com/resim.yayins.com/ulkeler/ARAP.png" group-title="news",AR:CNN HD
-http://europlayiptv.de/live/MehmetKotil/SVJYDGN8l9/08178858-134d-4cea-b27f-7f6818b213c6.m3u
-#EXTINF:-1 tvg-name="AR|AL JAZEERA DOCUMENTARY HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTb5fvIX7o5BnAmnaruZ9pCzyaCsVceTUc5q4y3igjM0Ezdy0ug8_I6pQw" group-title="news",AR|AL JAZEERA DOCUMENTARY HD
-http://kingtv.net:8080/d0:d0:03:34:41:7400/0vqef603/28062
-#EXTINF:-1 tvg-name="AR|AL RABIAA NEWS HD" tvg-logo="https://alrabiaa.tv/img/alrabiaa_logo.png" group-title="news",AR|AL RABIAA NEWS HD
-http://kingtv.net:8080/d0:d0:03:34:41:7400/0vqef603/239249
-#EXTINF:-1 tvg-name="AR|al jazeera documentary" tvg-logo="http://picons.atlaspro.to/picons/PICONS-BOUQUET-ARABIC/ALJAZEERAWATA.png" group-title="news",AR|al jazeera documentary
-http://kingtv.net:8080/d0:d0:03:34:41:7400/0vqef603/147533
-#EXTINF:-1 tvg-name="AR|AR|AL JAZEERA DOCUMENTARY FHD" tvg-logo="http://picons.atlaspro.to/picons/PICONS-BOUQUET-ARABIC/ALJAZEERAWATA.png" group-title="news",AR|AR|AL JAZEERA DOCUMENTARY FHD
-http://kingtv.net:8080/d0:d0:03:34:41:7400/0vqef603/147532
-#EXTINF:-1 tvg-name="ARI AL JAZEERA ARABIC 2 SD" tvg-logo="https://i.pinimg.com/1200x/b2/bd/42/b2bd420b173e7c01746f5c3855a4c429.jpg" group-title="news",ARI AL JAZEERA ARABIC 2 SD
-http://kingtv.net:8080/d0:d0:03:34:41:7400/0vqef603/245506
-#EXTINF:-1 tvg-name="ARI AL JAZEERA ARABIC 2 HD" tvg-logo="https://i.pinimg.com/1200x/b2/bd/42/b2bd420b173e7c01746f5c3855a4c429.jpg" group-title="news",ARI AL JAZEERA ARABIC 2 HD
-http://kingtv.net:8080/d0:d0:03:34:41:7400/0vqef603/245507
-#EXTINF:-1 tvg-name="AR|AL ARABY TV 2 HD" tvg-logo="https://www.alaraby2.com/themes/custom/arabytv/images/touch-icon-iphone.png" group-title="news",AR|AL ARABY TV 2 HD
-http://kingtv.net:8080/d0:d0:03:34:41:7400/0vqef603/199710
-#EXTINF:-1 tvg-name="ARI AL JAZEERA ARABIC SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Al-jazeera-logo.jpg/213px-Al-jazeera-logo.jpg" group-title="news",ARI AL JAZEERA ARABIC SD
-http://kingtv.net:8080/d0:d0:03:34:41:7400/0vqef603/93089
-#EXTINF:-1 tvg-name="ARI AL JAZEERA ARABIC HD" tvg-logo="https://i.pinimg.com/originals/11/6e/d8/116ed80f298c8ee40551e9291a2273f6.png" group-title="news",ARI AL JAZEERA ARABIC HD
-http://kingtv.net:8080/d0:d0:03:34:41:7400/0vqef603/73960
-#EXTINF:-1 tvg-name="AR|AL JAZEERA ARABIC FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfyXT2noimKLPI1Uca3qpnBT3f46GQvT1ltbi3qZJpafePVeJdw56M4b_U" group-title="news",AR|AL JAZEERA ARABIC FHD
-https://live-hls-web-aja.getaj.net/AJA/01.m3u8
-#EXTINF:-1 tvg-name="AR|AL JAZEERA MUBASHER FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS18zsZ3cyiLZxQ5xnZXL3BsK-phIeXYeekkslsFmNCLOwJa6xtt9QiZA" group-title="news",AR|AL JAZEERA MUBASHER FHD
-http://kingtv.net:8080/d0:d0:03:34:41:7400/0vqef603/28061
-#EXTINF:-1 tvg-name="AR|AL JAZEERA MUBASHER HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS18zsZ3cyiLZxQ5xnZXL3BsK-phIeXYeekkslsFmNCLOwJa6xtt9QiZA" group-title="news",AR|AL JAZEERA MUBASHER HD
-http://kingtv.net:8080/d0:d0:03:34:41:7400/0vqef603/74846
-#EXTINF:-1 tvg-name="AR|AL JAZEERA DOCUMENTARY FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTb5fvIX7o5BnAmnaruZ9pCzyaCsVceTUc5q4y3igjM0Ezdy0ug8_I6pQw" group-title="news",AR|AL JAZEERA DOCUMENTARY FHD
-http://kingtv.net:8080/d0:d0:03:34:41:7400/0vqef603/75019
-#EXTINF:-1 tvg-name="AR|AL HADATH HD" tvg-logo="https://www4.0zz0.com/2020/04/18/21/134137150.png" group-title="news",AR|AL HADATH HD
-http://kingtv.net:8080/d0:d0:03:34:41:7400/0vqef603/75015
-#EXTINF:-1 tvg-name="AR|AL ARABIYA HD" tvg-logo="http://kinglogo.newtvhd.com/logoo/MY%20HD/Alarabya.png" group-title="news",AR|AL ARABIYA HD
-http://kingtv.net:8080/d0:d0:03:34:41:7400/0vqef603/75020
-#EXTINF:-1 tvg-name="AR|AL HADATH FHD" tvg-logo="https://www4.0zz0.com/2020/04/18/21/134137150.png" group-title="news",AR|AL HADATH FHD
-http://kingtv.net:8080/d0:d0:03:34:41:7400/0vqef603/72343
-#EXTINF:-1 tvg-name="AR|BBC NEWS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVkuFXKZNqK1neEciTt4GWfJk5UDu9ktfzOSRGYT16zxoOluObOvy8XvU" group-title="news",AR|BBC NEWS
-http://kingtv.net:8080/d0:d0:03:34:41:7400/0vqef603/28058
-#EXTINF:-1 tvg-name="AR|RT ARABIC HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQh3T5q-Uja88LQ5aJZ8MPT4gIANAjpJCyJAgcTUjxWb2RNjBg9x_f6plm" group-title="news",AR|RT ARABIC HD
-http://kingtv.net:8080/d0:d0:03:34:41:7400/0vqef603/28055
-#EXTINF:-1 tvg-name="AR|EL SHARQ" tvg-logo="https://www7.0zz0.com/2020/04/18/22/670383546.jpg" group-title="news",AR|EL SHARQ
-http://kingtv.net:8080/d0:d0:03:34:41:7400/0vqef603/28052
-#EXTINF:-1 tvg-name="AR|DW ARABIC HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8CWrtDZ1_4TUTIrDk_fDNRPDwWn0naB2xKN4YYJvfb_WWtJt2gY6JBA" group-title="news",AR|DW ARABIC HD
-http://kingtv.net:8080/d0:d0:03:34:41:7400/0vqef603/28056
-#EXTINF:-1 tvg-name="AR| AL ALAM TV" tvg-logo="https://www10.0zz0.com/2020/04/18/22/511993620.png" group-title="news",AR| AL ALAM TV
-http://kingtv.net:8080/d0:d0:03:34:41:7400/0vqef603/28065
-#EXTINF:-1 tvg-name="AR|AL AAN TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Al_Aan_TV_Logo.png/150px-Al_Aan_TV_Logo.png" group-title="news",AR|AL AAN TV
-http://kingtv.net:8080/d0:d0:03:34:41:7400/0vqef603/28066
-#EXTINF:-1 tvg-name="AR|AL MAYADEEN TV" tvg-logo="https://www9.0zz0.com/2020/04/18/22/211575414.jpg" group-title="news",AR|AL MAYADEEN TV
-http://kingtv.net:8080/d0:d0:03:34:41:7400/0vqef603/28067
-#EXTINF:-1 tvg-name="AR|AL ARABIYA FHD" tvg-logo="http://kinglogo.newtvhd.com/logoo/MY%20HD/Alarabya.png" group-title="news",AR|AL ARABIYA FHD
-http://kingtv.net:8080/d0:d0:03:34:41:7400/0vqef603/72341
-#EXTINF:-1 tvg-name="AR|AL ARABY TV FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/87/Alaraby_TV_Logo.png" group-title="news",AR|AL ARABY TV FHD
-http://kingtv.net:8080/d0:d0:03:34:41:7400/0vqef603/72342
-#EXTINF:-1 tvg-name="AR|AL ARABY TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/87/Alaraby_TV_Logo.png" group-title="news",AR|AL ARABY TV HD
-http://kingtv.net:8080/d0:d0:03:34:41:7400/0vqef603/75014
-#EXTINF:-1 tvg-name="AR|Mehwer" tvg-logo="https://www10.0zz0.com/2020/04/18/21/443857709.jpg" group-title="news",AR|Mehwer
-http://kingtv.net:8080/d0:d0:03:34:41:7400/0vqef603/72347
-#EXTINF:-1 tvg-name="AR|AL HIWAR HD" tvg-logo="https://www.alhiwar.tv/all/images/logo.png" group-title="news",AR|AL HIWAR HD
-http://kingtv.net:8080/d0:d0:03:34:41:7400/0vqef603/72344
-#EXTINF:-1 tvg-name="AR|BBC Arabic" tvg-logo="https://www8.0zz0.com/2020/04/18/21/421059560.png" group-title="news",AR|BBC Arabic
-http://kingtv.net:8080/d0:d0:03:34:41:7400/0vqef603/72345
-#EXTINF:-1 tvg-name="AR|France 24 Arabic HD" tvg-logo="https://www6.0zz0.com/2020/04/18/21/857798367.png" group-title="news",AR|France 24 Arabic HD
-http://kingtv.net:8080/d0:d0:03:34:41:7400/0vqef603/72346
-#EXTINF:-1 tvg-name="AR|France 24 Arabic FHD" tvg-logo="https://www6.0zz0.com/2020/04/18/21/857798367.png" group-title="news",AR|France 24 Arabic FHD
-http://kingtv.net:8080/d0:d0:03:34:41:7400/0vqef603/116901
-#EXTINF:-1 tvg-name="AR|MEKAMELEEN TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/45/%D9%82%D9%86%D8%A7%D8%A9_%D9%85%D9%83%D9%85%D9%84%D9%8A%D9%86.jpg" group-title="news",AR|MEKAMELEEN TV HD
-http://kingtv.net:8080/d0:d0:03:34:41:7400/0vqef603/72348
-#EXTINF:-1 tvg-name="AR|SKY NEWS ARABIA HD" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51Ucx2Z-DdL._SY355_.png" group-title="news",AR|SKY NEWS ARABIA HD
-http://kingtv.net:8080/d0:d0:03:34:41:7400/0vqef603/72350
-#EXTINF:-1 tvg-name="AR|TRT ARABI HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTG4Z3F2dd0pkfzZLmfWV-8XwK-vLJxpQyliQZJUWufHtskW-EU&usqp=CAU" group-title="news",AR|TRT ARABI HD
-http://kingtv.net:8080/d0:d0:03:34:41:7400/0vqef603/75021
-#EXTINF:-1 tvg-name="AR|TRT ARABIC FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTG4Z3F2dd0pkfzZLmfWV-8XwK-vLJxpQyliQZJUWufHtskW-EU&usqp=CAU" group-title="news",AR|TRT ARABIC FHD
-http://kingtv.net:8080/d0:d0:03:34:41:7400/0vqef603/72351
-#EXTINF:-1 tvg-name="AR|TRT ARABI FHD (H.265)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTG4Z3F2dd0pkfzZLmfWV-8XwK-vLJxpQyliQZJUWufHtskW-EU&usqp=CAU" group-title="news",AR|TRT ARABI FHD (H.265)
-http://kingtv.net:8080/d0:d0:03:34:41:7400/0vqef603/75022
-#EXTINF:-1 tvg-name="AR|CGTN ARABIC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/97/CGTN_arabic.png" group-title="news",AR|CGTN ARABIC
-http://kingtv.net:8080/d0:d0:03:34:41:7400/0vqef603/74466
-#EXTINF:-1 tvg-name="AR|AL MUSTAKILLAH" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b0/Almostaqila.jpg" group-title="news",AR|AL MUSTAKILLAH
-http://kingtv.net:8080/d0:d0:03:34:41:7400/0vqef603/74467
-#EXTINF:-1 tvg-name="AR|AL SHARQIYA NEWS" tvg-logo="https://www13.0zz0.com/2020/04/18/22/134233337.png" group-title="news",AR|AL SHARQIYA NEWS
-http://kingtv.net:8080/d0:d0:03:34:41:7400/0vqef603/74468
-#EXTINF:-1 tvg-name="AR|ALHURRA HD" tvg-logo="https://www.iraq-businessnews.com/wp-content/uploads/2019/09/Al-Hurra-TV.png" group-title="news",AR|ALHURRA HD
-http://kingtv.net:8080/d0:d0:03:34:41:7400/0vqef603/74469
-#EXTINF:-1 tvg-name="AR|NBN LEBANON FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/14/Nbn_lebanon.png" group-title="news",AR|NBN LEBANON FHD
-http://kingtv.net:8080/d0:d0:03:34:41:7400/0vqef603/74470
-#EXTINF:-1 tvg-name="AR|i24NEWS ARABIC SD" tvg-logo="https://lh3.googleusercontent.com/proxy/qgTSqfPpYjPQsGt3jN_6v7YJS0CXugaFgl_1S-jQPc-syXI_TZNV--kPAEKJ1MMPp23auz1OPtC5XTJNXmdZkhRn49ZtCfaEclQNNFUO-yXPizmZ4KU" group-title="news",AR|i24NEWS ARABIC SD
-http://kingtv.net:8080/d0:d0:03:34:41:7400/0vqef603/130657
-#EXTINF:-1 tvg-name="AR|i24NEWS ARABIC FHD" tvg-logo="https://lh3.googleusercontent.com/proxy/qgTSqfPpYjPQsGt3jN_6v7YJS0CXugaFgl_1S-jQPc-syXI_TZNV--kPAEKJ1MMPp23auz1OPtC5XTJNXmdZkhRn49ZtCfaEclQNNFUO-yXPizmZ4KU" group-title="news",AR|i24NEWS ARABIC FHD
-http://kingtv.net:8080/d0:d0:03:34:41:7400/0vqef603/130656
-#EXTINF:-1 tvg-name="AR|AL EKHBARIYA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e3/%D8%A7%D9%84%D9%82%D9%86%D8%A7.png" group-title="news",AR|AL EKHBARIYA HD
-http://kingtv.net:8080/d0:d0:03:34:41:7400/0vqef603/75023
-#EXTINF:-1 tvg-name="AR|CNBC Arabiya" tvg-logo="https://www6.0zz0.com/2020/04/20/02/998155499.jpg" group-title="news",AR|CNBC Arabiya
-http://kingtv.net:8080/d0:d0:03:34:41:7400/0vqef603/69267
-#EXTINF:-1 tvg-name="AR|Libya News" tvg-logo="http://kinglogo.newtvhd.com/logoo/LIBYA/Libya%20218%20News.jpg" group-title="news",AR|Libya News
-http://kingtv.net:8080/d0:d0:03:34:41:7400/0vqef603/75294
-#EXTINF:-1 tvg-name="AR|SYRIA NEWS TV" tvg-logo="https://www4.0zz0.com/2020/04/20/03/830049452.jpg" group-title="news",AR|SYRIA NEWS TV
-http://kingtv.net:8080/d0:d0:03:34:41:7400/0vqef603/74483
+http://ctn34.xyz:2095/bbbr6109/bb00yy2611/25261
+#EXTINF:-1 tvg-name="AR: RT NEWS UK" tvg-logo="" group-title="news",AR: RT NEWS UK
+http://ctn34.xyz:2095/bbbr6109/bb00yy2611/160352
+#EXTINF:-1 tvg-name="AR|NEWS: Al EKHBARIYA" tvg-logo="https://docdog.top/logo/countries/ar/Al_EKHBARIYA.png" group-title="news",AR|NEWS: Al EKHBARIYA
+http://ctn34.xyz:2095/bbbr6109/bb00yy2611/59360
+#EXTINF:-1 tvg-name="AR|NEWS: Al MANAR" tvg-logo="https://docdog.top/logo/countries/ar/Al_MANAR.png" group-title="news",AR|NEWS: Al MANAR
+http://ctn34.xyz:2095/bbbr6109/bb00yy2611/51693
+#EXTINF:-1 tvg-name="AR|NEWS: AL HIWAR" tvg-logo="https://docdog.top/logo/countries/ar/AL_HIWAR.png" group-title="news",AR|NEWS: AL HIWAR
+http://ctn34.xyz:2095/bbbr6109/bb00yy2611/72330
+#EXTINF:-1 tvg-name="AR: AL SHARQIYA NEWS" tvg-logo="" group-title="news",AR: AL SHARQIYA NEWS
+http://ctn34.xyz:2095/bbbr6109/bb00yy2611/12263
+#EXTINF:-1 tvg-name="AR: FRANCE 24" tvg-logo="" group-title="news",AR: FRANCE 24
+http://ctn34.xyz:2095/bbbr6109/bb00yy2611/67880
+#EXTINF:-1 tvg-name="AR|NEWS: TRT ARABIC" tvg-logo="https://docdog.top/logo/countries/ar/TRT_ARABIC.png" group-title="news",AR|NEWS: TRT ARABIC
+http://ctn34.xyz:2095/bbbr6109/bb00yy2611/59460
+#EXTINF:-1 tvg-name="AR: I24 NEWS" tvg-logo="" group-title="news",AR: I24 NEWS
+http://ctn34.xyz:2095/bbbr6109/bb00yy2611/36637
+#EXTINF:-1 tvg-name="AR: M24 TV NEWS" tvg-logo="" group-title="news",AR: M24 TV NEWS
+http://ctn34.xyz:2095/bbbr6109/bb00yy2611/98392
+#EXTINF:-1 tvg-name="AR: Echorouk Tv News" tvg-logo="" group-title="news",AR: Echorouk Tv News
+http://ctn34.xyz:2095/bbbr6109/bb00yy2611/22166
+#EXTINF:-1 tvg-name="AR: CBC Extra News TV" tvg-logo="" group-title="news",AR: CBC Extra News TV
+http://ctn34.xyz:2095/bbbr6109/bb00yy2611/153909
+#EXTINF:-1 tvg-name="AR: Nile News" tvg-logo="" group-title="news",AR: Nile News
+http://ctn34.xyz:2095/bbbr6109/bb00yy2611/167788
+#EXTINF:-1 tvg-name="AR: IRAQIA NEWS" tvg-logo="https://docdog.top/logo/countries/arab/iraqianews.png" group-title="news",AR: IRAQIA NEWS
+http://ctn34.xyz:2095/bbbr6109/bb00yy2611/162472
+#EXTINF:-1 tvg-name="AR: iNews HD" tvg-logo="" group-title="news",AR: iNews HD
+http://ctn34.xyz:2095/bbbr6109/bb00yy2611/42965
+#EXTINF:-1 tvg-name="AR: AL SHARQ NEWS" tvg-logo="" group-title="news",AR: AL SHARQ NEWS
+http://ctn34.xyz:2095/bbbr6109/bb00yy2611/37677
+#EXTINF:-1 tvg-name="AR: RT NEWS" tvg-logo="" group-title="news",AR: RT NEWS
+http://shqiptv.online:8080/liv3cid90a49fe9a03af459/fXz6WrqDH/98939
+#EXTINF:-1 tvg-name="DZ: Echourouk News" tvg-logo="" group-title="news",DZ: Echourouk News
+http://shqiptv.online:8080/liv3cid90a49fe9a03af459/fXz6WrqDH/23330
+#EXTINF:-1 tvg-name="AR: DZAIR NEWS" tvg-logo="https://docdog.top/logo/countries/arab/dzairnews.png" group-title="news",AR: DZAIR NEWS
+http://31.43.191.125:8080/VIP019571742829342372/2b1fd1919d22/6398
+#EXTINF:-1 tvg-name="AR: ANN NEWS" tvg-logo="https://docdog.top/logo/countries/arab/ANNNEWS.png" group-title="news",AR: ANN NEWS
+http://31.43.191.125:8080/VIP019571742829342372/2b1fd1919d22/6533
+#EXTINF:-1 tvg-name="AR: PALESTINE NEWS" tvg-logo="https://docdog.top/logo/countries/arab/palestinenews.png" group-title="news",AR: PALESTINE NEWS
+http://31.43.191.125:8080/VIP019571742829342372/2b1fd1919d22/6549
+#EXTINF:-1 tvg-name="AR|NEWS: AL HURRA" tvg-logo="https://docdog.top/logo/countries/ar/AL_HURRA.png" group-title="news",AR|NEWS: AL HURRA
+http://31.43.191.125:8080/VIP019571742829342372/2b1fd1919d22/6630
+#EXTINF:-1 tvg-name="AR: AL SHOROUQ NEWS" tvg-logo="https://docdog.top/logo/countries/arab/SHOROUQ.jpg" group-title="news",AR: AL SHOROUQ NEWS
+http://31.43.191.125:8080/VIP019571742829342372/2b1fd1919d22/6645
+#EXTINF:-1 tvg-name="AR: CBC EXTRA NEWS" tvg-logo="https://docdog.top/logo/countries/arab/extranews.png" group-title="news",AR: CBC EXTRA NEWS
+http://31.43.191.125:8080/VIP019571742829342372/2b1fd1919d22/6657
+#EXTINF:-1 tvg-name="AR: SAUDI NEWS" tvg-logo="https://docdog.top/logo/countries/arab/saudinews.png" group-title="news",AR: SAUDI NEWS
+http://31.43.191.125:8080/VIP019571742829342372/2b1fd1919d22/6711
+#EXTINF:-1 tvg-name="AR: SYRIA NEWS" tvg-logo="https://docdog.top/logo/countries/arab/SYRIANEWS.jpg" group-title="news",AR: SYRIA NEWS
+http://31.43.191.125:8080/VIP019571742829342372/2b1fd1919d22/6841
+#EXTINF:-1 tvg-name="AR: LIBYA 218 NEWS" tvg-logo="https://docdog.top/logo/countries/arab/libya218news.png" group-title="news",AR: LIBYA 218 NEWS
+http://31.43.191.125:8080/VIP019571742829342372/2b1fd1919d22/6872
+#EXTINF:-1 tvg-name="AR: ✦●✦NEWS✦●✦" tvg-logo="" group-title="news",AR: ✦●✦NEWS✦●✦
+http://31.43.191.125:8080/VIP019571742829342372/2b1fd1919d22/6887
+#EXTINF:-1 tvg-name="AR: ORIENT NEWS" tvg-logo="https://docdog.top/logo/countries/arab/orientnews.png" group-title="news",AR: ORIENT NEWS
+http://31.43.191.125:8080/VIP019571742829342372/2b1fd1919d22/6904
+#EXTINF:-1 tvg-name="AR: EURONEWS" tvg-logo="https://docdog.top/logo/countries/arab/euronews.png" group-title="news",AR: EURONEWS
+http://31.43.191.125:8080/VIP019571742829342372/2b1fd1919d22/6975
+#EXTINF:-1 tvg-name="AR: EXTRA NEWS" tvg-logo="https://docdog.top/logo/countries/arab/extranews.png" group-title="news",AR: EXTRA NEWS
+http://31.43.191.125:8080/VIP019571742829342372/2b1fd1919d22/6976
+#EXTINF:-1 tvg-name="AR|NEWS: RUSSIA TODAY" tvg-logo="https://docdog.top/logo/countries/ar/RUSSIA_TODAY.png" group-title="news",AR|NEWS: RUSSIA TODAY
+http://31.43.191.125:8080/VIP019571742829342372/2b1fd1919d22/7028
+#EXTINF:-1 tvg-name="AR: Echorouk NEWS" tvg-logo="" group-title="news",AR: Echorouk NEWS
+http://31.43.191.125:8080/VIP019571742829342372/2b1fd1919d22/97149
+#EXTINF:-1 tvg-name="AR: OSN NEWS" tvg-logo="" group-title="news",AR: OSN NEWS
+http://31.43.191.125:8080/VIP019571742829342372/2b1fd1919d22/6446
+#EXTINF:-1 tvg-name="AR: OSN SKY NEWS" tvg-logo="" group-title="news",AR: OSN SKY NEWS
+http://31.43.191.125:8080/VIP019571742829342372/2b1fd1919d22/6459
+#EXTINF:-1 tvg-name="AR-AlMAJD: NEWS" tvg-logo="https://docdog.top/logo/countries/ar/AR-AlMAJD_NEWS.jpg" group-title="news",AR-AlMAJD: NEWS
+http://31.43.191.125:8080/VIP019571742829342372/2b1fd1919d22/130176
+#EXTINF:-1 tvg-name="AR-DZ: AL24 NEWS" tvg-logo="https://docdog.top/logo/countries/ar/AR-DZ_AL24_NEWS.png" group-title="news",AR-DZ: AL24 NEWS
+http://31.43.191.125:8080/VIP019571742829342372/2b1fd1919d22/130191
+#EXTINF:-1 tvg-name="AR-DZ: ECHOUROUK NEWS" tvg-logo="https://docdog.top/logo/countries/ar/AR-DZ_ECHOUROUK_NEWS.png" group-title="news",AR-DZ: ECHOUROUK NEWS
+http://31.43.191.125:8080/VIP019571742829342372/2b1fd1919d22/130209
+#EXTINF:-1 tvg-name="AR-EG: CBC EXTRA NEWS" tvg-logo="https://docdog.top/logo/countries/ar/CBC_EXTRA_NEWS.png" group-title="news",AR-EG: CBC EXTRA NEWS
+http://31.43.191.125:8080/VIP019571742829342372/2b1fd1919d22/130252
+#EXTINF:-1 tvg-name="AR-EG: NILE NEWS" tvg-logo="https://docdog.top/logo/countries/ar/NILE_ NEWS.png" group-title="news",AR-EG: NILE NEWS
+http://31.43.191.125:8080/VIP019571742829342372/2b1fd1919d22/130286
+#EXTINF:-1 tvg-name="AR-IRAQ: AL FORAT NEWS" tvg-logo="https://docdog.top/logo/countries/ar/AL_FORAT_NEWS.jpg" group-title="news",AR-IRAQ: AL FORAT NEWS
+http://31.43.191.125:8080/VIP019571742829342372/2b1fd1919d22/130328
+#EXTINF:-1 tvg-name="AR-IRAQ: AL IRAQIA NEWS" tvg-logo="https://docdog.top/logo/countries/ar/AL_IRAQIA_NEWS.png" group-title="news",AR-IRAQ: AL IRAQIA NEWS
+http://31.43.191.125:8080/VIP019571742829342372/2b1fd1919d22/130331
+#EXTINF:-1 tvg-name="AR-IRAQ: AL SHARQIYA NEWS HD" tvg-logo="https://docdog.top/logo/countries/ar/AL_SHARQIYA_NEWS_HD.png" group-title="news",AR-IRAQ: AL SHARQIYA NEWS HD
+http://31.43.191.125:8080/VIP019571742829342372/2b1fd1919d22/130343
+#EXTINF:-1 tvg-name="AR-IRAQ: INEWS" tvg-logo="https://docdog.top/logo/countries/ar/INEWS.png" group-title="news",AR-IRAQ: INEWS
+http://31.43.191.125:8080/VIP019571742829342372/2b1fd1919d22/130371
+#EXTINF:-1 tvg-name="AR-IRAQ: INEWS TV HD" tvg-logo="https://docdog.top/logo/countries/ar/INEWS_TV_HD.png" group-title="news",AR-IRAQ: INEWS TV HD
+http://31.43.191.125:8080/VIP019571742829342372/2b1fd1919d22/130372
+#EXTINF:-1 tvg-name="AR-IRAQ: IRAQIA NEWS HD" tvg-logo="https://docdog.top/logo/countries/ar/IRAQIA_NEWS_HD.png" group-title="news",AR-IRAQ: IRAQIA NEWS HD
+http://31.43.191.125:8080/VIP019571742829342372/2b1fd1919d22/130381
+#EXTINF:-1 tvg-name="AR-KWT: KUWAIT NEWS" tvg-logo="https://docdog.top/logo/countries/ar/AR-KWT_KUWAIT_NEWS.png" group-title="news",AR-KWT: KUWAIT NEWS
+http://31.43.191.125:8080/VIP019571742829342372/2b1fd1919d22/130436
+#EXTINF:-1 tvg-name="AR-PLS: PALESTINE NEWS" tvg-logo="https://docdog.top/logo/countries/ar/AR-PLS_PALESTINE_NEWS.png" group-title="news",AR-PLS: PALESTINE NEWS
+http://31.43.191.125:8080/VIP019571742829342372/2b1fd1919d22/130565
+#EXTINF:-1 tvg-name="AR-SYR: SYRIA NEWS" tvg-logo="https://docdog.top/logo/countries/ar/SYR_SYRIA_NEWS.png" group-title="news",AR-SYR: SYRIA NEWS
+http://31.43.191.125:8080/VIP019571742829342372/2b1fd1919d22/130608
+#EXTINF:-1 tvg-name="AR|NEWS: Al QAHIRA NEWS" tvg-logo="https://docdog.top/logo/countries/ar/Al_QAHIRA_NEWS.png" group-title="news",AR|NEWS: Al QAHIRA NEWS
+http://31.43.191.125:8080/VIP019571742829342372/2b1fd1919d22/130855
+#EXTINF:-1 tvg-name="AR|NEWS: ALMAMLAKA" tvg-logo="https://docdog.top/logo/countries/ar/ALMAMLAKA.png" group-title="news",AR|NEWS: ALMAMLAKA
+http://31.43.191.125:8080/VIP019571742829342372/2b1fd1919d22/130862
+#EXTINF:-1 tvg-name="AR|NEWS: ALMASHHAD" tvg-logo="https://docdog.top/logo/countries/ar/ALMASHHAD.png" group-title="news",AR|NEWS: ALMASHHAD
+http://31.43.191.125:8080/VIP019571742829342372/2b1fd1919d22/130863
+#EXTINF:-1 tvg-name="AR|NEWS: ALYAUM" tvg-logo="https://docdog.top/logo/countries/ar/ALYAUM.png" group-title="news",AR|NEWS: ALYAUM
+http://31.43.191.125:8080/VIP019571742829342372/2b1fd1919d22/130864
+#EXTINF:-1 tvg-name="AR|NEWS: ASHARIQA NEWS" tvg-logo="https://docdog.top/logo/countries/ar/ASHARIQA_NEWS.png" group-title="news",AR|NEWS: ASHARIQA NEWS
+http://31.43.191.125:8080/VIP019571742829342372/2b1fd1919d22/130865
+#EXTINF:-1 tvg-name="AR|NEWS: CNBC AR" tvg-logo="https://docdog.top/logo/countries/ar/CNBC_AR.png" group-title="news",AR|NEWS: CNBC AR
+http://31.43.191.125:8080/VIP019571742829342372/2b1fd1919d22/130866
+#EXTINF:-1 tvg-name="AR|NEWS: SKY ARABIA" tvg-logo="https://docdog.top/logo/countries/ar/SKY_ARABIA.png" group-title="news",AR|NEWS: SKY ARABIA
+http://31.43.191.125:8080/VIP019571742829342372/2b1fd1919d22/130870
+#EXTINF:-1 tvg-name="AR|SSC: NEWS" tvg-logo="https://docdog.top/logo/countries/ar/SSC_NEWS.png" group-title="news",AR|SSC: NEWS
+http://31.43.191.125:8080/VIP019571742829342372/2b1fd1919d22/131091

@@ -20,6 +20,9 @@ jobs:
         with:
           python-version: "3.11"
 
+      - name: Run pipeline tests
+        run: python3 -m unittest discover -s tests -v
+
       - name: Clone source repo
         run: |
           rm -rf tmp/iptv-source
