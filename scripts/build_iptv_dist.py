@@ -18,7 +18,7 @@ from urllib.parse import parse_qsl, urlencode, urlsplit, urlunsplit
 
 ROOT = Path(__file__).resolve().parents[1]
 DEFAULT_RULES = ROOT / "config" / "iptv_rules.json"
-SOURCE_REPO = "https://github.com/mesbahikarim03-svg/krimo.-Iptv"
+SOURCE_REPO = "https://github.com/mesbahikarim63-commits/hot-dodo"
 SOURCE_PATTERN = "FIW_17*.m3u"
 CATEGORY_ORDER: list[str] = []
 

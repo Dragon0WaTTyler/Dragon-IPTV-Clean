@@ -1,10 +1,10 @@
 # Dragon IPTV Clean
 
-This repository is a clean generated mirror of the `krimo.-Iptv` source playlist set.
+This repository is a clean generated mirror of the `hot-dodo` source playlist set.
 
 What it does:
 
-- Fetches raw `FIW_17*.m3u` files from [`krimo.-Iptv`](https://github.com/mesbahikarim03-svg/krimo.-Iptv) during GitHub Actions.
+- Fetches raw `FIW_17*.m3u` files from [`hot-dodo`](https://github.com/mesbahikarim63-commits/hot-dodo) during GitHub Actions.
 - Cleans the playlists and splits the output into Arabic-only and English-only catalogs.
 - Commits generated `dist/` files back into this repository when the generated outputs change.
 
