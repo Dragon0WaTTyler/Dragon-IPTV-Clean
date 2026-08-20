@@ -22,12 +22,12 @@ jobs:
 
       - name: Clone source repo
         run: |
-          rm -rf tmp/krimo-source
-          git clone --depth 1 https://github.com/mesbahikarim03-svg/krimo.-Iptv tmp/krimo-source
+          rm -rf tmp/iptv-source
+          git clone --depth 1 https://github.com/mesbahikarim63-commits/hot-dodo tmp/iptv-source
 
       - name: Build dist
         run: |
-          python3 scripts/build_iptv_dist.py --source-dir tmp/krimo-source --output-dir dist
+          python3 scripts/build_iptv_dist.py --source-dir tmp/iptv-source --output-dir dist
 
       - name: Show generated files
         run: |
