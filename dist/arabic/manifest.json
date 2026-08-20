@@ -1,12 +1,12 @@
 {
   "schema_version": 2,
-  "revision_utc": "2026-08-20T18:47:55Z",
+  "revision_utc": "2026-08-20T22:39:17Z",
   "source_repo": "https://github.com/mesbahikarim63-commits/hot-dodo",
   "source_pattern": "FIW_17*.m3u",
   "language": "arabic",
   "generated_by": "scripts/build_iptv_dist.py",
   "health_check": {
-    "enabled": false,
+    "enabled": true,
     "categories": [
       "news",
       "documentary"
@@ -33,10 +33,10 @@
     "news": 71,
     "documentary": 39,
     "sports": 165,
-    "health_checked": 0,
-    "health_reachable": 0,
-    "health_unreachable": 0,
-    "health_promoted": 0
+    "health_checked": 110,
+    "health_reachable": 55,
+    "health_unreachable": 55,
+    "health_promoted": 35
   },
   "files": {
     "catalog": "dragon_iptv_catalog.json",
