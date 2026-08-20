@@ -1,38 +1,48 @@
 {
-  "schema_version": 1,
-  "revision_utc": "2026-08-20T20:53:02Z",
+  "schema_version": 2,
+  "revision_utc": "2026-08-20T18:47:55Z",
   "source_repo": "https://github.com/mesbahikarim63-commits/hot-dodo",
   "source_pattern": "FIW_17*.m3u",
   "language": "arabic",
   "generated_by": "scripts/build_iptv_dist.py",
+  "health_check": {
+    "enabled": false,
+    "categories": [
+      "news",
+      "documentary"
+    ],
+    "max_urls_per_channel": 3
+  },
   "limits": {
     "catalog": 8000,
     "main": 3000,
     "news": 500,
     "documentary": 500,
-    "sports": 500,
-    "netflix": 1000
+    "sports": 500
   },
   "counts": {
     "raw_files": 29,
     "raw_channels": 2182986,
     "dropped_promo": 4387,
+    "dropped_vod": 2071218,
     "dropped_unsupported_protocol": 276,
-    "dropped_language": 25964,
-    "deduped": 1736202,
-    "kept_channels": 450,
-    "arabic": 450,
-    "news": 11,
-    "documentary": 2,
-    "sports": 31,
-    "netflix": 225
+    "dropped_language": 86839,
+    "deduped": 13693,
+    "kept_channels": 2279,
+    "arabic": 2279,
+    "news": 71,
+    "documentary": 39,
+    "sports": 165,
+    "health_checked": 0,
+    "health_reachable": 0,
+    "health_unreachable": 0,
+    "health_promoted": 0
   },
   "files": {
     "catalog": "dragon_iptv_catalog.json",
     "arabic": "arabic.m3u",
     "news": "news.m3u",
     "documentary": "documentary.m3u",
-    "sports": "sports.m3u",
-    "netflix": "netflix.m3u"
+    "sports": "sports.m3u"
   }
 }

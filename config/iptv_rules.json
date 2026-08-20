@@ -1,24 +1,35 @@
 {
-  "schema_version": 1,
+  "schema_version": 2,
   "generated_by": "scripts/build_iptv_dist.py",
   "source_repo": "https://github.com/mesbahikarim63-commits/hot-dodo",
   "source_pattern": "FIW_17*.m3u",
+  "source_selection": {
+    "max_files": 0
+  },
+  "health_check": {
+    "categories": [
+      "news",
+      "documentary"
+    ],
+    "timeout_seconds": 5,
+    "max_workers": 40,
+    "max_urls_per_channel": 3,
+    "read_bytes": 1024
+  },
   "limits": {
     "arabic": {
       "catalog": 8000,
       "main": 3000,
       "news": 500,
       "documentary": 500,
-      "sports": 500,
-      "netflix": 1000
+      "sports": 500
     },
     "english": {
       "catalog": 8000,
       "main": 3000,
       "news": 500,
       "documentary": 500,
-      "sports": 500,
-      "netflix": 1000
+      "sports": 500
     }
   },
   "cleanup": {
@@ -31,6 +42,23 @@
     ],
     "drop_url_terms": [
       "demo.mp4"
+    ],
+    "vod_url_markers": [
+      "/movie/",
+      "/movies/",
+      "/series/",
+      "/vod/"
+    ],
+    "vod_extensions": [
+      ".avi",
+      ".mkv",
+      ".mov",
+      ".mp4",
+      ".webm"
+    ],
+    "vod_name_patterns": [
+      "\\bS\\d{1,2}\\s*E\\d{1,3}\\b",
+      "\\bSeason\\s+\\d+\\s+Episode\\s+\\d+\\b"
     ],
     "unsupported_protocols": [
       "rtmp://",
@@ -61,6 +89,73 @@
     ]
   },
   "language": {
+    "arabic_prefixes": [
+      "AR",
+      "ARB",
+      "AE",
+      "UAE",
+      "BH",
+      "DZ",
+      "EG",
+      "IQ",
+      "JO",
+      "KW",
+      "LB",
+      "LY",
+      "MA",
+      "OM",
+      "PS",
+      "QA",
+      "SA",
+      "SD",
+      "SY",
+      "TN",
+      "YE"
+    ],
+    "english_prefixes": [
+      "AU",
+      "CA",
+      "EN",
+      "ENG",
+      "GB",
+      "IE",
+      "NZ",
+      "UK",
+      "US",
+      "USA"
+    ],
+    "blocked_country_markers": [
+      "AL",
+      "BG",
+      "BR",
+      "CN",
+      "CZ",
+      "DE",
+      "ES",
+      "FR",
+      "GR",
+      "HR",
+      "HU",
+      "ID",
+      "IN",
+      "IR",
+      "IT",
+      "JP",
+      "KR",
+      "MK",
+      "NL",
+      "PH",
+      "PK",
+      "PL",
+      "PT",
+      "RO",
+      "RS",
+      "RU",
+      "TH",
+      "TR",
+      "VF",
+      "VN"
+    ],
     "arabic_script_ranges": [
       "\\u0600-\\u06FF",
       "\\u0750-\\u077F",
@@ -83,54 +178,23 @@
       "الحدث",
       "mbc",
       "rotana",
-      "dubai",
-      "qatar",
-      "syria",
-      "libya",
       "almayadeen"
     ],
     "english_keywords": [
       "english",
-      "news",
-      "sport",
-      "sports",
-      "documentary",
-      "documentaries",
-      "movie",
-      "movies",
-      "series",
-      "film",
-      "films",
-      "cinema",
-      "channel",
-      "tv",
       "bbc",
       "cnn",
       "sky news",
       "euronews",
-      "france24",
+      "france 24 english",
       "al jazeera english",
       "discovery",
       "national geographic",
       "nat geo",
       "animal planet",
-      "history",
       "eurosport",
       "espn",
-      "fox",
-      "hbo",
-      "amc",
-      "tv1000",
-      "nickelodeon",
-      "cartoon network",
-      "disney",
-      "paramount",
-      "mtv",
-      "showtime",
-      "cinemax",
-      "tnt",
-      "action",
-      "comedy"
+      "trt world"
     ],
     "blocked_languages": [
       "russian",
@@ -152,24 +216,53 @@
       "turk",
       "türk",
       "uzbek",
-      "castellano"
+      "castellano",
+      "balkan",
+      "brasil",
+      "chile",
+      "cosmote",
+      "cyta",
+      "farsi",
+      "greek",
+      "hindi",
+      "internacional",
+      "korean",
+      "en espaniol",
+      "espaniol",
+      "exyu",
+      "indonesia",
+      "persian",
+      "urdu"
     ]
   },
   "categories": {
     "order": [
-      "news",
       "documentary",
       "sports",
-      "netflix"
+      "news"
     ],
+    "exclude_terms": {
+      "documentary": [
+        "cooking",
+        "food"
+      ],
+      "sports": [],
+      "news": []
+    },
     "news": [
       "news",
-      "bbc",
       "cnn",
       "sky news",
       "france24",
+      "france 24",
       "euronews",
+      "al jazeera arabic",
+      "al jazeera english",
+      "al jazeera mubasher",
       "al jazeera",
+      "aljazeera news",
+      "aljazeera english",
+      "aljazeera mubasher",
       "العربية",
       "اخبار",
       "الأخبار"
@@ -202,21 +295,71 @@
       "mma",
       "رياضة",
       "كورة"
+    ]
+  },
+  "known_channel_categories": {
+    "documentary": [
+      "Al Jazeera Documentary",
+      "Discovery Channel",
+      "Discovery Science",
+      "National Geographic",
+      "Nat Geo",
+      "Animal Planet",
+      "BBC Earth"
     ],
-    "netflix": [
-      "movie",
-      "movies",
-      "cinema",
-      "series",
-      "film",
-      "kino",
-      "amedia",
-      "tv1000",
-      "vip",
-      "comedy",
-      "action",
-      "أفلام",
-      "مسلسلات"
+    "sports": [
+      "beIN Sports",
+      "Eurosport",
+      "ESPN"
+    ],
+    "news": [
+      "Al Jazeera Arabic",
+      "Al Jazeera English",
+      "Al Jazeera Mubasher",
+      "Al Jazeera",
+      "Al Arabiya",
+      "Al Hadath",
+      "Sky News Arabia",
+      "Sky News",
+      "France 24 Arabic",
+      "France 24 English",
+      "BBC Arabic",
+      "BBC News",
+      "BBC World",
+      "BBC World News",
+      "DW Arabic",
+      "DW English",
+      "CNN International",
+      "Euronews",
+      "TRT World",
+      "Al Mayadeen"
+    ]
+  },
+  "priority_channels": {
+    "arabic": [
+      "Al Jazeera Arabic",
+      "Al Jazeera Mubasher",
+      "Al Jazeera",
+      "Al Arabiya",
+      "Al Hadath",
+      "Sky News Arabia",
+      "France 24 Arabic",
+      "BBC Arabic",
+      "DW Arabic",
+      "Al Mayadeen",
+      "Al Jazeera Documentary"
+    ],
+    "english": [
+      "Al Jazeera English",
+      "BBC News",
+      "CNN",
+      "Sky News",
+      "France 24 English",
+      "DW English",
+      "Euronews",
+      "TRT World",
+      "Discovery Channel",
+      "National Geographic"
     ]
   }
 }
