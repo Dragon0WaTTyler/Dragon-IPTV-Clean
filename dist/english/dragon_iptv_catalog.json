@@ -2739,9 +2739,9 @@
     ],
     "raw_group": "UK | ENGLAND VIP",
     "logo": "",
-    "primary_url": "http://ctn34.xyz:2095/bbbr6109/bb00yy2611/66323",
+    "primary_url": "http://ctn34.xyz:2095/bbbr6109/bb00yy2611/50522",
     "alternates": [
-      "http://ctn34.xyz:2095/bbbr6109/bb00yy2611/50522",
+      "http://ctn34.xyz:2095/bbbr6109/bb00yy2611/66323",
       "http://ctn34.xyz:2095/aa2861/aa0402dd00bb/66323",
       "http://ctn34.xyz:2095/aa2861/aa0402dd00bb/50522",
       "http://ctn34.xyz:2095/bdh2152tv/yhh2905gg00/66323",
@@ -2760,9 +2760,9 @@
       "http://31.43.191.125:8080/VIP01191699804893001/61699804893673/155449"
     ],
     "source_file": "FIW_1786483173_1_85c04a_Hunter_B613.m3u",
-    "health_status": "unreachable",
-    "health_checked_urls": 3,
-    "health_promoted": false
+    "health_status": "reachable",
+    "health_checked_urls": 2,
+    "health_promoted": true
   },
   {
     "id": "dragon_english_b9c026f11547",
@@ -38125,14 +38125,14 @@
     ],
     "raw_group": "UK VIP NEW",
     "logo": "",
-    "primary_url": "http://31.43.191.125:8080/VIP01191699804893001/61699804893673/146775",
+    "primary_url": "http://31.43.191.125:8080/VIP019571742829342372/2b1fd1919d22/146775",
     "alternates": [
-      "http://31.43.191.125:8080/VIP019571742829342372/2b1fd1919d22/146775"
+      "http://31.43.191.125:8080/VIP01191699804893001/61699804893673/146775"
     ],
     "source_file": "FIW_1786483173_1_85c04a_Hunter_B613.m3u",
-    "health_status": "reachable",
+    "health_status": "unreachable",
     "health_checked_urls": 2,
-    "health_promoted": true
+    "health_promoted": false
   },
   {
     "id": "dragon_english_5536597ba856",
@@ -48468,8 +48468,8 @@
       "http://31.43.191.125:8080/VIP01191699804893001/61699804893673/154908"
     ],
     "source_file": "FIW_1786483173_1_85c04a_Hunter_B613.m3u",
-    "health_status": "unreachable",
-    "health_checked_urls": 2,
+    "health_status": "reachable",
+    "health_checked_urls": 1,
     "health_promoted": false
   },
   {
