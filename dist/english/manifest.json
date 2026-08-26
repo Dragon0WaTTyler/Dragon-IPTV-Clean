@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "revision_utc": "2026-08-25T20:51:10Z",
+  "revision_utc": "2026-08-26T02:03:02Z",
   "source_repo": "https://github.com/mesbahikarim63-commits/hot-dodo",
   "source_pattern": "FIW_17*.m3u",
   "language": "english",
@@ -34,9 +34,9 @@
     "documentary": 107,
     "sports": 408,
     "health_checked": 238,
-    "health_reachable": 8,
-    "health_unreachable": 230,
-    "health_promoted": 5
+    "health_reachable": 6,
+    "health_unreachable": 232,
+    "health_promoted": 3
   },
   "files": {
     "catalog": "dragon_iptv_catalog.json",
