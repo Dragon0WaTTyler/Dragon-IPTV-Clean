@@ -262,8 +262,8 @@
       "http://31.43.191.125:8080/VIP01191699804893001/61699804893673/130739"
     ],
     "source_file": "FIW_1786484325_1_aead17_Hunter_2992.m3u",
-    "health_status": "unreachable",
-    "health_checked_urls": 3,
+    "health_status": "reachable",
+    "health_checked_urls": 1,
     "health_promoted": false
   },
   {
@@ -5325,8 +5325,8 @@
       "http://benstv.store:2095/mstf3429cep2/mstf1906ss00/145377"
     ],
     "source_file": "FIW_1786484325_1_aead17_Hunter_2992.m3u",
-    "health_status": "reachable",
-    "health_checked_urls": 1,
+    "health_status": "unreachable",
+    "health_checked_urls": 3,
     "health_promoted": false
   },
   {
@@ -14231,8 +14231,8 @@
       "http://benstv.store:2095/mstf3429cep2/mstf1906ss00/152246"
     ],
     "source_file": "FIW_1786484325_1_aead17_Hunter_2992.m3u",
-    "health_status": "unreachable",
-    "health_checked_urls": 3,
+    "health_status": "reachable",
+    "health_checked_urls": 1,
     "health_promoted": false
   },
   {
@@ -16918,16 +16918,16 @@
     ],
     "raw_group": "EU | BOSNIA VIP",
     "logo": "https://docdog.top/logo/countries/bosnia/discoveryscience.png",
-    "primary_url": "http://31.43.191.125:8080/VIP019571742829342372/2b1fd1919d22/4112",
+    "primary_url": "http://shqiptv.online:8080/liv3cid90a49fe9a03af459/fXz6WrqDH/7290",
     "alternates": [
-      "http://shqiptv.online:8080/liv3cid90a49fe9a03af459/fXz6WrqDH/7290",
+      "http://31.43.191.125:8080/VIP019571742829342372/2b1fd1919d22/4112",
       "http://shqiptv.online:8080/liv3cid90a49fe9a03af459/fXz6WrqDH/52484",
       "http://31.43.191.125:8080/VIP01191699804893001/61699804893673/4112"
     ],
     "source_file": "FIW_1786483173_1_85c04a_Hunter_B613.m3u",
-    "health_status": "reachable",
-    "health_checked_urls": 2,
-    "health_promoted": true
+    "health_status": "unreachable",
+    "health_checked_urls": 3,
+    "health_promoted": false
   },
   {
     "id": "dragon_arabic_81ad5333aa29",
@@ -20588,8 +20588,8 @@
       "http://31.43.191.125:8080/VIP01191699804893001/61699804893673/6398"
     ],
     "source_file": "FIW_1786483173_1_85c04a_Hunter_B613.m3u",
-    "health_status": "unreachable",
-    "health_checked_urls": 2,
+    "health_status": "reachable",
+    "health_checked_urls": 1,
     "health_promoted": false
   },
   {
@@ -21851,8 +21851,8 @@
       "http://31.43.191.125:8080/VIP01191699804893001/61699804893673/130853"
     ],
     "source_file": "FIW_1786483173_1_85c04a_Hunter_B613.m3u",
-    "health_status": "unreachable",
-    "health_checked_urls": 3,
+    "health_status": "reachable",
+    "health_checked_urls": 1,
     "health_promoted": false
   },
   {
@@ -22212,8 +22212,8 @@
       "http://31.43.191.125:8080/VIP01191699804893001/61699804893673/6657"
     ],
     "source_file": "FIW_1786483173_1_85c04a_Hunter_B613.m3u",
-    "health_status": "unreachable",
-    "health_checked_urls": 2,
+    "health_status": "reachable",
+    "health_checked_urls": 1,
     "health_promoted": false
   },
   {
@@ -22800,8 +22800,8 @@
       "http://31.43.191.125:8080/VIP01191699804893001/61699804893673/6711"
     ],
     "source_file": "FIW_1786483173_1_85c04a_Hunter_B613.m3u",
-    "health_status": "unreachable",
-    "health_checked_urls": 2,
+    "health_status": "reachable",
+    "health_checked_urls": 1,
     "health_promoted": false
   },
   {
@@ -25326,8 +25326,8 @@
       "http://31.43.191.125:8080/VIP01191699804893001/61699804893673/6891"
     ],
     "source_file": "FIW_1786483173_1_85c04a_Hunter_B613.m3u",
-    "health_status": "unreachable",
-    "health_checked_urls": 2,
+    "health_status": "reachable",
+    "health_checked_urls": 1,
     "health_promoted": false
   },
   {
@@ -27122,16 +27122,16 @@
     ],
     "raw_group": "ARAB VIP",
     "logo": "https://docdog.top/logo/countries/ar/RUSSIA_TODAY.png",
-    "primary_url": "http://31.43.191.125:8080/VIP019571742829342372/2b1fd1919d22/7028",
+    "primary_url": "http://31.43.191.125:8080/VIP019571742829342372/2b1fd1919d22/130869",
     "alternates": [
+      "http://31.43.191.125:8080/VIP019571742829342372/2b1fd1919d22/7028",
       "http://31.43.191.125:8080/VIP01191699804893001/61699804893673/7028",
-      "http://31.43.191.125:8080/VIP019571742829342372/2b1fd1919d22/130869",
       "http://31.43.191.125:8080/VIP01191699804893001/61699804893673/130869"
     ],
     "source_file": "FIW_1786483173_1_85c04a_Hunter_B613.m3u",
-    "health_status": "unreachable",
+    "health_status": "reachable",
     "health_checked_urls": 3,
-    "health_promoted": false
+    "health_promoted": true
   },
   {
     "id": "dragon_arabic_64cf1accf192",
@@ -27473,8 +27473,8 @@
       "http://31.43.191.125:8080/VIP01191699804893001/61699804893673/97149"
     ],
     "source_file": "FIW_1786483173_1_85c04a_Hunter_B613.m3u",
-    "health_status": "unreachable",
-    "health_checked_urls": 2,
+    "health_status": "reachable",
+    "health_checked_urls": 1,
     "health_promoted": false
   },
   {
@@ -27764,8 +27764,8 @@
       "http://31.43.191.125:8080/VIP01191699804893001/61699804893673/6446"
     ],
     "source_file": "FIW_1786483173_1_85c04a_Hunter_B613.m3u",
-    "health_status": "unreachable",
-    "health_checked_urls": 2,
+    "health_status": "reachable",
+    "health_checked_urls": 1,
     "health_promoted": false
   },
   {
@@ -28529,8 +28529,8 @@
       "http://31.43.191.125:8080/VIP01191699804893001/61699804893673/6498"
     ],
     "source_file": "FIW_1786483173_1_85c04a_Hunter_B613.m3u",
-    "health_status": "reachable",
-    "health_checked_urls": 1,
+    "health_status": "unreachable",
+    "health_checked_urls": 2,
     "health_promoted": false
   },
   {
@@ -39844,8 +39844,8 @@
       "http://31.43.191.125:8080/VIP01191699804893001/61699804893673/130891"
     ],
     "source_file": "FIW_1786483173_1_85c04a_Hunter_B613.m3u",
-    "health_status": "unreachable",
-    "health_checked_urls": 2,
+    "health_status": "reachable",
+    "health_checked_urls": 1,
     "health_promoted": false
   },
   {
