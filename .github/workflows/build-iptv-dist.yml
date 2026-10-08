@@ -2,6 +2,12 @@ name: Build IPTV Dist
 
 on:
   workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - ".github/workflows/build-iptv-dist.yml"
+      - "config/iptv_rules.json"
+      - "scripts/build_iptv_dist.py"
   schedule:
     - cron: "17 */5 * * *"
 
@@ -31,7 +37,7 @@ jobs:
       - name: Clone source repo
         run: |
           rm -rf tmp/iptv-source
-          git clone --depth 1 https://github.com/mesbahikarim63-commits/hot-dodo tmp/iptv-source
+          git clone --depth 1 https://github.com/mesbahikarim10-source/hot-dodo tmp/iptv-source
 
       - name: Build dist
         run: |

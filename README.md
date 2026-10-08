@@ -4,7 +4,7 @@ This repository is a clean generated mirror of the `hot-dodo` source playlist se
 
 What it does:
 
-- Fetches raw `FIW_17*.m3u` files from [`hot-dodo`](https://github.com/mesbahikarim63-commits/hot-dodo) during GitHub Actions.
+- Fetches raw `FIW_17*.m3u` files from [`hot-dodo`](https://github.com/mesbahikarim10-source/hot-dodo) during GitHub Actions.
 - Keeps live TV streams, removes obvious movie and series entries, and preserves playback authentication parameters.
 - Classifies Arabic and English using explicit language markers and country prefixes instead of generic words such as `TV`, `news`, or `sport`.
 - Splits the output into Arabic-only and English-only catalogs with prioritized news and documentary channels.

@@ -24,7 +24,7 @@ from urllib.request import HTTPRedirectHandler, Request, build_opener
 
 ROOT = Path(__file__).resolve().parents[1]
 DEFAULT_RULES = ROOT / "config" / "iptv_rules.json"
-SOURCE_REPO = "https://github.com/mesbahikarim63-commits/hot-dodo"
+SOURCE_REPO = "https://github.com/mesbahikarim10-source/hot-dodo"
 SOURCE_PATTERN = "FIW_17*.m3u"
 CATEGORY_ORDER: list[str] = []
 
