@@ -1,39 +1,45 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="AE: Aljazeera Documentary" tvg-logo="" group-title="documentary",AE: Aljazeera Documentary
-http://4k.cmn14.com:8080/HakanKara01/XGuSAvs5Kc/230192
-#EXTINF:-1 tvg-name="AR: OSN DISCOVERY" tvg-logo="" group-title="documentary",AR: OSN DISCOVERY
-http://neoyjpw.top:8080/1061760597105520/2869c7254b3d/53127
-#EXTINF:-1 tvg-name="AR: OSN DISCOVERY SCIENCE" tvg-logo="" group-title="documentary",AR: OSN DISCOVERY SCIENCE
-http://neoyjpw.top:8080/4201721231391171/f714324287f9/53129
-#EXTINF:-1 tvg-name="AR: OSN HISTORY" tvg-logo="" group-title="documentary",AR: OSN HISTORY
-http://neoyjpw.top:8080/38175432793718/b6j73ch5n775/53135
-#EXTINF:-1 tvg-name="AR: OSN NAT GEO" tvg-logo="" group-title="documentary",AR: OSN NAT GEO
-http://neoyjpw.top:8080/38175432793718/b6j73ch5n775/53150
-#EXTINF:-1 tvg-name="AR: OSN NAT GEO WILD" tvg-logo="" group-title="documentary",AR: OSN NAT GEO WILD
-http://neoyjpw.top:8080/38175432793718/b6j73ch5n775/53151
-#EXTINF:-1 tvg-name="AE: Nat Geo Wild" tvg-logo="" group-title="documentary",AE: Nat Geo Wild
-http://neoyjpw.top:8080/38175432793718/b6j73ch5n775/53090
-#EXTINF:-1 tvg-name="AR: AD NAT GEO" tvg-logo="" group-title="documentary",AR: AD NAT GEO
-http://neoyjpw.top:8080/38175432793718/b6j73ch5n775/52695
-#EXTINF:-1 tvg-name="AE: Discovery Science" tvg-logo="" group-title="documentary",AE: Discovery Science
-http://4k.cmn14.com:8080/HakanKara01/XGuSAvs5Kc/230208
-#EXTINF:-1 tvg-name="AE: Animal Planet" tvg-logo="" group-title="documentary",AE: Animal Planet
-http://4k.cmn14.com:8080/HakanKara01/XGuSAvs5Kc/230203
-#EXTINF:-1 tvg-name="AE: BBC Earth" tvg-logo="" group-title="documentary",AE: BBC Earth
-http://4k.cmn14.com:8080/HakanKara01/XGuSAvs5Kc/230205
-#EXTINF:-1 tvg-name="AE: History" tvg-logo="" group-title="documentary",AE: History
-http://4k.cmn14.com:8080/HakanKara01/XGuSAvs5Kc/230222
-#EXTINF:-1 tvg-name="AE: History 2" tvg-logo="" group-title="documentary",AE: History 2
-http://4k.cmn14.com:8080/HakanKara01/XGuSAvs5Kc/230223
-#EXTINF:-1 tvg-name="AE: Investigation Discovery" tvg-logo="" group-title="documentary",AE: Investigation Discovery
-http://4k.cmn14.com:8080/HakanKara01/XGuSAvs5Kc/230224
-#EXTINF:-1 tvg-name="AE: Nat Geo" tvg-logo="" group-title="documentary",AE: Nat Geo
-http://4k.cmn14.com:8080/HakanKara01/XGuSAvs5Kc/230247
-#EXTINF:-1 tvg-name="AE: Nat Geo Abu Dhabi" tvg-logo="" group-title="documentary",AE: Nat Geo Abu Dhabi
-http://4k.cmn14.com:8080/HakanKara01/XGuSAvs5Kc/230248
-#EXTINF:-1 tvg-name="SA: Asharq Discovery" tvg-logo="" group-title="documentary",SA: Asharq Discovery
-http://4k.cmn14.com:8080/HakanKara01/XGuSAvs5Kc/230316
-#EXTINF:-1 tvg-name="SA: Asharq Documentary" tvg-logo="" group-title="documentary",SA: Asharq Documentary
-http://4k.cmn14.com:8080/HakanKara01/XGuSAvs5Kc/230317
-#EXTINF:-1 tvg-name="UAE: NATIONAL GEOGRAPHIC ABU DHABI" tvg-logo="" group-title="documentary",UAE: NATIONAL GEOGRAPHIC ABU DHABI
-http://tgr25.pro:8080/live/ozkanerturk/bhFKQkY/4958.m3u
+#EXTINF:-1 tvg-name="AR: AL JAZEERA DOCUMENTARY" tvg-logo="https://docdog.top/logo/countries/arab/aljazeeradocumentary.png" group-title="documentary",AR: AL JAZEERA DOCUMENTARY
+http://sts.mydroon.com:8080/9127491274/QDXDbuLzFDYaYbD/75019
+#EXTINF:-1 tvg-name="AR|Al MAJD NATURE HD" tvg-logo="http://kinglogo.newtvhd.com/logoo/AL%20MAJD/Tabeaeyah.png" group-title="documentary",AR|Al MAJD NATURE HD
+http://sts.mydroon.com:8080/9127491274/QDXDbuLzFDYaYbD/52320
+#EXTINF:-1 tvg-name="AR|Al MAJD DOCUMENTARIES HD" tvg-logo="http://kinglogo.newtvhd.com/logoo/AL%20MAJD/Wathaeqeyah.png" group-title="documentary",AR|Al MAJD DOCUMENTARIES HD
+http://sts.mydroon.com:8080/9127491274/QDXDbuLzFDYaYbD/52319
+#EXTINF:-1 tvg-name="AR|AD Nat Geo" tvg-logo="http://kinglogo.newtvhd.com/logoo/IMARAT/NATGEO_AD.png" group-title="documentary",AR|AD Nat Geo
+http://sts.mydroon.com:8080/9127491274/QDXDbuLzFDYaYbD/69264
+#EXTINF:-1 tvg-name="AR| Asharq Discovery" tvg-logo="" group-title="documentary",AR| Asharq Discovery
+http://sts.mydroon.com:8080/9127491274/QDXDbuLzFDYaYbD/239734
+#EXTINF:-1 tvg-name="AR| Asharq Documentary" tvg-logo="" group-title="documentary",AR| Asharq Documentary
+http://sts.mydroon.com:8080/9127491274/QDXDbuLzFDYaYbD/239733
+#EXTINF:-1 tvg-name="AR: NATIONAL GEOGRAPHIC Abu Dhabi" tvg-logo="" group-title="documentary",AR: NATIONAL GEOGRAPHIC Abu Dhabi
+http://fixtv123.xyz:2095/rdgn2672cep/rdg2712cc00bb/1653
+#EXTINF:-1 tvg-name="AR: Al Majd Documentary" tvg-logo="" group-title="documentary",AR: Al Majd Documentary
+http://fixtv123.xyz:2095/rdgn2672cep/rdg2712cc00bb/27449
+#EXTINF:-1 tvg-name="AR: be*IN BBC EARTH HD" tvg-logo="" group-title="documentary",AR: be*IN BBC EARTH HD
+http://fixtv123.xyz:2095/rdgn2672cep/rdg2712cc00bb/75721
+#EXTINF:-1 tvg-name="AR: Investigation Discovery" tvg-logo="" group-title="documentary",AR: Investigation Discovery
+http://fixtv123.xyz:2095/rdgn2672cep/rdg2712cc00bb/162720
+#EXTINF:-1 tvg-name="AR: NATIONAL GEOGRAPHIC HD" tvg-logo="" group-title="documentary",AR: NATIONAL GEOGRAPHIC HD
+http://fixtv123.xyz:2095/rdgn2672cep/rdg2712cc00bb/145377
+#EXTINF:-1 tvg-name="AR: NAT GEO WILD" tvg-logo="https://docdog.top/logo/countries/arab/natgeowild.png" group-title="documentary",AR: NAT GEO WILD
+http://fixtv123.xyz:2095/rdgn2672cep/rdg2712cc00bb/41211
+#EXTINF:-1 tvg-name="AR: DISCOVERY HD" tvg-logo="" group-title="documentary",AR: DISCOVERY HD
+http://fixtv123.xyz:2095/rdgn2672cep/rdg2712cc00bb/124700
+#EXTINF:-1 tvg-name="AR: HISTORY" tvg-logo="" group-title="documentary",AR: HISTORY
+http://fixtv123.xyz:2095/rdgn2672cep/rdg2712cc00bb/1666
+#EXTINF:-1 tvg-name="AR: AL SHARQ DISCOVERY" tvg-logo="" group-title="documentary",AR: AL SHARQ DISCOVERY
+http://fixtv123.xyz:2095/rdgn2672cep/rdg2712cc00bb/152246
+#EXTINF:-1 tvg-name="AR: AL SHARQ DOCUMENTARY" tvg-logo="" group-title="documentary",AR: AL SHARQ DOCUMENTARY
+http://fixtv123.xyz:2095/rdgn2672cep/rdg2712cc00bb/10049
+#EXTINF:-1 tvg-name="AR: OSN DISCOVERY" tvg-logo="https://docdog.top/logo/countries/arab/osndiscovery.png" group-title="documentary",AR: OSN DISCOVERY
+http://neosfpoo.top:8080/8581774358850/f2341ff713d5/53127
+#EXTINF:-1 tvg-name="AR: OSN DISCOVERY SCIENCE" tvg-logo="https://docdog.top/logo/countries/arab/osndiscoveryscience.png" group-title="documentary",AR: OSN DISCOVERY SCIENCE
+http://neosfpoo.top:8080/8581774358850/f2341ff713d5/53129
+#EXTINF:-1 tvg-name="AR: OSN HISTORY" tvg-logo="https://docdog.top/logo/countries/arab/osnhistory.png" group-title="documentary",AR: OSN HISTORY
+http://neosfpoo.top:8080/2071771277838/6ec486cbcb6b/53135
+#EXTINF:-1 tvg-name="AR: OSN NAT GEO" tvg-logo="https://docdog.top/logo/countries/arab/osnnatgeowild.png" group-title="documentary",AR: OSN NAT GEO
+http://neosfpoo.top:8080/2071771277838/6ec486cbcb6b/53150
+#EXTINF:-1 tvg-name="AR: OSN NAT GEO WILD" tvg-logo="https://docdog.top/logo/countries/arab/osnnatgeowild.png" group-title="documentary",AR: OSN NAT GEO WILD
+http://neosfpoo.top:8080/8581774358850/f2341ff713d5/53151
+#EXTINF:-1 tvg-name="BH: DISCOVERY SCIENCE" tvg-logo="https://docdog.top/logo/countries/bosnia/discoveryscience.png" group-title="documentary",BH: DISCOVERY SCIENCE
+http://neosfpoo.top:8080/8581774358850/f2341ff713d5/9529
