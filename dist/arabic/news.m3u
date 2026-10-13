@@ -1,19 +1,3 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="LB : AL JAZEERA ARABIC" tvg-logo="https://cdn.countryflags.com/thumbs/lebanon/flag-round-250.png" group-title="news",LB : AL JAZEERA ARABIC
-http://watchdog.build/live/0228902066/tc674KJ3du/0efa791a-8874-419b-b9da-d30e9bfaac0d.m3u
-#EXTINF:-1 tvg-name="UAE : AL JAZEERA" tvg-logo="https://cdn.countryflags.com/thumbs/united-arab-emirates/flag-round-250.png" group-title="news",UAE : AL JAZEERA
-http://watchdog.build/live/0228902066/tc674KJ3du/eebc39ae-fa22-43a7-967d-fcc806997c81.m3u
-#EXTINF:-1 tvg-name="UAE : AL ARABIYA" tvg-logo="https://cdn.countryflags.com/thumbs/united-arab-emirates/flag-round-250.png" group-title="news",UAE : AL ARABIYA
-http://watchdog.build/live/0228902066/tc674KJ3du/8571d768-311b-4612-9a40-5ae933661fc7.m3u
-#EXTINF:-1 tvg-name="UAE : AL ARABIYA AL HADATH" tvg-logo="https://cdn.countryflags.com/thumbs/united-arab-emirates/flag-round-250.png" group-title="news",UAE : AL ARABIYA AL HADATH
-http://watchdog.build/live/0228902066/tc674KJ3du/b33c964f-0675-4826-9be6-a291538f2954.m3u
-#EXTINF:-1 tvg-name="SA : SKY NEWS ARABIA" tvg-logo="http://onlytimewilltell.xyz:2086/images/7c8d701b28ccfbffe1b227d97cc54b7d.png" group-title="news",SA : SKY NEWS ARABIA
-http://watchdog.build/live/0228902066/tc674KJ3du/deb14762-4b14-47a7-a5f9-27252cca768e.m3u
-#EXTINF:-1 tvg-name="UAE : BBC ARABIC" tvg-logo="http://onlytimewilltell.xyz:2086/images/b6ae56d2d40c99fc293aefe45dcb3b3d.png" group-title="news",UAE : BBC ARABIC
-http://watchdog.build/live/0228902066/tc674KJ3du/2acdbf54-ec71-4b6f-a96a-207f6aa62d95.m3u
-#EXTINF:-1 tvg-name="DW ARABIC" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/maximlogo.png" group-title="news",DW ARABIC
-http://extsmarterspro2302.shop:8080/brk8865/cn.01122023/582086
-#EXTINF:-1 tvg-name="LB : AL MAYADEEN" tvg-logo="https://cdn.countryflags.com/thumbs/lebanon/flag-round-250.png" group-title="news",LB : AL MAYADEEN
-http://watchdog.build/live/0228902066/tc674KJ3du/0cf81a90-acb8-42bc-86cb-9e40970ee7d7.m3u
-#EXTINF:-1 tvg-name="BBC NEWS ARABIA" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/maximlogo.png" group-title="news",BBC NEWS ARABIA
-http://extsmarterspro2302.shop:8080/brk8865/cn.01122023/582084
+#EXTINF:-1 tvg-name="RT ARABIC" tvg-logo="http://ott.dobratv.net:25461/images/bgb3ud4_-1I2iZ_8VAyxAFQcY6zbFdLS-hTYyX4jOlsrVwPF_hH8rv3z_b91fz1d3JGskl_OPLqGT4G9DbIII4O1gbsORXsMuTrgZ4KAwlC-DYPfiFTCfeloO83bllpk.png" group-title="news",RT ARABIC
+http://ott.dobratv.net:25461/kadrinet/7j8vrRILG9/14487.ts
