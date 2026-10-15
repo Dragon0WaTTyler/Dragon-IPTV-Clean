@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "revision_utc": "2026-10-15T10:01:03Z",
+  "revision_utc": "2026-10-15T15:06:08Z",
   "source_repo": "https://github.com/mesbahikarim10-source/hot-dodo",
   "source_pattern": "FIW_17*.m3u",
   "language": "english",
@@ -34,8 +34,8 @@
     "documentary": 86,
     "sports": 264,
     "health_checked": 189,
-    "health_reachable": 52,
-    "health_unreachable": 137,
+    "health_reachable": 62,
+    "health_unreachable": 127,
     "health_promoted": 21
   },
   "files": {
