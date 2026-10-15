@@ -16225,8 +16225,8 @@
       "http://neosfpoo.top:8080/8831762457758409/1d850f738f6a/52930"
     ],
     "source_file": "FIW_1792001099_1_f2abff_Hunter_5E9E.m3u",
-    "health_status": "reachable",
-    "health_checked_urls": 1,
+    "health_status": "unreachable",
+    "health_checked_urls": 2,
     "health_promoted": false
   },
   {
@@ -17167,7 +17167,7 @@
     "primary_url": "http://neosfpoo.top:8080/8831762457758409/1d850f738f6a/53127",
     "alternates": [],
     "source_file": "FIW_1792001104_2_680e11_Hunter_3855.m3u",
-    "health_status": "reachable",
+    "health_status": "unreachable",
     "health_checked_urls": 1,
     "health_promoted": false
   },
@@ -17184,7 +17184,7 @@
     "primary_url": "http://neosfpoo.top:8080/8831762457758409/1d850f738f6a/53129",
     "alternates": [],
     "source_file": "FIW_1792001104_2_680e11_Hunter_3855.m3u",
-    "health_status": "reachable",
+    "health_status": "unreachable",
     "health_checked_urls": 1,
     "health_promoted": false
   },
@@ -17276,7 +17276,7 @@
     "primary_url": "http://neosfpoo.top:8080/8831762457758409/1d850f738f6a/53135",
     "alternates": [],
     "source_file": "FIW_1792001104_2_680e11_Hunter_3855.m3u",
-    "health_status": "reachable",
+    "health_status": "unreachable",
     "health_checked_urls": 1,
     "health_promoted": false
   },
@@ -18808,7 +18808,7 @@
     "primary_url": "http://neosfpoo.top:8080/8831762457758409/1d850f738f6a/52882",
     "alternates": [],
     "source_file": "FIW_1792001104_2_680e11_Hunter_3855.m3u",
-    "health_status": "reachable",
+    "health_status": "unreachable",
     "health_checked_urls": 1,
     "health_promoted": false
   },
@@ -25144,7 +25144,7 @@
     "primary_url": "http://sts.mydroon.com:8080/9127491274/QDXDbuLzFDYaYbD/52320",
     "alternates": [],
     "source_file": "FIW_1792001099_1_f2abff_Hunter_5E9E.m3u",
-    "health_status": "reachable",
+    "health_status": "unreachable",
     "health_checked_urls": 1,
     "health_promoted": false
   },
@@ -25161,7 +25161,7 @@
     "primary_url": "http://sts.mydroon.com:8080/9127491274/QDXDbuLzFDYaYbD/52319",
     "alternates": [],
     "source_file": "FIW_1792001099_1_f2abff_Hunter_5E9E.m3u",
-    "health_status": "reachable",
+    "health_status": "unreachable",
     "health_checked_urls": 1,
     "health_promoted": false
   },
@@ -25396,7 +25396,7 @@
     "primary_url": "http://sts.mydroon.com:8080/9127491274/QDXDbuLzFDYaYbD/199710",
     "alternates": [],
     "source_file": "FIW_1792001099_1_f2abff_Hunter_5E9E.m3u",
-    "health_status": "reachable",
+    "health_status": "unreachable",
     "health_checked_urls": 1,
     "health_promoted": false
   },
@@ -25413,7 +25413,7 @@
     "primary_url": "http://sts.mydroon.com:8080/9127491274/QDXDbuLzFDYaYbD/28058",
     "alternates": [],
     "source_file": "FIW_1792001099_1_f2abff_Hunter_5E9E.m3u",
-    "health_status": "unreachable",
+    "health_status": "reachable",
     "health_checked_urls": 1,
     "health_promoted": false
   },
@@ -25447,7 +25447,7 @@
     "primary_url": "http://sts.mydroon.com:8080/9127491274/QDXDbuLzFDYaYbD/28065",
     "alternates": [],
     "source_file": "FIW_1792001099_1_f2abff_Hunter_5E9E.m3u",
-    "health_status": "unreachable",
+    "health_status": "reachable",
     "health_checked_urls": 1,
     "health_promoted": false
   },
@@ -25461,14 +25461,14 @@
     ],
     "raw_group": "AR| ARABIC NEWS",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/8/87/Alaraby_TV_Logo.png",
-    "primary_url": "http://sts.mydroon.com:8080/9127491274/QDXDbuLzFDYaYbD/75014",
+    "primary_url": "http://sts.mydroon.com:8080/9127491274/QDXDbuLzFDYaYbD/72342",
     "alternates": [
-      "http://sts.mydroon.com:8080/9127491274/QDXDbuLzFDYaYbD/72342"
+      "http://sts.mydroon.com:8080/9127491274/QDXDbuLzFDYaYbD/75014"
     ],
     "source_file": "FIW_1792001099_1_f2abff_Hunter_5E9E.m3u",
     "health_status": "reachable",
-    "health_checked_urls": 1,
-    "health_promoted": false
+    "health_checked_urls": 2,
+    "health_promoted": true
   },
   {
     "id": "dragon_arabic_5aa82b64f686",
@@ -25483,7 +25483,7 @@
     "primary_url": "http://sts.mydroon.com:8080/9127491274/QDXDbuLzFDYaYbD/72347",
     "alternates": [],
     "source_file": "FIW_1792001099_1_f2abff_Hunter_5E9E.m3u",
-    "health_status": "reachable",
+    "health_status": "unreachable",
     "health_checked_urls": 1,
     "health_promoted": false
   },
