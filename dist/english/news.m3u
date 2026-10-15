@@ -1,56 +1,326 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="USA: AL JAZEERA ENGLISH US" tvg-logo="" group-title="news",USA: AL JAZEERA ENGLISH US
 http://neoyjpw.top:8080/60177299034963/6q99jskxwjv4/71064
-#EXTINF:-1 tvg-name="AE: Aljazeera English" tvg-logo="" group-title="news",AE: Aljazeera English
-http://31.43.191.125:8080/vip921773310177/189ba9335066/130857
-#EXTINF:-1 tvg-name="UK: BBC NEWS" tvg-logo="" group-title="news",UK: BBC NEWS
-http://31.43.191.125:8080/KMAfV8zxWMkS/A2qMwSSVVR6N/1864
-#EXTINF:-1 tvg-name="BBC News (North America) (1080p)" tvg-logo="" group-title="news",BBC News (North America) (1080p)
-http://vewora.com:8080/live/700416vib/bg%4053%217%21%21U/e9cec541-3c5a-4b1a-aa99-8ad4536052ac.m3u
+#EXTINF:-1 tvg-name="Al Jazeera English" tvg-logo="https://apkx.xyz/maximpanel-logo.png" group-title="news",Al Jazeera English
+https://live-hls-apps-aje-fa.getaj.net/AJE/index.m3u8
+#EXTINF:-1 tvg-name="BBC News (720p)" tvg-logo="https://apkx.xyz/maximpanel-logo.png" group-title="news",BBC News (720p)
+https://jmp2.uk/plu-65d92a8c8b24c80008e285c0.m3u8
+#EXTINF:-1 tvg-name="BBC News G" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/bbc-news-uk.png" group-title="news",BBC News G
+http://extsmarterspro2302.shop:8080/cnr1224/c77705ce1b4600fe/626291
+#EXTINF:-1 tvg-name="BBC News Europe" tvg-logo="https://apkx.xyz/maximpanel-logo.png" group-title="news",BBC News Europe
+https://dash2.antik.sk/live/test_bbc_world/playlist.m3u8
+#EXTINF:-1 tvg-name="BBC News North America (1080p)" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_BBC_NEWS/images/LOGO_HD/image.png" group-title="news",BBC News North America (1080p)
+http://extsmarterspro2302.shop:8080/cnr1224/c77705ce1b4600fe/627198
 #EXTINF:-1 tvg-name="US: CNN" tvg-logo="http://logos.giize.com/logos/logos%20rui/usa/cnn.png" group-title="news",US: CNN
 http://goood.mine.nu:80/Crisi/S5s58A8KHSJX/45415
+#EXTINF:-1 tvg-name="CNN International" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cnn-us.png" group-title="news",CNN International
+http://neoyjpw.top:8080/60177299034963/6q99jskxwjv4/71386
 #EXTINF:-1 tvg-name="US : CNN FHD 1080" tvg-logo="http://onlytimewilltell.xyz:2086/images/7e63557e7d6a2d4c7d407c284a1d0d1d.png" group-title="news",US : CNN FHD 1080
 http://watchdog.build/live/wisam123/53LzhE1g6e/dcbf4727-2916-4d0f-8ccf-b47256fb680e.m3u
-#EXTINF:-1 tvg-name="US: CNN INTERNATIONAL" tvg-logo="http://logos.giize.com/logos/logos%20rui/usa/cnnd.png" group-title="news",US: CNN INTERNATIONAL
-http://neoyjpw.top:8080/60177299034963/6q99jskxwjv4/71386
-#EXTINF:-1 tvg-name="US: CNN NEWS HD" tvg-logo="" group-title="news",US: CNN NEWS HD
-http://4k.cmn14.com:8080/HakanKara01/XGuSAvs5Kc/231328
-#EXTINF:-1 tvg-name="CNN Headlines International" tvg-logo="https://images.pluto.tv/channels/66c45ba803e3b20008d8c294/colorLogoPNG_1775159849441.png" group-title="news",CNN Headlines International
-http://obelix.from-or.com.bestream.football:9099/live/obelix183/0f2959e2520a5498/2e99bb20-e390-46a0-9813-456f798384bd.ts
+#EXTINF:-1 tvg-name="CNN INT (backup)" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/maximlogo.png" group-title="news",CNN INT (backup)
+http://extsmarterspro2302.shop:8080/cnr1224/c77705ce1b4600fe/582115
+#EXTINF:-1 tvg-name="CNN FAST (backup)" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/maximlogo.png" group-title="news",CNN FAST (backup)
+http://extsmarterspro2302.shop:8080/cnr1224/c77705ce1b4600fe/582116
+#EXTINF:-1 tvg-name="A2 CNN Albania" tvg-logo="https://i.imgur.com/TgO3Lzi.png" group-title="news",A2 CNN Albania
+http://extsmarterspro2302.shop:8080/cnr1224/c77705ce1b4600fe/625144
+#EXTINF:-1 tvg-name="CNN Prima News" tvg-logo="https://i.imgur.com/Il7t0bU.png" group-title="news",CNN Prima News
+http://extsmarterspro2302.shop:8080/cnr1224/c77705ce1b4600fe/627219
+#EXTINF:-1 tvg-name="CNN Portugal" tvg-logo="https://i.imgur.com/NYH39xs.png" group-title="news",CNN Portugal
+http://extsmarterspro2302.shop:8080/cnr1224/c77705ce1b4600fe/625924
+#EXTINF:-1 tvg-name="Pluto TV CNN (360p)" tvg-logo="" group-title="news",Pluto TV CNN (360p)
+http://extsmarterspro2302.shop:8080/cnr1224/c77705ce1b4600fe/639185
+#EXTINF:-1 tvg-name="ACNN (480p)" tvg-logo="https://apkx.xyz/maximpanel-logo.png" group-title="news",ACNN (480p)
+https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_014/Stream/playlist.m3u8
 #EXTINF:-1 tvg-name="CNN Portugal-LOW" tvg-logo="http://logos.giize.com/logos/logos%20rui/portugal%20low/cnn-low.png" group-title="news",CNN Portugal-LOW
 http://goood.mine.nu:80/Crisi/S5s58A8KHSJX/44715
 #EXTINF:-1 tvg-name="CNN Portugal-265 HD" tvg-logo="s:1:/images/QHJN7ybnsg1B1H1B_3y7dC5h9d4iYoOfLccsXLC57ORoeheFYqib7TPNjjkkRtT6-M2Bz2AIdTBViT_K3XGKcGAO52Ke3biwOMnrjB6kWc8.png" group-title="news",CNN Portugal-265 HD
 http://goood.mine.nu:80/Crisi/S5s58A8KHSJX/44716
-#EXTINF:-1 tvg-name="AU: SKY NEWS NOW" tvg-logo="http://149.248.53.45/logos/Sky_News_Now.png" group-title="news",AU: SKY NEWS NOW
-http://watchdog.build/live/wisam123/53LzhE1g6e/cc3000b9-14bc-4a76-89aa-769477669c0e.m3u
+#EXTINF:-1 tvg-name="US: CNN NEWS." tvg-logo="http://sltv-icon.cms-s.com/logo/USA/CNNHD.png" group-title="news",US: CNN NEWS.
+http://4k.cmn14.com:8080/HakanKara01/XGuSAvs5Kc/231328
 #EXTINF:-1 tvg-name="Sky News" tvg-logo="http://logos.giize.com/logos/logos%20rui/pt%20logos/skynews.png" group-title="news",Sky News
 http://goood.mine.nu:80/Crisi/S5s58A8KHSJX/185
 #EXTINF:-1 tvg-name="USA: SKY NEWS AMERICA" tvg-logo="" group-title="news",USA: SKY NEWS AMERICA
 http://neoyjpw.top:8080/60177299034963/6q99jskxwjv4/72982
+#EXTINF:-1 tvg-name="AU: SKY NEWS NOW" tvg-logo="http://149.248.53.45/logos/Sky_News_Now.png" group-title="news",AU: SKY NEWS NOW
+http://watchdog.build/live/wisam123/53LzhE1g6e/cc3000b9-14bc-4a76-89aa-769477669c0e.m3u
+#EXTINF:-1 tvg-name="Sky News Extra 1 (540p)" tvg-logo="https://apkx.xyz/maximpanel-logo.png" group-title="news",Sky News Extra 1 (540p)
+https://skynewsau-live.akamaized.net/hls/live/2002689/skynewsau-extra1/master.m3u8
+#EXTINF:-1 tvg-name="Sky News Extra 3 (1080p)" tvg-logo="https://apkx.xyz/maximpanel-logo.png" group-title="news",Sky News Extra 3 (1080p)
+https://skynewsau-live.akamaized.net/hls/live/2002691/skynewsau-extra3/master.m3u8
+#EXTINF:-1 tvg-name="Sky News (UK)" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1404.png" group-title="news",Sky News (UK)
+http://extsmarterspro2302.shop:8080/cnr1224/c77705ce1b4600fe/626287
+#EXTINF:-1 tvg-name="Sky News Now (AU)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/10/Sky_News_Australia_logo_-_2019.svg/512px-Sky_News_Australia_logo_-_2019.svg.png" group-title="news",Sky News Now (AU)
+http://extsmarterspro2302.shop:8080/cnr1224/c77705ce1b4600fe/626312
+#EXTINF:-1 tvg-name="Sky News Weather G" tvg-logo="https://pbs.twimg.com/profile_images/1604994875459518464/lGt2wEqM_400x400.jpg" group-title="news",Sky News Weather G
+http://extsmarterspro2302.shop:8080/cnr1224/c77705ce1b4600fe/626328
+#EXTINF:-1 tvg-name="Sky News Extra 2 (540p)" tvg-logo="https://apkx.xyz/maximpanel-logo.png" group-title="news",Sky News Extra 2 (540p)
+https://skynewsau-live.akamaized.net/hls/live/2002690/skynewsau-extra2/master.m3u8
+#EXTINF:-1 tvg-name="AU: SKY NEWS EXTRA" tvg-logo="https:/docdog.top/logo/countries/australia/sky-news-extra-au.png" group-title="news",AU: SKY NEWS EXTRA
+http://31.43.191.125:8080/KMAfV8zxWMkS/A2qMwSSVVR6N/25044
 #EXTINF:-1 tvg-name="Sky News International" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT3400003D6_20250819T032318SQUARE.png" group-title="news",Sky News International
 http://obelix.from-or.com.bestream.football:9099/live/obelix183/0f2959e2520a5498/2683e03f-4a08-4141-9853-e05a1d6e5a69.ts
-#EXTINF:-1 tvg-name="AU: SKY NEWS EXTRA" tvg-logo="https:/docdog.top/logo/countries/australia/sky-news-extra-au.png" group-title="news",AU: SKY NEWS EXTRA
-http://31.43.191.125:8080/vip921773310177/189ba9335066/25044
-#EXTINF:-1 tvg-name="UK: France 24 English" tvg-logo="" group-title="news",UK: France 24 English
-http://31.43.191.125:8080/vip431771788072/2b5964080105/146958
-#EXTINF:-1 tvg-name="Euronews" tvg-logo="https://images.pluto.tv/channels/61b86ea479a4390007c6d5fc/colorLogoPNG.png" group-title="news",Euronews
-http://31.43.191.125:8080/KMAfV8zxWMkS/A2qMwSSVVR6N/1875
+#EXTINF:-1 tvg-name="France 24 English" tvg-logo="https://apkx.xyz/maximpanel-logo.png" group-title="news",France 24 English
+https://dash3.antik.sk/live/test_france24_eng/playlist.m3u8
+#EXTINF:-1 tvg-name="DW English (720p)" tvg-logo="https://apkx.xyz/maximpanel-logo.png" group-title="news",DW English (720p)
+https://stream8.cinerama.uz/1418/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="Euronews" tvg-logo="https://apkx.xyz/maximpanel-logo.png" group-title="news",Euronews
+https://jmp2.uk/plu-6639d7d4b18d700008da5316.m3u8
+#EXTINF:-1 tvg-name="EURONEWS EN" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/maximlogo.png" group-title="news",EURONEWS EN
+http://extsmarterspro2302.shop:8080/cnr1224/c77705ce1b4600fe/582096
+#EXTINF:-1 tvg-name="Euronews Albania Y" tvg-logo="https://i.imgur.com/Skf6vdi.png" group-title="news",Euronews Albania Y
+http://extsmarterspro2302.shop:8080/cnr1224/c77705ce1b4600fe/625147
+#EXTINF:-1 tvg-name="Euronews Bulgaria Y" tvg-logo="https://i.imgur.com/RrQVoOg.png" group-title="news",Euronews Bulgaria Y
+http://extsmarterspro2302.shop:8080/cnr1224/c77705ce1b4600fe/625250
+#EXTINF:-1 tvg-name="Euronews Georgia G" tvg-logo="https://i.imgur.com/VNJ4soR.png" group-title="news",Euronews Georgia G
+http://extsmarterspro2302.shop:8080/cnr1224/c77705ce1b4600fe/625421
+#EXTINF:-1 tvg-name="Euronews Hungarian Y" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Euronews_2022.svg/640px-Euronews_2022.svg.png" group-title="news",Euronews Hungarian Y
+http://extsmarterspro2302.shop:8080/cnr1224/c77705ce1b4600fe/625489
+#EXTINF:-1 tvg-name="Euronews Italian Y" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Euronews_2022.svg/640px-Euronews_2022.svg.png" group-title="news",Euronews Italian Y
+http://extsmarterspro2302.shop:8080/cnr1224/c77705ce1b4600fe/625758
+#EXTINF:-1 tvg-name="Euronews em Português Y" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Euronews_2022.svg/640px-Euronews_2022.svg.png" group-title="news",Euronews em Português Y
+http://extsmarterspro2302.shop:8080/cnr1224/c77705ce1b4600fe/625925
+#EXTINF:-1 tvg-name="Euronews România Y" tvg-logo="https://i.imgur.com/jUOVUXt.png" group-title="news",Euronews România Y
+http://extsmarterspro2302.shop:8080/cnr1224/c77705ce1b4600fe/625936
+#EXTINF:-1 tvg-name="Euronews Y" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Euronews_2022.svg/640px-Euronews_2022.svg.png" group-title="news",Euronews Y
+http://extsmarterspro2302.shop:8080/cnr1224/c77705ce1b4600fe/626288
+#EXTINF:-1 tvg-name="Euronews in diretta" tvg-logo="https://i.imgur.com/DUUxsO7.jpeg" group-title="news",Euronews in diretta
+http://extsmarterspro2302.shop:8080/cnr1224/c77705ce1b4600fe/626344
+#EXTINF:-1 tvg-name="Euronews – Pluto TV" tvg-logo="https://i.imgur.com/Zpf2ykM.png" group-title="news",Euronews – Pluto TV
+http://extsmarterspro2302.shop:8080/cnr1224/c77705ce1b4600fe/626464
+#EXTINF:-1 tvg-name="Euronews English HD" tvg-logo="https://apkx.xyz/maximpanel-logo.png" group-title="news",Euronews English HD
+https://dash4.antik.sk/live/test_euronews/playlist.m3u8
+#EXTINF:-1 tvg-name="Euronews Português (720p)" tvg-logo="https://apkx.xyz/maximpanel-logo.png" group-title="news",Euronews Português (720p)
+https://jmp2.uk/plu-619e6614c9d9650007a2b171.m3u8
+#EXTINF:-1 tvg-name="Euronews Italian (720p)" tvg-logo="https://apkx.xyz/maximpanel-logo.png" group-title="news",Euronews Italian (720p)
+https://acb6ca89.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmxheHhUVi1ldV9FdXJvbmV3c0l0YWxpYW5vX0hMUw/playlist.m3u8
+#EXTINF:-1 tvg-name="Euronews French (720p)" tvg-logo="https://apkx.xyz/maximpanel-logo.png" group-title="news",Euronews French (720p)
+https://2f6c5bf4.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmxheHhUVi1ldV9FdXJvbmV3c0ZyYW5jYWlzX0hMUw/playlist.m3u8
+#EXTINF:-1 tvg-name="Euronews Portuguese (720p)" tvg-logo="https://apkx.xyz/maximpanel-logo.png" group-title="news",Euronews Portuguese (720p)
+https://6e52fb8b.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmxheHhUVi1ldV9FdXJvbmV3c1BvcnR1Z3Vlc19ITFM/playlist.m3u8
+#EXTINF:-1 tvg-name="Euronews Georgia" tvg-logo="https://i.imgur.com/VNJ4soR.png" group-title="news",Euronews Georgia
+http://extsmarterspro2302.shop:8080/cnr1224/c77705ce1b4600fe/643317
+#EXTINF:-1 tvg-name="Euronews Hungarian (720p)" tvg-logo="https://i.imgur.com/8t9mdg9.png" group-title="news",Euronews Hungarian (720p)
+http://extsmarterspro2302.shop:8080/cnr1224/c77705ce1b4600fe/627235
+#EXTINF:-1 tvg-name="Euronews Russian (720p)" tvg-logo="https://i.imgur.com/8t9mdg9.png" group-title="news",Euronews Russian (720p)
+http://extsmarterspro2302.shop:8080/cnr1224/c77705ce1b4600fe/627236
+#EXTINF:-1 tvg-name="EuroNews Srbija" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/4/img/kanali-logo/EuroNews_Serbia_RS_logo.jpg" group-title="news",EuroNews Srbija
+http://caffe.link:25461/65tomislavrajicfrend/pOkeqhfnsB/118733
 #EXTINF:-1 tvg-name="US: Euronews Espal" tvg-logo="" group-title="news",US: Euronews Espal
 http://4k.cmn14.com:8080/HakanKara01/XGuSAvs5Kc/232490
 #EXTINF:-1 tvg-name="US: Euronews World" tvg-logo="" group-title="news",US: Euronews World
 http://4k.cmn14.com:8080/HakanKara01/XGuSAvs5Kc/232491
 #EXTINF:-1 tvg-name="US: Global News Euronews" tvg-logo="" group-title="news",US: Global News Euronews
 http://4k.cmn14.com:8080/HakanKara01/XGuSAvs5Kc/232498
-#EXTINF:-1 tvg-name="Euronews IN DIRETTA" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT2600009QD_20260707T052541SQUARE.png" group-title="news",Euronews IN DIRETTA
-http://obelix.from-or.com.bestream.football:9099/live/obelix183/0f2959e2520a5498/fa78fdb0-4e17-47c5-97c1-c4a48704b6fb.ts
-#EXTINF:-1 tvg-name="Euronews Italian Y" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Euronews_2022.svg/500px-Euronews_2022.svg.png tvg-id=EuronewsItalian.fr tvg-chno=59 tvg-country=IT" group-title="news",Euronews Italian Y
-http://obelix.from-or.com.bestream.football:9099/live/obelix183/0f2959e2520a5498/4b040d35-9916-4290-8b91-c3404edccf01.ts
-#EXTINF:-1 tvg-name="EuroNews Srbija" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/4/img/kanali-logo/EuroNews_Serbia_RS_logo.jpg" group-title="news",EuroNews Srbija
-http://caffe.link:25461/65tomislavrajicfrend/pOkeqhfnsB/118733
-#EXTINF:-1 tvg-name="TRT World" tvg-logo="https://tvprofil.com/img/kanali-logo/TRT_World_TR_logo.png" group-title="news",TRT World
-http://31.43.191.125:8080/KMAfV8zxWMkS/A2qMwSSVVR6N/1934
+#EXTINF:-1 tvg-name="TRT World HD" tvg-logo="https://apkx.xyz/maximpanel-logo.png" group-title="news",TRT World HD
+https://tv-trtworld.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-name="US: TRT WORLD NEWS HD" tvg-logo="" group-title="news",US: TRT WORLD NEWS HD
 http://4k.cmn14.com:8080/HakanKara01/XGuSAvs5Kc/231716
+#EXTINF:-1 tvg-name="UK: MTV HD" tvg-logo="https://sltv-icon.cms-s.com/LOGO_NEO/UK/MTV_HEVC_HD.png" group-title="news",UK: MTV HD
+http://goood.mine.nu:80/Crisi/S5s58A8KHSJX/45467
+#EXTINF:-1 tvg-name="UK: MTV CLASSIC" tvg-logo="https://sltv-icon.cms-s.com/LOGO_NEO/UK/MTV_CLASSIC.png" group-title="news",UK: MTV CLASSIC
+http://31.43.191.125:8080/KMAfV8zxWMkS/A2qMwSSVVR6N/1724
+#EXTINF:-1 tvg-name="UK: ABP NEWS HD" tvg-logo="http://sltv-icon.cms-s.com/logo/UK/abpnews.png" group-title="news",UK: ABP NEWS HD
+http://31.43.191.125:8080/KMAfV8zxWMkS/A2qMwSSVVR6N/1821
+#EXTINF:-1 tvg-name="UK: POP" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/pop-uk.png" group-title="news",UK: POP
+http://goood.mine.nu:80/Crisi/S5s58A8KHSJX/45488
+#EXTINF:-1 tvg-name="UK: FRANCE 24" tvg-logo="" group-title="news",UK: FRANCE 24
+http://neoyjpw.top:8080/38175432793718/b6j73ch5n775/29897
+#EXTINF:-1 tvg-name="US: AL JAZEERA" tvg-logo="" group-title="news",US: AL JAZEERA
+http://neoyjpw.top:8080/60177299034963/6q99jskxwjv4/29898
+#EXTINF:-1 tvg-name="US: BLOOMBERG HD" tvg-logo="http://sltv-icon.cms-s.com/logo/USA/BLOOMBERG.png" group-title="news",US: BLOOMBERG HD
+http://neoyjpw.top:8080/60177299034963/6q99jskxwjv4/29899
+#EXTINF:-1 tvg-name="US: BBC WORLD NEWS" tvg-logo="http://logos.giize.com/logos/logos%20rui/uk%20novos/bbc_world_news.png" group-title="news",US: BBC WORLD NEWS
+http://goood.mine.nu:80/Crisi/S5s58A8KHSJX/45375
+#EXTINF:-1 tvg-name="US : CNBC" tvg-logo="http://onlytimewilltell.xyz:2086/images/17c6cdfa9240e3ca5f6e9dd2ef3d0441.png" group-title="news",US : CNBC
+http://31.43.191.125:8080/KMAfV8zxWMkS/A2qMwSSVVR6N/5426
+#EXTINF:-1 tvg-name="US: FOX NEWS" tvg-logo="http://logos.giize.com/logos/logos%20rui/usa/foxw.png" group-title="news",US: FOX NEWS
+http://31.43.191.125:8080/KMAfV8zxWMkS/A2qMwSSVVR6N/1873
+#EXTINF:-1 tvg-name="UK: RTE NEWS NOW" tvg-logo="" group-title="news",UK: RTE NEWS NOW
+http://31.43.191.125:8080/KMAfV8zxWMkS/A2qMwSSVVR6N/1874
+#EXTINF:-1 tvg-name="UK: VIP RUSSIA TODAY NEWS" tvg-logo="https://docdog.top/logo/countries/uk/rtdocumentary.png" group-title="news",UK: VIP RUSSIA TODAY NEWS
+http://31.43.191.125:8080/KMAfV8zxWMkS/A2qMwSSVVR6N/1876
+#EXTINF:-1 tvg-name="UK: BBC PARLIAMENT" tvg-logo="http://sltv-icon.cms-s.com/logo/UK/BBCPALIAMENT.png" group-title="news",UK: BBC PARLIAMENT
+http://4k.cmn14.com:8080/HakanKara01/XGuSAvs5Kc/231297
+#EXTINF:-1 tvg-name="UK: RTE NEWS" tvg-logo="https://sltv-icon.cms-s.com/logo/UK/RTENEWS.png" group-title="news",UK: RTE NEWS
+http://neoyjpw.top:8080/60177299034963/6q99jskxwjv4/29939
+#EXTINF:-1 tvg-name="US: RT NEWS HD" tvg-logo="" group-title="news",US: RT NEWS HD
+http://4k.cmn14.com:8080/HakanKara01/XGuSAvs5Kc/231653
+#EXTINF:-1 tvg-name="UK: VIP ALJAZEERA NEWS ENGLISH" tvg-logo="" group-title="news",UK: VIP ALJAZEERA NEWS ENGLISH
+http://neoyjpw.top:8080/60177299034963/6q99jskxwjv4/29950
+#EXTINF:-1 tvg-name="UK: NOW 90S" tvg-logo="http://sltv-icon.cms-s.com/logo/uk/now90s.png" group-title="news",UK: NOW 90S
+http://neoyjpw.top:8080/60177299034963/6q99jskxwjv4/29956
+#EXTINF:-1 tvg-name="UK: NOW 80S" tvg-logo="https://sltv-icon.cms-s.com/logo/germanynew/AMZ/NOW80S.png" group-title="news",UK: NOW 80S
+http://31.43.191.125:8080/KMAfV8zxWMkS/A2qMwSSVVR6N/1912
+#EXTINF:-1 tvg-name="UK: NOW 70S" tvg-logo="https://sltv-icon.cms-s.com/logo/germanynew/AMZ/NOW70S.png" group-title="news",UK: NOW 70S
+http://neoyjpw.top:8080/38175432793718/b6j73ch5n775/29958
+#EXTINF:-1 tvg-name="GB : GB NEWS" tvg-logo="http://onlytimewilltell.xyz:2086/images/3e27ef3de57fb58dce2168dc5a362568.png" group-title="news",GB : GB NEWS
+http://neoyjpw.top:8080/60177299034963/6q99jskxwjv4/29964
+#EXTINF:-1 tvg-name="UK: MTV HITS" tvg-logo="https://sltv-icon.cms-s.com/LOGO_NEO/UK/MTV_HITS.png" group-title="news",UK: MTV HITS
+http://neoyjpw.top:8080/60177299034963/6q99jskxwjv4/29971
+#EXTINF:-1 tvg-name="UK: MTV MUSIC" tvg-logo="https://sltv-icon.cms-s.com/LOGO_NEO/UK/MTV_MUSIC.png" group-title="news",UK: MTV MUSIC
+http://neoyjpw.top:8080/38175432793718/b6j73ch5n775/29972
+#EXTINF:-1 tvg-name="US: ABC LOS ANGELES" tvg-logo="http://sltv-icon.cms-s.com/logo/USA/ABC.png" group-title="news",US: ABC LOS ANGELES
+http://neoyjpw.top:8080/60177299034963/6q99jskxwjv4/70990
+#EXTINF:-1 tvg-name="US: ABC News Live" tvg-logo="" group-title="news",US: ABC News Live
+http://neoyjpw.top:8080/60177299034963/6q99jskxwjv4/71008
+#EXTINF:-1 tvg-name="CA: CBC NEWS" tvg-logo="http://logos.giize.com/logos/logos%20rui/logos%20canada%20novos/cbc.png" group-title="news",CA: CBC NEWS
+http://goood.mine.nu:80/Crisi/S5s58A8KHSJX/45067
+#EXTINF:-1 tvg-name="USA: CBC NEWS INTERNATIONAL" tvg-logo="" group-title="news",USA: CBC NEWS INTERNATIONAL
+http://neoyjpw.top:8080/60177299034963/6q99jskxwjv4/71202
+#EXTINF:-1 tvg-name="USA: CBN NEWS" tvg-logo="" group-title="news",USA: CBN NEWS
+http://neoyjpw.top:8080/60177299034963/6q99jskxwjv4/71203
+#EXTINF:-1 tvg-name="US: CBS NEWS" tvg-logo="" group-title="news",US: CBS NEWS
+http://neoyjpw.top:8080/60177299034963/6q99jskxwjv4/71291
+#EXTINF:-1 tvg-name="US: CBS NEWS BAY AREA" tvg-logo="" group-title="news",US: CBS NEWS BAY AREA
+http://neoyjpw.top:8080/38175432793718/b6j73ch5n775/71292
+#EXTINF:-1 tvg-name="US: CBS NEWS BOSTON" tvg-logo="" group-title="news",US: CBS NEWS BOSTON
+http://neoyjpw.top:8080/60177299034963/6q99jskxwjv4/71293
+#EXTINF:-1 tvg-name="US: CBS NEWS CHICAGO" tvg-logo="" group-title="news",US: CBS NEWS CHICAGO
+http://neoyjpw.top:8080/60177299034963/6q99jskxwjv4/71294
+#EXTINF:-1 tvg-name="US: CBS NEWS COLORADO" tvg-logo="" group-title="news",US: CBS NEWS COLORADO
+http://neoyjpw.top:8080/60177299034963/6q99jskxwjv4/71295
+#EXTINF:-1 tvg-name="US: CBS NEWS DETROIT" tvg-logo="" group-title="news",US: CBS NEWS DETROIT
+http://4k.cmn14.com:8080/HakanKara01/XGuSAvs5Kc/232113
+#EXTINF:-1 tvg-name="USA: CBS NEWS HD [Sᴛᴠ+]" tvg-logo="" group-title="news",USA: CBS NEWS HD [Sᴛᴠ+]
+http://neoyjpw.top:8080/60177299034963/6q99jskxwjv4/71297
+#EXTINF:-1 tvg-name="US: CBS NEWS LOS ANGELES" tvg-logo="" group-title="news",US: CBS NEWS LOS ANGELES
+http://4k.cmn14.com:8080/HakanKara01/XGuSAvs5Kc/232114
+#EXTINF:-1 tvg-name="US: CBS NEWS MINNESOTA" tvg-logo="" group-title="news",US: CBS NEWS MINNESOTA
+http://4k.cmn14.com:8080/HakanKara01/XGuSAvs5Kc/232116
+#EXTINF:-1 tvg-name="US: CBS NEWS NEW YORK" tvg-logo="" group-title="news",US: CBS NEWS NEW YORK
+http://neoyjpw.top:8080/60177299034963/6q99jskxwjv4/71300
+#EXTINF:-1 tvg-name="US: CBS NEWS PHILADELPHIA" tvg-logo="" group-title="news",US: CBS NEWS PHILADELPHIA
+http://4k.cmn14.com:8080/HakanKara01/XGuSAvs5Kc/232118
+#EXTINF:-1 tvg-name="US: CBS NEWS TEXAS" tvg-logo="" group-title="news",US: CBS NEWS TEXAS
+http://4k.cmn14.com:8080/HakanKara01/XGuSAvs5Kc/232121
+#EXTINF:-1 tvg-name="USA: CCTV NEWS" tvg-logo="" group-title="news",USA: CCTV NEWS
+http://neoyjpw.top:8080/60177299034963/6q99jskxwjv4/71346
+#EXTINF:-1 tvg-name="US: CHEDDAR NEWS" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cheddar-news-us.png" group-title="news",US: CHEDDAR NEWS
+http://31.43.191.125:8080/KMAfV8zxWMkS/A2qMwSSVVR6N/154913
+#EXTINF:-1 tvg-name="USA: CHEDDAR NEWS HD [Sᴛᴠ+]" tvg-logo="" group-title="news",USA: CHEDDAR NEWS HD [Sᴛᴠ+]
+http://neoyjpw.top:8080/60177299034963/6q99jskxwjv4/71352
+#EXTINF:-1 tvg-name="US: CNBC WORLD" tvg-logo="https://sltv-icon.cms-s.com/LOGO_NEO/US/CNBC_WORLD_HD.png" group-title="news",US: CNBC WORLD
+http://neoyjpw.top:8080/60177299034963/6q99jskxwjv4/71383
+#EXTINF:-1 tvg-name="US : CSPAN 1" tvg-logo="http://onlytimewilltell.xyz:2086/images/e48f93bb225015d64af95220587f81aa.png" group-title="news",US : CSPAN 1
+http://neoyjpw.top:8080/38175432793718/b6j73ch5n775/71408
+#EXTINF:-1 tvg-name="US : CSPAN 2" tvg-logo="http://onlytimewilltell.xyz:2086/images/b27cedaf0ff83525403980572ea93543.png" group-title="news",US : CSPAN 2
+http://4k.cmn14.com:8080/HakanKara01/XGuSAvs5Kc/231338
+#EXTINF:-1 tvg-name="USA: DW NEWS US" tvg-logo="" group-title="news",USA: DW NEWS US
+http://neoyjpw.top:8080/60177299034963/6q99jskxwjv4/71535
+#EXTINF:-1 tvg-name="US: Estrella News" tvg-logo="" group-title="news",US: Estrella News
+http://4k.cmn14.com:8080/HakanKara01/XGuSAvs5Kc/232488
+#EXTINF:-1 tvg-name="US: FOX BUSINESS NETWORK" tvg-logo="https://sltv-icon.cms-s.com/LOGO_NEO/US/FOX_BUSINESS_NETWORK_HD.png" group-title="news",US: FOX BUSINESS NETWORK
+http://goood.mine.nu:80/Crisi/S5s58A8KHSJX/45438
+#EXTINF:-1 tvg-name="US: FOX News Channel" tvg-logo="http://logos.giize.com/logos/logos%20rui/usa/fxn.png" group-title="news",US: FOX News Channel
+http://goood.mine.nu:80/Crisi/S5s58A8KHSJX/45440
+#EXTINF:-1 tvg-name="US: HLN HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hln-us.png" group-title="news",US: HLN HD
+http://goood.mine.nu:80/Crisi/S5s58A8KHSJX/45464
+#EXTINF:-1 tvg-name="US: MSNBC HD" tvg-logo="http://sltv-icon.cms-s.com/logo/USA/MSNBCFHD.png" group-title="news",US: MSNBC HD
+http://goood.mine.nu:80/Crisi/S5s58A8KHSJX/45123
+#EXTINF:-1 tvg-name="USA: NBC BAY AREA NEWS" tvg-logo="" group-title="news",USA: NBC BAY AREA NEWS
+http://neoyjpw.top:8080/60177299034963/6q99jskxwjv4/72469
+#EXTINF:-1 tvg-name="USA: NEWS 12 BRONX & BROOKLYN" tvg-logo="" group-title="news",USA: NEWS 12 BRONX & BROOKLYN
+http://neoyjpw.top:8080/60177299034963/6q99jskxwjv4/72748
+#EXTINF:-1 tvg-name="US: NEWS 12 Brooklyn" tvg-logo="" group-title="news",US: NEWS 12 Brooklyn
+http://4k.cmn14.com:8080/HakanKara01/XGuSAvs5Kc/231615
+#EXTINF:-1 tvg-name="US: NEWS 12 CONNECTICUT" tvg-logo="http://sltv-icon.cms-s.com/logo/USA/News12-Westchester.png" group-title="news",US: NEWS 12 CONNECTICUT
+http://neoyjpw.top:8080/60177299034963/6q99jskxwjv4/72750
+#EXTINF:-1 tvg-name="USA: NEWS 12 HAVEN HARTFORD" tvg-logo="" group-title="news",USA: NEWS 12 HAVEN HARTFORD
+http://neoyjpw.top:8080/38175432793718/b6j73ch5n775/72751
+#EXTINF:-1 tvg-name="USA: NEWS 12 HUDSON VALLEY & WESTCHESTER" tvg-logo="" group-title="news",USA: NEWS 12 HUDSON VALLEY & WESTCHESTER
+http://neoyjpw.top:8080/60177299034963/6q99jskxwjv4/72752
+#EXTINF:-1 tvg-name="US: NEWS 12 LONG ISLAND" tvg-logo="http://sltv-icon.cms-s.com/logo/USA/News12Long-Island.png" group-title="news",US: NEWS 12 LONG ISLAND
+http://neoyjpw.top:8080/60177299034963/6q99jskxwjv4/72753
+#EXTINF:-1 tvg-name="US: NEWS 12 THE Bronx" tvg-logo="" group-title="news",US: NEWS 12 THE Bronx
+http://4k.cmn14.com:8080/HakanKara01/XGuSAvs5Kc/231617
+#EXTINF:-1 tvg-name="USA: NEWS 12 TRAFFIC AND WEATHER" tvg-logo="" group-title="news",USA: NEWS 12 TRAFFIC AND WEATHER
+http://neoyjpw.top:8080/60177299034963/6q99jskxwjv4/72755
+#EXTINF:-1 tvg-name="US: NEWS 12 WESTCHESTER" tvg-logo="http://sltv-icon.cms-s.com/logo/USA/News12-Westchester.png" group-title="news",US: NEWS 12 WESTCHESTER
+http://31.43.191.125:8080/KMAfV8zxWMkS/A2qMwSSVVR6N/156318
+#EXTINF:-1 tvg-name="USA: NEWS12 NY US" tvg-logo="" group-title="news",USA: NEWS12 NY US
+http://neoyjpw.top:8080/60177299034963/6q99jskxwjv4/72757
+#EXTINF:-1 tvg-name="US: Newsmax 2" tvg-logo="" group-title="news",US: Newsmax 2
+http://4k.cmn14.com:8080/HakanKara01/XGuSAvs5Kc/232509
+#EXTINF:-1 tvg-name="USA: NEWSNATION" tvg-logo="" group-title="news",USA: NEWSNATION
+http://31.43.191.125:8080/KMAfV8zxWMkS/A2qMwSSVVR6N/156321
+#EXTINF:-1 tvg-name="USA: NEWSY" tvg-logo="" group-title="news",USA: NEWSY
+http://neoyjpw.top:8080/60177299034963/6q99jskxwjv4/72760
+#EXTINF:-1 tvg-name="US: ONE AMERICA NEWS" tvg-logo="http://logos.giize.com/logos/logos%20rui/usa/flg.png" group-title="news",US: ONE AMERICA NEWS
+http://goood.mine.nu:80/Crisi/S5s58A8KHSJX/45482
+#EXTINF:-1 tvg-name="USA: ONE AMERICA NEWS (OAN)" tvg-logo="" group-title="news",USA: ONE AMERICA NEWS (OAN)
+http://neoyjpw.top:8080/60177299034963/6q99jskxwjv4/72828
+#EXTINF:-1 tvg-name="US: Scripps News" tvg-logo="" group-title="news",US: Scripps News
+http://4k.cmn14.com:8080/HakanKara01/XGuSAvs5Kc/232515
+#EXTINF:-1 tvg-name="USA: SPECTRUM BAY NEWS 9" tvg-logo="" group-title="news",USA: SPECTRUM BAY NEWS 9
+http://neoyjpw.top:8080/60177299034963/6q99jskxwjv4/72998
+#EXTINF:-1 tvg-name="USA: SPECTRUM NEWS 1 ALBANY NY" tvg-logo="" group-title="news",USA: SPECTRUM NEWS 1 ALBANY NY
+http://neoyjpw.top:8080/60177299034963/6q99jskxwjv4/72999
+#EXTINF:-1 tvg-name="USA: SPECTRUM NEWS 1 AUSTIN TX" tvg-logo="" group-title="news",USA: SPECTRUM NEWS 1 AUSTIN TX
+http://neoyjpw.top:8080/60177299034963/6q99jskxwjv4/73000
+#EXTINF:-1 tvg-name="USA: SPECTRUM NEWS 1 BUFFALO" tvg-logo="" group-title="news",USA: SPECTRUM NEWS 1 BUFFALO
+http://neoyjpw.top:8080/60177299034963/6q99jskxwjv4/73001
+#EXTINF:-1 tvg-name="USA: SPECTRUM NEWS 1 CAROLINAS COASTAL" tvg-logo="" group-title="news",USA: SPECTRUM NEWS 1 CAROLINAS COASTAL
+http://neoyjpw.top:8080/60177299034963/6q99jskxwjv4/73002
+#EXTINF:-1 tvg-name="USA: SPECTRUM NEWS 1 CAROLINAS GREENSBORO" tvg-logo="" group-title="news",USA: SPECTRUM NEWS 1 CAROLINAS GREENSBORO
+http://neoyjpw.top:8080/60177299034963/6q99jskxwjv4/73003
+#EXTINF:-1 tvg-name="USA: SPECTRUM NEWS 1 CAROLINAS MOUNTAIN" tvg-logo="" group-title="news",USA: SPECTRUM NEWS 1 CAROLINAS MOUNTAIN
+http://neoyjpw.top:8080/60177299034963/6q99jskxwjv4/73004
+#EXTINF:-1 tvg-name="USA: SPECTRUM NEWS 1 CAROLINAS RALEIGH" tvg-logo="" group-title="news",USA: SPECTRUM NEWS 1 CAROLINAS RALEIGH
+http://neoyjpw.top:8080/60177299034963/6q99jskxwjv4/73005
+#EXTINF:-1 tvg-name="USA: SPECTRUM NEWS 1 CENTRAL NY" tvg-logo="" group-title="news",USA: SPECTRUM NEWS 1 CENTRAL NY
+http://neoyjpw.top:8080/60177299034963/6q99jskxwjv4/73006
+#EXTINF:-1 tvg-name="USA: SPECTRUM NEWS 1 CHARLOTTE NC" tvg-logo="" group-title="news",USA: SPECTRUM NEWS 1 CHARLOTTE NC
+http://neoyjpw.top:8080/60177299034963/6q99jskxwjv4/73007
+#EXTINF:-1 tvg-name="USA: SPECTRUM NEWS 1 CLEVELAND AKRON" tvg-logo="" group-title="news",USA: SPECTRUM NEWS 1 CLEVELAND AKRON
+http://neoyjpw.top:8080/60177299034963/6q99jskxwjv4/73008
+#EXTINF:-1 tvg-name="USA: SPECTRUM NEWS 1 COLUMBUS" tvg-logo="" group-title="news",USA: SPECTRUM NEWS 1 COLUMBUS
+http://neoyjpw.top:8080/60177299034963/6q99jskxwjv4/73009
+#EXTINF:-1 tvg-name="USA: SPECTRUM NEWS 1 DALLAS TX" tvg-logo="" group-title="news",USA: SPECTRUM NEWS 1 DALLAS TX
+http://neoyjpw.top:8080/60177299034963/6q99jskxwjv4/73010
+#EXTINF:-1 tvg-name="USA: SPECTRUM NEWS 1 DAYTON" tvg-logo="" group-title="news",USA: SPECTRUM NEWS 1 DAYTON
+http://neoyjpw.top:8080/60177299034963/6q99jskxwjv4/73011
+#EXTINF:-1 tvg-name="USA: SPECTRUM NEWS 1 EL PASO TEXAS" tvg-logo="" group-title="news",USA: SPECTRUM NEWS 1 EL PASO TEXAS
+http://neoyjpw.top:8080/60177299034963/6q99jskxwjv4/73012
+#EXTINF:-1 tvg-name="USA: SPECTRUM NEWS 1 HUDSON VALLEY" tvg-logo="" group-title="news",USA: SPECTRUM NEWS 1 HUDSON VALLEY
+http://neoyjpw.top:8080/60177299034963/6q99jskxwjv4/73013
+#EXTINF:-1 tvg-name="USA: SPECTRUM NEWS 1 KENTUCKY EVANSVILLE" tvg-logo="" group-title="news",USA: SPECTRUM NEWS 1 KENTUCKY EVANSVILLE
+http://neoyjpw.top:8080/60177299034963/6q99jskxwjv4/73014
+#EXTINF:-1 tvg-name="USA: SPECTRUM NEWS 1 KENTUCKY LEXINGTON" tvg-logo="" group-title="news",USA: SPECTRUM NEWS 1 KENTUCKY LEXINGTON
+http://neoyjpw.top:8080/60177299034963/6q99jskxwjv4/73015
+#EXTINF:-1 tvg-name="USA: SPECTRUM NEWS 1 KENTUCKY LOUISVILLE" tvg-logo="" group-title="news",USA: SPECTRUM NEWS 1 KENTUCKY LOUISVILLE
+http://neoyjpw.top:8080/60177299034963/6q99jskxwjv4/73016
+#EXTINF:-1 tvg-name="USA: SPECTRUM NEWS 1 MA PITTSFIELD" tvg-logo="" group-title="news",USA: SPECTRUM NEWS 1 MA PITTSFIELD
+http://neoyjpw.top:8080/60177299034963/6q99jskxwjv4/73017
+#EXTINF:-1 tvg-name="USA: SPECTRUM NEWS 1 MO ST LOUIS" tvg-logo="" group-title="news",USA: SPECTRUM NEWS 1 MO ST LOUIS
+http://neoyjpw.top:8080/60177299034963/6q99jskxwjv4/73018
+#EXTINF:-1 tvg-name="USA: SPECTRUM NEWS 1 NEW YORK ROCHESTER" tvg-logo="" group-title="news",USA: SPECTRUM NEWS 1 NEW YORK ROCHESTER
+http://neoyjpw.top:8080/60177299034963/6q99jskxwjv4/73019
+#EXTINF:-1 tvg-name="USA: SPECTRUM NEWS 1 SAN ANTONIO" tvg-logo="" group-title="news",USA: SPECTRUM NEWS 1 SAN ANTONIO
+http://neoyjpw.top:8080/60177299034963/6q99jskxwjv4/73020
+#EXTINF:-1 tvg-name="USA: SPECTRUM NEWS 1 TOLEDO LIMA" tvg-logo="" group-title="news",USA: SPECTRUM NEWS 1 TOLEDO LIMA
+http://neoyjpw.top:8080/60177299034963/6q99jskxwjv4/73021
+#EXTINF:-1 tvg-name="USA: SPECTRUM NEWS 13" tvg-logo="" group-title="news",USA: SPECTRUM NEWS 13
+http://neoyjpw.top:8080/60177299034963/6q99jskxwjv4/73022
+#EXTINF:-1 tvg-name="USA: SPECTRUM NEWS NY1" tvg-logo="" group-title="news",USA: SPECTRUM NEWS NY1
+http://neoyjpw.top:8080/60177299034963/6q99jskxwjv4/73023
+#EXTINF:-1 tvg-name="US: WEATHER NATION" tvg-logo="http://sltv-icon.cms-s.com/logo/USA/WEATHERCHANNEL.png" group-title="news",US: WEATHER NATION
+http://neoyjpw.top:8080/60177299034963/6q99jskxwjv4/73250
+#EXTINF:-1 tvg-name="USA: WPIX 11 NEWS (NEW YORK) US" tvg-logo="" group-title="news",USA: WPIX 11 NEWS (NEW YORK) US
+http://neoyjpw.top:8080/60177299034963/6q99jskxwjv4/73263
+#EXTINF:-1 tvg-name="USA: WPVI CHANNEL 6 ACTION NEWS (PHILADELPHIA)" tvg-logo="" group-title="news",USA: WPVI CHANNEL 6 ACTION NEWS (PHILADELPHIA)
+http://neoyjpw.top:8080/60177299034963/6q99jskxwjv4/73264
+#EXTINF:-1 tvg-name="CA : BNN BLOOMBERG" tvg-logo="http://onlytimewilltell.xyz:2086/images/696b56c97d98d5ffc4e005ae8a14559b.png" group-title="news",CA : BNN BLOOMBERG
+http://goood.mine.nu:80/Crisi/S5s58A8KHSJX/45058
+#EXTINF:-1 tvg-name="CA: CBC" tvg-logo="https://site-cbc.radio-canada.ca/media/2853/logos_pagserv_1920x1080_v216.png" group-title="news",CA: CBC
+http://31.43.191.125:8080/KMAfV8zxWMkS/A2qMwSSVVR6N/5414
+#EXTINF:-1 tvg-name="CA: CTV news" tvg-logo="http://logos.giize.com/logos/logos%20rui/logos%20canada%20novos/ctvscifich.png" group-title="news",CA: CTV news
+http://goood.mine.nu:80/Crisi/S5s58A8KHSJX/45093
+#EXTINF:-1 tvg-name="CA: CTV NEWS LIVE EVENTS" tvg-logo="https://docdog.top/logo/countries/canada/ctv-news-ca.png" group-title="news",CA: CTV NEWS LIVE EVENTS
+http://31.43.191.125:8080/KMAfV8zxWMkS/A2qMwSSVVR6N/5442
+#EXTINF:-1 tvg-name="CA: GLOBAL HD" tvg-logo="https://sltv-icon.cms-s.com/logo/logos_a-z/g/GLOBAL--.jpg" group-title="news",CA: GLOBAL HD
+http://goood.mine.nu:80/Crisi/S5s58A8KHSJX/45110
+#EXTINF:-1 tvg-name="CA: RDI NEWS" tvg-logo="http://logos.giize.com/logos/logos%20rui/logos%20canada%20/RDI.png" group-title="news",CA: RDI NEWS
+http://goood.mine.nu:80/Crisi/S5s58A8KHSJX/45131
 #EXTINF:-1 tvg-name="AU: ABC NEWS (ADELAIDE)" tvg-logo="http://icons.tw:8080/images/be71253f7c696a3878708553399cec95.png" group-title="news",AU: ABC NEWS (ADELAIDE)
 http://watchdog.build/live/wisam123/53LzhE1g6e/be777ce7-d718-482d-8f05-677759732bca.m3u
 #EXTINF:-1 tvg-name="AU: ABC NEWS (BRISBANE)" tvg-logo="http://icons.tw:8080/images/be71253f7c696a3878708553399cec95.png" group-title="news",AU: ABC NEWS (BRISBANE)
@@ -61,20 +331,12 @@ http://watchdog.build/live/wisam123/53LzhE1g6e/401095d3-725e-4dc1-90c0-9150e903a
 http://watchdog.build/live/wisam123/53LzhE1g6e/1d07946e-6ee9-448d-a563-2415dd0e7949.m3u
 #EXTINF:-1 tvg-name="AU: ABC NEWS (SYDNEY)" tvg-logo="http://icons.tw:8080/images/be71253f7c696a3878708553399cec95.png" group-title="news",AU: ABC NEWS (SYDNEY)
 http://watchdog.build/live/wisam123/53LzhE1g6e/486d5851-d6c7-4818-a3da-6c9f18ffecfa.m3u
-#EXTINF:-1 tvg-name="US: AL JAZEERA" tvg-logo="" group-title="news",US: AL JAZEERA
-http://31.43.191.125:8080/KMAfV8zxWMkS/A2qMwSSVVR6N/1857
 #EXTINF:-1 tvg-name="AU: CHANNEL NEWS ASIA" tvg-logo="http://icons.tw:8080/images/bd5291a1aa4e5001d0f8640f4863431e.png" group-title="news",AU: CHANNEL NEWS ASIA
 http://watchdog.build/live/wisam123/53LzhE1g6e/bd4088f9-734e-47b9-8ed3-d1c4a3e79edd.m3u
-#EXTINF:-1 tvg-name="CA : CBC" tvg-logo="http://onlytimewilltell.xyz:2086/images/7a94339a256c062a68d3ff0f8b3b237e.png" group-title="news",CA : CBC
-http://31.43.191.125:8080/KMAfV8zxWMkS/A2qMwSSVVR6N/5414
 #EXTINF:-1 tvg-name="CA : CTV" tvg-logo="http://onlytimewilltell.xyz:2086/images/d3b64bd58fe6500aa97a1ed6c0103cb1.png" group-title="news",CA : CTV
 http://watchdog.build/live/wisam123/53LzhE1g6e/1d4fb4b8-6db8-4fa9-a400-2158749d5664.m3u
 #EXTINF:-1 tvg-name="CA : GLOBAL BC" tvg-logo="http://onlytimewilltell.xyz:2086/images/fe6fdda42199609d173f01a7d7fd72a5.png" group-title="news",CA : GLOBAL BC
 http://watchdog.build/live/wisam123/53LzhE1g6e/c49b49c7-304f-479d-abf4-da89da681a4a.m3u
-#EXTINF:-1 tvg-name="US: BBC WORLD NEWS" tvg-logo="http://logos.giize.com/logos/logos%20rui/uk%20novos/bbc_world_news.png" group-title="news",US: BBC WORLD NEWS
-http://goood.mine.nu:80/Crisi/S5s58A8KHSJX/45375
-#EXTINF:-1 tvg-name="CA : BNN BLOOMBERG" tvg-logo="http://onlytimewilltell.xyz:2086/images/696b56c97d98d5ffc4e005ae8a14559b.png" group-title="news",CA : BNN BLOOMBERG
-http://goood.mine.nu:80/Crisi/S5s58A8KHSJX/45058
 #EXTINF:-1 tvg-name="CA : BUSINESS BLOOMBERG HD" tvg-logo="http://onlytimewilltell.xyz:2086/images/1b87225c734b0a934e9ce33ffc53c9ce.png" group-title="news",CA : BUSINESS BLOOMBERG HD
 http://watchdog.build/live/wisam123/53LzhE1g6e/bb971d97-ff26-4304-b9cc-564cd26553e3.m3u
 #EXTINF:-1 tvg-name="CA : CBC NEWS NETWORK" tvg-logo="http://onlytimewilltell.xyz:2086/images/1365fcd174ae4b6736d62a593bbd38a4.png" group-title="news",CA : CBC NEWS NETWORK
@@ -83,50 +345,14 @@ http://watchdog.build/live/wisam123/53LzhE1g6e/725e41e2-fef1-4ae5-9235-956493a8d
 http://watchdog.build/live/wisam123/53LzhE1g6e/f2b70deb-c481-4958-8b87-bddcdb26438d.m3u
 #EXTINF:-1 tvg-name="CA : CTV NEWS CHANNEL" tvg-logo="http://onlytimewilltell.xyz:2086/images/740644bcd9b0c4bc6251f880af9c5662.png" group-title="news",CA : CTV NEWS CHANNEL
 http://watchdog.build/live/wisam123/53LzhE1g6e/5f84d329-bcdc-435d-b497-219c873527af.m3u
-#EXTINF:-1 tvg-name="US: FOX NEWS" tvg-logo="http://logos.giize.com/logos/logos%20rui/usa/foxw.png" group-title="news",US: FOX NEWS
-http://goood.mine.nu:80/Crisi/S5s58A8KHSJX/45439
-#EXTINF:-1 tvg-name="GB : GB NEWS" tvg-logo="http://onlytimewilltell.xyz:2086/images/3e27ef3de57fb58dce2168dc5a362568.png" group-title="news",GB : GB NEWS
-http://31.43.191.125:8080/KMAfV8zxWMkS/A2qMwSSVVR6N/1917
-#EXTINF:-1 tvg-name="GB : RTE NEWS" tvg-logo="http://onlytimewilltell.xyz:2086/images/72ef9fe1aa78da948e0bb4b78ba3d292.jpg" group-title="news",GB : RTE NEWS
-http://neoyjpw.top:8080/60177299034963/6q99jskxwjv4/29939
 #EXTINF:-1 tvg-name="US : BAY NEWS 9 TAMPA" tvg-logo="https://pi-lite.spectrum.net/imageserver/guide/123810" group-title="news",US : BAY NEWS 9 TAMPA
 http://watchdog.build/live/wisam123/53LzhE1g6e/15ca22ea-7ecf-4a48-a2f7-d36e8a08f0f6.m3u
 #EXTINF:-1 tvg-name="US : BLOOMBERG TV" tvg-logo="http://onlytimewilltell.xyz:2086/images/1b87225c734b0a934e9ce33ffc53c9ce.png" group-title="news",US : BLOOMBERG TV
 http://watchdog.build/live/wisam123/53LzhE1g6e/e379c753-47ad-4917-b21f-2b5313d871e7.m3u
 #EXTINF:-1 tvg-name="US : CBS NEWS 247" tvg-logo="http://onlytimewilltell.xyz:2086/images/0034215df50134d1aa492c9299ccbdc1.png" group-title="news",US : CBS NEWS 247
 http://watchdog.build/live/wisam123/53LzhE1g6e/20476a7e-a3e0-4dc8-b2f6-94f95956682e.m3u
-#EXTINF:-1 tvg-name="US: CBS NEWS BAY AREA" tvg-logo="" group-title="news",US: CBS NEWS BAY AREA
-http://4k.cmn14.com:8080/HakanKara01/XGuSAvs5Kc/232109
-#EXTINF:-1 tvg-name="US: CBS NEWS BOSTON" tvg-logo="" group-title="news",US: CBS NEWS BOSTON
-http://goood.mine.nu:80/Crisi/S5s58A8KHSJX/45392
-#EXTINF:-1 tvg-name="US: CBS NEWS CHICAGO" tvg-logo="" group-title="news",US: CBS NEWS CHICAGO
-http://4k.cmn14.com:8080/HakanKara01/XGuSAvs5Kc/232111
-#EXTINF:-1 tvg-name="US: CBS NEWS COLORADO" tvg-logo="" group-title="news",US: CBS NEWS COLORADO
-http://31.43.191.125:8080/KMAfV8zxWMkS/A2qMwSSVVR6N/154857
-#EXTINF:-1 tvg-name="US: CBS NEWS LOS ANGELES" tvg-logo="" group-title="news",US: CBS NEWS LOS ANGELES
-http://4k.cmn14.com:8080/HakanKara01/XGuSAvs5Kc/232114
-#EXTINF:-1 tvg-name="US: CBS NEWS MINNESOTA" tvg-logo="" group-title="news",US: CBS NEWS MINNESOTA
-http://4k.cmn14.com:8080/HakanKara01/XGuSAvs5Kc/232116
-#EXTINF:-1 tvg-name="US: CBS NEWS NEW YORK" tvg-logo="" group-title="news",US: CBS NEWS NEW YORK
-http://4k.cmn14.com:8080/HakanKara01/XGuSAvs5Kc/232117
-#EXTINF:-1 tvg-name="US: CBS NEWS PHILADELPHIA" tvg-logo="" group-title="news",US: CBS NEWS PHILADELPHIA
-http://4k.cmn14.com:8080/HakanKara01/XGuSAvs5Kc/232118
-#EXTINF:-1 tvg-name="US: CBS NEWS TEXAS" tvg-logo="" group-title="news",US: CBS NEWS TEXAS
-http://31.43.191.125:8080/KMAfV8zxWMkS/A2qMwSSVVR6N/154864
-#EXTINF:-1 tvg-name="USA: CHEDDAR NEWS" tvg-logo="" group-title="news",USA: CHEDDAR NEWS
-http://neoyjpw.top:8080/60177299034963/6q99jskxwjv4/71351
-#EXTINF:-1 tvg-name="US : CNBC" tvg-logo="http://onlytimewilltell.xyz:2086/images/17c6cdfa9240e3ca5f6e9dd2ef3d0441.png" group-title="news",US : CNBC
-http://31.43.191.125:8080/KMAfV8zxWMkS/A2qMwSSVVR6N/5426
-#EXTINF:-1 tvg-name="US : CNBC WORLD" tvg-logo="http://onlytimewilltell.xyz:2086/images/8e73a8b6152376af322c16a42571885b.png" group-title="news",US : CNBC WORLD
-http://neoyjpw.top:8080/60177299034963/6q99jskxwjv4/71383
-#EXTINF:-1 tvg-name="US : CSPAN 1" tvg-logo="http://onlytimewilltell.xyz:2086/images/e48f93bb225015d64af95220587f81aa.png" group-title="news",US : CSPAN 1
-http://31.43.191.125:8080/KMAfV8zxWMkS/A2qMwSSVVR6N/154970
-#EXTINF:-1 tvg-name="US : CSPAN 2" tvg-logo="http://onlytimewilltell.xyz:2086/images/b27cedaf0ff83525403980572ea93543.png" group-title="news",US : CSPAN 2
-http://4k.cmn14.com:8080/HakanKara01/XGuSAvs5Kc/231338
 #EXTINF:-1 tvg-name="US : FOX BUSINESS" tvg-logo="http://onlytimewilltell.xyz:2086/images/7f4b266bf19e409a10d42a6f53360468.png" group-title="news",US : FOX BUSINESS
 http://watchdog.build/live/wisam123/53LzhE1g6e/6ce10b0b-4089-4d95-a440-ffb146bae8e3.m3u
-#EXTINF:-1 tvg-name="US: FOX News Channel" tvg-logo="http://logos.giize.com/logos/logos%20rui/usa/fxn.png" group-title="news",US: FOX News Channel
-http://goood.mine.nu:80/Crisi/S5s58A8KHSJX/45440
 #EXTINF:-1 tvg-name="US : FOX NEWS LIVE NOW" tvg-logo="https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2023/01/32/18/592/333/LiveNOW-logo-1280x720.jpg" group-title="news",US : FOX NEWS LIVE NOW
 http://watchdog.build/live/wisam123/53LzhE1g6e/3e2f01e1-1d8b-4244-90ec-6474c9b3c940.m3u
 #EXTINF:-1 tvg-name="US : MS NOW" tvg-logo="https://i.ibb.co/S4GNwgxN/msnow.png" group-title="news",US : MS NOW
@@ -188,7 +414,7 @@ http://watchdog.build/live/wisam123/53LzhE1g6e/40b14e39-1524-460a-8f04-840526e1c
 #EXTINF:-1 tvg-name="US : NEWS 1 - NEW YORK (NYC)" tvg-logo="https://pi-lite.spectrum.net/imageserver/guide/123824" group-title="news",US : NEWS 1 - NEW YORK (NYC)
 http://watchdog.build/live/wisam123/53LzhE1g6e/da9bb738-94fb-40a9-9dff-841bf7a5737b.m3u
 #EXTINF:-1 tvg-name="US : NEWS 1 - SAN ANTONIO" tvg-logo="https://pi-lite.spectrum.net/imageserver/guide/123811" group-title="news",US : NEWS 1 - SAN ANTONIO
-http://watchdog.build/live/wisam123/53LzhE1g6e/945fb178-acc9-4056-8c7e-6e9fc4a31caa.m3u
+http://watchdog.build/live/0228902066/tc674KJ3du/945fb178-acc9-4056-8c7e-6e9fc4a31caa.m3u
 #EXTINF:-1 tvg-name="US : NEWS 1 - SOUTHERN CALIFORNIA" tvg-logo="https://pi-lite.spectrum.net/imageserver/guide/123752" group-title="news",US : NEWS 1 - SOUTHERN CALIFORNIA
 http://watchdog.build/live/wisam123/53LzhE1g6e/f8d322ff-dcfe-44ba-98dc-1e111947cb4a.m3u
 #EXTINF:-1 tvg-name="US : NEWS 1 - ST LOUIS" tvg-logo="https://pi-lite.spectrum.net/imageserver/guide/153081" group-title="news",US : NEWS 1 - ST LOUIS
@@ -197,38 +423,34 @@ http://watchdog.build/live/wisam123/53LzhE1g6e/470c1168-9c26-457a-98ba-f7dea1532
 http://watchdog.build/live/wisam123/53LzhE1g6e/10d04667-6a08-425a-8628-959d9ed4aa25.m3u
 #EXTINF:-1 tvg-name="US : NEWS 13 CENTRAL FLORIDA" tvg-logo="https://pi-lite.spectrum.net/imageserver/guide/123830" group-title="news",US : NEWS 13 CENTRAL FLORIDA
 http://watchdog.build/live/wisam123/53LzhE1g6e/0ae0c70a-7eb7-43cb-91fd-d2b72625a795.m3u
-#EXTINF:-1 tvg-name="US : NEWS12 BROOKLYN" tvg-logo="http://onlytimewilltell.xyz:2086/images/2d7540ec49bfdb3d75d93357d8ff2339.jpg" group-title="news",US : NEWS12 BROOKLYN
-http://watchdog.build/live/wisam123/53LzhE1g6e/22909509-71c1-419e-a25d-e3531e484200.m3u
-#EXTINF:-1 tvg-name="US : NEWS12 CONNECTICUT" tvg-logo="http://onlytimewilltell.xyz:2086/images/2d7540ec49bfdb3d75d93357d8ff2339.jpg" group-title="news",US : NEWS12 CONNECTICUT
+#EXTINF:-1 tvg-name="US: NEWS12+ BROOKLYN" tvg-logo="" group-title="news",US: NEWS12+ BROOKLYN
+http://watchdog.build/live/0228902066/tc674KJ3du/22909509-71c1-419e-a25d-e3531e484200.m3u
+#EXTINF:-1 tvg-name="US: NEWS12+ CONNECTICUT" tvg-logo="https://i.ibb.co/n8m2mcsV/news12plus-CT.jpg" group-title="news",US: NEWS12+ CONNECTICUT
 http://watchdog.build/live/wisam123/53LzhE1g6e/0fc9cd6b-3315-4be9-8ed0-e2e175f00b68.m3u
-#EXTINF:-1 tvg-name="US : NEWS12 HUDSON VALLEY" tvg-logo="http://onlytimewilltell.xyz:2086/images/2d7540ec49bfdb3d75d93357d8ff2339.jpg" group-title="news",US : NEWS12 HUDSON VALLEY
-http://watchdog.build/live/wisam123/53LzhE1g6e/dd8881f8-d7d1-4ab9-b205-7b9ea0a9e467.m3u
-#EXTINF:-1 tvg-name="US : NEWS12 LONG ISLAND" tvg-logo="http://onlytimewilltell.xyz:2086/images/2d7540ec49bfdb3d75d93357d8ff2339.jpg" group-title="news",US : NEWS12 LONG ISLAND
-http://watchdog.build/live/wisam123/53LzhE1g6e/4bca8520-ab2b-4392-abd0-5fe0d0b5df78.m3u
-#EXTINF:-1 tvg-name="US : NEWS12 NEW JERSEY" tvg-logo="http://onlytimewilltell.xyz:2086/images/2d7540ec49bfdb3d75d93357d8ff2339.jpg" group-title="news",US : NEWS12 NEW JERSEY
+#EXTINF:-1 tvg-name="US: NEWS12 HUDSON VALLEY" tvg-logo="https://sltv-icon.cms-s.com/logo/USA/News12Hudson%20Valley.png" group-title="news",US: NEWS12 HUDSON VALLEY
+http://vushtrriasl.hups.stream:8080/XmXX6uaAeq/qn4JxSKu5h/767894
+#EXTINF:-1 tvg-name="US: NEWS12+ LONG ISLAND" tvg-logo="https://i.ibb.co/p6FPNcCk/news12plus-LI.jpg" group-title="news",US: NEWS12+ LONG ISLAND
+http://watchdog.build/live/0228902066/tc674KJ3du/4bca8520-ab2b-4392-abd0-5fe0d0b5df78.m3u
+#EXTINF:-1 tvg-name="US: NEWS12+ NEW JERSEY" tvg-logo="https://i.ibb.co/qYCVcWDV/news12plus-NJ.jpg" group-title="news",US: NEWS12+ NEW JERSEY
 http://watchdog.build/live/wisam123/53LzhE1g6e/6a044170-699a-4499-8699-2bd3f3247d42.m3u
 #EXTINF:-1 tvg-name="US : NEWS12 THE BRONX" tvg-logo="http://onlytimewilltell.xyz:2086/images/2d7540ec49bfdb3d75d93357d8ff2339.jpg" group-title="news",US : NEWS12 THE BRONX
-http://watchdog.build/live/wisam123/53LzhE1g6e/cc925dc2-2ba5-4ea4-9ea4-d25b82f3a129.m3u
-#EXTINF:-1 tvg-name="US : NEWS12 WESTCHESTER" tvg-logo="http://onlytimewilltell.xyz:2086/images/2d7540ec49bfdb3d75d93357d8ff2339.jpg" group-title="news",US : NEWS12 WESTCHESTER
+http://watchdog.build/live/0228902066/tc674KJ3du/cc925dc2-2ba5-4ea4-9ea4-d25b82f3a129.m3u
+#EXTINF:-1 tvg-name="US: NEWS12+ WESTCHESTER" tvg-logo="" group-title="news",US: NEWS12+ WESTCHESTER
 http://watchdog.build/live/wisam123/53LzhE1g6e/0d5680c9-7c64-4040-8837-be9a2595177f.m3u
 #EXTINF:-1 tvg-name="US : NEWSMAX TV" tvg-logo="http://onlytimewilltell.xyz:2086/images/2287182432a7910c8004ad8c7d45670d.png" group-title="news",US : NEWSMAX TV
 http://watchdog.build/live/wisam123/53LzhE1g6e/74de60ed-77ce-4895-a187-ea5c80977748.m3u
-#EXTINF:-1 tvg-name="USA: NEWSNATION" tvg-logo="" group-title="news",USA: NEWSNATION
-http://neoyjpw.top:8080/1061760597105520/2869c7254b3d/72759
 #EXTINF:-1 tvg-name="US : ONE AMERICA NEWS ENCORE" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/3/3d/One_America_News_Network_logo.png/revision/latest?cb=20151026211631" group-title="news",US : ONE AMERICA NEWS ENCORE
 http://watchdog.build/live/wisam123/53LzhE1g6e/3d5293fd-ad0e-4caa-b548-fa9f2510082b.m3u
-#EXTINF:-1 tvg-name="US : ONE AMERICA NEWS NETWORK" tvg-logo="http://onlytimewilltell.xyz:2086/images/2e2faa8b025e09003064104897f5b975.png" group-title="news",US : ONE AMERICA NEWS NETWORK
+#EXTINF:-1 tvg-name="US: ONE AMERICA NEWS NETWORK" tvg-logo="https://i.imgur.com/G6e7Hcl.png" group-title="news",US: ONE AMERICA NEWS NETWORK
 http://watchdog.build/live/wisam123/53LzhE1g6e/2e5b9b1d-1505-4e6a-88b7-59da859ccb0a.m3u
-#EXTINF:-1 tvg-name="US: Scripps News" tvg-logo="" group-title="news",US: Scripps News
-http://4k.cmn14.com:8080/HakanKara01/XGuSAvs5Kc/232515
 #EXTINF:-1 tvg-name="US : WGN" tvg-logo="http://onlytimewilltell.xyz:2086/images/774405650af22e5593dfd6590c6ea92d.png" group-title="news",US : WGN
 http://watchdog.build/live/wisam123/53LzhE1g6e/ea4b48a9-2e71-41e6-9517-5e6bf7e4d155.m3u
 #EXTINF:-1 tvg-name="GB : AL JAZEERA ENG" tvg-logo="http://onlytimewilltell.xyz:2086/images/ebed673a4a8b1217bea1cc6d987492a2.png" group-title="news",GB : AL JAZEERA ENG
 http://watchdog.build/live/wisam123/53LzhE1g6e/36316f13-d148-445a-b50c-213d492872f2.m3u
 #EXTINF:-1 tvg-name="GB : EURO NEWS" tvg-logo="http://onlytimewilltell.xyz:2086/images/ccc7886ea67ff6e324b5084f37d4ed63.png" group-title="news",GB : EURO NEWS
-http://watchdog.build/live/wisam123/53LzhE1g6e/5b6bdc6d-538a-4fe8-a27e-6ef626638b77.m3u
+http://4k.cmn14.com:8080/HakanKara01/XGuSAvs5Kc/231369
 #EXTINF:-1 tvg-name="GB-Asian : DUNYA NEWS" tvg-logo="http://030012034612/images/119adfe6ca397bdf95584601e09acf10.png" group-title="news",GB-Asian : DUNYA NEWS
-http://watchdog.build/live/wisam123/53LzhE1g6e/ea48dc57-3e75-48e7-9bf6-02af0ea46122.m3u
+http://watchdog.build/live/0228902066/tc674KJ3du/ea48dc57-3e75-48e7-9bf6-02af0ea46122.m3u
 #EXTINF:-1 tvg-name="US : CHEDDAR NEWS FHD 1080" tvg-logo="http://onlytimewilltell.xyz:2086/images/0cde4373abc1058402b3a07835fe09a8.png" group-title="news",US : CHEDDAR NEWS FHD 1080
 http://watchdog.build/live/wisam123/53LzhE1g6e/7156db35-7f12-43e2-ad01-4b55e346dcf0.m3u
 #EXTINF:-1 tvg-name="US : FOX NEWS CHANNEL FHD 1080" tvg-logo="http://onlytimewilltell.xyz:2086/images/8fd11dd170fd0262942aea685c02a52a.png" group-title="news",US : FOX NEWS CHANNEL FHD 1080
@@ -237,170 +459,432 @@ http://watchdog.build/live/wisam123/53LzhE1g6e/c9a30f64-92fd-4515-a88b-bbe29f89d
 http://watchdog.build/live/wisam123/53LzhE1g6e/1b1bc622-01ed-46a1-8fc8-181840e73871.m3u
 #EXTINF:-1 tvg-name="US : CW - CA - LOS ANGELES (KCAL)" tvg-logo="http://onlytimewilltell.xyz:2086/images/9af3107a066f6b0defb1cafc0499f6ed.png" group-title="news",US : CW - CA - LOS ANGELES (KCAL)
 http://watchdog.build/live/wisam123/53LzhE1g6e/acb20240-5baf-4f27-aef8-350c06a22b52.m3u
-#EXTINF:-1 tvg-name="UK: VIP ABP NEWS" tvg-logo="https://docdog.top/logo/countries/uk/abpnews.png" group-title="news",UK: VIP ABP NEWS
-http://31.43.191.125:8080/KMAfV8zxWMkS/A2qMwSSVVR6N/1821
-#EXTINF:-1 tvg-name="UK: FRANCE 24" tvg-logo="" group-title="news",UK: FRANCE 24
-http://31.43.191.125:8080/KMAfV8zxWMkS/A2qMwSSVVR6N/1856
-#EXTINF:-1 tvg-name="UK: RTE NEWS NOW" tvg-logo="" group-title="news",UK: RTE NEWS NOW
-http://31.43.191.125:8080/KMAfV8zxWMkS/A2qMwSSVVR6N/1874
-#EXTINF:-1 tvg-name="UK: VIP RUSSIA TODAY NEWS" tvg-logo="https://docdog.top/logo/countries/uk/rtdocumentary.png" group-title="news",UK: VIP RUSSIA TODAY NEWS
-http://31.43.191.125:8080/KMAfV8zxWMkS/A2qMwSSVVR6N/1876
-#EXTINF:-1 tvg-name="US: RT NEWS HD" tvg-logo="" group-title="news",US: RT NEWS HD
-http://4k.cmn14.com:8080/HakanKara01/XGuSAvs5Kc/231653
-#EXTINF:-1 tvg-name="UK: VIP ALJAZEERA NEWS ENGLISH" tvg-logo="" group-title="news",UK: VIP ALJAZEERA NEWS ENGLISH
-http://31.43.191.125:8080/KMAfV8zxWMkS/A2qMwSSVVR6N/1905
-#EXTINF:-1 tvg-name="US: ABC News Live" tvg-logo="" group-title="news",US: ABC News Live
-http://neoyjpw.top:8080/60177299034963/6q99jskxwjv4/71008
-#EXTINF:-1 tvg-name="CA: CBC NEWS" tvg-logo="http://logos.giize.com/logos/logos%20rui/logos%20canada%20novos/cbc.png" group-title="news",CA: CBC NEWS
-http://goood.mine.nu:80/Crisi/S5s58A8KHSJX/45067
-#EXTINF:-1 tvg-name="USA: CBC NEWS INTERNATIONAL" tvg-logo="" group-title="news",USA: CBC NEWS INTERNATIONAL
-http://neoyjpw.top:8080/60177299034963/6q99jskxwjv4/71202
-#EXTINF:-1 tvg-name="USA: CBN NEWS" tvg-logo="" group-title="news",USA: CBN NEWS
-http://neoyjpw.top:8080/60177299034963/6q99jskxwjv4/71203
-#EXTINF:-1 tvg-name="US: CBS NEWS" tvg-logo="" group-title="news",US: CBS NEWS
-http://4k.cmn14.com:8080/HakanKara01/XGuSAvs5Kc/232122
-#EXTINF:-1 tvg-name="US: CBS NEWS DETROIT" tvg-logo="" group-title="news",US: CBS NEWS DETROIT
-http://4k.cmn14.com:8080/HakanKara01/XGuSAvs5Kc/232113
-#EXTINF:-1 tvg-name="USA: CBS NEWS HD [Sᴛᴠ+]" tvg-logo="" group-title="news",USA: CBS NEWS HD [Sᴛᴠ+]
-http://neoyjpw.top:8080/60177299034963/6q99jskxwjv4/71297
-#EXTINF:-1 tvg-name="USA: CCTV NEWS" tvg-logo="" group-title="news",USA: CCTV NEWS
-http://neoyjpw.top:8080/60177299034963/6q99jskxwjv4/71346
-#EXTINF:-1 tvg-name="USA: CHEDDAR NEWS HD [Sᴛᴠ+]" tvg-logo="" group-title="news",USA: CHEDDAR NEWS HD [Sᴛᴠ+]
-http://neoyjpw.top:8080/60177299034963/6q99jskxwjv4/71352
-#EXTINF:-1 tvg-name="USA: DW NEWS US" tvg-logo="" group-title="news",USA: DW NEWS US
-http://neoyjpw.top:8080/60177299034963/6q99jskxwjv4/71535
-#EXTINF:-1 tvg-name="US: Estrella News" tvg-logo="" group-title="news",US: Estrella News
-http://4k.cmn14.com:8080/HakanKara01/XGuSAvs5Kc/232488
-#EXTINF:-1 tvg-name="USA: NBC BAY AREA NEWS" tvg-logo="" group-title="news",USA: NBC BAY AREA NEWS
-http://neoyjpw.top:8080/60177299034963/6q99jskxwjv4/72469
-#EXTINF:-1 tvg-name="USA: NEWS 12 BRONX & BROOKLYN" tvg-logo="" group-title="news",USA: NEWS 12 BRONX & BROOKLYN
-http://neoyjpw.top:8080/60177299034963/6q99jskxwjv4/72748
-#EXTINF:-1 tvg-name="US: NEWS 12 Brooklyn" tvg-logo="" group-title="news",US: NEWS 12 Brooklyn
-http://4k.cmn14.com:8080/HakanKara01/XGuSAvs5Kc/231615
-#EXTINF:-1 tvg-name="USA: NEWS 12 CONNECTICUT" tvg-logo="" group-title="news",USA: NEWS 12 CONNECTICUT
-http://neoyjpw.top:8080/1061760597105520/2869c7254b3d/72750
-#EXTINF:-1 tvg-name="USA: NEWS 12 HAVEN HARTFORD" tvg-logo="" group-title="news",USA: NEWS 12 HAVEN HARTFORD
-http://neoyjpw.top:8080/60177299034963/6q99jskxwjv4/72751
-#EXTINF:-1 tvg-name="USA: NEWS 12 HUDSON VALLEY & WESTCHESTER" tvg-logo="" group-title="news",USA: NEWS 12 HUDSON VALLEY & WESTCHESTER
-http://neoyjpw.top:8080/60177299034963/6q99jskxwjv4/72752
-#EXTINF:-1 tvg-name="USA: NEWS 12 LONG ISLAND" tvg-logo="" group-title="news",USA: NEWS 12 LONG ISLAND
-http://neoyjpw.top:8080/60177299034963/6q99jskxwjv4/72753
-#EXTINF:-1 tvg-name="US: NEWS 12 THE Bronx" tvg-logo="" group-title="news",US: NEWS 12 THE Bronx
-http://4k.cmn14.com:8080/HakanKara01/XGuSAvs5Kc/231617
-#EXTINF:-1 tvg-name="USA: NEWS 12 TRAFFIC AND WEATHER" tvg-logo="" group-title="news",USA: NEWS 12 TRAFFIC AND WEATHER
-http://neoyjpw.top:8080/60177299034963/6q99jskxwjv4/72755
-#EXTINF:-1 tvg-name="USA: NEWS 12 WESTCHESTER" tvg-logo="" group-title="news",USA: NEWS 12 WESTCHESTER
-http://neoyjpw.top:8080/60177299034963/6q99jskxwjv4/72756
-#EXTINF:-1 tvg-name="USA: NEWS12 NY US" tvg-logo="" group-title="news",USA: NEWS12 NY US
-http://neoyjpw.top:8080/60177299034963/6q99jskxwjv4/72757
-#EXTINF:-1 tvg-name="US: Newsmax 2" tvg-logo="" group-title="news",US: Newsmax 2
-http://4k.cmn14.com:8080/HakanKara01/XGuSAvs5Kc/232509
-#EXTINF:-1 tvg-name="USA: NEWSY" tvg-logo="" group-title="news",USA: NEWSY
-http://neoyjpw.top:8080/60177299034963/6q99jskxwjv4/72760
-#EXTINF:-1 tvg-name="US: ONE AMERICA NEWS" tvg-logo="http://logos.giize.com/logos/logos%20rui/usa/flg.png" group-title="news",US: ONE AMERICA NEWS
-http://goood.mine.nu:80/Crisi/S5s58A8KHSJX/45482
-#EXTINF:-1 tvg-name="USA: ONE AMERICA NEWS (OAN)" tvg-logo="" group-title="news",USA: ONE AMERICA NEWS (OAN)
-http://neoyjpw.top:8080/60177299034963/6q99jskxwjv4/72828
-#EXTINF:-1 tvg-name="USA: SPECTRUM BAY NEWS 9" tvg-logo="" group-title="news",USA: SPECTRUM BAY NEWS 9
-http://neoyjpw.top:8080/60177299034963/6q99jskxwjv4/72998
-#EXTINF:-1 tvg-name="USA: SPECTRUM NEWS 1 ALBANY NY" tvg-logo="" group-title="news",USA: SPECTRUM NEWS 1 ALBANY NY
-http://neoyjpw.top:8080/60177299034963/6q99jskxwjv4/72999
-#EXTINF:-1 tvg-name="USA: SPECTRUM NEWS 1 AUSTIN TX" tvg-logo="" group-title="news",USA: SPECTRUM NEWS 1 AUSTIN TX
-http://neoyjpw.top:8080/60177299034963/6q99jskxwjv4/73000
-#EXTINF:-1 tvg-name="USA: SPECTRUM NEWS 1 BUFFALO" tvg-logo="" group-title="news",USA: SPECTRUM NEWS 1 BUFFALO
-http://neoyjpw.top:8080/60177299034963/6q99jskxwjv4/73001
-#EXTINF:-1 tvg-name="USA: SPECTRUM NEWS 1 CAROLINAS COASTAL" tvg-logo="" group-title="news",USA: SPECTRUM NEWS 1 CAROLINAS COASTAL
-http://neoyjpw.top:8080/60177299034963/6q99jskxwjv4/73002
-#EXTINF:-1 tvg-name="USA: SPECTRUM NEWS 1 CAROLINAS GREENSBORO" tvg-logo="" group-title="news",USA: SPECTRUM NEWS 1 CAROLINAS GREENSBORO
-http://neoyjpw.top:8080/60177299034963/6q99jskxwjv4/73003
-#EXTINF:-1 tvg-name="USA: SPECTRUM NEWS 1 CAROLINAS MOUNTAIN" tvg-logo="" group-title="news",USA: SPECTRUM NEWS 1 CAROLINAS MOUNTAIN
-http://neoyjpw.top:8080/60177299034963/6q99jskxwjv4/73004
-#EXTINF:-1 tvg-name="USA: SPECTRUM NEWS 1 CAROLINAS RALEIGH" tvg-logo="" group-title="news",USA: SPECTRUM NEWS 1 CAROLINAS RALEIGH
-http://neoyjpw.top:8080/60177299034963/6q99jskxwjv4/73005
-#EXTINF:-1 tvg-name="USA: SPECTRUM NEWS 1 CENTRAL NY" tvg-logo="" group-title="news",USA: SPECTRUM NEWS 1 CENTRAL NY
-http://neoyjpw.top:8080/60177299034963/6q99jskxwjv4/73006
-#EXTINF:-1 tvg-name="USA: SPECTRUM NEWS 1 CHARLOTTE NC" tvg-logo="" group-title="news",USA: SPECTRUM NEWS 1 CHARLOTTE NC
-http://neoyjpw.top:8080/60177299034963/6q99jskxwjv4/73007
-#EXTINF:-1 tvg-name="USA: SPECTRUM NEWS 1 CLEVELAND AKRON" tvg-logo="" group-title="news",USA: SPECTRUM NEWS 1 CLEVELAND AKRON
-http://neoyjpw.top:8080/60177299034963/6q99jskxwjv4/73008
-#EXTINF:-1 tvg-name="USA: SPECTRUM NEWS 1 COLUMBUS" tvg-logo="" group-title="news",USA: SPECTRUM NEWS 1 COLUMBUS
-http://neoyjpw.top:8080/60177299034963/6q99jskxwjv4/73009
-#EXTINF:-1 tvg-name="USA: SPECTRUM NEWS 1 DALLAS TX" tvg-logo="" group-title="news",USA: SPECTRUM NEWS 1 DALLAS TX
-http://neoyjpw.top:8080/60177299034963/6q99jskxwjv4/73010
-#EXTINF:-1 tvg-name="USA: SPECTRUM NEWS 1 DAYTON" tvg-logo="" group-title="news",USA: SPECTRUM NEWS 1 DAYTON
-http://neoyjpw.top:8080/60177299034963/6q99jskxwjv4/73011
-#EXTINF:-1 tvg-name="USA: SPECTRUM NEWS 1 EL PASO TEXAS" tvg-logo="" group-title="news",USA: SPECTRUM NEWS 1 EL PASO TEXAS
-http://neoyjpw.top:8080/60177299034963/6q99jskxwjv4/73012
-#EXTINF:-1 tvg-name="USA: SPECTRUM NEWS 1 HUDSON VALLEY" tvg-logo="" group-title="news",USA: SPECTRUM NEWS 1 HUDSON VALLEY
-http://neoyjpw.top:8080/60177299034963/6q99jskxwjv4/73013
-#EXTINF:-1 tvg-name="USA: SPECTRUM NEWS 1 KENTUCKY EVANSVILLE" tvg-logo="" group-title="news",USA: SPECTRUM NEWS 1 KENTUCKY EVANSVILLE
-http://neoyjpw.top:8080/60177299034963/6q99jskxwjv4/73014
-#EXTINF:-1 tvg-name="USA: SPECTRUM NEWS 1 KENTUCKY LEXINGTON" tvg-logo="" group-title="news",USA: SPECTRUM NEWS 1 KENTUCKY LEXINGTON
-http://neoyjpw.top:8080/60177299034963/6q99jskxwjv4/73015
-#EXTINF:-1 tvg-name="USA: SPECTRUM NEWS 1 KENTUCKY LOUISVILLE" tvg-logo="" group-title="news",USA: SPECTRUM NEWS 1 KENTUCKY LOUISVILLE
-http://neoyjpw.top:8080/60177299034963/6q99jskxwjv4/73016
-#EXTINF:-1 tvg-name="USA: SPECTRUM NEWS 1 MA PITTSFIELD" tvg-logo="" group-title="news",USA: SPECTRUM NEWS 1 MA PITTSFIELD
-http://neoyjpw.top:8080/60177299034963/6q99jskxwjv4/73017
-#EXTINF:-1 tvg-name="USA: SPECTRUM NEWS 1 MO ST LOUIS" tvg-logo="" group-title="news",USA: SPECTRUM NEWS 1 MO ST LOUIS
-http://neoyjpw.top:8080/60177299034963/6q99jskxwjv4/73018
-#EXTINF:-1 tvg-name="USA: SPECTRUM NEWS 1 NEW YORK ROCHESTER" tvg-logo="" group-title="news",USA: SPECTRUM NEWS 1 NEW YORK ROCHESTER
-http://neoyjpw.top:8080/60177299034963/6q99jskxwjv4/73019
-#EXTINF:-1 tvg-name="USA: SPECTRUM NEWS 1 SAN ANTONIO" tvg-logo="" group-title="news",USA: SPECTRUM NEWS 1 SAN ANTONIO
-http://neoyjpw.top:8080/60177299034963/6q99jskxwjv4/73020
-#EXTINF:-1 tvg-name="USA: SPECTRUM NEWS 1 TOLEDO LIMA" tvg-logo="" group-title="news",USA: SPECTRUM NEWS 1 TOLEDO LIMA
-http://neoyjpw.top:8080/60177299034963/6q99jskxwjv4/73021
-#EXTINF:-1 tvg-name="USA: SPECTRUM NEWS 13" tvg-logo="" group-title="news",USA: SPECTRUM NEWS 13
-http://neoyjpw.top:8080/60177299034963/6q99jskxwjv4/73022
-#EXTINF:-1 tvg-name="USA: SPECTRUM NEWS NY1" tvg-logo="" group-title="news",USA: SPECTRUM NEWS NY1
-http://neoyjpw.top:8080/60177299034963/6q99jskxwjv4/73023
-#EXTINF:-1 tvg-name="USA: WPIX 11 NEWS (NEW YORK) US" tvg-logo="" group-title="news",USA: WPIX 11 NEWS (NEW YORK) US
-http://neoyjpw.top:8080/60177299034963/6q99jskxwjv4/73263
-#EXTINF:-1 tvg-name="USA: WPVI CHANNEL 6 ACTION NEWS (PHILADELPHIA)" tvg-logo="" group-title="news",USA: WPVI CHANNEL 6 ACTION NEWS (PHILADELPHIA)
-http://neoyjpw.top:8080/60177299034963/6q99jskxwjv4/73264
-#EXTINF:-1 tvg-name="CA: CTV news" tvg-logo="http://logos.giize.com/logos/logos%20rui/logos%20canada%20novos/ctvscifich.png" group-title="news",CA: CTV news
-http://goood.mine.nu:80/Crisi/S5s58A8KHSJX/45093
-#EXTINF:-1 tvg-name="CA: CTV NEWS LIVE EVENTS" tvg-logo="https://docdog.top/logo/countries/canada/ctv-news-ca.png" group-title="news",CA: CTV NEWS LIVE EVENTS
-http://31.43.191.125:8080/KMAfV8zxWMkS/A2qMwSSVVR6N/5442
-#EXTINF:-1 tvg-name="CA: RDI NEWS" tvg-logo="http://logos.giize.com/logos/logos%20rui/logos%20canada%20/RDI.png" group-title="news",CA: RDI NEWS
-http://neoyjpw.top:8080/60177299034963/6q99jskxwjv4/23743
-#EXTINF:-1 tvg-name="AE: AL JAZEERA NEWS ENG" tvg-logo="" group-title="news",AE: AL JAZEERA NEWS ENG
-http://4k.cmn14.com:8080/HakanKara01/XGuSAvs5Kc/230195
-#EXTINF:-1 tvg-name="AU: ABC NEWS" tvg-logo="https:/docdog.top/logo/countries/australia/abc-au.png" group-title="news",AU: ABC NEWS
-http://4k.cmn14.com:8080/HakanKara01/XGuSAvs5Kc/231268
-#EXTINF:-1 tvg-name="US: AL JAZEERA NEWS" tvg-logo="" group-title="news",US: AL JAZEERA NEWS
-http://4k.cmn14.com:8080/HakanKara01/XGuSAvs5Kc/231277
+#EXTINF:-1 tvg-name="BBC World News S" tvg-logo="https://i.imgur.com/joD38lo.png" group-title="news",BBC World News S
+http://extsmarterspro2302.shop:8080/cnr1224/c77705ce1b4600fe/626138
+#EXTINF:-1 tvg-name="BBC World Service" tvg-logo="https://experiencersinternational.github.io/tvsetup/tvg-ico/bbcws-epg.png" group-title="news",BBC World Service
+http://extsmarterspro2302.shop:8080/cnr1224/c77705ce1b4600fe/626149
+#EXTINF:-1 tvg-name="NTD TV English (1080p)" tvg-logo="https://i.imgur.com/26uv1ww.png" group-title="news",NTD TV English (1080p)
+https://ntd02.akamaized.net/NTDA/index.m3u8
+#EXTINF:-1 tvg-name="France 24 FAST English (1080p)" tvg-logo="https://apkx.xyz/maximpanel-logo.png" group-title="news",France 24 FAST English (1080p)
+https://amg00106-amg00106c1-rakuten-uk-4654.playouts.now.amagi.tv/playlist/amg00106-france24fast-france24-rakutenuk/playlist.m3u8
+#EXTINF:-1 tvg-name="Al Arabiya English (1080p)" tvg-logo="https://apkx.xyz/maximpanel-logo.png" group-title="news",Al Arabiya English (1080p)
+https://live.alarabiya.net/alarabiapublish/english/playlist_dvr.m3u8
+#EXTINF:-1 tvg-name="i24NEWS English World (1080p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/LOGO_i24NEWS.png/960px-LOGO_i24NEWS.png" group-title="news",i24NEWS English World (1080p)
+http://extsmarterspro2302.shop:8080/cnr1224/c77705ce1b4600fe/643600
+#EXTINF:-1 tvg-name="Africanews English (720p)" tvg-logo="https://i.imgur.com/5UxU4zc.png" group-title="news",Africanews English (720p)
+http://extsmarterspro2302.shop:8080/cnr1224/c77705ce1b4600fe/627180
+#EXTINF:-1 tvg-name="UK: 92 News" tvg-logo="" group-title="news",UK: 92 News
+http://31.43.191.125:8080/KMAfV8zxWMkS/A2qMwSSVVR6N/146925
 #EXTINF:-1 tvg-name="US: ARISE NEWS" tvg-logo="" group-title="news",US: ARISE NEWS
 http://4k.cmn14.com:8080/HakanKara01/XGuSAvs5Kc/231285
+#EXTINF:-1 tvg-name="UK: Dunya News" tvg-logo="https://i.imgur.com/1PbtW0y.png" group-title="news",UK: Dunya News
+http://extsmarterspro2302.shop:8080/cnr1224/c77705ce1b4600fe/656668
+#EXTINF:-1 tvg-name="UK: GEO NEWS" tvg-logo="http://sltv-icon.cms-s.com/logo/uk/geo_tez_pk.png" group-title="news",UK: GEO NEWS
+http://vushtrriasl.hups.stream:8080/XmXX6uaAeq/qn4JxSKu5h/177440
+#EXTINF:-1 tvg-name="UK: BOX HITS" tvg-logo="http://sltv-icon.cms-s.com/logo/uk/box_hits_uk.png" group-title="news",UK: BOX HITS
+http://31.43.191.125:8080/KMAfV8zxWMkS/A2qMwSSVVR6N/146938
+#EXTINF:-1 tvg-name="UK: THE BOX" tvg-logo="http://sltv-icon.cms-s.com/logo/UK/THEBOX.png" group-title="news",UK: THE BOX
+http://vushtrriasl.hups.stream:8080/XmXX6uaAeq/qn4JxSKu5h/234616
+#EXTINF:-1 tvg-name="UK: Good News TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/good-news-tv-uk.png" group-title="news",UK: Good News TV
+http://extsmarterspro2302.shop:8080/cnr1224/c77705ce1b4600fe/656704
+#EXTINF:-1 tvg-name="US: CBS DALLAS" tvg-logo="http://sltv-icon.cms-s.com/logo/USA/CBSHD.png" group-title="news",US: CBS DALLAS
+http://vushtrriasl.hups.stream:8080/XmXX6uaAeq/qn4JxSKu5h/211810
+#EXTINF:-1 tvg-name="US: CNBC WORLD NEWS" tvg-logo="http://logos.giize.com/logos/logos%20rui/usa/cnbw.png" group-title="news",US: CNBC WORLD NEWS
+http://goood.mine.nu:80/Crisi/S5s58A8KHSJX/45414
+#EXTINF:-1 tvg-name="US: THE WEATHER CHANNEL" tvg-logo="http://sltv-icon.cms-s.com/logo/USA/WEATHERCHANNEL.png" group-title="news",US: THE WEATHER CHANNEL
+http://vushtrriasl.hups.stream:8080/XmXX6uaAeq/qn4JxSKu5h/282861
+#EXTINF:-1 tvg-name="CA: CTV NEWS NETWORK" tvg-logo="http://logos.giize.com/logos/logos%20rui/logos%20canada%20novos/ctvnsch.png" group-title="news",CA: CTV NEWS NETWORK
+http://goood.mine.nu:80/Crisi/S5s58A8KHSJX/45094
+#EXTINF:-1 tvg-name="CA: Global News" tvg-logo="http://logos.giize.com/logos/logos%20rui/logos%20canada%20/GLOBALVANCOUVER.png" group-title="news",CA: Global News
+http://goood.mine.nu:80/Crisi/S5s58A8KHSJX/45112
 #EXTINF:-1 tvg-name="UK: BLOOMBERG NEWS" tvg-logo="" group-title="news",UK: BLOOMBERG NEWS
-http://31.43.191.125:8080/KMAfV8zxWMkS/A2qMwSSVVR6N/146936
+http://4k.cmn14.com:8080/HakanKara01/XGuSAvs5Kc/231305
+#EXTINF:-1 tvg-name="US: CNBC NEWS" tvg-logo="" group-title="news",US: CNBC NEWS
+http://4k.cmn14.com:8080/HakanKara01/XGuSAvs5Kc/231325
+#EXTINF:-1 tvg-name="UK: POP +1" tvg-logo="https://i.imgur.com/CZy4Cqi.png" group-title="news",UK: POP +1
+http://31.43.191.125:8080/KMAfV8zxWMkS/A2qMwSSVVR6N/146981
+#EXTINF:-1 tvg-name="AU: ABC NEWS" tvg-logo="https:/docdog.top/logo/countries/australia/abc-au.png" group-title="news",AU: ABC NEWS
+http://31.43.191.125:8080/vip921773310177/189ba9335066/25020
+#EXTINF:-1 tvg-name="US: AL JAZEERA NEWS" tvg-logo="" group-title="news",US: AL JAZEERA NEWS
+http://4k.cmn14.com:8080/HakanKara01/XGuSAvs5Kc/231277
+#EXTINF:-1 tvg-name="UK: S NEWS" tvg-logo="" group-title="news",UK: S NEWS
+http://vewora.com:8080/live/700416vib/bg%4053%217%21%21U/778b88db-ae86-4625-aca9-ffb4b4fb5190.m3u
+#EXTINF:-1 tvg-name="UK: ----- MUSIC / NEWS" tvg-logo="http://sltv-icon.cms-s.com/logo/flag/uk.png" group-title="news",UK: ----- MUSIC / NEWS
+http://vushtrriasl.hups.stream:8080/XmXX6uaAeq/qn4JxSKu5h/135942
+#EXTINF:-1 tvg-name="UK: CNBC EUROPE" tvg-logo="http://sltv-icon.cms-s.com/logo/2021mixlogo/cnbc.png" group-title="news",UK: CNBC EUROPE
+http://vushtrriasl.hups.stream:8080/XmXX6uaAeq/qn4JxSKu5h/134443
+#EXTINF:-1 tvg-name="UK: LONDON HD" tvg-logo="http://sltv-icon.cms-s.com/logo/uk/london_live_uk.png" group-title="news",UK: LONDON HD
+http://vushtrriasl.hups.stream:8080/XmXX6uaAeq/qn4JxSKu5h/14991
+#EXTINF:-1 tvg-name="UK: BBC WORLD" tvg-logo="http://sltv-icon.cms-s.com/logo/uk/BBC1.png" group-title="news",UK: BBC WORLD
+http://vushtrriasl.hups.stream:8080/XmXX6uaAeq/qn4JxSKu5h/312110
+#EXTINF:-1 tvg-name="UK: CLUB MTV" tvg-logo="https://sltv-icon.cms-s.com/logo/HUNGARIAN/macar2021/clubmtv.png" group-title="news",UK: CLUB MTV
+http://vushtrriasl.hups.stream:8080/XmXX6uaAeq/qn4JxSKu5h/177390
+#EXTINF:-1 tvg-name="UK: CLUBLAND" tvg-logo="http://sltv-icon.cms-s.com/logo/uk/clubland_tv_uk.png" group-title="news",UK: CLUBLAND
+http://vushtrriasl.hups.stream:8080/XmXX6uaAeq/qn4JxSKu5h/328427
+#EXTINF:-1 tvg-name="UK: TINY POP +1" tvg-logo="https://i.imgur.com/CZy4Cqi.png" group-title="news",UK: TINY POP +1
+http://vushtrriasl.hups.stream:8080/XmXX6uaAeq/qn4JxSKu5h/636568
+#EXTINF:-1 tvg-name="UK: NOW ROCK" tvg-logo="https://sltv-icon.cms-s.com/logo/germanynew/AMZ/NOWROCK.png" group-title="news",UK: NOW ROCK
+http://vushtrriasl.hups.stream:8080/XmXX6uaAeq/qn4JxSKu5h/636560
+#EXTINF:-1 tvg-name="UK: NOW 90S & 0 S" tvg-logo="https://i.imgur.com/zmnSoBA.png" group-title="news",UK: NOW 90S & 0 S
+http://vushtrriasl.hups.stream:8080/XmXX6uaAeq/qn4JxSKu5h/636559
+#EXTINF:-1 tvg-name="UK: ----- VIP NEWS" tvg-logo="http://sltv-icon.cms-s.com/logo/flag/uk.png" group-title="news",UK: ----- VIP NEWS
+http://vushtrriasl.hups.stream:8080/XmXX6uaAeq/qn4JxSKu5h/234597
+#EXTINF:-1 tvg-name="UK: NDTV" tvg-logo="http://sltv-icon.cms-s.com/logo/UK/NDTV.png" group-title="news",UK: NDTV
+http://vushtrriasl.hups.stream:8080/XmXX6uaAeq/qn4JxSKu5h/234600
+#EXTINF:-1 tvg-name="UK: TRACE URBAN" tvg-logo="http://sltv-icon.cms-s.com/logo/franceT-220x132/trace-urban.png" group-title="news",UK: TRACE URBAN
+http://vushtrriasl.hups.stream:8080/XmXX6uaAeq/qn4JxSKu5h/563691
+#EXTINF:-1 tvg-name="UK: MAGIC TV" tvg-logo="https://sltv-icon.cms-s.com/logo/UK/MAGIC.png" group-title="news",UK: MAGIC TV
+http://vushtrriasl.hups.stream:8080/XmXX6uaAeq/qn4JxSKu5h/771520
+#EXTINF:-1 tvg-name="UK: MTV 90S" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/mtv-90s-uk.png" group-title="news",UK: MTV 90S
+http://vushtrriasl.hups.stream:8080/XmXX6uaAeq/qn4JxSKu5h/771521
+#EXTINF:-1 tvg-name="UK: AFROBEATS" tvg-logo="https://i.imgur.com/u0d5j0C.png" group-title="news",UK: AFROBEATS
+http://vushtrriasl.hups.stream:8080/XmXX6uaAeq/qn4JxSKu5h/771525
+#EXTINF:-1 tvg-name="UK: CLUBBING TV" tvg-logo="https://sltv-icon.cms-s.com/logo/a-z/--C--/clubbingtv.png" group-title="news",UK: CLUBBING TV
+http://vushtrriasl.hups.stream:8080/XmXX6uaAeq/qn4JxSKu5h/771526
+#EXTINF:-1 tvg-name="UK: DELUXE LOUNGE" tvg-logo="https://i.imgur.com/pgCA35z.png" group-title="news",UK: DELUXE LOUNGE
+http://vushtrriasl.hups.stream:8080/XmXX6uaAeq/qn4JxSKu5h/771527
+#EXTINF:-1 tvg-name="UK: TRACE HITS OFFLINE" tvg-logo="" group-title="news",UK: TRACE HITS OFFLINE
+http://vushtrriasl.hups.stream:8080/XmXX6uaAeq/qn4JxSKu5h/771528
+#EXTINF:-1 tvg-name="UK: VEVO CHRISTMAS" tvg-logo="" group-title="news",UK: VEVO CHRISTMAS
+http://vushtrriasl.hups.stream:8080/XmXX6uaAeq/qn4JxSKu5h/771529
+#EXTINF:-1 tvg-name="US: NBC News Now" tvg-logo="" group-title="news",US: NBC News Now
+http://4k.cmn14.com:8080/HakanKara01/XGuSAvs5Kc/232506
+#EXTINF:-1 tvg-name="US: NEWS 12 JERSEY" tvg-logo="http://sltv-icon.cms-s.com/logo/USA/NEWS12(NEW%20JERSEY).png" group-title="news",US: NEWS 12 JERSEY
+http://vushtrriasl.hups.stream:8080/XmXX6uaAeq/qn4JxSKu5h/282656
+#EXTINF:-1 tvg-name="US: ABC YORK HD" tvg-logo="http://sltv-icon.cms-s.com/logo/USA/ABCNEWYORK.png" group-title="news",US: ABC YORK HD
+http://vushtrriasl.hups.stream:8080/XmXX6uaAeq/qn4JxSKu5h/210548
+#EXTINF:-1 tvg-name="US: ABC ATLANTA" tvg-logo="http://sltv-icon.cms-s.com/logo/USA/ABC.png" group-title="news",US: ABC ATLANTA
+http://vushtrriasl.hups.stream:8080/XmXX6uaAeq/qn4JxSKu5h/211774
+#EXTINF:-1 tvg-name="US: ABC BOSTON" tvg-logo="http://sltv-icon.cms-s.com/logo/USA/ABC.png" group-title="news",US: ABC BOSTON
+http://vushtrriasl.hups.stream:8080/XmXX6uaAeq/qn4JxSKu5h/211773
+#EXTINF:-1 tvg-name="US: ABC CHARLOTTE" tvg-logo="http://sltv-icon.cms-s.com/logo/USA/ABC.png" group-title="news",US: ABC CHARLOTTE
+http://vushtrriasl.hups.stream:8080/XmXX6uaAeq/qn4JxSKu5h/211764
+#EXTINF:-1 tvg-name="US: ABC 7 CHICAGO" tvg-logo="http://sltv-icon.cms-s.com/logo/USA/ABC.png" group-title="news",US: ABC 7 CHICAGO
+http://vushtrriasl.hups.stream:8080/XmXX6uaAeq/qn4JxSKu5h/211779
+#EXTINF:-1 tvg-name="US: Newsmax" tvg-logo="" group-title="news",US: Newsmax
+http://4k.cmn14.com:8080/HakanKara01/XGuSAvs5Kc/231619
+#EXTINF:-1 tvg-name="US: ABC CLEVELAND" tvg-logo="http://sltv-icon.cms-s.com/logo/USA/ABC.png" group-title="news",US: ABC CLEVELAND
+http://vushtrriasl.hups.stream:8080/XmXX6uaAeq/qn4JxSKu5h/211762
+#EXTINF:-1 tvg-name="US: ABC CONNECTICUT" tvg-logo="http://sltv-icon.cms-s.com/logo/USA/ABC.png" group-title="news",US: ABC CONNECTICUT
+http://vushtrriasl.hups.stream:8080/XmXX6uaAeq/qn4JxSKu5h/211775
+#EXTINF:-1 tvg-name="US: ABC 8 DALLAS" tvg-logo="http://sltv-icon.cms-s.com/logo/USA/ABC.png" group-title="news",US: ABC 8 DALLAS
+http://vushtrriasl.hups.stream:8080/XmXX6uaAeq/qn4JxSKu5h/211770
+#EXTINF:-1 tvg-name="US: ABC 7 DENVER" tvg-logo="http://sltv-icon.cms-s.com/logo/USA/ABC.png" group-title="news",US: ABC 7 DENVER
+http://vushtrriasl.hups.stream:8080/XmXX6uaAeq/qn4JxSKu5h/211769
+#EXTINF:-1 tvg-name="US: ABC 7 DETROIT" tvg-logo="http://sltv-icon.cms-s.com/logo/USA/ABC.png" group-title="news",US: ABC 7 DETROIT
+http://vushtrriasl.hups.stream:8080/XmXX6uaAeq/qn4JxSKu5h/211772
+#EXTINF:-1 tvg-name="US: ABC DURHAM" tvg-logo="http://sltv-icon.cms-s.com/logo/USA/ABC.png" group-title="news",US: ABC DURHAM
+http://vushtrriasl.hups.stream:8080/XmXX6uaAeq/qn4JxSKu5h/211778
+#EXTINF:-1 tvg-name="US: ABC 30 FRESNO" tvg-logo="http://sltv-icon.cms-s.com/logo/USA/ABC.png" group-title="news",US: ABC 30 FRESNO
+http://vushtrriasl.hups.stream:8080/XmXX6uaAeq/qn4JxSKu5h/211776
+#EXTINF:-1 tvg-name="US: ABC 13 HOUSTON" tvg-logo="http://sltv-icon.cms-s.com/logo/USA/ABC.png" group-title="news",US: ABC 13 HOUSTON
+http://vushtrriasl.hups.stream:8080/XmXX6uaAeq/qn4JxSKu5h/211777
+#EXTINF:-1 tvg-name="US: ABC INDIANAPOLIS" tvg-logo="http://sltv-icon.cms-s.com/logo/USA/ABC.png" group-title="news",US: ABC INDIANAPOLIS
+http://vushtrriasl.hups.stream:8080/XmXX6uaAeq/qn4JxSKu5h/211761
+#EXTINF:-1 tvg-name="US: ABC 9 KANSAS CITY" tvg-logo="http://sltv-icon.cms-s.com/logo/USA/ABC.png" group-title="news",US: ABC 9 KANSAS CITY
+http://vushtrriasl.hups.stream:8080/XmXX6uaAeq/qn4JxSKu5h/211754
+#EXTINF:-1 tvg-name="US: ABC MILWAUKEE" tvg-logo="http://sltv-icon.cms-s.com/logo/USA/ABC.png" group-title="news",US: ABC MILWAUKEE
+http://vushtrriasl.hups.stream:8080/XmXX6uaAeq/qn4JxSKu5h/211753
+#EXTINF:-1 tvg-name="US: ABC NASHVILLE" tvg-logo="http://sltv-icon.cms-s.com/logo/USA/ABC.png" group-title="news",US: ABC NASHVILLE
+http://vushtrriasl.hups.stream:8080/XmXX6uaAeq/qn4JxSKu5h/211767
+#EXTINF:-1 tvg-name="US: ABC ORLANDO" tvg-logo="http://sltv-icon.cms-s.com/logo/USA/ABC.png" group-title="news",US: ABC ORLANDO
+http://vushtrriasl.hups.stream:8080/XmXX6uaAeq/qn4JxSKu5h/211766
+#EXTINF:-1 tvg-name="US: ABC PHILADELPHIA" tvg-logo="http://sltv-icon.cms-s.com/logo/USA/ABC.png" group-title="news",US: ABC PHILADELPHIA
+http://vushtrriasl.hups.stream:8080/XmXX6uaAeq/qn4JxSKu5h/211781
+#EXTINF:-1 tvg-name="US: ABC PHOENIX" tvg-logo="http://sltv-icon.cms-s.com/logo/USA/ABC.png" group-title="news",US: ABC PHOENIX
+http://vushtrriasl.hups.stream:8080/XmXX6uaAeq/qn4JxSKu5h/211760
+#EXTINF:-1 tvg-name="US: ABC PITTSBURGH" tvg-logo="http://sltv-icon.cms-s.com/logo/USA/ABC.png" group-title="news",US: ABC PITTSBURGH
+http://vushtrriasl.hups.stream:8080/XmXX6uaAeq/qn4JxSKu5h/211771
+#EXTINF:-1 tvg-name="US: ABC SACRAMENTO" tvg-logo="http://sltv-icon.cms-s.com/logo/USA/ABC.png" group-title="news",US: ABC SACRAMENTO
+http://vushtrriasl.hups.stream:8080/XmXX6uaAeq/qn4JxSKu5h/211763
+#EXTINF:-1 tvg-name="US: ABC SALT LAKE CITY" tvg-logo="http://sltv-icon.cms-s.com/logo/USA/ABC.png" group-title="news",US: ABC SALT LAKE CITY
+http://vushtrriasl.hups.stream:8080/XmXX6uaAeq/qn4JxSKu5h/211756
+#EXTINF:-1 tvg-name="US: ABC SAN ANTONIO" tvg-logo="http://sltv-icon.cms-s.com/logo/USA/ABC.png" group-title="news",US: ABC SAN ANTONIO
+http://vushtrriasl.hups.stream:8080/XmXX6uaAeq/qn4JxSKu5h/211755
+#EXTINF:-1 tvg-name="US: ABC SAN DIEGO" tvg-logo="http://sltv-icon.cms-s.com/logo/USA/ABC.png" group-title="news",US: ABC SAN DIEGO
+http://vushtrriasl.hups.stream:8080/XmXX6uaAeq/qn4JxSKu5h/211768
+#EXTINF:-1 tvg-name="US: ABC SAN FRANCISCO" tvg-logo="http://sltv-icon.cms-s.com/logo/USA/ABC.png" group-title="news",US: ABC SAN FRANCISCO
+http://vushtrriasl.hups.stream:8080/XmXX6uaAeq/qn4JxSKu5h/211782
+#EXTINF:-1 tvg-name="US: ABC TAMPA BAY" tvg-logo="http://sltv-icon.cms-s.com/logo/USA/ABC.png" group-title="news",US: ABC TAMPA BAY
+http://vushtrriasl.hups.stream:8080/XmXX6uaAeq/qn4JxSKu5h/211759
+#EXTINF:-1 tvg-name="US: ABC NEWS DIGITAL" tvg-logo="http://sltv-icon.cms-s.com/logo/USA/ABCNEWS.png" group-title="news",US: ABC NEWS DIGITAL
+http://vushtrriasl.hups.stream:8080/XmXX6uaAeq/qn4JxSKu5h/282653
+#EXTINF:-1 tvg-name="US: CGTN News" tvg-logo="" group-title="news",US: CGTN News
+http://vushtrriasl.hups.stream:8080/XmXX6uaAeq/qn4JxSKu5h/227683
+#EXTINF:-1 tvg-name="US: C SPAN 1" tvg-logo="https://sltv-icon.cms-s.com/LOGO_NEO/US/C-SPAN_1_HD.png" group-title="news",US: C SPAN 1
+http://vushtrriasl.hups.stream:8080/XmXX6uaAeq/qn4JxSKu5h/137318
+#EXTINF:-1 tvg-name="US: C SPAN 2" tvg-logo="https://sltv-icon.cms-s.com/LOGO_NEO/US/C-SPAN_2_HD.png" group-title="news",US: C SPAN 2
+http://vushtrriasl.hups.stream:8080/XmXX6uaAeq/qn4JxSKu5h/137317
+#EXTINF:-1 tvg-name="US: C SPAN 3" tvg-logo="https://sltv-icon.cms-s.com/LOGO_NEO/US/C-SPAN_3_HD.png" group-title="news",US: C SPAN 3
+http://vushtrriasl.hups.stream:8080/XmXX6uaAeq/qn4JxSKu5h/208691
+#EXTINF:-1 tvg-name="US: CBS YORK HD" tvg-logo="http://sltv-icon.cms-s.com/logo/USA/CBSNEWSCH3HD.png" group-title="news",US: CBS YORK HD
+http://vushtrriasl.hups.stream:8080/XmXX6uaAeq/qn4JxSKu5h/210550
+#EXTINF:-1 tvg-name="US: CBS BALTIMORE" tvg-logo="http://sltv-icon.cms-s.com/logo/USA/CBSHD.png" group-title="news",US: CBS BALTIMORE
+http://vushtrriasl.hups.stream:8080/XmXX6uaAeq/qn4JxSKu5h/211816
+#EXTINF:-1 tvg-name="US: CBS BOSTON" tvg-logo="http://sltv-icon.cms-s.com/logo/USA/CBSHD.png" group-title="news",US: CBS BOSTON
+http://vushtrriasl.hups.stream:8080/XmXX6uaAeq/qn4JxSKu5h/211815
+#EXTINF:-1 tvg-name="US: CBS CHARLOTTE" tvg-logo="http://sltv-icon.cms-s.com/logo/USA/CBSHD.png" group-title="news",US: CBS CHARLOTTE
+http://vushtrriasl.hups.stream:8080/XmXX6uaAeq/qn4JxSKu5h/211814
+#EXTINF:-1 tvg-name="US: CBS CHICAGO" tvg-logo="http://sltv-icon.cms-s.com/logo/USA/CBSHD.png" group-title="news",US: CBS CHICAGO
+http://4k.cmn14.com:8080/HakanKara01/XGuSAvs5Kc/232093
+#EXTINF:-1 tvg-name="US: CBS CLEVELAND" tvg-logo="http://sltv-icon.cms-s.com/logo/USA/CBSHD.png" group-title="news",US: CBS CLEVELAND
+http://vushtrriasl.hups.stream:8080/XmXX6uaAeq/qn4JxSKu5h/211812
+#EXTINF:-1 tvg-name="US: CBS 4 DENVER" tvg-logo="http://sltv-icon.cms-s.com/logo/USA/CBSHD.png" group-title="news",US: CBS 4 DENVER
+http://vushtrriasl.hups.stream:8080/XmXX6uaAeq/qn4JxSKu5h/211809
+#EXTINF:-1 tvg-name="US: CBS 62 DETROIT" tvg-logo="http://sltv-icon.cms-s.com/logo/USA/CBSHD.png" group-title="news",US: CBS 62 DETROIT
+http://vushtrriasl.hups.stream:8080/XmXX6uaAeq/qn4JxSKu5h/211808
+#EXTINF:-1 tvg-name="US: CBS GREENSBORO" tvg-logo="http://sltv-icon.cms-s.com/logo/USA/CBSHD.png" group-title="news",US: CBS GREENSBORO
+http://vushtrriasl.hups.stream:8080/XmXX6uaAeq/qn4JxSKu5h/211807
+#EXTINF:-1 tvg-name="US: CBS HARTFORD" tvg-logo="http://sltv-icon.cms-s.com/logo/USA/CBSHD.png" group-title="news",US: CBS HARTFORD
+http://vushtrriasl.hups.stream:8080/XmXX6uaAeq/qn4JxSKu5h/211806
+#EXTINF:-1 tvg-name="US: CBS HOUSTON" tvg-logo="https://i.ibb.co/4btcXx5/kanal-default-logo.png" group-title="news",US: CBS HOUSTON
+http://vushtrriasl.hups.stream:8080/XmXX6uaAeq/qn4JxSKu5h/211805
+#EXTINF:-1 tvg-name="US: CBS 47 JACKSONVILLE" tvg-logo="http://sltv-icon.cms-s.com/logo/USA/CBSHD.png" group-title="news",US: CBS 47 JACKSONVILLE
+http://vushtrriasl.hups.stream:8080/XmXX6uaAeq/qn4JxSKu5h/211804
+#EXTINF:-1 tvg-name="US: CBS 5 KANSAS CITY" tvg-logo="http://sltv-icon.cms-s.com/logo/USA/CBSHD.png" group-title="news",US: CBS 5 KANSAS CITY
+http://vushtrriasl.hups.stream:8080/XmXX6uaAeq/qn4JxSKu5h/211803
+#EXTINF:-1 tvg-name="US: CBS LOS ANGELES" tvg-logo="http://sltv-icon.cms-s.com/logo/USA/CBSHD.png" group-title="news",US: CBS LOS ANGELES
+http://vushtrriasl.hups.stream:8080/XmXX6uaAeq/qn4JxSKu5h/211802
+#EXTINF:-1 tvg-name="US: CBS MIAMI" tvg-logo="http://sltv-icon.cms-s.com/logo/USA/CBSHD.png" group-title="news",US: CBS MIAMI
+http://4k.cmn14.com:8080/HakanKara01/XGuSAvs5Kc/232101
+#EXTINF:-1 tvg-name="US: CBS MILWAUKEE" tvg-logo="http://sltv-icon.cms-s.com/logo/USA/CBSHD.png" group-title="news",US: CBS MILWAUKEE
+http://4k.cmn14.com:8080/HakanKara01/XGuSAvs5Kc/232102
+#EXTINF:-1 tvg-name="US: CBS MINNEAPOLIS" tvg-logo="http://sltv-icon.cms-s.com/logo/USA/CBSHD.png" group-title="news",US: CBS MINNEAPOLIS
+http://4k.cmn14.com:8080/HakanKara01/XGuSAvs5Kc/232103
+#EXTINF:-1 tvg-name="US: CBS NASHVILLE" tvg-logo="http://sltv-icon.cms-s.com/logo/USA/CBSHD.png" group-title="news",US: CBS NASHVILLE
+http://vushtrriasl.hups.stream:8080/XmXX6uaAeq/qn4JxSKu5h/211798
+#EXTINF:-1 tvg-name="US: CBS ORLANDO" tvg-logo="http://sltv-icon.cms-s.com/logo/USA/CBSHD.png" group-title="news",US: CBS ORLANDO
+http://4k.cmn14.com:8080/HakanKara01/XGuSAvs5Kc/232126
+#EXTINF:-1 tvg-name="US: CBS PHILADELPHIA" tvg-logo="http://sltv-icon.cms-s.com/logo/USA/CBSHD.png" group-title="news",US: CBS PHILADELPHIA
+http://vushtrriasl.hups.stream:8080/XmXX6uaAeq/qn4JxSKu5h/211794
+#EXTINF:-1 tvg-name="US: CBS 5 PHOENIX" tvg-logo="http://sltv-icon.cms-s.com/logo/USA/CBSHD.png" group-title="news",US: CBS 5 PHOENIX
+http://vushtrriasl.hups.stream:8080/XmXX6uaAeq/qn4JxSKu5h/211793
+#EXTINF:-1 tvg-name="US: CBS 2 PITTSBURGH" tvg-logo="http://sltv-icon.cms-s.com/logo/USA/CBSHD.png" group-title="news",US: CBS 2 PITTSBURGH
+http://vushtrriasl.hups.stream:8080/XmXX6uaAeq/qn4JxSKu5h/211792
+#EXTINF:-1 tvg-name="US: CBS SACRAMENTO" tvg-logo="http://sltv-icon.cms-s.com/logo/USA/CBSHD.png" group-title="news",US: CBS SACRAMENTO
+http://vushtrriasl.hups.stream:8080/XmXX6uaAeq/qn4JxSKu5h/211791
+#EXTINF:-1 tvg-name="US: CBS 5 SAN ANTONIO" tvg-logo="http://sltv-icon.cms-s.com/logo/USA/CBSHD.png" group-title="news",US: CBS 5 SAN ANTONIO
+http://vushtrriasl.hups.stream:8080/XmXX6uaAeq/qn4JxSKu5h/211790
+#EXTINF:-1 tvg-name="US: CBS SAN FRANCISCO" tvg-logo="http://sltv-icon.cms-s.com/logo/USA/CBSHD.png" group-title="news",US: CBS SAN FRANCISCO
+http://4k.cmn14.com:8080/HakanKara01/XGuSAvs5Kc/232131
+#EXTINF:-1 tvg-name="US: CBS SEATTLE" tvg-logo="http://sltv-icon.cms-s.com/logo/USA/CBSHD.png" group-title="news",US: CBS SEATTLE
+http://4k.cmn14.com:8080/HakanKara01/XGuSAvs5Kc/232132
+#EXTINF:-1 tvg-name="US: CBS 4 ST LOUIS" tvg-logo="http://sltv-icon.cms-s.com/logo/USA/CBSHD.png" group-title="news",US: CBS 4 ST LOUIS
+http://vushtrriasl.hups.stream:8080/XmXX6uaAeq/qn4JxSKu5h/211786
+#EXTINF:-1 tvg-name="US: CBS TAMPA BAY" tvg-logo="http://sltv-icon.cms-s.com/logo/USA/CBSHD.png" group-title="news",US: CBS TAMPA BAY
+http://vushtrriasl.hups.stream:8080/XmXX6uaAeq/qn4JxSKu5h/211785
+#EXTINF:-1 tvg-name="US: CBS WASHINGTON DC" tvg-logo="http://sltv-icon.cms-s.com/logo/USA/CBSHD.png" group-title="news",US: CBS WASHINGTON DC
+http://vushtrriasl.hups.stream:8080/XmXX6uaAeq/qn4JxSKu5h/211784
+#EXTINF:-1 tvg-name="US: CBSN" tvg-logo="http://sltv-icon.cms-s.com/logo/USA/CBSNEWSCH3HD.png" group-title="news",US: CBSN
+http://4k.cmn14.com:8080/HakanKara01/XGuSAvs5Kc/232124
+#EXTINF:-1 tvg-name="US: FOX YORK" tvg-logo="https://i.imgur.com/turWday.png" group-title="news",US: FOX YORK
+http://vushtrriasl.hups.stream:8080/XmXX6uaAeq/qn4JxSKu5h/211829
+#EXTINF:-1 tvg-name="US: FOX ATLANTA" tvg-logo="https://i.ibb.co/4btcXx5/kanal-default-logo.png" group-title="news",US: FOX ATLANTA
+http://4k.cmn14.com:8080/HakanKara01/XGuSAvs5Kc/232204
+#EXTINF:-1 tvg-name="US: FOX 7 AUSTIN" tvg-logo="https://www.livenewsnow.com/wp-content/uploads/2015/12/7-Stars-TV-1.png" group-title="news",US: FOX 7 AUSTIN
+http://vushtrriasl.hups.stream:8080/XmXX6uaAeq/qn4JxSKu5h/211848
+#EXTINF:-1 tvg-name="US: FOX BELMONT" tvg-logo="https://i.imgur.com/turWday.png" group-title="news",US: FOX BELMONT
+http://vushtrriasl.hups.stream:8080/XmXX6uaAeq/qn4JxSKu5h/211847
+#EXTINF:-1 tvg-name="US: FOX 32 CHICAGO" tvg-logo="https://i.imgur.com/YRiulCU.png" group-title="news",US: FOX 32 CHICAGO
+http://4k.cmn14.com:8080/HakanKara01/XGuSAvs5Kc/232174
+#EXTINF:-1 tvg-name="US: FOX 8 CLEVELAND" tvg-logo="https://i.imgur.com/ADQkn9l.png" group-title="news",US: FOX 8 CLEVELAND
+http://vushtrriasl.hups.stream:8080/XmXX6uaAeq/qn4JxSKu5h/211844
+#EXTINF:-1 tvg-name="US: FOX 28 COLUMBUS" tvg-logo="https://i.imgur.com/NqHla2V.png" group-title="news",US: FOX 28 COLUMBUS
+http://4k.cmn14.com:8080/HakanKara01/XGuSAvs5Kc/232160
+#EXTINF:-1 tvg-name="US: FOX DALLAS" tvg-logo="https://i.imgur.com/turWday.png" group-title="news",US: FOX DALLAS
+http://vushtrriasl.hups.stream:8080/XmXX6uaAeq/qn4JxSKu5h/211843
+#EXTINF:-1 tvg-name="US: FOX DENVER" tvg-logo="https://i.imgur.com/turWday.png" group-title="news",US: FOX DENVER
+http://vushtrriasl.hups.stream:8080/XmXX6uaAeq/qn4JxSKu5h/211841
+#EXTINF:-1 tvg-name="US: FOX HARTFORD" tvg-logo="https://i.imgur.com/mNeLu04.png" group-title="news",US: FOX HARTFORD
+http://vushtrriasl.hups.stream:8080/XmXX6uaAeq/qn4JxSKu5h/211839
+#EXTINF:-1 tvg-name="US: FOX HOUSTON" tvg-logo="https://i.imgur.com/turWday.png" group-title="news",US: FOX HOUSTON
+http://vushtrriasl.hups.stream:8080/XmXX6uaAeq/qn4JxSKu5h/211838
+#EXTINF:-1 tvg-name="US: FOX INDIANAPOLIS" tvg-logo="https://i.imgur.com/turWday.png" group-title="news",US: FOX INDIANAPOLIS
+http://vushtrriasl.hups.stream:8080/XmXX6uaAeq/qn4JxSKu5h/211837
+#EXTINF:-1 tvg-name="US: FOX 30 JACKSONVILLE" tvg-logo="https://i.imgur.com/YRiulCU.png" group-title="news",US: FOX 30 JACKSONVILLE
+http://4k.cmn14.com:8080/HakanKara01/XGuSAvs5Kc/232172
+#EXTINF:-1 tvg-name="US: FOX 4 KANSAS CITY" tvg-logo="https://i.imgur.com/iDL65Wu.png" group-title="news",US: FOX 4 KANSAS CITY
+http://vushtrriasl.hups.stream:8080/XmXX6uaAeq/qn4JxSKu5h/211835
+#EXTINF:-1 tvg-name="US: FOX 11 LOS ANGELES" tvg-logo="https://i.imgur.com/CZy4Cqi.png" group-title="news",US: FOX 11 LOS ANGELES
+http://vushtrriasl.hups.stream:8080/XmXX6uaAeq/qn4JxSKu5h/211834
+#EXTINF:-1 tvg-name="US: FOX MIAMI" tvg-logo="https://i.imgur.com/turWday.png" group-title="news",US: FOX MIAMI
+http://4k.cmn14.com:8080/HakanKara01/XGuSAvs5Kc/232248
+#EXTINF:-1 tvg-name="US: FOX MILWAUKEE" tvg-logo="https://i.imgur.com/turWday.png" group-title="news",US: FOX MILWAUKEE
+http://vushtrriasl.hups.stream:8080/XmXX6uaAeq/qn4JxSKu5h/211832
+#EXTINF:-1 tvg-name="US: FOX 9 MINNEAPOLIS" tvg-logo="https://i.imgur.com/zmnSoBA.png" group-title="news",US: FOX 9 MINNEAPOLIS
+http://vushtrriasl.hups.stream:8080/XmXX6uaAeq/qn4JxSKu5h/211831
+#EXTINF:-1 tvg-name="US: FOX ORLEANS" tvg-logo="https://i.imgur.com/turWday.png" group-title="news",US: FOX ORLEANS
+http://vushtrriasl.hups.stream:8080/XmXX6uaAeq/qn4JxSKu5h/211830
+#EXTINF:-1 tvg-name="US: FOX OCALA" tvg-logo="https://i.imgur.com/turWday.png" group-title="news",US: FOX OCALA
+http://4k.cmn14.com:8080/HakanKara01/XGuSAvs5Kc/232255
+#EXTINF:-1 tvg-name="US: FOX ORLANDO" tvg-logo="https://i.imgur.com/turWday.png" group-title="news",US: FOX ORLANDO
+http://4k.cmn14.com:8080/HakanKara01/XGuSAvs5Kc/232256
+#EXTINF:-1 tvg-name="US: FOX PHILADELPHIA" tvg-logo="https://i.imgur.com/turWday.png" group-title="news",US: FOX PHILADELPHIA
+http://vushtrriasl.hups.stream:8080/XmXX6uaAeq/qn4JxSKu5h/211826
+#EXTINF:-1 tvg-name="US: FOX 10 PHOENIX" tvg-logo="https://i.ibb.co/4btcXx5/kanal-default-logo.png" group-title="news",US: FOX 10 PHOENIX
+http://vushtrriasl.hups.stream:8080/XmXX6uaAeq/qn4JxSKu5h/211825
+#EXTINF:-1 tvg-name="US: FOX SACRAMENTO" tvg-logo="https://i.imgur.com/turWday.png" group-title="news",US: FOX SACRAMENTO
+http://vushtrriasl.hups.stream:8080/XmXX6uaAeq/qn4JxSKu5h/211824
+#EXTINF:-1 tvg-name="US: FOX SALT LAKE CITY" tvg-logo="https://i.imgur.com/turWday.png" group-title="news",US: FOX SALT LAKE CITY
+http://4k.cmn14.com:8080/HakanKara01/XGuSAvs5Kc/232263
+#EXTINF:-1 tvg-name="US: FOX SAN DIEGO" tvg-logo="https://i.imgur.com/turWday.png" group-title="news",US: FOX SAN DIEGO
+http://vushtrriasl.hups.stream:8080/XmXX6uaAeq/qn4JxSKu5h/211822
+#EXTINF:-1 tvg-name="US: FOX SAN FRANCISCO" tvg-logo="https://i.imgur.com/odwRbRk.png" group-title="news",US: FOX SAN FRANCISCO
+http://4k.cmn14.com:8080/HakanKara01/XGuSAvs5Kc/232266
+#EXTINF:-1 tvg-name="US: FOX SEATTLE" tvg-logo="https://i.imgur.com/turWday.png" group-title="news",US: FOX SEATTLE
+http://vushtrriasl.hups.stream:8080/XmXX6uaAeq/qn4JxSKu5h/211820
+#EXTINF:-1 tvg-name="US: FOX ST LOUIS" tvg-logo="https://i.imgur.com/turWday.png" group-title="news",US: FOX ST LOUIS
+http://vushtrriasl.hups.stream:8080/XmXX6uaAeq/qn4JxSKu5h/211819
+#EXTINF:-1 tvg-name="US: FOX TAMPA BAY" tvg-logo="https://www.mongolsat.mn/assets/img/channel/61.png" group-title="news",US: FOX TAMPA BAY
+http://vushtrriasl.hups.stream:8080/XmXX6uaAeq/qn4JxSKu5h/211818
+#EXTINF:-1 tvg-name="US: FOX WASHINGTON DC" tvg-logo="https://i.imgur.com/turWday.png" group-title="news",US: FOX WASHINGTON DC
+http://vushtrriasl.hups.stream:8080/XmXX6uaAeq/qn4JxSKu5h/211817
+#EXTINF:-1 tvg-name="US: NBC YORK" tvg-logo="http://sltv-icon.cms-s.com/logo/USA/NBC.png" group-title="news",US: NBC YORK
+http://vushtrriasl.hups.stream:8080/XmXX6uaAeq/qn4JxSKu5h/211862
+#EXTINF:-1 tvg-name="US: NBC ATLANTA" tvg-logo="http://sltv-icon.cms-s.com/logo/USA/NBC.png" group-title="news",US: NBC ATLANTA
+http://vushtrriasl.hups.stream:8080/XmXX6uaAeq/qn4JxSKu5h/211885
+#EXTINF:-1 tvg-name="US: NBC BALTIMORE" tvg-logo="http://sltv-icon.cms-s.com/logo/USA/NBC.png" group-title="news",US: NBC BALTIMORE
+http://vushtrriasl.hups.stream:8080/XmXX6uaAeq/qn4JxSKu5h/211884
+#EXTINF:-1 tvg-name="US: NBC BOSTON" tvg-logo="http://sltv-icon.cms-s.com/logo/USA/NBC.png" group-title="news",US: NBC BOSTON
+http://vushtrriasl.hups.stream:8080/XmXX6uaAeq/qn4JxSKu5h/211883
+#EXTINF:-1 tvg-name="US: NBC BUFFALO" tvg-logo="http://sltv-icon.cms-s.com/logo/USA/NBC.png" group-title="news",US: NBC BUFFALO
+http://vushtrriasl.hups.stream:8080/XmXX6uaAeq/qn4JxSKu5h/211882
+#EXTINF:-1 tvg-name="US: NBC CHARLOTTE" tvg-logo="http://sltv-icon.cms-s.com/logo/USA/NBC.png" group-title="news",US: NBC CHARLOTTE
+http://vushtrriasl.hups.stream:8080/XmXX6uaAeq/qn4JxSKu5h/211881
+#EXTINF:-1 tvg-name="US: NBC 5 CHICAGO" tvg-logo="http://sltv-icon.cms-s.com/logo/USA/NBC.png" group-title="news",US: NBC 5 CHICAGO
+http://vushtrriasl.hups.stream:8080/XmXX6uaAeq/qn4JxSKu5h/211880
+#EXTINF:-1 tvg-name="US: NBC 5 CINCINNATI" tvg-logo="http://sltv-icon.cms-s.com/logo/USA/NBC.png" group-title="news",US: NBC 5 CINCINNATI
+http://vushtrriasl.hups.stream:8080/XmXX6uaAeq/qn4JxSKu5h/211879
+#EXTINF:-1 tvg-name="US: NBC 8 CLEVELAND" tvg-logo="http://sltv-icon.cms-s.com/logo/USA/NBC.png" group-title="news",US: NBC 8 CLEVELAND
+http://vushtrriasl.hups.stream:8080/XmXX6uaAeq/qn4JxSKu5h/211878
+#EXTINF:-1 tvg-name="US: NBC DALLAS" tvg-logo="http://sltv-icon.cms-s.com/logo/USA/NBC.png" group-title="news",US: NBC DALLAS
+http://4k.cmn14.com:8080/HakanKara01/XGuSAvs5Kc/231563
+#EXTINF:-1 tvg-name="US: NBC 9 DENVER" tvg-logo="http://sltv-icon.cms-s.com/logo/USA/NBC.png" group-title="news",US: NBC 9 DENVER
+http://vushtrriasl.hups.stream:8080/XmXX6uaAeq/qn4JxSKu5h/211876
+#EXTINF:-1 tvg-name="US: NBC DETROIT" tvg-logo="http://sltv-icon.cms-s.com/logo/USA/NBC.png" group-title="news",US: NBC DETROIT
+http://4k.cmn14.com:8080/HakanKara01/XGuSAvs5Kc/231565
+#EXTINF:-1 tvg-name="US: NBC GREEN BAY" tvg-logo="http://sltv-icon.cms-s.com/logo/USA/NBC.png" group-title="news",US: NBC GREEN BAY
+http://vushtrriasl.hups.stream:8080/XmXX6uaAeq/qn4JxSKu5h/211874
+#EXTINF:-1 tvg-name="US: NBC HOUSTON" tvg-logo="http://sltv-icon.cms-s.com/logo/USA/NBC.png" group-title="news",US: NBC HOUSTON
+http://vushtrriasl.hups.stream:8080/XmXX6uaAeq/qn4JxSKu5h/211872
+#EXTINF:-1 tvg-name="US: NBC INDIANAPOLIS" tvg-logo="http://sltv-icon.cms-s.com/logo/USA/NBC.png" group-title="news",US: NBC INDIANAPOLIS
+http://4k.cmn14.com:8080/HakanKara01/XGuSAvs5Kc/231571
+#EXTINF:-1 tvg-name="US: NBC JACKSONVILLE" tvg-logo="http://sltv-icon.cms-s.com/logo/USA/NBC.png" group-title="news",US: NBC JACKSONVILLE
+http://4k.cmn14.com:8080/HakanKara01/XGuSAvs5Kc/231572
+#EXTINF:-1 tvg-name="US: NBC 41 KANSAS CITY" tvg-logo="http://sltv-icon.cms-s.com/logo/USA/NBC.png" group-title="news",US: NBC 41 KANSAS CITY
+http://vushtrriasl.hups.stream:8080/XmXX6uaAeq/qn4JxSKu5h/211869
+#EXTINF:-1 tvg-name="US: NBC LOS ANGELES" tvg-logo="http://sltv-icon.cms-s.com/logo/USA/NBC.png" group-title="news",US: NBC LOS ANGELES
+http://4k.cmn14.com:8080/HakanKara01/XGuSAvs5Kc/231574
+#EXTINF:-1 tvg-name="US: NBC 6 MIAMI" tvg-logo="http://sltv-icon.cms-s.com/logo/USA/NBC.png" group-title="news",US: NBC 6 MIAMI
+http://vushtrriasl.hups.stream:8080/XmXX6uaAeq/qn4JxSKu5h/211867
+#EXTINF:-1 tvg-name="US: NBC MILWAUKEE" tvg-logo="http://sltv-icon.cms-s.com/logo/USA/NBC.png" group-title="news",US: NBC MILWAUKEE
+http://vushtrriasl.hups.stream:8080/XmXX6uaAeq/qn4JxSKu5h/211866
+#EXTINF:-1 tvg-name="US: NBC NASHVILLE" tvg-logo="http://sltv-icon.cms-s.com/logo/USA/NBC.png" group-title="news",US: NBC NASHVILLE
+http://vushtrriasl.hups.stream:8080/XmXX6uaAeq/qn4JxSKu5h/211864
+#EXTINF:-1 tvg-name="US: NBC ORLEANS" tvg-logo="http://sltv-icon.cms-s.com/logo/USA/NBC.png" group-title="news",US: NBC ORLEANS
+http://vushtrriasl.hups.stream:8080/XmXX6uaAeq/qn4JxSKu5h/211863
+#EXTINF:-1 tvg-name="US: NBC 10 PHILADELPHIA" tvg-logo="http://sltv-icon.cms-s.com/logo/USA/NBC.png" group-title="news",US: NBC 10 PHILADELPHIA
+http://vushtrriasl.hups.stream:8080/XmXX6uaAeq/qn4JxSKu5h/211861
+#EXTINF:-1 tvg-name="US: NBC PHOENIX" tvg-logo="http://sltv-icon.cms-s.com/logo/USA/NBC.png" group-title="news",US: NBC PHOENIX
+http://vushtrriasl.hups.stream:8080/XmXX6uaAeq/qn4JxSKu5h/211860
+#EXTINF:-1 tvg-name="US: NBC PITTSBURGH" tvg-logo="http://sltv-icon.cms-s.com/logo/USA/NBC.png" group-title="news",US: NBC PITTSBURGH
+http://vushtrriasl.hups.stream:8080/XmXX6uaAeq/qn4JxSKu5h/211859
+#EXTINF:-1 tvg-name="US: NBC PORTLAND" tvg-logo="http://sltv-icon.cms-s.com/logo/USA/NBC.png" group-title="news",US: NBC PORTLAND
+http://vushtrriasl.hups.stream:8080/XmXX6uaAeq/qn4JxSKu5h/211858
+#EXTINF:-1 tvg-name="US: NBC SACRAMENTO" tvg-logo="http://sltv-icon.cms-s.com/logo/USA/NBC.png" group-title="news",US: NBC SACRAMENTO
+http://vushtrriasl.hups.stream:8080/XmXX6uaAeq/qn4JxSKu5h/211856
+#EXTINF:-1 tvg-name="US: NBC SALT LAKE CITY" tvg-logo="http://sltv-icon.cms-s.com/logo/USA/NBC.png" group-title="news",US: NBC SALT LAKE CITY
+http://vushtrriasl.hups.stream:8080/XmXX6uaAeq/qn4JxSKu5h/211855
+#EXTINF:-1 tvg-name="US: NBC SAN DIEGO" tvg-logo="http://sltv-icon.cms-s.com/logo/USA/NBC.png" group-title="news",US: NBC SAN DIEGO
+http://4k.cmn14.com:8080/HakanKara01/XGuSAvs5Kc/231586
+#EXTINF:-1 tvg-name="US: NBC ST LOUIS" tvg-logo="http://sltv-icon.cms-s.com/logo/USA/NBC.png" group-title="news",US: NBC ST LOUIS
+http://4k.cmn14.com:8080/HakanKara01/XGuSAvs5Kc/231604
+#EXTINF:-1 tvg-name="US: NBC WASHINGTON DC" tvg-logo="http://sltv-icon.cms-s.com/logo/USA/NBC.png" group-title="news",US: NBC WASHINGTON DC
+http://vushtrriasl.hups.stream:8080/XmXX6uaAeq/qn4JxSKu5h/211851
+#EXTINF:-1 tvg-name="US: RT NEWS AMERICA" tvg-logo="http://sltv-icon.cms-s.com/logo/USA/RT-News-America.png" group-title="news",US: RT NEWS AMERICA
+http://vushtrriasl.hups.stream:8080/XmXX6uaAeq/qn4JxSKu5h/282862
+#EXTINF:-1 tvg-name="US: CBSN BAY AREA" tvg-logo="http://sltv-icon.cms-s.com/logo/USA/CBSNEWSCH3HD.png" group-title="news",US: CBSN BAY AREA
+http://vushtrriasl.hups.stream:8080/XmXX6uaAeq/qn4JxSKu5h/282853
+#EXTINF:-1 tvg-name="US: CBSN BOSTON" tvg-logo="http://sltv-icon.cms-s.com/logo/USA/CBSNEWSCH3HD.png" group-title="news",US: CBSN BOSTON
+http://vushtrriasl.hups.stream:8080/XmXX6uaAeq/qn4JxSKu5h/282852
+#EXTINF:-1 tvg-name="US: CBSN CHICAGO" tvg-logo="http://sltv-icon.cms-s.com/logo/USA/CBSNEWSCH3HD.png" group-title="news",US: CBSN CHICAGO
+http://vushtrriasl.hups.stream:8080/XmXX6uaAeq/qn4JxSKu5h/282851
+#EXTINF:-1 tvg-name="US: CBSN DALLAS" tvg-logo="http://sltv-icon.cms-s.com/logo/USA/CBSNEWSCH3HD.png" group-title="news",US: CBSN DALLAS
+http://vushtrriasl.hups.stream:8080/XmXX6uaAeq/qn4JxSKu5h/282850
+#EXTINF:-1 tvg-name="US: CBSN DENVER" tvg-logo="http://sltv-icon.cms-s.com/logo/USA/CBSNEWSCH3HD.png" group-title="news",US: CBSN DENVER
+http://vushtrriasl.hups.stream:8080/XmXX6uaAeq/qn4JxSKu5h/282849
+#EXTINF:-1 tvg-name="US: CBSN LOS ANGELES" tvg-logo="http://sltv-icon.cms-s.com/logo/USA/CBSNEWSCH3HD.png" group-title="news",US: CBSN LOS ANGELES
+http://vushtrriasl.hups.stream:8080/XmXX6uaAeq/qn4JxSKu5h/282848
+#EXTINF:-1 tvg-name="US: CBSN MINNESOTA" tvg-logo="http://sltv-icon.cms-s.com/logo/USA/CBSNEWSCH3HD.png" group-title="news",US: CBSN MINNESOTA
+http://vushtrriasl.hups.stream:8080/XmXX6uaAeq/qn4JxSKu5h/282847
+#EXTINF:-1 tvg-name="US: CBSN YORK" tvg-logo="http://sltv-icon.cms-s.com/logo/USA/CBSNEWSCH3HD.png" group-title="news",US: CBSN YORK
+http://vushtrriasl.hups.stream:8080/XmXX6uaAeq/qn4JxSKu5h/282846
+#EXTINF:-1 tvg-name="US: CBSN PHILLY" tvg-logo="http://sltv-icon.cms-s.com/logo/USA/CBSNEWSCH3HD.png" group-title="news",US: CBSN PHILLY
+http://vushtrriasl.hups.stream:8080/XmXX6uaAeq/qn4JxSKu5h/282845
+#EXTINF:-1 tvg-name="US: CBSN PITTSBURGH" tvg-logo="http://sltv-icon.cms-s.com/logo/USA/CBSNEWSCH3HD.png" group-title="news",US: CBSN PITTSBURGH
+http://vushtrriasl.hups.stream:8080/XmXX6uaAeq/qn4JxSKu5h/282844
+#EXTINF:-1 tvg-name="US: NATO SUMMIT 2026" tvg-logo="https://i.imgur.com/a7tNaD5.png" group-title="news",US: NATO SUMMIT 2026
+http://vushtrriasl.hups.stream:8080/XmXX6uaAeq/qn4JxSKu5h/767874
+#EXTINF:-1 tvg-name="US: BLOOMBERG QUICKTAKE" tvg-logo="https://sltv-icon.cms-s.com/LOGO_NEO/US/BLOOMBERG_QUICKTAKE.png" group-title="news",US: BLOOMBERG QUICKTAKE
+http://vushtrriasl.hups.stream:8080/XmXX6uaAeq/qn4JxSKu5h/767876
+#EXTINF:-1 tvg-name="US: CBSN BALTIMORE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/CBS_logo_%282020%29.svg/960px-CBS_logo_%282020%29.svg.png" group-title="news",US: CBSN BALTIMORE
+http://vushtrriasl.hups.stream:8080/XmXX6uaAeq/qn4JxSKu5h/767877
+#EXTINF:-1 tvg-name="US: CBSN MIAMI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/CBS_logo_%282020%29.svg/960px-CBS_logo_%282020%29.svg.png" group-title="news",US: CBSN MIAMI
+http://vushtrriasl.hups.stream:8080/XmXX6uaAeq/qn4JxSKu5h/767879
+#EXTINF:-1 tvg-name="US: CBSN PHILADELPHIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/CBS_logo_%282020%29.svg/960px-CBS_logo_%282020%29.svg.png" group-title="news",US: CBSN PHILADELPHIA
+http://vushtrriasl.hups.stream:8080/XmXX6uaAeq/qn4JxSKu5h/767880
+#EXTINF:-1 tvg-name="US: CBSN SACRAMENTO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/CBS_logo_%282020%29.svg/960px-CBS_logo_%282020%29.svg.png" group-title="news",US: CBSN SACRAMENTO
+http://vushtrriasl.hups.stream:8080/XmXX6uaAeq/qn4JxSKu5h/767881
+#EXTINF:-1 tvg-name="US: HEDDAR BUSINESS" tvg-logo="" group-title="news",US: HEDDAR BUSINESS
+http://vushtrriasl.hups.stream:8080/XmXX6uaAeq/qn4JxSKu5h/767882
+#EXTINF:-1 tvg-name="US: CNA" tvg-logo="" group-title="news",US: CNA
+http://vushtrriasl.hups.stream:8080/XmXX6uaAeq/qn4JxSKu5h/767883
+#EXTINF:-1 tvg-name="US: DW" tvg-logo="https://cdn.toolsmoon.org/logos/28865.png?v=20260917m" group-title="news",US: DW
+http://vushtrriasl.hups.stream:8080/XmXX6uaAeq/qn4JxSKu5h/767885
+#EXTINF:-1 tvg-name="US: NEW ENGLAND CABLE NEWS (NECN) BOSTON" tvg-logo="" group-title="news",US: NEW ENGLAND CABLE NEWS (NECN) BOSTON
+http://vushtrriasl.hups.stream:8080/XmXX6uaAeq/qn4JxSKu5h/767888
+#EXTINF:-1 tvg-name="US: NEWS12 BRONX" tvg-logo="https://cdn.toolsmoon.org/logos/2353449.png?v=20260917m" group-title="news",US: NEWS12 BRONX
+http://vushtrriasl.hups.stream:8080/XmXX6uaAeq/qn4JxSKu5h/767891
+#EXTINF:-1 tvg-name="US: NEWSMAX TV 2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/newsmax2-us.png" group-title="news",US: NEWSMAX TV 2
+http://vushtrriasl.hups.stream:8080/XmXX6uaAeq/qn4JxSKu5h/767898
+#EXTINF:-1 tvg-name="US: REAL AMERICA'S VOICE" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/real-americas-voice-us.png" group-title="news",US: REAL AMERICA'S VOICE
+http://vushtrriasl.hups.stream:8080/XmXX6uaAeq/qn4JxSKu5h/767899
+#EXTINF:-1 tvg-name="US: THE FIRST NEWS" tvg-logo="https://i.imgur.com/rOSlp93.png" group-title="news",US: THE FIRST NEWS
+http://vushtrriasl.hups.stream:8080/XmXX6uaAeq/qn4JxSKu5h/767900
+#EXTINF:-1 tvg-name="US: TICKER NEWS" tvg-logo="https://i.imgur.com/z7M0QxV.png" group-title="news",US: TICKER NEWS
+http://vushtrriasl.hups.stream:8080/XmXX6uaAeq/qn4JxSKu5h/767901
+#EXTINF:-1 tvg-name="US: WGN 9 (WGNDT) CHICAGO" tvg-logo="https://i.imgur.com/sy2K2Kk.png" group-title="news",US: WGN 9 (WGNDT) CHICAGO
+http://vushtrriasl.hups.stream:8080/XmXX6uaAeq/qn4JxSKu5h/767902
+#EXTINF:-1 tvg-name="CA: GLOBAL OKANAGAN NEWS" tvg-logo="https://sltv-icon.cms-s.com/logo/canada25/GLOBAL TORONTO.png" group-title="news",CA: GLOBAL OKANAGAN NEWS
+http://vushtrriasl.hups.stream:8080/XmXX6uaAeq/qn4JxSKu5h/563617
+#EXTINF:-1 tvg-name="CA: CITY NEWS TORONTO ON" tvg-logo="https://sltv-icon.cms-s.com/logo/canada25/CITY%20NEWS%20TORONTO%20ON.png" group-title="news",CA: CITY NEWS TORONTO ON
+http://vushtrriasl.hups.stream:8080/XmXX6uaAeq/qn4JxSKu5h/563615
+#EXTINF:-1 tvg-name="CA: GLOBAL NEWS VANCOUVER" tvg-logo="https://i.imgur.com/xk1QOhW.png" group-title="news",CA: GLOBAL NEWS VANCOUVER
+http://vushtrriasl.hups.stream:8080/XmXX6uaAeq/qn4JxSKu5h/563649
+#EXTINF:-1 tvg-name="CA: RDI" tvg-logo="https://sltv-icon.cms-s.com/LOGO_NEO/CA/RDI.png" group-title="news",CA: RDI
+http://vushtrriasl.hups.stream:8080/XmXX6uaAeq/qn4JxSKu5h/629980
+#EXTINF:-1 tvg-name="CA: ICI RDI FHD" tvg-logo="https://sltv-icon.cms-s.com/LOGO_NEO/CA/ICI_RDI_HD.png" group-title="news",CA: ICI RDI FHD
+http://vushtrriasl.hups.stream:8080/XmXX6uaAeq/qn4JxSKu5h/630034
+#EXTINF:-1 tvg-name="AE: AL JAZEERA NEWS ENG" tvg-logo="" group-title="news",AE: AL JAZEERA NEWS ENG
+http://4k.cmn14.com:8080/HakanKara01/XGuSAvs5Kc/230195
 #EXTINF:-1 tvg-name="US: Cable News Network HD" tvg-logo="" group-title="news",US: Cable News Network HD
 http://4k.cmn14.com:8080/HakanKara01/XGuSAvs5Kc/231314
-#EXTINF:-1 tvg-name="US: CGTN News" tvg-logo="" group-title="news",US: CGTN News
-http://4k.cmn14.com:8080/HakanKara01/XGuSAvs5Kc/231318
 #EXTINF:-1 tvg-name="US: CNA NEWS HD" tvg-logo="" group-title="news",US: CNA NEWS HD
 http://4k.cmn14.com:8080/HakanKara01/XGuSAvs5Kc/231323
-#EXTINF:-1 tvg-name="US: CNBC NEWS" tvg-logo="" group-title="news",US: CNBC NEWS
-http://31.43.191.125:8080/KMAfV8zxWMkS/A2qMwSSVVR6N/146939
 #EXTINF:-1 tvg-name="US: DAILY NEWS HD" tvg-logo="" group-title="news",US: DAILY NEWS HD
 http://4k.cmn14.com:8080/HakanKara01/XGuSAvs5Kc/231345
 #EXTINF:-1 tvg-name="US: DW NEWS HD" tvg-logo="" group-title="news",US: DW NEWS HD
 http://4k.cmn14.com:8080/HakanKara01/XGuSAvs5Kc/231355
 #EXTINF:-1 tvg-name="US: FRANCE 24 NEWS HD" tvg-logo="" group-title="news",US: FRANCE 24 NEWS HD
 http://4k.cmn14.com:8080/HakanKara01/XGuSAvs5Kc/231379
-#EXTINF:-1 tvg-name="CA: Global News" tvg-logo="http://logos.giize.com/logos/logos%20rui/logos%20canada%20/GLOBALVANCOUVER.png" group-title="news",CA: Global News
-http://goood.mine.nu:80/Crisi/S5s58A8KHSJX/45112
 #EXTINF:-1 tvg-name="US: I24 ISRAEL NEWS HD" tvg-logo="" group-title="news",US: I24 ISRAEL NEWS HD
 http://4k.cmn14.com:8080/HakanKara01/XGuSAvs5Kc/231415
 #EXTINF:-1 tvg-name="US: NBC BOSTON NEWS" tvg-logo="" group-title="news",US: NBC BOSTON NEWS
 http://4k.cmn14.com:8080/HakanKara01/XGuSAvs5Kc/231556
 #EXTINF:-1 tvg-name="US: NBC CHICAGO NEWS" tvg-logo="" group-title="news",US: NBC CHICAGO NEWS
 http://4k.cmn14.com:8080/HakanKara01/XGuSAvs5Kc/231560
-#EXTINF:-1 tvg-name="US: NBC LOS ANGELES NEWS" tvg-logo="" group-title="news",US: NBC LOS ANGELES NEWS
-http://4k.cmn14.com:8080/HakanKara01/XGuSAvs5Kc/231575
 #EXTINF:-1 tvg-name="US: NBC News HD" tvg-logo="" group-title="news",US: NBC News HD
 http://4k.cmn14.com:8080/HakanKara01/XGuSAvs5Kc/231579
-#EXTINF:-1 tvg-name="US: NBC News Now" tvg-logo="" group-title="news",US: NBC News Now
-http://4k.cmn14.com:8080/HakanKara01/XGuSAvs5Kc/231578
 #EXTINF:-1 tvg-name="US: NBC NEW YORK NEWS" tvg-logo="" group-title="news",US: NBC NEW YORK NEWS
 http://4k.cmn14.com:8080/HakanKara01/XGuSAvs5Kc/231581
 #EXTINF:-1 tvg-name="US: NBC PHILADELPHIA NEWS" tvg-logo="" group-title="news",US: NBC PHILADELPHIA NEWS
@@ -411,8 +895,6 @@ http://4k.cmn14.com:8080/HakanKara01/XGuSAvs5Kc/231591
 http://4k.cmn14.com:8080/HakanKara01/XGuSAvs5Kc/231616
 #EXTINF:-1 tvg-name="US: NEWS MAX" tvg-logo="" group-title="news",US: NEWS MAX
 http://4k.cmn14.com:8080/HakanKara01/XGuSAvs5Kc/231618
-#EXTINF:-1 tvg-name="US: Newsmax" tvg-logo="" group-title="news",US: Newsmax
-http://4k.cmn14.com:8080/HakanKara01/XGuSAvs5Kc/231619
 #EXTINF:-1 tvg-name="US: NEWSNET" tvg-logo="" group-title="news",US: NEWSNET
 http://4k.cmn14.com:8080/HakanKara01/XGuSAvs5Kc/231620
 #EXTINF:-1 tvg-name="US: NHK WORLD NEWS HD" tvg-logo="" group-title="news",US: NHK WORLD NEWS HD
@@ -455,11 +937,3 @@ http://4k.cmn14.com:8080/HakanKara01/XGuSAvs5Kc/232508
 http://4k.cmn14.com:8080/HakanKara01/XGuSAvs5Kc/232523
 #EXTINF:-1 tvg-name="US: WSMV 4 News" tvg-logo="" group-title="news",US: WSMV 4 News
 http://4k.cmn14.com:8080/HakanKara01/XGuSAvs5Kc/232528
-#EXTINF:-1 tvg-name="US: CNBC WORLD NEWS" tvg-logo="http://logos.giize.com/logos/logos%20rui/usa/cnbw.png" group-title="news",US: CNBC WORLD NEWS
-http://goood.mine.nu:80/Crisi/S5s58A8KHSJX/45414
-#EXTINF:-1 tvg-name="CA: CTV NEWS NETWORK" tvg-logo="http://logos.giize.com/logos/logos%20rui/logos%20canada%20novos/ctvnsch.png" group-title="news",CA: CTV NEWS NETWORK
-http://goood.mine.nu:80/Crisi/S5s58A8KHSJX/45094
-#EXTINF:-1 tvg-name="UK: S NEWS" tvg-logo="" group-title="news",UK: S NEWS
-http://vewora.com:8080/live/700416vib/bg%4053%217%21%21U/778b88db-ae86-4625-aca9-ffb4b4fb5190.m3u
-#EXTINF:-1 tvg-name="UK: 92 News" tvg-logo="" group-title="news",UK: 92 News
-http://31.43.191.125:8080/KMAfV8zxWMkS/A2qMwSSVVR6N/146925
