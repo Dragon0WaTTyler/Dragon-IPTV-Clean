@@ -1,4 +1,34 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="* * * * ARAB * * * *" tvg-logo="" group-title="sports",* * * * ARAB * * * *
+http://185.149.233.91:80/dren/dren/322
+#EXTINF:-1 tvg-name="AR: BEIN SPORT 1 HD" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/bein-sport1-logo.png" group-title="sports",AR: BEIN SPORT 1 HD
+http://185.149.233.91:80/dren/dren/323
+#EXTINF:-1 tvg-name="AR: BEIN SPORT 2 HD" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/bein-sport1-logo.png" group-title="sports",AR: BEIN SPORT 2 HD
+http://185.149.233.91:80/dren/dren/324
+#EXTINF:-1 tvg-name="AR: BEIN SPORT 2 HD_4901" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/bein-sport1-logo.png" group-title="sports",AR: BEIN SPORT 2 HD_4901
+http://185.149.233.91:80/dren/dren/4901
+#EXTINF:-1 tvg-name="AR: BEIN SPORT 4 HD" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/bein-sport1-logo.png" group-title="sports",AR: BEIN SPORT 4 HD
+http://185.149.233.91:80/dren/dren/326
+#EXTINF:-1 tvg-name="AR: BEIN SPORT 5 HD" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/bein-sport1-logo.png" group-title="sports",AR: BEIN SPORT 5 HD
+http://185.149.233.91:80/dren/dren/327
+#EXTINF:-1 tvg-name="AR: BEIN SPORT 6 HD" tvg-logo="" group-title="sports",AR: BEIN SPORT 6 HD
+http://185.149.233.91:80/dren/dren/1922
+#EXTINF:-1 tvg-name="AR: BEIN SPORT 7 HD" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/bein-sport1-logo.png" group-title="sports",AR: BEIN SPORT 7 HD
+http://185.149.233.91:80/dren/dren/328
+#EXTINF:-1 tvg-name="BH| ARENA SPORT 1" tvg-logo="" group-title="sports",BH| ARENA SPORT 1
+http://vewora.com:8080/live/700416vib/bg%4053%217%21%21U/2cf8cf27-fed7-43e8-bdba-890ecfed3c3c.m3u
+#EXTINF:-1 tvg-name="BH: Arena Sport 2" tvg-logo="https://docdog.top/logo/countries/exyu/arenasport2.png" group-title="sports",BH: Arena Sport 2
+http://31.43.191.125:8080/KMAfV8zxWMkS/A2qMwSSVVR6N/115068
+#EXTINF:-1 tvg-name="BH: Arena Sport 3" tvg-logo="https://docdog.top/logo/countries/exyu/arenasport3.png" group-title="sports",BH: Arena Sport 3
+http://31.43.191.125:8080/KMAfV8zxWMkS/A2qMwSSVVR6N/115064
+#EXTINF:-1 tvg-name="BH| ARENA SPORT 4" tvg-logo="" group-title="sports",BH| ARENA SPORT 4
+http://vewora.com:8080/live/700416vib/bg%4053%217%21%21U/d461c705-1234-4309-a1fd-6f588db52303.m3u
+#EXTINF:-1 tvg-name="BH| ARENA SPORT 5" tvg-logo="" group-title="sports",BH| ARENA SPORT 5
+http://vewora.com:8080/live/700416vib/bg%4053%217%21%21U/32374ce2-240e-434b-aef0-cece40da4db2.m3u
+#EXTINF:-1 tvg-name="BH| ARENA SPORT 6" tvg-logo="" group-title="sports",BH| ARENA SPORT 6
+http://vewora.com:8080/live/700416vib/bg%4053%217%21%21U/067e3244-4427-4dd0-9871-ba5b4db32fc7.m3u
+#EXTINF:-1 tvg-name="BH| NOVA SPORT HD" tvg-logo="" group-title="sports",BH| NOVA SPORT HD
+http://vewora.com:8080/live/700416vib/bg%4053%217%21%21U/fb568867-c744-408a-9d31-044affb06b64.m3u
 #EXTINF:-1 tvg-name="AR: BEIN SPORTS 1" tvg-logo="https://docdog.top/logo/countries/bein/beinsports1.png" group-title="sports",AR: BEIN SPORTS 1
 http://31.43.191.125:8080/KMAfV8zxWMkS/A2qMwSSVVR6N/841
 #EXTINF:-1 tvg-name="AR: BEIN SPORTS 2" tvg-logo="https://docdog.top/logo/countries/bein/beinsports2.png" group-title="sports",AR: BEIN SPORTS 2
@@ -9,6 +39,150 @@ http://31.43.191.125:8080/KMAfV8zxWMkS/A2qMwSSVVR6N/843
 http://31.43.191.125:8080/KMAfV8zxWMkS/A2qMwSSVVR6N/844
 #EXTINF:-1 tvg-name="AR: BEIN SPORTS 5" tvg-logo="https://docdog.top/logo/countries/bein/beinsports5.png" group-title="sports",AR: BEIN SPORTS 5
 http://31.43.191.125:8080/KMAfV8zxWMkS/A2qMwSSVVR6N/845
+#EXTINF:-1 tvg-name="AR: BEIN SPORTS MAX 1" tvg-logo="https://docdog.top/logo/countries/bein/bein-sports-1-max-mea.png" group-title="sports",AR: BEIN SPORTS MAX 1
+http://31.43.191.125:8080/KMAfV8zxWMkS/A2qMwSSVVR6N/835
+#EXTINF:-1 tvg-name="AR: BEIN SPORTS MAX 2" tvg-logo="https://docdog.top/logo/countries/bein/bein-sports-2-max-mea.png" group-title="sports",AR: BEIN SPORTS MAX 2
+http://31.43.191.125:8080/KMAfV8zxWMkS/A2qMwSSVVR6N/836
+#EXTINF:-1 tvg-name="AR: BEIN SPORTS MAX 3" tvg-logo="https://docdog.top/logo/countries/bein/bein-sports-3-max-mea.png" group-title="sports",AR: BEIN SPORTS MAX 3
+http://31.43.191.125:8080/KMAfV8zxWMkS/A2qMwSSVVR6N/837
+#EXTINF:-1 tvg-name="AR|SPORT: ARRYADIA HD" tvg-logo="https://docdog.top/logo/countries/ar/ARRYADIA_HD.png" group-title="sports",AR|SPORT: ARRYADIA HD
+http://31.43.191.125:8080/KMAfV8zxWMkS/A2qMwSSVVR6N/131036
+#EXTINF:-1 tvg-name="AR| beIN SPORTS HD" tvg-logo="https://www.cafonline.com/media/sa4cpure/afcon2025_logo_land_color-v1.png" group-title="sports",AR| beIN SPORTS HD
+http://sts.mydroon.com:8080/9127491274/QDXDbuLzFDYaYbD/239673
+#EXTINF:-1 tvg-name="AR|Al KASS 1HD" tvg-logo="http://kinglogo.newtvhd.com/logoo/ALKASS4K/Al-Kass-1.png" group-title="sports",AR|Al KASS 1HD
+http://sts.mydroon.com:8080/9127491274/QDXDbuLzFDYaYbD/102199
+#EXTINF:-1 tvg-name="AR|Al KASS 2HD" tvg-logo="http://kinglogo.newtvhd.com/logoo/ALKASS4K/Al-Kass-2.png" group-title="sports",AR|Al KASS 2HD
+http://sts.mydroon.com:8080/9127491274/QDXDbuLzFDYaYbD/102200
+#EXTINF:-1 tvg-name="AR|Al KASS 3HD" tvg-logo="http://kinglogo.newtvhd.com/logoo/ALKASS4K/Al-Kass-3.png" group-title="sports",AR|Al KASS 3HD
+http://sts.mydroon.com:8080/9127491274/QDXDbuLzFDYaYbD/102201
+#EXTINF:-1 tvg-name="AR|Al KASS 5HD" tvg-logo="http://kinglogo.newtvhd.com/logoo/ALKASS4K/Al-Kass-5.png" group-title="sports",AR|Al KASS 5HD
+http://sts.mydroon.com:8080/9127491274/QDXDbuLzFDYaYbD/102203
+#EXTINF:-1 tvg-name="AR|Al KASS 4HD" tvg-logo="http://kinglogo.newtvhd.com/logoo/ALKASS4K/Al-Kass-4.png" group-title="sports",AR|Al KASS 4HD
+http://sts.mydroon.com:8080/9127491274/QDXDbuLzFDYaYbD/102202
+#EXTINF:-1 tvg-name="AR|Al KASS 6HD" tvg-logo="http://kinglogo.newtvhd.com/logoo/ALKASS4K/Al-Kass-6.png" group-title="sports",AR|Al KASS 6HD
+http://sts.mydroon.com:8080/9127491274/QDXDbuLzFDYaYbD/164857
+#EXTINF:-1 tvg-name="AR|STARZPLAY Sports HD" tvg-logo="" group-title="sports",AR|STARZPLAY Sports HD
+http://sts.mydroon.com:8080/9127491274/QDXDbuLzFDYaYbD/202147
+#EXTINF:-1 tvg-name="AR|beIN AFC SD" tvg-logo="http://kinglogo.newtvhd.com/logoo/beinAFC/bein%20SPORTS%20AFC%204K.png" group-title="sports",AR|beIN AFC SD
+http://sts.mydroon.com:8080/9127491274/QDXDbuLzFDYaYbD/219549
+#EXTINF:-1 tvg-name="AR|beIN AFC HDᐩ" tvg-logo="http://kinglogo.newtvhd.com/logoo/beinAFC/bein%20SPORTS%20AFC%204K.png" group-title="sports",AR|beIN AFC HDᐩ
+http://sts.mydroon.com:8080/9127491274/QDXDbuLzFDYaYbD/219545
+#EXTINF:-1 tvg-name="AR|beIN AFC SDᐩ" tvg-logo="http://kinglogo.newtvhd.com/logoo/beinAFC/bein%20SPORTS%20AFC%204K.png" group-title="sports",AR|beIN AFC SDᐩ
+http://sts.mydroon.com:8080/9127491274/QDXDbuLzFDYaYbD/219547
+#EXTINF:-1 tvg-name="AR|beIN AFC4k" tvg-logo="http://kinglogo.newtvhd.com/logoo/beinAFC/bein%20SPORTS%20AFC%204K.png" group-title="sports",AR|beIN AFC4k
+http://sts.mydroon.com:8080/9127491274/QDXDbuLzFDYaYbD/219550
+#EXTINF:-1 tvg-name="AR|beIN AFC 1SD" tvg-logo="http://kinglogo.newtvhd.com/logoo/beinAFC/bein%20SPORTS%20AFC%204K.png" group-title="sports",AR|beIN AFC 1SD
+http://sts.mydroon.com:8080/9127491274/QDXDbuLzFDYaYbD/219552
+#EXTINF:-1 tvg-name="AR|beIN AFC 1HD" tvg-logo="http://kinglogo.newtvhd.com/logoo/beinAFC/bein%20SPORTS%20AFC%204K.png" group-title="sports",AR|beIN AFC 1HD
+http://sts.mydroon.com:8080/9127491274/QDXDbuLzFDYaYbD/219551
+#EXTINF:-1 tvg-name="AR|beIN AFC 1FHD" tvg-logo="http://kinglogo.newtvhd.com/logoo/beinAFC/bein%20SPORTS%20AFC%204K.png" group-title="sports",AR|beIN AFC 1FHD
+http://sts.mydroon.com:8080/9127491274/QDXDbuLzFDYaYbD/219553
+#EXTINF:-1 tvg-name="AR|beIN AFC 2SD" tvg-logo="http://kinglogo.newtvhd.com/logoo/beinAFC/bein%20SPORTS%20AFC%204K.png" group-title="sports",AR|beIN AFC 2SD
+http://sts.mydroon.com:8080/9127491274/QDXDbuLzFDYaYbD/219555
+#EXTINF:-1 tvg-name="AR|beIN AFC 2HD" tvg-logo="http://kinglogo.newtvhd.com/logoo/beinAFC/bein%20SPORTS%20AFC%204K.png" group-title="sports",AR|beIN AFC 2HD
+http://sts.mydroon.com:8080/9127491274/QDXDbuLzFDYaYbD/219554
+#EXTINF:-1 tvg-name="AR|beIN AFC 2FHD" tvg-logo="http://kinglogo.newtvhd.com/logoo/beinAFC/bein%20SPORTS%20AFC%204K.png" group-title="sports",AR|beIN AFC 2FHD
+http://sts.mydroon.com:8080/9127491274/QDXDbuLzFDYaYbD/219556
+#EXTINF:-1 tvg-name="AR|beIN AFC 3SD" tvg-logo="http://kinglogo.newtvhd.com/logoo/beinAFC/bein%20SPORTS%20AFC%204K.png" group-title="sports",AR|beIN AFC 3SD
+http://sts.mydroon.com:8080/9127491274/QDXDbuLzFDYaYbD/219558
+#EXTINF:-1 tvg-name="AR|beIN AFC 3HD" tvg-logo="http://kinglogo.newtvhd.com/logoo/beinAFC/bein%20SPORTS%20AFC%204K.png" group-title="sports",AR|beIN AFC 3HD
+http://sts.mydroon.com:8080/9127491274/QDXDbuLzFDYaYbD/219557
+#EXTINF:-1 tvg-name="AR|beIN AFC 3FHD" tvg-logo="http://kinglogo.newtvhd.com/logoo/beinAFC/bein%20SPORTS%20AFC%204K.png" group-title="sports",AR|beIN AFC 3FHD
+http://sts.mydroon.com:8080/9127491274/QDXDbuLzFDYaYbD/219559
+#EXTINF:-1 tvg-name="AR| ALWAN SPORT 1 SD" tvg-logo="http://kinglogo.newtvhd.com/logoo/AL%20MAJD/ALWAN.png" group-title="sports",AR| ALWAN SPORT 1 SD
+http://sts.mydroon.com:8080/9127491274/QDXDbuLzFDYaYbD/237016
+#EXTINF:-1 tvg-name="AR| ALWAN SPORT 2 SD" tvg-logo="http://kinglogo.newtvhd.com/logoo/AL%20MAJD/ALWAN.png" group-title="sports",AR| ALWAN SPORT 2 SD
+http://sts.mydroon.com:8080/9127491274/QDXDbuLzFDYaYbD/237019
+#EXTINF:-1 tvg-name="AR| ALWAN SPORT 3 SD" tvg-logo="http://kinglogo.newtvhd.com/logoo/AL%20MAJD/ALWAN.png" group-title="sports",AR| ALWAN SPORT 3 SD
+http://sts.mydroon.com:8080/9127491274/QDXDbuLzFDYaYbD/237022
+#EXTINF:-1 tvg-name="AR| ALWAN SPORT 4 SD" tvg-logo="http://kinglogo.newtvhd.com/logoo/AL%20MAJD/ALWAN.png" group-title="sports",AR| ALWAN SPORT 4 SD
+http://sts.mydroon.com:8080/9127491274/QDXDbuLzFDYaYbD/237025
+#EXTINF:-1 tvg-name="AR| ALWAN SPORT 5 SD" tvg-logo="http://kinglogo.newtvhd.com/logoo/AL%20MAJD/ALWAN.png" group-title="sports",AR| ALWAN SPORT 5 SD
+http://sts.mydroon.com:8080/9127491274/QDXDbuLzFDYaYbD/237028
+#EXTINF:-1 tvg-name="AR| ALWAN SPORT 6 4K" tvg-logo="http://kinglogo.newtvhd.com/logoo/AL%20MAJD/ALWAN.png" group-title="sports",AR| ALWAN SPORT 6 4K
+http://sts.mydroon.com:8080/9127491274/QDXDbuLzFDYaYbD/237029
+#EXTINF:-1 tvg-name="AR|AL RABIAA NEWS HD" tvg-logo="https://alrabiaa.tv/img/alrabiaa_logo.png" group-title="sports",AR|AL RABIAA NEWS HD
+http://sts.mydroon.com:8080/9127491274/QDXDbuLzFDYaYbD/239249
+#EXTINF:-1 tvg-name="AR|AL RABIAA SPORT 1 HD" tvg-logo="https://alrabiaa.tv/img/alrabiaa_logo.png" group-title="sports",AR|AL RABIAA SPORT 1 HD
+http://sts.mydroon.com:8080/9127491274/QDXDbuLzFDYaYbD/239245
+#EXTINF:-1 tvg-name="AR|AL RABIAA SPORT 2 HD" tvg-logo="https://alrabiaa.tv/img/alrabiaa_logo.png" group-title="sports",AR|AL RABIAA SPORT 2 HD
+http://sts.mydroon.com:8080/9127491274/QDXDbuLzFDYaYbD/239247
+#EXTINF:-1 tvg-name="AR|AL RABIAA GEO HD" tvg-logo="https://alrabiaa.tv/img/alrabiaa_logo.png" group-title="sports",AR|AL RABIAA GEO HD
+http://sts.mydroon.com:8080/9127491274/QDXDbuLzFDYaYbD/239251
+#EXTINF:-1 tvg-name="AR|AL RABIAA MOVIES HD" tvg-logo="https://alrabiaa.tv/img/alrabiaa_logo.png" group-title="sports",AR|AL RABIAA MOVIES HD
+http://sts.mydroon.com:8080/9127491274/QDXDbuLzFDYaYbD/239252
+#EXTINF:-1 tvg-name="AR|AL RABIAA MUSIC HD" tvg-logo="https://alrabiaa.tv/img/alrabiaa_logo.png" group-title="sports",AR|AL RABIAA MUSIC HD
+http://sts.mydroon.com:8080/9127491274/QDXDbuLzFDYaYbD/239256
+#EXTINF:-1 tvg-name="AR|AL RABIAA NOW HD" tvg-logo="https://alrabiaa.tv/img/alrabiaa_logo.png" group-title="sports",AR|AL RABIAA NOW HD
+http://sts.mydroon.com:8080/9127491274/QDXDbuLzFDYaYbD/239250
+#EXTINF:-1 tvg-name="AR|AL RABIAA QURAN HD" tvg-logo="https://alrabiaa.tv/img/alrabiaa_logo.png" group-title="sports",AR|AL RABIAA QURAN HD
+http://sts.mydroon.com:8080/9127491274/QDXDbuLzFDYaYbD/239257
+#EXTINF:-1 tvg-name="AR| SOLO SPORT HDR 4K" tvg-logo="https://scontent.fcmn3-1.fna.fbcdn.net/v/t39.30808-1/536268349_1188643553288426_5194102762508666988_n.jpg?stp=dst-jpg_tt6&cstp=mx1000x1000&ctp=s200x200&_nc_cat=100&ccb=1-7&_nc_sid=2d3e12&_nc_ohc=NIBQrddisr8Q7kNvwHsXI-F&_nc_oc=AdoS85gPbdhLhOk7oDxLHsMn9gBYtjRxFUTk382Ubf0jbalLLmiAuJdWLAV9ilNO4Es&_nc_zt=24&_nc_ht=scontent.fcmn3-1.fna&_nc_gid=pD63iqk6q6fK7qqYNE986w&_nc_ss=79289&oh=00_AQLHaL8Nf8HhCAJ4VzQp1bow57ADNlX6-OtnVW03Kq2jhQ&oe=6AA92967" group-title="sports",AR| SOLO SPORT HDR 4K
+http://sts.mydroon.com:8080/9127491274/QDXDbuLzFDYaYbD/249999
+#EXTINF:-1 tvg-name="AR| SOLO SPORT 1 SD" tvg-logo="https://scontent.fcmn3-1.fna.fbcdn.net/v/t39.30808-1/536268349_1188643553288426_5194102762508666988_n.jpg?stp=dst-jpg_tt6&cstp=mx1000x1000&ctp=s200x200&_nc_cat=100&ccb=1-7&_nc_sid=2d3e12&_nc_ohc=NIBQrddisr8Q7kNvwHsXI-F&_nc_oc=AdoS85gPbdhLhOk7oDxLHsMn9gBYtjRxFUTk382Ubf0jbalLLmiAuJdWLAV9ilNO4Es&_nc_zt=24&_nc_ht=scontent.fcmn3-1.fna&_nc_gid=pD63iqk6q6fK7qqYNE986w&_nc_ss=79289&oh=00_AQLHaL8Nf8HhCAJ4VzQp1bow57ADNlX6-OtnVW03Kq2jhQ&oe=6AA92967" group-title="sports",AR| SOLO SPORT 1 SD
+http://sts.mydroon.com:8080/9127491274/QDXDbuLzFDYaYbD/250003
+#EXTINF:-1 tvg-name="AR| SOLO SPORT 2 SD" tvg-logo="https://scontent.fcmn3-1.fna.fbcdn.net/v/t39.30808-1/536268349_1188643553288426_5194102762508666988_n.jpg?stp=dst-jpg_tt6&cstp=mx1000x1000&ctp=s200x200&_nc_cat=100&ccb=1-7&_nc_sid=2d3e12&_nc_ohc=NIBQrddisr8Q7kNvwHsXI-F&_nc_oc=AdoS85gPbdhLhOk7oDxLHsMn9gBYtjRxFUTk382Ubf0jbalLLmiAuJdWLAV9ilNO4Es&_nc_zt=24&_nc_ht=scontent.fcmn3-1.fna&_nc_gid=pD63iqk6q6fK7qqYNE986w&_nc_ss=79289&oh=00_AQLHaL8Nf8HhCAJ4VzQp1bow57ADNlX6-OtnVW03Kq2jhQ&oe=6AA92967" group-title="sports",AR| SOLO SPORT 2 SD
+http://sts.mydroon.com:8080/9127491274/QDXDbuLzFDYaYbD/250007
+#EXTINF:-1 tvg-name="AR| SOLO SPORT 3 SD" tvg-logo="https://scontent.fcmn3-1.fna.fbcdn.net/v/t39.30808-1/536268349_1188643553288426_5194102762508666988_n.jpg?stp=dst-jpg_tt6&cstp=mx1000x1000&ctp=s200x200&_nc_cat=100&ccb=1-7&_nc_sid=2d3e12&_nc_ohc=NIBQrddisr8Q7kNvwHsXI-F&_nc_oc=AdoS85gPbdhLhOk7oDxLHsMn9gBYtjRxFUTk382Ubf0jbalLLmiAuJdWLAV9ilNO4Es&_nc_zt=24&_nc_ht=scontent.fcmn3-1.fna&_nc_gid=pD63iqk6q6fK7qqYNE986w&_nc_ss=79289&oh=00_AQLHaL8Nf8HhCAJ4VzQp1bow57ADNlX6-OtnVW03Kq2jhQ&oe=6AA92967" group-title="sports",AR| SOLO SPORT 3 SD
+http://sts.mydroon.com:8080/9127491274/QDXDbuLzFDYaYbD/250011
+#EXTINF:-1 tvg-name="AR| SOLO SPORT 4 SD" tvg-logo="https://scontent.fcmn3-1.fna.fbcdn.net/v/t39.30808-1/536268349_1188643553288426_5194102762508666988_n.jpg?stp=dst-jpg_tt6&cstp=mx1000x1000&ctp=s200x200&_nc_cat=100&ccb=1-7&_nc_sid=2d3e12&_nc_ohc=NIBQrddisr8Q7kNvwHsXI-F&_nc_oc=AdoS85gPbdhLhOk7oDxLHsMn9gBYtjRxFUTk382Ubf0jbalLLmiAuJdWLAV9ilNO4Es&_nc_zt=24&_nc_ht=scontent.fcmn3-1.fna&_nc_gid=pD63iqk6q6fK7qqYNE986w&_nc_ss=79289&oh=00_AQLHaL8Nf8HhCAJ4VzQp1bow57ADNlX6-OtnVW03Kq2jhQ&oe=6AA92967" group-title="sports",AR| SOLO SPORT 4 SD
+http://sts.mydroon.com:8080/9127491274/QDXDbuLzFDYaYbD/250015
+#EXTINF:-1 tvg-name="AR| SOLO SPORT 5 SD" tvg-logo="https://scontent.fcmn3-1.fna.fbcdn.net/v/t39.30808-1/536268349_1188643553288426_5194102762508666988_n.jpg?stp=dst-jpg_tt6&cstp=mx1000x1000&ctp=s200x200&_nc_cat=100&ccb=1-7&_nc_sid=2d3e12&_nc_ohc=NIBQrddisr8Q7kNvwHsXI-F&_nc_oc=AdoS85gPbdhLhOk7oDxLHsMn9gBYtjRxFUTk382Ubf0jbalLLmiAuJdWLAV9ilNO4Es&_nc_zt=24&_nc_ht=scontent.fcmn3-1.fna&_nc_gid=pD63iqk6q6fK7qqYNE986w&_nc_ss=79289&oh=00_AQLHaL8Nf8HhCAJ4VzQp1bow57ADNlX6-OtnVW03Kq2jhQ&oe=6AA92967" group-title="sports",AR| SOLO SPORT 5 SD
+http://sts.mydroon.com:8080/9127491274/QDXDbuLzFDYaYbD/250019
+#EXTINF:-1 tvg-name="AR| SOLO SPORT F1 SD" tvg-logo="https://scontent.fcmn3-1.fna.fbcdn.net/v/t39.30808-1/536268349_1188643553288426_5194102762508666988_n.jpg?stp=dst-jpg_tt6&cstp=mx1000x1000&ctp=s200x200&_nc_cat=100&ccb=1-7&_nc_sid=2d3e12&_nc_ohc=NIBQrddisr8Q7kNvwHsXI-F&_nc_oc=AdoS85gPbdhLhOk7oDxLHsMn9gBYtjRxFUTk382Ubf0jbalLLmiAuJdWLAV9ilNO4Es&_nc_zt=24&_nc_ht=scontent.fcmn3-1.fna&_nc_gid=pD63iqk6q6fK7qqYNE986w&_nc_ss=79289&oh=00_AQLHaL8Nf8HhCAJ4VzQp1bow57ADNlX6-OtnVW03Kq2jhQ&oe=6AA92967" group-title="sports",AR| SOLO SPORT F1 SD
+http://sts.mydroon.com:8080/9127491274/QDXDbuLzFDYaYbD/250027
+#EXTINF:-1 tvg-name="AR| SOLO SPORT UFC SD" tvg-logo="https://scontent.fcmn3-1.fna.fbcdn.net/v/t39.30808-1/536268349_1188643553288426_5194102762508666988_n.jpg?stp=dst-jpg_tt6&cstp=mx1000x1000&ctp=s200x200&_nc_cat=100&ccb=1-7&_nc_sid=2d3e12&_nc_ohc=NIBQrddisr8Q7kNvwHsXI-F&_nc_oc=AdoS85gPbdhLhOk7oDxLHsMn9gBYtjRxFUTk382Ubf0jbalLLmiAuJdWLAV9ilNO4Es&_nc_zt=24&_nc_ht=scontent.fcmn3-1.fna&_nc_gid=pD63iqk6q6fK7qqYNE986w&_nc_ss=79289&oh=00_AQLHaL8Nf8HhCAJ4VzQp1bow57ADNlX6-OtnVW03Kq2jhQ&oe=6AA92967" group-title="sports",AR| SOLO SPORT UFC SD
+http://sts.mydroon.com:8080/9127491274/QDXDbuLzFDYaYbD/250023
+#EXTINF:-1 tvg-name="AR| SOLO SPORT WWE SD" tvg-logo="https://scontent.fcmn3-1.fna.fbcdn.net/v/t39.30808-1/536268349_1188643553288426_5194102762508666988_n.jpg?stp=dst-jpg_tt6&cstp=mx1000x1000&ctp=s200x200&_nc_cat=100&ccb=1-7&_nc_sid=2d3e12&_nc_ohc=NIBQrddisr8Q7kNvwHsXI-F&_nc_oc=AdoS85gPbdhLhOk7oDxLHsMn9gBYtjRxFUTk382Ubf0jbalLLmiAuJdWLAV9ilNO4Es&_nc_zt=24&_nc_ht=scontent.fcmn3-1.fna&_nc_gid=pD63iqk6q6fK7qqYNE986w&_nc_ss=79289&oh=00_AQLHaL8Nf8HhCAJ4VzQp1bow57ADNlX6-OtnVW03Kq2jhQ&oe=6AA92967" group-title="sports",AR| SOLO SPORT WWE SD
+http://sts.mydroon.com:8080/9127491274/QDXDbuLzFDYaYbD/250031
+#EXTINF:-1 tvg-name="AR| KSA Sport 1HD" tvg-logo="http://kinglogo.newtvhd.com/logoo/SAUDI/KSA_SPORT1.png" group-title="sports",AR| KSA Sport 1HD
+http://sts.mydroon.com:8080/9127491274/QDXDbuLzFDYaYbD/68820
+#EXTINF:-1 tvg-name="AR| KSA Sport 2HD" tvg-logo="http://kinglogo.newtvhd.com/logoo/SAUDI/KSA_SPORT2.png" group-title="sports",AR| KSA Sport 2HD
+http://sts.mydroon.com:8080/9127491274/QDXDbuLzFDYaYbD/68821
+#EXTINF:-1 tvg-name="AR|Libya Sport 1 HD" tvg-logo="" group-title="sports",AR|Libya Sport 1 HD
+http://sts.mydroon.com:8080/9127491274/QDXDbuLzFDYaYbD/238219
+#EXTINF:-1 tvg-name="AR|Libya Sport 2 HD" tvg-logo="" group-title="sports",AR|Libya Sport 2 HD
+http://sts.mydroon.com:8080/9127491274/QDXDbuLzFDYaYbD/238221
+#EXTINF:-1 tvg-name="AR| KTV SPORT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdrNxnMGaDOZqOBM68uLJgBGACM3NRT6xbiaO24dbJ_5-SNCdl6W0vdEAYwQ" group-title="sports",AR| KTV SPORT
+http://sts.mydroon.com:8080/9127491274/QDXDbuLzFDYaYbD/28109
+#EXTINF:-1 tvg-name="AR| KTV SPORTS 2HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzzSRVkck2cGQ-mJw8I86bARCTTjn00RM6uxEuPdWVaNCYB7pqJ_GutBY" group-title="sports",AR| KTV SPORTS 2HD
+http://sts.mydroon.com:8080/9127491274/QDXDbuLzFDYaYbD/28110
+#EXTINF:-1 tvg-name="AR|ON TIME SPORTS 1HD" tvg-logo="" group-title="sports",AR|ON TIME SPORTS 1HD
+http://sts.mydroon.com:8080/9127491274/QDXDbuLzFDYaYbD/71436
+#EXTINF:-1 tvg-name="AR|ON TIME SPORTS 2HD" tvg-logo="http://212.8.253.112/logo/EGYPT/ON%20TV%20LIVE.png" group-title="sports",AR|ON TIME SPORTS 2HD
+http://sts.mydroon.com:8080/9127491274/QDXDbuLzFDYaYbD/71435
+#EXTINF:-1 tvg-name="AR|ON SPORT PLUS HD" tvg-logo="" group-title="sports",AR|ON SPORT PLUS HD
+http://sts.mydroon.com:8080/9127491274/QDXDbuLzFDYaYbD/251229
+#EXTINF:-1 tvg-name="AR|ON SPORT MAX 4K" tvg-logo="" group-title="sports",AR|ON SPORT MAX 4K
+http://sts.mydroon.com:8080/9127491274/QDXDbuLzFDYaYbD/251227
+#EXTINF:-1 tvg-name="AR|Nile Sport" tvg-logo="http://212.8.253.112/logo/EGYPT/NILE%20SPORT.png" group-title="sports",AR|Nile Sport
+http://31.43.191.125:8080/KMAfV8zxWMkS/A2qMwSSVVR6N/6685
+#EXTINF:-1 tvg-name="AR|ShARJAH SPORTS 2 HD" tvg-logo="https://www9.0zz0.com/2020/04/20/01/184310478.jpg" group-title="sports",AR|ShARJAH SPORTS 2 HD
+http://sts.mydroon.com:8080/9127491274/QDXDbuLzFDYaYbD/69258
+#EXTINF:-1 tvg-name="AR|YAS SPORTS" tvg-logo="http://kinglogo.newtvhd.com/logoo/IMARAT/YAS%20SPORTS.jpg" group-title="sports",AR|YAS SPORTS
+http://sts.mydroon.com:8080/9127491274/QDXDbuLzFDYaYbD/69266
+#EXTINF:-1 tvg-name="AR|SPORT: DUBAI RACING 2" tvg-logo="https://docdog.top/logo/countries/ar/DUBAI_RACING_2.png" group-title="sports",AR|SPORT: DUBAI RACING 2
+http://31.43.191.125:8080/KMAfV8zxWMkS/A2qMwSSVVR6N/6820
+#EXTINF:-1 tvg-name="AR|SPORT: DUBAI RACING" tvg-logo="https://docdog.top/logo/countries/ar/DUBAI_RACING.png" group-title="sports",AR|SPORT: DUBAI RACING
+http://31.43.191.125:8080/KMAfV8zxWMkS/A2qMwSSVVR6N/131039
+#EXTINF:-1 tvg-name="AR|DUBAI SPORTS 2" tvg-logo="http://kinglogo.newtvhd.com/logoo/IMARAT/DUBAI%20SPORTS%202.jpg" group-title="sports",AR|DUBAI SPORTS 2
+http://sts.mydroon.com:8080/9127491274/QDXDbuLzFDYaYbD/69275
+#EXTINF:-1 tvg-name="AR|Sharjah Sport" tvg-logo="https://i.imgur.com/IaRaabJ.jpg" group-title="sports",AR|Sharjah Sport
+http://31.43.191.125:8080/KMAfV8zxWMkS/A2qMwSSVVR6N/6913
+#EXTINF:-1 tvg-name="AR|Dubai Sports 1" tvg-logo="https://i.imgur.com/iYgHR5D.png" group-title="sports",AR|Dubai Sports 1
+http://sts.mydroon.com:8080/9127491274/QDXDbuLzFDYaYbD/161994
+#EXTINF:-1 tvg-name="AR|Sudan Sport" tvg-logo="http://kinglogo.newtvhd.com/logoo/SUDAN/Sudan%20sport.jpg" group-title="sports",AR|Sudan Sport
+http://31.43.191.125:8080/KMAfV8zxWMkS/A2qMwSSVVR6N/6862
+#EXTINF:-1 tvg-name="AR|Iraqia Sport" tvg-logo="http://212.8.253.112/logo/IRAQ/ALIRAQIASPORT.png" group-title="sports",AR|Iraqia Sport
+http://31.43.191.125:8080/KMAfV8zxWMkS/A2qMwSSVVR6N/6578
+#EXTINF:-1 tvg-name="AR: JORDAN AMMAN" tvg-logo="https://docdog.top/logo/countries/arab/JORDANAMMAN.jpg" group-title="sports",AR: JORDAN AMMAN
+http://31.43.191.125:8080/KMAfV8zxWMkS/A2qMwSSVVR6N/6557
+#EXTINF:-1 tvg-name="AR|AMMAN HD" tvg-logo="" group-title="sports",AR|AMMAN HD
+http://sts.mydroon.com:8080/9127491274/QDXDbuLzFDYaYbD/136468
+#EXTINF:-1 tvg-name="AR: JORDAN SPORT" tvg-logo="https://docdog.top/logo/countries/arab/jordansport.png" group-title="sports",AR: JORDAN SPORT
+http://31.43.191.125:8080/KMAfV8zxWMkS/A2qMwSSVVR6N/6558
+#EXTINF:-1 tvg-name="AR|OMAN TV SPORTS" tvg-logo="" group-title="sports",AR|OMAN TV SPORTS
+http://sts.mydroon.com:8080/9127491274/QDXDbuLzFDYaYbD/139780
 #EXTINF:-1 tvg-name="AR: BEIN SPORTS 6" tvg-logo="https://docdog.top/logo/countries/bein/beinsports6.png" group-title="sports",AR: BEIN SPORTS 6
 http://31.43.191.125:8080/KMAfV8zxWMkS/A2qMwSSVVR6N/846
 #EXTINF:-1 tvg-name="AR: BEIN SPORTS 7" tvg-logo="https://docdog.top/logo/countries/bein/beinsports7.png" group-title="sports",AR: BEIN SPORTS 7
@@ -19,12 +193,6 @@ http://31.43.191.125:8080/KMAfV8zxWMkS/A2qMwSSVVR6N/853
 http://31.43.191.125:8080/KMAfV8zxWMkS/A2qMwSSVVR6N/854
 #EXTINF:-1 tvg-name="AR: BEIN SPORTS PREMIUM 3" tvg-logo="https://docdog.top/logo/countries/bein/BEINSPORTSPREMIUM3.png" group-title="sports",AR: BEIN SPORTS PREMIUM 3
 http://31.43.191.125:8080/KMAfV8zxWMkS/A2qMwSSVVR6N/855
-#EXTINF:-1 tvg-name="AR: BEIN SPORTS MAX 1" tvg-logo="https://docdog.top/logo/countries/bein/bein-sports-1-max-mea.png" group-title="sports",AR: BEIN SPORTS MAX 1
-http://31.43.191.125:8080/KMAfV8zxWMkS/A2qMwSSVVR6N/835
-#EXTINF:-1 tvg-name="AR: BEIN SPORTS MAX 2" tvg-logo="https://docdog.top/logo/countries/bein/bein-sports-2-max-mea.png" group-title="sports",AR: BEIN SPORTS MAX 2
-http://31.43.191.125:8080/KMAfV8zxWMkS/A2qMwSSVVR6N/836
-#EXTINF:-1 tvg-name="AR: BEIN SPORTS MAX 3" tvg-logo="https://docdog.top/logo/countries/bein/bein-sports-3-max-mea.png" group-title="sports",AR: BEIN SPORTS MAX 3
-http://31.43.191.125:8080/KMAfV8zxWMkS/A2qMwSSVVR6N/837
 #EXTINF:-1 tvg-name="AR: BEIN SPORTS MAX 4" tvg-logo="https://docdog.top/logo/countries/bein/bein-sports-4-max-mea.png" group-title="sports",AR: BEIN SPORTS MAX 4
 http://31.43.191.125:8080/KMAfV8zxWMkS/A2qMwSSVVR6N/838
 #EXTINF:-1 tvg-name="AR: BEIN SPORTS MAX 6" tvg-logo="https://docdog.top/logo/countries/bein/bein-sports-6-max-mea.png" group-title="sports",AR: BEIN SPORTS MAX 6
@@ -41,12 +209,6 @@ http://neosfpoo.top:8080/8791778510331/6591fe5c11e9/58396
 http://neosfpoo.top:8080/8791778510331/6591fe5c11e9/58397
 #EXTINF:-1 tvg-name="AR: PALESTINE SPORT" tvg-logo="https://docdog.top/logo/countries/arab/palestinesport.png" group-title="sports",AR: PALESTINE SPORT
 http://31.43.191.125:8080/KMAfV8zxWMkS/A2qMwSSVVR6N/6550
-#EXTINF:-1 tvg-name="AR: JORDAN AMMAN" tvg-logo="https://docdog.top/logo/countries/arab/JORDANAMMAN.jpg" group-title="sports",AR: JORDAN AMMAN
-http://31.43.191.125:8080/KMAfV8zxWMkS/A2qMwSSVVR6N/6557
-#EXTINF:-1 tvg-name="AR: JORDAN SPORT" tvg-logo="https://docdog.top/logo/countries/arab/jordansport.png" group-title="sports",AR: JORDAN SPORT
-http://31.43.191.125:8080/KMAfV8zxWMkS/A2qMwSSVVR6N/6558
-#EXTINF:-1 tvg-name="AR: IRAQIA SPORT" tvg-logo="https://docdog.top/logo/countries/arab/iraqiasport.png" group-title="sports",AR: IRAQIA SPORT
-http://31.43.191.125:8080/KMAfV8zxWMkS/A2qMwSSVVR6N/6578
 #EXTINF:-1 tvg-name="AR: BEIN SPORTS AFC" tvg-logo="" group-title="sports",AR: BEIN SPORTS AFC
 http://31.43.191.125:8080/KMAfV8zxWMkS/A2qMwSSVVR6N/6614
 #EXTINF:-1 tvg-name="AR: BEIN SPORTS AFC 1" tvg-logo="https://docdog.top/logo/countries/arab/beinsports.png" group-title="sports",AR: BEIN SPORTS AFC 1
@@ -59,8 +221,6 @@ http://31.43.191.125:8080/KMAfV8zxWMkS/A2qMwSSVVR6N/6617
 http://31.43.191.125:8080/KMAfV8zxWMkS/A2qMwSSVVR6N/6618
 #EXTINF:-1 tvg-name="AR: DMC SPORTS" tvg-logo="https://docdog.top/logo/countries/arab/dmcsports.png" group-title="sports",AR: DMC SPORTS
 http://31.43.191.125:8080/KMAfV8zxWMkS/A2qMwSSVVR6N/6669
-#EXTINF:-1 tvg-name="AR: NILE SPORT" tvg-logo="https://docdog.top/logo/countries/arab/nilesport.png" group-title="sports",AR: NILE SPORT
-http://31.43.191.125:8080/KMAfV8zxWMkS/A2qMwSSVVR6N/6685
 #EXTINF:-1 tvg-name="AR: ON TIME SPORTS 1" tvg-logo="https://docdog.top/logo/countries/arab/onsport.png" group-title="sports",AR: ON TIME SPORTS 1
 http://31.43.191.125:8080/KMAfV8zxWMkS/A2qMwSSVVR6N/6694
 #EXTINF:-1 tvg-name="AR: ON TIME SPORTS 3" tvg-logo="" group-title="sports",AR: ON TIME SPORTS 3
@@ -101,8 +261,6 @@ http://31.43.191.125:8080/KMAfV8zxWMkS/A2qMwSSVVR6N/6802
 http://31.43.191.125:8080/KMAfV8zxWMkS/A2qMwSSVVR6N/6812
 #EXTINF:-1 tvg-name="AR: KTV SPORT TV" tvg-logo="https://docdog.top/logo/countries/arab/ktvsport.png" group-title="sports",AR: KTV SPORT TV
 http://31.43.191.125:8080/KMAfV8zxWMkS/A2qMwSSVVR6N/6813
-#EXTINF:-1 tvg-name="AR|SPORT: DUBAI RACING 2" tvg-logo="https://docdog.top/logo/countries/ar/DUBAI_RACING_2.png" group-title="sports",AR|SPORT: DUBAI RACING 2
-http://31.43.191.125:8080/KMAfV8zxWMkS/A2qMwSSVVR6N/6820
 #EXTINF:-1 tvg-name="AR|SPORT: DUBAI RACING 3" tvg-logo="https://docdog.top/logo/countries/ar/DUBAI_RACING_3.png" group-title="sports",AR|SPORT: DUBAI RACING 3
 http://31.43.191.125:8080/KMAfV8zxWMkS/A2qMwSSVVR6N/6821
 #EXTINF:-1 tvg-name="AR: DUBAI SPORT 1" tvg-logo="https://docdog.top/logo/countries/arab/dubaisport1.png" group-title="sports",AR: DUBAI SPORT 1
@@ -117,16 +275,12 @@ http://31.43.191.125:8080/KMAfV8zxWMkS/A2qMwSSVVR6N/6849
 http://31.43.191.125:8080/KMAfV8zxWMkS/A2qMwSSVVR6N/6856
 #EXTINF:-1 tvg-name="AR: BAHRAIN SPORT 2" tvg-logo="https://docdog.top/logo/countries/arab/bahrainsport2.png" group-title="sports",AR: BAHRAIN SPORT 2
 http://31.43.191.125:8080/KMAfV8zxWMkS/A2qMwSSVVR6N/6857
-#EXTINF:-1 tvg-name="AR: SUDAN SPORT" tvg-logo="https://docdog.top/logo/countries/arab/sudansport.png" group-title="sports",AR: SUDAN SPORT
-http://31.43.191.125:8080/KMAfV8zxWMkS/A2qMwSSVVR6N/6862
 #EXTINF:-1 tvg-name="AR: LIBYA SPORT TV HD" tvg-logo="https://docdog.top/logo/countries/arab/libyasport.png" group-title="sports",AR: LIBYA SPORT TV HD
 http://31.43.191.125:8080/KMAfV8zxWMkS/A2qMwSSVVR6N/6880
 #EXTINF:-1 tvg-name="AR: AD SPORT 1" tvg-logo="https://docdog.top/logo/countries/arab/ADSPORT.png" group-title="sports",AR: AD SPORT 1
 http://31.43.191.125:8080/KMAfV8zxWMkS/A2qMwSSVVR6N/6892
 #EXTINF:-1 tvg-name="AR: AD SPORT 2" tvg-logo="https://docdog.top/logo/countries/arab/ADSPORT.png" group-title="sports",AR: AD SPORT 2
 http://31.43.191.125:8080/KMAfV8zxWMkS/A2qMwSSVVR6N/6893
-#EXTINF:-1 tvg-name="AR: SHARJAH SPORT" tvg-logo="https://docdog.top/logo/countries/arab/sharjahsport.png" group-title="sports",AR: SHARJAH SPORT
-http://31.43.191.125:8080/KMAfV8zxWMkS/A2qMwSSVVR6N/6913
 #EXTINF:-1 tvg-name="AR: ZAMALEK SPORT" tvg-logo="https://docdog.top/logo/countries/arab/zamaleksports.png" group-title="sports",AR: ZAMALEK SPORT
 http://31.43.191.125:8080/KMAfV8zxWMkS/A2qMwSSVVR6N/6917
 #EXTINF:-1 tvg-name="AR: AD SPORTS PREMIUM 2" tvg-logo="" group-title="sports",AR: AD SPORTS PREMIUM 2
@@ -167,12 +321,8 @@ http://31.43.191.125:8080/KMAfV8zxWMkS/A2qMwSSVVR6N/131033
 http://31.43.191.125:8080/KMAfV8zxWMkS/A2qMwSSVVR6N/131034
 #EXTINF:-1 tvg-name="AR|SPORT: AL IRAQIA SPORT" tvg-logo="https://docdog.top/logo/countries/ar/AL_IRAQIA_SPORT.png" group-title="sports",AR|SPORT: AL IRAQIA SPORT
 http://31.43.191.125:8080/KMAfV8zxWMkS/A2qMwSSVVR6N/131035
-#EXTINF:-1 tvg-name="AR|SPORT: ARRYADIA HD" tvg-logo="https://docdog.top/logo/countries/ar/ARRYADIA_HD.png" group-title="sports",AR|SPORT: ARRYADIA HD
-http://31.43.191.125:8080/KMAfV8zxWMkS/A2qMwSSVVR6N/131036
 #EXTINF:-1 tvg-name="AR|SPORT: BAHRAIN 1" tvg-logo="https://docdog.top/logo/countries/ar/BAHRAIN_1.png" group-title="sports",AR|SPORT: BAHRAIN 1
 http://31.43.191.125:8080/KMAfV8zxWMkS/A2qMwSSVVR6N/131037
-#EXTINF:-1 tvg-name="AR|SPORT: DUBAI RACING" tvg-logo="https://docdog.top/logo/countries/ar/DUBAI_RACING.png" group-title="sports",AR|SPORT: DUBAI RACING
-http://31.43.191.125:8080/KMAfV8zxWMkS/A2qMwSSVVR6N/131039
 #EXTINF:-1 tvg-name="AR|SPORT: JORDAN SPORTS HD" tvg-logo="https://docdog.top/logo/countries/ar/JORDAN_SPORTS_HD.jpg" group-title="sports",AR|SPORT: JORDAN SPORTS HD
 http://31.43.191.125:8080/KMAfV8zxWMkS/A2qMwSSVVR6N/131047
 #EXTINF:-1 tvg-name="AR|SPORT: LIBYA 1" tvg-logo="https://docdog.top/logo/countries/ar/LIBYA_1.jpeg" group-title="sports",AR|SPORT: LIBYA 1
@@ -209,10 +359,6 @@ http://31.43.191.125:8080/KMAfV8zxWMkS/A2qMwSSVVR6N/131121
 http://31.43.191.125:8080/KMAfV8zxWMkS/A2qMwSSVVR6N/131125
 #EXTINF:-1 tvg-name="BH: Arena Sport" tvg-logo="https://docdog.top/logo/countries/exyu/arenasport1.png" group-title="sports",BH: Arena Sport
 http://31.43.191.125:8080/KMAfV8zxWMkS/A2qMwSSVVR6N/115063
-#EXTINF:-1 tvg-name="BH: Arena Sport 2" tvg-logo="https://docdog.top/logo/countries/exyu/arenasport2.png" group-title="sports",BH: Arena Sport 2
-http://31.43.191.125:8080/KMAfV8zxWMkS/A2qMwSSVVR6N/115068
-#EXTINF:-1 tvg-name="BH: Arena Sport 3" tvg-logo="https://docdog.top/logo/countries/exyu/arenasport3.png" group-title="sports",BH: Arena Sport 3
-http://31.43.191.125:8080/KMAfV8zxWMkS/A2qMwSSVVR6N/115064
 #EXTINF:-1 tvg-name="BH: Arena Sport Premium 1" tvg-logo="" group-title="sports",BH: Arena Sport Premium 1
 http://31.43.191.125:8080/KMAfV8zxWMkS/A2qMwSSVVR6N/115065
 #EXTINF:-1 tvg-name="BH: Arena Sport Premium 2" tvg-logo="" group-title="sports",BH: Arena Sport Premium 2
@@ -225,17 +371,3 @@ http://watchdog.build/live/0228902066/tc674KJ3du/08835090-4e14-49f9-ac9a-be62662
 http://watchdog.build/live/0228902066/tc674KJ3du/364a2789-d704-442d-b07d-e36c82d73f56.m3u
 #EXTINF:-1 tvg-name="UAE : ABU DHABI SPORTS 2" tvg-logo="https://cdn.countryflags.com/thumbs/united-arab-emirates/flag-round-250.png" group-title="sports",UAE : ABU DHABI SPORTS 2
 http://watchdog.build/live/0228902066/tc674KJ3du/807d2632-293d-4820-9fe0-f8c5647bae92.m3u
-#EXTINF:-1 tvg-name="UAE : DUBAI SPORTS 1" tvg-logo="https://cdn.countryflags.com/thumbs/united-arab-emirates/flag-round-250.png" group-title="sports",UAE : DUBAI SPORTS 1
-http://watchdog.build/live/0228902066/tc674KJ3du/5bac7b1b-deef-43f4-b619-e8c7a9398390.m3u
-#EXTINF:-1 tvg-name="UAE : DUBAI SPORTS 2" tvg-logo="https://cdn.countryflags.com/thumbs/united-arab-emirates/flag-round-250.png" group-title="sports",UAE : DUBAI SPORTS 2
-http://watchdog.build/live/0228902066/tc674KJ3du/557bb80d-18e1-46da-aed3-930063f256c1.m3u
-#EXTINF:-1 tvg-name="BH| ARENA SPORT 1" tvg-logo="" group-title="sports",BH| ARENA SPORT 1
-http://vewora.com:8080/live/700416vib/bg%4053%217%21%21U/2cf8cf27-fed7-43e8-bdba-890ecfed3c3c.m3u
-#EXTINF:-1 tvg-name="BH| ARENA SPORT 4" tvg-logo="" group-title="sports",BH| ARENA SPORT 4
-http://vewora.com:8080/live/700416vib/bg%4053%217%21%21U/d461c705-1234-4309-a1fd-6f588db52303.m3u
-#EXTINF:-1 tvg-name="BH| ARENA SPORT 5" tvg-logo="" group-title="sports",BH| ARENA SPORT 5
-http://vewora.com:8080/live/700416vib/bg%4053%217%21%21U/32374ce2-240e-434b-aef0-cece40da4db2.m3u
-#EXTINF:-1 tvg-name="BH| ARENA SPORT 6" tvg-logo="" group-title="sports",BH| ARENA SPORT 6
-http://vewora.com:8080/live/700416vib/bg%4053%217%21%21U/067e3244-4427-4dd0-9871-ba5b4db32fc7.m3u
-#EXTINF:-1 tvg-name="BH| NOVA SPORT HD" tvg-logo="" group-title="sports",BH| NOVA SPORT HD
-http://vewora.com:8080/live/700416vib/bg%4053%217%21%21U/fb568867-c744-408a-9d31-044affb06b64.m3u
