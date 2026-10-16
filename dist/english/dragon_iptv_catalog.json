@@ -147,8 +147,8 @@
       "http://vewora.com:8080/live/700416vib/bg%4053%217%21%21U/e9cec541-3c5a-4b1a-aa99-8ad4536052ac.m3u"
     ],
     "source_file": "FIW_1792095558_1_a9a1f6_Hunter_6A1B.m3u",
-    "health_status": "unreachable",
-    "health_checked_urls": 2,
+    "health_status": "reachable",
+    "health_checked_urls": 1,
     "health_promoted": false
   },
   {
@@ -161,9 +161,9 @@
     ],
     "raw_group": "NEWS NETWORKS",
     "logo": "http://logos.giize.com/logos/logos%20rui/usa/cnn.png",
-    "primary_url": "http://goood.mine.nu:80/Crisi/S5s58A8KHSJX/45415",
+    "primary_url": "http://goood.mine.nu:80/Crisi/S5s58A8KHSJX/45078",
     "alternates": [
-      "http://goood.mine.nu:80/Crisi/S5s58A8KHSJX/45078",
+      "http://goood.mine.nu:80/Crisi/S5s58A8KHSJX/45415",
       "http://4k.cmn14.com:8080/HakanKara01/XGuSAvs5Kc/231327",
       "http://31.43.191.125:8080/KMAfV8zxWMkS/A2qMwSSVVR6N/5427",
       "http://31.43.191.125:8080/KMAfV8zxWMkS/A2qMwSSVVR6N/1871",
@@ -214,9 +214,9 @@
       "http://watchdog.build/live/0228902066/tc674KJ3du/4a4cdf4e-2bd8-49b9-bb8a-91adcb154ae9.m3u"
     ],
     "source_file": "FIW_1792095223_1_0ee748_Hunter_C3C0.m3u",
-    "health_status": "unreachable",
-    "health_checked_urls": 3,
-    "health_promoted": false
+    "health_status": "reachable",
+    "health_checked_urls": 2,
+    "health_promoted": true
   },
   {
     "id": "dragon_english_383f821cdb4e",
@@ -228,9 +228,9 @@
     ],
     "raw_group": "WC/ WORLD CHANNEL",
     "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cnn-us.png",
-    "primary_url": "http://neoyjpw.top:8080/60177299034963/6q99jskxwjv4/71386",
+    "primary_url": "http://goood.mine.nu:80/Crisi/S5s58A8KHSJX/45416",
     "alternates": [
-      "http://goood.mine.nu:80/Crisi/S5s58A8KHSJX/45416",
+      "http://neoyjpw.top:8080/60177299034963/6q99jskxwjv4/71386",
       "http://neoyjpw.top:8080/38175432793718/b6j73ch5n775/71386",
       "http://31.43.191.125:8080/KMAfV8zxWMkS/A2qMwSSVVR6N/154948",
       "http://neoyjpw.top:8080/1061760597105520/2869c7254b3d/71386",
@@ -246,8 +246,8 @@
     ],
     "source_file": "FIW_1792095558_1_a9a1f6_Hunter_6A1B.m3u",
     "health_status": "reachable",
-    "health_checked_urls": 2,
-    "health_promoted": true
+    "health_checked_urls": 1,
+    "health_promoted": false
   },
   {
     "id": "dragon_english_6bcfba79ebf8",
@@ -285,8 +285,8 @@
       "http://extsmarterspro2302.shop:8080/cnr1224/c77705ce1b4600fe/582112"
     ],
     "source_file": "FIW_1792095558_1_a9a1f6_Hunter_6A1B.m3u",
-    "health_status": "unreachable",
-    "health_checked_urls": 3,
+    "health_status": "reachable",
+    "health_checked_urls": 1,
     "health_promoted": false
   },
   {
@@ -302,7 +302,7 @@
     "primary_url": "http://extsmarterspro2302.shop:8080/cnr1224/c77705ce1b4600fe/582116",
     "alternates": [],
     "source_file": "FIW_1792095558_1_a9a1f6_Hunter_6A1B.m3u",
-    "health_status": "unreachable",
+    "health_status": "reachable",
     "health_checked_urls": 1,
     "health_promoted": false
   },
@@ -319,7 +319,7 @@
     "primary_url": "http://extsmarterspro2302.shop:8080/cnr1224/c77705ce1b4600fe/625144",
     "alternates": [],
     "source_file": "FIW_1792095558_1_a9a1f6_Hunter_6A1B.m3u",
-    "health_status": "unreachable",
+    "health_status": "reachable",
     "health_checked_urls": 1,
     "health_promoted": false
   },
@@ -372,7 +372,7 @@
     "primary_url": "http://extsmarterspro2302.shop:8080/cnr1224/c77705ce1b4600fe/639185",
     "alternates": [],
     "source_file": "FIW_1792095558_1_a9a1f6_Hunter_6A1B.m3u",
-    "health_status": "unreachable",
+    "health_status": "reachable",
     "health_checked_urls": 1,
     "health_promoted": false
   },
@@ -410,8 +410,8 @@
       "http://extsmarterspro2302.shop:8080/cnr1224/c77705ce1b4600fe/643029"
     ],
     "source_file": "FIW_1792095558_1_a9a1f6_Hunter_6A1B.m3u",
-    "health_status": "unreachable",
-    "health_checked_urls": 3,
+    "health_status": "reachable",
+    "health_checked_urls": 1,
     "health_promoted": false
   },
   {
@@ -435,8 +435,8 @@
       "http://obelix.from-or.com.bestream.football:9099/live/obelix183/0f2959e2520a5498/026ef490-4fa1-49f8-8d12-2a07c1869f9f.ts"
     ],
     "source_file": "FIW_1792095558_1_a9a1f6_Hunter_6A1B.m3u",
-    "health_status": "unreachable",
-    "health_checked_urls": 3,
+    "health_status": "reachable",
+    "health_checked_urls": 1,
     "health_promoted": false
   },
   {
@@ -453,7 +453,7 @@
     "primary_url": "http://extsmarterspro2302.shop:8080/cnr1224/c77705ce1b4600fe/643036",
     "alternates": [],
     "source_file": "FIW_1792095558_1_a9a1f6_Hunter_6A1B.m3u",
-    "health_status": "unreachable",
+    "health_status": "reachable",
     "health_checked_urls": 1,
     "health_promoted": false
   },
@@ -473,8 +473,8 @@
       "http://extsmarterspro2302.shop:8080/cnr1224/c77705ce1b4600fe/643037"
     ],
     "source_file": "FIW_1792095558_1_a9a1f6_Hunter_6A1B.m3u",
-    "health_status": "unreachable",
-    "health_checked_urls": 2,
+    "health_status": "reachable",
+    "health_checked_urls": 1,
     "health_promoted": false
   },
   {
@@ -491,7 +491,7 @@
     "primary_url": "http://extsmarterspro2302.shop:8080/cnr1224/c77705ce1b4600fe/643038",
     "alternates": [],
     "source_file": "FIW_1792095558_1_a9a1f6_Hunter_6A1B.m3u",
-    "health_status": "unreachable",
+    "health_status": "reachable",
     "health_checked_urls": 1,
     "health_promoted": false
   },
@@ -539,15 +539,15 @@
     ],
     "raw_group": "US NEWS",
     "logo": "http://sltv-icon.cms-s.com/logo/USA/CNNHD.png",
-    "primary_url": "http://4k.cmn14.com:8080/HakanKara01/XGuSAvs5Kc/231328",
+    "primary_url": "http://vushtrriasl.hups.stream:8080/XmXX6uaAeq/qn4JxSKu5h/137236",
     "alternates": [
-      "http://vushtrriasl.hups.stream:8080/XmXX6uaAeq/qn4JxSKu5h/137236",
+      "http://4k.cmn14.com:8080/HakanKara01/XGuSAvs5Kc/231328",
       "http://vushtrriasl.hups.stream:8080/XmXX6uaAeq/qn4JxSKu5h/130940"
     ],
     "source_file": "FIW_1792095154_2_edcf98_Hunter_4002.m3u",
-    "health_status": "unreachable",
-    "health_checked_urls": 3,
-    "health_promoted": false
+    "health_status": "reachable",
+    "health_checked_urls": 2,
+    "health_promoted": true
   },
   {
     "id": "dragon_english_10e0b61d9f98",
@@ -744,7 +744,7 @@
     "primary_url": "http://extsmarterspro2302.shop:8080/cnr1224/c77705ce1b4600fe/626328",
     "alternates": [],
     "source_file": "FIW_1792095558_1_a9a1f6_Hunter_6A1B.m3u",
-    "health_status": "unreachable",
+    "health_status": "reachable",
     "health_checked_urls": 1,
     "health_promoted": false
   },
@@ -928,7 +928,7 @@
     "primary_url": "http://extsmarterspro2302.shop:8080/cnr1224/c77705ce1b4600fe/582096",
     "alternates": [],
     "source_file": "FIW_1792095558_1_a9a1f6_Hunter_6A1B.m3u",
-    "health_status": "unreachable",
+    "health_status": "reachable",
     "health_checked_urls": 1,
     "health_promoted": false
   },
@@ -1080,15 +1080,15 @@
     ],
     "raw_group": "WC/ WORLD CHANNEL",
     "logo": "https://i.imgur.com/DUUxsO7.jpeg",
-    "primary_url": "http://extsmarterspro2302.shop:8080/cnr1224/c77705ce1b4600fe/626344",
+    "primary_url": "http://obelix.from-or.com.bestream.football:9099/live/obelix183/0f2959e2520a5498/fa78fdb0-4e17-47c5-97c1-c4a48704b6fb.ts",
     "alternates": [
-      "http://obelix.from-or.com.bestream.football:9099/live/obelix183/0f2959e2520a5498/fa78fdb0-4e17-47c5-97c1-c4a48704b6fb.ts",
+      "http://extsmarterspro2302.shop:8080/cnr1224/c77705ce1b4600fe/626344",
       "http://obelix.from-or.com.bestream.football:9099/live/obelix183/0f2959e2520a5498/c5cafd23-41b2-4b5c-a49b-35d13986abc1.ts"
     ],
     "source_file": "FIW_1792095558_1_a9a1f6_Hunter_6A1B.m3u",
-    "health_status": "unreachable",
-    "health_checked_urls": 3,
-    "health_promoted": false
+    "health_status": "reachable",
+    "health_checked_urls": 2,
+    "health_promoted": true
   },
   {
     "id": "dragon_english_87e77993a8ee",
@@ -1103,7 +1103,7 @@
     "primary_url": "http://extsmarterspro2302.shop:8080/cnr1224/c77705ce1b4600fe/626464",
     "alternates": [],
     "source_file": "FIW_1792095558_1_a9a1f6_Hunter_6A1B.m3u",
-    "health_status": "unreachable",
+    "health_status": "reachable",
     "health_checked_urls": 1,
     "health_promoted": false
   },
@@ -1210,7 +1210,7 @@
     "primary_url": "http://extsmarterspro2302.shop:8080/cnr1224/c77705ce1b4600fe/643317",
     "alternates": [],
     "source_file": "FIW_1792095558_1_a9a1f6_Hunter_6A1B.m3u",
-    "health_status": "unreachable",
+    "health_status": "reachable",
     "health_checked_urls": 1,
     "health_promoted": false
   },
@@ -1227,7 +1227,7 @@
     "primary_url": "http://extsmarterspro2302.shop:8080/cnr1224/c77705ce1b4600fe/627235",
     "alternates": [],
     "source_file": "FIW_1792095558_1_a9a1f6_Hunter_6A1B.m3u",
-    "health_status": "unreachable",
+    "health_status": "reachable",
     "health_checked_urls": 1,
     "health_promoted": false
   },
@@ -1244,7 +1244,7 @@
     "primary_url": "http://extsmarterspro2302.shop:8080/cnr1224/c77705ce1b4600fe/627236",
     "alternates": [],
     "source_file": "FIW_1792095558_1_a9a1f6_Hunter_6A1B.m3u",
-    "health_status": "unreachable",
+    "health_status": "reachable",
     "health_checked_urls": 1,
     "health_promoted": false
   },
@@ -1371,10 +1371,10 @@
     ],
     "raw_group": "UK TV",
     "logo": "",
-    "primary_url": "http://4k.cmn14.com:8080/HakanKara01/XGuSAvs5Kc/232305",
+    "primary_url": "http://4k.cmn14.com:8080/HakanKara01/XGuSAvs5Kc/228258",
     "alternates": [
+      "http://4k.cmn14.com:8080/HakanKara01/XGuSAvs5Kc/232305",
       "http://4k.cmn14.com:8080/HakanKara01/XGuSAvs5Kc/228370",
-      "http://4k.cmn14.com:8080/HakanKara01/XGuSAvs5Kc/228258",
       "http://4k.cmn14.com:8080/HakanKara01/XGuSAvs5Kc/148541",
       "http://4k.cmn14.com:8080/HakanKara01/XGuSAvs5Kc/148166",
       "http://31.43.191.125:8080/KMAfV8zxWMkS/A2qMwSSVVR6N/1757",
@@ -1401,9 +1401,9 @@
       "http://obelix.from-or.com.bestream.football:9099/live/obelix183/0f2959e2520a5498/b07bad65-0c57-4fc6-9fd2-294f1c75abea.ts"
     ],
     "source_file": "FIW_1792077637_2_77bbd4_Hunter_AF0F.m3u",
-    "health_status": "unreachable",
+    "health_status": "reachable",
     "health_checked_urls": 3,
-    "health_promoted": false
+    "health_promoted": true
   },
   {
     "id": "dragon_english_0b1e31d60ef0",
@@ -1595,8 +1595,8 @@
       "http://vewora.com:8080/live/700416vib/bg%4053%217%21%21U/1d9220fc-0dc9-4131-a84d-43bb65c2c912.m3u"
     ],
     "source_file": "FIW_1792095183_1_548daa_Hunter_3257.m3u",
-    "health_status": "unreachable",
-    "health_checked_urls": 3,
+    "health_status": "reachable",
+    "health_checked_urls": 1,
     "health_promoted": false
   },
   {
@@ -1609,9 +1609,9 @@
     ],
     "raw_group": "CANADIAN TV",
     "logo": "",
-    "primary_url": "http://4k.cmn14.com:8080/HakanKara01/XGuSAvs5Kc/228371",
+    "primary_url": "http://4k.cmn14.com:8080/HakanKara01/XGuSAvs5Kc/228262",
     "alternates": [
-      "http://4k.cmn14.com:8080/HakanKara01/XGuSAvs5Kc/228262",
+      "http://4k.cmn14.com:8080/HakanKara01/XGuSAvs5Kc/228371",
       "http://4k.cmn14.com:8080/HakanKara01/XGuSAvs5Kc/227977",
       "http://4k.cmn14.com:8080/HakanKara01/XGuSAvs5Kc/148543",
       "http://caffe.link:25461/65tomislavrajicfrend/pOkeqhfnsB/1404",
@@ -1632,9 +1632,9 @@
       "http://watchdog.build/live/0228902066/tc674KJ3du/c61d43f2-53c3-4426-a178-1acea03c0b66.m3u"
     ],
     "source_file": "FIW_1792077637_2_77bbd4_Hunter_AF0F.m3u",
-    "health_status": "unreachable",
-    "health_checked_urls": 3,
-    "health_promoted": false
+    "health_status": "reachable",
+    "health_checked_urls": 2,
+    "health_promoted": true
   },
   {
     "id": "dragon_english_7f4151bc270b",
@@ -1724,8 +1724,8 @@
       "http://vewora.com:8080/live/700416vib/bg%4053%217%21%21U/a8533f78-fba2-4e6b-8bb9-5f6c14883c01.m3u"
     ],
     "source_file": "FIW_1792095183_1_548daa_Hunter_3257.m3u",
-    "health_status": "unreachable",
-    "health_checked_urls": 3,
+    "health_status": "reachable",
+    "health_checked_urls": 1,
     "health_promoted": false
   },
   {
@@ -1761,8 +1761,8 @@
       "http://vewora.com:8080/live/700416vib/bg%4053%217%21%21U/81d2f42c-9a12-4550-b4ac-8c4a05384713.m3u"
     ],
     "source_file": "FIW_1792095183_1_548daa_Hunter_3257.m3u",
-    "health_status": "unreachable",
-    "health_checked_urls": 3,
+    "health_status": "reachable",
+    "health_checked_urls": 1,
     "health_promoted": false
   },
   {
@@ -4686,10 +4686,10 @@
     ],
     "raw_group": "Doku & Style",
     "logo": "https://cdn-0.tvprofil.com/img/kanali-logo/investigation_discovery_logo.png",
-    "primary_url": "http://neoyjpw.top:8080/60177299034963/6q99jskxwjv4/72093",
+    "primary_url": "http://31.43.191.125:8080/KMAfV8zxWMkS/A2qMwSSVVR6N/1764",
     "alternates": [
       "http://4k.cmn14.com:8080/HakanKara01/XGuSAvs5Kc/232311",
-      "http://31.43.191.125:8080/KMAfV8zxWMkS/A2qMwSSVVR6N/1764",
+      "http://neoyjpw.top:8080/60177299034963/6q99jskxwjv4/72093",
       "http://neoyjpw.top:8080/60177299034963/6q99jskxwjv4/29799",
       "http://neoyjpw.top:8080/38175432793718/b6j73ch5n775/72093",
       "http://neoyjpw.top:8080/38175432793718/b6j73ch5n775/29799",
@@ -4715,7 +4715,7 @@
     ],
     "source_file": "FIW_1792095228_2_5a0eed_Hunter_8D53.m3u",
     "health_status": "reachable",
-    "health_checked_urls": 3,
+    "health_checked_urls": 2,
     "health_promoted": true
   },
   {
@@ -4868,9 +4868,9 @@
     ],
     "raw_group": "UK/ UNITED KINGDOM",
     "logo": "https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb2305.png",
-    "primary_url": "http://neoyjpw.top:8080/60177299034963/6q99jskxwjv4/29803",
+    "primary_url": "http://31.43.191.125:8080/KMAfV8zxWMkS/A2qMwSSVVR6N/1768",
     "alternates": [
-      "http://31.43.191.125:8080/KMAfV8zxWMkS/A2qMwSSVVR6N/1768",
+      "http://neoyjpw.top:8080/60177299034963/6q99jskxwjv4/29803",
       "http://neoyjpw.top:8080/38175432793718/b6j73ch5n775/29803",
       "http://31.43.191.125:8080/KMAfV8zxWMkS/A2qMwSSVVR6N/147036",
       "http://neoyjpw.top:8080/1061760597105520/2869c7254b3d/29803",
@@ -4889,8 +4889,8 @@
     ],
     "source_file": "FIW_1792095154_2_edcf98_Hunter_4002.m3u",
     "health_status": "reachable",
-    "health_checked_urls": 2,
-    "health_promoted": true
+    "health_checked_urls": 1,
+    "health_promoted": false
   },
   {
     "id": "dragon_english_b404ae9c7a4b",
@@ -5492,10 +5492,10 @@
     ],
     "raw_group": "UK TV",
     "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/dmax-uk.png",
-    "primary_url": "http://neoyjpw.top:8080/38175432793718/b6j73ch5n775/29827",
+    "primary_url": "http://31.43.191.125:8080/KMAfV8zxWMkS/A2qMwSSVVR6N/1788",
     "alternates": [
-      "http://31.43.191.125:8080/KMAfV8zxWMkS/A2qMwSSVVR6N/1788",
       "http://neoyjpw.top:8080/60177299034963/6q99jskxwjv4/29827",
+      "http://neoyjpw.top:8080/38175432793718/b6j73ch5n775/29827",
       "http://31.43.191.125:8080/KMAfV8zxWMkS/A2qMwSSVVR6N/146950",
       "http://neoyjpw.top:8080/1061760597105520/2869c7254b3d/29827",
       "http://31.43.191.125:8080/vip921773310177/189ba9335066/1788",
@@ -5513,8 +5513,8 @@
     ],
     "source_file": "FIW_1792095154_2_edcf98_Hunter_4002.m3u",
     "health_status": "reachable",
-    "health_checked_urls": 3,
-    "health_promoted": true
+    "health_checked_urls": 1,
+    "health_promoted": false
   },
   {
     "id": "dragon_english_29642e439a47",
@@ -6591,8 +6591,8 @@
       "http://31.43.191.125:8080/VIP018201759945199995/e4accec30246/1821"
     ],
     "source_file": "FIW_1792095154_2_edcf98_Hunter_4002.m3u",
-    "health_status": "unreachable",
-    "health_checked_urls": 3,
+    "health_status": "reachable",
+    "health_checked_urls": 1,
     "health_promoted": false
   },
   {
@@ -6750,8 +6750,8 @@
       "http://31.43.191.125:8080/VIP018201759945199995/e4accec30246/146980"
     ],
     "source_file": "FIW_1792095154_2_edcf98_Hunter_4002.m3u",
-    "health_status": "unreachable",
-    "health_checked_urls": 3,
+    "health_status": "reachable",
+    "health_checked_urls": 1,
     "health_promoted": false
   },
   {
@@ -7593,10 +7593,10 @@
     ],
     "raw_group": "CA CANADA FRENCH",
     "logo": "",
-    "primary_url": "http://neoyjpw.top:8080/38175432793718/b6j73ch5n775/29897",
+    "primary_url": "http://neoyjpw.top:8080/60177299034963/6q99jskxwjv4/29897",
     "alternates": [
       "http://31.43.191.125:8080/KMAfV8zxWMkS/A2qMwSSVVR6N/1856",
-      "http://neoyjpw.top:8080/60177299034963/6q99jskxwjv4/29897",
+      "http://neoyjpw.top:8080/38175432793718/b6j73ch5n775/29897",
       "http://neoyjpw.top:8080/1061760597105520/2869c7254b3d/29897",
       "http://31.43.191.125:8080/vip921773310177/189ba9335066/1856",
       "http://31.43.191.125:8080/vip431771788072/2b5964080105/1856",
@@ -7607,7 +7607,7 @@
     ],
     "source_file": "FIW_1792095183_1_548daa_Hunter_3257.m3u",
     "health_status": "reachable",
-    "health_checked_urls": 3,
+    "health_checked_urls": 2,
     "health_promoted": true
   },
   {
@@ -7620,10 +7620,10 @@
     ],
     "raw_group": "AUSTRALIAN TV",
     "logo": "",
-    "primary_url": "http://neoyjpw.top:8080/60177299034963/6q99jskxwjv4/29898",
+    "primary_url": "http://31.43.191.125:8080/KMAfV8zxWMkS/A2qMwSSVVR6N/1857",
     "alternates": [
       "http://4k.cmn14.com:8080/HakanKara01/XGuSAvs5Kc/231276",
-      "http://31.43.191.125:8080/KMAfV8zxWMkS/A2qMwSSVVR6N/1857",
+      "http://neoyjpw.top:8080/60177299034963/6q99jskxwjv4/29898",
       "http://neoyjpw.top:8080/38175432793718/b6j73ch5n775/29898",
       "http://31.43.191.125:8080/KMAfV8zxWMkS/A2qMwSSVVR6N/146926",
       "http://neoyjpw.top:8080/1061760597105520/2869c7254b3d/29898",
@@ -7642,7 +7642,7 @@
     ],
     "source_file": "FIW_1792077637_2_77bbd4_Hunter_AF0F.m3u",
     "health_status": "reachable",
-    "health_checked_urls": 3,
+    "health_checked_urls": 2,
     "health_promoted": true
   },
   {
@@ -7655,10 +7655,10 @@
     ],
     "raw_group": "US NEWS",
     "logo": "http://sltv-icon.cms-s.com/logo/USA/BLOOMBERG.png",
-    "primary_url": "http://neoyjpw.top:8080/60177299034963/6q99jskxwjv4/29899",
+    "primary_url": "http://31.43.191.125:8080/KMAfV8zxWMkS/A2qMwSSVVR6N/1858",
     "alternates": [
-      "http://31.43.191.125:8080/KMAfV8zxWMkS/A2qMwSSVVR6N/1858",
       "http://neoyjpw.top:8080/60177299034963/6q99jskxwjv4/71159",
+      "http://neoyjpw.top:8080/60177299034963/6q99jskxwjv4/29899",
       "http://neoyjpw.top:8080/38175432793718/b6j73ch5n775/71159",
       "http://neoyjpw.top:8080/38175432793718/b6j73ch5n775/29899",
       "http://31.43.191.125:8080/KMAfV8zxWMkS/A2qMwSSVVR6N/154721",
@@ -7676,8 +7676,8 @@
     ],
     "source_file": "FIW_1792095154_2_edcf98_Hunter_4002.m3u",
     "health_status": "reachable",
-    "health_checked_urls": 3,
-    "health_promoted": true
+    "health_checked_urls": 1,
+    "health_promoted": false
   },
   {
     "id": "dragon_english_42cae34a269d",
@@ -7804,8 +7804,8 @@
       "http://vewora.com:8080/live/700416vib/bg%4053%217%21%21U/ebf427a2-92dc-4248-a828-ef90221eb0d8.m3u"
     ],
     "source_file": "FIW_1792095558_1_a9a1f6_Hunter_6A1B.m3u",
-    "health_status": "unreachable",
-    "health_checked_urls": 3,
+    "health_status": "reachable",
+    "health_checked_urls": 1,
     "health_promoted": false
   },
   {
@@ -8062,10 +8062,10 @@
     ],
     "raw_group": "NEWS NETWORKS",
     "logo": "http://logos.giize.com/logos/logos%20rui/usa/foxw.png",
-    "primary_url": "http://31.43.191.125:8080/KMAfV8zxWMkS/A2qMwSSVVR6N/1873",
+    "primary_url": "http://goood.mine.nu:80/Crisi/S5s58A8KHSJX/45439",
     "alternates": [
-      "http://goood.mine.nu:80/Crisi/S5s58A8KHSJX/45439",
       "http://4k.cmn14.com:8080/HakanKara01/XGuSAvs5Kc/232254",
+      "http://31.43.191.125:8080/KMAfV8zxWMkS/A2qMwSSVVR6N/1873",
       "http://neoyjpw.top:8080/60177299034963/6q99jskxwjv4/71887",
       "http://neoyjpw.top:8080/60177299034963/6q99jskxwjv4/29909",
       "http://neoyjpw.top:8080/38175432793718/b6j73ch5n775/71887",
@@ -8089,8 +8089,8 @@
     ],
     "source_file": "FIW_1792095223_1_0ee748_Hunter_C3C0.m3u",
     "health_status": "reachable",
-    "health_checked_urls": 3,
-    "health_promoted": true
+    "health_checked_urls": 1,
+    "health_promoted": false
   },
   {
     "id": "dragon_english_642abbec5bea",
@@ -8199,10 +8199,10 @@
     ],
     "raw_group": "UK TV",
     "logo": "http://sltv-icon.cms-s.com/logo/UK/2560px-Sky_Crime_logo_2019.svg.png",
-    "primary_url": "http://neoyjpw.top:8080/38175432793718/b6j73ch5n775/29981",
+    "primary_url": "http://neoyjpw.top:8080/60177299034963/6q99jskxwjv4/29981",
     "alternates": [
       "http://31.43.191.125:8080/KMAfV8zxWMkS/A2qMwSSVVR6N/1879",
-      "http://neoyjpw.top:8080/60177299034963/6q99jskxwjv4/29981",
+      "http://neoyjpw.top:8080/38175432793718/b6j73ch5n775/29981",
       "http://31.43.191.125:8080/KMAfV8zxWMkS/A2qMwSSVVR6N/147003",
       "http://neoyjpw.top:8080/1061760597105520/2869c7254b3d/29981",
       "http://31.43.191.125:8080/vip921773310177/189ba9335066/1879",
@@ -8219,7 +8219,7 @@
     ],
     "source_file": "FIW_1792095154_2_edcf98_Hunter_4002.m3u",
     "health_status": "reachable",
-    "health_checked_urls": 3,
+    "health_checked_urls": 2,
     "health_promoted": true
   },
   {
@@ -8232,10 +8232,10 @@
     ],
     "raw_group": "UK TV",
     "logo": "",
-    "primary_url": "http://neoyjpw.top:8080/38175432793718/b6j73ch5n775/29982",
+    "primary_url": "http://31.43.191.125:8080/KMAfV8zxWMkS/A2qMwSSVVR6N/1880",
     "alternates": [
-      "http://31.43.191.125:8080/KMAfV8zxWMkS/A2qMwSSVVR6N/1880",
       "http://neoyjpw.top:8080/60177299034963/6q99jskxwjv4/29982",
+      "http://neoyjpw.top:8080/38175432793718/b6j73ch5n775/29982",
       "http://31.43.191.125:8080/KMAfV8zxWMkS/A2qMwSSVVR6N/147004",
       "http://neoyjpw.top:8080/1061760597105520/2869c7254b3d/29982",
       "http://31.43.191.125:8080/vip921773310177/189ba9335066/1880",
@@ -8252,8 +8252,8 @@
     ],
     "source_file": "FIW_1792076988_1_e6a71e_Hunter_39A2.m3u",
     "health_status": "reachable",
-    "health_checked_urls": 3,
-    "health_promoted": true
+    "health_checked_urls": 1,
+    "health_promoted": false
   },
   {
     "id": "dragon_english_bcc919095039",
@@ -8265,9 +8265,9 @@
     ],
     "raw_group": "UK TV",
     "logo": "",
-    "primary_url": "http://neoyjpw.top:8080/60177299034963/6q99jskxwjv4/29983",
+    "primary_url": "http://31.43.191.125:8080/KMAfV8zxWMkS/A2qMwSSVVR6N/1881",
     "alternates": [
-      "http://31.43.191.125:8080/KMAfV8zxWMkS/A2qMwSSVVR6N/1881",
+      "http://neoyjpw.top:8080/60177299034963/6q99jskxwjv4/29983",
       "http://neoyjpw.top:8080/38175432793718/b6j73ch5n775/29983",
       "http://31.43.191.125:8080/KMAfV8zxWMkS/A2qMwSSVVR6N/147012",
       "http://neoyjpw.top:8080/1061760597105520/2869c7254b3d/29983",
@@ -8285,8 +8285,8 @@
     ],
     "source_file": "FIW_1792076988_1_e6a71e_Hunter_39A2.m3u",
     "health_status": "reachable",
-    "health_checked_urls": 2,
-    "health_promoted": true
+    "health_checked_urls": 1,
+    "health_promoted": false
   },
   {
     "id": "dragon_english_fdf8c7f30bb3",
@@ -8422,9 +8422,9 @@
     ],
     "raw_group": "UK ENTERTAINMENT",
     "logo": "http://sltv-icon.cms-s.com/logo/uk/eden_uktv_hd.png",
-    "primary_url": "http://neoyjpw.top:8080/60177299034963/6q99jskxwjv4/29920",
+    "primary_url": "http://31.43.191.125:8080/KMAfV8zxWMkS/A2qMwSSVVR6N/1887",
     "alternates": [
-      "http://31.43.191.125:8080/KMAfV8zxWMkS/A2qMwSSVVR6N/1887",
+      "http://neoyjpw.top:8080/60177299034963/6q99jskxwjv4/29920",
       "http://neoyjpw.top:8080/38175432793718/b6j73ch5n775/29920",
       "http://neoyjpw.top:8080/1061760597105520/2869c7254b3d/29920",
       "http://31.43.191.125:8080/vip921773310177/189ba9335066/1887",
@@ -8437,8 +8437,8 @@
     ],
     "source_file": "FIW_1792095154_2_edcf98_Hunter_4002.m3u",
     "health_status": "reachable",
-    "health_checked_urls": 2,
-    "health_promoted": true
+    "health_checked_urls": 1,
+    "health_promoted": false
   },
   {
     "id": "dragon_english_342114a48d87",
@@ -8611,10 +8611,10 @@
     ],
     "raw_group": "UK/ UNITED KINGDOM",
     "logo": "http://sltv-icon.cms-s.com/logo/UK/BBCPALIAMENT.png",
-    "primary_url": "http://4k.cmn14.com:8080/HakanKara01/XGuSAvs5Kc/231297",
+    "primary_url": "http://neoyjpw.top:8080/60177299034963/6q99jskxwjv4/29947",
     "alternates": [
+      "http://4k.cmn14.com:8080/HakanKara01/XGuSAvs5Kc/231297",
       "http://31.43.191.125:8080/KMAfV8zxWMkS/A2qMwSSVVR6N/1893",
-      "http://neoyjpw.top:8080/60177299034963/6q99jskxwjv4/29947",
       "http://neoyjpw.top:8080/38175432793718/b6j73ch5n775/29947",
       "http://neoyjpw.top:8080/1061760597105520/2869c7254b3d/29947",
       "http://31.43.191.125:8080/vip921773310177/189ba9335066/1893",
@@ -8627,9 +8627,9 @@
       "http://vewora.com:8080/live/700416vib/bg%4053%217%21%21U/9ed756c5-a4f9-46e3-b8a9-64cbf6e21f84.m3u"
     ],
     "source_file": "FIW_1792095154_2_edcf98_Hunter_4002.m3u",
-    "health_status": "unreachable",
+    "health_status": "reachable",
     "health_checked_urls": 3,
-    "health_promoted": false
+    "health_promoted": true
   },
   {
     "id": "dragon_english_ea550924fca3",
@@ -8772,10 +8772,10 @@
     ],
     "raw_group": "NEWS NETWORKS",
     "logo": "https://sltv-icon.cms-s.com/logo/UK/RTENEWS.png",
-    "primary_url": "http://neoyjpw.top:8080/60177299034963/6q99jskxwjv4/29939",
+    "primary_url": "http://31.43.191.125:8080/KMAfV8zxWMkS/A2qMwSSVVR6N/1899",
     "alternates": [
       "http://4k.cmn14.com:8080/HakanKara01/XGuSAvs5Kc/231652",
-      "http://31.43.191.125:8080/KMAfV8zxWMkS/A2qMwSSVVR6N/1899",
+      "http://neoyjpw.top:8080/60177299034963/6q99jskxwjv4/29939",
       "http://neoyjpw.top:8080/38175432793718/b6j73ch5n775/29939",
       "http://neoyjpw.top:8080/1061760597105520/2869c7254b3d/29939",
       "http://31.43.191.125:8080/vip921773310177/189ba9335066/1899",
@@ -8788,7 +8788,7 @@
     ],
     "source_file": "FIW_1792095154_2_edcf98_Hunter_4002.m3u",
     "health_status": "reachable",
-    "health_checked_urls": 3,
+    "health_checked_urls": 2,
     "health_promoted": true
   },
   {
@@ -8923,9 +8923,9 @@
     ],
     "raw_group": "UK | ENGLAND VIP",
     "logo": "",
-    "primary_url": "http://neoyjpw.top:8080/60177299034963/6q99jskxwjv4/29950",
+    "primary_url": "http://31.43.191.125:8080/KMAfV8zxWMkS/A2qMwSSVVR6N/1905",
     "alternates": [
-      "http://31.43.191.125:8080/KMAfV8zxWMkS/A2qMwSSVVR6N/1905",
+      "http://neoyjpw.top:8080/60177299034963/6q99jskxwjv4/29950",
       "http://neoyjpw.top:8080/38175432793718/b6j73ch5n775/29950",
       "http://neoyjpw.top:8080/1061760597105520/2869c7254b3d/29950",
       "http://31.43.191.125:8080/vip921773310177/189ba9335066/1905",
@@ -8935,8 +8935,8 @@
     ],
     "source_file": "FIW_1792076988_1_e6a71e_Hunter_39A2.m3u",
     "health_status": "reachable",
-    "health_checked_urls": 2,
-    "health_promoted": true
+    "health_checked_urls": 1,
+    "health_promoted": false
   },
   {
     "id": "dragon_english_168e8be6c983",
@@ -9040,10 +9040,10 @@
     ],
     "raw_group": "UK TV",
     "logo": "http://sltv-icon.cms-s.com/logo/uk/pbs_america.png",
-    "primary_url": "http://31.43.191.125:8080/KMAfV8zxWMkS/A2qMwSSVVR6N/1910",
+    "primary_url": "http://neoyjpw.top:8080/60177299034963/6q99jskxwjv4/29955",
     "alternates": [
       "http://goood.mine.nu:80/Crisi/S5s58A8KHSJX/45487",
-      "http://neoyjpw.top:8080/60177299034963/6q99jskxwjv4/29955",
+      "http://31.43.191.125:8080/KMAfV8zxWMkS/A2qMwSSVVR6N/1910",
       "http://neoyjpw.top:8080/38175432793718/b6j73ch5n775/29955",
       "http://31.43.191.125:8080/KMAfV8zxWMkS/A2qMwSSVVR6N/146977",
       "http://neoyjpw.top:8080/1061760597105520/2869c7254b3d/29955",
@@ -9062,7 +9062,7 @@
     ],
     "source_file": "FIW_1792095154_2_edcf98_Hunter_4002.m3u",
     "health_status": "reachable",
-    "health_checked_urls": 2,
+    "health_checked_urls": 3,
     "health_promoted": true
   },
   {
@@ -9125,8 +9125,8 @@
       "http://watchdog.build/live/0228902066/tc674KJ3du/db374815-34b2-49ed-b0cf-42415612058c.m3u"
     ],
     "source_file": "FIW_1792095154_2_edcf98_Hunter_4002.m3u",
-    "health_status": "unreachable",
-    "health_checked_urls": 3,
+    "health_status": "reachable",
+    "health_checked_urls": 1,
     "health_promoted": false
   },
   {
@@ -9139,10 +9139,10 @@
     ],
     "raw_group": "UK TV",
     "logo": "https://sltv-icon.cms-s.com/logo/germanynew/AMZ/NOW70S.png",
-    "primary_url": "http://neoyjpw.top:8080/38175432793718/b6j73ch5n775/29958",
+    "primary_url": "http://31.43.191.125:8080/KMAfV8zxWMkS/A2qMwSSVVR6N/1913",
     "alternates": [
-      "http://31.43.191.125:8080/KMAfV8zxWMkS/A2qMwSSVVR6N/1913",
       "http://neoyjpw.top:8080/60177299034963/6q99jskxwjv4/29958",
+      "http://neoyjpw.top:8080/38175432793718/b6j73ch5n775/29958",
       "http://31.43.191.125:8080/KMAfV8zxWMkS/A2qMwSSVVR6N/146972",
       "http://neoyjpw.top:8080/1061760597105520/2869c7254b3d/29958",
       "http://31.43.191.125:8080/vip921773310177/189ba9335066/1913",
@@ -9161,8 +9161,8 @@
     ],
     "source_file": "FIW_1792095154_2_edcf98_Hunter_4002.m3u",
     "health_status": "reachable",
-    "health_checked_urls": 3,
-    "health_promoted": true
+    "health_checked_urls": 1,
+    "health_promoted": false
   },
   {
     "id": "dragon_english_d4b02f37dad9",
@@ -9465,10 +9465,10 @@
     ],
     "raw_group": "UK VIP MUSIC - NEWS",
     "logo": "https://sltv-icon.cms-s.com/LOGO_NEO/UK/MTV_HITS.png",
-    "primary_url": "http://neoyjpw.top:8080/60177299034963/6q99jskxwjv4/29971",
+    "primary_url": "http://31.43.191.125:8080/KMAfV8zxWMkS/A2qMwSSVVR6N/1924",
     "alternates": [
-      "http://31.43.191.125:8080/KMAfV8zxWMkS/A2qMwSSVVR6N/1924",
       "http://neoyjpw.top:8080/60177299034963/6q99jskxwjv4/72254",
+      "http://neoyjpw.top:8080/60177299034963/6q99jskxwjv4/29971",
       "http://neoyjpw.top:8080/38175432793718/b6j73ch5n775/72254",
       "http://neoyjpw.top:8080/38175432793718/b6j73ch5n775/29971",
       "http://31.43.191.125:8080/KMAfV8zxWMkS/A2qMwSSVVR6N/155816",
@@ -9492,8 +9492,8 @@
     ],
     "source_file": "FIW_1792095154_2_edcf98_Hunter_4002.m3u",
     "health_status": "reachable",
-    "health_checked_urls": 3,
-    "health_promoted": true
+    "health_checked_urls": 1,
+    "health_promoted": false
   },
   {
     "id": "dragon_english_af4bcb75b977",
@@ -9505,10 +9505,10 @@
     ],
     "raw_group": "UK VIP MUSIC - NEWS",
     "logo": "https://sltv-icon.cms-s.com/LOGO_NEO/UK/MTV_MUSIC.png",
-    "primary_url": "http://neoyjpw.top:8080/38175432793718/b6j73ch5n775/29972",
+    "primary_url": "http://31.43.191.125:8080/KMAfV8zxWMkS/A2qMwSSVVR6N/1925",
     "alternates": [
-      "http://31.43.191.125:8080/KMAfV8zxWMkS/A2qMwSSVVR6N/1925",
       "http://neoyjpw.top:8080/60177299034963/6q99jskxwjv4/29972",
+      "http://neoyjpw.top:8080/38175432793718/b6j73ch5n775/29972",
       "http://neoyjpw.top:8080/1061760597105520/2869c7254b3d/29972",
       "http://31.43.191.125:8080/vip921773310177/189ba9335066/1925",
       "http://31.43.191.125:8080/vip431771788072/2b5964080105/1925",
@@ -9519,8 +9519,8 @@
     ],
     "source_file": "FIW_1792095154_2_edcf98_Hunter_4002.m3u",
     "health_status": "reachable",
-    "health_checked_urls": 3,
-    "health_promoted": true
+    "health_checked_urls": 1,
+    "health_promoted": false
   },
   {
     "id": "dragon_english_d04be4d97c6d",
@@ -16629,8 +16629,8 @@
       "http://31.43.191.125:8080/VIP018201759945199995/e4accec30246/154763"
     ],
     "source_file": "FIW_1792095223_1_0ee748_Hunter_C3C0.m3u",
-    "health_status": "unreachable",
-    "health_checked_urls": 3,
+    "health_status": "reachable",
+    "health_checked_urls": 1,
     "health_promoted": false
   },
   {
@@ -18738,10 +18738,10 @@
     ],
     "raw_group": "NEWS NETWORKS",
     "logo": "",
-    "primary_url": "http://neoyjpw.top:8080/38175432793718/b6j73ch5n775/71292",
+    "primary_url": "http://4k.cmn14.com:8080/HakanKara01/XGuSAvs5Kc/232109",
     "alternates": [
-      "http://4k.cmn14.com:8080/HakanKara01/XGuSAvs5Kc/232109",
       "http://neoyjpw.top:8080/60177299034963/6q99jskxwjv4/71292",
+      "http://neoyjpw.top:8080/38175432793718/b6j73ch5n775/71292",
       "http://31.43.191.125:8080/KMAfV8zxWMkS/A2qMwSSVVR6N/154854",
       "http://neoyjpw.top:8080/1061760597105520/2869c7254b3d/71292",
       "http://31.43.191.125:8080/vip921773310177/189ba9335066/154854",
@@ -18752,9 +18752,9 @@
       "http://watchdog.build/live/0228902066/tc674KJ3du/f52a1db3-3583-4fbf-ab18-50a98c2c09eb.m3u"
     ],
     "source_file": "FIW_1792077637_2_77bbd4_Hunter_AF0F.m3u",
-    "health_status": "reachable",
+    "health_status": "unreachable",
     "health_checked_urls": 3,
-    "health_promoted": true
+    "health_promoted": false
   },
   {
     "id": "dragon_english_0be436ab92d3",
@@ -18766,10 +18766,10 @@
     ],
     "raw_group": "NEWS NETWORKS",
     "logo": "",
-    "primary_url": "http://neoyjpw.top:8080/60177299034963/6q99jskxwjv4/71293",
+    "primary_url": "http://goood.mine.nu:80/Crisi/S5s58A8KHSJX/45392",
     "alternates": [
-      "http://goood.mine.nu:80/Crisi/S5s58A8KHSJX/45392",
       "http://4k.cmn14.com:8080/HakanKara01/XGuSAvs5Kc/232110",
+      "http://neoyjpw.top:8080/60177299034963/6q99jskxwjv4/71293",
       "http://neoyjpw.top:8080/38175432793718/b6j73ch5n775/71293",
       "http://31.43.191.125:8080/KMAfV8zxWMkS/A2qMwSSVVR6N/154855",
       "http://neoyjpw.top:8080/1061760597105520/2869c7254b3d/71293",
@@ -18781,9 +18781,9 @@
       "http://watchdog.build/live/0228902066/tc674KJ3du/e9fb67b5-212d-410a-beef-f223ef06ff4a.m3u"
     ],
     "source_file": "FIW_1792077637_2_77bbd4_Hunter_AF0F.m3u",
-    "health_status": "reachable",
+    "health_status": "unreachable",
     "health_checked_urls": 3,
-    "health_promoted": true
+    "health_promoted": false
   },
   {
     "id": "dragon_english_375c1f88a0df",
@@ -18795,9 +18795,9 @@
     ],
     "raw_group": "NEWS NETWORKS",
     "logo": "",
-    "primary_url": "http://neoyjpw.top:8080/60177299034963/6q99jskxwjv4/71294",
+    "primary_url": "http://4k.cmn14.com:8080/HakanKara01/XGuSAvs5Kc/232111",
     "alternates": [
-      "http://4k.cmn14.com:8080/HakanKara01/XGuSAvs5Kc/232111",
+      "http://neoyjpw.top:8080/60177299034963/6q99jskxwjv4/71294",
       "http://neoyjpw.top:8080/38175432793718/b6j73ch5n775/71294",
       "http://31.43.191.125:8080/KMAfV8zxWMkS/A2qMwSSVVR6N/154856",
       "http://neoyjpw.top:8080/1061760597105520/2869c7254b3d/71294",
@@ -18809,9 +18809,9 @@
       "http://watchdog.build/live/0228902066/tc674KJ3du/c4848f80-b331-48d1-86c5-c89d31ae9d8d.m3u"
     ],
     "source_file": "FIW_1792077637_2_77bbd4_Hunter_AF0F.m3u",
-    "health_status": "reachable",
-    "health_checked_urls": 2,
-    "health_promoted": true
+    "health_status": "unreachable",
+    "health_checked_urls": 3,
+    "health_promoted": false
   },
   {
     "id": "dragon_english_84d93d9f0dd4",
@@ -18986,10 +18986,10 @@
     ],
     "raw_group": "NEWS NETWORKS",
     "logo": "",
-    "primary_url": "http://4k.cmn14.com:8080/HakanKara01/XGuSAvs5Kc/232118",
+    "primary_url": "http://neoyjpw.top:8080/38175432793718/b6j73ch5n775/71301",
     "alternates": [
+      "http://4k.cmn14.com:8080/HakanKara01/XGuSAvs5Kc/232118",
       "http://neoyjpw.top:8080/60177299034963/6q99jskxwjv4/71301",
-      "http://neoyjpw.top:8080/38175432793718/b6j73ch5n775/71301",
       "http://31.43.191.125:8080/KMAfV8zxWMkS/A2qMwSSVVR6N/154863",
       "http://neoyjpw.top:8080/1061760597105520/2869c7254b3d/71301",
       "http://31.43.191.125:8080/vip921773310177/189ba9335066/154863",
@@ -19002,9 +19002,9 @@
       "http://watchdog.build/live/0228902066/tc674KJ3du/6d042d73-a428-4184-99c8-109cc52d18ba.m3u"
     ],
     "source_file": "FIW_1792077637_2_77bbd4_Hunter_AF0F.m3u",
-    "health_status": "unreachable",
+    "health_status": "reachable",
     "health_checked_urls": 3,
-    "health_promoted": false
+    "health_promoted": true
   },
   {
     "id": "dragon_english_23ee991ac920",
@@ -20166,10 +20166,10 @@
     ],
     "raw_group": "NEWS NETWORKS",
     "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cheddar-news-us.png",
-    "primary_url": "http://31.43.191.125:8080/KMAfV8zxWMkS/A2qMwSSVVR6N/154913",
+    "primary_url": "http://neoyjpw.top:8080/60177299034963/6q99jskxwjv4/71351",
     "alternates": [
-      "http://neoyjpw.top:8080/60177299034963/6q99jskxwjv4/71351",
       "http://neoyjpw.top:8080/38175432793718/b6j73ch5n775/71351",
+      "http://31.43.191.125:8080/KMAfV8zxWMkS/A2qMwSSVVR6N/154913",
       "http://neoyjpw.top:8080/1061760597105520/2869c7254b3d/71351",
       "http://31.43.191.125:8080/vip921773310177/189ba9335066/154913",
       "http://31.43.191.125:8080/vip431771788072/2b5964080105/154913",
@@ -20181,8 +20181,8 @@
     ],
     "source_file": "FIW_1792095154_2_edcf98_Hunter_4002.m3u",
     "health_status": "reachable",
-    "health_checked_urls": 3,
-    "health_promoted": true
+    "health_checked_urls": 1,
+    "health_promoted": false
   },
   {
     "id": "dragon_english_fba492b2e149",
@@ -21442,10 +21442,10 @@
     ],
     "raw_group": "NEWS NETWORKS",
     "logo": "http://onlytimewilltell.xyz:2086/images/e48f93bb225015d64af95220587f81aa.png",
-    "primary_url": "http://neoyjpw.top:8080/38175432793718/b6j73ch5n775/71408",
+    "primary_url": "http://neoyjpw.top:8080/60177299034963/6q99jskxwjv4/71408",
     "alternates": [
       "http://4k.cmn14.com:8080/HakanKara01/XGuSAvs5Kc/231337",
-      "http://neoyjpw.top:8080/60177299034963/6q99jskxwjv4/71408",
+      "http://neoyjpw.top:8080/38175432793718/b6j73ch5n775/71408",
       "http://31.43.191.125:8080/KMAfV8zxWMkS/A2qMwSSVVR6N/154970",
       "http://neoyjpw.top:8080/1061760597105520/2869c7254b3d/71408",
       "http://31.43.191.125:8080/vip921773310177/189ba9335066/154970",
@@ -21457,7 +21457,7 @@
     ],
     "source_file": "FIW_1792077639_1_8d5ac1_Hunter_828F.m3u",
     "health_status": "reachable",
-    "health_checked_urls": 3,
+    "health_checked_urls": 2,
     "health_promoted": true
   },
   {
@@ -23710,10 +23710,10 @@
     ],
     "raw_group": "USA VIP",
     "logo": "",
-    "primary_url": "http://neoyjpw.top:8080/60177299034963/6q99jskxwjv4/71513",
+    "primary_url": "http://neoyjpw.top:8080/38175432793718/b6j73ch5n775/71513",
     "alternates": [
+      "http://neoyjpw.top:8080/60177299034963/6q99jskxwjv4/71513",
       "http://neoyjpw.top:8080/60177299034963/6q99jskxwjv4/71507",
-      "http://neoyjpw.top:8080/38175432793718/b6j73ch5n775/71513",
       "http://neoyjpw.top:8080/38175432793718/b6j73ch5n775/71507",
       "http://31.43.191.125:8080/KMAfV8zxWMkS/A2qMwSSVVR6N/155075",
       "http://31.43.191.125:8080/KMAfV8zxWMkS/A2qMwSSVVR6N/155069",
@@ -23730,8 +23730,8 @@
     ],
     "source_file": "FIW_1792095878_2_52d306_Hunter_BC33.m3u",
     "health_status": "reachable",
-    "health_checked_urls": 1,
-    "health_promoted": false
+    "health_checked_urls": 3,
+    "health_promoted": true
   },
   {
     "id": "dragon_english_843b75a7a539",
@@ -23797,10 +23797,10 @@
     ],
     "raw_group": "US DOCUMENTARY",
     "logo": "",
-    "primary_url": "http://neoyjpw.top:8080/60177299034963/6q99jskxwjv4/71511",
+    "primary_url": "http://neoyjpw.top:8080/38175432793718/b6j73ch5n775/71511",
     "alternates": [
       "http://4k.cmn14.com:8080/HakanKara01/XGuSAvs5Kc/232309",
-      "http://neoyjpw.top:8080/38175432793718/b6j73ch5n775/71511",
+      "http://neoyjpw.top:8080/60177299034963/6q99jskxwjv4/71511",
       "http://31.43.191.125:8080/KMAfV8zxWMkS/A2qMwSSVVR6N/155073",
       "http://neoyjpw.top:8080/1061760597105520/2869c7254b3d/71511",
       "http://31.43.191.125:8080/vip921773310177/189ba9335066/155073",
@@ -23812,7 +23812,7 @@
     ],
     "source_file": "FIW_1792077637_2_77bbd4_Hunter_AF0F.m3u",
     "health_status": "reachable",
-    "health_checked_urls": 2,
+    "health_checked_urls": 3,
     "health_promoted": true
   },
   {
@@ -30924,9 +30924,9 @@
     ],
     "raw_group": "USA",
     "logo": "https://sltv-icon.cms-s.com/LOGO_NEO/US/FOX_BUSINESS_NETWORK_HD.png",
-    "primary_url": "http://goood.mine.nu:80/Crisi/S5s58A8KHSJX/45438",
+    "primary_url": "http://neoyjpw.top:8080/60177299034963/6q99jskxwjv4/71821",
     "alternates": [
-      "http://neoyjpw.top:8080/60177299034963/6q99jskxwjv4/71821",
+      "http://goood.mine.nu:80/Crisi/S5s58A8KHSJX/45438",
       "http://neoyjpw.top:8080/38175432793718/b6j73ch5n775/71821",
       "http://31.43.191.125:8080/KMAfV8zxWMkS/A2qMwSSVVR6N/155383",
       "http://neoyjpw.top:8080/1061760597105520/2869c7254b3d/71821",
@@ -30937,9 +30937,9 @@
       "http://31.43.191.125:8080/VIP018201759945199995/e4accec30246/155383"
     ],
     "source_file": "FIW_1792095154_2_edcf98_Hunter_4002.m3u",
-    "health_status": "unreachable",
-    "health_checked_urls": 3,
-    "health_promoted": false
+    "health_status": "reachable",
+    "health_checked_urls": 2,
+    "health_promoted": true
   },
   {
     "id": "dragon_english_d709d6d370e7",
@@ -32451,9 +32451,9 @@
     ],
     "raw_group": "NEWS NETWORKS",
     "logo": "http://logos.giize.com/logos/logos%20rui/usa/fxn.png",
-    "primary_url": "http://goood.mine.nu:80/Crisi/S5s58A8KHSJX/45440",
+    "primary_url": "http://neoyjpw.top:8080/60177299034963/6q99jskxwjv4/71888",
     "alternates": [
-      "http://neoyjpw.top:8080/60177299034963/6q99jskxwjv4/71888",
+      "http://goood.mine.nu:80/Crisi/S5s58A8KHSJX/45440",
       "http://neoyjpw.top:8080/38175432793718/b6j73ch5n775/71888",
       "http://31.43.191.125:8080/KMAfV8zxWMkS/A2qMwSSVVR6N/155450",
       "http://neoyjpw.top:8080/1061760597105520/2869c7254b3d/71888",
@@ -32465,9 +32465,9 @@
       "http://watchdog.build/live/0228902066/tc674KJ3du/601e83bc-431d-4ea2-a0c4-7bdd4bce6462.m3u"
     ],
     "source_file": "FIW_1792095223_1_0ee748_Hunter_C3C0.m3u",
-    "health_status": "unreachable",
-    "health_checked_urls": 3,
-    "health_promoted": false
+    "health_status": "reachable",
+    "health_checked_urls": 2,
+    "health_promoted": true
   },
   {
     "id": "dragon_english_f9a9deb727d3",
@@ -35729,10 +35729,10 @@
     ],
     "raw_group": "USA",
     "logo": "http://logos.giize.com/logos/logos%20rui/usa/hbw.png",
-    "primary_url": "http://goood.mine.nu:80/Crisi/S5s58A8KHSJX/45460",
+    "primary_url": "http://neoyjpw.top:8080/60177299034963/6q99jskxwjv4/72031",
     "alternates": [
+      "http://goood.mine.nu:80/Crisi/S5s58A8KHSJX/45460",
       "http://4k.cmn14.com:8080/HakanKara01/XGuSAvs5Kc/231772",
-      "http://neoyjpw.top:8080/60177299034963/6q99jskxwjv4/72031",
       "http://neoyjpw.top:8080/38175432793718/b6j73ch5n775/72031",
       "http://31.43.191.125:8080/KMAfV8zxWMkS/A2qMwSSVVR6N/155593",
       "http://neoyjpw.top:8080/1061760597105520/2869c7254b3d/72031",
@@ -35743,9 +35743,9 @@
       "http://31.43.191.125:8080/VIP018201759945199995/e4accec30246/155593"
     ],
     "source_file": "FIW_1792095223_1_0ee748_Hunter_C3C0.m3u",
-    "health_status": "unreachable",
+    "health_status": "reachable",
     "health_checked_urls": 3,
-    "health_promoted": false
+    "health_promoted": true
   },
   {
     "id": "dragon_english_52e9f594f3c8",
@@ -35790,10 +35790,10 @@
     ],
     "raw_group": "USA VIP",
     "logo": "",
-    "primary_url": "http://31.43.191.125:8080/KMAfV8zxWMkS/A2qMwSSVVR6N/155595",
+    "primary_url": "http://neoyjpw.top:8080/60177299034963/6q99jskxwjv4/72033",
     "alternates": [
-      "http://neoyjpw.top:8080/60177299034963/6q99jskxwjv4/72033",
       "http://neoyjpw.top:8080/38175432793718/b6j73ch5n775/72033",
+      "http://31.43.191.125:8080/KMAfV8zxWMkS/A2qMwSSVVR6N/155595",
       "http://neoyjpw.top:8080/1061760597105520/2869c7254b3d/72033",
       "http://31.43.191.125:8080/vip921773310177/189ba9335066/155595",
       "http://31.43.191.125:8080/vip431771788072/2b5964080105/155595",
@@ -35801,9 +35801,9 @@
       "http://31.43.191.125:8080/VIP018201759945199995/e4accec30246/155595"
     ],
     "source_file": "FIW_1792095878_2_52d306_Hunter_BC33.m3u",
-    "health_status": "reachable",
+    "health_status": "unreachable",
     "health_checked_urls": 3,
-    "health_promoted": true
+    "health_promoted": false
   },
   {
     "id": "dragon_english_c02e1c394a74",
@@ -36109,9 +36109,9 @@
     ],
     "raw_group": "USA VIP",
     "logo": "",
-    "primary_url": "http://neoyjpw.top:8080/60177299034963/6q99jskxwjv4/72051",
+    "primary_url": "http://neoyjpw.top:8080/38175432793718/b6j73ch5n775/72051",
     "alternates": [
-      "http://neoyjpw.top:8080/38175432793718/b6j73ch5n775/72051",
+      "http://neoyjpw.top:8080/60177299034963/6q99jskxwjv4/72051",
       "http://31.43.191.125:8080/KMAfV8zxWMkS/A2qMwSSVVR6N/155613",
       "http://neoyjpw.top:8080/1061760597105520/2869c7254b3d/72051",
       "http://31.43.191.125:8080/vip921773310177/189ba9335066/155613",
@@ -36121,8 +36121,8 @@
     ],
     "source_file": "FIW_1792095878_2_52d306_Hunter_BC33.m3u",
     "health_status": "reachable",
-    "health_checked_urls": 1,
-    "health_promoted": false
+    "health_checked_urls": 2,
+    "health_promoted": true
   },
   {
     "id": "dragon_english_75403a993bcf",
@@ -38375,9 +38375,9 @@
     ],
     "raw_group": "CANADIAN TV",
     "logo": "https://sltv-icon.cms-s.com/LOGO_NEO/US/MAGNOLIA_NETWORK.png",
-    "primary_url": "http://neoyjpw.top:8080/60177299034963/6q99jskxwjv4/72149",
+    "primary_url": "http://neoyjpw.top:8080/38175432793718/b6j73ch5n775/72149",
     "alternates": [
-      "http://neoyjpw.top:8080/38175432793718/b6j73ch5n775/72149",
+      "http://neoyjpw.top:8080/60177299034963/6q99jskxwjv4/72149",
       "http://31.43.191.125:8080/KMAfV8zxWMkS/A2qMwSSVVR6N/155711",
       "http://neoyjpw.top:8080/1061760597105520/2869c7254b3d/72149",
       "http://31.43.191.125:8080/vip921773310177/189ba9335066/155711",
@@ -38390,8 +38390,8 @@
     ],
     "source_file": "FIW_1792095154_2_edcf98_Hunter_4002.m3u",
     "health_status": "reachable",
-    "health_checked_urls": 1,
-    "health_promoted": false
+    "health_checked_urls": 2,
+    "health_promoted": true
   },
   {
     "id": "dragon_english_01cd7d06515f",
@@ -38956,9 +38956,9 @@
     ],
     "raw_group": "USA TV",
     "logo": "",
-    "primary_url": "http://neoyjpw.top:8080/38175432793718/b6j73ch5n775/72174",
+    "primary_url": "http://neoyjpw.top:8080/60177299034963/6q99jskxwjv4/72174",
     "alternates": [
-      "http://neoyjpw.top:8080/60177299034963/6q99jskxwjv4/72174",
+      "http://neoyjpw.top:8080/38175432793718/b6j73ch5n775/72174",
       "http://31.43.191.125:8080/KMAfV8zxWMkS/A2qMwSSVVR6N/155736",
       "http://neoyjpw.top:8080/1061760597105520/2869c7254b3d/72174",
       "http://31.43.191.125:8080/vip921773310177/189ba9335066/155736",
@@ -38970,8 +38970,8 @@
     ],
     "source_file": "FIW_1792095878_2_52d306_Hunter_BC33.m3u",
     "health_status": "reachable",
-    "health_checked_urls": 2,
-    "health_promoted": true
+    "health_checked_urls": 1,
+    "health_promoted": false
   },
   {
     "id": "dragon_english_07e8ce0b3b3e",
@@ -40640,9 +40640,9 @@
     ],
     "raw_group": "Canada",
     "logo": "http://sltv-icon.cms-s.com/logo/USA/MSNBCFHD.png",
-    "primary_url": "http://goood.mine.nu:80/Crisi/S5s58A8KHSJX/45123",
+    "primary_url": "http://4k.cmn14.com:8080/HakanKara01/XGuSAvs5Kc/231439",
     "alternates": [
-      "http://4k.cmn14.com:8080/HakanKara01/XGuSAvs5Kc/231439",
+      "http://goood.mine.nu:80/Crisi/S5s58A8KHSJX/45123",
       "http://neoyjpw.top:8080/60177299034963/6q99jskxwjv4/72244",
       "http://neoyjpw.top:8080/38175432793718/b6j73ch5n775/72244",
       "http://31.43.191.125:8080/KMAfV8zxWMkS/A2qMwSSVVR6N/155806",
@@ -40655,8 +40655,8 @@
     ],
     "source_file": "FIW_1792095154_2_edcf98_Hunter_4002.m3u",
     "health_status": "reachable",
-    "health_checked_urls": 1,
-    "health_promoted": false
+    "health_checked_urls": 2,
+    "health_promoted": true
   },
   {
     "id": "dragon_english_6c3ad4f6c284",
@@ -41611,9 +41611,9 @@
     ],
     "raw_group": "USA VIP",
     "logo": "",
-    "primary_url": "http://neoyjpw.top:8080/38175432793718/b6j73ch5n775/72294",
+    "primary_url": "http://neoyjpw.top:8080/60177299034963/6q99jskxwjv4/72294",
     "alternates": [
-      "http://neoyjpw.top:8080/60177299034963/6q99jskxwjv4/72294",
+      "http://neoyjpw.top:8080/38175432793718/b6j73ch5n775/72294",
       "http://31.43.191.125:8080/KMAfV8zxWMkS/A2qMwSSVVR6N/155856",
       "http://neoyjpw.top:8080/1061760597105520/2869c7254b3d/72294",
       "http://31.43.191.125:8080/vip921773310177/189ba9335066/155856",
@@ -41623,8 +41623,8 @@
     ],
     "source_file": "FIW_1792095878_2_52d306_Hunter_BC33.m3u",
     "health_status": "reachable",
-    "health_checked_urls": 2,
-    "health_promoted": true
+    "health_checked_urls": 1,
+    "health_promoted": false
   },
   {
     "id": "dragon_english_85bb184dbbaf",
@@ -52010,9 +52010,9 @@
     ],
     "raw_group": "US NEWS",
     "logo": "http://sltv-icon.cms-s.com/logo/USA/News12-Westchester.png",
-    "primary_url": "http://neoyjpw.top:8080/60177299034963/6q99jskxwjv4/72750",
+    "primary_url": "http://neoyjpw.top:8080/38175432793718/b6j73ch5n775/72750",
     "alternates": [
-      "http://neoyjpw.top:8080/38175432793718/b6j73ch5n775/72750",
+      "http://neoyjpw.top:8080/60177299034963/6q99jskxwjv4/72750",
       "http://31.43.191.125:8080/KMAfV8zxWMkS/A2qMwSSVVR6N/156312",
       "http://neoyjpw.top:8080/1061760597105520/2869c7254b3d/72750",
       "http://31.43.191.125:8080/vip921773310177/189ba9335066/156312",
@@ -52023,8 +52023,8 @@
     ],
     "source_file": "FIW_1792095154_2_edcf98_Hunter_4002.m3u",
     "health_status": "reachable",
-    "health_checked_urls": 1,
-    "health_promoted": false
+    "health_checked_urls": 2,
+    "health_promoted": true
   },
   {
     "id": "dragon_english_de9db0fb943b",
@@ -52036,9 +52036,9 @@
     ],
     "raw_group": "USA VIP",
     "logo": "",
-    "primary_url": "http://neoyjpw.top:8080/38175432793718/b6j73ch5n775/72751",
+    "primary_url": "http://neoyjpw.top:8080/60177299034963/6q99jskxwjv4/72751",
     "alternates": [
-      "http://neoyjpw.top:8080/60177299034963/6q99jskxwjv4/72751",
+      "http://neoyjpw.top:8080/38175432793718/b6j73ch5n775/72751",
       "http://31.43.191.125:8080/KMAfV8zxWMkS/A2qMwSSVVR6N/156313",
       "http://neoyjpw.top:8080/1061760597105520/2869c7254b3d/72751",
       "http://31.43.191.125:8080/vip921773310177/189ba9335066/156313",
@@ -52047,9 +52047,9 @@
       "http://31.43.191.125:8080/VIP018201759945199995/e4accec30246/156313"
     ],
     "source_file": "FIW_1792095878_2_52d306_Hunter_BC33.m3u",
-    "health_status": "reachable",
-    "health_checked_urls": 2,
-    "health_promoted": true
+    "health_status": "unreachable",
+    "health_checked_urls": 3,
+    "health_promoted": false
   },
   {
     "id": "dragon_english_d68ca9d19c7a",
@@ -52163,10 +52163,10 @@
     ],
     "raw_group": "US NEWS",
     "logo": "http://sltv-icon.cms-s.com/logo/USA/News12-Westchester.png",
-    "primary_url": "http://31.43.191.125:8080/KMAfV8zxWMkS/A2qMwSSVVR6N/156318",
+    "primary_url": "http://neoyjpw.top:8080/60177299034963/6q99jskxwjv4/72756",
     "alternates": [
-      "http://neoyjpw.top:8080/60177299034963/6q99jskxwjv4/72756",
       "http://neoyjpw.top:8080/38175432793718/b6j73ch5n775/72756",
+      "http://31.43.191.125:8080/KMAfV8zxWMkS/A2qMwSSVVR6N/156318",
       "http://neoyjpw.top:8080/1061760597105520/2869c7254b3d/72756",
       "http://31.43.191.125:8080/vip921773310177/189ba9335066/156318",
       "http://31.43.191.125:8080/vip431771788072/2b5964080105/156318",
@@ -52176,8 +52176,8 @@
     ],
     "source_file": "FIW_1792095154_2_edcf98_Hunter_4002.m3u",
     "health_status": "reachable",
-    "health_checked_urls": 3,
-    "health_promoted": true
+    "health_checked_urls": 1,
+    "health_promoted": false
   },
   {
     "id": "dragon_english_5357a45b494f",
@@ -52240,10 +52240,10 @@
     ],
     "raw_group": "NEWS NETWORKS",
     "logo": "",
-    "primary_url": "http://31.43.191.125:8080/KMAfV8zxWMkS/A2qMwSSVVR6N/156321",
+    "primary_url": "http://neoyjpw.top:8080/38175432793718/b6j73ch5n775/72759",
     "alternates": [
       "http://neoyjpw.top:8080/60177299034963/6q99jskxwjv4/72759",
-      "http://neoyjpw.top:8080/38175432793718/b6j73ch5n775/72759",
+      "http://31.43.191.125:8080/KMAfV8zxWMkS/A2qMwSSVVR6N/156321",
       "http://neoyjpw.top:8080/1061760597105520/2869c7254b3d/72759",
       "http://31.43.191.125:8080/vip921773310177/189ba9335066/156321",
       "http://31.43.191.125:8080/vip431771788072/2b5964080105/156321",
@@ -52254,7 +52254,7 @@
     ],
     "source_file": "FIW_1792095878_2_52d306_Hunter_BC33.m3u",
     "health_status": "reachable",
-    "health_checked_urls": 3,
+    "health_checked_urls": 2,
     "health_promoted": true
   },
   {
@@ -53654,9 +53654,9 @@
     ],
     "raw_group": "USA VIP",
     "logo": "",
-    "primary_url": "http://neoyjpw.top:8080/60177299034963/6q99jskxwjv4/72828",
+    "primary_url": "http://neoyjpw.top:8080/38175432793718/b6j73ch5n775/72828",
     "alternates": [
-      "http://neoyjpw.top:8080/38175432793718/b6j73ch5n775/72828",
+      "http://neoyjpw.top:8080/60177299034963/6q99jskxwjv4/72828",
       "http://31.43.191.125:8080/KMAfV8zxWMkS/A2qMwSSVVR6N/156390",
       "http://neoyjpw.top:8080/1061760597105520/2869c7254b3d/72828",
       "http://31.43.191.125:8080/vip921773310177/189ba9335066/156390",
@@ -53665,9 +53665,9 @@
       "http://31.43.191.125:8080/VIP018201759945199995/e4accec30246/156390"
     ],
     "source_file": "FIW_1792095878_2_52d306_Hunter_BC33.m3u",
-    "health_status": "unreachable",
-    "health_checked_urls": 3,
-    "health_promoted": false
+    "health_status": "reachable",
+    "health_checked_urls": 2,
+    "health_promoted": true
   },
   {
     "id": "dragon_english_4da23349966d",
@@ -53727,10 +53727,10 @@
     ],
     "raw_group": "USA TV",
     "logo": "http://sltv-icon.cms-s.com/logo/USA/OUTDOORHD.png",
-    "primary_url": "http://neoyjpw.top:8080/38175432793718/b6j73ch5n775/72831",
+    "primary_url": "http://neoyjpw.top:8080/60177299034963/6q99jskxwjv4/72831",
     "alternates": [
       "http://4k.cmn14.com:8080/HakanKara01/XGuSAvs5Kc/231628",
-      "http://neoyjpw.top:8080/60177299034963/6q99jskxwjv4/72831",
+      "http://neoyjpw.top:8080/38175432793718/b6j73ch5n775/72831",
       "http://31.43.191.125:8080/KMAfV8zxWMkS/A2qMwSSVVR6N/25010",
       "http://31.43.191.125:8080/KMAfV8zxWMkS/A2qMwSSVVR6N/156393",
       "http://neoyjpw.top:8080/1061760597105520/2869c7254b3d/72831",
@@ -53748,7 +53748,7 @@
     ],
     "source_file": "FIW_1792095154_2_edcf98_Hunter_4002.m3u",
     "health_status": "reachable",
-    "health_checked_urls": 3,
+    "health_checked_urls": 2,
     "health_promoted": true
   },
   {
@@ -60965,9 +60965,9 @@
     ],
     "raw_group": "US DOCUMENTARY",
     "logo": "https://edge.myriad-gn-xcr.xcr.comcast.net/select/logo?entityId=7931306549273695117&width=131&height=92&gravity=West&extent=true",
-    "primary_url": "http://neoyjpw.top:8080/60177299034963/6q99jskxwjv4/73149",
+    "primary_url": "http://4k.cmn14.com:8080/HakanKara01/XGuSAvs5Kc/231713",
     "alternates": [
-      "http://4k.cmn14.com:8080/HakanKara01/XGuSAvs5Kc/231713",
+      "http://neoyjpw.top:8080/60177299034963/6q99jskxwjv4/73149",
       "http://neoyjpw.top:8080/38175432793718/b6j73ch5n775/73149",
       "http://31.43.191.125:8080/KMAfV8zxWMkS/A2qMwSSVVR6N/156711",
       "http://neoyjpw.top:8080/1061760597105520/2869c7254b3d/73149",
@@ -60978,9 +60978,9 @@
       "http://31.43.191.125:8080/VIP018201759945199995/e4accec30246/156711"
     ],
     "source_file": "FIW_1792095154_2_edcf98_Hunter_4002.m3u",
-    "health_status": "reachable",
-    "health_checked_urls": 2,
-    "health_promoted": true
+    "health_status": "unreachable",
+    "health_checked_urls": 3,
+    "health_promoted": false
   },
   {
     "id": "dragon_english_36ca9c3d3787",
@@ -63002,10 +63002,10 @@
     ],
     "raw_group": "USA VIP",
     "logo": "",
-    "primary_url": "http://neoyjpw.top:8080/38175432793718/b6j73ch5n775/73242",
+    "primary_url": "http://31.43.191.125:8080/KMAfV8zxWMkS/A2qMwSSVVR6N/156804",
     "alternates": [
       "http://neoyjpw.top:8080/60177299034963/6q99jskxwjv4/73242",
-      "http://31.43.191.125:8080/KMAfV8zxWMkS/A2qMwSSVVR6N/156804",
+      "http://neoyjpw.top:8080/38175432793718/b6j73ch5n775/73242",
       "http://neoyjpw.top:8080/1061760597105520/2869c7254b3d/73242",
       "http://31.43.191.125:8080/vip921773310177/189ba9335066/156804",
       "http://31.43.191.125:8080/vip431771788072/2b5964080105/156804",
@@ -63014,7 +63014,7 @@
     ],
     "source_file": "FIW_1792095878_2_52d306_Hunter_BC33.m3u",
     "health_status": "reachable",
-    "health_checked_urls": 2,
+    "health_checked_urls": 3,
     "health_promoted": true
   },
   {
@@ -63952,9 +63952,9 @@
     ],
     "raw_group": "CANADIAN TV",
     "logo": "https://site-cbc.radio-canada.ca/media/2853/logos_pagserv_1920x1080_v216.png",
-    "primary_url": "http://31.43.191.125:8080/KMAfV8zxWMkS/A2qMwSSVVR6N/5414",
+    "primary_url": "http://goood.mine.nu:80/Crisi/S5s58A8KHSJX/45064",
     "alternates": [
-      "http://goood.mine.nu:80/Crisi/S5s58A8KHSJX/45064",
+      "http://31.43.191.125:8080/KMAfV8zxWMkS/A2qMwSSVVR6N/5414",
       "http://neoyjpw.top:8080/60177299034963/6q99jskxwjv4/23704",
       "http://neoyjpw.top:8080/38175432793718/b6j73ch5n775/23704",
       "http://neoyjpw.top:8080/1061760597105520/2869c7254b3d/23704",
@@ -63969,8 +63969,8 @@
     ],
     "source_file": "FIW_1792095154_2_edcf98_Hunter_4002.m3u",
     "health_status": "reachable",
-    "health_checked_urls": 2,
-    "health_promoted": true
+    "health_checked_urls": 1,
+    "health_promoted": false
   },
   {
     "id": "dragon_english_2c6d7ace686e",
@@ -64480,8 +64480,8 @@
       "http://31.43.191.125:8080/VIP018201759945199995/e4accec30246/5441"
     ],
     "source_file": "FIW_1792095223_1_0ee748_Hunter_C3C0.m3u",
-    "health_status": "reachable",
-    "health_checked_urls": 1,
+    "health_status": "unreachable",
+    "health_checked_urls": 3,
     "health_promoted": false
   },
   {
@@ -70517,14 +70517,14 @@
     ],
     "raw_group": "NEWS NETWORKS",
     "logo": "https://pi-lite.spectrum.net/imageserver/guide/123811",
-    "primary_url": "http://watchdog.build/live/0228902066/tc674KJ3du/945fb178-acc9-4056-8c7e-6e9fc4a31caa.m3u",
+    "primary_url": "http://watchdog.build/live/wisam123/53LzhE1g6e/945fb178-acc9-4056-8c7e-6e9fc4a31caa.m3u",
     "alternates": [
-      "http://watchdog.build/live/wisam123/53LzhE1g6e/945fb178-acc9-4056-8c7e-6e9fc4a31caa.m3u"
+      "http://watchdog.build/live/0228902066/tc674KJ3du/945fb178-acc9-4056-8c7e-6e9fc4a31caa.m3u"
     ],
     "source_file": "FIW_1792077639_1_8d5ac1_Hunter_828F.m3u",
     "health_status": "reachable",
-    "health_checked_urls": 2,
-    "health_promoted": true
+    "health_checked_urls": 1,
+    "health_promoted": false
   },
   {
     "id": "dragon_english_3611469ec8f3",
@@ -70612,14 +70612,14 @@
     ],
     "raw_group": "NEWS NETWORKS",
     "logo": "",
-    "primary_url": "http://watchdog.build/live/0228902066/tc674KJ3du/22909509-71c1-419e-a25d-e3531e484200.m3u",
+    "primary_url": "http://watchdog.build/live/wisam123/53LzhE1g6e/22909509-71c1-419e-a25d-e3531e484200.m3u",
     "alternates": [
       "http://vushtrriasl.hups.stream:8080/XmXX6uaAeq/qn4JxSKu5h/767892",
-      "http://watchdog.build/live/wisam123/53LzhE1g6e/22909509-71c1-419e-a25d-e3531e484200.m3u"
+      "http://watchdog.build/live/0228902066/tc674KJ3du/22909509-71c1-419e-a25d-e3531e484200.m3u"
     ],
     "source_file": "FIW_1792095154_2_edcf98_Hunter_4002.m3u",
     "health_status": "reachable",
-    "health_checked_urls": 3,
+    "health_checked_urls": 2,
     "health_promoted": true
   },
   {
@@ -70652,16 +70652,16 @@
     ],
     "raw_group": "NEWS NETWORKS",
     "logo": "https://sltv-icon.cms-s.com/logo/USA/News12Hudson%20Valley.png",
-    "primary_url": "http://vushtrriasl.hups.stream:8080/XmXX6uaAeq/qn4JxSKu5h/767894",
+    "primary_url": "http://watchdog.build/live/wisam123/53LzhE1g6e/dd8881f8-d7d1-4ab9-b205-7b9ea0a9e467.m3u",
     "alternates": [
+      "http://vushtrriasl.hups.stream:8080/XmXX6uaAeq/qn4JxSKu5h/767894",
       "http://vushtrriasl.hups.stream:8080/XmXX6uaAeq/qn4JxSKu5h/767890",
-      "http://watchdog.build/live/wisam123/53LzhE1g6e/dd8881f8-d7d1-4ab9-b205-7b9ea0a9e467.m3u",
       "http://watchdog.build/live/0228902066/tc674KJ3du/dd8881f8-d7d1-4ab9-b205-7b9ea0a9e467.m3u"
     ],
     "source_file": "FIW_1792095154_2_edcf98_Hunter_4002.m3u",
-    "health_status": "unreachable",
+    "health_status": "reachable",
     "health_checked_urls": 3,
-    "health_promoted": false
+    "health_promoted": true
   },
   {
     "id": "dragon_english_65e3d666740b",
@@ -70673,14 +70673,14 @@
     ],
     "raw_group": "NEWS NETWORKS",
     "logo": "https://i.ibb.co/p6FPNcCk/news12plus-LI.jpg",
-    "primary_url": "http://watchdog.build/live/0228902066/tc674KJ3du/4bca8520-ab2b-4392-abd0-5fe0d0b5df78.m3u",
+    "primary_url": "http://watchdog.build/live/wisam123/53LzhE1g6e/4bca8520-ab2b-4392-abd0-5fe0d0b5df78.m3u",
     "alternates": [
       "http://vushtrriasl.hups.stream:8080/XmXX6uaAeq/qn4JxSKu5h/767895",
-      "http://watchdog.build/live/wisam123/53LzhE1g6e/4bca8520-ab2b-4392-abd0-5fe0d0b5df78.m3u"
+      "http://watchdog.build/live/0228902066/tc674KJ3du/4bca8520-ab2b-4392-abd0-5fe0d0b5df78.m3u"
     ],
     "source_file": "FIW_1792095154_2_edcf98_Hunter_4002.m3u",
     "health_status": "reachable",
-    "health_checked_urls": 3,
+    "health_checked_urls": 2,
     "health_promoted": true
   },
   {
@@ -70713,14 +70713,14 @@
     ],
     "raw_group": "NEWS NETWORKS",
     "logo": "http://onlytimewilltell.xyz:2086/images/2d7540ec49bfdb3d75d93357d8ff2339.jpg",
-    "primary_url": "http://watchdog.build/live/0228902066/tc674KJ3du/cc925dc2-2ba5-4ea4-9ea4-d25b82f3a129.m3u",
+    "primary_url": "http://watchdog.build/live/wisam123/53LzhE1g6e/cc925dc2-2ba5-4ea4-9ea4-d25b82f3a129.m3u",
     "alternates": [
-      "http://watchdog.build/live/wisam123/53LzhE1g6e/cc925dc2-2ba5-4ea4-9ea4-d25b82f3a129.m3u"
+      "http://watchdog.build/live/0228902066/tc674KJ3du/cc925dc2-2ba5-4ea4-9ea4-d25b82f3a129.m3u"
     ],
     "source_file": "FIW_1792077639_1_8d5ac1_Hunter_828F.m3u",
     "health_status": "reachable",
-    "health_checked_urls": 2,
-    "health_promoted": true
+    "health_checked_urls": 1,
+    "health_promoted": false
   },
   {
     "id": "dragon_english_4710593bdc74",
@@ -74912,15 +74912,15 @@
     ],
     "raw_group": "UK TV",
     "logo": "http://onlytimewilltell.xyz:2086/images/ccc7886ea67ff6e324b5084f37d4ed63.png",
-    "primary_url": "http://4k.cmn14.com:8080/HakanKara01/XGuSAvs5Kc/231369",
+    "primary_url": "http://watchdog.build/live/wisam123/53LzhE1g6e/5b6bdc6d-538a-4fe8-a27e-6ef626638b77.m3u",
     "alternates": [
-      "http://watchdog.build/live/wisam123/53LzhE1g6e/5b6bdc6d-538a-4fe8-a27e-6ef626638b77.m3u",
+      "http://4k.cmn14.com:8080/HakanKara01/XGuSAvs5Kc/231369",
       "http://watchdog.build/live/0228902066/tc674KJ3du/5b6bdc6d-538a-4fe8-a27e-6ef626638b77.m3u"
     ],
     "source_file": "FIW_1792077639_1_8d5ac1_Hunter_828F.m3u",
-    "health_status": "unreachable",
-    "health_checked_urls": 3,
-    "health_promoted": false
+    "health_status": "reachable",
+    "health_checked_urls": 2,
+    "health_promoted": true
   },
   {
     "id": "dragon_english_fd503f1f9b1e",
@@ -75547,8 +75547,8 @@
       "http://watchdog.build/live/0228902066/tc674KJ3du/a1a40922-909e-4c9e-a22a-df0022f0dd7a.m3u"
     ],
     "source_file": "FIW_1792076988_1_e6a71e_Hunter_39A2.m3u",
-    "health_status": "unreachable",
-    "health_checked_urls": 3,
+    "health_status": "reachable",
+    "health_checked_urls": 1,
     "health_promoted": false
   },
   {
@@ -75561,16 +75561,16 @@
     ],
     "raw_group": "UK TV",
     "logo": "http://onlytimewilltell.xyz:2086/images/e2378a8e76cecf1863501c253bec51a8.png",
-    "primary_url": "http://vushtrriasl.hups.stream:8080/XmXX6uaAeq/qn4JxSKu5h/234570",
+    "primary_url": "http://watchdog.build/live/wisam123/53LzhE1g6e/61f97bf4-b6ce-4e21-a814-fc4278f077e7.m3u",
     "alternates": [
+      "http://vushtrriasl.hups.stream:8080/XmXX6uaAeq/qn4JxSKu5h/234570",
       "http://vushtrriasl.hups.stream:8080/XmXX6uaAeq/qn4JxSKu5h/234545",
-      "http://watchdog.build/live/wisam123/53LzhE1g6e/61f97bf4-b6ce-4e21-a814-fc4278f077e7.m3u",
       "http://watchdog.build/live/0228902066/tc674KJ3du/61f97bf4-b6ce-4e21-a814-fc4278f077e7.m3u"
     ],
     "source_file": "FIW_1792077639_1_8d5ac1_Hunter_828F.m3u",
-    "health_status": "unreachable",
+    "health_status": "reachable",
     "health_checked_urls": 3,
-    "health_promoted": false
+    "health_promoted": true
   },
   {
     "id": "dragon_english_9fcda7b79f93",
@@ -76010,14 +76010,14 @@
     ],
     "raw_group": "UK TV",
     "logo": "http://030012034612/images/119adfe6ca397bdf95584601e09acf10.png",
-    "primary_url": "http://watchdog.build/live/0228902066/tc674KJ3du/ea48dc57-3e75-48e7-9bf6-02af0ea46122.m3u",
+    "primary_url": "http://watchdog.build/live/wisam123/53LzhE1g6e/ea48dc57-3e75-48e7-9bf6-02af0ea46122.m3u",
     "alternates": [
-      "http://watchdog.build/live/wisam123/53LzhE1g6e/ea48dc57-3e75-48e7-9bf6-02af0ea46122.m3u"
+      "http://watchdog.build/live/0228902066/tc674KJ3du/ea48dc57-3e75-48e7-9bf6-02af0ea46122.m3u"
     ],
     "source_file": "FIW_1792077639_1_8d5ac1_Hunter_828F.m3u",
     "health_status": "reachable",
-    "health_checked_urls": 2,
-    "health_promoted": true
+    "health_checked_urls": 1,
+    "health_promoted": false
   },
   {
     "id": "dragon_english_c5ef57bd995b",
@@ -99214,7 +99214,7 @@
     "primary_url": "http://extsmarterspro2302.shop:8080/cnr1224/c77705ce1b4600fe/626149",
     "alternates": [],
     "source_file": "FIW_1792095558_1_a9a1f6_Hunter_6A1B.m3u",
-    "health_status": "unreachable",
+    "health_status": "reachable",
     "health_checked_urls": 1,
     "health_promoted": false
   },
@@ -99947,7 +99947,7 @@
     "primary_url": "http://extsmarterspro2302.shop:8080/cnr1224/c77705ce1b4600fe/643600",
     "alternates": [],
     "source_file": "FIW_1792095558_1_a9a1f6_Hunter_6A1B.m3u",
-    "health_status": "unreachable",
+    "health_status": "reachable",
     "health_checked_urls": 1,
     "health_promoted": false
   },
@@ -99967,8 +99967,8 @@
       "http://extsmarterspro2302.shop:8080/cnr1224/c77705ce1b4600fe/643169"
     ],
     "source_file": "FIW_1792095558_1_a9a1f6_Hunter_6A1B.m3u",
-    "health_status": "unreachable",
-    "health_checked_urls": 2,
+    "health_status": "reachable",
+    "health_checked_urls": 1,
     "health_promoted": false
   },
   {
@@ -100071,7 +100071,7 @@
     "primary_url": "http://extsmarterspro2302.shop:8080/cnr1224/c77705ce1b4600fe/650262",
     "alternates": [],
     "source_file": "FIW_1792095558_1_a9a1f6_Hunter_6A1B.m3u",
-    "health_status": "unreachable",
+    "health_status": "reachable",
     "health_checked_urls": 1,
     "health_promoted": false
   },
@@ -100133,7 +100133,7 @@
     "primary_url": "http://extsmarterspro2302.shop:8080/cnr1224/c77705ce1b4600fe/627180",
     "alternates": [],
     "source_file": "FIW_1792095558_1_a9a1f6_Hunter_6A1B.m3u",
-    "health_status": "unreachable",
+    "health_status": "reachable",
     "health_checked_urls": 1,
     "health_promoted": false
   },
@@ -101800,8 +101800,8 @@
       "http://31.43.191.125:8080/VIP018201759945199995/e4accec30246/146938"
     ],
     "source_file": "FIW_1792095154_2_edcf98_Hunter_4002.m3u",
-    "health_status": "unreachable",
-    "health_checked_urls": 3,
+    "health_status": "reachable",
+    "health_checked_urls": 1,
     "health_promoted": false
   },
   {
@@ -102528,7 +102528,7 @@
     "primary_url": "http://caffe.link:25461/65tomislavrajicfrend/pOkeqhfnsB/1542",
     "alternates": [],
     "source_file": "FIW_1792095228_2_5a0eed_Hunter_8D53.m3u",
-    "health_status": "reachable",
+    "health_status": "unreachable",
     "health_checked_urls": 1,
     "health_promoted": false
   },
@@ -102704,7 +102704,7 @@
     "primary_url": "http://caffe.link:25461/65tomislavrajicfrend/pOkeqhfnsB/3699",
     "alternates": [],
     "source_file": "FIW_1792095228_2_5a0eed_Hunter_8D53.m3u",
-    "health_status": "reachable",
+    "health_status": "unreachable",
     "health_checked_urls": 1,
     "health_promoted": false
   },
@@ -103003,15 +103003,15 @@
     ],
     "raw_group": "USA",
     "logo": "http://sltv-icon.cms-s.com/logo/USA/CBSHD.png",
-    "primary_url": "http://vushtrriasl.hups.stream:8080/XmXX6uaAeq/qn4JxSKu5h/211810",
+    "primary_url": "http://goood.mine.nu:80/Crisi/S5s58A8KHSJX/45391",
     "alternates": [
-      "http://goood.mine.nu:80/Crisi/S5s58A8KHSJX/45391",
-      "http://4k.cmn14.com:8080/HakanKara01/XGuSAvs5Kc/232095"
+      "http://4k.cmn14.com:8080/HakanKara01/XGuSAvs5Kc/232095",
+      "http://vushtrriasl.hups.stream:8080/XmXX6uaAeq/qn4JxSKu5h/211810"
     ],
     "source_file": "FIW_1792095154_2_edcf98_Hunter_4002.m3u",
-    "health_status": "reachable",
+    "health_status": "unreachable",
     "health_checked_urls": 3,
-    "health_promoted": true
+    "health_promoted": false
   },
   {
     "id": "dragon_english_eb6a49115e7a",
@@ -103498,15 +103498,15 @@
     ],
     "raw_group": "USA",
     "logo": "http://sltv-icon.cms-s.com/logo/USA/WEATHERCHANNEL.png",
-    "primary_url": "http://vushtrriasl.hups.stream:8080/XmXX6uaAeq/qn4JxSKu5h/282861",
+    "primary_url": "http://goood.mine.nu:80/Crisi/S5s58A8KHSJX/45505",
     "alternates": [
-      "http://goood.mine.nu:80/Crisi/S5s58A8KHSJX/45505",
-      "http://4k.cmn14.com:8080/HakanKara01/XGuSAvs5Kc/231706"
+      "http://4k.cmn14.com:8080/HakanKara01/XGuSAvs5Kc/231706",
+      "http://vushtrriasl.hups.stream:8080/XmXX6uaAeq/qn4JxSKu5h/282861"
     ],
     "source_file": "FIW_1792095154_2_edcf98_Hunter_4002.m3u",
-    "health_status": "reachable",
+    "health_status": "unreachable",
     "health_checked_urls": 3,
-    "health_promoted": true
+    "health_promoted": false
   },
   {
     "id": "dragon_english_4e5ac3951197",
@@ -111207,8 +111207,8 @@
       "http://31.43.191.125:8080/VIP018201759945199995/e4accec30246/146981"
     ],
     "source_file": "FIW_1792095154_2_edcf98_Hunter_4002.m3u",
-    "health_status": "unreachable",
-    "health_checked_urls": 3,
+    "health_status": "reachable",
+    "health_checked_urls": 1,
     "health_promoted": false
   },
   {
@@ -111372,8 +111372,8 @@
       "http://31.43.191.125:8080/VIP018201759945199995/e4accec30246/147035"
     ],
     "source_file": "FIW_1792095154_2_edcf98_Hunter_4002.m3u",
-    "health_status": "unreachable",
-    "health_checked_urls": 3,
+    "health_status": "reachable",
+    "health_checked_urls": 1,
     "health_promoted": false
   },
   {
@@ -113352,19 +113352,19 @@
     ],
     "raw_group": "US NEWS",
     "logo": "https:/docdog.top/logo/countries/australia/abc-au.png",
-    "primary_url": "http://31.43.191.125:8080/vip921773310177/189ba9335066/25020",
+    "primary_url": "http://4k.cmn14.com:8080/HakanKara01/XGuSAvs5Kc/231268",
     "alternates": [
-      "http://4k.cmn14.com:8080/HakanKara01/XGuSAvs5Kc/231268",
       "http://31.43.191.125:8080/KMAfV8zxWMkS/A2qMwSSVVR6N/25020",
+      "http://31.43.191.125:8080/vip921773310177/189ba9335066/25020",
       "http://31.43.191.125:8080/vip431771788072/2b5964080105/25020",
       "http://31.43.191.125:8080/vip4871770762623/3fad5d18fc96/25020",
       "http://vushtrriasl.hups.stream:8080/XmXX6uaAeq/qn4JxSKu5h/130946",
       "http://31.43.191.125:8080/VIP018201759945199995/e4accec30246/25020"
     ],
     "source_file": "FIW_1792076988_1_e6a71e_Hunter_39A2.m3u",
-    "health_status": "reachable",
+    "health_status": "unreachable",
     "health_checked_urls": 3,
-    "health_promoted": true
+    "health_promoted": false
   },
   {
     "id": "dragon_english_de11381175f9",
@@ -115757,7 +115757,7 @@
     "primary_url": "http://vushtrriasl.hups.stream:8080/XmXX6uaAeq/qn4JxSKu5h/771526",
     "alternates": [],
     "source_file": "FIW_1792095154_2_edcf98_Hunter_4002.m3u",
-    "health_status": "reachable",
+    "health_status": "unreachable",
     "health_checked_urls": 1,
     "health_promoted": false
   },
@@ -124349,7 +124349,7 @@
     "primary_url": "http://vushtrriasl.hups.stream:8080/XmXX6uaAeq/qn4JxSKu5h/211769",
     "alternates": [],
     "source_file": "FIW_1792095154_2_edcf98_Hunter_4002.m3u",
-    "health_status": "reachable",
+    "health_status": "unreachable",
     "health_checked_urls": 1,
     "health_promoted": false
   },
@@ -124417,7 +124417,7 @@
     "primary_url": "http://vushtrriasl.hups.stream:8080/XmXX6uaAeq/qn4JxSKu5h/211777",
     "alternates": [],
     "source_file": "FIW_1792095154_2_edcf98_Hunter_4002.m3u",
-    "health_status": "reachable",
+    "health_status": "unreachable",
     "health_checked_urls": 1,
     "health_promoted": false
   },
@@ -124468,7 +124468,7 @@
     "primary_url": "http://vushtrriasl.hups.stream:8080/XmXX6uaAeq/qn4JxSKu5h/211753",
     "alternates": [],
     "source_file": "FIW_1792095154_2_edcf98_Hunter_4002.m3u",
-    "health_status": "reachable",
+    "health_status": "unreachable",
     "health_checked_urls": 1,
     "health_promoted": false
   },
@@ -124485,7 +124485,7 @@
     "primary_url": "http://vushtrriasl.hups.stream:8080/XmXX6uaAeq/qn4JxSKu5h/211767",
     "alternates": [],
     "source_file": "FIW_1792095154_2_edcf98_Hunter_4002.m3u",
-    "health_status": "reachable",
+    "health_status": "unreachable",
     "health_checked_urls": 1,
     "health_promoted": false
   },
@@ -124502,7 +124502,7 @@
     "primary_url": "http://vushtrriasl.hups.stream:8080/XmXX6uaAeq/qn4JxSKu5h/211766",
     "alternates": [],
     "source_file": "FIW_1792095154_2_edcf98_Hunter_4002.m3u",
-    "health_status": "reachable",
+    "health_status": "unreachable",
     "health_checked_urls": 1,
     "health_promoted": false
   },
@@ -124604,7 +124604,7 @@
     "primary_url": "http://vushtrriasl.hups.stream:8080/XmXX6uaAeq/qn4JxSKu5h/211755",
     "alternates": [],
     "source_file": "FIW_1792095154_2_edcf98_Hunter_4002.m3u",
-    "health_status": "reachable",
+    "health_status": "unreachable",
     "health_checked_urls": 1,
     "health_promoted": false
   },
@@ -124686,14 +124686,14 @@
     ],
     "raw_group": "US NEWS",
     "logo": "",
-    "primary_url": "http://vushtrriasl.hups.stream:8080/XmXX6uaAeq/qn4JxSKu5h/227683",
+    "primary_url": "http://4k.cmn14.com:8080/HakanKara01/XGuSAvs5Kc/231318",
     "alternates": [
-      "http://4k.cmn14.com:8080/HakanKara01/XGuSAvs5Kc/231318"
+      "http://vushtrriasl.hups.stream:8080/XmXX6uaAeq/qn4JxSKu5h/227683"
     ],
     "source_file": "FIW_1792077637_2_77bbd4_Hunter_AF0F.m3u",
-    "health_status": "reachable",
+    "health_status": "unreachable",
     "health_checked_urls": 2,
-    "health_promoted": true
+    "health_promoted": false
   },
   {
     "id": "dragon_english_0f39232826d2",
@@ -124759,7 +124759,7 @@
     "primary_url": "http://vushtrriasl.hups.stream:8080/XmXX6uaAeq/qn4JxSKu5h/210550",
     "alternates": [],
     "source_file": "FIW_1792095154_2_edcf98_Hunter_4002.m3u",
-    "health_status": "reachable",
+    "health_status": "unreachable",
     "health_checked_urls": 1,
     "health_promoted": false
   },
@@ -124790,14 +124790,14 @@
     ],
     "raw_group": "US NEWS",
     "logo": "http://sltv-icon.cms-s.com/logo/USA/CBSHD.png",
-    "primary_url": "http://vushtrriasl.hups.stream:8080/XmXX6uaAeq/qn4JxSKu5h/211815",
+    "primary_url": "http://4k.cmn14.com:8080/HakanKara01/XGuSAvs5Kc/232091",
     "alternates": [
-      "http://4k.cmn14.com:8080/HakanKara01/XGuSAvs5Kc/232091"
+      "http://vushtrriasl.hups.stream:8080/XmXX6uaAeq/qn4JxSKu5h/211815"
     ],
     "source_file": "FIW_1792095154_2_edcf98_Hunter_4002.m3u",
-    "health_status": "reachable",
+    "health_status": "unreachable",
     "health_checked_urls": 2,
-    "health_promoted": true
+    "health_promoted": false
   },
   {
     "id": "dragon_english_85eda30d4563",
@@ -124809,14 +124809,14 @@
     ],
     "raw_group": "US NEWS",
     "logo": "http://sltv-icon.cms-s.com/logo/USA/CBSHD.png",
-    "primary_url": "http://vushtrriasl.hups.stream:8080/XmXX6uaAeq/qn4JxSKu5h/211814",
+    "primary_url": "http://4k.cmn14.com:8080/HakanKara01/XGuSAvs5Kc/232092",
     "alternates": [
-      "http://4k.cmn14.com:8080/HakanKara01/XGuSAvs5Kc/232092"
+      "http://vushtrriasl.hups.stream:8080/XmXX6uaAeq/qn4JxSKu5h/211814"
     ],
     "source_file": "FIW_1792095154_2_edcf98_Hunter_4002.m3u",
-    "health_status": "reachable",
+    "health_status": "unreachable",
     "health_checked_urls": 2,
-    "health_promoted": true
+    "health_promoted": false
   },
   {
     "id": "dragon_english_6ea812ec02d4",
@@ -124918,7 +124918,7 @@
     "primary_url": "http://vushtrriasl.hups.stream:8080/XmXX6uaAeq/qn4JxSKu5h/211806",
     "alternates": [],
     "source_file": "FIW_1792095154_2_edcf98_Hunter_4002.m3u",
-    "health_status": "reachable",
+    "health_status": "unreachable",
     "health_checked_urls": 1,
     "health_promoted": false
   },
@@ -124932,14 +124932,14 @@
     ],
     "raw_group": "US NEWS",
     "logo": "https://i.ibb.co/4btcXx5/kanal-default-logo.png",
-    "primary_url": "http://vushtrriasl.hups.stream:8080/XmXX6uaAeq/qn4JxSKu5h/211805",
+    "primary_url": "http://4k.cmn14.com:8080/HakanKara01/XGuSAvs5Kc/232098",
     "alternates": [
-      "http://4k.cmn14.com:8080/HakanKara01/XGuSAvs5Kc/232098"
+      "http://vushtrriasl.hups.stream:8080/XmXX6uaAeq/qn4JxSKu5h/211805"
     ],
     "source_file": "FIW_1792095154_2_edcf98_Hunter_4002.m3u",
-    "health_status": "reachable",
+    "health_status": "unreachable",
     "health_checked_urls": 2,
-    "health_promoted": true
+    "health_promoted": false
   },
   {
     "id": "dragon_english_bb367db78bba",
@@ -124985,14 +124985,14 @@
     ],
     "raw_group": "US NEWS",
     "logo": "http://sltv-icon.cms-s.com/logo/USA/CBSHD.png",
-    "primary_url": "http://vushtrriasl.hups.stream:8080/XmXX6uaAeq/qn4JxSKu5h/211802",
+    "primary_url": "http://4k.cmn14.com:8080/HakanKara01/XGuSAvs5Kc/232100",
     "alternates": [
-      "http://4k.cmn14.com:8080/HakanKara01/XGuSAvs5Kc/232100"
+      "http://vushtrriasl.hups.stream:8080/XmXX6uaAeq/qn4JxSKu5h/211802"
     ],
     "source_file": "FIW_1792095154_2_edcf98_Hunter_4002.m3u",
-    "health_status": "reachable",
+    "health_status": "unreachable",
     "health_checked_urls": 2,
-    "health_promoted": true
+    "health_promoted": false
   },
   {
     "id": "dragon_english_8e34134a8301",
@@ -125061,14 +125061,14 @@
     ],
     "raw_group": "US NEWS",
     "logo": "http://sltv-icon.cms-s.com/logo/USA/CBSHD.png",
-    "primary_url": "http://vushtrriasl.hups.stream:8080/XmXX6uaAeq/qn4JxSKu5h/211798",
+    "primary_url": "http://4k.cmn14.com:8080/HakanKara01/XGuSAvs5Kc/232105",
     "alternates": [
-      "http://4k.cmn14.com:8080/HakanKara01/XGuSAvs5Kc/232105"
+      "http://vushtrriasl.hups.stream:8080/XmXX6uaAeq/qn4JxSKu5h/211798"
     ],
     "source_file": "FIW_1792095154_2_edcf98_Hunter_4002.m3u",
-    "health_status": "reachable",
+    "health_status": "unreachable",
     "health_checked_urls": 2,
-    "health_promoted": true
+    "health_promoted": false
   },
   {
     "id": "dragon_english_efb5ddd0b9b4",
@@ -125099,14 +125099,14 @@
     ],
     "raw_group": "US NEWS",
     "logo": "http://sltv-icon.cms-s.com/logo/USA/CBSHD.png",
-    "primary_url": "http://vushtrriasl.hups.stream:8080/XmXX6uaAeq/qn4JxSKu5h/211794",
+    "primary_url": "http://4k.cmn14.com:8080/HakanKara01/XGuSAvs5Kc/232127",
     "alternates": [
-      "http://4k.cmn14.com:8080/HakanKara01/XGuSAvs5Kc/232127"
+      "http://vushtrriasl.hups.stream:8080/XmXX6uaAeq/qn4JxSKu5h/211794"
     ],
     "source_file": "FIW_1792095154_2_edcf98_Hunter_4002.m3u",
-    "health_status": "reachable",
+    "health_status": "unreachable",
     "health_checked_urls": 2,
-    "health_promoted": true
+    "health_promoted": false
   },
   {
     "id": "dragon_english_9704714c0890",
@@ -125155,7 +125155,7 @@
     "primary_url": "http://vushtrriasl.hups.stream:8080/XmXX6uaAeq/qn4JxSKu5h/211791",
     "alternates": [],
     "source_file": "FIW_1792095154_2_edcf98_Hunter_4002.m3u",
-    "health_status": "reachable",
+    "health_status": "unreachable",
     "health_checked_urls": 1,
     "health_promoted": false
   },
@@ -125172,7 +125172,7 @@
     "primary_url": "http://vushtrriasl.hups.stream:8080/XmXX6uaAeq/qn4JxSKu5h/211790",
     "alternates": [],
     "source_file": "FIW_1792095154_2_edcf98_Hunter_4002.m3u",
-    "health_status": "reachable",
+    "health_status": "unreachable",
     "health_checked_urls": 1,
     "health_promoted": false
   },
@@ -125299,8 +125299,8 @@
       "http://vushtrriasl.hups.stream:8080/XmXX6uaAeq/qn4JxSKu5h/210551"
     ],
     "source_file": "FIW_1792095154_2_edcf98_Hunter_4002.m3u",
-    "health_status": "reachable",
-    "health_checked_urls": 1,
+    "health_status": "unreachable",
+    "health_checked_urls": 2,
     "health_promoted": false
   },
   {
@@ -125335,7 +125335,7 @@
     "primary_url": "http://vushtrriasl.hups.stream:8080/XmXX6uaAeq/qn4JxSKu5h/211848",
     "alternates": [],
     "source_file": "FIW_1792095154_2_edcf98_Hunter_4002.m3u",
-    "health_status": "reachable",
+    "health_status": "unreachable",
     "health_checked_urls": 1,
     "health_promoted": false
   },
@@ -125349,14 +125349,14 @@
     ],
     "raw_group": "US NEWS",
     "logo": "https://i.imgur.com/turWday.png",
-    "primary_url": "http://vushtrriasl.hups.stream:8080/XmXX6uaAeq/qn4JxSKu5h/211847",
+    "primary_url": "http://4k.cmn14.com:8080/HakanKara01/XGuSAvs5Kc/232207",
     "alternates": [
-      "http://4k.cmn14.com:8080/HakanKara01/XGuSAvs5Kc/232207"
+      "http://vushtrriasl.hups.stream:8080/XmXX6uaAeq/qn4JxSKu5h/211847"
     ],
     "source_file": "FIW_1792095154_2_edcf98_Hunter_4002.m3u",
-    "health_status": "reachable",
+    "health_status": "unreachable",
     "health_checked_urls": 2,
-    "health_promoted": true
+    "health_promoted": false
   },
   {
     "id": "dragon_english_5cbd4c957045",
@@ -125423,14 +125423,14 @@
     ],
     "raw_group": "US NEWS",
     "logo": "https://i.imgur.com/turWday.png",
-    "primary_url": "http://vushtrriasl.hups.stream:8080/XmXX6uaAeq/qn4JxSKu5h/211843",
+    "primary_url": "http://4k.cmn14.com:8080/HakanKara01/XGuSAvs5Kc/232221",
     "alternates": [
-      "http://4k.cmn14.com:8080/HakanKara01/XGuSAvs5Kc/232221"
+      "http://vushtrriasl.hups.stream:8080/XmXX6uaAeq/qn4JxSKu5h/211843"
     ],
     "source_file": "FIW_1792095154_2_edcf98_Hunter_4002.m3u",
-    "health_status": "reachable",
+    "health_status": "unreachable",
     "health_checked_urls": 2,
-    "health_promoted": true
+    "health_promoted": false
   },
   {
     "id": "dragon_english_afdb383e7e14",
@@ -125442,14 +125442,14 @@
     ],
     "raw_group": "US NEWS",
     "logo": "https://i.imgur.com/turWday.png",
-    "primary_url": "http://vushtrriasl.hups.stream:8080/XmXX6uaAeq/qn4JxSKu5h/211841",
+    "primary_url": "http://4k.cmn14.com:8080/HakanKara01/XGuSAvs5Kc/232222",
     "alternates": [
-      "http://4k.cmn14.com:8080/HakanKara01/XGuSAvs5Kc/232222"
+      "http://vushtrriasl.hups.stream:8080/XmXX6uaAeq/qn4JxSKu5h/211841"
     ],
     "source_file": "FIW_1792095154_2_edcf98_Hunter_4002.m3u",
-    "health_status": "reachable",
+    "health_status": "unreachable",
     "health_checked_urls": 2,
-    "health_promoted": true
+    "health_promoted": false
   },
   {
     "id": "dragon_english_eb53f3563819",
@@ -125464,7 +125464,7 @@
     "primary_url": "http://vushtrriasl.hups.stream:8080/XmXX6uaAeq/qn4JxSKu5h/211839",
     "alternates": [],
     "source_file": "FIW_1792095154_2_edcf98_Hunter_4002.m3u",
-    "health_status": "reachable",
+    "health_status": "unreachable",
     "health_checked_urls": 1,
     "health_promoted": false
   },
@@ -125478,14 +125478,14 @@
     ],
     "raw_group": "US NEWS",
     "logo": "https://i.imgur.com/turWday.png",
-    "primary_url": "http://vushtrriasl.hups.stream:8080/XmXX6uaAeq/qn4JxSKu5h/211838",
+    "primary_url": "http://4k.cmn14.com:8080/HakanKara01/XGuSAvs5Kc/232229",
     "alternates": [
-      "http://4k.cmn14.com:8080/HakanKara01/XGuSAvs5Kc/232229"
+      "http://vushtrriasl.hups.stream:8080/XmXX6uaAeq/qn4JxSKu5h/211838"
     ],
     "source_file": "FIW_1792095154_2_edcf98_Hunter_4002.m3u",
-    "health_status": "reachable",
+    "health_status": "unreachable",
     "health_checked_urls": 2,
-    "health_promoted": true
+    "health_promoted": false
   },
   {
     "id": "dragon_english_4757ebfdc65c",
@@ -125500,7 +125500,7 @@
     "primary_url": "http://vushtrriasl.hups.stream:8080/XmXX6uaAeq/qn4JxSKu5h/211837",
     "alternates": [],
     "source_file": "FIW_1792095154_2_edcf98_Hunter_4002.m3u",
-    "health_status": "reachable",
+    "health_status": "unreachable",
     "health_checked_urls": 1,
     "health_promoted": false
   },
@@ -125514,14 +125514,14 @@
     ],
     "raw_group": "US NEWS",
     "logo": "https://i.imgur.com/YRiulCU.png",
-    "primary_url": "http://4k.cmn14.com:8080/HakanKara01/XGuSAvs5Kc/232172",
+    "primary_url": "http://vushtrriasl.hups.stream:8080/XmXX6uaAeq/qn4JxSKu5h/211836",
     "alternates": [
-      "http://vushtrriasl.hups.stream:8080/XmXX6uaAeq/qn4JxSKu5h/211836"
+      "http://4k.cmn14.com:8080/HakanKara01/XGuSAvs5Kc/232172"
     ],
     "source_file": "FIW_1792095154_2_edcf98_Hunter_4002.m3u",
-    "health_status": "unreachable",
+    "health_status": "reachable",
     "health_checked_urls": 2,
-    "health_promoted": false
+    "health_promoted": true
   },
   {
     "id": "dragon_english_ea9e8655b289",
@@ -125567,14 +125567,14 @@
     ],
     "raw_group": "US NEWS",
     "logo": "https://i.imgur.com/turWday.png",
-    "primary_url": "http://4k.cmn14.com:8080/HakanKara01/XGuSAvs5Kc/232248",
+    "primary_url": "http://vushtrriasl.hups.stream:8080/XmXX6uaAeq/qn4JxSKu5h/211833",
     "alternates": [
-      "http://vushtrriasl.hups.stream:8080/XmXX6uaAeq/qn4JxSKu5h/211833"
+      "http://4k.cmn14.com:8080/HakanKara01/XGuSAvs5Kc/232248"
     ],
     "source_file": "FIW_1792095154_2_edcf98_Hunter_4002.m3u",
-    "health_status": "unreachable",
+    "health_status": "reachable",
     "health_checked_urls": 2,
-    "health_promoted": false
+    "health_promoted": true
   },
   {
     "id": "dragon_english_1b08ca783754",
@@ -125589,7 +125589,7 @@
     "primary_url": "http://vushtrriasl.hups.stream:8080/XmXX6uaAeq/qn4JxSKu5h/211832",
     "alternates": [],
     "source_file": "FIW_1792095154_2_edcf98_Hunter_4002.m3u",
-    "health_status": "reachable",
+    "health_status": "unreachable",
     "health_checked_urls": 1,
     "health_promoted": false
   },
@@ -125606,7 +125606,7 @@
     "primary_url": "http://vushtrriasl.hups.stream:8080/XmXX6uaAeq/qn4JxSKu5h/211831",
     "alternates": [],
     "source_file": "FIW_1792095154_2_edcf98_Hunter_4002.m3u",
-    "health_status": "reachable",
+    "health_status": "unreachable",
     "health_checked_urls": 1,
     "health_promoted": false
   },
@@ -125637,14 +125637,14 @@
     ],
     "raw_group": "US NEWS",
     "logo": "https://i.imgur.com/turWday.png",
-    "primary_url": "http://4k.cmn14.com:8080/HakanKara01/XGuSAvs5Kc/232255",
+    "primary_url": "http://vushtrriasl.hups.stream:8080/XmXX6uaAeq/qn4JxSKu5h/211828",
     "alternates": [
-      "http://vushtrriasl.hups.stream:8080/XmXX6uaAeq/qn4JxSKu5h/211828"
+      "http://4k.cmn14.com:8080/HakanKara01/XGuSAvs5Kc/232255"
     ],
     "source_file": "FIW_1792095154_2_edcf98_Hunter_4002.m3u",
-    "health_status": "unreachable",
+    "health_status": "reachable",
     "health_checked_urls": 2,
-    "health_promoted": false
+    "health_promoted": true
   },
   {
     "id": "dragon_english_62596ae54ad2",
@@ -125678,7 +125678,7 @@
     "primary_url": "http://vushtrriasl.hups.stream:8080/XmXX6uaAeq/qn4JxSKu5h/211826",
     "alternates": [],
     "source_file": "FIW_1792095154_2_edcf98_Hunter_4002.m3u",
-    "health_status": "reachable",
+    "health_status": "unreachable",
     "health_checked_urls": 1,
     "health_promoted": false
   },
@@ -125728,14 +125728,14 @@
     ],
     "raw_group": "US NEWS",
     "logo": "https://i.imgur.com/turWday.png",
-    "primary_url": "http://4k.cmn14.com:8080/HakanKara01/XGuSAvs5Kc/232263",
+    "primary_url": "http://vushtrriasl.hups.stream:8080/XmXX6uaAeq/qn4JxSKu5h/211823",
     "alternates": [
-      "http://vushtrriasl.hups.stream:8080/XmXX6uaAeq/qn4JxSKu5h/211823"
+      "http://4k.cmn14.com:8080/HakanKara01/XGuSAvs5Kc/232263"
     ],
     "source_file": "FIW_1792095154_2_edcf98_Hunter_4002.m3u",
-    "health_status": "unreachable",
+    "health_status": "reachable",
     "health_checked_urls": 2,
-    "health_promoted": false
+    "health_promoted": true
   },
   {
     "id": "dragon_english_4bcc1d952f27",
@@ -125804,14 +125804,14 @@
     ],
     "raw_group": "US NEWS",
     "logo": "https://i.imgur.com/turWday.png",
-    "primary_url": "http://vushtrriasl.hups.stream:8080/XmXX6uaAeq/qn4JxSKu5h/211819",
+    "primary_url": "http://4k.cmn14.com:8080/HakanKara01/XGuSAvs5Kc/232293",
     "alternates": [
-      "http://4k.cmn14.com:8080/HakanKara01/XGuSAvs5Kc/232293"
+      "http://vushtrriasl.hups.stream:8080/XmXX6uaAeq/qn4JxSKu5h/211819"
     ],
     "source_file": "FIW_1792095154_2_edcf98_Hunter_4002.m3u",
-    "health_status": "reachable",
+    "health_status": "unreachable",
     "health_checked_urls": 2,
-    "health_promoted": true
+    "health_promoted": false
   },
   {
     "id": "dragon_english_2edcb13475c5",
@@ -125862,8 +125862,8 @@
       "http://vushtrriasl.hups.stream:8080/XmXX6uaAeq/qn4JxSKu5h/210549"
     ],
     "source_file": "FIW_1792095154_2_edcf98_Hunter_4002.m3u",
-    "health_status": "reachable",
-    "health_checked_urls": 1,
+    "health_status": "unreachable",
+    "health_checked_urls": 2,
     "health_promoted": false
   },
   {
@@ -125931,14 +125931,14 @@
     ],
     "raw_group": "US NEWS",
     "logo": "http://sltv-icon.cms-s.com/logo/USA/NBC.png",
-    "primary_url": "http://vushtrriasl.hups.stream:8080/XmXX6uaAeq/qn4JxSKu5h/211882",
+    "primary_url": "http://4k.cmn14.com:8080/HakanKara01/XGuSAvs5Kc/231557",
     "alternates": [
-      "http://4k.cmn14.com:8080/HakanKara01/XGuSAvs5Kc/231557"
+      "http://vushtrriasl.hups.stream:8080/XmXX6uaAeq/qn4JxSKu5h/211882"
     ],
     "source_file": "FIW_1792095154_2_edcf98_Hunter_4002.m3u",
-    "health_status": "reachable",
+    "health_status": "unreachable",
     "health_checked_urls": 2,
-    "health_promoted": true
+    "health_promoted": false
   },
   {
     "id": "dragon_english_9bfa4db87ae0",
@@ -125989,7 +125989,7 @@
     "primary_url": "http://vushtrriasl.hups.stream:8080/XmXX6uaAeq/qn4JxSKu5h/211879",
     "alternates": [],
     "source_file": "FIW_1792095154_2_edcf98_Hunter_4002.m3u",
-    "health_status": "reachable",
+    "health_status": "unreachable",
     "health_checked_urls": 1,
     "health_promoted": false
   },
@@ -126006,7 +126006,7 @@
     "primary_url": "http://vushtrriasl.hups.stream:8080/XmXX6uaAeq/qn4JxSKu5h/211878",
     "alternates": [],
     "source_file": "FIW_1792095154_2_edcf98_Hunter_4002.m3u",
-    "health_status": "reachable",
+    "health_status": "unreachable",
     "health_checked_urls": 1,
     "health_promoted": false
   },
@@ -126075,14 +126075,14 @@
     ],
     "raw_group": "US NEWS",
     "logo": "http://sltv-icon.cms-s.com/logo/USA/NBC.png",
-    "primary_url": "http://vushtrriasl.hups.stream:8080/XmXX6uaAeq/qn4JxSKu5h/211874",
+    "primary_url": "http://4k.cmn14.com:8080/HakanKara01/XGuSAvs5Kc/231567",
     "alternates": [
-      "http://4k.cmn14.com:8080/HakanKara01/XGuSAvs5Kc/231567"
+      "http://vushtrriasl.hups.stream:8080/XmXX6uaAeq/qn4JxSKu5h/211874"
     ],
     "source_file": "FIW_1792095154_2_edcf98_Hunter_4002.m3u",
-    "health_status": "reachable",
+    "health_status": "unreachable",
     "health_checked_urls": 2,
-    "health_promoted": true
+    "health_promoted": false
   },
   {
     "id": "dragon_english_0d0de875e195",
@@ -126094,14 +126094,14 @@
     ],
     "raw_group": "US NEWS",
     "logo": "http://sltv-icon.cms-s.com/logo/USA/NBC.png",
-    "primary_url": "http://vushtrriasl.hups.stream:8080/XmXX6uaAeq/qn4JxSKu5h/211872",
+    "primary_url": "http://4k.cmn14.com:8080/HakanKara01/XGuSAvs5Kc/231570",
     "alternates": [
-      "http://4k.cmn14.com:8080/HakanKara01/XGuSAvs5Kc/231570"
+      "http://vushtrriasl.hups.stream:8080/XmXX6uaAeq/qn4JxSKu5h/211872"
     ],
     "source_file": "FIW_1792095154_2_edcf98_Hunter_4002.m3u",
-    "health_status": "reachable",
+    "health_status": "unreachable",
     "health_checked_urls": 2,
-    "health_promoted": true
+    "health_promoted": false
   },
   {
     "id": "dragon_english_2bece2625f37",
@@ -126154,7 +126154,7 @@
     "primary_url": "http://vushtrriasl.hups.stream:8080/XmXX6uaAeq/qn4JxSKu5h/211869",
     "alternates": [],
     "source_file": "FIW_1792095154_2_edcf98_Hunter_4002.m3u",
-    "health_status": "reachable",
+    "health_status": "unreachable",
     "health_checked_urls": 1,
     "health_promoted": false
   },
@@ -126190,7 +126190,7 @@
     "primary_url": "http://vushtrriasl.hups.stream:8080/XmXX6uaAeq/qn4JxSKu5h/211867",
     "alternates": [],
     "source_file": "FIW_1792095154_2_edcf98_Hunter_4002.m3u",
-    "health_status": "reachable",
+    "health_status": "unreachable",
     "health_checked_urls": 1,
     "health_promoted": false
   },
@@ -126224,7 +126224,7 @@
     "primary_url": "http://vushtrriasl.hups.stream:8080/XmXX6uaAeq/qn4JxSKu5h/211864",
     "alternates": [],
     "source_file": "FIW_1792095154_2_edcf98_Hunter_4002.m3u",
-    "health_status": "reachable",
+    "health_status": "unreachable",
     "health_checked_urls": 1,
     "health_promoted": false
   },
@@ -126258,7 +126258,7 @@
     "primary_url": "http://vushtrriasl.hups.stream:8080/XmXX6uaAeq/qn4JxSKu5h/211861",
     "alternates": [],
     "source_file": "FIW_1792095154_2_edcf98_Hunter_4002.m3u",
-    "health_status": "reachable",
+    "health_status": "unreachable",
     "health_checked_urls": 1,
     "health_promoted": false
   },
@@ -126272,14 +126272,14 @@
     ],
     "raw_group": "US NEWS",
     "logo": "http://sltv-icon.cms-s.com/logo/USA/NBC.png",
-    "primary_url": "http://vushtrriasl.hups.stream:8080/XmXX6uaAeq/qn4JxSKu5h/211860",
+    "primary_url": "http://4k.cmn14.com:8080/HakanKara01/XGuSAvs5Kc/231584",
     "alternates": [
-      "http://4k.cmn14.com:8080/HakanKara01/XGuSAvs5Kc/231584"
+      "http://vushtrriasl.hups.stream:8080/XmXX6uaAeq/qn4JxSKu5h/211860"
     ],
     "source_file": "FIW_1792095154_2_edcf98_Hunter_4002.m3u",
-    "health_status": "reachable",
+    "health_status": "unreachable",
     "health_checked_urls": 2,
-    "health_promoted": true
+    "health_promoted": false
   },
   {
     "id": "dragon_english_7218eacf3388",
@@ -126325,14 +126325,14 @@
     ],
     "raw_group": "US NEWS",
     "logo": "http://sltv-icon.cms-s.com/logo/USA/NBC.png",
-    "primary_url": "http://vushtrriasl.hups.stream:8080/XmXX6uaAeq/qn4JxSKu5h/211856",
+    "primary_url": "http://4k.cmn14.com:8080/HakanKara01/XGuSAvs5Kc/231585",
     "alternates": [
-      "http://4k.cmn14.com:8080/HakanKara01/XGuSAvs5Kc/231585"
+      "http://vushtrriasl.hups.stream:8080/XmXX6uaAeq/qn4JxSKu5h/211856"
     ],
     "source_file": "FIW_1792095154_2_edcf98_Hunter_4002.m3u",
-    "health_status": "reachable",
+    "health_status": "unreachable",
     "health_checked_urls": 2,
-    "health_promoted": true
+    "health_promoted": false
   },
   {
     "id": "dragon_english_30bcbdaa241f",
@@ -126347,7 +126347,7 @@
     "primary_url": "http://vushtrriasl.hups.stream:8080/XmXX6uaAeq/qn4JxSKu5h/211855",
     "alternates": [],
     "source_file": "FIW_1792095154_2_edcf98_Hunter_4002.m3u",
-    "health_status": "reachable",
+    "health_status": "unreachable",
     "health_checked_urls": 1,
     "health_promoted": false
   },
@@ -126419,7 +126419,7 @@
     "primary_url": "http://vushtrriasl.hups.stream:8080/XmXX6uaAeq/qn4JxSKu5h/282862",
     "alternates": [],
     "source_file": "FIW_1792095154_2_edcf98_Hunter_4002.m3u",
-    "health_status": "reachable",
+    "health_status": "unreachable",
     "health_checked_urls": 1,
     "health_promoted": false
   },
@@ -126436,7 +126436,7 @@
     "primary_url": "http://vushtrriasl.hups.stream:8080/XmXX6uaAeq/qn4JxSKu5h/282853",
     "alternates": [],
     "source_file": "FIW_1792095154_2_edcf98_Hunter_4002.m3u",
-    "health_status": "reachable",
+    "health_status": "unreachable",
     "health_checked_urls": 1,
     "health_promoted": false
   },
@@ -126453,7 +126453,7 @@
     "primary_url": "http://vushtrriasl.hups.stream:8080/XmXX6uaAeq/qn4JxSKu5h/282852",
     "alternates": [],
     "source_file": "FIW_1792095154_2_edcf98_Hunter_4002.m3u",
-    "health_status": "reachable",
+    "health_status": "unreachable",
     "health_checked_urls": 1,
     "health_promoted": false
   },
@@ -126487,7 +126487,7 @@
     "primary_url": "http://vushtrriasl.hups.stream:8080/XmXX6uaAeq/qn4JxSKu5h/282850",
     "alternates": [],
     "source_file": "FIW_1792095154_2_edcf98_Hunter_4002.m3u",
-    "health_status": "reachable",
+    "health_status": "unreachable",
     "health_checked_urls": 1,
     "health_promoted": false
   },
@@ -126504,7 +126504,7 @@
     "primary_url": "http://vushtrriasl.hups.stream:8080/XmXX6uaAeq/qn4JxSKu5h/282849",
     "alternates": [],
     "source_file": "FIW_1792095154_2_edcf98_Hunter_4002.m3u",
-    "health_status": "reachable",
+    "health_status": "unreachable",
     "health_checked_urls": 1,
     "health_promoted": false
   },
@@ -126521,7 +126521,7 @@
     "primary_url": "http://vushtrriasl.hups.stream:8080/XmXX6uaAeq/qn4JxSKu5h/282848",
     "alternates": [],
     "source_file": "FIW_1792095154_2_edcf98_Hunter_4002.m3u",
-    "health_status": "reachable",
+    "health_status": "unreachable",
     "health_checked_urls": 1,
     "health_promoted": false
   },
@@ -126538,7 +126538,7 @@
     "primary_url": "http://vushtrriasl.hups.stream:8080/XmXX6uaAeq/qn4JxSKu5h/282847",
     "alternates": [],
     "source_file": "FIW_1792095154_2_edcf98_Hunter_4002.m3u",
-    "health_status": "reachable",
+    "health_status": "unreachable",
     "health_checked_urls": 1,
     "health_promoted": false
   },
@@ -126555,7 +126555,7 @@
     "primary_url": "http://vushtrriasl.hups.stream:8080/XmXX6uaAeq/qn4JxSKu5h/282846",
     "alternates": [],
     "source_file": "FIW_1792095154_2_edcf98_Hunter_4002.m3u",
-    "health_status": "reachable",
+    "health_status": "unreachable",
     "health_checked_urls": 1,
     "health_promoted": false
   },
@@ -126572,7 +126572,7 @@
     "primary_url": "http://vushtrriasl.hups.stream:8080/XmXX6uaAeq/qn4JxSKu5h/282845",
     "alternates": [],
     "source_file": "FIW_1792095154_2_edcf98_Hunter_4002.m3u",
-    "health_status": "reachable",
+    "health_status": "unreachable",
     "health_checked_urls": 1,
     "health_promoted": false
   },
@@ -126623,7 +126623,7 @@
     "primary_url": "http://vushtrriasl.hups.stream:8080/XmXX6uaAeq/qn4JxSKu5h/767876",
     "alternates": [],
     "source_file": "FIW_1792095154_2_edcf98_Hunter_4002.m3u",
-    "health_status": "reachable",
+    "health_status": "unreachable",
     "health_checked_urls": 1,
     "health_promoted": false
   },
@@ -126640,7 +126640,7 @@
     "primary_url": "http://vushtrriasl.hups.stream:8080/XmXX6uaAeq/qn4JxSKu5h/767877",
     "alternates": [],
     "source_file": "FIW_1792095154_2_edcf98_Hunter_4002.m3u",
-    "health_status": "unreachable",
+    "health_status": "reachable",
     "health_checked_urls": 1,
     "health_promoted": false
   },
@@ -126725,7 +126725,7 @@
     "primary_url": "http://vushtrriasl.hups.stream:8080/XmXX6uaAeq/qn4JxSKu5h/767883",
     "alternates": [],
     "source_file": "FIW_1792095154_2_edcf98_Hunter_4002.m3u",
-    "health_status": "unreachable",
+    "health_status": "reachable",
     "health_checked_urls": 1,
     "health_promoted": false
   },
@@ -126739,14 +126739,14 @@
     ],
     "raw_group": "US NEWS",
     "logo": "https://cdn.toolsmoon.org/logos/28865.png?v=20260917m",
-    "primary_url": "http://vushtrriasl.hups.stream:8080/XmXX6uaAeq/qn4JxSKu5h/767885",
+    "primary_url": "http://4k.cmn14.com:8080/HakanKara01/XGuSAvs5Kc/231354",
     "alternates": [
-      "http://4k.cmn14.com:8080/HakanKara01/XGuSAvs5Kc/231354"
+      "http://vushtrriasl.hups.stream:8080/XmXX6uaAeq/qn4JxSKu5h/767885"
     ],
     "source_file": "FIW_1792095154_2_edcf98_Hunter_4002.m3u",
-    "health_status": "reachable",
+    "health_status": "unreachable",
     "health_checked_urls": 2,
-    "health_promoted": true
+    "health_promoted": false
   },
   {
     "id": "dragon_english_2f17d5bf43b6",
@@ -126761,7 +126761,7 @@
     "primary_url": "http://vushtrriasl.hups.stream:8080/XmXX6uaAeq/qn4JxSKu5h/767888",
     "alternates": [],
     "source_file": "FIW_1792095154_2_edcf98_Hunter_4002.m3u",
-    "health_status": "reachable",
+    "health_status": "unreachable",
     "health_checked_urls": 1,
     "health_promoted": false
   },
@@ -126831,7 +126831,7 @@
     "primary_url": "http://vushtrriasl.hups.stream:8080/XmXX6uaAeq/qn4JxSKu5h/767900",
     "alternates": [],
     "source_file": "FIW_1792095154_2_edcf98_Hunter_4002.m3u",
-    "health_status": "unreachable",
+    "health_status": "reachable",
     "health_checked_urls": 1,
     "health_promoted": false
   },
@@ -126865,7 +126865,7 @@
     "primary_url": "http://vushtrriasl.hups.stream:8080/XmXX6uaAeq/qn4JxSKu5h/767902",
     "alternates": [],
     "source_file": "FIW_1792095154_2_edcf98_Hunter_4002.m3u",
-    "health_status": "reachable",
+    "health_status": "unreachable",
     "health_checked_urls": 1,
     "health_promoted": false
   },
@@ -127291,7 +127291,7 @@
     "primary_url": "http://vushtrriasl.hups.stream:8080/XmXX6uaAeq/qn4JxSKu5h/282591",
     "alternates": [],
     "source_file": "FIW_1792095154_2_edcf98_Hunter_4002.m3u",
-    "health_status": "reachable",
+    "health_status": "unreachable",
     "health_checked_urls": 1,
     "health_promoted": false
   },
@@ -127308,7 +127308,7 @@
     "primary_url": "http://vushtrriasl.hups.stream:8080/XmXX6uaAeq/qn4JxSKu5h/768149",
     "alternates": [],
     "source_file": "FIW_1792095154_2_edcf98_Hunter_4002.m3u",
-    "health_status": "reachable",
+    "health_status": "unreachable",
     "health_checked_urls": 1,
     "health_promoted": false
   },
@@ -127325,7 +127325,7 @@
     "primary_url": "http://vushtrriasl.hups.stream:8080/XmXX6uaAeq/qn4JxSKu5h/768152",
     "alternates": [],
     "source_file": "FIW_1792095154_2_edcf98_Hunter_4002.m3u",
-    "health_status": "reachable",
+    "health_status": "unreachable",
     "health_checked_urls": 1,
     "health_promoted": false
   },
@@ -127342,7 +127342,7 @@
     "primary_url": "http://vushtrriasl.hups.stream:8080/XmXX6uaAeq/qn4JxSKu5h/768154",
     "alternates": [],
     "source_file": "FIW_1792095154_2_edcf98_Hunter_4002.m3u",
-    "health_status": "reachable",
+    "health_status": "unreachable",
     "health_checked_urls": 1,
     "health_promoted": false
   },
@@ -127378,7 +127378,7 @@
     "primary_url": "http://vushtrriasl.hups.stream:8080/XmXX6uaAeq/qn4JxSKu5h/768157",
     "alternates": [],
     "source_file": "FIW_1792095154_2_edcf98_Hunter_4002.m3u",
-    "health_status": "reachable",
+    "health_status": "unreachable",
     "health_checked_urls": 1,
     "health_promoted": false
   },
@@ -127611,7 +127611,7 @@
     "primary_url": "http://vushtrriasl.hups.stream:8080/XmXX6uaAeq/qn4JxSKu5h/768163",
     "alternates": [],
     "source_file": "FIW_1792095154_2_edcf98_Hunter_4002.m3u",
-    "health_status": "unreachable",
+    "health_status": "reachable",
     "health_checked_urls": 1,
     "health_promoted": false
   },
@@ -131408,7 +131408,7 @@
     "primary_url": "http://vushtrriasl.hups.stream:8080/XmXX6uaAeq/qn4JxSKu5h/563649",
     "alternates": [],
     "source_file": "FIW_1792095154_2_edcf98_Hunter_4002.m3u",
-    "health_status": "unreachable",
+    "health_status": "reachable",
     "health_checked_urls": 1,
     "health_promoted": false
   },
@@ -131461,8 +131461,8 @@
       "http://vushtrriasl.hups.stream:8080/XmXX6uaAeq/qn4JxSKu5h/563641"
     ],
     "source_file": "FIW_1792095154_2_edcf98_Hunter_4002.m3u",
-    "health_status": "unreachable",
-    "health_checked_urls": 2,
+    "health_status": "reachable",
+    "health_checked_urls": 1,
     "health_promoted": false
   },
   {
@@ -131883,8 +131883,8 @@
       "http://vushtrriasl.hups.stream:8080/XmXX6uaAeq/qn4JxSKu5h/263236"
     ],
     "source_file": "FIW_1792095154_2_edcf98_Hunter_4002.m3u",
-    "health_status": "reachable",
-    "health_checked_urls": 1,
+    "health_status": "unreachable",
+    "health_checked_urls": 3,
     "health_promoted": false
   },
   {
