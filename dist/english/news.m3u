@@ -12,9 +12,9 @@ https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8
 #EXTINF:-1 tvg-name="BBC News Asia Pacific (720p)" tvg-logo="https://i.imgur.com/REuN9RR.png" group-title="news",BBC News Asia Pacific (720p)
 http://23.153.217.158:8080/993300790tv/95ghr5/264740
 #EXTINF:-1 tvg-name="CA: CNN" tvg-logo="" group-title="news",CA: CNN
-http://31.43.191.125:8080/Adri_ruiz/azerty34/1871
+http://31.43.191.125:8080/Adri_ruiz/azerty34/5427
 #EXTINF:-1 tvg-name="CNN International HD" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/8/8b/Cnn.svg/640px-Cnn.svg.png" group-title="news",CNN International HD
-http://31.43.191.125:8080/Adri_ruiz/azerty34/154948
+https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="CNN (ca)" tvg-logo="http://209.126.82.213/logos/ca/makeful_ca.png" group-title="news",CNN (ca)
 http://23.153.217.158:8080/993300790tv/95ghr5/254722
 #EXTINF:-1 tvg-name="[Canal+ PL ] CNN" tvg-logo="" group-title="news",[Canal+ PL ] CNN
@@ -34,7 +34,7 @@ http://23.153.217.158:8080/993300790tv/95ghr5/265555
 #EXTINF:-1 tvg-name="Sky News Extra 3 (1080p)" tvg-logo="https://i.imgur.com/ZsPb8nL.png" group-title="news",Sky News Extra 3 (1080p)
 http://23.153.217.158:8080/993300790tv/95ghr5/265556
 #EXTINF:-1 tvg-name="AU: SKY NEWS EXTRA" tvg-logo="" group-title="news",AU: SKY NEWS EXTRA
-http://31.43.191.125:8080/vip4871770762623/3fad5d18fc96/25044
+http://31.43.191.125:8080/vip4021767785706/99d6a4d1dfb6/25044
 #EXTINF:-1 tvg-name="USA: SKY NEWS AMERICA" tvg-logo="" group-title="news",USA: SKY NEWS AMERICA
 http://31.43.191.125:8080/Adri_ruiz/azerty34/156544
 #EXTINF:-1 tvg-name="UK: France 24 English" tvg-logo="" group-title="news",UK: France 24 English
@@ -100,7 +100,7 @@ https://amg00106-amg00106c1-rakuten-uk-4654.playouts.now.amagi.tv/playlist/amg00
 #EXTINF:-1 tvg-name="[Cgates] BBC World News" tvg-logo="" group-title="news",[Cgates] BBC World News
 http://23.153.217.158:8080/993300790tv/95ghr5/264569
 #EXTINF:-1 tvg-name="CA: CBC NEWS" tvg-logo="" group-title="news",CA: CBC NEWS
-http://31.43.191.125:8080/Adri_ruiz/azerty34/5417
+http://31.43.191.125:8080/Adri_ruiz/azerty34/154763
 #EXTINF:-1 tvg-name="CA: CTV NEWS" tvg-logo="" group-title="news",CA: CTV NEWS
 http://31.43.191.125:8080/Adri_ruiz/azerty34/5441
 #EXTINF:-1 tvg-name="CA: CTV NEWS LIVE EVENTS" tvg-logo="" group-title="news",CA: CTV NEWS LIVE EVENTS
@@ -112,7 +112,7 @@ http://31.43.191.125:8080/Adri_ruiz/azerty34/1821
 #EXTINF:-1 tvg-name="UK: VIP FRANCE 24" tvg-logo="" group-title="news",UK: VIP FRANCE 24
 http://31.43.191.125:8080/vip4871770762623/3fad5d18fc96/1856
 #EXTINF:-1 tvg-name="UK: VIP AL JAZEERA" tvg-logo="" group-title="news",UK: VIP AL JAZEERA
-http://31.43.191.125:8080/Adri_ruiz/azerty34/1857
+http://31.43.191.125:8080/vip4871770762623/3fad5d18fc96/1857
 #EXTINF:-1 tvg-name="UK: VIP RTE NEWS NOW" tvg-logo="" group-title="news",UK: VIP RTE NEWS NOW
 http://31.43.191.125:8080/Adri_ruiz/azerty34/1874
 #EXTINF:-1 tvg-name="UK: VIP RUSSIA TODAY NEWS" tvg-logo="" group-title="news",UK: VIP RUSSIA TODAY NEWS
@@ -124,7 +124,7 @@ http://31.43.191.125:8080/Adri_ruiz/azerty34/1905
 #EXTINF:-1 tvg-name="UK: GB News HD" tvg-logo="" group-title="news",UK: GB News HD
 http://31.43.191.125:8080/Adri_ruiz/azerty34/1917
 #EXTINF:-1 tvg-name="UK: 92 News" tvg-logo="" group-title="news",UK: 92 News
-http://31.43.191.125:8080/Adri_ruiz/azerty34/146925
+http://31.43.191.125:8080/vip4021767785706/99d6a4d1dfb6/146925
 #EXTINF:-1 tvg-name="UK: Bloomberg News HD" tvg-logo="" group-title="news",UK: Bloomberg News HD
 http://31.43.191.125:8080/Adri_ruiz/azerty34/146936
 #EXTINF:-1 tvg-name="UK: CNBC News" tvg-logo="" group-title="news",UK: CNBC News
@@ -138,13 +138,13 @@ http://31.43.191.125:8080/Adri_ruiz/azerty34/154765
 #EXTINF:-1 tvg-name="USA: CBS NEWS BAY AREA" tvg-logo="" group-title="news",USA: CBS NEWS BAY AREA
 http://31.43.191.125:8080/Adri_ruiz/azerty34/154854
 #EXTINF:-1 tvg-name="USA: CBS NEWS BOSTON" tvg-logo="" group-title="news",USA: CBS NEWS BOSTON
-http://31.43.191.125:8080/Adri_ruiz/azerty34/154855
+http://31.43.191.125:8080/vip4871770762623/3fad5d18fc96/154855
 #EXTINF:-1 tvg-name="USA: CBS NEWS CHICAGO" tvg-logo="" group-title="news",USA: CBS NEWS CHICAGO
-http://31.43.191.125:8080/Adri_ruiz/azerty34/154856
+http://31.43.191.125:8080/vip4871770762623/3fad5d18fc96/154856
 #EXTINF:-1 tvg-name="USA: CBS NEWS COLORADO" tvg-logo="" group-title="news",USA: CBS NEWS COLORADO
 http://31.43.191.125:8080/Adri_ruiz/azerty34/154857
 #EXTINF:-1 tvg-name="USA: CBS NEWS DETROIT" tvg-logo="" group-title="news",USA: CBS NEWS DETROIT
-http://31.43.191.125:8080/vip4021767785706/99d6a4d1dfb6/154858
+http://31.43.191.125:8080/Adri_ruiz/azerty34/154858
 #EXTINF:-1 tvg-name="USA: CBS NEWS HD [Sᴛᴠ+]" tvg-logo="" group-title="news",USA: CBS NEWS HD [Sᴛᴠ+]
 http://31.43.191.125:8080/Adri_ruiz/azerty34/154859
 #EXTINF:-1 tvg-name="USA: CBS NEWS LOS ANGELES" tvg-logo="" group-title="news",USA: CBS NEWS LOS ANGELES
@@ -152,7 +152,7 @@ http://31.43.191.125:8080/Adri_ruiz/azerty34/154860
 #EXTINF:-1 tvg-name="USA: CBS NEWS MINNESOTA" tvg-logo="" group-title="news",USA: CBS NEWS MINNESOTA
 http://31.43.191.125:8080/Adri_ruiz/azerty34/154861
 #EXTINF:-1 tvg-name="USA: CBS NEWS NEW YORK" tvg-logo="" group-title="news",USA: CBS NEWS NEW YORK
-http://31.43.191.125:8080/vip4871770762623/3fad5d18fc96/154862
+http://31.43.191.125:8080/Adri_ruiz/azerty34/154862
 #EXTINF:-1 tvg-name="USA: CBS NEWS PHILADELPHIA" tvg-logo="" group-title="news",USA: CBS NEWS PHILADELPHIA
 http://31.43.191.125:8080/Adri_ruiz/azerty34/154863
 #EXTINF:-1 tvg-name="USA: CBS NEWS TEXAS" tvg-logo="" group-title="news",USA: CBS NEWS TEXAS
@@ -160,7 +160,7 @@ http://31.43.191.125:8080/Adri_ruiz/azerty34/154864
 #EXTINF:-1 tvg-name="USA: CCTV NEWS" tvg-logo="" group-title="news",USA: CCTV NEWS
 http://31.43.191.125:8080/Adri_ruiz/azerty34/154908
 #EXTINF:-1 tvg-name="USA: CHEDDAR NEWS" tvg-logo="" group-title="news",USA: CHEDDAR NEWS
-http://31.43.191.125:8080/vip4871770762623/3fad5d18fc96/154913
+http://31.43.191.125:8080/Adri_ruiz/azerty34/154913
 #EXTINF:-1 tvg-name="USA: CHEDDAR NEWS HD [Sᴛᴠ+]" tvg-logo="" group-title="news",USA: CHEDDAR NEWS HD [Sᴛᴠ+]
 http://31.43.191.125:8080/Adri_ruiz/azerty34/154914
 #EXTINF:-1 tvg-name="USA: DW NEWS US" tvg-logo="" group-title="news",USA: DW NEWS US
@@ -174,9 +174,9 @@ http://31.43.191.125:8080/Adri_ruiz/azerty34/156310
 #EXTINF:-1 tvg-name="USA: NEWS 12 BROOKLYN" tvg-logo="" group-title="news",USA: NEWS 12 BROOKLYN
 http://31.43.191.125:8080/Adri_ruiz/azerty34/156311
 #EXTINF:-1 tvg-name="USA: NEWS 12 CONNECTICUT" tvg-logo="" group-title="news",USA: NEWS 12 CONNECTICUT
-http://31.43.191.125:8080/vip4871770762623/3fad5d18fc96/156312
+http://31.43.191.125:8080/Adri_ruiz/azerty34/156312
 #EXTINF:-1 tvg-name="USA: NEWS 12 HAVEN HARTFORD" tvg-logo="" group-title="news",USA: NEWS 12 HAVEN HARTFORD
-http://31.43.191.125:8080/vip4871770762623/3fad5d18fc96/156313
+http://31.43.191.125:8080/Adri_ruiz/azerty34/156313
 #EXTINF:-1 tvg-name="USA: NEWS 12 HUDSON VALLEY & WESTCHESTER" tvg-logo="" group-title="news",USA: NEWS 12 HUDSON VALLEY & WESTCHESTER
 http://31.43.191.125:8080/Adri_ruiz/azerty34/156314
 #EXTINF:-1 tvg-name="USA: NEWS 12 LONG ISLAND" tvg-logo="" group-title="news",USA: NEWS 12 LONG ISLAND
@@ -198,7 +198,7 @@ http://31.43.191.125:8080/Adri_ruiz/azerty34/156322
 #EXTINF:-1 tvg-name="USA: ONE AMERICA NEWS" tvg-logo="" group-title="news",USA: ONE AMERICA NEWS
 http://31.43.191.125:8080/Adri_ruiz/azerty34/156389
 #EXTINF:-1 tvg-name="USA: ONE AMERICA NEWS (OAN)" tvg-logo="" group-title="news",USA: ONE AMERICA NEWS (OAN)
-http://31.43.191.125:8080/vip4871770762623/3fad5d18fc96/156390
+http://31.43.191.125:8080/Adri_ruiz/azerty34/156390
 #EXTINF:-1 tvg-name="USA: SCRIPPS NEWS" tvg-logo="" group-title="news",USA: SCRIPPS NEWS
 http://31.43.191.125:8080/Adri_ruiz/azerty34/156516
 #EXTINF:-1 tvg-name="USA: SPECTRUM BAY NEWS 9" tvg-logo="" group-title="news",USA: SPECTRUM BAY NEWS 9
