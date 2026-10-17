@@ -1,3 +1,125 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="UK: Sky Arabic HD" tvg-logo="" group-title="news",UK: Sky Arabic HD
-http://fastcable.click:5050/Yyam/9UT8eSVvvW/829707
+#EXTINF:-1 tvg-name="Aljazeera Arabic | QA" tvg-logo="https://cdn.m3u.cl/logo/1114_Aljazeera_Arabic.png" group-title="news",Aljazeera Arabic | QA
+https://live-hls-web-aja.getaj.net/AJA/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-name="Al Jazeera Arabic (1080p)" tvg-logo="https://i.imgur.com/7bRVpnu.png" group-title="news",Al Jazeera Arabic (1080p)
+http://23.153.217.158:8080/993300790tv/95ghr5/264748
+#EXTINF:-1 tvg-name="AR: AL JAZEERA MUBASHER" tvg-logo="" group-title="news",AR: AL JAZEERA MUBASHER
+http://31.43.191.125:8080/Adri_ruiz/azerty34/6599
+#EXTINF:-1 tvg-name="AR: AL JAZEERA" tvg-logo="" group-title="news",AR: AL JAZEERA
+http://31.43.191.125:8080/Adri_ruiz/azerty34/130859
+#EXTINF:-1 tvg-name="Al Arabiya (1080p)" tvg-logo="" group-title="news",Al Arabiya (1080p)
+http://31.43.191.125:8080/Adri_ruiz/azerty34/130848
+#EXTINF:-1 tvg-name="Al Arabiya Business (1080p)" tvg-logo="" group-title="news",Al Arabiya Business (1080p)
+http://31.43.191.125:8080/vip4871770762623/3fad5d18fc96/130849
+#EXTINF:-1 tvg-name="AR|NEWS: AL HADATH" tvg-logo="" group-title="news",AR|NEWS: AL HADATH
+http://31.43.191.125:8080/vip4871770762623/3fad5d18fc96/130851
+#EXTINF:-1 tvg-name="Sky News Arabia (Portrait) (1280p) [Not 24/7]" tvg-logo="https://i.imgur.com/FjtzQQs.png" group-title="news",Sky News Arabia (Portrait) (1280p) [Not 24/7]
+http://23.153.217.158:8080/993300790tv/95ghr5/264773
+#EXTINF:-1 tvg-name="Sky News Arabia (720p) [Not 24/7]" tvg-logo="" group-title="news",Sky News Arabia (720p) [Not 24/7]
+https://stream.skynewsarabia.com/hls/sna.m3u8
+#EXTINF:-1 tvg-name="AR: BBC ARABIC" tvg-logo="" group-title="news",AR: BBC ARABIC
+http://31.43.191.125:8080/Adri_ruiz/azerty34/6969
+#EXTINF:-1 tvg-name="DW Arabic (1080p)" tvg-logo="https://i.imgur.com/EfKe3ae.png" group-title="news",DW Arabic (1080p)
+http://31.43.191.125:8080/Adri_ruiz/azerty34/130742
+#EXTINF:-1 tvg-name="AR: AL MAYADEEN" tvg-logo="" group-title="news",AR: AL MAYADEEN
+http://31.43.191.125:8080/Adri_ruiz/azerty34/6527
+#EXTINF:-1 tvg-name="AR-LBN: AL MAYADEEN" tvg-logo="" group-title="news",AR-LBN: AL MAYADEEN
+http://31.43.191.125:8080/Adri_ruiz/azerty34/130444
+#EXTINF:-1 tvg-name="AR: DZAIR NEWS" tvg-logo="" group-title="news",AR: DZAIR NEWS
+http://31.43.191.125:8080/Adri_ruiz/azerty34/6398
+#EXTINF:-1 tvg-name="AR: OSN NEWS" tvg-logo="" group-title="news",AR: OSN NEWS
+http://31.43.191.125:8080/Adri_ruiz/azerty34/6446
+#EXTINF:-1 tvg-name="AR: OSN SKY NEWS" tvg-logo="" group-title="news",AR: OSN SKY NEWS
+http://31.43.191.125:8080/Adri_ruiz/azerty34/6459
+#EXTINF:-1 tvg-name="AR: ANN NEWS" tvg-logo="" group-title="news",AR: ANN NEWS
+http://31.43.191.125:8080/Adri_ruiz/azerty34/6533
+#EXTINF:-1 tvg-name="AR: PALESTINE NEWS" tvg-logo="" group-title="news",AR: PALESTINE NEWS
+http://31.43.191.125:8080/Adri_ruiz/azerty34/6549
+#EXTINF:-1 tvg-name="AR: IRAQIA NEWS" tvg-logo="" group-title="news",AR: IRAQIA NEWS
+http://31.43.191.125:8080/Adri_ruiz/azerty34/6577
+#EXTINF:-1 tvg-name="AR: AL SHARQIYA NEWS" tvg-logo="" group-title="news",AR: AL SHARQIYA NEWS
+http://31.43.191.125:8080/Adri_ruiz/azerty34/6590
+#EXTINF:-1 tvg-name="AR|NEWS: Al EKHBARIYA" tvg-logo="" group-title="news",AR|NEWS: Al EKHBARIYA
+http://31.43.191.125:8080/Adri_ruiz/azerty34/6622
+#EXTINF:-1 tvg-name="AR|NEWS: AL HURRA" tvg-logo="" group-title="news",AR|NEWS: AL HURRA
+http://31.43.191.125:8080/Adri_ruiz/azerty34/6630
+#EXTINF:-1 tvg-name="AR: AL SHOROUQ NEWS" tvg-logo="" group-title="news",AR: AL SHOROUQ NEWS
+http://31.43.191.125:8080/Adri_ruiz/azerty34/6645
+#EXTINF:-1 tvg-name="AR: CBC EXTRA NEWS" tvg-logo="" group-title="news",AR: CBC EXTRA NEWS
+http://31.43.191.125:8080/Adri_ruiz/azerty34/6657
+#EXTINF:-1 tvg-name="AR: NILE NEWS" tvg-logo="" group-title="news",AR: NILE NEWS
+http://31.43.191.125:8080/Adri_ruiz/azerty34/6684
+#EXTINF:-1 tvg-name="AR: SAUDI NEWS" tvg-logo="" group-title="news",AR: SAUDI NEWS
+http://31.43.191.125:8080/Adri_ruiz/azerty34/6711
+#EXTINF:-1 tvg-name="AR: SYRIA NEWS" tvg-logo="" group-title="news",AR: SYRIA NEWS
+http://31.43.191.125:8080/Adri_ruiz/azerty34/6841
+#EXTINF:-1 tvg-name="AR: LIBYA 218 NEWS" tvg-logo="" group-title="news",AR: LIBYA 218 NEWS
+http://31.43.191.125:8080/Adri_ruiz/azerty34/6872
+#EXTINF:-1 tvg-name="AR: ✦●✦NEWS✦●✦" tvg-logo="" group-title="news",AR: ✦●✦NEWS✦●✦
+http://31.43.191.125:8080/Adri_ruiz/azerty34/6887
+#EXTINF:-1 tvg-name="AR: ORIENT NEWS" tvg-logo="" group-title="news",AR: ORIENT NEWS
+http://31.43.191.125:8080/Adri_ruiz/azerty34/6904
+#EXTINF:-1 tvg-name="AR: EURONEWS" tvg-logo="" group-title="news",AR: EURONEWS
+http://31.43.191.125:8080/Adri_ruiz/azerty34/6975
+#EXTINF:-1 tvg-name="AR: EXTRA NEWS" tvg-logo="" group-title="news",AR: EXTRA NEWS
+http://31.43.191.125:8080/Adri_ruiz/azerty34/6976
+#EXTINF:-1 tvg-name="AR: FRANCE 24" tvg-logo="" group-title="news",AR: FRANCE 24
+http://31.43.191.125:8080/Adri_ruiz/azerty34/6979
+#EXTINF:-1 tvg-name="AR|NEWS: RUSSIA TODAY" tvg-logo="" group-title="news",AR|NEWS: RUSSIA TODAY
+http://31.43.191.125:8080/vip4871770762623/3fad5d18fc96/7028
+#EXTINF:-1 tvg-name="AR: Echorouk NEWS" tvg-logo="" group-title="news",AR: Echorouk NEWS
+http://31.43.191.125:8080/Adri_ruiz/azerty34/97149
+#EXTINF:-1 tvg-name="AR-AlMAJD: NEWS" tvg-logo="" group-title="news",AR-AlMAJD: NEWS
+http://31.43.191.125:8080/Adri_ruiz/azerty34/130176
+#EXTINF:-1 tvg-name="AR-DZ: AL24 NEWS" tvg-logo="" group-title="news",AR-DZ: AL24 NEWS
+http://31.43.191.125:8080/vip4871770762623/3fad5d18fc96/130191
+#EXTINF:-1 tvg-name="AR-DZ: ECHOUROUK NEWS" tvg-logo="" group-title="news",AR-DZ: ECHOUROUK NEWS
+http://31.43.191.125:8080/vip4871770762623/3fad5d18fc96/130209
+#EXTINF:-1 tvg-name="AR-EG: CBC EXTRA NEWS" tvg-logo="" group-title="news",AR-EG: CBC EXTRA NEWS
+http://31.43.191.125:8080/Adri_ruiz/azerty34/130252
+#EXTINF:-1 tvg-name="AR-EG: NILE NEWS" tvg-logo="" group-title="news",AR-EG: NILE NEWS
+http://31.43.191.125:8080/vip4021767785706/99d6a4d1dfb6/130286
+#EXTINF:-1 tvg-name="AR-IRAQ: AL FORAT NEWS" tvg-logo="" group-title="news",AR-IRAQ: AL FORAT NEWS
+http://31.43.191.125:8080/Adri_ruiz/azerty34/130328
+#EXTINF:-1 tvg-name="AR-IRAQ: AL IRAQIA NEWS" tvg-logo="" group-title="news",AR-IRAQ: AL IRAQIA NEWS
+http://31.43.191.125:8080/Adri_ruiz/azerty34/130331
+#EXTINF:-1 tvg-name="AR-IRAQ: AL SHARQIYA NEWS HD" tvg-logo="" group-title="news",AR-IRAQ: AL SHARQIYA NEWS HD
+http://31.43.191.125:8080/Adri_ruiz/azerty34/130343
+#EXTINF:-1 tvg-name="AR-IRAQ: INEWS" tvg-logo="" group-title="news",AR-IRAQ: INEWS
+http://31.43.191.125:8080/Adri_ruiz/azerty34/130371
+#EXTINF:-1 tvg-name="AR-IRAQ: INEWS TV HD" tvg-logo="" group-title="news",AR-IRAQ: INEWS TV HD
+http://31.43.191.125:8080/Adri_ruiz/azerty34/130372
+#EXTINF:-1 tvg-name="AR-IRAQ: IRAQIA NEWS HD" tvg-logo="" group-title="news",AR-IRAQ: IRAQIA NEWS HD
+http://31.43.191.125:8080/Adri_ruiz/azerty34/130381
+#EXTINF:-1 tvg-name="AR-KWT: KUWAIT NEWS" tvg-logo="" group-title="news",AR-KWT: KUWAIT NEWS
+http://31.43.191.125:8080/Adri_ruiz/azerty34/130436
+#EXTINF:-1 tvg-name="AR-PLS: PALESTINE NEWS" tvg-logo="" group-title="news",AR-PLS: PALESTINE NEWS
+http://31.43.191.125:8080/Adri_ruiz/azerty34/130565
+#EXTINF:-1 tvg-name="AR-SYR: SYRIA NEWS" tvg-logo="" group-title="news",AR-SYR: SYRIA NEWS
+http://31.43.191.125:8080/Adri_ruiz/azerty34/130608
+#EXTINF:-1 tvg-name="AR|NEWS: AL HIWAR" tvg-logo="" group-title="news",AR|NEWS: AL HIWAR
+http://31.43.191.125:8080/vip4871770762623/3fad5d18fc96/130852
+#EXTINF:-1 tvg-name="AR|NEWS: Al MANAR" tvg-logo="" group-title="news",AR|NEWS: Al MANAR
+http://31.43.191.125:8080/Adri_ruiz/azerty34/130854
+#EXTINF:-1 tvg-name="AR|NEWS: Al QAHIRA NEWS" tvg-logo="" group-title="news",AR|NEWS: Al QAHIRA NEWS
+http://31.43.191.125:8080/vip4871770762623/3fad5d18fc96/130855
+#EXTINF:-1 tvg-name="AR|NEWS: AL SHARQ NEWS" tvg-logo="" group-title="news",AR|NEWS: AL SHARQ NEWS
+http://31.43.191.125:8080/vip4871770762623/3fad5d18fc96/130856
+#EXTINF:-1 tvg-name="AR|NEWS: ALMAMLAKA" tvg-logo="" group-title="news",AR|NEWS: ALMAMLAKA
+http://31.43.191.125:8080/Adri_ruiz/azerty34/130862
+#EXTINF:-1 tvg-name="AR|NEWS: ALMASHHAD" tvg-logo="" group-title="news",AR|NEWS: ALMASHHAD
+http://31.43.191.125:8080/vip4021767785706/99d6a4d1dfb6/130863
+#EXTINF:-1 tvg-name="AR|NEWS: ALYAUM" tvg-logo="" group-title="news",AR|NEWS: ALYAUM
+http://31.43.191.125:8080/vip4871770762623/3fad5d18fc96/130864
+#EXTINF:-1 tvg-name="AR|NEWS: ASHARIQA NEWS" tvg-logo="" group-title="news",AR|NEWS: ASHARIQA NEWS
+http://31.43.191.125:8080/vip4871770762623/3fad5d18fc96/130865
+#EXTINF:-1 tvg-name="AR|NEWS: CNBC AR" tvg-logo="" group-title="news",AR|NEWS: CNBC AR
+http://31.43.191.125:8080/Adri_ruiz/azerty34/130866
+#EXTINF:-1 tvg-name="AR|NEWS: INEWS" tvg-logo="" group-title="news",AR|NEWS: INEWS
+http://31.43.191.125:8080/Adri_ruiz/azerty34/130868
+#EXTINF:-1 tvg-name="AR|NEWS: SKY ARABIA" tvg-logo="" group-title="news",AR|NEWS: SKY ARABIA
+http://31.43.191.125:8080/Adri_ruiz/azerty34/130870
+#EXTINF:-1 tvg-name="AR|NEWS: TRT ARABIC" tvg-logo="" group-title="news",AR|NEWS: TRT ARABIC
+http://31.43.191.125:8080/Adri_ruiz/azerty34/130871
+#EXTINF:-1 tvg-name="AR|SSC: NEWS" tvg-logo="" group-title="news",AR|SSC: NEWS
+http://31.43.191.125:8080/Adri_ruiz/azerty34/131091
