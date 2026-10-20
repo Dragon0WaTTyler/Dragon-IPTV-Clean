@@ -1,60 +1,56 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Discovery Channel" tvg-logo="" group-title="documentary",Discovery Channel
-http://neosfpoo.top:8080/101778770428/e511208ea106/29791
-#EXTINF:-1 tvg-name="US: Discovery Channel West" tvg-logo="" group-title="documentary",US: Discovery Channel West
-http://131.123.40.197:2095/lhn6784/lhn2401dd00bb66/81775
-#EXTINF:-1 tvg-name="US: Discovery Channel East" tvg-logo="" group-title="documentary",US: Discovery Channel East
-http://nocable.cc:8080/r31BP4/588433/46720
-#EXTINF:-1 tvg-name="Discovery Channel DE" tvg-logo="https://tvprofil.com/cdn/200x32/4/img/kanali-logo/Discovery_Channel_logo.png" group-title="documentary",Discovery Channel DE
-http://caffe.link:25461/65tomislavrajicfrend/pOkeqhfnsB/1541
-#EXTINF:-1 tvg-name="Discovery Channel UK" tvg-logo="" group-title="documentary",Discovery Channel UK
-http://caffe.link:25461/65tomislavrajicfrend/pOkeqhfnsB/1592
-#EXTINF:-1 tvg-name="Discovery Channel IT" tvg-logo="https://tvprofil.com/cdn/200x32/4/img/kanali-logo/Discovery_Channel_logo.png" group-title="documentary",Discovery Channel IT
-http://caffe.link:25461/65tomislavrajicfrend/pOkeqhfnsB/1609
+http://op9fqvuz.megatv.fun/iptv/M3X9SWFL3R8WM8/227/index.m3u8
+#EXTINF:-1 tvg-name="Discovery Channel HD orig" tvg-logo="" group-title="documentary",Discovery Channel HD orig
+http://op9fqvuz.megatv.fun/iptv/M3X9SWFL3R8WM8/9011/index.m3u8
 #EXTINF:-1 tvg-name="National Geographic Wild" tvg-logo="" group-title="documentary",National Geographic Wild
-http://nocable.cc:8080/r31BP4/588433/11664
+http://op9fqvuz.megatv.fun/iptv/M3X9SWFL3R8WM8/133/index.m3u8
+#EXTINF:-1 tvg-name="National Geographic orig" tvg-logo="" group-title="documentary",National Geographic orig
+http://op9fqvuz.megatv.fun/iptv/M3X9SWFL3R8WM8/2336/index.m3u8
 #EXTINF:-1 tvg-name="National Geographic" tvg-logo="" group-title="documentary",National Geographic
-http://185.149.233.91:80/dren/dren/2590
-#EXTINF:-1 tvg-name="National Geographic DE" tvg-logo="https://tvprofil.com/cdn/200x32/4/img/kanali-logo/national_geographic_logo.png" group-title="documentary",National Geographic DE
-http://caffe.link:25461/65tomislavrajicfrend/pOkeqhfnsB/1543
-#EXTINF:-1 tvg-name="National Geographic Channel UK" tvg-logo="https://tvprofil.com/img/kanali-logo/nat-geographic-logo.png" group-title="documentary",National Geographic Channel UK
-http://caffe.link:25461/65tomislavrajicfrend/pOkeqhfnsB/1594
+http://op9fqvuz.megatv.fun/iptv/M3X9SWFL3R8WM8/14001/index.m3u8
+#EXTINF:-1 tvg-name="National Geographic Wild orig" tvg-logo="" group-title="documentary",National Geographic Wild orig
+http://op9fqvuz.megatv.fun/iptv/M3X9SWFL3R8WM8/9264/index.m3u8
+#EXTINF:-1 tvg-name="National Geographic Wild HD SE" tvg-logo="" group-title="documentary",National Geographic Wild HD SE
+http://ul7satsn.ottclub.xyz/iptv/22LA539HWWB78T/12099/index.m3u8
+#EXTINF:-1 tvg-name="National Geographic Abu Dhabi AE" tvg-logo="" group-title="documentary",National Geographic Abu Dhabi AE
+http://ul7satsn.ottclub.xyz/iptv/22LA539HWWB78T/15200/index.m3u8
 #EXTINF:-1 tvg-name="Animal Planet" tvg-logo="" group-title="documentary",Animal Planet
-http://185.149.233.91:80/dren/dren/2587
-#EXTINF:-1 tvg-name="UK: DISCOVERY HISTORY HD" tvg-logo="" group-title="documentary",UK: DISCOVERY HISTORY HD
+http://op9fqvuz.megatv.fun/iptv/M3X9SWFL3R8WM8/218/index.m3u8
+#EXTINF:-1 tvg-name="UK: VIP DISCOVERY HISTORY" tvg-logo="https://docdog.top/logo/countries/uk/discoveryhistory.png" group-title="documentary",UK: VIP DISCOVERY HISTORY
 http://neosfpoo.top:8080/101778770428/e511208ea106/29792
-#EXTINF:-1 tvg-name="Discovery Science" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/Discovery_Channel_logo.png" group-title="documentary",Discovery Science
-http://nocable.cc:8080/r31BP4/588433/20866
+#EXTINF:-1 tvg-name="CA: DISCOVERY SCIENCE" tvg-logo="https://docdog.top/logo/countries/canada/discoveryscience.png" group-title="documentary",CA: DISCOVERY SCIENCE
+http://neosfpoo.top:8080/101778770428/e511208ea106/23714
 #EXTINF:-1 tvg-name="UK: DISCOVERY TURBO" tvg-logo="" group-title="documentary",UK: DISCOVERY TURBO
 http://neosfpoo.top:8080/101778770428/e511208ea106/29795
-#EXTINF:-1 tvg-name="UK: HISTORY 2 HD" tvg-logo="" group-title="documentary",UK: HISTORY 2 HD
-http://131.123.40.197:2095/lhn6784/lhn2401dd00bb66/64194
+#EXTINF:-1 tvg-name="UK: VIP HISTORY 2" tvg-logo="https://docdog.top/logo/countries/uk/history2.png" group-title="documentary",UK: VIP HISTORY 2
+http://neosfpoo.top:8080/8791778510331/6591fe5c11e9/29796
 #EXTINF:-1 tvg-name="CA: HISTORY" tvg-logo="https://docdog.top/logo/countries/canada/history.png" group-title="documentary",CA: HISTORY
 http://neosfpoo.top:8080/101778770428/e511208ea106/72048
-#EXTINF:-1 tvg-name="Investigation Discovery" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/investigation_discovery_logo.png" group-title="documentary",Investigation Discovery
-http://nocable.cc:8080/r31BP4/588433/46810
-#EXTINF:-1 tvg-name="Nat Geo Wild" tvg-logo="" group-title="documentary",Nat Geo Wild
-http://185.149.233.91:80/dren/dren/2588
+#EXTINF:-1 tvg-name="Investigation Discovery" tvg-logo="" group-title="documentary",Investigation Discovery
+http://op9fqvuz.megatv.fun/iptv/M3X9SWFL3R8WM8/2102/index.m3u8
+#EXTINF:-1 tvg-name="CA: NAT GEO WILD" tvg-logo="https://docdog.top/logo/countries/canada/wildtv.png" group-title="documentary",CA: NAT GEO WILD
+http://neosfpoo.top:8080/101778770428/e511208ea106/23781
 #EXTINF:-1 tvg-name="UK: Sky Documentaries" tvg-logo="" group-title="documentary",UK: Sky Documentaries
 http://neosfpoo.top:8080/101778770428/e511208ea106/29982
 #EXTINF:-1 tvg-name="UK: Sky Nature" tvg-logo="" group-title="documentary",UK: Sky Nature
-http://neosfpoo.top:8080/9821773832160/e162bde5a63b/29983
+http://neosfpoo.top:8080/101778770428/e511208ea106/29983
 #EXTINF:-1 tvg-name="CA: LOVE NATURE" tvg-logo="https://docdog.top/logo/countries/canada/lovenature.png" group-title="documentary",CA: LOVE NATURE
-http://neosfpoo.top:8080/101778770428/e511208ea106/72145
+http://neosfpoo.top:8080/101778770428/e511208ea106/23813
 #EXTINF:-1 tvg-name="CA: NAT GEO" tvg-logo="https://docdog.top/logo/countries/canada/natgeo.png" group-title="documentary",CA: NAT GEO
 http://neosfpoo.top:8080/101778770428/e511208ea106/72292
 #EXTINF:-1 tvg-name="USA: ALONE BY HISTORY" tvg-logo="" group-title="documentary",USA: ALONE BY HISTORY
 http://neosfpoo.top:8080/101778770428/e511208ea106/71069
 #EXTINF:-1 tvg-name="USA: AMERICAN PICKERS BY HISTORY" tvg-logo="" group-title="documentary",USA: AMERICAN PICKERS BY HISTORY
 http://neosfpoo.top:8080/101778770428/e511208ea106/71083
-#EXTINF:-1 tvg-name="US: ANIMAL PLANET WEST" tvg-logo="" group-title="documentary",US: ANIMAL PLANET WEST
-http://neosfpoo.top:8080/101778770428/e511208ea106/71089
+#EXTINF:-1 tvg-name="USA: ANIMAL PLANET (WEST)" tvg-logo="" group-title="documentary",USA: ANIMAL PLANET (WEST)
+http://neosfpoo.top:8080/8791778510331/6591fe5c11e9/71089
 #EXTINF:-1 tvg-name="USA: AX MEN BY HISTORY" tvg-logo="" group-title="documentary",USA: AX MEN BY HISTORY
 http://neosfpoo.top:8080/101778770428/e511208ea106/71115
-#EXTINF:-1 tvg-name="BBC Earth" tvg-logo="http://epg.netsolutionpro.com/logo-tv/188.hr.png" group-title="documentary",BBC Earth
-http://45.8.179.153:80/dren/dren/191
+#EXTINF:-1 tvg-name="USA: BBC EARTH" tvg-logo="" group-title="documentary",USA: BBC EARTH
+http://neosfpoo.top:8080/8791778510331/6591fe5c11e9/71133
 #EXTINF:-1 tvg-name="USA: DISCOVERY (EAST)" tvg-logo="" group-title="documentary",USA: DISCOVERY (EAST)
-http://neosfpoo.top:8080/101778770428/e511208ea106/71506
+http://neosfpoo.top:8080/9821773832160/e162bde5a63b/71506
 #EXTINF:-1 tvg-name="USA: DISCOVERY WEST" tvg-logo="" group-title="documentary",USA: DISCOVERY WEST
 http://neosfpoo.top:8080/101778770428/e511208ea106/71513
 #EXTINF:-1 tvg-name="USA: DISCOVERY FAMILY" tvg-logo="" group-title="documentary",USA: DISCOVERY FAMILY
@@ -69,20 +65,20 @@ http://neosfpoo.top:8080/101778770428/e511208ea106/71512
 http://neosfpoo.top:8080/101778770428/e511208ea106/71525
 #EXTINF:-1 tvg-name="USA: FORGED IN FIRE BY HISTORY" tvg-logo="" group-title="documentary",USA: FORGED IN FIRE BY HISTORY
 http://neosfpoo.top:8080/101778770428/e511208ea106/71804
-#EXTINF:-1 tvg-name="US: HBO Signature" tvg-logo="" group-title="documentary",US: HBO Signature
+#EXTINF:-1 tvg-name="USA: HBO SIGNATURE" tvg-logo="" group-title="documentary",USA: HBO SIGNATURE
 http://neosfpoo.top:8080/101778770428/e511208ea106/72031
 #EXTINF:-1 tvg-name="USA: HBO SIGNATURE EAST" tvg-logo="" group-title="documentary",USA: HBO SIGNATURE EAST
-http://neosfpoo.top:8080/101778770428/e511208ea106/72034
+http://neosfpoo.top:8080/101778770428/e511208ea106/72032
 #EXTINF:-1 tvg-name="USA: HBO SIGNATURE (WEST)" tvg-logo="" group-title="documentary",USA: HBO SIGNATURE (WEST)
-http://neosfpoo.top:8080/101778770428/e511208ea106/72033
+http://neosfpoo.top:8080/8791778510331/6591fe5c11e9/72033
 #EXTINF:-1 tvg-name="USA: HISTORY & WARFARE NOW" tvg-logo="" group-title="documentary",USA: HISTORY & WARFARE NOW
 http://neosfpoo.top:8080/101778770428/e511208ea106/72049
 #EXTINF:-1 tvg-name="USA: HISTORY 365" tvg-logo="" group-title="documentary",USA: HISTORY 365
 http://neosfpoo.top:8080/101778770428/e511208ea106/72050
 #EXTINF:-1 tvg-name="USA: HISTORY CHANNEL (EAST)" tvg-logo="" group-title="documentary",USA: HISTORY CHANNEL (EAST)
-http://neosfpoo.top:8080/101778770428/e511208ea106/72051
+http://neosfpoo.top:8080/8791778510331/6591fe5c11e9/72051
 #EXTINF:-1 tvg-name="USA: HISTORY CHANNEL (WEST)" tvg-logo="" group-title="documentary",USA: HISTORY CHANNEL (WEST)
-http://neosfpoo.top:8080/101778770428/e511208ea106/72052
+http://neosfpoo.top:8080/8791778510331/6591fe5c11e9/72052
 #EXTINF:-1 tvg-name="USA: ICE ROAD TRUCKERS BY HISTORY" tvg-logo="" group-title="documentary",USA: ICE ROAD TRUCKERS BY HISTORY
 http://neosfpoo.top:8080/101778770428/e511208ea106/72083
 #EXTINF:-1 tvg-name="USA: LOVE NATURE 4K FHD [Sᴛᴠ+]" tvg-logo="" group-title="documentary",USA: LOVE NATURE 4K FHD [Sᴛᴠ+]
@@ -111,89 +107,45 @@ http://neosfpoo.top:8080/101778770428/e511208ea106/73225
 http://neosfpoo.top:8080/101778770428/e511208ea106/73242
 #EXTINF:-1 tvg-name="USA: XTREME OUTDOOR BY HISTORY" tvg-logo="" group-title="documentary",USA: XTREME OUTDOOR BY HISTORY
 http://neosfpoo.top:8080/101778770428/e511208ea106/73269
-#EXTINF:-1 tvg-name="ID Discovery HD" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/investigation-discovery-logo.png" group-title="documentary",ID Discovery HD
-http://45.8.179.153:80/dren/dren/184
-#EXTINF:-1 tvg-name="DISCOVERY+-Discovery+1 HD" tvg-logo="" group-title="documentary",DISCOVERY+-Discovery+1 HD
-http://vewora.com:8080/live/700416vib/bg%4053%217%21%21U/df639949-c85e-4540-9347-85d75672c358.m3u
-#EXTINF:-1 tvg-name="DISCOVERY+-Discovery+2 HD" tvg-logo="" group-title="documentary",DISCOVERY+-Discovery+2 HD
-http://vewora.com:8080/live/700416vib/bg%4053%217%21%21U/ab7a1ed7-99c3-499a-8644-2daa1bbd7199.m3u
-#EXTINF:-1 tvg-name="DISCOVERY+-Discovery+3 HD" tvg-logo="" group-title="documentary",DISCOVERY+-Discovery+3 HD
-http://vewora.com:8080/live/700416vib/bg%4053%217%21%21U/a88f9074-6f0c-4db4-b730-32a96d26af1e.m3u
-#EXTINF:-1 tvg-name="DISCOVERY+-Discovery+4 HD" tvg-logo="" group-title="documentary",DISCOVERY+-Discovery+4 HD
-http://vewora.com:8080/live/700416vib/bg%4053%217%21%21U/cd45e2a5-8335-4a0a-9262-42e059a55b48.m3u
-#EXTINF:-1 tvg-name="DISCOVERY+-Discovery+5 HD" tvg-logo="" group-title="documentary",DISCOVERY+-Discovery+5 HD
-http://vewora.com:8080/live/700416vib/bg%4053%217%21%21U/b842c139-43d6-454f-8fa0-2228c8482979.m3u
-#EXTINF:-1 tvg-name="DISCOVERY+-Discovery+6 HD" tvg-logo="" group-title="documentary",DISCOVERY+-Discovery+6 HD
-http://vewora.com:8080/live/700416vib/bg%4053%217%21%21U/3bdfff43-351b-4976-bfc2-244b62ff9d87.m3u
-#EXTINF:-1 tvg-name="DISCOVERY+-Discovery+7 HD" tvg-logo="" group-title="documentary",DISCOVERY+-Discovery+7 HD
-http://vewora.com:8080/live/700416vib/bg%4053%217%21%21U/30e65998-6257-4839-8b83-98534c09620b.m3u
-#EXTINF:-1 tvg-name="DISCOVERY+-Discovery+8 HD" tvg-logo="" group-title="documentary",DISCOVERY+-Discovery+8 HD
-http://vewora.com:8080/live/700416vib/bg%4053%217%21%21U/bd85d3c9-221a-4fbe-8881-4b7f44524a96.m3u
+#EXTINF:-1 tvg-name="Investigation Discovery HD orig" tvg-logo="" group-title="documentary",Investigation Discovery HD orig
+http://op9fqvuz.megatv.fun/iptv/M3X9SWFL3R8WM8/9322/index.m3u8
+#EXTINF:-1 tvg-name="BBC Earth CA" tvg-logo="" group-title="documentary",BBC Earth CA
+http://ul7satsn.ottclub.xyz/iptv/22LA539HWWB78T/32077/index.m3u8
+#EXTINF:-1 tvg-name="Investigation Discovery SE" tvg-logo="" group-title="documentary",Investigation Discovery SE
+http://ul7satsn.ottclub.xyz/iptv/22LA539HWWB78T/12051/index.m3u8
 #EXTINF:-1 tvg-name="UK: DOCUMENTARY 12" tvg-logo="" group-title="documentary",UK: DOCUMENTARY 12
-http://31.43.191.125:8080/vip8451787127988/cdf29aaa9bc1/146772
+http://31.43.191.125:8080/vip9891786472877/d4fe7bf2dee8/146772
 #EXTINF:-1 tvg-name="UK: DOCUMENTARY 11" tvg-logo="" group-title="documentary",UK: DOCUMENTARY 11
-http://31.43.191.125:8080/vip8451787127988/cdf29aaa9bc1/146773
+http://31.43.191.125:8080/vip9891786472877/d4fe7bf2dee8/146773
 #EXTINF:-1 tvg-name="UK: DOCUMENTARY 10" tvg-logo="" group-title="documentary",UK: DOCUMENTARY 10
-http://31.43.191.125:8080/vip4871770762623/3fad5d18fc96/146774
+http://31.43.191.125:8080/vip9891786472877/d4fe7bf2dee8/146774
 #EXTINF:-1 tvg-name="UK: DOCUMENTARY 9" tvg-logo="" group-title="documentary",UK: DOCUMENTARY 9
-http://31.43.191.125:8080/vip4871770762623/3fad5d18fc96/146775
+http://31.43.191.125:8080/vip9891786472877/d4fe7bf2dee8/146775
 #EXTINF:-1 tvg-name="UK: DOCUMENTARY 8" tvg-logo="" group-title="documentary",UK: DOCUMENTARY 8
-http://31.43.191.125:8080/vip4871770762623/3fad5d18fc96/146776
+http://31.43.191.125:8080/vip9891786472877/d4fe7bf2dee8/146776
 #EXTINF:-1 tvg-name="UK: DOCUMENTARY 7" tvg-logo="" group-title="documentary",UK: DOCUMENTARY 7
-http://31.43.191.125:8080/vip4871770762623/3fad5d18fc96/146777
+http://31.43.191.125:8080/vip9891786472877/d4fe7bf2dee8/146777
 #EXTINF:-1 tvg-name="UK: DOCUMENTARY 6" tvg-logo="" group-title="documentary",UK: DOCUMENTARY 6
-http://31.43.191.125:8080/vip8451787127988/cdf29aaa9bc1/146778
+http://31.43.191.125:8080/vip5361785063764/a40eb73b1039/146778
 #EXTINF:-1 tvg-name="UK: DOCUMENTARY 5" tvg-logo="" group-title="documentary",UK: DOCUMENTARY 5
-http://31.43.191.125:8080/vip4871770762623/3fad5d18fc96/146779
+http://31.43.191.125:8080/vip5361785063764/a40eb73b1039/146779
 #EXTINF:-1 tvg-name="UK: DOCUMENTARY 4" tvg-logo="" group-title="documentary",UK: DOCUMENTARY 4
-http://31.43.191.125:8080/vip4871770762623/3fad5d18fc96/146780
+http://31.43.191.125:8080/vip5361785063764/a40eb73b1039/146780
 #EXTINF:-1 tvg-name="UK: DOCUMENTARY 3" tvg-logo="" group-title="documentary",UK: DOCUMENTARY 3
-http://31.43.191.125:8080/vip4871770762623/3fad5d18fc96/146781
+http://31.43.191.125:8080/vip5361785063764/a40eb73b1039/146781
 #EXTINF:-1 tvg-name="UK: DOCUMENTARY 2" tvg-logo="" group-title="documentary",UK: DOCUMENTARY 2
-http://31.43.191.125:8080/vip8451787127988/cdf29aaa9bc1/146782
+http://31.43.191.125:8080/vip5361785063764/a40eb73b1039/146782
 #EXTINF:-1 tvg-name="UK: DOCUMENTARY 1" tvg-logo="" group-title="documentary",UK: DOCUMENTARY 1
-http://31.43.191.125:8080/vip8451787127988/cdf29aaa9bc1/146783
+http://31.43.191.125:8080/vip5361785063764/a40eb73b1039/146783
 #EXTINF:-1 tvg-name="UK: BEST OF DOCUMENTARY 5" tvg-logo="" group-title="documentary",UK: BEST OF DOCUMENTARY 5
-http://31.43.191.125:8080/vip8451787127988/cdf29aaa9bc1/146784
+http://31.43.191.125:8080/vip9891786472877/d4fe7bf2dee8/146784
 #EXTINF:-1 tvg-name="UK: BEST OF DOCUMENTARY 4" tvg-logo="" group-title="documentary",UK: BEST OF DOCUMENTARY 4
-http://31.43.191.125:8080/vip8451787127988/cdf29aaa9bc1/146785
+http://31.43.191.125:8080/vip9891786472877/d4fe7bf2dee8/146785
 #EXTINF:-1 tvg-name="UK: BEST OF DOCUMENTARY 3" tvg-logo="" group-title="documentary",UK: BEST OF DOCUMENTARY 3
-http://31.43.191.125:8080/vip8451787127988/cdf29aaa9bc1/146786
+http://31.43.191.125:8080/vip9891786472877/d4fe7bf2dee8/146786
 #EXTINF:-1 tvg-name="UK: BEST OF DOCUMENTARY 2" tvg-logo="" group-title="documentary",UK: BEST OF DOCUMENTARY 2
-http://31.43.191.125:8080/vip8451787127988/cdf29aaa9bc1/146787
+http://31.43.191.125:8080/vip9891786472877/d4fe7bf2dee8/146787
 #EXTINF:-1 tvg-name="UK: BEST OF DOCUMENTARY 1" tvg-logo="" group-title="documentary",UK: BEST OF DOCUMENTARY 1
-http://31.43.191.125:8080/vip8451787127988/cdf29aaa9bc1/146788
+http://31.43.191.125:8080/vip9891786472877/d4fe7bf2dee8/146788
 #EXTINF:-1 tvg-name="UK: Sky History" tvg-logo="" group-title="documentary",UK: Sky History
-http://31.43.191.125:8080/vip8451787127988/cdf29aaa9bc1/147008
-#EXTINF:-1 tvg-name="FOREST DISCOVERY" tvg-logo="" group-title="documentary",FOREST DISCOVERY
-http://131.123.40.197:2095/lhn6784/lhn2401dd00bb66/165428
-#EXTINF:-1 tvg-name="Discovery World" tvg-logo="" group-title="documentary",Discovery World
-http://131.123.40.197:2095/lhn6784/lhn2401dd00bb66/155423
-#EXTINF:-1 tvg-name="Discovery Showcase HD" tvg-logo="" group-title="documentary",Discovery Showcase HD
-http://131.123.40.197:2095/lhn6784/lhn2401dd00bb66/146037
-#EXTINF:-1 tvg-name="Discovery Turbo xtra HD" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/Discovery_Turbo_Xtra_Logo.png" group-title="documentary",Discovery Turbo xtra HD
-http://185.149.233.91:80/dren/dren/202
-#EXTINF:-1 tvg-name="Discovery" tvg-logo="" group-title="documentary",Discovery
-http://caffe.link:25461/65tomislavrajicfrend/pOkeqhfnsB/73560
-#EXTINF:-1 tvg-name="ID Investigation Discovery" tvg-logo="" group-title="documentary",ID Investigation Discovery
-http://131.123.40.197:2095/lhn6784/lhn2401dd00bb66/152704
-#EXTINF:-1 tvg-name="UK: SKY HISTORY 1 HD" tvg-logo="" group-title="documentary",UK: SKY HISTORY 1 HD
-http://131.123.40.197:2095/lhn6784/lhn2401dd00bb66/58669
-#EXTINF:-1 tvg-name="UK: VIASAT HISTORY HD" tvg-logo="" group-title="documentary",UK: VIASAT HISTORY HD
-http://131.123.40.197:2095/lhn6784/lhn2401dd00bb66/1483
-#EXTINF:-1 tvg-name="US: ANIMAL PLANET EAST" tvg-logo="" group-title="documentary",US: ANIMAL PLANET EAST
-http://nocable.cc:8080/r31BP4/588433/17870
-#EXTINF:-1 tvg-name="US: History Channel HD" tvg-logo="" group-title="documentary",US: History Channel HD
-http://nocable.cc:8080/r31BP4/588433/15017
-#EXTINF:-1 tvg-name="Animal Planet DE" tvg-logo="" group-title="documentary",Animal Planet DE
-http://caffe.link:25461/65tomislavrajicfrend/pOkeqhfnsB/13668
-#EXTINF:-1 tvg-name="Nat Geo Wild DE" tvg-logo="http://5.189.149.253/logo/Dokumentarni/NationalGeoWildHD.png" group-title="documentary",Nat Geo Wild DE
-http://caffe.link:25461/65tomislavrajicfrend/pOkeqhfnsB/1542
-#EXTINF:-1 tvg-name="Nat Geo Wild UK" tvg-logo="http://5.189.149.253/logo/Dokumentarni/NationalGeoWildHD.png" group-title="documentary",Nat Geo Wild UK
-http://caffe.link:25461/65tomislavrajicfrend/pOkeqhfnsB/1593
-#EXTINF:-1 tvg-name="Investigation Discovery UK" tvg-logo="https://tvprofil.com/img/kanali-logo/investigation_discovery_logo.png" group-title="documentary",Investigation Discovery UK
-http://caffe.link:25461/65tomislavrajicfrend/pOkeqhfnsB/1589
-#EXTINF:-1 tvg-name="Animal Planet (NL)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Animal_Planet_logo_%28black_and_green%29.svg/200px-Animal_Planet_logo_%28black_and_green%29.svg.png" group-title="documentary",Animal Planet (NL)
-http://caffe.link:25461/65tomislavrajicfrend/pOkeqhfnsB/13669
-#EXTINF:-1 tvg-name="Discovery FR" tvg-logo="https://tvprofil.com/img/kanali-logo/Discovery_Channel_logo.png" group-title="documentary",Discovery FR
-http://caffe.link:25461/65tomislavrajicfrend/pOkeqhfnsB/3699
+http://31.43.191.125:8080/vip5361785063764/a40eb73b1039/147008
