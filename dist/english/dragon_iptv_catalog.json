@@ -330,7 +330,7 @@
     "primary_url": "http://fastrunner.live:8080/Cipri/Bogdan/2RLEKwNy9t/54972",
     "alternates": [],
     "source_file": "FIW_1792562627_2_df9a74_Hunter_76EE.m3u",
-    "health_status": "reachable",
+    "health_status": "unreachable",
     "health_checked_urls": 1,
     "health_promoted": false
   },
@@ -2085,8 +2085,8 @@
       "http://poseidon.neorpahe.top:8080/35173852759174/dy7yfmfmynuv/23723"
     ],
     "source_file": "FIW_1792562621_1_17c9a4_Hunter_9EDC.m3u",
-    "health_status": "reachable",
-    "health_checked_urls": 1,
+    "health_status": "unreachable",
+    "health_checked_urls": 3,
     "health_promoted": false
   },
   {
@@ -3811,16 +3811,16 @@
     ],
     "raw_group": "",
     "logo": "",
-    "primary_url": "http://drsv.mov:80/live/svoqldyw/r0UbQhA/275001.m3u8",
+    "primary_url": "http://drsv.mov:80/live/svoqldyw/r0UbQhA/277329.m3u8",
     "alternates": [
-      "http://drsv.mov:80/live/svoqldyw/r0UbQhA/277329.m3u8",
+      "http://drsv.mov:80/live/svoqldyw/r0UbQhA/275001.m3u8",
       "http://poseidon.neorpahe.top:8080/35173852759174/dy7yfmfmynuv/71887",
       "http://poseidon.neorpahe.top:8080/35173852759174/dy7yfmfmynuv/29909"
     ],
     "source_file": "FIW_1792562621_1_17c9a4_Hunter_9EDC.m3u",
     "health_status": "reachable",
-    "health_checked_urls": 2,
-    "health_promoted": true
+    "health_checked_urls": 1,
+    "health_promoted": false
   },
   {
     "id": "dragon_english_642abbec5bea",
@@ -4619,8 +4619,8 @@
       "http://poseidon.neorpahe.top:8080/35173852759174/dy7yfmfmynuv/23725"
     ],
     "source_file": "FIW_1792562621_1_17c9a4_Hunter_9EDC.m3u",
-    "health_status": "reachable",
-    "health_checked_urls": 1,
+    "health_status": "unreachable",
+    "health_checked_urls": 3,
     "health_promoted": false
   },
   {
@@ -48989,7 +48989,7 @@
     "primary_url": "http://drsv.mov:80/live/svoqldyw/r0UbQhA/277379.m3u8",
     "alternates": [],
     "source_file": "FIW_1792562621_1_17c9a4_Hunter_9EDC.m3u",
-    "health_status": "reachable",
+    "health_status": "unreachable",
     "health_checked_urls": 1,
     "health_promoted": false
   },
@@ -49231,7 +49231,7 @@
     "primary_url": "http://drsv.mov:80/live/svoqldyw/r0UbQhA/277341.m3u8",
     "alternates": [],
     "source_file": "FIW_1792562621_1_17c9a4_Hunter_9EDC.m3u",
-    "health_status": "unreachable",
+    "health_status": "reachable",
     "health_checked_urls": 1,
     "health_promoted": false
   },
