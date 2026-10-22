@@ -1,20 +1,468 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Eurosport 1" tvg-logo="" group-title="sports",Eurosport 1
-http://op9fqvuz.megatv.fun/iptv/M3X9SWFL3R8WM8/228/index.m3u8
-#EXTINF:-1 tvg-name="Eurosport 2 HD" tvg-logo="" group-title="sports",Eurosport 2 HD
-http://op9fqvuz.megatv.fun/iptv/M3X9SWFL3R8WM8/234/index.m3u8
-#EXTINF:-1 tvg-name="Eurosport 1 orig" tvg-logo="" group-title="sports",Eurosport 1 orig
-http://op9fqvuz.megatv.fun/iptv/M3X9SWFL3R8WM8/9247/index.m3u8
-#EXTINF:-1 tvg-name="Eurosport 2 HD orig" tvg-logo="" group-title="sports",Eurosport 2 HD orig
-http://op9fqvuz.megatv.fun/iptv/M3X9SWFL3R8WM8/5076/index.m3u8
-#EXTINF:-1 tvg-name="ESPNews US" tvg-logo="" group-title="sports",ESPNews US
-http://op9fqvuz.megatv.fun/iptv/M3X9SWFL3R8WM8/19154/index.m3u8
+#EXTINF:-1 tvg-name="KSPN ESPN LA 710 AM live" tvg-logo="" group-title="sports",KSPN ESPN LA 710 AM live
+http://1tv41.icu:8080/BadTfnQ2/5392597610/122752
+#EXTINF:-1 tvg-name="WKNR 850 ESPN Cleveland live" tvg-logo="" group-title="sports",WKNR 850 ESPN Cleveland live
+http://1tv41.icu:8080/BadTfnQ2/5392597610/122630
+#EXTINF:-1 tvg-name="WTLA ESPN Radio 97.7 live" tvg-logo="" group-title="sports",WTLA ESPN Radio 97.7 live
+http://1tv41.icu:8080/BadTfnQ2/5392597610/122785
+#EXTINF:-1 tvg-name="ESPN Dallas 103.3 FM live" tvg-logo="" group-title="sports",ESPN Dallas 103.3 FM live
+http://1tv41.icu:8080/BadTfnQ2/5392597610/122842
+#EXTINF:-1 tvg-name="ESPN 106.7 live" tvg-logo="" group-title="sports",ESPN 106.7 live
+http://1tv41.icu:8080/BadTfnQ2/5392597610/122836
+#EXTINF:-1 tvg-name="WVSP ESPN Radio 94.1 live" tvg-logo="" group-title="sports",WVSP ESPN Radio 94.1 live
+http://1tv41.icu:8080/BadTfnQ2/5392597610/122889
+#EXTINF:-1 tvg-name="WSEG ESPN Radio FM 104.3 live" tvg-logo="" group-title="sports",WSEG ESPN Radio FM 104.3 live
+http://1tv41.icu:8080/BadTfnQ2/5392597610/123018
+#EXTINF:-1 tvg-name="KLRZ ESPN 100.3 FM live" tvg-logo="" group-title="sports",KLRZ ESPN 100.3 FM live
+http://1tv41.icu:8080/BadTfnQ2/5392597610/123481
+#EXTINF:-1 tvg-name="KEPN ESPN Denver 1600 AM live" tvg-logo="" group-title="sports",KEPN ESPN Denver 1600 AM live
+http://1tv41.icu:8080/BadTfnQ2/5392597610/123700
+#EXTINF:-1 tvg-name="WRUF ESPN 850 / 98.1 live" tvg-logo="" group-title="sports",WRUF ESPN 850 / 98.1 live
+http://1tv41.icu:8080/BadTfnQ2/5392597610/123745
+#EXTINF:-1 tvg-name="KRZI ESPN Central Texas live" tvg-logo="" group-title="sports",KRZI ESPN Central Texas live
+http://1tv41.icu:8080/BadTfnQ2/5392597610/123813
+#EXTINF:-1 tvg-name="WZZN ESPN 97.7 The Zone live" tvg-logo="" group-title="sports",WZZN ESPN 97.7 The Zone live
+http://1tv41.icu:8080/BadTfnQ2/5392597610/124525
+#EXTINF:-1 tvg-name="KFIG 940 AM ESPN Fresno live" tvg-logo="" group-title="sports",KFIG 940 AM ESPN Fresno live
+http://1tv41.icu:8080/BadTfnQ2/5392597610/124609
+#EXTINF:-1 tvg-name="KFFN ESPN Tucson 1490 AM & 104.9 FM live" tvg-logo="" group-title="sports",KFFN ESPN Tucson 1490 AM & 104.9 FM live
+http://1tv41.icu:8080/BadTfnQ2/5392597610/124719
+#EXTINF:-1 tvg-name="KSHQ ESPN 100.7 FM live" tvg-logo="" group-title="sports",KSHQ ESPN 100.7 FM live
+http://1tv41.icu:8080/BadTfnQ2/5392597610/124894
+#EXTINF:-1 tvg-name="WTIG ESPN Radio 990 AM live" tvg-logo="" group-title="sports",WTIG ESPN Radio 990 AM live
+http://1tv41.icu:8080/BadTfnQ2/5392597610/124911
+#EXTINF:-1 tvg-name="WSJK ESPN 93.5 live" tvg-logo="" group-title="sports",WSJK ESPN 93.5 live
+http://1tv41.icu:8080/BadTfnQ2/5392597610/125047
+#EXTINF:-1 tvg-name="WWKU ESPN 102.7 FM live" tvg-logo="" group-title="sports",WWKU ESPN 102.7 FM live
+http://1tv41.icu:8080/BadTfnQ2/5392597610/125055
+#EXTINF:-1 tvg-name="WRGM ESPN Radio 106.7 FM live" tvg-logo="" group-title="sports",WRGM ESPN Radio 106.7 FM live
+http://1tv41.icu:8080/BadTfnQ2/5392597610/125203
+#EXTINF:-1 tvg-name="KTOQ ESPN Rapid City live" tvg-logo="" group-title="sports",KTOQ ESPN Rapid City live
+http://1tv41.icu:8080/BadTfnQ2/5392597610/125214
+#EXTINF:-1 tvg-name="KZDC ESPN San Antonio 1250 AM and 94.5 FM live" tvg-logo="" group-title="sports",KZDC ESPN San Antonio 1250 AM and 94.5 FM live
+http://1tv41.icu:8080/BadTfnQ2/5392597610/125256
+#EXTINF:-1 tvg-name="KQTM ESPN Albuquerque 101.7 FM live" tvg-logo="" group-title="sports",KQTM ESPN Albuquerque 101.7 FM live
+http://1tv41.icu:8080/BadTfnQ2/5392597610/125311
+#EXTINF:-1 tvg-name="KXLX ESPN Spokane 700 AM live" tvg-logo="" group-title="sports",KXLX ESPN Spokane 700 AM live
+http://1tv41.icu:8080/BadTfnQ2/5392597610/125543
+#EXTINF:-1 tvg-name="WISW ESPN Radio 1320 live" tvg-logo="" group-title="sports",WISW ESPN Radio 1320 live
+http://1tv41.icu:8080/BadTfnQ2/5392597610/138265
+#EXTINF:-1 tvg-name="WZGV ESPN 730 AM live" tvg-logo="" group-title="sports",WZGV ESPN 730 AM live
+http://1tv41.icu:8080/BadTfnQ2/5392597610/138299
+#EXTINF:-1 tvg-name="WMTD ESPN 102.3 The Ticket live" tvg-logo="" group-title="sports",WMTD ESPN 102.3 The Ticket live
+http://1tv41.icu:8080/BadTfnQ2/5392597610/138317
+#EXTINF:-1 tvg-name="KSLD ESPN 1140 AM live" tvg-logo="" group-title="sports",KSLD ESPN 1140 AM live
+http://1tv41.icu:8080/BadTfnQ2/5392597610/138358
+#EXTINF:-1 tvg-name="WSBN ESPN Capitol 630 AM live" tvg-logo="" group-title="sports",WSBN ESPN Capitol 630 AM live
+http://1tv41.icu:8080/BadTfnQ2/5392597610/138363
+#EXTINF:-1 tvg-name="ESPN 970 WFUN live" tvg-logo="" group-title="sports",ESPN 970 WFUN live
+http://1tv41.icu:8080/BadTfnQ2/5392597610/138392
+#EXTINF:-1 tvg-name="KCTC ESPN 1320 AM KIFM live" tvg-logo="" group-title="sports",KCTC ESPN 1320 AM KIFM live
+http://1tv41.icu:8080/BadTfnQ2/5392597610/139077
+#EXTINF:-1 tvg-name="WRNY ESPN Utica-Rome 1310 1350 AM live" tvg-logo="" group-title="sports",WRNY ESPN Utica-Rome 1310 1350 AM live
+http://1tv41.icu:8080/BadTfnQ2/5392597610/138444
+#EXTINF:-1 tvg-name="WECU ESPN Greenville 1570 AM live" tvg-logo="" group-title="sports",WECU ESPN Greenville 1570 AM live
+http://1tv41.icu:8080/BadTfnQ2/5392597610/138477
+#EXTINF:-1 tvg-name="KVTK ESPN Radio 1570 live" tvg-logo="" group-title="sports",KVTK ESPN Radio 1570 live
+http://1tv41.icu:8080/BadTfnQ2/5392597610/138485
+#EXTINF:-1 tvg-name="WBLT / WVGM ESPN Radio in Virginia live" tvg-logo="" group-title="sports",WBLT / WVGM ESPN Radio in Virginia live
+http://1tv41.icu:8080/BadTfnQ2/5392597610/138612
+#EXTINF:-1 tvg-name="WDZ 1050 ESPN Decatur live" tvg-logo="" group-title="sports",WDZ 1050 ESPN Decatur live
+http://1tv41.icu:8080/BadTfnQ2/5392597610/138640
+#EXTINF:-1 tvg-name="WEBY ESPN Pensacola live" tvg-logo="" group-title="sports",WEBY ESPN Pensacola live
+http://1tv41.icu:8080/BadTfnQ2/5392597610/138677
+#EXTINF:-1 tvg-name="KYZS 1490 AM & 95.7 FM ESPN Tyler live" tvg-logo="" group-title="sports",KYZS 1490 AM & 95.7 FM ESPN Tyler live
+http://1tv41.icu:8080/BadTfnQ2/5392597610/138768
+#EXTINF:-1 tvg-name="WOPI ESPN Tri-Cities 1490 AM live" tvg-logo="" group-title="sports",WOPI ESPN Tri-Cities 1490 AM live
+http://1tv41.icu:8080/BadTfnQ2/5392597610/138890
+#EXTINF:-1 tvg-name="WSFN ESPN Coastal Georgia live" tvg-logo="" group-title="sports",WSFN ESPN Coastal Georgia live
+http://1tv41.icu:8080/BadTfnQ2/5392597610/138895
+#EXTINF:-1 tvg-name="ESPN 103.9 FM / 1490 AM live" tvg-logo="" group-title="sports",ESPN 103.9 FM / 1490 AM live
+http://1tv41.icu:8080/BadTfnQ2/5392597610/139074
+#EXTINF:-1 tvg-name="AU: FOX SPORTS 505" tvg-logo="" group-title="sports",AU: FOX SPORTS 505
+http://1tv41.icu:8080/BadTfnQ2/5392597610/57771
+#EXTINF:-1 tvg-name="CA: Ginx esports TV" tvg-logo="" group-title="sports",CA: Ginx esports TV
+http://1tv41.icu:8080/BadTfnQ2/5392597610/57431
+#EXTINF:-1 tvg-name="CA: Sportsnet Ontario" tvg-logo="" group-title="sports",CA: Sportsnet Ontario
+http://1tv41.icu:8080/BadTfnQ2/5392597610/57463
+#EXTINF:-1 tvg-name="CA: SPORTSNET WEST" tvg-logo="" group-title="sports",CA: SPORTSNET WEST
+http://1tv41.icu:8080/BadTfnQ2/5392597610/57300
+#EXTINF:-1 tvg-name="CA-FR | TVA SPORTS 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2c/Tva_quebec_logo_detail.png" group-title="sports",CA-FR | TVA SPORTS 1
+http://1tv41.icu:8080/BadTfnQ2/5392597610/57498
+#EXTINF:-1 tvg-name="Carib ESPN" tvg-logo="https://caribbean.espnpressroom.com/wp-content/uploads/2019/03/RS1746_ESPN_Caribbean_CLR_Pos-scr.jpg" group-title="sports",Carib ESPN
+http://1tv41.icu:8080/BadTfnQ2/5392597610/99624
+#EXTINF:-1 tvg-name="UK-Sky Sports Arena" tvg-logo="" group-title="sports",UK-Sky Sports Arena
+http://1tv41.icu:8080/BadTfnQ2/5392597610/35238
+#EXTINF:-1 tvg-name="UK-Sky Sports Main Event" tvg-logo="" group-title="sports",UK-Sky Sports Main Event
+http://1tv41.icu:8080/BadTfnQ2/5392597610/35243
+#EXTINF:-1 tvg-name="UK-Sky Sports News" tvg-logo="" group-title="sports",UK-Sky Sports News
+http://1tv41.icu:8080/BadTfnQ2/5392597610/35241
+#EXTINF:-1 tvg-name="UK: SKY SP RACING FHD" tvg-logo="" group-title="sports",UK: SKY SP RACING FHD
+http://1tv41.icu:8080/BadTfnQ2/5392597610/76842
+#EXTINF:-1 tvg-name="US ESPN NEWS" tvg-logo="https://res-2.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco/v1460573872/gjea3w1kxocgn0qviykf.png" group-title="sports",US ESPN NEWS
+http://1tv41.icu:8080/BadTfnQ2/5392597610/17707
+#EXTINF:-1 tvg-name="US ESPN SEC Network" tvg-logo="" group-title="sports",US ESPN SEC Network
+http://1tv41.icu:8080/BadTfnQ2/5392597610/17608
+#EXTINF:-1 tvg-name="US ESPN 2" tvg-logo="https://res-2.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco/v1460573872/gjea3w1kxocgn0qviykf.png" group-title="sports",US ESPN 2
+http://1tv41.icu:8080/BadTfnQ2/5392597610/2210
+#EXTINF:-1 tvg-name="US ESPN 1 (HD)" tvg-logo="https://res-2.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco/v1460573872/gjea3w1kxocgn0qviykf.png" group-title="sports",US ESPN 1 (HD)
+http://1tv41.icu:8080/BadTfnQ2/5392597610/9802
+#EXTINF:-1 tvg-name="US ESPNU College Sports" tvg-logo="https://res-2.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco/v1460573872/gjea3w1kxocgn0qviykf.png" group-title="sports",US ESPNU College Sports
+http://1tv41.icu:8080/BadTfnQ2/5392597610/10255
+#EXTINF:-1 tvg-name="US ESPN8: The Ocho" tvg-logo="" group-title="sports",US ESPN8: The Ocho
+http://1tv41.icu:8080/BadTfnQ2/5392597610/329471
+#EXTINF:-1 tvg-name="Carib ESPN2" tvg-logo="" group-title="sports",Carib ESPN2
+http://1tv41.icu:8080/BadTfnQ2/5392597610/99623
+#EXTINF:-1 tvg-name="(ES) (VF) Eurosport 1" tvg-logo="" group-title="sports",(ES) (VF) Eurosport 1
+http://1tv41.icu:8080/BadTfnQ2/5392597610/327742
+#EXTINF:-1 tvg-name="(ES) (VF) Eurosport 2" tvg-logo="" group-title="sports",(ES) (VF) Eurosport 2
+http://1tv41.icu:8080/BadTfnQ2/5392597610/327743
+#EXTINF:-1 tvg-name="UK EuroSport 1 UK (P)" tvg-logo="" group-title="sports",UK EuroSport 1 UK (P)
+http://1tv41.icu:8080/BadTfnQ2/5392597610/53713
+#EXTINF:-1 tvg-name="UK-Sky Sports Action" tvg-logo="" group-title="sports",UK-Sky Sports Action
+http://1tv41.icu:8080/BadTfnQ2/5392597610/53705
+#EXTINF:-1 tvg-name="NCAAB 001 | MARYLAND EASTERN SHORE @ YOUNGSTOWN STATE (W) | 3.24 6:30 PM | ESPN+" tvg-logo="" group-title="sports",NCAAB 001 | MARYLAND EASTERN SHORE @ YOUNGSTOWN STATE (W) | 3.24 6:30 PM | ESPN+
+http://1tv41.icu:8080/BadTfnQ2/5392597610/265458
+#EXTINF:-1 tvg-name="NCAAB 002 | FLORIDA INTERNATIONAL @ ABILENE CHRISTIAN (W) | 3.24 7:00 PM | ESPN+" tvg-logo="" group-title="sports",NCAAB 002 | FLORIDA INTERNATIONAL @ ABILENE CHRISTIAN (W) | 3.24 7:00 PM | ESPN+
+http://1tv41.icu:8080/BadTfnQ2/5392597610/265459
+#EXTINF:-1 tvg-name="NCAAB 004 | WICHITA STATE @ TULSA (M) | 3.24 7:00 PM | ESPN2" tvg-logo="" group-title="sports",NCAAB 004 | WICHITA STATE @ TULSA (M) | 3.24 7:00 PM | ESPN2
+http://1tv41.icu:8080/BadTfnQ2/5392597610/265461
+#EXTINF:-1 tvg-name="NCAAB 005 | SAINT JOSEPHS @ NEW MEXICO (M) | 3.24 9:00 PM | ESPN2" tvg-logo="" group-title="sports",NCAAB 005 | SAINT JOSEPHS @ NEW MEXICO (M) | 3.24 9:00 PM | ESPN2
+http://1tv41.icu:8080/BadTfnQ2/5392597610/265462
+#EXTINF:-1 tvg-name="BR (DTV) ESPN 3 (D)" tvg-logo="" group-title="sports",BR (DTV) ESPN 3 (D)
+http://1tv41.icu:8080/BadTfnQ2/5392597610/266474
+#EXTINF:-1 tvg-name="BR (DTV) ESPN 5 (D)" tvg-logo="" group-title="sports",BR (DTV) ESPN 5 (D)
+http://1tv41.icu:8080/BadTfnQ2/5392597610/266477
+#EXTINF:-1 tvg-name="BR (DTV) ESPN 6 (D)" tvg-logo="" group-title="sports",BR (DTV) ESPN 6 (D)
+http://1tv41.icu:8080/BadTfnQ2/5392597610/266503
+#EXTINF:-1 tvg-name="BR (DTV) ESPN (D)" tvg-logo="" group-title="sports",BR (DTV) ESPN (D)
+http://1tv41.icu:8080/BadTfnQ2/5392597610/266530
+#EXTINF:-1 tvg-name="BR (DTV) ESPN 4 (D)" tvg-logo="" group-title="sports",BR (DTV) ESPN 4 (D)
+http://1tv41.icu:8080/BadTfnQ2/5392597610/266532
+#EXTINF:-1 tvg-name="BR (DTV) ESPN 2 (D)" tvg-logo="" group-title="sports",BR (DTV) ESPN 2 (D)
+http://1tv41.icu:8080/BadTfnQ2/5392597610/266545
+#EXTINF:-1 tvg-name="PT (VF) Eurosport 2" tvg-logo="" group-title="sports",PT (VF) Eurosport 2
+http://1tv41.icu:8080/BadTfnQ2/5392597610/266642
+#EXTINF:-1 tvg-name="PT (VF) Eurosport 1" tvg-logo="" group-title="sports",PT (VF) Eurosport 1
+http://1tv41.icu:8080/BadTfnQ2/5392597610/266643
+#EXTINF:-1 tvg-name="101 ESPN" tvg-logo="" group-title="sports",101 ESPN
+http://1tv41.icu:8080/BadTfnQ2/5392597610/272413
+#EXTINF:-1 tvg-name="ESPN Radio 106.3" tvg-logo="" group-title="sports",ESPN Radio 106.3
+http://1tv41.icu:8080/BadTfnQ2/5392597610/273210
+#EXTINF:-1 tvg-name="910 ESPN Billings KBLG" tvg-logo="" group-title="sports",910 ESPN Billings KBLG
+http://1tv41.icu:8080/BadTfnQ2/5392597610/273997
+#EXTINF:-1 tvg-name="ESPN 710 Los Angeles" tvg-logo="" group-title="sports",ESPN 710 Los Angeles
+http://1tv41.icu:8080/BadTfnQ2/5392597610/276134
+#EXTINF:-1 tvg-name="94.5 ESPN FM Milwaukee" tvg-logo="" group-title="sports",94.5 ESPN FM Milwaukee
+http://1tv41.icu:8080/BadTfnQ2/5392597610/277479
+#EXTINF:-1 tvg-name="ESPN Radio" tvg-logo="" group-title="sports",ESPN Radio
+http://1tv41.icu:8080/BadTfnQ2/5392597610/279253
+#EXTINF:-1 tvg-name="KOVO AM 960 and FM 103.9 and 98.3 ESPN the Fan Provo - Utah" tvg-logo="" group-title="sports",KOVO AM 960 and FM 103.9 and 98.3 ESPN the Fan Provo - Utah
+http://1tv41.icu:8080/BadTfnQ2/5392597610/279707
+#EXTINF:-1 tvg-name="KALL radio - ESPN 700" tvg-logo="" group-title="sports",KALL radio - ESPN 700
+http://1tv41.icu:8080/BadTfnQ2/5392597610/280984
+#EXTINF:-1 tvg-name="930 AM WKY ESPN Deportes" tvg-logo="" group-title="sports",930 AM WKY ESPN Deportes
+http://1tv41.icu:8080/BadTfnQ2/5392597610/283722
+#EXTINF:-1 tvg-name="KLAS ESPN Sports FM 89" tvg-logo="" group-title="sports",KLAS ESPN Sports FM 89
+http://1tv41.icu:8080/BadTfnQ2/5392597610/284155
+#EXTINF:-1 tvg-name="ESPN 1530" tvg-logo="" group-title="sports",ESPN 1530
+http://1tv41.icu:8080/BadTfnQ2/5392597610/286261
+#EXTINF:-1 tvg-name="ESPN 630 DC" tvg-logo="" group-title="sports",ESPN 630 DC
+http://1tv41.icu:8080/BadTfnQ2/5392597610/287182
+#EXTINF:-1 tvg-name="1460 ESPN Deportes" tvg-logo="" group-title="sports",1460 ESPN Deportes
+http://1tv41.icu:8080/BadTfnQ2/5392597610/290081
+#EXTINF:-1 tvg-name="KIRO 710 ESPN Seattle" tvg-logo="" group-title="sports",KIRO 710 ESPN Seattle
+http://1tv41.icu:8080/BadTfnQ2/5392597610/293114
+#EXTINF:-1 tvg-name="NEPA's ESPN Radio" tvg-logo="" group-title="sports",NEPA's ESPN Radio
+http://1tv41.icu:8080/BadTfnQ2/5392597610/293692
+#EXTINF:-1 tvg-name="ESPN 1140" tvg-logo="" group-title="sports",ESPN 1140
+http://1tv41.icu:8080/BadTfnQ2/5392597610/294093
+#EXTINF:-1 tvg-name="ESPN 1100AM / 100.9FM" tvg-logo="" group-title="sports",ESPN 1100AM / 100.9FM
+http://1tv41.icu:8080/BadTfnQ2/5392597610/294310
+#EXTINF:-1 tvg-name="ESPN Radio 101.7 The TEAM" tvg-logo="" group-title="sports",ESPN Radio 101.7 The TEAM
+http://1tv41.icu:8080/BadTfnQ2/5392597610/295906
+#EXTINF:-1 tvg-name="WMVP 1000 AM - ESPN Chicago, IL" tvg-logo="" group-title="sports",WMVP 1000 AM - ESPN Chicago, IL
+http://1tv41.icu:8080/BadTfnQ2/5392597610/296413
+#EXTINF:-1 tvg-name="KFNC 97.5 \"ESPN Houston\" Mont Belevieu - TX" tvg-logo="" group-title="sports",KFNC 97.5 "ESPN Houston" Mont Belevieu - TX
+http://1tv41.icu:8080/BadTfnQ2/5392597610/296584
+#EXTINF:-1 tvg-name="WDZ \"1050 ESPN\" Decatur - IL" tvg-logo="" group-title="sports",WDZ "1050 ESPN" Decatur - IL
+http://1tv41.icu:8080/BadTfnQ2/5392597610/298833
+#EXTINF:-1 tvg-name="ESPN 99.5 Northwest Arkansas" tvg-logo="" group-title="sports",ESPN 99.5 Northwest Arkansas
+http://1tv41.icu:8080/BadTfnQ2/5392597610/299539
+#EXTINF:-1 tvg-name="WKY 930 \"ESPN Deportes\" Oklahoma City - OK" tvg-logo="" group-title="sports",WKY 930 "ESPN Deportes" Oklahoma City - OK
+http://1tv41.icu:8080/BadTfnQ2/5392597610/303494
+#EXTINF:-1 tvg-name="KXLX \"700 ESPN\" Airway Heights - WA" tvg-logo="" group-title="sports",KXLX "700 ESPN" Airway Heights - WA
+http://1tv41.icu:8080/BadTfnQ2/5392597610/303537
+#EXTINF:-1 tvg-name="WCMC-FM 99.9 The Fan ESPN" tvg-logo="" group-title="sports",WCMC-FM 99.9 The Fan ESPN
+http://1tv41.icu:8080/BadTfnQ2/5392597610/307819
+#EXTINF:-1 tvg-name="ESPN" tvg-logo="" group-title="sports",ESPN
+http://31.43.191.125:8080/restream/restream/1892
+#EXTINF:-1 tvg-name="ESPN 2" tvg-logo="" group-title="sports",ESPN 2
+http://1tv41.icu:8080/BadTfnQ2/5392597610/328465
+#EXTINF:-1 tvg-name="MEX ESPN 3" tvg-logo="" group-title="sports",MEX ESPN 3
+http://1tv41.icu:8080/BadTfnQ2/5392597610/328466
+#EXTINF:-1 tvg-name="ESPN 3" tvg-logo="" group-title="sports",ESPN 3
+http://1tv41.icu:8080/BadTfnQ2/5392597610/328467
+#EXTINF:-1 tvg-name="ESPN 5" tvg-logo="" group-title="sports",ESPN 5
+http://1tv41.icu:8080/BadTfnQ2/5392597610/328468
+#EXTINF:-1 tvg-name="MEX ESPN 2" tvg-logo="" group-title="sports",MEX ESPN 2
+http://1tv41.icu:8080/BadTfnQ2/5392597610/328469
+#EXTINF:-1 tvg-name="ESPN Deportes" tvg-logo="" group-title="sports",ESPN Deportes
+http://1tv41.icu:8080/BadTfnQ2/5392597610/328470
+#EXTINF:-1 tvg-name="EuroSport 1 ex-Yu" tvg-logo="" group-title="sports",EuroSport 1 ex-Yu
+http://fastopen.live:8080/filipesoeiro83/vi9sWg8ARS/594
+#EXTINF:-1 tvg-name="EuroSport 2 ex-Yu" tvg-logo="" group-title="sports",EuroSport 2 ex-Yu
+http://fastopen.live:8080/filipesoeiro83/vi9sWg8ARS/593
+#EXTINF:-1 tvg-name="Eurosport 1 HD UK" tvg-logo="" group-title="sports",Eurosport 1 HD UK
+http://fastopen.live:8080/ix3gzHbpGm/GKD9eTN6Ln/1812
+#EXTINF:-1 tvg-name="Eurosport 2 HD UK" tvg-logo="" group-title="sports",Eurosport 2 HD UK
+http://ul7satsn.ottclub.xyz/iptv/22LA539HWWB78T/6556/index.m3u8
+#EXTINF:-1 tvg-name="ESPN 1 US" tvg-logo="" group-title="sports",ESPN 1 US
+http://fastopen.live:8080/ix3gzHbpGm/GKD9eTN6Ln/552
 #EXTINF:-1 tvg-name="ESPN 2 HD US" tvg-logo="" group-title="sports",ESPN 2 HD US
 http://op9fqvuz.megatv.fun/iptv/M3X9SWFL3R8WM8/19155/index.m3u8
 #EXTINF:-1 tvg-name="ESPN HD US" tvg-logo="" group-title="sports",ESPN HD US
 http://op9fqvuz.megatv.fun/iptv/M3X9SWFL3R8WM8/19156/index.m3u8
-#EXTINF:-1 tvg-name="Eurosport 1 HD 50" tvg-logo="" group-title="sports",Eurosport 1 HD 50
-http://op9fqvuz.megatv.fun/iptv/M3X9SWFL3R8WM8/32030/index.m3u8
+#EXTINF:-1 tvg-name="ESPN 2 AU" tvg-logo="" group-title="sports",ESPN 2 AU
+http://fastopen.live:8080/filipesoeiro83/vi9sWg8ARS/80210
+#EXTINF:-1 tvg-name="ESPN 1 AU" tvg-logo="" group-title="sports",ESPN 1 AU
+http://fastopen.live:8080/filipesoeiro83/vi9sWg8ARS/80211
+#EXTINF:-1 tvg-name="Eurosport 1 HD SE" tvg-logo="" group-title="sports",Eurosport 1 HD SE
+http://ul7satsn.ottclub.xyz/iptv/22LA539HWWB78T/12047/index.m3u8
+#EXTINF:-1 tvg-name="Eurosport 2 SE" tvg-logo="" group-title="sports",Eurosport 2 SE
+http://ul7satsn.ottclub.xyz/iptv/22LA539HWWB78T/32020/index.m3u8
+#EXTINF:-1 tvg-name="Eurosport 1 HD BE" tvg-logo="" group-title="sports",Eurosport 1 HD BE
+http://fastopen.live:8080/filipesoeiro83/vi9sWg8ARS/128264
+#EXTINF:-1 tvg-name="Eurosport 2 HD BE" tvg-logo="" group-title="sports",Eurosport 2 HD BE
+http://fastopen.live:8080/filipesoeiro83/vi9sWg8ARS/128263
+#EXTINF:-1 tvg-name="Eurosport 1 HD DK" tvg-logo="" group-title="sports",Eurosport 1 HD DK
+http://fastopen.live:8080/filipesoeiro83/vi9sWg8ARS/7258
+#EXTINF:-1 tvg-name="Eurosport 2 HD DK" tvg-logo="" group-title="sports",Eurosport 2 HD DK
+http://ul7satsn.ottclub.xyz/iptv/22LA539HWWB78T/32021/index.m3u8
+#EXTINF:-1 tvg-name="Eurosport Norge HD NO" tvg-logo="" group-title="sports",Eurosport Norge HD NO
+http://ul7satsn.ottclub.xyz/iptv/22LA539HWWB78T/32019/index.m3u8
+#EXTINF:-1 tvg-name="Eurosport Norway FHD VIP NO" tvg-logo="" group-title="sports",Eurosport Norway FHD VIP NO
+http://fastopen.live:8080/filipesoeiro83/vi9sWg8ARS/9162
+#EXTINF:-1 tvg-name="Eurosport Pluss 1 HD VIP NO" tvg-logo="" group-title="sports",Eurosport Pluss 1 HD VIP NO
+http://fastopen.live:8080/filipesoeiro83/vi9sWg8ARS/17218
+#EXTINF:-1 tvg-name="Eurosport Pluss 2 HD VIP NO" tvg-logo="" group-title="sports",Eurosport Pluss 2 HD VIP NO
+http://fastopen.live:8080/filipesoeiro83/vi9sWg8ARS/17217
+#EXTINF:-1 tvg-name="Eurosport Pluss 3 HD VIP NO" tvg-logo="" group-title="sports",Eurosport Pluss 3 HD VIP NO
+http://fastopen.live:8080/filipesoeiro83/vi9sWg8ARS/17216
+#EXTINF:-1 tvg-name="Eurosport Pluss 4 HD VIP NO" tvg-logo="" group-title="sports",Eurosport Pluss 4 HD VIP NO
+http://fastopen.live:8080/filipesoeiro83/vi9sWg8ARS/17215
+#EXTINF:-1 tvg-name="ESPN U HD VIP US" tvg-logo="" group-title="sports",ESPN U HD VIP US
+http://fastopen.live:8080/ix3gzHbpGm/GKD9eTN6Ln/10185
+#EXTINF:-1 tvg-name="Eurosport 1 HD Script UK" tvg-logo="" group-title="sports",Eurosport 1 HD Script UK
+http://fastopen.live:8080/ix3gzHbpGm/GKD9eTN6Ln/112728
+#EXTINF:-1 tvg-name="Eurosport 2 HD Script UK" tvg-logo="" group-title="sports",Eurosport 2 HD Script UK
+http://fastopen.live:8080/ix3gzHbpGm/GKD9eTN6Ln/112727
+#EXTINF:-1 tvg-name="NCAAF | 06 ESPN VIP US" tvg-logo="" group-title="sports",NCAAF | 06 ESPN VIP US
+http://fastopen.live:8080/ix3gzHbpGm/GKD9eTN6Ln/95230
+#EXTINF:-1 tvg-name="NCAAF | 07 ESPN 2 VIP US" tvg-logo="" group-title="sports",NCAAF | 07 ESPN 2 VIP US
+http://fastopen.live:8080/ix3gzHbpGm/GKD9eTN6Ln/95229
+#EXTINF:-1 tvg-name="NCAAF | 08 ESPN U VIP US" tvg-logo="" group-title="sports",NCAAF | 08 ESPN U VIP US
+http://fastopen.live:8080/ix3gzHbpGm/GKD9eTN6Ln/95228
+#EXTINF:-1 tvg-name="ESPN 1 HD AF" tvg-logo="" group-title="sports",ESPN 1 HD AF
+http://fastopen.live:8080/filipesoeiro83/vi9sWg8ARS/97990
+#EXTINF:-1 tvg-name="ESPN 2 HD AF" tvg-logo="" group-title="sports",ESPN 2 HD AF
+http://fastopen.live:8080/filipesoeiro83/vi9sWg8ARS/97989
+#EXTINF:-1 tvg-name="STAR SPORTS 1 HD ENGLISH VIP Sports" tvg-logo="" group-title="sports",STAR SPORTS 1 HD ENGLISH VIP Sports
+http://fastopen.live:8080/ix3gzHbpGm/GKD9eTN6Ln/135325
+#EXTINF:-1 tvg-name="BBC RB 1 VIP SPORTS" tvg-logo="" group-title="sports",BBC RB 1 VIP SPORTS
+http://fastopen.live:8080/ix3gzHbpGm/GKD9eTN6Ln/112574
+#EXTINF:-1 tvg-name="BBC RB 2 VIP SPORTS" tvg-logo="" group-title="sports",BBC RB 2 VIP SPORTS
+http://fastopen.live:8080/ix3gzHbpGm/GKD9eTN6Ln/112573
+#EXTINF:-1 tvg-name="BBC RB 3 VIP SPORTS" tvg-logo="" group-title="sports",BBC RB 3 VIP SPORTS
+http://fastopen.live:8080/ix3gzHbpGm/GKD9eTN6Ln/112572
+#EXTINF:-1 tvg-name="BBC RB 4 VIP SPORTS" tvg-logo="" group-title="sports",BBC RB 4 VIP SPORTS
+http://fastopen.live:8080/ix3gzHbpGm/GKD9eTN6Ln/112571
+#EXTINF:-1 tvg-name="BBC RB 5 VIP SPORTS" tvg-logo="" group-title="sports",BBC RB 5 VIP SPORTS
+http://fastopen.live:8080/ix3gzHbpGm/GKD9eTN6Ln/112570
+#EXTINF:-1 tvg-name="BBC RB 6 VIP SPORTS" tvg-logo="" group-title="sports",BBC RB 6 VIP SPORTS
+http://fastopen.live:8080/ix3gzHbpGm/GKD9eTN6Ln/112569
+#EXTINF:-1 tvg-name="BBC RB 7 VIP SPORTS" tvg-logo="" group-title="sports",BBC RB 7 VIP SPORTS
+http://fastopen.live:8080/ix3gzHbpGm/GKD9eTN6Ln/112568
+#EXTINF:-1 tvg-name="BBC RB 8 VIP SPORTS" tvg-logo="" group-title="sports",BBC RB 8 VIP SPORTS
+http://fastopen.live:8080/ix3gzHbpGm/GKD9eTN6Ln/112567
+#EXTINF:-1 tvg-name="BBC RB 9 VIP SPORTS" tvg-logo="" group-title="sports",BBC RB 9 VIP SPORTS
+http://fastopen.live:8080/ix3gzHbpGm/GKD9eTN6Ln/112566
+#EXTINF:-1 tvg-name="BBC RB 10 VIP SPORTS" tvg-logo="" group-title="sports",BBC RB 10 VIP SPORTS
+http://fastopen.live:8080/ix3gzHbpGm/GKD9eTN6Ln/112565
+#EXTINF:-1 tvg-name="BBC RB 11 VIP SPORTS" tvg-logo="" group-title="sports",BBC RB 11 VIP SPORTS
+http://fastopen.live:8080/ix3gzHbpGm/GKD9eTN6Ln/112564
+#EXTINF:-1 tvg-name="CA | DAZN 1 VIP SPORTS" tvg-logo="" group-title="sports",CA | DAZN 1 VIP SPORTS
+http://fastopen.live:8080/ix3gzHbpGm/GKD9eTN6Ln/114974
+#EXTINF:-1 tvg-name="CA | DAZN 2 VIP SPORTS" tvg-logo="" group-title="sports",CA | DAZN 2 VIP SPORTS
+http://fastopen.live:8080/ix3gzHbpGm/GKD9eTN6Ln/114973
+#EXTINF:-1 tvg-name="CA | DAZN 3 VIP SPORTS" tvg-logo="" group-title="sports",CA | DAZN 3 VIP SPORTS
+http://fastopen.live:8080/ix3gzHbpGm/GKD9eTN6Ln/114972
+#EXTINF:-1 tvg-name="CA | DAZN 4 VIP SPORTS" tvg-logo="" group-title="sports",CA | DAZN 4 VIP SPORTS
+http://fastopen.live:8080/ix3gzHbpGm/GKD9eTN6Ln/114971
+#EXTINF:-1 tvg-name="CA | DAZN 5 VIP SPORTS" tvg-logo="" group-title="sports",CA | DAZN 5 VIP SPORTS
+http://fastopen.live:8080/ix3gzHbpGm/GKD9eTN6Ln/114970
+#EXTINF:-1 tvg-name="CA | DAZN 6 VIP SPORTS" tvg-logo="" group-title="sports",CA | DAZN 6 VIP SPORTS
+http://fastopen.live:8080/ix3gzHbpGm/GKD9eTN6Ln/114969
+#EXTINF:-1 tvg-name="CA | DAZN 7 VIP SPORTS" tvg-logo="" group-title="sports",CA | DAZN 7 VIP SPORTS
+http://fastopen.live:8080/ix3gzHbpGm/GKD9eTN6Ln/114968
+#EXTINF:-1 tvg-name="CA | DAZN 8 VIP SPORTS" tvg-logo="" group-title="sports",CA | DAZN 8 VIP SPORTS
+http://fastopen.live:8080/ix3gzHbpGm/GKD9eTN6Ln/114967
+#EXTINF:-1 tvg-name="CA | DAZN 9 VIP SPORTS" tvg-logo="" group-title="sports",CA | DAZN 9 VIP SPORTS
+http://fastopen.live:8080/ix3gzHbpGm/GKD9eTN6Ln/114966
+#EXTINF:-1 tvg-name="CA | DAZN 10 VIP SPORTS" tvg-logo="" group-title="sports",CA | DAZN 10 VIP SPORTS
+http://fastopen.live:8080/ix3gzHbpGm/GKD9eTN6Ln/114965
+#EXTINF:-1 tvg-name="CA | DAZN 11 VIP SPORTS" tvg-logo="" group-title="sports",CA | DAZN 11 VIP SPORTS
+http://fastopen.live:8080/ix3gzHbpGm/GKD9eTN6Ln/114964
+#EXTINF:-1 tvg-name="CA | DAZN 12 VIP SPORTS" tvg-logo="" group-title="sports",CA | DAZN 12 VIP SPORTS
+http://fastopen.live:8080/ix3gzHbpGm/GKD9eTN6Ln/114963
+#EXTINF:-1 tvg-name="CA | DAZN 13 VIP SPORTS" tvg-logo="" group-title="sports",CA | DAZN 13 VIP SPORTS
+http://fastopen.live:8080/ix3gzHbpGm/GKD9eTN6Ln/114962
+#EXTINF:-1 tvg-name="Eurosport 1 FHD VIP SPORTS" tvg-logo="" group-title="sports",Eurosport 1 FHD VIP SPORTS
+http://fastopen.live:8080/ix3gzHbpGm/GKD9eTN6Ln/112167
+#EXTINF:-1 tvg-name="Eurosport 2 FHD VIP SPORTS" tvg-logo="" group-title="sports",Eurosport 2 FHD VIP SPORTS
+http://fastopen.live:8080/ix3gzHbpGm/GKD9eTN6Ln/112166
+#EXTINF:-1 tvg-name="ESPNplus 0 HD VIP SPORTS" tvg-logo="" group-title="sports",ESPNplus 0 HD VIP SPORTS
+http://fastopen.live:8080/ix3gzHbpGm/GKD9eTN6Ln/112141
+#EXTINF:-1 tvg-name="ESPNplus 1 HD VIP SPORTS" tvg-logo="" group-title="sports",ESPNplus 1 HD VIP SPORTS
+http://fastopen.live:8080/ix3gzHbpGm/GKD9eTN6Ln/112140
+#EXTINF:-1 tvg-name="ESPNplus 2 HD VIP SPORTS" tvg-logo="" group-title="sports",ESPNplus 2 HD VIP SPORTS
+http://fastopen.live:8080/ix3gzHbpGm/GKD9eTN6Ln/112139
+#EXTINF:-1 tvg-name="ESPNplus 3 HD VIP SPORTS" tvg-logo="" group-title="sports",ESPNplus 3 HD VIP SPORTS
+http://fastopen.live:8080/ix3gzHbpGm/GKD9eTN6Ln/112138
+#EXTINF:-1 tvg-name="ESPNplus 4 HD VIP SPORTS" tvg-logo="" group-title="sports",ESPNplus 4 HD VIP SPORTS
+http://fastopen.live:8080/ix3gzHbpGm/GKD9eTN6Ln/112137
+#EXTINF:-1 tvg-name="ESPNplus 5 HD VIP SPORTS" tvg-logo="" group-title="sports",ESPNplus 5 HD VIP SPORTS
+http://fastopen.live:8080/ix3gzHbpGm/GKD9eTN6Ln/112136
+#EXTINF:-1 tvg-name="ESPNplus 6 HD VIP SPORTS" tvg-logo="" group-title="sports",ESPNplus 6 HD VIP SPORTS
+http://fastopen.live:8080/ix3gzHbpGm/GKD9eTN6Ln/112135
+#EXTINF:-1 tvg-name="ESPNplus 7 HD VIP SPORTS" tvg-logo="" group-title="sports",ESPNplus 7 HD VIP SPORTS
+http://fastopen.live:8080/ix3gzHbpGm/GKD9eTN6Ln/112134
+#EXTINF:-1 tvg-name="ESPNplus 8 HD VIP SPORTS" tvg-logo="" group-title="sports",ESPNplus 8 HD VIP SPORTS
+http://fastopen.live:8080/ix3gzHbpGm/GKD9eTN6Ln/112133
+#EXTINF:-1 tvg-name="ESPNplus 9 HD VIP SPORTS" tvg-logo="" group-title="sports",ESPNplus 9 HD VIP SPORTS
+http://fastopen.live:8080/ix3gzHbpGm/GKD9eTN6Ln/112132
+#EXTINF:-1 tvg-name="ESPNplus 10 HD VIP SPORTS" tvg-logo="" group-title="sports",ESPNplus 10 HD VIP SPORTS
+http://fastopen.live:8080/ix3gzHbpGm/GKD9eTN6Ln/112131
+#EXTINF:-1 tvg-name="ESPNplus 11 HD VIP SPORTS" tvg-logo="" group-title="sports",ESPNplus 11 HD VIP SPORTS
+http://fastopen.live:8080/ix3gzHbpGm/GKD9eTN6Ln/112130
+#EXTINF:-1 tvg-name="ESPNplus 12 HD VIP SPORTS" tvg-logo="" group-title="sports",ESPNplus 12 HD VIP SPORTS
+http://fastopen.live:8080/ix3gzHbpGm/GKD9eTN6Ln/112129
+#EXTINF:-1 tvg-name="ESPNplus 13 HD VIP SPORTS" tvg-logo="" group-title="sports",ESPNplus 13 HD VIP SPORTS
+http://fastopen.live:8080/ix3gzHbpGm/GKD9eTN6Ln/112128
+#EXTINF:-1 tvg-name="ESPNplus 14 HD VIP SPORTS" tvg-logo="" group-title="sports",ESPNplus 14 HD VIP SPORTS
+http://fastopen.live:8080/ix3gzHbpGm/GKD9eTN6Ln/112127
+#EXTINF:-1 tvg-name="ESPNplus 15 HD VIP SPORTS" tvg-logo="" group-title="sports",ESPNplus 15 HD VIP SPORTS
+http://fastopen.live:8080/ix3gzHbpGm/GKD9eTN6Ln/112126
+#EXTINF:-1 tvg-name="ESPNplus 16 HD VIP SPORTS" tvg-logo="" group-title="sports",ESPNplus 16 HD VIP SPORTS
+http://fastopen.live:8080/ix3gzHbpGm/GKD9eTN6Ln/112125
+#EXTINF:-1 tvg-name="ESPNplus 17 HD VIP SPORTS" tvg-logo="" group-title="sports",ESPNplus 17 HD VIP SPORTS
+http://fastopen.live:8080/ix3gzHbpGm/GKD9eTN6Ln/112124
+#EXTINF:-1 tvg-name="ESPNplus 18 HD VIP SPORTS" tvg-logo="" group-title="sports",ESPNplus 18 HD VIP SPORTS
+http://fastopen.live:8080/ix3gzHbpGm/GKD9eTN6Ln/112123
+#EXTINF:-1 tvg-name="ESPNplus 19 HD VIP SPORTS" tvg-logo="" group-title="sports",ESPNplus 19 HD VIP SPORTS
+http://fastopen.live:8080/ix3gzHbpGm/GKD9eTN6Ln/112122
+#EXTINF:-1 tvg-name="ESPNplus 20 HD VIP SPORTS" tvg-logo="" group-title="sports",ESPNplus 20 HD VIP SPORTS
+http://fastopen.live:8080/ix3gzHbpGm/GKD9eTN6Ln/112121
+#EXTINF:-1 tvg-name="ESPNplus 21 HD VIP SPORTS" tvg-logo="" group-title="sports",ESPNplus 21 HD VIP SPORTS
+http://fastopen.live:8080/ix3gzHbpGm/GKD9eTN6Ln/112120
+#EXTINF:-1 tvg-name="ESPNplus 22 HD VIP SPORTS" tvg-logo="" group-title="sports",ESPNplus 22 HD VIP SPORTS
+http://fastopen.live:8080/ix3gzHbpGm/GKD9eTN6Ln/112119
+#EXTINF:-1 tvg-name="ESPNplus 23 HD VIP SPORTS" tvg-logo="" group-title="sports",ESPNplus 23 HD VIP SPORTS
+http://fastopen.live:8080/ix3gzHbpGm/GKD9eTN6Ln/112118
+#EXTINF:-1 tvg-name="ESPNplus 24 HD VIP SPORTS" tvg-logo="" group-title="sports",ESPNplus 24 HD VIP SPORTS
+http://fastopen.live:8080/ix3gzHbpGm/GKD9eTN6Ln/112117
+#EXTINF:-1 tvg-name="ESPNplus 25 HD VIP SPORTS" tvg-logo="" group-title="sports",ESPNplus 25 HD VIP SPORTS
+http://fastopen.live:8080/ix3gzHbpGm/GKD9eTN6Ln/112116
+#EXTINF:-1 tvg-name="ESPNplus 26 HD VIP SPORTS" tvg-logo="" group-title="sports",ESPNplus 26 HD VIP SPORTS
+http://fastopen.live:8080/ix3gzHbpGm/GKD9eTN6Ln/112115
+#EXTINF:-1 tvg-name="ESPNplus 27 HD VIP SPORTS" tvg-logo="" group-title="sports",ESPNplus 27 HD VIP SPORTS
+http://fastopen.live:8080/ix3gzHbpGm/GKD9eTN6Ln/112114
+#EXTINF:-1 tvg-name="ESPNplus 28 HD VIP SPORTS" tvg-logo="" group-title="sports",ESPNplus 28 HD VIP SPORTS
+http://fastopen.live:8080/ix3gzHbpGm/GKD9eTN6Ln/112113
+#EXTINF:-1 tvg-name="ESPNplus 29 HD VIP SPORTS" tvg-logo="" group-title="sports",ESPNplus 29 HD VIP SPORTS
+http://fastopen.live:8080/ix3gzHbpGm/GKD9eTN6Ln/112112
+#EXTINF:-1 tvg-name="ESPNplus 30 HD VIP SPORTS" tvg-logo="" group-title="sports",ESPNplus 30 HD VIP SPORTS
+http://fastopen.live:8080/ix3gzHbpGm/GKD9eTN6Ln/112111
+#EXTINF:-1 tvg-name="ESPNplus 31 HD VIP SPORTS" tvg-logo="" group-title="sports",ESPNplus 31 HD VIP SPORTS
+http://fastopen.live:8080/ix3gzHbpGm/GKD9eTN6Ln/112110
+#EXTINF:-1 tvg-name="ESPNplus 32 HD VIP SPORTS" tvg-logo="" group-title="sports",ESPNplus 32 HD VIP SPORTS
+http://fastopen.live:8080/ix3gzHbpGm/GKD9eTN6Ln/112109
+#EXTINF:-1 tvg-name="ESPNplus 33 HD VIP SPORTS" tvg-logo="" group-title="sports",ESPNplus 33 HD VIP SPORTS
+http://fastopen.live:8080/ix3gzHbpGm/GKD9eTN6Ln/112108
+#EXTINF:-1 tvg-name="ESPNplus 34 HD VIP SPORTS" tvg-logo="" group-title="sports",ESPNplus 34 HD VIP SPORTS
+http://fastopen.live:8080/ix3gzHbpGm/GKD9eTN6Ln/112107
+#EXTINF:-1 tvg-name="ESPNplus 35 HD VIP SPORTS" tvg-logo="" group-title="sports",ESPNplus 35 HD VIP SPORTS
+http://fastopen.live:8080/ix3gzHbpGm/GKD9eTN6Ln/112106
+#EXTINF:-1 tvg-name="ESPNplus 36 HD VIP SPORTS" tvg-logo="" group-title="sports",ESPNplus 36 HD VIP SPORTS
+http://fastopen.live:8080/ix3gzHbpGm/GKD9eTN6Ln/112105
+#EXTINF:-1 tvg-name="ESPNplus 37 HD VIP SPORTS" tvg-logo="" group-title="sports",ESPNplus 37 HD VIP SPORTS
+http://fastopen.live:8080/ix3gzHbpGm/GKD9eTN6Ln/112104
+#EXTINF:-1 tvg-name="ESPNplus 38 HD VIP SPORTS" tvg-logo="" group-title="sports",ESPNplus 38 HD VIP SPORTS
+http://fastopen.live:8080/ix3gzHbpGm/GKD9eTN6Ln/112103
+#EXTINF:-1 tvg-name="ESPNplus 39 HD VIP SPORTS" tvg-logo="" group-title="sports",ESPNplus 39 HD VIP SPORTS
+http://fastopen.live:8080/ix3gzHbpGm/GKD9eTN6Ln/112102
+#EXTINF:-1 tvg-name="ESPNplus 40 HD VIP SPORTS" tvg-logo="" group-title="sports",ESPNplus 40 HD VIP SPORTS
+http://fastopen.live:8080/ix3gzHbpGm/GKD9eTN6Ln/112101
+#EXTINF:-1 tvg-name="ESPNplus 41 HD VIP SPORTS" tvg-logo="" group-title="sports",ESPNplus 41 HD VIP SPORTS
+http://fastopen.live:8080/ix3gzHbpGm/GKD9eTN6Ln/112100
+#EXTINF:-1 tvg-name="ESPNplus 42 HD VIP SPORTS" tvg-logo="" group-title="sports",ESPNplus 42 HD VIP SPORTS
+http://fastopen.live:8080/ix3gzHbpGm/GKD9eTN6Ln/112099
+#EXTINF:-1 tvg-name="ESPNplus 43 HD VIP SPORTS" tvg-logo="" group-title="sports",ESPNplus 43 HD VIP SPORTS
+http://fastopen.live:8080/ix3gzHbpGm/GKD9eTN6Ln/112098
+#EXTINF:-1 tvg-name="ESPNplus 44 HD VIP SPORTS" tvg-logo="" group-title="sports",ESPNplus 44 HD VIP SPORTS
+http://fastopen.live:8080/ix3gzHbpGm/GKD9eTN6Ln/112097
+#EXTINF:-1 tvg-name="ESPNplus 45 HD VIP SPORTS" tvg-logo="" group-title="sports",ESPNplus 45 HD VIP SPORTS
+http://fastopen.live:8080/ix3gzHbpGm/GKD9eTN6Ln/112096
+#EXTINF:-1 tvg-name="ESPNplus 46 HD VIP SPORTS" tvg-logo="" group-title="sports",ESPNplus 46 HD VIP SPORTS
+http://fastopen.live:8080/ix3gzHbpGm/GKD9eTN6Ln/112095
+#EXTINF:-1 tvg-name="ESPNplus 47 HD VIP SPORTS" tvg-logo="" group-title="sports",ESPNplus 47 HD VIP SPORTS
+http://fastopen.live:8080/ix3gzHbpGm/GKD9eTN6Ln/112094
+#EXTINF:-1 tvg-name="ESPNplus 48 HD VIP SPORTS" tvg-logo="" group-title="sports",ESPNplus 48 HD VIP SPORTS
+http://fastopen.live:8080/ix3gzHbpGm/GKD9eTN6Ln/112093
+#EXTINF:-1 tvg-name="ESPNplus 49 HD VIP SPORTS" tvg-logo="" group-title="sports",ESPNplus 49 HD VIP SPORTS
+http://fastopen.live:8080/ix3gzHbpGm/GKD9eTN6Ln/112092
+#EXTINF:-1 tvg-name="ESPN U VIP Sports" tvg-logo="" group-title="sports",ESPN U VIP Sports
+http://fastopen.live:8080/ix3gzHbpGm/GKD9eTN6Ln/17046
+#EXTINF:-1 tvg-name="ESPN 1 FHD AU VIP SPORTS" tvg-logo="" group-title="sports",ESPN 1 FHD AU VIP SPORTS
+http://fastopen.live:8080/ix3gzHbpGm/GKD9eTN6Ln/73642
+#EXTINF:-1 tvg-name="ESPN 2 FHD AU VIP SPORTS" tvg-logo="" group-title="sports",ESPN 2 FHD AU VIP SPORTS
+http://fastopen.live:8080/ix3gzHbpGm/GKD9eTN6Ln/73641
+#EXTINF:-1 tvg-name="ESPN 1 HD Carib VIP SPORTS" tvg-logo="" group-title="sports",ESPN 1 HD Carib VIP SPORTS
+http://fastopen.live:8080/ix3gzHbpGm/GKD9eTN6Ln/73652
+#EXTINF:-1 tvg-name="ESPN 2 HD Carib VIP SPORTS" tvg-logo="" group-title="sports",ESPN 2 HD Carib VIP SPORTS
+http://fastopen.live:8080/ix3gzHbpGm/GKD9eTN6Ln/73651
+#EXTINF:-1 tvg-name="US-DAZN 14 HD VIP SPORTS" tvg-logo="" group-title="sports",US-DAZN 14 HD VIP SPORTS
+http://fastopen.live:8080/ix3gzHbpGm/GKD9eTN6Ln/114961
+#EXTINF:-1 tvg-name="US-DAZN 15 HD VIP SPORTS" tvg-logo="" group-title="sports",US-DAZN 15 HD VIP SPORTS
+http://fastopen.live:8080/ix3gzHbpGm/GKD9eTN6Ln/114960
+#EXTINF:-1 tvg-name="US-DAZN 16 HD VIP SPORTS" tvg-logo="" group-title="sports",US-DAZN 16 HD VIP SPORTS
+http://fastopen.live:8080/ix3gzHbpGm/GKD9eTN6Ln/114959
+#EXTINF:-1 tvg-name="US-DAZN 17 HD VIP SPORTS" tvg-logo="" group-title="sports",US-DAZN 17 HD VIP SPORTS
+http://fastopen.live:8080/ix3gzHbpGm/GKD9eTN6Ln/114958
+#EXTINF:-1 tvg-name="US-DAZN 18 HD VIP SPORTS" tvg-logo="" group-title="sports",US-DAZN 18 HD VIP SPORTS
+http://fastopen.live:8080/ix3gzHbpGm/GKD9eTN6Ln/114957
+#EXTINF:-1 tvg-name="US-DAZN 19 HD VIP SPORTS" tvg-logo="" group-title="sports",US-DAZN 19 HD VIP SPORTS
+http://fastopen.live:8080/ix3gzHbpGm/GKD9eTN6Ln/114956
+#EXTINF:-1 tvg-name="US-DAZN 20 HD VIP SPORTS" tvg-logo="" group-title="sports",US-DAZN 20 HD VIP SPORTS
+http://fastopen.live:8080/ix3gzHbpGm/GKD9eTN6Ln/114955
+#EXTINF:-1 tvg-name="US-DAZN 21 HD VIP SPORTS" tvg-logo="" group-title="sports",US-DAZN 21 HD VIP SPORTS
+http://fastopen.live:8080/ix3gzHbpGm/GKD9eTN6Ln/114954
+#EXTINF:-1 tvg-name="GB-DAZN 22 VIP SPORTS" tvg-logo="" group-title="sports",GB-DAZN 22 VIP SPORTS
+http://fastopen.live:8080/ix3gzHbpGm/GKD9eTN6Ln/114953
+#EXTINF:-1 tvg-name="GB-DAZN 23 VIP SPORTS" tvg-logo="" group-title="sports",GB-DAZN 23 VIP SPORTS
+http://fastopen.live:8080/ix3gzHbpGm/GKD9eTN6Ln/114952
+#EXTINF:-1 tvg-name="GB-DAZN 24 VIP SPORTS" tvg-logo="" group-title="sports",GB-DAZN 24 VIP SPORTS
+http://fastopen.live:8080/ix3gzHbpGm/GKD9eTN6Ln/114951
+#EXTINF:-1 tvg-name="GB-DAZN 25 VIP SPORTS" tvg-logo="" group-title="sports",GB-DAZN 25 VIP SPORTS
+http://fastopen.live:8080/ix3gzHbpGm/GKD9eTN6Ln/114950
+#EXTINF:-1 tvg-name="Eurosport 2 HD" tvg-logo="" group-title="sports",Eurosport 2 HD
+http://op9fqvuz.megatv.fun/iptv/M3X9SWFL3R8WM8/234/index.m3u8
+#EXTINF:-1 tvg-name="Eurosport 1" tvg-logo="" group-title="sports",Eurosport 1
+http://op9fqvuz.megatv.fun/iptv/M3X9SWFL3R8WM8/228/index.m3u8
+#EXTINF:-1 tvg-name="ESPNews US" tvg-logo="" group-title="sports",ESPNews US
+http://op9fqvuz.megatv.fun/iptv/M3X9SWFL3R8WM8/19154/index.m3u8
+#EXTINF:-1 tvg-name="Eurosport 1 HD NO" tvg-logo="" group-title="sports",Eurosport 1 HD NO
+http://ul7satsn.ottclub.xyz/iptv/22LA539HWWB78T/32023/index.m3u8
 #EXTINF:-1 tvg-name="EuroSport 1 IT [Local]" tvg-logo="" group-title="sports",EuroSport 1 IT [Local]
 http://fastopen.live:8080/joaorodrigues1/uGW9QNb2qc/123822
 #EXTINF:-1 tvg-name="EuroSport 2 IT [Local]" tvg-logo="" group-title="sports",EuroSport 2 IT [Local]
@@ -35,38 +483,26 @@ http://fastopen.live:8080/joaorodrigues1/uGW9QNb2qc/123725
 http://fastopen.live:8080/joaorodrigues1/uGW9QNb2qc/55326
 #EXTINF:-1 tvg-name="EuroSport 2 HD IT (L) VIP" tvg-logo="" group-title="sports",EuroSport 2 HD IT (L) VIP
 http://fastopen.live:8080/joaorodrigues1/uGW9QNb2qc/55325
+#EXTINF:-1 tvg-name="Eurosport 1 orig" tvg-logo="" group-title="sports",Eurosport 1 orig
+http://op9fqvuz.megatv.fun/iptv/M3X9SWFL3R8WM8/9247/index.m3u8
+#EXTINF:-1 tvg-name="Eurosport 2 HD orig" tvg-logo="" group-title="sports",Eurosport 2 HD orig
+http://op9fqvuz.megatv.fun/iptv/M3X9SWFL3R8WM8/5076/index.m3u8
+#EXTINF:-1 tvg-name="Eurosport 1 HD 50" tvg-logo="" group-title="sports",Eurosport 1 HD 50
+http://op9fqvuz.megatv.fun/iptv/M3X9SWFL3R8WM8/32030/index.m3u8
 #EXTINF:-1 tvg-name="DAZN EUROSPORT 1" tvg-logo="https://www.logolarimiz.com/logo/Sirbistan/Eurosport_1.png" group-title="sports",DAZN EUROSPORT 1
 http://vip.masterxc.com:8080/MustafatekVoL02/j4YbJ5D6pj7y/1103131
 #EXTINF:-1 tvg-name="DAZN EUROSPORT 2" tvg-logo="https://www.logolarimiz.com/logo/Sirbistan/Eurosport_2.png" group-title="sports",DAZN EUROSPORT 2
 http://vip.masterxc.com:8080/MustafatekVoL02/j4YbJ5D6pj7y/1103130
 #EXTINF:-1 tvg-name="ESPN 1" tvg-logo="https://www.logolarimiz.com/logo/germany/Hollanda.png" group-title="sports",ESPN 1
 http://31.43.191.125:8080/restream/restream/25026
-#EXTINF:-1 tvg-name="ESPN 2" tvg-logo="https://www.logolarimiz.com/logo/germany/Hollanda.png" group-title="sports",ESPN 2
-http://31.43.191.125:8080/restream/restream/25027
-#EXTINF:-1 tvg-name="ESPN 3" tvg-logo="https://www.logolarimiz.com/logo/germany/Hollanda.png" group-title="sports",ESPN 3
-http://vip.masterxc.com:8080/MustafatekVoL02/j4YbJ5D6pj7y/665116
 #EXTINF:-1 tvg-name="ESPN 4" tvg-logo="https://www.logolarimiz.com/logo/germany/Hollanda.png" group-title="sports",ESPN 4
 http://vip.masterxc.com:8080/MustafatekVoL02/j4YbJ5D6pj7y/665115
-#EXTINF:-1 tvg-name="ESPN" tvg-logo="https://www.logolarimiz.com/logo/germany/USA.png" group-title="sports",ESPN
-http://31.43.191.125:8080/restream/restream/1892
 #EXTINF:-1 tvg-name="ESPN NEWS" tvg-logo="https://www.logolarimiz.com/logo/germany/USA.png" group-title="sports",ESPN NEWS
 http://31.43.191.125:8080/restream/restream/155109
 #EXTINF:-1 tvg-name="SRB⚜️ EUROSPORT 1 HD" tvg-logo="https://www.logolarimiz.com/logo/Sirbistan/Eurosport_1.png" group-title="sports",SRB⚜️ EUROSPORT 1 HD
 http://vip.masterxc.com:8080/MustafatekVoL02/j4YbJ5D6pj7y/640563
 #EXTINF:-1 tvg-name="SRB⚜️ EUROSPORT 2 HD" tvg-logo="https://www.logolarimiz.com/logo/Sirbistan/Eurosport_2.png" group-title="sports",SRB⚜️ EUROSPORT 2 HD
 http://vip.masterxc.com:8080/MustafatekVoL02/j4YbJ5D6pj7y/640561
-#EXTINF:-1 tvg-name="Eurosport 2 HD UK" tvg-logo="" group-title="sports",Eurosport 2 HD UK
-http://ul7satsn.ottclub.xyz/iptv/22LA539HWWB78T/6556/index.m3u8
-#EXTINF:-1 tvg-name="Eurosport 1 HD SE" tvg-logo="" group-title="sports",Eurosport 1 HD SE
-http://ul7satsn.ottclub.xyz/iptv/22LA539HWWB78T/12047/index.m3u8
-#EXTINF:-1 tvg-name="Eurosport 2 SE" tvg-logo="" group-title="sports",Eurosport 2 SE
-http://ul7satsn.ottclub.xyz/iptv/22LA539HWWB78T/32020/index.m3u8
-#EXTINF:-1 tvg-name="Eurosport Norge HD NO" tvg-logo="" group-title="sports",Eurosport Norge HD NO
-http://ul7satsn.ottclub.xyz/iptv/22LA539HWWB78T/32019/index.m3u8
-#EXTINF:-1 tvg-name="Eurosport 2 HD DK" tvg-logo="" group-title="sports",Eurosport 2 HD DK
-http://ul7satsn.ottclub.xyz/iptv/22LA539HWWB78T/32021/index.m3u8
-#EXTINF:-1 tvg-name="Eurosport 1 HD NO" tvg-logo="" group-title="sports",Eurosport 1 HD NO
-http://ul7satsn.ottclub.xyz/iptv/22LA539HWWB78T/32023/index.m3u8
 #EXTINF:-1 tvg-name="UK: Sky Sports Premier League" tvg-logo="" group-title="sports",UK: Sky Sports Premier League
 http://31.43.191.125:8080/restream/restream/1672
 #EXTINF:-1 tvg-name="UK: Premier Sports 1" tvg-logo="" group-title="sports",UK: Premier Sports 1
@@ -77,8 +513,6 @@ http://vewora.com:8080/live/700416vib/bg%4053%217%21%21U/cef60a6c-8d40-4f86-9446
 http://vewora.com:8080/live/700416vib/bg%4053%217%21%21U/899fb335-615d-4aa8-8686-08402fa75a94.m3u
 #EXTINF:-1 tvg-name="UK: BT SPORT ESPN HD" tvg-logo="" group-title="sports",UK: BT SPORT ESPN HD
 http://vewora.com:8080/live/700416vib/bg%4053%217%21%21U/5137c786-ee19-4914-8e3b-872a35143384.m3u
-#EXTINF:-1 tvg-name="UK: Sky Sports Action" tvg-logo="" group-title="sports",UK: Sky Sports Action
-http://31.43.191.125:8080/restream/restream/1675
 #EXTINF:-1 tvg-name="UK: Sky Sports Mix" tvg-logo="" group-title="sports",UK: Sky Sports Mix
 http://31.43.191.125:8080/restream/restream/1670
 #EXTINF:-1 tvg-name="UK: Sky Sports F1" tvg-logo="" group-title="sports",UK: Sky Sports F1
@@ -235,8 +669,6 @@ http://nordiciptv.co:7070/live/Lena.carlstrom63%40gmail.com/DmA7WB31w1adxTcN/271
 http://31.43.191.125:8080/restream/restream/155796
 #EXTINF:-1 tvg-name="USA: SPORTSMAN CHANNEL" tvg-logo="" group-title="sports",USA: SPORTSMAN CHANNEL
 http://31.43.191.125:8080/restream/restream/156591
-#EXTINF:-1 tvg-name="ESPN+ 5" tvg-logo="" group-title="sports",ESPN+ 5
-http://nordiciptv.co:7070/live/Lena.carlstrom63%40gmail.com/DmA7WB31w1adxTcN/313868.m3u
 #EXTINF:-1 tvg-name="ESPN+ 6" tvg-logo="" group-title="sports",ESPN+ 6
 http://nordiciptv.co:7070/live/Lena.carlstrom63%40gmail.com/DmA7WB31w1adxTcN/313869.m3u
 #EXTINF:-1 tvg-name="ESPN+ 7" tvg-logo="" group-title="sports",ESPN+ 7
@@ -451,8 +883,6 @@ http://nordiciptv.co:7070/live/Lena.carlstrom63%40gmail.com/DmA7WB31w1adxTcN/394
 http://nordiciptv.co:7070/live/Lena.carlstrom63%40gmail.com/DmA7WB31w1adxTcN/394762.m3u
 #EXTINF:-1 tvg-name="CA | beIN Sports Canadax" tvg-logo="" group-title="sports",CA | beIN Sports Canadax
 http://nordiciptv.co:7070/live/Lena.carlstrom63%40gmail.com/DmA7WB31w1adxTcN/394763.m3u
-#EXTINF:-1 tvg-name="USA | ESPN Deportes SD" tvg-logo="" group-title="sports",USA | ESPN Deportes SD
-http://nordiciptv.co:7070/live/Lena.carlstrom63%40gmail.com/DmA7WB31w1adxTcN/175553.m3u
 #EXTINF:-1 tvg-name="USA | NFL 08x: Washington Commanders vs Atlanta Falcons (Sunday 9/28) 1:00PM ET" tvg-logo="" group-title="sports",USA | NFL 08x: Washington Commanders vs Atlanta Falcons (Sunday 9/28) 1:00PM ET
 http://nordiciptv.co:7070/live/Lena.carlstrom63%40gmail.com/DmA7WB31w1adxTcN/481281.m3u
 #EXTINF:-1 tvg-name="USA | NFL Game 02x: Atlanta Falcons v Washington Commanders | Sun 28th Sep 1:00PM ET" tvg-logo="" group-title="sports",USA | NFL Game 02x: Atlanta Falcons v Washington Commanders | Sun 28th Sep 1:00PM ET
@@ -465,20 +895,14 @@ http://31.43.191.125:8080/restream/restream/5492
 http://nordiciptv.co:7070/live/Lena.carlstrom63%40gmail.com/DmA7WB31w1adxTcN/270518.m3u
 #EXTINF:-1 tvg-name="CA: SPORTSNET ONE" tvg-logo="" group-title="sports",CA: SPORTSNET ONE
 http://31.43.191.125:8080/restream/restream/5493
-#EXTINF:-1 tvg-name="CA: SPORTSNET ONTARIO" tvg-logo="" group-title="sports",CA: SPORTSNET ONTARIO
-http://31.43.191.125:8080/restream/restream/5494
 #EXTINF:-1 tvg-name="CA: SPORTSNET PACIFIC" tvg-logo="" group-title="sports",CA: SPORTSNET PACIFIC
 http://31.43.191.125:8080/restream/restream/5495
-#EXTINF:-1 tvg-name="CA: SPORTSNET WEST" tvg-logo="" group-title="sports",CA: SPORTSNET WEST
-http://31.43.191.125:8080/restream/restream/5496
 #EXTINF:-1 tvg-name="CA: SPORTSNET WORLD" tvg-logo="" group-title="sports",CA: SPORTSNET WORLD
 http://31.43.191.125:8080/restream/restream/5497
 #EXTINF:-1 tvg-name="Eurosport Norge HD" tvg-logo="" group-title="sports",Eurosport Norge HD
 http://nordiciptv.co:7070/live/Lena.carlstrom63%40gmail.com/DmA7WB31w1adxTcN/236609.m3u
 #EXTINF:-1 tvg-name="EUROSPORT N HD NO" tvg-logo="" group-title="sports",EUROSPORT N HD NO
 http://nordiciptv.co:7070/live/Lena.carlstrom63%40gmail.com/DmA7WB31w1adxTcN/1687.m3u
-#EXTINF:-1 tvg-name="UK: Sky Sports Main Event" tvg-logo="" group-title="sports",UK: Sky Sports Main Event
-http://31.43.191.125:8080/restream/restream/1677
 #EXTINF:-1 tvg-name="ESPN 2_Mexico (MEX)" tvg-logo="" group-title="sports",ESPN 2_Mexico (MEX)
 http://nordiciptv.co:7070/live/Lena.carlstrom63%40gmail.com/DmA7WB31w1adxTcN/211843.m3u
 #EXTINF:-1 tvg-name="ESPN Extra (MEX)" tvg-logo="" group-title="sports",ESPN Extra (MEX)
@@ -523,8 +947,6 @@ http://31.43.191.125:8080/restream/restream/25029
 http://31.43.191.125:8080/restream/restream/25031
 #EXTINF:-1 tvg-name="AU: FOX SPORTS 504" tvg-logo="" group-title="sports",AU: FOX SPORTS 504
 http://31.43.191.125:8080/restream/restream/25032
-#EXTINF:-1 tvg-name="AU: FOX SPORTS 505" tvg-logo="" group-title="sports",AU: FOX SPORTS 505
-http://31.43.191.125:8080/restream/restream/25033
 #EXTINF:-1 tvg-name="AU: FOX SPORTS 506" tvg-logo="" group-title="sports",AU: FOX SPORTS 506
 http://31.43.191.125:8080/restream/restream/25034
 #EXTINF:-1 tvg-name="AU: FOX SPORTS 507" tvg-logo="" group-title="sports",AU: FOX SPORTS 507
@@ -555,8 +977,6 @@ http://31.43.191.125:8080/restream/restream/1669
 http://31.43.191.125:8080/restream/restream/1671
 #EXTINF:-1 tvg-name="UK: Sky Sports Cricket" tvg-logo="" group-title="sports",UK: Sky Sports Cricket
 http://31.43.191.125:8080/restream/restream/1673
-#EXTINF:-1 tvg-name="UK: Sky Sports Arena" tvg-logo="" group-title="sports",UK: Sky Sports Arena
-http://31.43.191.125:8080/restream/restream/1674
 #EXTINF:-1 tvg-name="UK: Sky Sports Racing" tvg-logo="" group-title="sports",UK: Sky Sports Racing
 http://31.43.191.125:8080/restream/restream/1676
 #EXTINF:-1 tvg-name="UK: VIP Sky Sports NFL" tvg-logo="" group-title="sports",UK: VIP Sky Sports NFL
@@ -579,375 +999,3 @@ http://31.43.191.125:8080/restream/restream/1689
 http://31.43.191.125:8080/restream/restream/1694
 #EXTINF:-1 tvg-name="UK: Premier Sports 2" tvg-logo="" group-title="sports",UK: Premier Sports 2
 http://31.43.191.125:8080/restream/restream/1695
-#EXTINF:-1 tvg-name="UK: Sky Sports News" tvg-logo="" group-title="sports",UK: Sky Sports News
-http://31.43.191.125:8080/restream/restream/1696
-#EXTINF:-1 tvg-name="UK: VIP SUPER SPORT GOLF" tvg-logo="" group-title="sports",UK: VIP SUPER SPORT GOLF
-http://31.43.191.125:8080/restream/restream/1697
-#EXTINF:-1 tvg-name="UK: VIP SUPER SPORT VARIETY 4 (MATCH TIME)" tvg-logo="" group-title="sports",UK: VIP SUPER SPORT VARIETY 4 (MATCH TIME)
-http://31.43.191.125:8080/restream/restream/1698
-#EXTINF:-1 tvg-name="UK: VIP SUPER SPORTS CRICKET (MATCH TIME)" tvg-logo="" group-title="sports",UK: VIP SUPER SPORTS CRICKET (MATCH TIME)
-http://31.43.191.125:8080/restream/restream/1699
-#EXTINF:-1 tvg-name="UK: VIP SUPERSPORT RUGBY (MATCH TIME)" tvg-logo="" group-title="sports",UK: VIP SUPERSPORT RUGBY (MATCH TIME)
-http://31.43.191.125:8080/restream/restream/1700
-#EXTINF:-1 tvg-name="UK: VIP SUPER SPORT VARIETY 3 (MATCH TIME)" tvg-logo="" group-title="sports",UK: VIP SUPER SPORT VARIETY 3 (MATCH TIME)
-http://31.43.191.125:8080/restream/restream/1701
-#EXTINF:-1 tvg-name="UK: VIP SUPER SPORT VARIETY 1 (MATCH TIME)" tvg-logo="" group-title="sports",UK: VIP SUPER SPORT VARIETY 1 (MATCH TIME)
-http://31.43.191.125:8080/restream/restream/1702
-#EXTINF:-1 tvg-name="UK: VIP SUPER SPORTS FOOTBALL (MATCH TIME)" tvg-logo="" group-title="sports",UK: VIP SUPER SPORTS FOOTBALL (MATCH TIME)
-http://31.43.191.125:8080/restream/restream/1703
-#EXTINF:-1 tvg-name="UK: VIP SUPER SPORTS ACTION (MATCH TIME)" tvg-logo="" group-title="sports",UK: VIP SUPER SPORTS ACTION (MATCH TIME)
-http://31.43.191.125:8080/restream/restream/1704
-#EXTINF:-1 tvg-name="UK: VIP SUPER SPORT VARIETY 2 (MATCH TIME)" tvg-logo="" group-title="sports",UK: VIP SUPER SPORT VARIETY 2 (MATCH TIME)
-http://31.43.191.125:8080/restream/restream/1705
-#EXTINF:-1 tvg-name="UK: VIP SUPER SPORT MOTORSPORT (MATCH TIME)" tvg-logo="" group-title="sports",UK: VIP SUPER SPORT MOTORSPORT (MATCH TIME)
-http://31.43.191.125:8080/restream/restream/1706
-#EXTINF:-1 tvg-name="UK: VIP SUPER SPORTS GRAND STAND (MATCH TIME)" tvg-logo="" group-title="sports",UK: VIP SUPER SPORTS GRAND STAND (MATCH TIME)
-http://31.43.191.125:8080/restream/restream/1707
-#EXTINF:-1 tvg-name="UK: VIP SUPER SPORT PSL (MATCH TIME)" tvg-logo="" group-title="sports",UK: VIP SUPER SPORT PSL (MATCH TIME)
-http://31.43.191.125:8080/restream/restream/1708
-#EXTINF:-1 tvg-name="UK: VIP SUPER SPORTS LALIGA (MATCH TIME)" tvg-logo="" group-title="sports",UK: VIP SUPER SPORTS LALIGA (MATCH TIME)
-http://31.43.191.125:8080/restream/restream/1709
-#EXTINF:-1 tvg-name="UK: TNT Sport 4" tvg-logo="" group-title="sports",UK: TNT Sport 4
-http://31.43.191.125:8080/restream/restream/1710
-#EXTINF:-1 tvg-name="UK: VIP FREE SPORTS" tvg-logo="" group-title="sports",UK: VIP FREE SPORTS
-http://31.43.191.125:8080/restream/restream/1714
-#EXTINF:-1 tvg-name="UK: Sky Sports Tennis" tvg-logo="" group-title="sports",UK: Sky Sports Tennis
-http://31.43.191.125:8080/restream/restream/147068
-#EXTINF:-1 tvg-name="UK: Sky Sports+ FHD" tvg-logo="" group-title="sports",UK: Sky Sports+ FHD
-http://31.43.191.125:8080/restream/restream/146466
-#EXTINF:-1 tvg-name="UK: Sky Sports News HQ HD" tvg-logo="" group-title="sports",UK: Sky Sports News HQ HD
-http://31.43.191.125:8080/restream/restream/147024
-#EXTINF:-1 tvg-name="UK: SKY SPORTS ULTRA 1 4K (Event Only)" tvg-logo="" group-title="sports",UK: SKY SPORTS ULTRA 1 4K (Event Only)
-http://31.43.191.125:8080/restream/restream/146593
-#EXTINF:-1 tvg-name="UK: SKY SPORTS ULTRA 2 4K (Event Only)" tvg-logo="" group-title="sports",UK: SKY SPORTS ULTRA 2 4K (Event Only)
-http://31.43.191.125:8080/restream/restream/146592
-#EXTINF:-1 tvg-name="UK: TNT Sports 1 HD" tvg-logo="" group-title="sports",UK: TNT Sports 1 HD
-http://31.43.191.125:8080/restream/restream/147028
-#EXTINF:-1 tvg-name="UK: TNT Sports 2 HD" tvg-logo="" group-title="sports",UK: TNT Sports 2 HD
-http://31.43.191.125:8080/restream/restream/147029
-#EXTINF:-1 tvg-name="UK: TNT Sports 3 HD" tvg-logo="" group-title="sports",UK: TNT Sports 3 HD
-http://31.43.191.125:8080/restream/restream/147030
-#EXTINF:-1 tvg-name="UK: TNT Sports 4 HD" tvg-logo="" group-title="sports",UK: TNT Sports 4 HD
-http://31.43.191.125:8080/restream/restream/147031
-#EXTINF:-1 tvg-name="UK: TNT SPORTS 5" tvg-logo="" group-title="sports",UK: TNT SPORTS 5
-http://31.43.191.125:8080/restream/restream/146591
-#EXTINF:-1 tvg-name="UK: TNT Sports 6 FHD (Not 24/7)" tvg-logo="" group-title="sports",UK: TNT Sports 6 FHD (Not 24/7)
-http://31.43.191.125:8080/restream/restream/146480
-#EXTINF:-1 tvg-name="UK: TNT Sports 7 FHD (Not 24/7)" tvg-logo="" group-title="sports",UK: TNT Sports 7 FHD (Not 24/7)
-http://31.43.191.125:8080/restream/restream/146481
-#EXTINF:-1 tvg-name="UK: TNT Sports 8 FHD (Not 24/7)" tvg-logo="" group-title="sports",UK: TNT Sports 8 FHD (Not 24/7)
-http://31.43.191.125:8080/restream/restream/146482
-#EXTINF:-1 tvg-name="UK: TNT Sports 9 FHD (Not 24/7)" tvg-logo="" group-title="sports",UK: TNT Sports 9 FHD (Not 24/7)
-http://31.43.191.125:8080/restream/restream/146483
-#EXTINF:-1 tvg-name="UK: TNT Sports 10 FHD (Not 24/7)" tvg-logo="" group-title="sports",UK: TNT Sports 10 FHD (Not 24/7)
-http://31.43.191.125:8080/restream/restream/146484
-#EXTINF:-1 tvg-name="UK: TNT SPORTS 6" tvg-logo="" group-title="sports",UK: TNT SPORTS 6
-http://31.43.191.125:8080/restream/restream/146590
-#EXTINF:-1 tvg-name="UK: TNT SPORTS 7" tvg-logo="" group-title="sports",UK: TNT SPORTS 7
-http://31.43.191.125:8080/restream/restream/146589
-#EXTINF:-1 tvg-name="UK: TNT SPORTS 8" tvg-logo="" group-title="sports",UK: TNT SPORTS 8
-http://31.43.191.125:8080/restream/restream/146588
-#EXTINF:-1 tvg-name="UK: TNT SPORTS 09" tvg-logo="" group-title="sports",UK: TNT SPORTS 09
-http://31.43.191.125:8080/restream/restream/146587
-#EXTINF:-1 tvg-name="UK: TNT SPORTS 10" tvg-logo="" group-title="sports",UK: TNT SPORTS 10
-http://31.43.191.125:8080/restream/restream/146586
-#EXTINF:-1 tvg-name="UK: TNT SPORTS ULTIMATE" tvg-logo="" group-title="sports",UK: TNT SPORTS ULTIMATE
-http://31.43.191.125:8080/restream/restream/146585
-#EXTINF:-1 tvg-name="UK: FLOW SPORT" tvg-logo="" group-title="sports",UK: FLOW SPORT
-http://31.43.191.125:8080/restream/restream/146805
-#EXTINF:-1 tvg-name="UK: RUSH SPORT" tvg-logo="" group-title="sports",UK: RUSH SPORT
-http://31.43.191.125:8080/restream/restream/146806
-#EXTINF:-1 tvg-name="UK: Bein Sports English 2" tvg-logo="" group-title="sports",UK: Bein Sports English 2
-http://31.43.191.125:8080/restream/restream/147047
-#EXTINF:-1 tvg-name="UK: Bein Sports USA" tvg-logo="" group-title="sports",UK: Bein Sports USA
-http://31.43.191.125:8080/restream/restream/147048
-#EXTINF:-1 tvg-name="UK: VIAPLAY SPORTS 1" tvg-logo="" group-title="sports",UK: VIAPLAY SPORTS 1
-http://31.43.191.125:8080/restream/restream/146584
-#EXTINF:-1 tvg-name="UK: VIAPLAY SPORTS 2" tvg-logo="" group-title="sports",UK: VIAPLAY SPORTS 2
-http://31.43.191.125:8080/restream/restream/146583
-#EXTINF:-1 tvg-name="UK: Bein Sports Extra Ñ" tvg-logo="" group-title="sports",UK: Bein Sports Extra Ñ
-http://31.43.191.125:8080/restream/restream/146628
-#EXTINF:-1 tvg-name="UK: SPORT" tvg-logo="" group-title="sports",UK: SPORT
-http://31.43.191.125:8080/restream/restream/146724
-#EXTINF:-1 tvg-name="UK: Astro Sports Plus" tvg-logo="" group-title="sports",UK: Astro Sports Plus
-http://31.43.191.125:8080/restream/restream/146810
-#EXTINF:-1 tvg-name="NZ: SKY SPORT 5 VIP [Live During Events Only]" tvg-logo="" group-title="sports",NZ: SKY SPORT 5 VIP [Live During Events Only]
-http://31.43.191.125:8080/restream/restream/146817
-#EXTINF:-1 tvg-name="UK: Astro Football" tvg-logo="" group-title="sports",UK: Astro Football
-http://31.43.191.125:8080/restream/restream/146820
-#EXTINF:-1 tvg-name="UK: Supersport 3" tvg-logo="" group-title="sports",UK: Supersport 3
-http://31.43.191.125:8080/restream/restream/146822
-#EXTINF:-1 tvg-name="UK: Supersport 2" tvg-logo="" group-title="sports",UK: Supersport 2
-http://31.43.191.125:8080/restream/restream/146823
-#EXTINF:-1 tvg-name="UK: Supersport 1" tvg-logo="" group-title="sports",UK: Supersport 1
-http://31.43.191.125:8080/restream/restream/146824
-#EXTINF:-1 tvg-name="UK: HUB SPORTS 1" tvg-logo="" group-title="sports",UK: HUB SPORTS 1
-http://31.43.191.125:8080/restream/restream/146827
-#EXTINF:-1 tvg-name="UK: HUB SPORTS 2" tvg-logo="" group-title="sports",UK: HUB SPORTS 2
-http://31.43.191.125:8080/restream/restream/146826
-#EXTINF:-1 tvg-name="UK: HUB SPORTS 3" tvg-logo="" group-title="sports",UK: HUB SPORTS 3
-http://31.43.191.125:8080/restream/restream/146825
-#EXTINF:-1 tvg-name="UK: Event 34 (Match Time Only)" tvg-logo="" group-title="sports",UK: Event 34 (Match Time Only)
-http://31.43.191.125:8080/restream/restream/146836
-#EXTINF:-1 tvg-name="UK: Event 33 (Match Time Only)" tvg-logo="" group-title="sports",UK: Event 33 (Match Time Only)
-http://31.43.191.125:8080/restream/restream/146837
-#EXTINF:-1 tvg-name="UK: Event 32 (Match Time Only)" tvg-logo="" group-title="sports",UK: Event 32 (Match Time Only)
-http://31.43.191.125:8080/restream/restream/146838
-#EXTINF:-1 tvg-name="UK: Event 31 (Match Time Only)" tvg-logo="" group-title="sports",UK: Event 31 (Match Time Only)
-http://31.43.191.125:8080/restream/restream/146839
-#EXTINF:-1 tvg-name="UK: Event 30 (Match Time Only)" tvg-logo="" group-title="sports",UK: Event 30 (Match Time Only)
-http://31.43.191.125:8080/restream/restream/146840
-#EXTINF:-1 tvg-name="UK: Event 29 (Match Time Only)" tvg-logo="" group-title="sports",UK: Event 29 (Match Time Only)
-http://31.43.191.125:8080/restream/restream/146841
-#EXTINF:-1 tvg-name="UK: Event 28 (Match Time Only)" tvg-logo="" group-title="sports",UK: Event 28 (Match Time Only)
-http://31.43.191.125:8080/restream/restream/146842
-#EXTINF:-1 tvg-name="UK: Event 27 (Match Time Only)" tvg-logo="" group-title="sports",UK: Event 27 (Match Time Only)
-http://31.43.191.125:8080/restream/restream/146843
-#EXTINF:-1 tvg-name="UK: Event 26 (Match Time Only)" tvg-logo="" group-title="sports",UK: Event 26 (Match Time Only)
-http://31.43.191.125:8080/restream/restream/146844
-#EXTINF:-1 tvg-name="UK: Event 25 (Match Time Only)" tvg-logo="" group-title="sports",UK: Event 25 (Match Time Only)
-http://31.43.191.125:8080/restream/restream/146845
-#EXTINF:-1 tvg-name="UK: Event 24 (Match Time Only)" tvg-logo="" group-title="sports",UK: Event 24 (Match Time Only)
-http://31.43.191.125:8080/restream/restream/146846
-#EXTINF:-1 tvg-name="UK: Boxing live EVENT 00 (Match Time Only)" tvg-logo="" group-title="sports",UK: Boxing live EVENT 00 (Match Time Only)
-http://31.43.191.125:8080/restream/restream/146870
-#EXTINF:-1 tvg-name="UK: UKHD : TNT SPORTS BOX OFFICE" tvg-logo="" group-title="sports",UK: UKHD : TNT SPORTS BOX OFFICE
-http://31.43.191.125:8080/restream/restream/146886
-#EXTINF:-1 tvg-name="UK: UKSD : TNT SPORTS BOX OFFICE" tvg-logo="" group-title="sports",UK: UKSD : TNT SPORTS BOX OFFICE
-http://31.43.191.125:8080/restream/restream/146887
-#EXTINF:-1 tvg-name="UK: UKFHD : TNT SPORTS BOX OFFICE" tvg-logo="" group-title="sports",UK: UKFHD : TNT SPORTS BOX OFFICE
-http://31.43.191.125:8080/restream/restream/146888
-#EXTINF:-1 tvg-name="UK: Premier Sports 2 (Match Time)" tvg-logo="" group-title="sports",UK: Premier Sports 2 (Match Time)
-http://31.43.191.125:8080/restream/restream/147054
-#EXTINF:-1 tvg-name="UK: SuperSport Action" tvg-logo="" group-title="sports",UK: SuperSport Action
-http://31.43.191.125:8080/restream/restream/147069
-#EXTINF:-1 tvg-name="UK: Super Sport Blitz [Live During Events Only]" tvg-logo="" group-title="sports",UK: Super Sport Blitz [Live During Events Only]
-http://31.43.191.125:8080/restream/restream/147070
-#EXTINF:-1 tvg-name="UK: Super Sport Cricket" tvg-logo="" group-title="sports",UK: Super Sport Cricket
-http://31.43.191.125:8080/restream/restream/147071
-#EXTINF:-1 tvg-name="UK: SuperSport Golf" tvg-logo="" group-title="sports",UK: SuperSport Golf
-http://31.43.191.125:8080/restream/restream/147072
-#EXTINF:-1 tvg-name="UK: SuperSport LaLiga" tvg-logo="" group-title="sports",UK: SuperSport LaLiga
-http://31.43.191.125:8080/restream/restream/147073
-#EXTINF:-1 tvg-name="UK: SuperSport Premier League" tvg-logo="" group-title="sports",UK: SuperSport Premier League
-http://31.43.191.125:8080/restream/restream/147074
-#EXTINF:-1 tvg-name="UK: Sky Sport Tennis" tvg-logo="" group-title="sports",UK: Sky Sport Tennis
-http://31.43.191.125:8080/restream/restream/147075
-#EXTINF:-1 tvg-name="UK: SPFL 01 (Match Time)" tvg-logo="" group-title="sports",UK: SPFL 01 (Match Time)
-http://31.43.191.125:8080/restream/restream/146496
-#EXTINF:-1 tvg-name="UK: SPFL 02 (Match Time)" tvg-logo="" group-title="sports",UK: SPFL 02 (Match Time)
-http://31.43.191.125:8080/restream/restream/146495
-#EXTINF:-1 tvg-name="UK: SPFL 03 (Match Time)" tvg-logo="" group-title="sports",UK: SPFL 03 (Match Time)
-http://31.43.191.125:8080/restream/restream/146494
-#EXTINF:-1 tvg-name="UK: SPFL 04 (Match Time)" tvg-logo="" group-title="sports",UK: SPFL 04 (Match Time)
-http://31.43.191.125:8080/restream/restream/146493
-#EXTINF:-1 tvg-name="UK: SPFL 05 (Match Time)" tvg-logo="" group-title="sports",UK: SPFL 05 (Match Time)
-http://31.43.191.125:8080/restream/restream/146492
-#EXTINF:-1 tvg-name="UK: SPFL 06 (Match Time)" tvg-logo="" group-title="sports",UK: SPFL 06 (Match Time)
-http://31.43.191.125:8080/restream/restream/146491
-#EXTINF:-1 tvg-name="UK: SPFL 07 (Match Time)" tvg-logo="" group-title="sports",UK: SPFL 07 (Match Time)
-http://31.43.191.125:8080/restream/restream/146490
-#EXTINF:-1 tvg-name="UK: SPFL 08 (Match Time)" tvg-logo="" group-title="sports",UK: SPFL 08 (Match Time)
-http://31.43.191.125:8080/restream/restream/146489
-#EXTINF:-1 tvg-name="UK: SPFL 09 (Match Time)" tvg-logo="" group-title="sports",UK: SPFL 09 (Match Time)
-http://31.43.191.125:8080/restream/restream/146488
-#EXTINF:-1 tvg-name="UK: SPFL 10 (Match Time)" tvg-logo="" group-title="sports",UK: SPFL 10 (Match Time)
-http://31.43.191.125:8080/restream/restream/146487
-#EXTINF:-1 tvg-name="UK: Dazn Womens Football" tvg-logo="" group-title="sports",UK: Dazn Womens Football
-http://31.43.191.125:8080/restream/restream/146894
-#EXTINF:-1 tvg-name="UK: DAZN Matchroom Boxing" tvg-logo="" group-title="sports",UK: DAZN Matchroom Boxing
-http://31.43.191.125:8080/restream/restream/146897
-#EXTINF:-1 tvg-name="UK: DAZN Sport Stack" tvg-logo="" group-title="sports",UK: DAZN Sport Stack
-http://31.43.191.125:8080/restream/restream/146907
-#EXTINF:-1 tvg-name="CA: TVA SPORTS" tvg-logo="" group-title="sports",CA: TVA SPORTS
-http://31.43.191.125:8080/restream/restream/5516
-#EXTINF:-1 tvg-name="CA: FOX SPORTS RACING" tvg-logo="" group-title="sports",CA: FOX SPORTS RACING
-http://31.43.191.125:8080/restream/restream/5527
-#EXTINF:-1 tvg-name="USA: ACCN ESPN" tvg-logo="" group-title="sports",USA: ACCN ESPN
-http://31.43.191.125:8080/restream/restream/154614
-#EXTINF:-1 tvg-name="USA: AFN SPORT" tvg-logo="" group-title="sports",USA: AFN SPORT
-http://31.43.191.125:8080/restream/restream/154617
-#EXTINF:-1 tvg-name="USA: AT&T SPORTSNET" tvg-logo="" group-title="sports",USA: AT&T SPORTSNET
-http://31.43.191.125:8080/restream/restream/154671
-#EXTINF:-1 tvg-name="USA: AT&T SPORTSNET PITTSBURGH" tvg-logo="" group-title="sports",USA: AT&T SPORTSNET PITTSBURGH
-http://31.43.191.125:8080/restream/restream/154672
-#EXTINF:-1 tvg-name="USA: AT&T SPORTSNET SOUTHWEST" tvg-logo="" group-title="sports",USA: AT&T SPORTSNET SOUTHWEST
-http://31.43.191.125:8080/restream/restream/154673
-#EXTINF:-1 tvg-name="USA: BALLY SPORTS NORTH" tvg-logo="" group-title="sports",USA: BALLY SPORTS NORTH
-http://31.43.191.125:8080/restream/restream/154684
-#EXTINF:-1 tvg-name="USA: BALLY SPORTS PRIME TICKET" tvg-logo="" group-title="sports",USA: BALLY SPORTS PRIME TICKET
-http://31.43.191.125:8080/restream/restream/154685
-#EXTINF:-1 tvg-name="USA: BEIN SPORTS CONNECT" tvg-logo="" group-title="sports",USA: BEIN SPORTS CONNECT
-http://31.43.191.125:8080/restream/restream/154702
-#EXTINF:-1 tvg-name="USA: BEIN SPORTS CONNECT 4" tvg-logo="" group-title="sports",USA: BEIN SPORTS CONNECT 4
-http://31.43.191.125:8080/restream/restream/154703
-#EXTINF:-1 tvg-name="USA: BEIN SPORTS CONNECT 8" tvg-logo="" group-title="sports",USA: BEIN SPORTS CONNECT 8
-http://31.43.191.125:8080/restream/restream/154704
-#EXTINF:-1 tvg-name="USA: BEIN SPORTS LA LIGA" tvg-logo="" group-title="sports",USA: BEIN SPORTS LA LIGA
-http://31.43.191.125:8080/restream/restream/154705
-#EXTINF:-1 tvg-name="USA: BELLATOR MMA" tvg-logo="" group-title="sports",USA: BELLATOR MMA
-http://31.43.191.125:8080/restream/restream/154706
-#EXTINF:-1 tvg-name="USA: BTN SPORT" tvg-logo="" group-title="sports",USA: BTN SPORT
-http://31.43.191.125:8080/restream/restream/154740
-#EXTINF:-1 tvg-name="USA: BUNDESLIGA 01 (MATCH TIME)" tvg-logo="" group-title="sports",USA: BUNDESLIGA 01 (MATCH TIME)
-http://31.43.191.125:8080/restream/restream/154741
-#EXTINF:-1 tvg-name="USA: CHICAGO SPORTS NETWORK CHSN US" tvg-logo="" group-title="sports",USA: CHICAGO SPORTS NETWORK CHSN US
-http://31.43.191.125:8080/restream/restream/154915
-#EXTINF:-1 tvg-name="USA: COURT SPORTS NETWORK" tvg-logo="" group-title="sports",USA: COURT SPORTS NETWORK
-http://31.43.191.125:8080/restream/restream/154958
-#EXTINF:-1 tvg-name="USA: ESPN U" tvg-logo="" group-title="sports",USA: ESPN U
-http://31.43.191.125:8080/restream/restream/155110
-#EXTINF:-1 tvg-name="USA: FIGHT SPORTS FHD" tvg-logo="" group-title="sports",USA: FIGHT SPORTS FHD
-http://31.43.191.125:8080/restream/restream/155246
-#EXTINF:-1 tvg-name="USA: FOOTBALL EVENT 14" tvg-logo="" group-title="sports",USA: FOOTBALL EVENT 14
-http://31.43.191.125:8080/restream/restream/155326
-#EXTINF:-1 tvg-name="USA: FOOTBALL EVENTS 01" tvg-logo="" group-title="sports",USA: FOOTBALL EVENTS 01
-http://31.43.191.125:8080/restream/restream/155327
-#EXTINF:-1 tvg-name="USA: FOOTBALL EVENTS 02" tvg-logo="" group-title="sports",USA: FOOTBALL EVENTS 02
-http://31.43.191.125:8080/restream/restream/155328
-#EXTINF:-1 tvg-name="USA: FOOTBALL EVENTS 03" tvg-logo="" group-title="sports",USA: FOOTBALL EVENTS 03
-http://31.43.191.125:8080/restream/restream/155329
-#EXTINF:-1 tvg-name="USA: FOOTBALL EVENTS 04" tvg-logo="" group-title="sports",USA: FOOTBALL EVENTS 04
-http://31.43.191.125:8080/restream/restream/155330
-#EXTINF:-1 tvg-name="USA: FOOTBALL EVENTS 05" tvg-logo="" group-title="sports",USA: FOOTBALL EVENTS 05
-http://31.43.191.125:8080/restream/restream/155331
-#EXTINF:-1 tvg-name="USA: FOOTBALL EVENTS 06" tvg-logo="" group-title="sports",USA: FOOTBALL EVENTS 06
-http://31.43.191.125:8080/restream/restream/155332
-#EXTINF:-1 tvg-name="USA: FOOTBALL EVENTS 07" tvg-logo="" group-title="sports",USA: FOOTBALL EVENTS 07
-http://31.43.191.125:8080/restream/restream/155333
-#EXTINF:-1 tvg-name="USA: FOOTBALL EVENTS 08" tvg-logo="" group-title="sports",USA: FOOTBALL EVENTS 08
-http://31.43.191.125:8080/restream/restream/155334
-#EXTINF:-1 tvg-name="USA: FOOTBALL EVENTS 09" tvg-logo="" group-title="sports",USA: FOOTBALL EVENTS 09
-http://31.43.191.125:8080/restream/restream/155335
-#EXTINF:-1 tvg-name="USA: FOOTBALL EVENTS 10" tvg-logo="" group-title="sports",USA: FOOTBALL EVENTS 10
-http://31.43.191.125:8080/restream/restream/155336
-#EXTINF:-1 tvg-name="USA: FOOTBALL EVENTS 11" tvg-logo="" group-title="sports",USA: FOOTBALL EVENTS 11
-http://31.43.191.125:8080/restream/restream/155337
-#EXTINF:-1 tvg-name="USA: FOOTBALL EVENTS 12" tvg-logo="" group-title="sports",USA: FOOTBALL EVENTS 12
-http://31.43.191.125:8080/restream/restream/155338
-#EXTINF:-1 tvg-name="USA: FOOTBALL EVENTS 13" tvg-logo="" group-title="sports",USA: FOOTBALL EVENTS 13
-http://31.43.191.125:8080/restream/restream/155339
-#EXTINF:-1 tvg-name="USA: FOOTBALL EVENTS 15" tvg-logo="" group-title="sports",USA: FOOTBALL EVENTS 15
-http://31.43.191.125:8080/restream/restream/155340
-#EXTINF:-1 tvg-name="USA: FOOTBALL EVENTS 16" tvg-logo="" group-title="sports",USA: FOOTBALL EVENTS 16
-http://31.43.191.125:8080/restream/restream/155341
-#EXTINF:-1 tvg-name="USA: FOOTBALL EVENTS 17" tvg-logo="" group-title="sports",USA: FOOTBALL EVENTS 17
-http://31.43.191.125:8080/restream/restream/155342
-#EXTINF:-1 tvg-name="USA: FOOTBALL EVENTS 18" tvg-logo="" group-title="sports",USA: FOOTBALL EVENTS 18
-http://31.43.191.125:8080/restream/restream/155343
-#EXTINF:-1 tvg-name="USA: FOOTBALL EVENTS 19" tvg-logo="" group-title="sports",USA: FOOTBALL EVENTS 19
-http://31.43.191.125:8080/restream/restream/155344
-#EXTINF:-1 tvg-name="USA: FOOTBALL EVENTS 20" tvg-logo="" group-title="sports",USA: FOOTBALL EVENTS 20
-http://31.43.191.125:8080/restream/restream/155345
-#EXTINF:-1 tvg-name="USA: FOOTBALL EVENTS 21" tvg-logo="" group-title="sports",USA: FOOTBALL EVENTS 21
-http://31.43.191.125:8080/restream/restream/155346
-#EXTINF:-1 tvg-name="USA: FOOTBALL EVENTS 22" tvg-logo="" group-title="sports",USA: FOOTBALL EVENTS 22
-http://31.43.191.125:8080/restream/restream/155347
-#EXTINF:-1 tvg-name="USA: FOOTBALL EVENTS 23" tvg-logo="" group-title="sports",USA: FOOTBALL EVENTS 23
-http://31.43.191.125:8080/restream/restream/155348
-#EXTINF:-1 tvg-name="USA: FOOTBALL EVENTS 24" tvg-logo="" group-title="sports",USA: FOOTBALL EVENTS 24
-http://31.43.191.125:8080/restream/restream/155349
-#EXTINF:-1 tvg-name="USA: FOOTBALL EVENTS 25" tvg-logo="" group-title="sports",USA: FOOTBALL EVENTS 25
-http://31.43.191.125:8080/restream/restream/155350
-#EXTINF:-1 tvg-name="USA: FOOTBALL EVENTS 26" tvg-logo="" group-title="sports",USA: FOOTBALL EVENTS 26
-http://31.43.191.125:8080/restream/restream/155351
-#EXTINF:-1 tvg-name="USA: FOOTBALL EVENTS 27" tvg-logo="" group-title="sports",USA: FOOTBALL EVENTS 27
-http://31.43.191.125:8080/restream/restream/155352
-#EXTINF:-1 tvg-name="USA: FOOTBALL EVENTS 28" tvg-logo="" group-title="sports",USA: FOOTBALL EVENTS 28
-http://31.43.191.125:8080/restream/restream/155353
-#EXTINF:-1 tvg-name="USA: FOOTBALL EVENTS 29" tvg-logo="" group-title="sports",USA: FOOTBALL EVENTS 29
-http://31.43.191.125:8080/restream/restream/155354
-#EXTINF:-1 tvg-name="USA: FOOTBALL EVENTS 30" tvg-logo="" group-title="sports",USA: FOOTBALL EVENTS 30
-http://31.43.191.125:8080/restream/restream/155355
-#EXTINF:-1 tvg-name="USA: FOOTBALL EVENTS 31" tvg-logo="" group-title="sports",USA: FOOTBALL EVENTS 31
-http://31.43.191.125:8080/restream/restream/155356
-#EXTINF:-1 tvg-name="USA: FOOTBALL EVENTS 32" tvg-logo="" group-title="sports",USA: FOOTBALL EVENTS 32
-http://31.43.191.125:8080/restream/restream/155357
-#EXTINF:-1 tvg-name="USA: FOOTBALL EVENTS 33" tvg-logo="" group-title="sports",USA: FOOTBALL EVENTS 33
-http://31.43.191.125:8080/restream/restream/155358
-#EXTINF:-1 tvg-name="USA: FOOTBALL EVENTS 34" tvg-logo="" group-title="sports",USA: FOOTBALL EVENTS 34
-http://31.43.191.125:8080/restream/restream/155359
-#EXTINF:-1 tvg-name="USA: FOOTBALL EVENTS 35" tvg-logo="" group-title="sports",USA: FOOTBALL EVENTS 35
-http://31.43.191.125:8080/restream/restream/155360
-#EXTINF:-1 tvg-name="USA: FOOTBALL EVENTS 36" tvg-logo="" group-title="sports",USA: FOOTBALL EVENTS 36
-http://31.43.191.125:8080/restream/restream/155361
-#EXTINF:-1 tvg-name="USA: FOOTBALL EVENTS 37" tvg-logo="" group-title="sports",USA: FOOTBALL EVENTS 37
-http://31.43.191.125:8080/restream/restream/155362
-#EXTINF:-1 tvg-name="USA: FOOTBALL EVENTS 38" tvg-logo="" group-title="sports",USA: FOOTBALL EVENTS 38
-http://31.43.191.125:8080/restream/restream/155363
-#EXTINF:-1 tvg-name="USA: FOOTBALL EVENTS 39" tvg-logo="" group-title="sports",USA: FOOTBALL EVENTS 39
-http://31.43.191.125:8080/restream/restream/155364
-#EXTINF:-1 tvg-name="USA: FOX SPORTS" tvg-logo="" group-title="sports",USA: FOX SPORTS
-http://31.43.191.125:8080/restream/restream/155481
-#EXTINF:-1 tvg-name="USA: FOX SPORTS NETBASE" tvg-logo="" group-title="sports",USA: FOX SPORTS NETBASE
-http://31.43.191.125:8080/restream/restream/155483
-#EXTINF:-1 tvg-name="USA: FUBO SPORTS 01" tvg-logo="" group-title="sports",USA: FUBO SPORTS 01
-http://31.43.191.125:8080/restream/restream/155501
-#EXTINF:-1 tvg-name="USA: FUBO SPORTS 02" tvg-logo="" group-title="sports",USA: FUBO SPORTS 02
-http://31.43.191.125:8080/restream/restream/155502
-#EXTINF:-1 tvg-name="USA: FUBO SPORTS 03" tvg-logo="" group-title="sports",USA: FUBO SPORTS 03
-http://31.43.191.125:8080/restream/restream/155503
-#EXTINF:-1 tvg-name="USA: FUBO SPORTS 05" tvg-logo="" group-title="sports",USA: FUBO SPORTS 05
-http://31.43.191.125:8080/restream/restream/155504
-#EXTINF:-1 tvg-name="USA: FUBO SPORTS 06" tvg-logo="" group-title="sports",USA: FUBO SPORTS 06
-http://31.43.191.125:8080/restream/restream/155505
-#EXTINF:-1 tvg-name="USA: FUBO SPORTS 07" tvg-logo="" group-title="sports",USA: FUBO SPORTS 07
-http://31.43.191.125:8080/restream/restream/155506
-#EXTINF:-1 tvg-name="USA: FUBO SPORTS 08" tvg-logo="" group-title="sports",USA: FUBO SPORTS 08
-http://31.43.191.125:8080/restream/restream/155507
-#EXTINF:-1 tvg-name="USA: FUBO SPORTS NETWORK" tvg-logo="" group-title="sports",USA: FUBO SPORTS NETWORK
-http://31.43.191.125:8080/restream/restream/155508
-#EXTINF:-1 tvg-name="USA: GINX ESPORTS" tvg-logo="" group-title="sports",USA: GINX ESPORTS
-http://31.43.191.125:8080/restream/restream/155528
-#EXTINF:-1 tvg-name="USA: MATCHED MARRIED MEET BY LIFETIME" tvg-logo="" group-title="sports",USA: MATCHED MARRIED MEET BY LIFETIME
-http://31.43.191.125:8080/restream/restream/155716
-#EXTINF:-1 tvg-name="USA: MMA TV" tvg-logo="" group-title="sports",USA: MMA TV
-http://31.43.191.125:8080/restream/restream/155794
-#EXTINF:-1 tvg-name="USA: NBC SPORT NETWORK" tvg-logo="" group-title="sports",USA: NBC SPORT NETWORK
-http://31.43.191.125:8080/restream/restream/156135
-#EXTINF:-1 tvg-name="USA: NBC SPORTS CALIFORNIA PLUS" tvg-logo="" group-title="sports",USA: NBC SPORTS CALIFORNIA PLUS
-http://31.43.191.125:8080/restream/restream/156137
-#EXTINF:-1 tvg-name="USA: NBC SPORTS CHICAGO PLUS" tvg-logo="" group-title="sports",USA: NBC SPORTS CHICAGO PLUS
-http://31.43.191.125:8080/restream/restream/156139
-#EXTINF:-1 tvg-name="USA: NBC SPORTS PHILADELFIA" tvg-logo="" group-title="sports",USA: NBC SPORTS PHILADELFIA
-http://31.43.191.125:8080/restream/restream/156140
-#EXTINF:-1 tvg-name="USA: NBC SPORTS PHILADELPHIA PLUS" tvg-logo="" group-title="sports",USA: NBC SPORTS PHILADELPHIA PLUS
-http://31.43.191.125:8080/restream/restream/156141
-#EXTINF:-1 tvg-name="USA: NBC SPORTS WASHINGTON" tvg-logo="" group-title="sports",USA: NBC SPORTS WASHINGTON
-http://31.43.191.125:8080/restream/restream/156142
-#EXTINF:-1 tvg-name="USA: NHL 02 - ESPN" tvg-logo="" group-title="sports",USA: NHL 02 - ESPN
-http://31.43.191.125:8080/restream/restream/156343
-#EXTINF:-1 tvg-name="USA: NHL 03 - ESPN 2" tvg-logo="" group-title="sports",USA: NHL 03 - ESPN 2
-http://31.43.191.125:8080/restream/restream/156344
-#EXTINF:-1 tvg-name="USA: ORIGIN SPORTS" tvg-logo="" group-title="sports",USA: ORIGIN SPORTS
-http://31.43.191.125:8080/restream/restream/156392
-#EXTINF:-1 tvg-name="USA: PFL MMA" tvg-logo="" group-title="sports",USA: PFL MMA
-http://31.43.191.125:8080/restream/restream/156445
-#EXTINF:-1 tvg-name="USA: SNY SPORTSNET NEW YORK" tvg-logo="" group-title="sports",USA: SNY SPORTSNET NEW YORK
-http://31.43.191.125:8080/restream/restream/156553
-#EXTINF:-1 tvg-name="USA: SPECTRUM SPORTSNET LA DODGERS" tvg-logo="" group-title="sports",USA: SPECTRUM SPORTSNET LA DODGERS
-http://31.43.191.125:8080/restream/restream/156586
-#EXTINF:-1 tvg-name="USA: SPORTS" tvg-logo="" group-title="sports",USA: SPORTS
-http://31.43.191.125:8080/restream/restream/156588
-#EXTINF:-1 tvg-name="USA: SPORTSGRID" tvg-logo="" group-title="sports",USA: SPORTSGRID
-http://31.43.191.125:8080/restream/restream/156590
-#EXTINF:-1 tvg-name="USA: SPORTSNET NEW YORK" tvg-logo="" group-title="sports",USA: SPORTSNET NEW YORK
-http://31.43.191.125:8080/restream/restream/156592
-#EXTINF:-1 tvg-name="USA: THE SPORTSMAN CHANNEL" tvg-logo="" group-title="sports",USA: THE SPORTSMAN CHANNEL
-http://31.43.191.125:8080/restream/restream/156683
-#EXTINF:-1 tvg-name="USA: TYC SPORTS" tvg-logo="" group-title="sports",USA: TYC SPORTS
-http://31.43.191.125:8080/restream/restream/156738
-#EXTINF:-1 tvg-name="USA: WOMENS SPORTS NETWORK" tvg-logo="" group-title="sports",USA: WOMENS SPORTS NETWORK
-http://31.43.191.125:8080/restream/restream/156821
-#EXTINF:-1 tvg-name="NZ: VIP SKY SPORT 1" tvg-logo="" group-title="sports",NZ: VIP SKY SPORT 1
-http://31.43.191.125:8080/restream/restream/56471
-#EXTINF:-1 tvg-name="NZ: VIP SKY SPORT 2" tvg-logo="" group-title="sports",NZ: VIP SKY SPORT 2
-http://31.43.191.125:8080/restream/restream/56472
-#EXTINF:-1 tvg-name="NZ: VIP SKY SPORT 4" tvg-logo="" group-title="sports",NZ: VIP SKY SPORT 4
-http://31.43.191.125:8080/restream/restream/56474
-#EXTINF:-1 tvg-name="NZ: VIP SKY SPORT 6" tvg-logo="" group-title="sports",NZ: VIP SKY SPORT 6
-http://31.43.191.125:8080/restream/restream/56476
-#EXTINF:-1 tvg-name="NZ: VIP SKY SPORT 7" tvg-logo="" group-title="sports",NZ: VIP SKY SPORT 7
-http://31.43.191.125:8080/restream/restream/56477
-#EXTINF:-1 tvg-name="NZ: VIP SKY SPORT 9" tvg-logo="" group-title="sports",NZ: VIP SKY SPORT 9
-http://31.43.191.125:8080/restream/restream/56479

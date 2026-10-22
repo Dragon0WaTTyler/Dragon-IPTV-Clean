@@ -1,5 +1,65 @@
 [
   {
+    "id": "dragon_arabic_47245c94267d",
+    "name": "Al Jazeera Arabic",
+    "original_name": "Al Jazeera Arabic | 🌟 FREE IPTV WORLD 🌟",
+    "language": "arabic",
+    "groups": [
+      "news"
+    ],
+    "raw_group": "New Radio Stations",
+    "logo": "",
+    "primary_url": "http://1tv41.icu:8080/BadTfnQ2/5392597610/285731",
+    "alternates": [
+      "http://1tv41.icu:8080/BadTfnQ2/5392597610/276588",
+      "http://cord-cutter.net:8080/86716053/86716053/285731",
+      "http://cord-cutter.net:8080/86716053/86716053/276588",
+      "http://tvmate.icu:8080/paulunderwood@rogers.com/1048@0247/285731",
+      "http://tvmate.icu:8080/paulunderwood@rogers.com/1048@0247/276588"
+    ],
+    "source_file": "FIW_1792646601_1_783b0b_Hunter_2109.m3u",
+    "health_status": "reachable",
+    "health_checked_urls": 1,
+    "health_promoted": false
+  },
+  {
+    "id": "dragon_arabic_a36b5aa77124",
+    "name": "Al Jazeera Arabic ARB",
+    "original_name": "Al Jazeera Arabic ARB | 🌟 FREE IPTV WORLD 🌟",
+    "language": "arabic",
+    "groups": [
+      "news"
+    ],
+    "raw_group": "",
+    "logo": "",
+    "primary_url": "http://fastopen.live:8080/filipesoeiro83/vi9sWg8ARS/5029",
+    "alternates": [
+      "http://fastopen.live:8080/filipesoeiro83/vi9sWg8ARS/118409",
+      "http://fastopen.live:8080/filipesoeiro83/vi9sWg8ARS/117168"
+    ],
+    "source_file": "FIW_1792646525_1_d0d9b2_Hunter_7E3A.m3u",
+    "health_status": "reachable",
+    "health_checked_urls": 1,
+    "health_promoted": false
+  },
+  {
+    "id": "dragon_arabic_d505ed276487",
+    "name": "Al Jazeera Arabic News FHD AF",
+    "original_name": "Al Jazeera Arabic News FHD AF | 🌟 FREE IPTV WORLD 🌟",
+    "language": "arabic",
+    "groups": [
+      "news"
+    ],
+    "raw_group": "",
+    "logo": "",
+    "primary_url": "http://fastopen.live:8080/filipesoeiro83/vi9sWg8ARS/4671",
+    "alternates": [],
+    "source_file": "FIW_1792646525_1_d0d9b2_Hunter_7E3A.m3u",
+    "health_status": "unreachable",
+    "health_checked_urls": 1,
+    "health_promoted": false
+  },
+  {
     "id": "dragon_arabic_c8811cb3fb14",
     "name": "AR: AL JAZEERA MUBASHER",
     "original_name": "AR: AL JAZEERA MUBASHER | 🌟 FREE IPTV WORLD 🌟",
@@ -9,9 +69,9 @@
     ],
     "raw_group": "",
     "logo": "",
-    "primary_url": "http://31.43.191.125:8080/restream/restream/6599",
+    "primary_url": "http://31.43.191.125:8080/Adri_ruiz/azerty34/6599",
     "alternates": [
-      "http://31.43.191.125:8080/Adri_ruiz/azerty34/6599",
+      "http://31.43.191.125:8080/restream/restream/6599",
       "http://31.43.191.125:8080/restream/restream/130860",
       "http://31.43.191.125:8080/Adri_ruiz/azerty34/130860",
       "http://31.43.191.125:8080/vip6511789659461/c13ef61ee63b/6599",
@@ -23,8 +83,8 @@
     ],
     "source_file": "FIW_1792613892_2_eeae03_Hunter_1403.m3u",
     "health_status": "reachable",
-    "health_checked_urls": 1,
-    "health_promoted": false
+    "health_checked_urls": 2,
+    "health_promoted": true
   },
   {
     "id": "dragon_arabic_5486f428d017",
@@ -53,10 +113,10 @@
     ],
     "raw_group": "",
     "logo": "",
-    "primary_url": "http://31.43.191.125:8080/restream/restream/130861",
+    "primary_url": "http://31.43.191.125:8080/restream/restream/6597",
     "alternates": [
-      "http://31.43.191.125:8080/restream/restream/6597",
       "http://31.43.191.125:8080/Adri_ruiz/azerty34/6597",
+      "http://31.43.191.125:8080/restream/restream/130861",
       "http://31.43.191.125:8080/restream/restream/130859",
       "http://31.43.191.125:8080/restream/restream/130858",
       "http://31.43.191.125:8080/Adri_ruiz/azerty34/130861",
@@ -74,9 +134,9 @@
       "http://nordiciptv.co:7070/live/Lena.carlstrom63%40gmail.com/DmA7WB31w1adxTcN/183325.m3u"
     ],
     "source_file": "FIW_1792613892_2_eeae03_Hunter_1403.m3u",
-    "health_status": "reachable",
+    "health_status": "unreachable",
     "health_checked_urls": 3,
-    "health_promoted": true
+    "health_promoted": false
   },
   {
     "id": "dragon_arabic_ed51d247c049",
@@ -97,6 +157,60 @@
       "http://nordiciptv.co:7070/live/Lena.carlstrom63%40gmail.com/DmA7WB31w1adxTcN/183330.m3u"
     ],
     "source_file": "FIW_1792613892_2_eeae03_Hunter_1403.m3u",
+    "health_status": "unreachable",
+    "health_checked_urls": 3,
+    "health_promoted": false
+  },
+  {
+    "id": "dragon_arabic_ba7b2c71b2f5",
+    "name": "Al Arabiya FM",
+    "original_name": "Al Arabiya FM | 🌟 FREE IPTV WORLD 🌟",
+    "language": "arabic",
+    "groups": [
+      "news"
+    ],
+    "raw_group": "New Radio Stations",
+    "logo": "",
+    "primary_url": "http://1tv41.icu:8080/BadTfnQ2/5392597610/292906",
+    "alternates": [
+      "http://cord-cutter.net:8080/86716053/86716053/292906",
+      "http://tvmate.icu:8080/paulunderwood@rogers.com/1048@0247/292906"
+    ],
+    "source_file": "FIW_1792646601_1_783b0b_Hunter_2109.m3u",
+    "health_status": "unreachable",
+    "health_checked_urls": 3,
+    "health_promoted": false
+  },
+  {
+    "id": "dragon_arabic_e83a22692d95",
+    "name": "Al Arabiya ARB",
+    "original_name": "Al Arabiya ARB | 🌟 FREE IPTV WORLD 🌟",
+    "language": "arabic",
+    "groups": [
+      "news"
+    ],
+    "raw_group": "",
+    "logo": "",
+    "primary_url": "http://fastopen.live:8080/filipesoeiro83/vi9sWg8ARS/3449",
+    "alternates": [],
+    "source_file": "FIW_1792646525_1_d0d9b2_Hunter_7E3A.m3u",
+    "health_status": "reachable",
+    "health_checked_urls": 1,
+    "health_promoted": false
+  },
+  {
+    "id": "dragon_arabic_3a1f35421a50",
+    "name": "Al Arabiya Business HD ARB",
+    "original_name": "Al Arabiya Business HD ARB | 🌟 FREE IPTV WORLD 🌟",
+    "language": "arabic",
+    "groups": [
+      "news"
+    ],
+    "raw_group": "",
+    "logo": "",
+    "primary_url": "http://fastopen.live:8080/filipesoeiro83/vi9sWg8ARS/131555",
+    "alternates": [],
+    "source_file": "FIW_1792646525_1_d0d9b2_Hunter_7E3A.m3u",
     "health_status": "reachable",
     "health_checked_urls": 1,
     "health_promoted": false
@@ -128,16 +242,16 @@
     ],
     "raw_group": "",
     "logo": "",
-    "primary_url": "http://31.43.191.125:8080/restream/restream/130848",
+    "primary_url": "http://31.43.191.125:8080/vip6511789659461/c13ef61ee63b/130848",
     "alternates": [
+      "http://31.43.191.125:8080/restream/restream/130848",
       "http://31.43.191.125:8080/Adri_ruiz/azerty34/130848",
-      "http://31.43.191.125:8080/vip6511789659461/c13ef61ee63b/130848",
       "http://31.43.191.125:8080/VIP018681759070417755/wdbqdxjm4nvh/130848"
     ],
     "source_file": "FIW_1792613892_2_eeae03_Hunter_1403.m3u",
     "health_status": "reachable",
-    "health_checked_urls": 1,
-    "health_promoted": false
+    "health_checked_urls": 3,
+    "health_promoted": true
   },
   {
     "id": "dragon_arabic_ca97dba51216",
@@ -156,6 +270,23 @@
       "http://31.43.191.125:8080/VIP018681759070417755/wdbqdxjm4nvh/130849"
     ],
     "source_file": "FIW_1792613892_2_eeae03_Hunter_1403.m3u",
+    "health_status": "unreachable",
+    "health_checked_urls": 3,
+    "health_promoted": false
+  },
+  {
+    "id": "dragon_arabic_ec1ce5874232",
+    "name": "AL Arabia AL Hadath ARB",
+    "original_name": "AL Arabia AL Hadath ARB | 🌟 FREE IPTV WORLD 🌟",
+    "language": "arabic",
+    "groups": [
+      "news"
+    ],
+    "raw_group": "",
+    "logo": "",
+    "primary_url": "http://fastopen.live:8080/filipesoeiro83/vi9sWg8ARS/3533",
+    "alternates": [],
+    "source_file": "FIW_1792646525_1_d0d9b2_Hunter_7E3A.m3u",
     "health_status": "reachable",
     "health_checked_urls": 1,
     "health_promoted": false
@@ -177,8 +308,28 @@
       "http://31.43.191.125:8080/VIP018681759070417755/wdbqdxjm4nvh/130851"
     ],
     "source_file": "FIW_1792613892_2_eeae03_Hunter_1403.m3u",
-    "health_status": "reachable",
-    "health_checked_urls": 1,
+    "health_status": "unreachable",
+    "health_checked_urls": 3,
+    "health_promoted": false
+  },
+  {
+    "id": "dragon_arabic_78f27ba58fcc",
+    "name": "sky news arabia radio",
+    "original_name": "sky news arabia radio | 🌟 FREE IPTV WORLD 🌟",
+    "language": "arabic",
+    "groups": [
+      "news"
+    ],
+    "raw_group": "New Radio Stations",
+    "logo": "",
+    "primary_url": "http://1tv41.icu:8080/BadTfnQ2/5392597610/271637",
+    "alternates": [
+      "http://cord-cutter.net:8080/86716053/86716053/271637",
+      "http://tvmate.icu:8080/paulunderwood@rogers.com/1048@0247/271637"
+    ],
+    "source_file": "FIW_1792646601_1_783b0b_Hunter_2109.m3u",
+    "health_status": "unreachable",
+    "health_checked_urls": 3,
     "health_promoted": false
   },
   {
@@ -201,6 +352,43 @@
     "health_promoted": false
   },
   {
+    "id": "dragon_arabic_e114e0cd2c74",
+    "name": "BBC Arabic 1413 AM",
+    "original_name": "BBC Arabic 1413 AM | 🌟 FREE IPTV WORLD 🌟",
+    "language": "arabic",
+    "groups": [
+      "news"
+    ],
+    "raw_group": "New Radio Stations",
+    "logo": "",
+    "primary_url": "http://1tv41.icu:8080/BadTfnQ2/5392597610/293384",
+    "alternates": [
+      "http://cord-cutter.net:8080/86716053/86716053/293384",
+      "http://tvmate.icu:8080/paulunderwood@rogers.com/1048@0247/293384"
+    ],
+    "source_file": "FIW_1792646601_1_783b0b_Hunter_2109.m3u",
+    "health_status": "reachable",
+    "health_checked_urls": 1,
+    "health_promoted": false
+  },
+  {
+    "id": "dragon_arabic_d4687d0a3460",
+    "name": "BBC Arabic ARB",
+    "original_name": "BBC Arabic ARB | 🌟 FREE IPTV WORLD 🌟",
+    "language": "arabic",
+    "groups": [
+      "news"
+    ],
+    "raw_group": "",
+    "logo": "",
+    "primary_url": "http://fastopen.live:8080/filipesoeiro83/vi9sWg8ARS/2370",
+    "alternates": [],
+    "source_file": "FIW_1792646525_1_d0d9b2_Hunter_7E3A.m3u",
+    "health_status": "reachable",
+    "health_checked_urls": 1,
+    "health_promoted": false
+  },
+  {
     "id": "dragon_arabic_2194f4573b46",
     "name": "AR: BBC ARABIC",
     "original_name": "AR: BBC ARABIC | 🌟 FREE IPTV WORLD 🌟",
@@ -210,9 +398,9 @@
     ],
     "raw_group": "",
     "logo": "",
-    "primary_url": "http://31.43.191.125:8080/Adri_ruiz/azerty34/6969",
+    "primary_url": "http://31.43.191.125:8080/restream/restream/6969",
     "alternates": [
-      "http://31.43.191.125:8080/restream/restream/6969",
+      "http://31.43.191.125:8080/Adri_ruiz/azerty34/6969",
       "http://31.43.191.125:8080/restream/restream/130739",
       "http://31.43.191.125:8080/Adri_ruiz/azerty34/130739",
       "http://31.43.191.125:8080/vip6511789659461/c13ef61ee63b/6969",
@@ -223,9 +411,9 @@
       "http://nordiciptv.co:7070/live/Lena.carlstrom63%40gmail.com/DmA7WB31w1adxTcN/183279.m3u"
     ],
     "source_file": "FIW_1792613892_2_eeae03_Hunter_1403.m3u",
-    "health_status": "reachable",
-    "health_checked_urls": 2,
-    "health_promoted": true
+    "health_status": "unreachable",
+    "health_checked_urls": 3,
+    "health_promoted": false
   },
   {
     "id": "dragon_arabic_8a0b665b5957",
@@ -237,16 +425,16 @@
     ],
     "raw_group": "",
     "logo": "",
-    "primary_url": "http://31.43.191.125:8080/vip6511789659461/c13ef61ee63b/130742",
+    "primary_url": "http://31.43.191.125:8080/restream/restream/130742",
     "alternates": [
-      "http://31.43.191.125:8080/restream/restream/130742",
       "http://31.43.191.125:8080/Adri_ruiz/azerty34/130742",
+      "http://31.43.191.125:8080/vip6511789659461/c13ef61ee63b/130742",
       "http://31.43.191.125:8080/VIP018681759070417755/wdbqdxjm4nvh/130742"
     ],
     "source_file": "FIW_1792613892_2_eeae03_Hunter_1403.m3u",
-    "health_status": "reachable",
+    "health_status": "unreachable",
     "health_checked_urls": 3,
-    "health_promoted": true
+    "health_promoted": false
   },
   {
     "id": "dragon_arabic_d45a39b9f2aa",
@@ -275,16 +463,16 @@
     ],
     "raw_group": "",
     "logo": "",
-    "primary_url": "http://31.43.191.125:8080/restream/restream/6527",
+    "primary_url": "http://31.43.191.125:8080/Adri_ruiz/azerty34/6527",
     "alternates": [
-      "http://31.43.191.125:8080/Adri_ruiz/azerty34/6527",
+      "http://31.43.191.125:8080/restream/restream/6527",
       "http://31.43.191.125:8080/vip6511789659461/c13ef61ee63b/6527",
       "http://31.43.191.125:8080/VIP018681759070417755/wdbqdxjm4nvh/6527"
     ],
     "source_file": "FIW_1792613892_2_eeae03_Hunter_1403.m3u",
     "health_status": "reachable",
-    "health_checked_urls": 1,
-    "health_promoted": false
+    "health_checked_urls": 2,
+    "health_promoted": true
   },
   {
     "id": "dragon_arabic_bde7b372b436",
@@ -296,28 +484,3247 @@
     ],
     "raw_group": "",
     "logo": "",
-    "primary_url": "http://31.43.191.125:8080/restream/restream/130444",
+    "primary_url": "http://31.43.191.125:8080/vip6511789659461/c13ef61ee63b/130444",
     "alternates": [
+      "http://31.43.191.125:8080/restream/restream/130444",
       "http://31.43.191.125:8080/Adri_ruiz/azerty34/130444",
-      "http://31.43.191.125:8080/vip6511789659461/c13ef61ee63b/130444",
       "http://31.43.191.125:8080/VIP018681759070417755/wdbqdxjm4nvh/130444"
     ],
     "source_file": "FIW_1792613892_2_eeae03_Hunter_1403.m3u",
+    "health_status": "reachable",
+    "health_checked_urls": 3,
+    "health_promoted": true
+  },
+  {
+    "id": "dragon_arabic_0836dc8b23db",
+    "name": "HOUB - Arabic Radio live",
+    "original_name": "HOUB - Arabic Radio live | 🌟 FREE IPTV WORLD 🌟",
+    "language": "arabic",
+    "groups": [],
+    "raw_group": "",
+    "logo": "",
+    "primary_url": "http://1tv41.icu:8080/BadTfnQ2/5392597610/122879",
+    "alternates": [
+      "http://cord-cutter.net:8080/86716053/86716053/122879",
+      "http://tvmate.icu:8080/paulunderwood@rogers.com/1048@0247/122879"
+    ],
+    "source_file": "FIW_1792646601_1_783b0b_Hunter_2109.m3u",
+    "health_status": "not_checked",
+    "health_checked_urls": 0,
+    "health_promoted": false
+  },
+  {
+    "id": "dragon_arabic_a0996af16606",
+    "name": "Arab American Radio live",
+    "original_name": "Arab American Radio live | 🌟 FREE IPTV WORLD 🌟",
+    "language": "arabic",
+    "groups": [],
+    "raw_group": "",
+    "logo": "",
+    "primary_url": "http://1tv41.icu:8080/BadTfnQ2/5392597610/123253",
+    "alternates": [
+      "http://cord-cutter.net:8080/86716053/86716053/123253",
+      "http://tvmate.icu:8080/paulunderwood@rogers.com/1048@0247/123253"
+    ],
+    "source_file": "FIW_1792646601_1_783b0b_Hunter_2109.m3u",
+    "health_status": "not_checked",
+    "health_checked_urls": 0,
+    "health_promoted": false
+  },
+  {
+    "id": "dragon_arabic_abd65d0862b9",
+    "name": "ABC33 (KSPR) Missouri",
+    "original_name": "ABC33 (KSPR) Missouri | 🌟 FREE IPTV WORLD 🌟",
+    "language": "arabic",
+    "groups": [
+      "news"
+    ],
+    "raw_group": "USA | NEWS | REGIONALS",
+    "logo": "",
+    "primary_url": "http://1tv41.icu:8080/BadTfnQ2/5392597610/120871",
+    "alternates": [
+      "http://cord-cutter.net:8080/86716053/86716053/120871"
+    ],
+    "source_file": "FIW_1792646601_1_783b0b_Hunter_2109.m3u",
     "health_status": "reachable",
     "health_checked_urls": 1,
     "health_promoted": false
   },
   {
-    "id": "dragon_arabic_e276d471ff96",
-    "name": "اذاعة صدى الارز",
-    "original_name": "اذاعة صدى الارز | 🌟 FREE IPTV WORLD 🌟",
+    "id": "dragon_arabic_76cb11bf6b02",
+    "name": "MA | Boston | ABC (WCVB)",
+    "original_name": "MA | Boston | ABC (WCVB) | 🌟 FREE IPTV WORLD 🌟",
+    "language": "arabic",
+    "groups": [
+      "news"
+    ],
+    "raw_group": "USA | NEWS | REGIONALS",
+    "logo": "",
+    "primary_url": "http://1tv41.icu:8080/BadTfnQ2/5392597610/324541",
+    "alternates": [
+      "http://cord-cutter.net:8080/86716053/86716053/324541",
+      "http://tvmate.icu:8080/paulunderwood@rogers.com/1048@0247/324541"
+    ],
+    "source_file": "FIW_1792646601_1_783b0b_Hunter_2109.m3u",
+    "health_status": "unreachable",
+    "health_checked_urls": 3,
+    "health_promoted": false
+  },
+  {
+    "id": "dragon_arabic_c03d54716382",
+    "name": "MA | Boston | CBS (WBZ)",
+    "original_name": "MA | Boston | CBS (WBZ) | 🌟 FREE IPTV WORLD 🌟",
+    "language": "arabic",
+    "groups": [
+      "news"
+    ],
+    "raw_group": "USA | NEWS | REGIONALS",
+    "logo": "",
+    "primary_url": "http://1tv41.icu:8080/BadTfnQ2/5392597610/324542",
+    "alternates": [
+      "http://cord-cutter.net:8080/86716053/86716053/324542",
+      "http://tvmate.icu:8080/paulunderwood@rogers.com/1048@0247/324542"
+    ],
+    "source_file": "FIW_1792646601_1_783b0b_Hunter_2109.m3u",
+    "health_status": "reachable",
+    "health_checked_urls": 1,
+    "health_promoted": false
+  },
+  {
+    "id": "dragon_arabic_6fce85fb33f5",
+    "name": "MA | Boston | FOX (WFXT)",
+    "original_name": "MA | Boston | FOX (WFXT) | 🌟 FREE IPTV WORLD 🌟",
+    "language": "arabic",
+    "groups": [
+      "news"
+    ],
+    "raw_group": "USA | NEWS | REGIONALS",
+    "logo": "",
+    "primary_url": "http://cord-cutter.net:8080/86716053/86716053/324543",
+    "alternates": [
+      "http://1tv41.icu:8080/BadTfnQ2/5392597610/324543",
+      "http://tvmate.icu:8080/paulunderwood@rogers.com/1048@0247/324543"
+    ],
+    "source_file": "FIW_1792646601_1_783b0b_Hunter_2109.m3u",
+    "health_status": "reachable",
+    "health_checked_urls": 2,
+    "health_promoted": true
+  },
+  {
+    "id": "dragon_arabic_ded2c8aca705",
+    "name": "MA | Boston | MY TV (WSBK)",
+    "original_name": "MA | Boston | MY TV (WSBK) | 🌟 FREE IPTV WORLD 🌟",
+    "language": "arabic",
+    "groups": [
+      "news"
+    ],
+    "raw_group": "USA | NEWS | REGIONALS",
+    "logo": "",
+    "primary_url": "http://1tv41.icu:8080/BadTfnQ2/5392597610/324544",
+    "alternates": [
+      "http://cord-cutter.net:8080/86716053/86716053/324544",
+      "http://tvmate.icu:8080/paulunderwood@rogers.com/1048@0247/324544"
+    ],
+    "source_file": "FIW_1792646601_1_783b0b_Hunter_2109.m3u",
+    "health_status": "unreachable",
+    "health_checked_urls": 3,
+    "health_promoted": false
+  },
+  {
+    "id": "dragon_arabic_6acb71e72849",
+    "name": "MA | Boston | NBC (WBTS)",
+    "original_name": "MA | Boston | NBC (WBTS) | 🌟 FREE IPTV WORLD 🌟",
+    "language": "arabic",
+    "groups": [
+      "news"
+    ],
+    "raw_group": "USA | NEWS | REGIONALS",
+    "logo": "",
+    "primary_url": "http://1tv41.icu:8080/BadTfnQ2/5392597610/324545",
+    "alternates": [
+      "http://cord-cutter.net:8080/86716053/86716053/324545",
+      "http://tvmate.icu:8080/paulunderwood@rogers.com/1048@0247/324545"
+    ],
+    "source_file": "FIW_1792646601_1_783b0b_Hunter_2109.m3u",
+    "health_status": "unreachable",
+    "health_checked_urls": 3,
+    "health_promoted": false
+  },
+  {
+    "id": "dragon_arabic_f1e91c2e55b5",
+    "name": "MA | Springfield | CBS (WSHM)",
+    "original_name": "MA | Springfield | CBS (WSHM) | 🌟 FREE IPTV WORLD 🌟",
+    "language": "arabic",
+    "groups": [
+      "news"
+    ],
+    "raw_group": "USA | NEWS | REGIONALS",
+    "logo": "",
+    "primary_url": "http://1tv41.icu:8080/BadTfnQ2/5392597610/324546",
+    "alternates": [
+      "http://cord-cutter.net:8080/86716053/86716053/324546",
+      "http://tvmate.icu:8080/paulunderwood@rogers.com/1048@0247/324546"
+    ],
+    "source_file": "FIW_1792646601_1_783b0b_Hunter_2109.m3u",
+    "health_status": "unreachable",
+    "health_checked_urls": 3,
+    "health_promoted": false
+  },
+  {
+    "id": "dragon_arabic_3bb813b0d37f",
+    "name": "MA | Springfield | FOX (WGGB)",
+    "original_name": "MA | Springfield | FOX (WGGB) | 🌟 FREE IPTV WORLD 🌟",
+    "language": "arabic",
+    "groups": [
+      "news"
+    ],
+    "raw_group": "USA | NEWS | REGIONALS",
+    "logo": "",
+    "primary_url": "http://1tv41.icu:8080/BadTfnQ2/5392597610/324548",
+    "alternates": [
+      "http://1tv41.icu:8080/BadTfnQ2/5392597610/324547",
+      "http://cord-cutter.net:8080/86716053/86716053/324548",
+      "http://cord-cutter.net:8080/86716053/86716053/324547",
+      "http://tvmate.icu:8080/paulunderwood@rogers.com/1048@0247/324548",
+      "http://tvmate.icu:8080/paulunderwood@rogers.com/1048@0247/324547"
+    ],
+    "source_file": "FIW_1792646601_1_783b0b_Hunter_2109.m3u",
+    "health_status": "unreachable",
+    "health_checked_urls": 3,
+    "health_promoted": false
+  },
+  {
+    "id": "dragon_arabic_fb2a7d626d59",
+    "name": "MA | Springfield | NBC (WWLP)",
+    "original_name": "MA | Springfield | NBC (WWLP) | 🌟 FREE IPTV WORLD 🌟",
+    "language": "arabic",
+    "groups": [
+      "news"
+    ],
+    "raw_group": "USA | NEWS | REGIONALS",
+    "logo": "",
+    "primary_url": "http://1tv41.icu:8080/BadTfnQ2/5392597610/324550",
+    "alternates": [
+      "http://1tv41.icu:8080/BadTfnQ2/5392597610/324549",
+      "http://cord-cutter.net:8080/86716053/86716053/324550",
+      "http://cord-cutter.net:8080/86716053/86716053/324549",
+      "http://tvmate.icu:8080/paulunderwood@rogers.com/1048@0247/324550",
+      "http://tvmate.icu:8080/paulunderwood@rogers.com/1048@0247/324549"
+    ],
+    "source_file": "FIW_1792646601_1_783b0b_Hunter_2109.m3u",
+    "health_status": "unreachable",
+    "health_checked_urls": 3,
+    "health_promoted": false
+  },
+  {
+    "id": "dragon_arabic_2a595ca5efbe",
+    "name": "SD | Rapid City | NBC (KNBN)",
+    "original_name": "SD | Rapid City | NBC (KNBN) | 🌟 FREE IPTV WORLD 🌟",
+    "language": "arabic",
+    "groups": [
+      "news"
+    ],
+    "raw_group": "USA | NEWS | REGIONALS",
+    "logo": "",
+    "primary_url": "http://1tv41.icu:8080/BadTfnQ2/5392597610/324713",
+    "alternates": [
+      "http://cord-cutter.net:8080/86716053/86716053/324713",
+      "http://tvmate.icu:8080/paulunderwood@rogers.com/1048@0247/324713"
+    ],
+    "source_file": "FIW_1792646601_1_783b0b_Hunter_2109.m3u",
+    "health_status": "unreachable",
+    "health_checked_urls": 3,
+    "health_promoted": false
+  },
+  {
+    "id": "dragon_arabic_a6975f686e4e",
+    "name": "SD | Sioux Falls | NBC (KDLT)",
+    "original_name": "SD | Sioux Falls | NBC (KDLT) | 🌟 FREE IPTV WORLD 🌟",
+    "language": "arabic",
+    "groups": [
+      "news"
+    ],
+    "raw_group": "USA | NEWS | REGIONALS",
+    "logo": "",
+    "primary_url": "http://1tv41.icu:8080/BadTfnQ2/5392597610/324714",
+    "alternates": [
+      "http://cord-cutter.net:8080/86716053/86716053/324714",
+      "http://tvmate.icu:8080/paulunderwood@rogers.com/1048@0247/324714"
+    ],
+    "source_file": "FIW_1792646601_1_783b0b_Hunter_2109.m3u",
+    "health_status": "unreachable",
+    "health_checked_urls": 3,
+    "health_promoted": false
+  },
+  {
+    "id": "dragon_arabic_d271960f76c3",
+    "name": "TN | Chattanooga | CBS (WDEF)",
+    "original_name": "TN | Chattanooga | CBS (WDEF) | 🌟 FREE IPTV WORLD 🌟",
+    "language": "arabic",
+    "groups": [
+      "news"
+    ],
+    "raw_group": "USA | NEWS | REGIONALS",
+    "logo": "",
+    "primary_url": "http://1tv41.icu:8080/BadTfnQ2/5392597610/324715",
+    "alternates": [
+      "http://cord-cutter.net:8080/86716053/86716053/324715",
+      "http://tvmate.icu:8080/paulunderwood@rogers.com/1048@0247/324715"
+    ],
+    "source_file": "FIW_1792646601_1_783b0b_Hunter_2109.m3u",
+    "health_status": "unreachable",
+    "health_checked_urls": 3,
+    "health_promoted": false
+  },
+  {
+    "id": "dragon_arabic_b0cce4fe5699",
+    "name": "TN | Chattanooga | FOX (WTVC)",
+    "original_name": "TN | Chattanooga | FOX (WTVC) | 🌟 FREE IPTV WORLD 🌟",
+    "language": "arabic",
+    "groups": [
+      "news"
+    ],
+    "raw_group": "USA | NEWS | REGIONALS",
+    "logo": "",
+    "primary_url": "http://1tv41.icu:8080/BadTfnQ2/5392597610/324716",
+    "alternates": [
+      "http://cord-cutter.net:8080/86716053/86716053/324716",
+      "http://tvmate.icu:8080/paulunderwood@rogers.com/1048@0247/324716"
+    ],
+    "source_file": "FIW_1792646601_1_783b0b_Hunter_2109.m3u",
+    "health_status": "unreachable",
+    "health_checked_urls": 3,
+    "health_promoted": false
+  },
+  {
+    "id": "dragon_arabic_2b9de4dbd63f",
+    "name": "TN | CHATTANOOGA | NBC (WRCB)",
+    "original_name": "TN | CHATTANOOGA | NBC (WRCB) | 🌟 FREE IPTV WORLD 🌟",
+    "language": "arabic",
+    "groups": [
+      "news"
+    ],
+    "raw_group": "USA | NEWS | REGIONALS",
+    "logo": "",
+    "primary_url": "http://1tv41.icu:8080/BadTfnQ2/5392597610/324717",
+    "alternates": [
+      "http://cord-cutter.net:8080/86716053/86716053/324717",
+      "http://tvmate.icu:8080/paulunderwood@rogers.com/1048@0247/324717"
+    ],
+    "source_file": "FIW_1792646601_1_783b0b_Hunter_2109.m3u",
+    "health_status": "unreachable",
+    "health_checked_urls": 3,
+    "health_promoted": false
+  },
+  {
+    "id": "dragon_arabic_f4bdf89ebde7",
+    "name": "TN | Nashville | FOX (WZTV)",
+    "original_name": "TN | Nashville | FOX (WZTV) | 🌟 FREE IPTV WORLD 🌟",
+    "language": "arabic",
+    "groups": [
+      "news"
+    ],
+    "raw_group": "USA | NEWS | REGIONALS",
+    "logo": "",
+    "primary_url": "http://1tv41.icu:8080/BadTfnQ2/5392597610/324718",
+    "alternates": [
+      "http://cord-cutter.net:8080/86716053/86716053/324718",
+      "http://tvmate.icu:8080/paulunderwood@rogers.com/1048@0247/324718"
+    ],
+    "source_file": "FIW_1792646601_1_783b0b_Hunter_2109.m3u",
+    "health_status": "unreachable",
+    "health_checked_urls": 3,
+    "health_promoted": false
+  },
+  {
+    "id": "dragon_arabic_7d5c75e209a7",
+    "name": "TN | Nashville | NBC (WSMV)",
+    "original_name": "TN | Nashville | NBC (WSMV) | 🌟 FREE IPTV WORLD 🌟",
+    "language": "arabic",
+    "groups": [
+      "news"
+    ],
+    "raw_group": "USA | NEWS | REGIONALS",
+    "logo": "",
+    "primary_url": "http://1tv41.icu:8080/BadTfnQ2/5392597610/324720",
+    "alternates": [
+      "http://1tv41.icu:8080/BadTfnQ2/5392597610/324719",
+      "http://cord-cutter.net:8080/86716053/86716053/324720",
+      "http://cord-cutter.net:8080/86716053/86716053/324719",
+      "http://tvmate.icu:8080/paulunderwood@rogers.com/1048@0247/324720",
+      "http://tvmate.icu:8080/paulunderwood@rogers.com/1048@0247/324719"
+    ],
+    "source_file": "FIW_1792646601_1_783b0b_Hunter_2109.m3u",
+    "health_status": "reachable",
+    "health_checked_urls": 1,
+    "health_promoted": false
+  },
+  {
+    "id": "dragon_arabic_481a433e003f",
+    "name": "TN-VA | Tri-Cities | NBC (WCYB)",
+    "original_name": "TN-VA | Tri-Cities | NBC (WCYB) | 🌟 FREE IPTV WORLD 🌟",
+    "language": "arabic",
+    "groups": [
+      "news"
+    ],
+    "raw_group": "USA | NEWS | REGIONALS",
+    "logo": "",
+    "primary_url": "http://1tv41.icu:8080/BadTfnQ2/5392597610/324721",
+    "alternates": [
+      "http://cord-cutter.net:8080/86716053/86716053/324721",
+      "http://tvmate.icu:8080/paulunderwood@rogers.com/1048@0247/324721"
+    ],
+    "source_file": "FIW_1792646601_1_783b0b_Hunter_2109.m3u",
+    "health_status": "unreachable",
+    "health_checked_urls": 3,
+    "health_promoted": false
+  },
+  {
+    "id": "dragon_arabic_14896233cf8c",
+    "name": "France24 arabic",
+    "original_name": "France24 arabic | 🌟 FREE IPTV WORLD 🌟",
+    "language": "arabic",
+    "groups": [
+      "news"
+    ],
+    "raw_group": "New Radio Stations",
+    "logo": "",
+    "primary_url": "http://1tv41.icu:8080/BadTfnQ2/5392597610/268567",
+    "alternates": [
+      "http://cord-cutter.net:8080/86716053/86716053/268567",
+      "http://tvmate.icu:8080/paulunderwood@rogers.com/1048@0247/268567"
+    ],
+    "source_file": "FIW_1792646601_1_783b0b_Hunter_2109.m3u",
+    "health_status": "unreachable",
+    "health_checked_urls": 3,
+    "health_promoted": false
+  },
+  {
+    "id": "dragon_arabic_6aa82eb0c039",
+    "name": "radio maria arabic",
+    "original_name": "radio maria arabic | 🌟 FREE IPTV WORLD 🌟",
+    "language": "arabic",
+    "groups": [],
+    "raw_group": "New Radio Stations",
+    "logo": "",
+    "primary_url": "http://1tv41.icu:8080/BadTfnQ2/5392597610/269644",
+    "alternates": [
+      "http://cord-cutter.net:8080/86716053/86716053/269644",
+      "http://tvmate.icu:8080/paulunderwood@rogers.com/1048@0247/269644"
+    ],
+    "source_file": "FIW_1792646601_1_783b0b_Hunter_2109.m3u",
+    "health_status": "not_checked",
+    "health_checked_urls": 0,
+    "health_promoted": false
+  },
+  {
+    "id": "dragon_arabic_c178a98b1f84",
+    "name": "MBC FM",
+    "original_name": "MBC FM | 🌟 FREE IPTV WORLD 🌟",
+    "language": "arabic",
+    "groups": [],
+    "raw_group": "New Radio Stations",
+    "logo": "",
+    "primary_url": "http://1tv41.icu:8080/BadTfnQ2/5392597610/302525",
+    "alternates": [
+      "http://1tv41.icu:8080/BadTfnQ2/5392597610/270545",
+      "http://cord-cutter.net:8080/86716053/86716053/302525",
+      "http://cord-cutter.net:8080/86716053/86716053/270545",
+      "http://tvmate.icu:8080/paulunderwood@rogers.com/1048@0247/302525",
+      "http://tvmate.icu:8080/paulunderwood@rogers.com/1048@0247/270545"
+    ],
+    "source_file": "FIW_1792646601_1_783b0b_Hunter_2109.m3u",
+    "health_status": "not_checked",
+    "health_checked_urls": 0,
+    "health_promoted": false
+  },
+  {
+    "id": "dragon_arabic_abcfdd8682ea",
+    "name": "MA:-Radio Sawt Alamal",
+    "original_name": "MA:-Radio Sawt Alamal | 🌟 FREE IPTV WORLD 🌟",
+    "language": "arabic",
+    "groups": [],
+    "raw_group": "New Radio Stations",
+    "logo": "",
+    "primary_url": "http://1tv41.icu:8080/BadTfnQ2/5392597610/270998",
+    "alternates": [
+      "http://cord-cutter.net:8080/86716053/86716053/270998",
+      "http://tvmate.icu:8080/paulunderwood@rogers.com/1048@0247/270998"
+    ],
+    "source_file": "FIW_1792646601_1_783b0b_Hunter_2109.m3u",
+    "health_status": "not_checked",
+    "health_checked_urls": 0,
+    "health_promoted": false
+  },
+  {
+    "id": "dragon_arabic_9dbb815c22a0",
+    "name": "MA:-Hit Radio Maroc",
+    "original_name": "MA:-Hit Radio Maroc | 🌟 FREE IPTV WORLD 🌟",
+    "language": "arabic",
+    "groups": [],
+    "raw_group": "New Radio Stations",
+    "logo": "",
+    "primary_url": "http://1tv41.icu:8080/BadTfnQ2/5392597610/271138",
+    "alternates": [
+      "http://cord-cutter.net:8080/86716053/86716053/271138",
+      "http://tvmate.icu:8080/paulunderwood@rogers.com/1048@0247/271138"
+    ],
+    "source_file": "FIW_1792646601_1_783b0b_Hunter_2109.m3u",
+    "health_status": "not_checked",
+    "health_checked_urls": 0,
+    "health_promoted": false
+  },
+  {
+    "id": "dragon_arabic_2bb81fc853d8",
+    "name": "2ME Radio Arabic",
+    "original_name": "2ME Radio Arabic | 🌟 FREE IPTV WORLD 🌟",
+    "language": "arabic",
+    "groups": [],
+    "raw_group": "New Radio Stations",
+    "logo": "",
+    "primary_url": "http://1tv41.icu:8080/BadTfnQ2/5392597610/272799",
+    "alternates": [
+      "http://cord-cutter.net:8080/86716053/86716053/272799",
+      "http://tvmate.icu:8080/paulunderwood@rogers.com/1048@0247/272799"
+    ],
+    "source_file": "FIW_1792646601_1_783b0b_Hunter_2109.m3u",
+    "health_status": "not_checked",
+    "health_checked_urls": 0,
+    "health_promoted": false
+  },
+  {
+    "id": "dragon_arabic_516e33d577be",
+    "name": "MBC FM for you",
+    "original_name": "MBC FM for you | 🌟 FREE IPTV WORLD 🌟",
+    "language": "arabic",
+    "groups": [],
+    "raw_group": "New Radio Stations",
+    "logo": "",
+    "primary_url": "http://1tv41.icu:8080/BadTfnQ2/5392597610/275756",
+    "alternates": [
+      "http://cord-cutter.net:8080/86716053/86716053/275756",
+      "http://tvmate.icu:8080/paulunderwood@rogers.com/1048@0247/275756"
+    ],
+    "source_file": "FIW_1792646601_1_783b0b_Hunter_2109.m3u",
+    "health_status": "not_checked",
+    "health_checked_urls": 0,
+    "health_promoted": false
+  },
+  {
+    "id": "dragon_arabic_02f10b0f6141",
+    "name": "WMBC (University of Maryland Baltimore County)",
+    "original_name": "WMBC (University of Maryland Baltimore County) | 🌟 FREE IPTV WORLD 🌟",
+    "language": "arabic",
+    "groups": [],
+    "raw_group": "New Radio Stations",
+    "logo": "",
+    "primary_url": "http://1tv41.icu:8080/BadTfnQ2/5392597610/277203",
+    "alternates": [
+      "http://cord-cutter.net:8080/86716053/86716053/277203",
+      "http://tvmate.icu:8080/paulunderwood@rogers.com/1048@0247/277203"
+    ],
+    "source_file": "FIW_1792646601_1_783b0b_Hunter_2109.m3u",
+    "health_status": "not_checked",
+    "health_checked_urls": 0,
+    "health_promoted": false
+  },
+  {
+    "id": "dragon_arabic_d9a50025806c",
+    "name": "Arab Mix 256",
+    "original_name": "Arab Mix 256 | 🌟 FREE IPTV WORLD 🌟",
+    "language": "arabic",
+    "groups": [],
+    "raw_group": "New Radio Stations",
+    "logo": "",
+    "primary_url": "http://1tv41.icu:8080/BadTfnQ2/5392597610/277223",
+    "alternates": [
+      "http://cord-cutter.net:8080/86716053/86716053/277223",
+      "http://tvmate.icu:8080/paulunderwood@rogers.com/1048@0247/277223"
+    ],
+    "source_file": "FIW_1792646601_1_783b0b_Hunter_2109.m3u",
+    "health_status": "not_checked",
+    "health_checked_urls": 0,
+    "health_promoted": false
+  },
+  {
+    "id": "dragon_arabic_f08bc6dabcb4",
+    "name": "MBC http://serpent0.duckdns.org:8088/mbcatm.pls",
+    "original_name": "MBC http://serpent0.duckdns.org:8088/mbcatm.pls | 🌟 FREE IPTV WORLD 🌟",
+    "language": "arabic",
+    "groups": [],
+    "raw_group": "New Radio Stations",
+    "logo": "",
+    "primary_url": "http://1tv41.icu:8080/BadTfnQ2/5392597610/278137",
+    "alternates": [
+      "http://cord-cutter.net:8080/86716053/86716053/278137",
+      "http://tvmate.icu:8080/paulunderwood@rogers.com/1048@0247/278137"
+    ],
+    "source_file": "FIW_1792646601_1_783b0b_Hunter_2109.m3u",
+    "health_status": "not_checked",
+    "health_checked_urls": 0,
+    "health_promoted": false
+  },
+  {
+    "id": "dragon_arabic_cb1887a542a4",
+    "name": "Arab Mix FM",
+    "original_name": "Arab Mix FM | 🌟 FREE IPTV WORLD 🌟",
+    "language": "arabic",
+    "groups": [],
+    "raw_group": "New Radio Stations",
+    "logo": "",
+    "primary_url": "http://1tv41.icu:8080/BadTfnQ2/5392597610/278740",
+    "alternates": [
+      "http://cord-cutter.net:8080/86716053/86716053/278740",
+      "http://tvmate.icu:8080/paulunderwood@rogers.com/1048@0247/278740"
+    ],
+    "source_file": "FIW_1792646601_1_783b0b_Hunter_2109.m3u",
+    "health_status": "not_checked",
+    "health_checked_urls": 0,
+    "health_promoted": false
+  },
+  {
+    "id": "dragon_arabic_0506c6d668c6",
+    "name": "Rotana FM",
+    "original_name": "Rotana FM | 🌟 FREE IPTV WORLD 🌟",
+    "language": "arabic",
+    "groups": [],
+    "raw_group": "New Radio Stations",
+    "logo": "",
+    "primary_url": "http://1tv41.icu:8080/BadTfnQ2/5392597610/280830",
+    "alternates": [
+      "http://cord-cutter.net:8080/86716053/86716053/280830",
+      "http://tvmate.icu:8080/paulunderwood@rogers.com/1048@0247/280830"
+    ],
+    "source_file": "FIW_1792646601_1_783b0b_Hunter_2109.m3u",
+    "health_status": "not_checked",
+    "health_checked_urls": 0,
+    "health_promoted": false
+  },
+  {
+    "id": "dragon_arabic_932e9c4a97d8",
+    "name": "https://stream-174.zeno.fm/qdi2wkplpdwuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJxZGkyd2twbHBkd3V2IiwiaG9zdCI6InN0cmVhbS0xNzQuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6IlIzVnE3dDZ4VFlpMFIyb0tZSVFUOHciLCJpYXQiOjE3NDc1OTU2NjksImV4cCI6MTc0NzU5NTcyOX0.DFUsugp-EF6XfjermbcNQM1YOvPDrpezpVSjZCgEHcU",
+    "original_name": "https://stream-174.zeno.fm/qdi2wkplpdwuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJxZGkyd2twbHBkd3V2IiwiaG9zdCI6InN0cmVhbS0xNzQuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6IlIzVnE3dDZ4VFlpMFIyb0tZSVFUOHciLCJpYXQiOjE3NDc1OTU2NjksImV4cCI6MTc0NzU5NTcyOX0.DFUsugp-EF6XfjermbcNQM1YOvPDrpezpVSjZCgEHcU | 🌟 FREE IPTV WORLD 🌟",
+    "language": "arabic",
+    "groups": [],
+    "raw_group": "New Radio Stations",
+    "logo": "",
+    "primary_url": "http://1tv41.icu:8080/BadTfnQ2/5392597610/282424",
+    "alternates": [
+      "http://cord-cutter.net:8080/86716053/86716053/282424",
+      "http://tvmate.icu:8080/paulunderwood@rogers.com/1048@0247/282424"
+    ],
+    "source_file": "FIW_1792646601_1_783b0b_Hunter_2109.m3u",
+    "health_status": "not_checked",
+    "health_checked_urls": 0,
+    "health_promoted": false
+  },
+  {
+    "id": "dragon_arabic_d5e7ff06ec92",
+    "name": "Sputnik Arabic",
+    "original_name": "Sputnik Arabic | 🌟 FREE IPTV WORLD 🌟",
+    "language": "arabic",
+    "groups": [],
+    "raw_group": "New Radio Stations",
+    "logo": "",
+    "primary_url": "http://1tv41.icu:8080/BadTfnQ2/5392597610/282812",
+    "alternates": [
+      "http://cord-cutter.net:8080/86716053/86716053/282812",
+      "http://tvmate.icu:8080/paulunderwood@rogers.com/1048@0247/282812"
+    ],
+    "source_file": "FIW_1792646601_1_783b0b_Hunter_2109.m3u",
+    "health_status": "not_checked",
+    "health_checked_urls": 0,
+    "health_promoted": false
+  },
+  {
+    "id": "dragon_arabic_88c7cc4ce183",
+    "name": "MBC Kool FM",
+    "original_name": "MBC Kool FM | 🌟 FREE IPTV WORLD 🌟",
+    "language": "arabic",
+    "groups": [],
+    "raw_group": "New Radio Stations",
+    "logo": "",
+    "primary_url": "http://1tv41.icu:8080/BadTfnQ2/5392597610/283803",
+    "alternates": [
+      "http://cord-cutter.net:8080/86716053/86716053/283803",
+      "http://tvmate.icu:8080/paulunderwood@rogers.com/1048@0247/283803"
+    ],
+    "source_file": "FIW_1792646601_1_783b0b_Hunter_2109.m3u",
+    "health_status": "not_checked",
+    "health_checked_urls": 0,
+    "health_promoted": false
+  },
+  {
+    "id": "dragon_arabic_369d9a10755c",
+    "name": "CINA-FM 102.3 (Radio CINA Arabic Hits Stream) Windsor - ON",
+    "original_name": "CINA-FM 102.3 (Radio CINA Arabic Hits Stream) Windsor - ON | 🌟 FREE IPTV WORLD 🌟",
+    "language": "arabic",
+    "groups": [],
+    "raw_group": "New Radio Stations",
+    "logo": "",
+    "primary_url": "http://1tv41.icu:8080/BadTfnQ2/5392597610/283906",
+    "alternates": [
+      "http://cord-cutter.net:8080/86716053/86716053/283906",
+      "http://tvmate.icu:8080/paulunderwood@rogers.com/1048@0247/283906"
+    ],
+    "source_file": "FIW_1792646601_1_783b0b_Hunter_2109.m3u",
+    "health_status": "not_checked",
+    "health_checked_urls": 0,
+    "health_promoted": false
+  },
+  {
+    "id": "dragon_arabic_bb8ba25b991b",
+    "name": "MBChttp://211.33.246.4:32954/radio_stfm/myStream.sdp/chunklist_w392819215.m3u8",
+    "original_name": "MBChttp://211.33.246.4:32954/radio_stfm/myStream.sdp/chunklist_w392819215.m3u8 | 🌟 FREE IPTV WORLD 🌟",
+    "language": "arabic",
+    "groups": [],
+    "raw_group": "New Radio Stations",
+    "logo": "",
+    "primary_url": "http://1tv41.icu:8080/BadTfnQ2/5392597610/283962",
+    "alternates": [
+      "http://cord-cutter.net:8080/86716053/86716053/283962",
+      "http://tvmate.icu:8080/paulunderwood@rogers.com/1048@0247/283962"
+    ],
+    "source_file": "FIW_1792646601_1_783b0b_Hunter_2109.m3u",
+    "health_status": "not_checked",
+    "health_checked_urls": 0,
+    "health_promoted": false
+  },
+  {
+    "id": "dragon_arabic_3d965fe912d3",
+    "name": "Radio Caprice - Arabic Pop",
+    "original_name": "Radio Caprice - Arabic Pop | 🌟 FREE IPTV WORLD 🌟",
+    "language": "arabic",
+    "groups": [],
+    "raw_group": "New Radio Stations",
+    "logo": "",
+    "primary_url": "http://1tv41.icu:8080/BadTfnQ2/5392597610/286634",
+    "alternates": [
+      "http://cord-cutter.net:8080/86716053/86716053/286634",
+      "http://tvmate.icu:8080/paulunderwood@rogers.com/1048@0247/286634"
+    ],
+    "source_file": "FIW_1792646601_1_783b0b_Hunter_2109.m3u",
+    "health_status": "not_checked",
+    "health_checked_urls": 0,
+    "health_promoted": false
+  },
+  {
+    "id": "dragon_arabic_36274b742ee4",
+    "name": "NPO Funx Arab",
+    "original_name": "NPO Funx Arab | 🌟 FREE IPTV WORLD 🌟",
+    "language": "arabic",
+    "groups": [],
+    "raw_group": "New Radio Stations",
+    "logo": "",
+    "primary_url": "http://1tv41.icu:8080/BadTfnQ2/5392597610/287102",
+    "alternates": [
+      "http://cord-cutter.net:8080/86716053/86716053/287102",
+      "http://tvmate.icu:8080/paulunderwood@rogers.com/1048@0247/287102"
+    ],
+    "source_file": "FIW_1792646601_1_783b0b_Hunter_2109.m3u",
+    "health_status": "not_checked",
+    "health_checked_urls": 0,
+    "health_promoted": false
+  },
+  {
+    "id": "dragon_arabic_2cf23dcd4f4b",
+    "name": "Sky Arabia News TV",
+    "original_name": "Sky Arabia News TV | 🌟 FREE IPTV WORLD 🌟",
+    "language": "arabic",
+    "groups": [
+      "news"
+    ],
+    "raw_group": "New Radio Stations",
+    "logo": "",
+    "primary_url": "http://1tv41.icu:8080/BadTfnQ2/5392597610/287577",
+    "alternates": [
+      "http://cord-cutter.net:8080/86716053/86716053/287577",
+      "http://tvmate.icu:8080/paulunderwood@rogers.com/1048@0247/287577"
+    ],
+    "source_file": "FIW_1792646601_1_783b0b_Hunter_2109.m3u",
+    "health_status": "unreachable",
+    "health_checked_urls": 3,
+    "health_promoted": false
+  },
+  {
+    "id": "dragon_arabic_27bfe3c577f8",
+    "name": "https://live.andongmbc.co.kr/live/fmlive/playlist.m3u8",
+    "original_name": "https://live.andongmbc.co.kr/live/fmlive/playlist.m3u8 | 🌟 FREE IPTV WORLD 🌟",
+    "language": "arabic",
+    "groups": [],
+    "raw_group": "New Radio Stations",
+    "logo": "",
+    "primary_url": "http://1tv41.icu:8080/BadTfnQ2/5392597610/289202",
+    "alternates": [
+      "http://cord-cutter.net:8080/86716053/86716053/289202",
+      "http://tvmate.icu:8080/paulunderwood@rogers.com/1048@0247/289202"
+    ],
+    "source_file": "FIW_1792646601_1_783b0b_Hunter_2109.m3u",
+    "health_status": "not_checked",
+    "health_checked_urls": 0,
+    "health_promoted": false
+  },
+  {
+    "id": "dragon_arabic_9dd0d1b95006",
+    "name": "MBC Radio Maurice",
+    "original_name": "MBC Radio Maurice | 🌟 FREE IPTV WORLD 🌟",
+    "language": "arabic",
+    "groups": [],
+    "raw_group": "New Radio Stations",
+    "logo": "",
+    "primary_url": "http://1tv41.icu:8080/BadTfnQ2/5392597610/292796",
+    "alternates": [
+      "http://cord-cutter.net:8080/86716053/86716053/292796",
+      "http://tvmate.icu:8080/paulunderwood@rogers.com/1048@0247/292796"
+    ],
+    "source_file": "FIW_1792646601_1_783b0b_Hunter_2109.m3u",
+    "health_status": "not_checked",
+    "health_checked_urls": 0,
+    "health_promoted": false
+  },
+  {
+    "id": "dragon_arabic_6cdf0e2d1f3b",
+    "name": "BRN Radio - Arabic Channel",
+    "original_name": "BRN Radio - Arabic Channel | 🌟 FREE IPTV WORLD 🌟",
+    "language": "arabic",
+    "groups": [],
+    "raw_group": "New Radio Stations",
+    "logo": "",
+    "primary_url": "http://1tv41.icu:8080/BadTfnQ2/5392597610/293466",
+    "alternates": [
+      "http://cord-cutter.net:8080/86716053/86716053/293466",
+      "http://tvmate.icu:8080/paulunderwood@rogers.com/1048@0247/293466"
+    ],
+    "source_file": "FIW_1792646601_1_783b0b_Hunter_2109.m3u",
+    "health_status": "not_checked",
+    "health_checked_urls": 0,
+    "health_promoted": false
+  },
+  {
+    "id": "dragon_arabic_cad97c2e2c18",
+    "name": "MBC Radio Mauritius",
+    "original_name": "MBC Radio Mauritius | 🌟 FREE IPTV WORLD 🌟",
+    "language": "arabic",
+    "groups": [],
+    "raw_group": "New Radio Stations",
+    "logo": "",
+    "primary_url": "http://1tv41.icu:8080/BadTfnQ2/5392597610/293874",
+    "alternates": [
+      "http://cord-cutter.net:8080/86716053/86716053/293874",
+      "http://tvmate.icu:8080/paulunderwood@rogers.com/1048@0247/293874"
+    ],
+    "source_file": "FIW_1792646601_1_783b0b_Hunter_2109.m3u",
+    "health_status": "not_checked",
+    "health_checked_urls": 0,
+    "health_promoted": false
+  },
+  {
+    "id": "dragon_arabic_fbb22ef4eb1f",
+    "name": "DWG Radio Arabic (Bibel)",
+    "original_name": "DWG Radio Arabic (Bibel) | 🌟 FREE IPTV WORLD 🌟",
+    "language": "arabic",
+    "groups": [],
+    "raw_group": "New Radio Stations",
+    "logo": "",
+    "primary_url": "http://1tv41.icu:8080/BadTfnQ2/5392597610/295034",
+    "alternates": [
+      "http://cord-cutter.net:8080/86716053/86716053/295034",
+      "http://tvmate.icu:8080/paulunderwood@rogers.com/1048@0247/295034"
+    ],
+    "source_file": "FIW_1792646601_1_783b0b_Hunter_2109.m3u",
+    "health_status": "not_checked",
+    "health_checked_urls": 0,
+    "health_promoted": false
+  },
+  {
+    "id": "dragon_arabic_666c367afc82",
+    "name": "MBChttp://211.33.246.4:32954/radio_fm/myStream.sdp/chunklist_w348337231.m3u8",
+    "original_name": "MBChttp://211.33.246.4:32954/radio_fm/myStream.sdp/chunklist_w348337231.m3u8 | 🌟 FREE IPTV WORLD 🌟",
+    "language": "arabic",
+    "groups": [],
+    "raw_group": "New Radio Stations",
+    "logo": "",
+    "primary_url": "http://1tv41.icu:8080/BadTfnQ2/5392597610/296803",
+    "alternates": [
+      "http://cord-cutter.net:8080/86716053/86716053/296803",
+      "http://tvmate.icu:8080/paulunderwood@rogers.com/1048@0247/296803"
+    ],
+    "source_file": "FIW_1792646601_1_783b0b_Hunter_2109.m3u",
+    "health_status": "not_checked",
+    "health_checked_urls": 0,
+    "health_promoted": false
+  },
+  {
+    "id": "dragon_arabic_e6e227115cf7",
+    "name": "ma",
+    "original_name": "ma | 🌟 FREE IPTV WORLD 🌟",
+    "language": "arabic",
+    "groups": [],
+    "raw_group": "New Radio Stations",
+    "logo": "",
+    "primary_url": "http://1tv41.icu:8080/BadTfnQ2/5392597610/304820",
+    "alternates": [
+      "http://cord-cutter.net:8080/86716053/86716053/304820",
+      "http://tvmate.icu:8080/paulunderwood@rogers.com/1048@0247/304820"
+    ],
+    "source_file": "FIW_1792646601_1_783b0b_Hunter_2109.m3u",
+    "health_status": "not_checked",
+    "health_checked_urls": 0,
+    "health_promoted": false
+  },
+  {
+    "id": "dragon_arabic_e5057defa117",
+    "name": "MBC Loud 94.3 FM",
+    "original_name": "MBC Loud 94.3 FM | 🌟 FREE IPTV WORLD 🌟",
+    "language": "arabic",
+    "groups": [],
+    "raw_group": "New Radio Stations",
+    "logo": "",
+    "primary_url": "http://1tv41.icu:8080/BadTfnQ2/5392597610/305778",
+    "alternates": [
+      "http://cord-cutter.net:8080/86716053/86716053/305778",
+      "http://tvmate.icu:8080/paulunderwood@rogers.com/1048@0247/305778"
+    ],
+    "source_file": "FIW_1792646601_1_783b0b_Hunter_2109.m3u",
+    "health_status": "not_checked",
+    "health_checked_urls": 0,
+    "health_promoted": false
+  },
+  {
+    "id": "dragon_arabic_f5a4c5f49187",
+    "name": "Arabica TV",
+    "original_name": "Arabica TV | 🌟 FREE IPTV WORLD 🌟",
+    "language": "arabic",
+    "groups": [],
+    "raw_group": "New Radio Stations",
+    "logo": "",
+    "primary_url": "http://1tv41.icu:8080/BadTfnQ2/5392597610/310144",
+    "alternates": [
+      "http://cord-cutter.net:8080/86716053/86716053/310144",
+      "http://tvmate.icu:8080/paulunderwood@rogers.com/1048@0247/310144"
+    ],
+    "source_file": "FIW_1792646601_1_783b0b_Hunter_2109.m3u",
+    "health_status": "not_checked",
+    "health_checked_urls": 0,
+    "health_promoted": false
+  },
+  {
+    "id": "dragon_arabic_058426b7920a",
+    "name": "MBC Loud",
+    "original_name": "MBC Loud | 🌟 FREE IPTV WORLD 🌟",
+    "language": "arabic",
+    "groups": [],
+    "raw_group": "New Radio Stations",
+    "logo": "",
+    "primary_url": "http://1tv41.icu:8080/BadTfnQ2/5392597610/312279",
+    "alternates": [
+      "http://1tv41.icu:8080/BadTfnQ2/5392597610/311047",
+      "http://cord-cutter.net:8080/86716053/86716053/312279",
+      "http://cord-cutter.net:8080/86716053/86716053/311047",
+      "http://tvmate.icu:8080/paulunderwood@rogers.com/1048@0247/312279",
+      "http://tvmate.icu:8080/paulunderwood@rogers.com/1048@0247/311047"
+    ],
+    "source_file": "FIW_1792646601_1_783b0b_Hunter_2109.m3u",
+    "health_status": "not_checked",
+    "health_checked_urls": 0,
+    "health_promoted": false
+  },
+  {
+    "id": "dragon_arabic_d5a538eed413",
+    "name": "Arab Mix Drama",
+    "original_name": "Arab Mix Drama | 🌟 FREE IPTV WORLD 🌟",
+    "language": "arabic",
+    "groups": [],
+    "raw_group": "New Radio Stations",
+    "logo": "",
+    "primary_url": "http://1tv41.icu:8080/BadTfnQ2/5392597610/312514",
+    "alternates": [
+      "http://cord-cutter.net:8080/86716053/86716053/312514",
+      "http://tvmate.icu:8080/paulunderwood@rogers.com/1048@0247/312514"
+    ],
+    "source_file": "FIW_1792646601_1_783b0b_Hunter_2109.m3u",
+    "health_status": "not_checked",
+    "health_checked_urls": 0,
+    "health_promoted": false
+  },
+  {
+    "id": "dragon_arabic_b9643bbc3bb6",
+    "name": "MBC Radio 2FM",
+    "original_name": "MBC Radio 2FM | 🌟 FREE IPTV WORLD 🌟",
+    "language": "arabic",
+    "groups": [],
+    "raw_group": "New Radio Stations",
+    "logo": "",
+    "primary_url": "http://1tv41.icu:8080/BadTfnQ2/5392597610/313008",
+    "alternates": [
+      "http://cord-cutter.net:8080/86716053/86716053/313008",
+      "http://tvmate.icu:8080/paulunderwood@rogers.com/1048@0247/313008"
+    ],
+    "source_file": "FIW_1792646601_1_783b0b_Hunter_2109.m3u",
+    "health_status": "not_checked",
+    "health_checked_urls": 0,
+    "health_promoted": false
+  },
+  {
+    "id": "dragon_arabic_0bbc1252574f",
+    "name": "(BSOD) MBC mini All-That-Music",
+    "original_name": "(BSOD) MBC mini All-That-Music | 🌟 FREE IPTV WORLD 🌟",
+    "language": "arabic",
+    "groups": [],
+    "raw_group": "New Radio Stations",
+    "logo": "",
+    "primary_url": "http://1tv41.icu:8080/BadTfnQ2/5392597610/313522",
+    "alternates": [
+      "http://cord-cutter.net:8080/86716053/86716053/313522",
+      "http://tvmate.icu:8080/paulunderwood@rogers.com/1048@0247/313522"
+    ],
+    "source_file": "FIW_1792646601_1_783b0b_Hunter_2109.m3u",
+    "health_status": "not_checked",
+    "health_checked_urls": 0,
+    "health_promoted": false
+  },
+  {
+    "id": "dragon_arabic_cbc8ae8f6ba0",
+    "name": "Public Health Radio Arabic",
+    "original_name": "Public Health Radio Arabic | 🌟 FREE IPTV WORLD 🌟",
+    "language": "arabic",
+    "groups": [],
+    "raw_group": "New Radio Stations",
+    "logo": "",
+    "primary_url": "http://1tv41.icu:8080/BadTfnQ2/5392597610/313955",
+    "alternates": [
+      "http://cord-cutter.net:8080/86716053/86716053/313955",
+      "http://tvmate.icu:8080/paulunderwood@rogers.com/1048@0247/313955"
+    ],
+    "source_file": "FIW_1792646601_1_783b0b_Hunter_2109.m3u",
+    "health_status": "not_checked",
+    "health_checked_urls": 0,
+    "health_promoted": false
+  },
+  {
+    "id": "dragon_arabic_e94cf7976731",
+    "name": "MyHD MBC+ Variety HD VIP ARB",
+    "original_name": "MyHD MBC+ Variety HD VIP ARB | 🌟 FREE IPTV WORLD 🌟",
     "language": "arabic",
     "groups": [],
     "raw_group": "",
     "logo": "",
-    "primary_url": "http://iptv.icsnleb.com:25461/12/12/716",
+    "primary_url": "http://fastopen.live:8080/filipesoeiro83/vi9sWg8ARS/8793",
     "alternates": [],
-    "source_file": "FIW_1792614128_1_199903_Hunter_1A9E.m3u",
+    "source_file": "FIW_1792646525_1_d0d9b2_Hunter_7E3A.m3u",
+    "health_status": "not_checked",
+    "health_checked_urls": 0,
+    "health_promoted": false
+  },
+  {
+    "id": "dragon_arabic_ca3fd0e498b2",
+    "name": "MyHD MBC Drama HD VIP ARB",
+    "original_name": "MyHD MBC Drama HD VIP ARB | 🌟 FREE IPTV WORLD 🌟",
+    "language": "arabic",
+    "groups": [],
+    "raw_group": "",
+    "logo": "",
+    "primary_url": "http://fastopen.live:8080/filipesoeiro83/vi9sWg8ARS/8796",
+    "alternates": [
+      "http://fastopen.live:8080/filipesoeiro83/vi9sWg8ARS/8794"
+    ],
+    "source_file": "FIW_1792646525_1_d0d9b2_Hunter_7E3A.m3u",
+    "health_status": "not_checked",
+    "health_checked_urls": 0,
+    "health_promoted": false
+  },
+  {
+    "id": "dragon_arabic_bb2497930542",
+    "name": "MyHD MBC Max HD VIP ARB",
+    "original_name": "MyHD MBC Max HD VIP ARB | 🌟 FREE IPTV WORLD 🌟",
+    "language": "arabic",
+    "groups": [],
+    "raw_group": "",
+    "logo": "",
+    "primary_url": "http://fastopen.live:8080/filipesoeiro83/vi9sWg8ARS/8795",
+    "alternates": [],
+    "source_file": "FIW_1792646525_1_d0d9b2_Hunter_7E3A.m3u",
+    "health_status": "not_checked",
+    "health_checked_urls": 0,
+    "health_promoted": false
+  },
+  {
+    "id": "dragon_arabic_da9daf6f7ce8",
+    "name": "MyHD MBC Action HD VIP ARB",
+    "original_name": "MyHD MBC Action HD VIP ARB | 🌟 FREE IPTV WORLD 🌟",
+    "language": "arabic",
+    "groups": [],
+    "raw_group": "",
+    "logo": "",
+    "primary_url": "http://fastopen.live:8080/filipesoeiro83/vi9sWg8ARS/8797",
+    "alternates": [],
+    "source_file": "FIW_1792646525_1_d0d9b2_Hunter_7E3A.m3u",
+    "health_status": "not_checked",
+    "health_checked_urls": 0,
+    "health_promoted": false
+  },
+  {
+    "id": "dragon_arabic_d26ce83e8af0",
+    "name": "MyHD MBC 4 HD VIP ARB",
+    "original_name": "MyHD MBC 4 HD VIP ARB | 🌟 FREE IPTV WORLD 🌟",
+    "language": "arabic",
+    "groups": [],
+    "raw_group": "",
+    "logo": "",
+    "primary_url": "http://fastopen.live:8080/filipesoeiro83/vi9sWg8ARS/8798",
+    "alternates": [],
+    "source_file": "FIW_1792646525_1_d0d9b2_Hunter_7E3A.m3u",
+    "health_status": "not_checked",
+    "health_checked_urls": 0,
+    "health_promoted": false
+  },
+  {
+    "id": "dragon_arabic_92e6d38e34f6",
+    "name": "MyHD MBC 3 HD VIP ARB",
+    "original_name": "MyHD MBC 3 HD VIP ARB | 🌟 FREE IPTV WORLD 🌟",
+    "language": "arabic",
+    "groups": [],
+    "raw_group": "",
+    "logo": "",
+    "primary_url": "http://fastopen.live:8080/filipesoeiro83/vi9sWg8ARS/8799",
+    "alternates": [],
+    "source_file": "FIW_1792646525_1_d0d9b2_Hunter_7E3A.m3u",
+    "health_status": "not_checked",
+    "health_checked_urls": 0,
+    "health_promoted": false
+  },
+  {
+    "id": "dragon_arabic_87a935038c7c",
+    "name": "MyHD MBC 2 HD VIP ARB",
+    "original_name": "MyHD MBC 2 HD VIP ARB | 🌟 FREE IPTV WORLD 🌟",
+    "language": "arabic",
+    "groups": [],
+    "raw_group": "",
+    "logo": "",
+    "primary_url": "http://fastopen.live:8080/filipesoeiro83/vi9sWg8ARS/8800",
+    "alternates": [],
+    "source_file": "FIW_1792646525_1_d0d9b2_Hunter_7E3A.m3u",
+    "health_status": "not_checked",
+    "health_checked_urls": 0,
+    "health_promoted": false
+  },
+  {
+    "id": "dragon_arabic_82b45066b551",
+    "name": "MyHD MBC 1 HD VIP ARB",
+    "original_name": "MyHD MBC 1 HD VIP ARB | 🌟 FREE IPTV WORLD 🌟",
+    "language": "arabic",
+    "groups": [],
+    "raw_group": "",
+    "logo": "",
+    "primary_url": "http://fastopen.live:8080/filipesoeiro83/vi9sWg8ARS/8801",
+    "alternates": [],
+    "source_file": "FIW_1792646525_1_d0d9b2_Hunter_7E3A.m3u",
+    "health_status": "not_checked",
+    "health_checked_urls": 0,
+    "health_promoted": false
+  },
+  {
+    "id": "dragon_arabic_d17be708dc67",
+    "name": "RT Arabic ARB",
+    "original_name": "RT Arabic ARB | 🌟 FREE IPTV WORLD 🌟",
+    "language": "arabic",
+    "groups": [],
+    "raw_group": "",
+    "logo": "",
+    "primary_url": "http://fastopen.live:8080/filipesoeiro83/vi9sWg8ARS/117575",
+    "alternates": [],
+    "source_file": "FIW_1792646525_1_d0d9b2_Hunter_7E3A.m3u",
+    "health_status": "not_checked",
+    "health_checked_urls": 0,
+    "health_promoted": false
+  },
+  {
+    "id": "dragon_arabic_8b377e0c37e8",
+    "name": "AL Arabia News ARB",
+    "original_name": "AL Arabia News ARB | 🌟 FREE IPTV WORLD 🌟",
+    "language": "arabic",
+    "groups": [
+      "news"
+    ],
+    "raw_group": "",
+    "logo": "",
+    "primary_url": "http://fastopen.live:8080/filipesoeiro83/vi9sWg8ARS/3534",
+    "alternates": [],
+    "source_file": "FIW_1792646525_1_d0d9b2_Hunter_7E3A.m3u",
+    "health_status": "reachable",
+    "health_checked_urls": 1,
+    "health_promoted": false
+  },
+  {
+    "id": "dragon_arabic_504e35348226",
+    "name": "Arabica ARB",
+    "original_name": "Arabica ARB | 🌟 FREE IPTV WORLD 🌟",
+    "language": "arabic",
+    "groups": [],
+    "raw_group": "",
+    "logo": "",
+    "primary_url": "http://fastopen.live:8080/filipesoeiro83/vi9sWg8ARS/4989",
+    "alternates": [],
+    "source_file": "FIW_1792646525_1_d0d9b2_Hunter_7E3A.m3u",
+    "health_status": "not_checked",
+    "health_checked_urls": 0,
+    "health_promoted": false
+  },
+  {
+    "id": "dragon_arabic_2b7417fd7160",
+    "name": "DW TV Arabia ARB",
+    "original_name": "DW TV Arabia ARB | 🌟 FREE IPTV WORLD 🌟",
+    "language": "arabic",
+    "groups": [],
+    "raw_group": "",
+    "logo": "",
+    "primary_url": "http://fastopen.live:8080/filipesoeiro83/vi9sWg8ARS/3535",
+    "alternates": [],
+    "source_file": "FIW_1792646525_1_d0d9b2_Hunter_7E3A.m3u",
+    "health_status": "not_checked",
+    "health_checked_urls": 0,
+    "health_promoted": false
+  },
+  {
+    "id": "dragon_arabic_2bf11c8671f8",
+    "name": "Euronews Arabic ARB",
+    "original_name": "Euronews Arabic ARB | 🌟 FREE IPTV WORLD 🌟",
+    "language": "arabic",
+    "groups": [
+      "news"
+    ],
+    "raw_group": "",
+    "logo": "",
+    "primary_url": "http://fastopen.live:8080/filipesoeiro83/vi9sWg8ARS/4952",
+    "alternates": [],
+    "source_file": "FIW_1792646525_1_d0d9b2_Hunter_7E3A.m3u",
+    "health_status": "unreachable",
+    "health_checked_urls": 1,
+    "health_promoted": false
+  },
+  {
+    "id": "dragon_arabic_7b0e6d1a02be",
+    "name": "MBC 1 ARB",
+    "original_name": "MBC 1 ARB | 🌟 FREE IPTV WORLD 🌟",
+    "language": "arabic",
+    "groups": [],
+    "raw_group": "",
+    "logo": "",
+    "primary_url": "http://fastopen.live:8080/filipesoeiro83/vi9sWg8ARS/6953",
+    "alternates": [
+      "http://fastopen.live:8080/filipesoeiro83/vi9sWg8ARS/2435",
+      "http://fastopen.live:8080/filipesoeiro83/vi9sWg8ARS/101144",
+      "http://fastopen.live:8080/filipesoeiro83/vi9sWg8ARS/101143"
+    ],
+    "source_file": "FIW_1792646525_1_d0d9b2_Hunter_7E3A.m3u",
+    "health_status": "not_checked",
+    "health_checked_urls": 0,
+    "health_promoted": false
+  },
+  {
+    "id": "dragon_arabic_61f7c7138301",
+    "name": "MBC 2 ARB",
+    "original_name": "MBC 2 ARB | 🌟 FREE IPTV WORLD 🌟",
+    "language": "arabic",
+    "groups": [],
+    "raw_group": "",
+    "logo": "",
+    "primary_url": "http://fastopen.live:8080/filipesoeiro83/vi9sWg8ARS/6952",
+    "alternates": [
+      "http://fastopen.live:8080/filipesoeiro83/vi9sWg8ARS/2434",
+      "http://fastopen.live:8080/filipesoeiro83/vi9sWg8ARS/2425"
+    ],
+    "source_file": "FIW_1792646525_1_d0d9b2_Hunter_7E3A.m3u",
+    "health_status": "not_checked",
+    "health_checked_urls": 0,
+    "health_promoted": false
+  },
+  {
+    "id": "dragon_arabic_7119d37f9b4d",
+    "name": "MBC 3 ARB",
+    "original_name": "MBC 3 ARB | 🌟 FREE IPTV WORLD 🌟",
+    "language": "arabic",
+    "groups": [],
+    "raw_group": "",
+    "logo": "",
+    "primary_url": "http://fastopen.live:8080/filipesoeiro83/vi9sWg8ARS/6951",
+    "alternates": [
+      "http://fastopen.live:8080/filipesoeiro83/vi9sWg8ARS/2433",
+      "http://fastopen.live:8080/filipesoeiro83/vi9sWg8ARS/2424"
+    ],
+    "source_file": "FIW_1792646525_1_d0d9b2_Hunter_7E3A.m3u",
+    "health_status": "not_checked",
+    "health_checked_urls": 0,
+    "health_promoted": false
+  },
+  {
+    "id": "dragon_arabic_f6c8b66e1660",
+    "name": "MBC 4 ARB",
+    "original_name": "MBC 4 ARB | 🌟 FREE IPTV WORLD 🌟",
+    "language": "arabic",
+    "groups": [],
+    "raw_group": "",
+    "logo": "",
+    "primary_url": "http://fastopen.live:8080/filipesoeiro83/vi9sWg8ARS/6950",
+    "alternates": [
+      "http://fastopen.live:8080/filipesoeiro83/vi9sWg8ARS/2432",
+      "http://fastopen.live:8080/filipesoeiro83/vi9sWg8ARS/2423"
+    ],
+    "source_file": "FIW_1792646525_1_d0d9b2_Hunter_7E3A.m3u",
+    "health_status": "not_checked",
+    "health_checked_urls": 0,
+    "health_promoted": false
+  },
+  {
+    "id": "dragon_arabic_74ba5db0869c",
+    "name": "MBC Action ARB",
+    "original_name": "MBC Action ARB | 🌟 FREE IPTV WORLD 🌟",
+    "language": "arabic",
+    "groups": [],
+    "raw_group": "",
+    "logo": "",
+    "primary_url": "http://fastopen.live:8080/filipesoeiro83/vi9sWg8ARS/6949",
+    "alternates": [
+      "http://fastopen.live:8080/filipesoeiro83/vi9sWg8ARS/2428",
+      "http://fastopen.live:8080/filipesoeiro83/vi9sWg8ARS/2418"
+    ],
+    "source_file": "FIW_1792646525_1_d0d9b2_Hunter_7E3A.m3u",
+    "health_status": "not_checked",
+    "health_checked_urls": 0,
+    "health_promoted": false
+  },
+  {
+    "id": "dragon_arabic_3a58b2330b8f",
+    "name": "MBC Bollywood ARB",
+    "original_name": "MBC Bollywood ARB | 🌟 FREE IPTV WORLD 🌟",
+    "language": "arabic",
+    "groups": [],
+    "raw_group": "",
+    "logo": "",
+    "primary_url": "http://fastopen.live:8080/filipesoeiro83/vi9sWg8ARS/2421",
+    "alternates": [],
+    "source_file": "FIW_1792646525_1_d0d9b2_Hunter_7E3A.m3u",
+    "health_status": "not_checked",
+    "health_checked_urls": 0,
+    "health_promoted": false
+  },
+  {
+    "id": "dragon_arabic_8a4bbc474575",
+    "name": "MBC Boolywood HD VIP ARB",
+    "original_name": "MBC Boolywood HD VIP ARB | 🌟 FREE IPTV WORLD 🌟",
+    "language": "arabic",
+    "groups": [],
+    "raw_group": "",
+    "logo": "",
+    "primary_url": "http://fastopen.live:8080/filipesoeiro83/vi9sWg8ARS/6948",
+    "alternates": [],
+    "source_file": "FIW_1792646525_1_d0d9b2_Hunter_7E3A.m3u",
+    "health_status": "not_checked",
+    "health_checked_urls": 0,
+    "health_promoted": false
+  },
+  {
+    "id": "dragon_arabic_f8fa6e3addd1",
+    "name": "MBC Drama ARB",
+    "original_name": "MBC Drama ARB | 🌟 FREE IPTV WORLD 🌟",
+    "language": "arabic",
+    "groups": [],
+    "raw_group": "",
+    "logo": "",
+    "primary_url": "http://fastopen.live:8080/filipesoeiro83/vi9sWg8ARS/2430",
+    "alternates": [
+      "http://fastopen.live:8080/filipesoeiro83/vi9sWg8ARS/2422"
+    ],
+    "source_file": "FIW_1792646525_1_d0d9b2_Hunter_7E3A.m3u",
+    "health_status": "not_checked",
+    "health_checked_urls": 0,
+    "health_promoted": false
+  },
+  {
+    "id": "dragon_arabic_d40c64cac920",
+    "name": "MBC Egypt ARB",
+    "original_name": "MBC Egypt ARB | 🌟 FREE IPTV WORLD 🌟",
+    "language": "arabic",
+    "groups": [],
+    "raw_group": "",
+    "logo": "",
+    "primary_url": "http://fastopen.live:8080/filipesoeiro83/vi9sWg8ARS/2419",
+    "alternates": [],
+    "source_file": "FIW_1792646525_1_d0d9b2_Hunter_7E3A.m3u",
+    "health_status": "not_checked",
+    "health_checked_urls": 0,
+    "health_promoted": false
+  },
+  {
+    "id": "dragon_arabic_d055291055e3",
+    "name": "MBC Iraq ARB",
+    "original_name": "MBC Iraq ARB | 🌟 FREE IPTV WORLD 🌟",
+    "language": "arabic",
+    "groups": [],
+    "raw_group": "",
+    "logo": "",
+    "primary_url": "http://fastopen.live:8080/filipesoeiro83/vi9sWg8ARS/40185",
+    "alternates": [
+      "http://fastopen.live:8080/filipesoeiro83/vi9sWg8ARS/135371"
+    ],
+    "source_file": "FIW_1792646525_1_d0d9b2_Hunter_7E3A.m3u",
+    "health_status": "not_checked",
+    "health_checked_urls": 0,
+    "health_promoted": false
+  },
+  {
+    "id": "dragon_arabic_fdf2feb4e2c0",
+    "name": "MBC Max ARB",
+    "original_name": "MBC Max ARB | 🌟 FREE IPTV WORLD 🌟",
+    "language": "arabic",
+    "groups": [],
+    "raw_group": "",
+    "logo": "",
+    "primary_url": "http://fastopen.live:8080/filipesoeiro83/vi9sWg8ARS/6946",
+    "alternates": [
+      "http://fastopen.live:8080/filipesoeiro83/vi9sWg8ARS/2429",
+      "http://fastopen.live:8080/filipesoeiro83/vi9sWg8ARS/2417"
+    ],
+    "source_file": "FIW_1792646525_1_d0d9b2_Hunter_7E3A.m3u",
+    "health_status": "not_checked",
+    "health_checked_urls": 0,
+    "health_promoted": false
+  },
+  {
+    "id": "dragon_arabic_a7def60181fc",
+    "name": "MBC Masr 1 ARB",
+    "original_name": "MBC Masr 1 ARB | 🌟 FREE IPTV WORLD 🌟",
+    "language": "arabic",
+    "groups": [],
+    "raw_group": "",
+    "logo": "",
+    "primary_url": "http://fastopen.live:8080/filipesoeiro83/vi9sWg8ARS/3485",
+    "alternates": [],
+    "source_file": "FIW_1792646525_1_d0d9b2_Hunter_7E3A.m3u",
+    "health_status": "not_checked",
+    "health_checked_urls": 0,
+    "health_promoted": false
+  },
+  {
+    "id": "dragon_arabic_117a4b3c641e",
+    "name": "MBC Masr 2 ARB",
+    "original_name": "MBC Masr 2 ARB | 🌟 FREE IPTV WORLD 🌟",
+    "language": "arabic",
+    "groups": [],
+    "raw_group": "",
+    "logo": "",
+    "primary_url": "http://fastopen.live:8080/filipesoeiro83/vi9sWg8ARS/2420",
+    "alternates": [],
+    "source_file": "FIW_1792646525_1_d0d9b2_Hunter_7E3A.m3u",
+    "health_status": "not_checked",
+    "health_checked_urls": 0,
+    "health_promoted": false
+  },
+  {
+    "id": "dragon_arabic_850662b0b49c",
+    "name": "MBC Plus Variety HD ARB",
+    "original_name": "MBC Plus Variety HD ARB | 🌟 FREE IPTV WORLD 🌟",
+    "language": "arabic",
+    "groups": [],
+    "raw_group": "",
+    "logo": "",
+    "primary_url": "http://fastopen.live:8080/filipesoeiro83/vi9sWg8ARS/2427",
+    "alternates": [],
+    "source_file": "FIW_1792646525_1_d0d9b2_Hunter_7E3A.m3u",
+    "health_status": "not_checked",
+    "health_checked_urls": 0,
+    "health_promoted": false
+  },
+  {
+    "id": "dragon_arabic_35512319fb31",
+    "name": "MBC Plus Drama HD ARB",
+    "original_name": "MBC Plus Drama HD ARB | 🌟 FREE IPTV WORLD 🌟",
+    "language": "arabic",
+    "groups": [],
+    "raw_group": "",
+    "logo": "",
+    "primary_url": "http://fastopen.live:8080/filipesoeiro83/vi9sWg8ARS/2431",
+    "alternates": [],
+    "source_file": "FIW_1792646525_1_d0d9b2_Hunter_7E3A.m3u",
+    "health_status": "not_checked",
+    "health_checked_urls": 0,
+    "health_promoted": false
+  },
+  {
+    "id": "dragon_arabic_afe8393ef211",
+    "name": "Rotana ARB",
+    "original_name": "Rotana ARB | 🌟 FREE IPTV WORLD 🌟",
+    "language": "arabic",
+    "groups": [],
+    "raw_group": "",
+    "logo": "",
+    "primary_url": "http://fastopen.live:8080/filipesoeiro83/vi9sWg8ARS/2389",
+    "alternates": [],
+    "source_file": "FIW_1792646525_1_d0d9b2_Hunter_7E3A.m3u",
+    "health_status": "not_checked",
+    "health_checked_urls": 0,
+    "health_promoted": false
+  },
+  {
+    "id": "dragon_arabic_23fc3349e0c3",
+    "name": "Rotana Aflam ARB",
+    "original_name": "Rotana Aflam ARB | 🌟 FREE IPTV WORLD 🌟",
+    "language": "arabic",
+    "groups": [],
+    "raw_group": "",
+    "logo": "",
+    "primary_url": "http://fastopen.live:8080/filipesoeiro83/vi9sWg8ARS/3741",
+    "alternates": [
+      "http://fastopen.live:8080/filipesoeiro83/vi9sWg8ARS/2390"
+    ],
+    "source_file": "FIW_1792646525_1_d0d9b2_Hunter_7E3A.m3u",
+    "health_status": "not_checked",
+    "health_checked_urls": 0,
+    "health_promoted": false
+  },
+  {
+    "id": "dragon_arabic_05bd1a7f33cf",
+    "name": "Rotana Cinema EGY ARB",
+    "original_name": "Rotana Cinema EGY ARB | 🌟 FREE IPTV WORLD 🌟",
+    "language": "arabic",
+    "groups": [],
+    "raw_group": "",
+    "logo": "",
+    "primary_url": "http://fastopen.live:8080/filipesoeiro83/vi9sWg8ARS/2391",
+    "alternates": [],
+    "source_file": "FIW_1792646525_1_d0d9b2_Hunter_7E3A.m3u",
+    "health_status": "not_checked",
+    "health_checked_urls": 0,
+    "health_promoted": false
+  },
+  {
+    "id": "dragon_arabic_5201c87f7e5d",
+    "name": "Rotana Cinema HD ARB",
+    "original_name": "Rotana Cinema HD ARB | 🌟 FREE IPTV WORLD 🌟",
+    "language": "arabic",
+    "groups": [],
+    "raw_group": "",
+    "logo": "",
+    "primary_url": "http://fastopen.live:8080/filipesoeiro83/vi9sWg8ARS/3742",
+    "alternates": [],
+    "source_file": "FIW_1792646525_1_d0d9b2_Hunter_7E3A.m3u",
+    "health_status": "not_checked",
+    "health_checked_urls": 0,
+    "health_promoted": false
+  },
+  {
+    "id": "dragon_arabic_82fdb8d8790b",
+    "name": "Rotana Cinema KSA ARB",
+    "original_name": "Rotana Cinema KSA ARB | 🌟 FREE IPTV WORLD 🌟",
+    "language": "arabic",
+    "groups": [],
+    "raw_group": "",
+    "logo": "",
+    "primary_url": "http://fastopen.live:8080/filipesoeiro83/vi9sWg8ARS/2392",
+    "alternates": [],
+    "source_file": "FIW_1792646525_1_d0d9b2_Hunter_7E3A.m3u",
+    "health_status": "not_checked",
+    "health_checked_urls": 0,
+    "health_promoted": false
+  },
+  {
+    "id": "dragon_arabic_86cf36508fd0",
+    "name": "Rotana Classic ARB",
+    "original_name": "Rotana Classic ARB | 🌟 FREE IPTV WORLD 🌟",
+    "language": "arabic",
+    "groups": [],
+    "raw_group": "",
+    "logo": "",
+    "primary_url": "http://fastopen.live:8080/filipesoeiro83/vi9sWg8ARS/3743",
+    "alternates": [
+      "http://fastopen.live:8080/filipesoeiro83/vi9sWg8ARS/2393"
+    ],
+    "source_file": "FIW_1792646525_1_d0d9b2_Hunter_7E3A.m3u",
+    "health_status": "not_checked",
+    "health_checked_urls": 0,
+    "health_promoted": false
+  },
+  {
+    "id": "dragon_arabic_fa0645d71608",
+    "name": "Rotana Clip ARB",
+    "original_name": "Rotana Clip ARB | 🌟 FREE IPTV WORLD 🌟",
+    "language": "arabic",
+    "groups": [],
+    "raw_group": "",
+    "logo": "",
+    "primary_url": "http://fastopen.live:8080/filipesoeiro83/vi9sWg8ARS/2394",
+    "alternates": [],
+    "source_file": "FIW_1792646525_1_d0d9b2_Hunter_7E3A.m3u",
+    "health_status": "not_checked",
+    "health_checked_urls": 0,
+    "health_promoted": false
+  },
+  {
+    "id": "dragon_arabic_e8b241ccac01",
+    "name": "Rotana Khalijiah ARB",
+    "original_name": "Rotana Khalijiah ARB | 🌟 FREE IPTV WORLD 🌟",
+    "language": "arabic",
+    "groups": [],
+    "raw_group": "",
+    "logo": "",
+    "primary_url": "http://fastopen.live:8080/filipesoeiro83/vi9sWg8ARS/3745",
+    "alternates": [
+      "http://fastopen.live:8080/filipesoeiro83/vi9sWg8ARS/2395"
+    ],
+    "source_file": "FIW_1792646525_1_d0d9b2_Hunter_7E3A.m3u",
+    "health_status": "not_checked",
+    "health_checked_urls": 0,
+    "health_promoted": false
+  },
+  {
+    "id": "dragon_arabic_0ca2bd3d5ca3",
+    "name": "Rotana Masriya ARB",
+    "original_name": "Rotana Masriya ARB | 🌟 FREE IPTV WORLD 🌟",
+    "language": "arabic",
+    "groups": [],
+    "raw_group": "",
+    "logo": "",
+    "primary_url": "http://fastopen.live:8080/filipesoeiro83/vi9sWg8ARS/3746",
+    "alternates": [
+      "http://fastopen.live:8080/filipesoeiro83/vi9sWg8ARS/2396"
+    ],
+    "source_file": "FIW_1792646525_1_d0d9b2_Hunter_7E3A.m3u",
+    "health_status": "not_checked",
+    "health_checked_urls": 0,
+    "health_promoted": false
+  },
+  {
+    "id": "dragon_arabic_98eb98b01507",
+    "name": "Rotana Music ARB",
+    "original_name": "Rotana Music ARB | 🌟 FREE IPTV WORLD 🌟",
+    "language": "arabic",
+    "groups": [],
+    "raw_group": "",
+    "logo": "",
+    "primary_url": "http://fastopen.live:8080/filipesoeiro83/vi9sWg8ARS/3744",
+    "alternates": [
+      "http://fastopen.live:8080/filipesoeiro83/vi9sWg8ARS/3492"
+    ],
+    "source_file": "FIW_1792646525_1_d0d9b2_Hunter_7E3A.m3u",
+    "health_status": "not_checked",
+    "health_checked_urls": 0,
+    "health_promoted": false
+  },
+  {
+    "id": "dragon_arabic_3cdbc9c12c3b",
+    "name": "S News Arabia ARB",
+    "original_name": "S News Arabia ARB | 🌟 FREE IPTV WORLD 🌟",
+    "language": "arabic",
+    "groups": [
+      "news"
+    ],
+    "raw_group": "",
+    "logo": "",
+    "primary_url": "http://fastopen.live:8080/filipesoeiro83/vi9sWg8ARS/3536",
+    "alternates": [],
+    "source_file": "FIW_1792646525_1_d0d9b2_Hunter_7E3A.m3u",
+    "health_status": "reachable",
+    "health_checked_urls": 1,
+    "health_promoted": false
+  },
+  {
+    "id": "dragon_arabic_23f77a5fa4ed",
+    "name": "Gulli Arabic ARB",
+    "original_name": "Gulli Arabic ARB | 🌟 FREE IPTV WORLD 🌟",
+    "language": "arabic",
+    "groups": [],
+    "raw_group": "",
+    "logo": "",
+    "primary_url": "http://fastopen.live:8080/filipesoeiro83/vi9sWg8ARS/82836",
+    "alternates": [],
+    "source_file": "FIW_1792646525_1_d0d9b2_Hunter_7E3A.m3u",
+    "health_status": "not_checked",
+    "health_checked_urls": 0,
+    "health_promoted": false
+  },
+  {
+    "id": "dragon_arabic_997a7b8b9935",
+    "name": "MBC 5 ARB",
+    "original_name": "MBC 5 ARB | 🌟 FREE IPTV WORLD 🌟",
+    "language": "arabic",
+    "groups": [],
+    "raw_group": "",
+    "logo": "",
+    "primary_url": "http://fastopen.live:8080/filipesoeiro83/vi9sWg8ARS/83570",
+    "alternates": [
+      "http://fastopen.live:8080/filipesoeiro83/vi9sWg8ARS/83569"
+    ],
+    "source_file": "FIW_1792646525_1_d0d9b2_Hunter_7E3A.m3u",
+    "health_status": "not_checked",
+    "health_checked_urls": 0,
+    "health_promoted": false
+  },
+  {
+    "id": "dragon_arabic_c12bbed2610b",
+    "name": "CGTN Arabic ARB",
+    "original_name": "CGTN Arabic ARB | 🌟 FREE IPTV WORLD 🌟",
+    "language": "arabic",
+    "groups": [],
+    "raw_group": "",
+    "logo": "",
+    "primary_url": "http://fastopen.live:8080/filipesoeiro83/vi9sWg8ARS/89982",
+    "alternates": [],
+    "source_file": "FIW_1792646525_1_d0d9b2_Hunter_7E3A.m3u",
+    "health_status": "not_checked",
+    "health_checked_urls": 0,
+    "health_promoted": false
+  },
+  {
+    "id": "dragon_arabic_b477cd5066a0",
+    "name": "Al Horreya TBN Arabic AF",
+    "original_name": "Al Horreya TBN Arabic AF | 🌟 FREE IPTV WORLD 🌟",
+    "language": "arabic",
+    "groups": [],
+    "raw_group": "",
+    "logo": "",
+    "primary_url": "http://fastopen.live:8080/filipesoeiro83/vi9sWg8ARS/4624",
+    "alternates": [],
+    "source_file": "FIW_1792646525_1_d0d9b2_Hunter_7E3A.m3u",
+    "health_status": "not_checked",
+    "health_checked_urls": 0,
+    "health_promoted": false
+  },
+  {
+    "id": "dragon_arabic_00942e73d551",
+    "name": "MBC 2 TV AF",
+    "original_name": "MBC 2 TV AF | 🌟 FREE IPTV WORLD 🌟",
+    "language": "arabic",
+    "groups": [],
+    "raw_group": "",
+    "logo": "",
+    "primary_url": "http://fastopen.live:8080/filipesoeiro83/vi9sWg8ARS/4621",
+    "alternates": [],
+    "source_file": "FIW_1792646525_1_d0d9b2_Hunter_7E3A.m3u",
+    "health_status": "not_checked",
+    "health_checked_urls": 0,
+    "health_promoted": false
+  },
+  {
+    "id": "dragon_arabic_821570577d6b",
+    "name": "MEDI 1 TV ARABIC HD ABR",
+    "original_name": "MEDI 1 TV ARABIC HD ABR | 🌟 FREE IPTV WORLD 🌟",
+    "language": "arabic",
+    "groups": [],
+    "raw_group": "",
+    "logo": "",
+    "primary_url": "http://fastopen.live:8080/filipesoeiro83/vi9sWg8ARS/130303",
+    "alternates": [],
+    "source_file": "FIW_1792646525_1_d0d9b2_Hunter_7E3A.m3u",
+    "health_status": "not_checked",
+    "health_checked_urls": 0,
+    "health_promoted": false
+  },
+  {
+    "id": "dragon_arabic_48467c7ce07d",
+    "name": "MBC 5 MR ARB",
+    "original_name": "MBC 5 MR ARB | 🌟 FREE IPTV WORLD 🌟",
+    "language": "arabic",
+    "groups": [],
+    "raw_group": "",
+    "logo": "",
+    "primary_url": "http://fastopen.live:8080/filipesoeiro83/vi9sWg8ARS/130302",
+    "alternates": [],
+    "source_file": "FIW_1792646525_1_d0d9b2_Hunter_7E3A.m3u",
+    "health_status": "not_checked",
+    "health_checked_urls": 0,
+    "health_promoted": false
+  },
+  {
+    "id": "dragon_arabic_72bd0346ed83",
+    "name": "احمد نعينع Ahmed Neinaa ARB",
+    "original_name": "احمد نعينع Ahmed Neinaa ARB | 🌟 FREE IPTV WORLD 🌟",
+    "language": "arabic",
+    "groups": [],
+    "raw_group": "",
+    "logo": "",
+    "primary_url": "http://fastopen.live:8080/filipesoeiro83/vi9sWg8ARS/130294",
+    "alternates": [],
+    "source_file": "FIW_1792646525_1_d0d9b2_Hunter_7E3A.m3u",
+    "health_status": "not_checked",
+    "health_checked_urls": 0,
+    "health_promoted": false
+  },
+  {
+    "id": "dragon_arabic_457bced2d6a7",
+    "name": "علي الحذيفي Ali Al Huthaify ARB",
+    "original_name": "علي الحذيفي Ali Al Huthaify ARB | 🌟 FREE IPTV WORLD 🌟",
+    "language": "arabic",
+    "groups": [],
+    "raw_group": "",
+    "logo": "",
+    "primary_url": "http://fastopen.live:8080/filipesoeiro83/vi9sWg8ARS/130293",
+    "alternates": [],
+    "source_file": "FIW_1792646525_1_d0d9b2_Hunter_7E3A.m3u",
+    "health_status": "not_checked",
+    "health_checked_urls": 0,
+    "health_promoted": false
+  },
+  {
+    "id": "dragon_arabic_f1b225e850cd",
+    "name": "عبد الله الخياط Abdullah Al-Khayat ARB",
+    "original_name": "عبد الله الخياط Abdullah Al-Khayat ARB | 🌟 FREE IPTV WORLD 🌟",
+    "language": "arabic",
+    "groups": [],
+    "raw_group": "",
+    "logo": "",
+    "primary_url": "http://fastopen.live:8080/filipesoeiro83/vi9sWg8ARS/130292",
+    "alternates": [],
+    "source_file": "FIW_1792646525_1_d0d9b2_Hunter_7E3A.m3u",
+    "health_status": "not_checked",
+    "health_checked_urls": 0,
+    "health_promoted": false
+  },
+  {
+    "id": "dragon_arabic_a741af40c3b7",
+    "name": "مشاري العفاسي Mishary Alafasi ARB",
+    "original_name": "مشاري العفاسي Mishary Alafasi ARB | 🌟 FREE IPTV WORLD 🌟",
+    "language": "arabic",
+    "groups": [],
+    "raw_group": "",
+    "logo": "",
+    "primary_url": "http://fastopen.live:8080/filipesoeiro83/vi9sWg8ARS/130291",
+    "alternates": [],
+    "source_file": "FIW_1792646525_1_d0d9b2_Hunter_7E3A.m3u",
+    "health_status": "not_checked",
+    "health_checked_urls": 0,
+    "health_promoted": false
+  },
+  {
+    "id": "dragon_arabic_00800ddf3793",
+    "name": "ياسر الدوسري ARB",
+    "original_name": "ياسر الدوسري ARB | 🌟 FREE IPTV WORLD 🌟",
+    "language": "arabic",
+    "groups": [],
+    "raw_group": "",
+    "logo": "",
+    "primary_url": "http://fastopen.live:8080/filipesoeiro83/vi9sWg8ARS/130289",
+    "alternates": [],
+    "source_file": "FIW_1792646525_1_d0d9b2_Hunter_7E3A.m3u",
+    "health_status": "not_checked",
+    "health_checked_urls": 0,
+    "health_promoted": false
+  },
+  {
+    "id": "dragon_arabic_75d188ef2df1",
+    "name": "عبد الودود حنيف Abdul Wadud Hunaif ARB",
+    "original_name": "عبد الودود حنيف Abdul Wadud Hunaif ARB | 🌟 FREE IPTV WORLD 🌟",
+    "language": "arabic",
+    "groups": [],
+    "raw_group": "",
+    "logo": "",
+    "primary_url": "http://fastopen.live:8080/filipesoeiro83/vi9sWg8ARS/130288",
+    "alternates": [],
+    "source_file": "FIW_1792646525_1_d0d9b2_Hunter_7E3A.m3u",
+    "health_status": "not_checked",
+    "health_checked_urls": 0,
+    "health_promoted": false
+  },
+  {
+    "id": "dragon_arabic_079247456d48",
+    "name": "ياسين الجزائري Yassen ALGhzaeri ARB",
+    "original_name": "ياسين الجزائري Yassen ALGhzaeri ARB | 🌟 FREE IPTV WORLD 🌟",
+    "language": "arabic",
+    "groups": [],
+    "raw_group": "",
+    "logo": "",
+    "primary_url": "http://fastopen.live:8080/filipesoeiro83/vi9sWg8ARS/130287",
+    "alternates": [],
+    "source_file": "FIW_1792646525_1_d0d9b2_Hunter_7E3A.m3u",
+    "health_status": "not_checked",
+    "health_checked_urls": 0,
+    "health_promoted": false
+  },
+  {
+    "id": "dragon_arabic_55af994cc901",
+    "name": "سورة يس كريم فؤاد ARB",
+    "original_name": "سورة يس كريم فؤاد ARB | 🌟 FREE IPTV WORLD 🌟",
+    "language": "arabic",
+    "groups": [],
+    "raw_group": "",
+    "logo": "",
+    "primary_url": "http://fastopen.live:8080/filipesoeiro83/vi9sWg8ARS/130286",
+    "alternates": [],
+    "source_file": "FIW_1792646525_1_d0d9b2_Hunter_7E3A.m3u",
+    "health_status": "not_checked",
+    "health_checked_urls": 0,
+    "health_promoted": false
+  },
+  {
+    "id": "dragon_arabic_1d8c2f4c709f",
+    "name": "اذكار الصباح العفاسي ARB",
+    "original_name": "اذكار الصباح العفاسي ARB | 🌟 FREE IPTV WORLD 🌟",
+    "language": "arabic",
+    "groups": [],
+    "raw_group": "",
+    "logo": "",
+    "primary_url": "http://fastopen.live:8080/filipesoeiro83/vi9sWg8ARS/130285",
+    "alternates": [],
+    "source_file": "FIW_1792646525_1_d0d9b2_Hunter_7E3A.m3u",
+    "health_status": "not_checked",
+    "health_checked_urls": 0,
+    "health_promoted": false
+  },
+  {
+    "id": "dragon_arabic_4c7849e7e6c7",
+    "name": "سورة البقرة للقارئ رعد الكردي ARB",
+    "original_name": "سورة البقرة للقارئ رعد الكردي ARB | 🌟 FREE IPTV WORLD 🌟",
+    "language": "arabic",
+    "groups": [],
+    "raw_group": "",
+    "logo": "",
+    "primary_url": "http://fastopen.live:8080/filipesoeiro83/vi9sWg8ARS/130284",
+    "alternates": [],
+    "source_file": "FIW_1792646525_1_d0d9b2_Hunter_7E3A.m3u",
+    "health_status": "not_checked",
+    "health_checked_urls": 0,
+    "health_promoted": false
+  },
+  {
+    "id": "dragon_arabic_388ef68e977b",
+    "name": "أذكار الصباح الشيخ غسان الشوربجي ARB",
+    "original_name": "أذكار الصباح الشيخ غسان الشوربجي ARB | 🌟 FREE IPTV WORLD 🌟",
+    "language": "arabic",
+    "groups": [],
+    "raw_group": "",
+    "logo": "",
+    "primary_url": "http://fastopen.live:8080/filipesoeiro83/vi9sWg8ARS/130283",
+    "alternates": [],
+    "source_file": "FIW_1792646525_1_d0d9b2_Hunter_7E3A.m3u",
+    "health_status": "not_checked",
+    "health_checked_urls": 0,
+    "health_promoted": false
+  },
+  {
+    "id": "dragon_arabic_7f0af0eceb58",
+    "name": "معيض الحارثي Moeedh Alharthi ARB",
+    "original_name": "معيض الحارثي Moeedh Alharthi ARB | 🌟 FREE IPTV WORLD 🌟",
+    "language": "arabic",
+    "groups": [],
+    "raw_group": "",
+    "logo": "",
+    "primary_url": "http://fastopen.live:8080/filipesoeiro83/vi9sWg8ARS/130282",
+    "alternates": [],
+    "source_file": "FIW_1792646525_1_d0d9b2_Hunter_7E3A.m3u",
+    "health_status": "not_checked",
+    "health_checked_urls": 0,
+    "health_promoted": false
+  },
+  {
+    "id": "dragon_arabic_15896ecf1c49",
+    "name": "رعد محمد الكردي Raaed Al Kurdi ARB",
+    "original_name": "رعد محمد الكردي Raaed Al Kurdi ARB | 🌟 FREE IPTV WORLD 🌟",
+    "language": "arabic",
+    "groups": [],
+    "raw_group": "",
+    "logo": "",
+    "primary_url": "http://fastopen.live:8080/filipesoeiro83/vi9sWg8ARS/130281",
+    "alternates": [],
+    "source_file": "FIW_1792646525_1_d0d9b2_Hunter_7E3A.m3u",
+    "health_status": "not_checked",
+    "health_checked_urls": 0,
+    "health_promoted": false
+  },
+  {
+    "id": "dragon_arabic_82a7ce6062dc",
+    "name": "أحمد الحذيفي Ahmad Alhuthaifi ARB",
+    "original_name": "أحمد الحذيفي Ahmad Alhuthaifi ARB | 🌟 FREE IPTV WORLD 🌟",
+    "language": "arabic",
+    "groups": [],
+    "raw_group": "",
+    "logo": "",
+    "primary_url": "http://fastopen.live:8080/filipesoeiro83/vi9sWg8ARS/130280",
+    "alternates": [],
+    "source_file": "FIW_1792646525_1_d0d9b2_Hunter_7E3A.m3u",
+    "health_status": "not_checked",
+    "health_checked_urls": 0,
+    "health_promoted": false
+  },
+  {
+    "id": "dragon_arabic_cc902bab5fe1",
+    "name": "صلاح بوخاطر Salah Bukhatir ARB",
+    "original_name": "صلاح بوخاطر Salah Bukhatir ARB | 🌟 FREE IPTV WORLD 🌟",
+    "language": "arabic",
+    "groups": [],
+    "raw_group": "",
+    "logo": "",
+    "primary_url": "http://fastopen.live:8080/filipesoeiro83/vi9sWg8ARS/130279",
+    "alternates": [],
+    "source_file": "FIW_1792646525_1_d0d9b2_Hunter_7E3A.m3u",
+    "health_status": "not_checked",
+    "health_checked_urls": 0,
+    "health_promoted": false
+  },
+  {
+    "id": "dragon_arabic_f9c52092fea5",
+    "name": "أذكار الصباح د.محمد خير الشعال ARB",
+    "original_name": "أذكار الصباح د.محمد خير الشعال ARB | 🌟 FREE IPTV WORLD 🌟",
+    "language": "arabic",
+    "groups": [],
+    "raw_group": "",
+    "logo": "",
+    "primary_url": "http://fastopen.live:8080/filipesoeiro83/vi9sWg8ARS/130278",
+    "alternates": [],
+    "source_file": "FIW_1792646525_1_d0d9b2_Hunter_7E3A.m3u",
+    "health_status": "not_checked",
+    "health_checked_urls": 0,
+    "health_promoted": false
+  },
+  {
+    "id": "dragon_arabic_e5d627de6741",
+    "name": "بيشةوا قادر الكردي Peshawa Qadr Al-Kurdi ARB",
+    "original_name": "بيشةوا قادر الكردي Peshawa Qadr Al-Kurdi ARB | 🌟 FREE IPTV WORLD 🌟",
+    "language": "arabic",
+    "groups": [],
+    "raw_group": "",
+    "logo": "",
+    "primary_url": "http://fastopen.live:8080/filipesoeiro83/vi9sWg8ARS/130277",
+    "alternates": [],
+    "source_file": "FIW_1792646525_1_d0d9b2_Hunter_7E3A.m3u",
+    "health_status": "not_checked",
+    "health_checked_urls": 0,
+    "health_promoted": false
+  },
+  {
+    "id": "dragon_arabic_2040597f3cde",
+    "name": "سورة يوسف القارئ اسلام صبحي ARB",
+    "original_name": "سورة يوسف القارئ اسلام صبحي ARB | 🌟 FREE IPTV WORLD 🌟",
+    "language": "arabic",
+    "groups": [],
+    "raw_group": "",
+    "logo": "",
+    "primary_url": "http://fastopen.live:8080/filipesoeiro83/vi9sWg8ARS/130276",
+    "alternates": [],
+    "source_file": "FIW_1792646525_1_d0d9b2_Hunter_7E3A.m3u",
+    "health_status": "not_checked",
+    "health_checked_urls": 0,
+    "health_promoted": false
+  },
+  {
+    "id": "dragon_arabic_7e67f622fc5c",
+    "name": "سامي الحسن Sami Al-Hasn ARB",
+    "original_name": "سامي الحسن Sami Al-Hasn ARB | 🌟 FREE IPTV WORLD 🌟",
+    "language": "arabic",
+    "groups": [],
+    "raw_group": "",
+    "logo": "",
+    "primary_url": "http://fastopen.live:8080/filipesoeiro83/vi9sWg8ARS/130275",
+    "alternates": [],
+    "source_file": "FIW_1792646525_1_d0d9b2_Hunter_7E3A.m3u",
+    "health_status": "not_checked",
+    "health_checked_urls": 0,
+    "health_promoted": false
+  },
+  {
+    "id": "dragon_arabic_b9008acb1bcb",
+    "name": "محمد اللحيدان Mohammed Al-Lohaidan ARB",
+    "original_name": "محمد اللحيدان Mohammed Al-Lohaidan ARB | 🌟 FREE IPTV WORLD 🌟",
+    "language": "arabic",
+    "groups": [],
+    "raw_group": "",
+    "logo": "",
+    "primary_url": "http://fastopen.live:8080/filipesoeiro83/vi9sWg8ARS/130274",
+    "alternates": [],
+    "source_file": "FIW_1792646525_1_d0d9b2_Hunter_7E3A.m3u",
+    "health_status": "not_checked",
+    "health_checked_urls": 0,
+    "health_promoted": false
+  },
+  {
+    "id": "dragon_arabic_0cb4746c6afb",
+    "name": "سورة البقرة للقارئ بيشة و قادر الكردى ARB",
+    "original_name": "سورة البقرة للقارئ بيشة و قادر الكردى ARB | 🌟 FREE IPTV WORLD 🌟",
+    "language": "arabic",
+    "groups": [],
+    "raw_group": "",
+    "logo": "",
+    "primary_url": "http://fastopen.live:8080/filipesoeiro83/vi9sWg8ARS/130273",
+    "alternates": [],
+    "source_file": "FIW_1792646525_1_d0d9b2_Hunter_7E3A.m3u",
+    "health_status": "not_checked",
+    "health_checked_urls": 0,
+    "health_promoted": false
+  },
+  {
+    "id": "dragon_arabic_12a689dd4c35",
+    "name": "مصطفى رعد العزاوي Mustafa raad Alazawy ARB",
+    "original_name": "مصطفى رعد العزاوي Mustafa raad Alazawy ARB | 🌟 FREE IPTV WORLD 🌟",
+    "language": "arabic",
+    "groups": [],
+    "raw_group": "",
+    "logo": "",
+    "primary_url": "http://fastopen.live:8080/filipesoeiro83/vi9sWg8ARS/130272",
+    "alternates": [],
+    "source_file": "FIW_1792646525_1_d0d9b2_Hunter_7E3A.m3u",
+    "health_status": "not_checked",
+    "health_checked_urls": 0,
+    "health_promoted": false
+  },
+  {
+    "id": "dragon_arabic_31b396fa9f27",
+    "name": "عبد الولي الأركاني Abdulwali Al-Arkani ARB",
+    "original_name": "عبد الولي الأركاني Abdulwali Al-Arkani ARB | 🌟 FREE IPTV WORLD 🌟",
+    "language": "arabic",
+    "groups": [],
+    "raw_group": "",
+    "logo": "",
+    "primary_url": "http://fastopen.live:8080/filipesoeiro83/vi9sWg8ARS/130271",
+    "alternates": [],
+    "source_file": "FIW_1792646525_1_d0d9b2_Hunter_7E3A.m3u",
+    "health_status": "not_checked",
+    "health_checked_urls": 0,
+    "health_promoted": false
+  },
+  {
+    "id": "dragon_arabic_7056bf141df4",
+    "name": "محمد البراك Mohammed Al Barrak ARB",
+    "original_name": "محمد البراك Mohammed Al Barrak ARB | 🌟 FREE IPTV WORLD 🌟",
+    "language": "arabic",
+    "groups": [],
+    "raw_group": "",
+    "logo": "",
+    "primary_url": "http://fastopen.live:8080/filipesoeiro83/vi9sWg8ARS/130270",
+    "alternates": [],
+    "source_file": "FIW_1792646525_1_d0d9b2_Hunter_7E3A.m3u",
+    "health_status": "not_checked",
+    "health_checked_urls": 0,
+    "health_promoted": false
+  },
+  {
+    "id": "dragon_arabic_2890c56e1ed4",
+    "name": "مشاري راشد العفاسي أذكار الصباح ARB",
+    "original_name": "مشاري راشد العفاسي أذكار الصباح ARB | 🌟 FREE IPTV WORLD 🌟",
+    "language": "arabic",
+    "groups": [],
+    "raw_group": "",
+    "logo": "",
+    "primary_url": "http://fastopen.live:8080/filipesoeiro83/vi9sWg8ARS/130269",
+    "alternates": [],
+    "source_file": "FIW_1792646525_1_d0d9b2_Hunter_7E3A.m3u",
+    "health_status": "not_checked",
+    "health_checked_urls": 0,
+    "health_promoted": false
+  },
+  {
+    "id": "dragon_arabic_674f915ad45d",
+    "name": "خليفة الطنيجي Khalifa Altunaiji ARB",
+    "original_name": "خليفة الطنيجي Khalifa Altunaiji ARB | 🌟 FREE IPTV WORLD 🌟",
+    "language": "arabic",
+    "groups": [],
+    "raw_group": "",
+    "logo": "",
+    "primary_url": "http://fastopen.live:8080/filipesoeiro83/vi9sWg8ARS/130268",
+    "alternates": [],
+    "source_file": "FIW_1792646525_1_d0d9b2_Hunter_7E3A.m3u",
+    "health_status": "not_checked",
+    "health_checked_urls": 0,
+    "health_promoted": false
+  },
+  {
+    "id": "dragon_arabic_ab383b68f2a0",
+    "name": "إدريس أبكر Idrees Abkr ARB",
+    "original_name": "إدريس أبكر Idrees Abkr ARB | 🌟 FREE IPTV WORLD 🌟",
+    "language": "arabic",
+    "groups": [],
+    "raw_group": "",
+    "logo": "",
+    "primary_url": "http://fastopen.live:8080/filipesoeiro83/vi9sWg8ARS/130267",
+    "alternates": [],
+    "source_file": "FIW_1792646525_1_d0d9b2_Hunter_7E3A.m3u",
+    "health_status": "not_checked",
+    "health_checked_urls": 0,
+    "health_promoted": false
+  },
+  {
+    "id": "dragon_arabic_6836080c747f",
+    "name": "محمد أيوب Mohammed Ayyub ARB",
+    "original_name": "محمد أيوب Mohammed Ayyub ARB | 🌟 FREE IPTV WORLD 🌟",
+    "language": "arabic",
+    "groups": [],
+    "raw_group": "",
+    "logo": "",
+    "primary_url": "http://fastopen.live:8080/filipesoeiro83/vi9sWg8ARS/130266",
+    "alternates": [],
+    "source_file": "FIW_1792646525_1_d0d9b2_Hunter_7E3A.m3u",
+    "health_status": "not_checked",
+    "health_checked_urls": 0,
+    "health_promoted": false
+  },
+  {
+    "id": "dragon_arabic_4aa23bd7d933",
+    "name": "مضان شكور Ramadan Shakoor ARB",
+    "original_name": "مضان شكور Ramadan Shakoor ARB | 🌟 FREE IPTV WORLD 🌟",
+    "language": "arabic",
+    "groups": [],
+    "raw_group": "",
+    "logo": "",
+    "primary_url": "http://fastopen.live:8080/filipesoeiro83/vi9sWg8ARS/130265",
+    "alternates": [],
+    "source_file": "FIW_1792646525_1_d0d9b2_Hunter_7E3A.m3u",
+    "health_status": "not_checked",
+    "health_checked_urls": 0,
+    "health_promoted": false
+  },
+  {
+    "id": "dragon_arabic_d1dfa929ac13",
+    "name": "نعمة الحسان Neamah Al-Hassan ARB",
+    "original_name": "نعمة الحسان Neamah Al-Hassan ARB | 🌟 FREE IPTV WORLD 🌟",
+    "language": "arabic",
+    "groups": [],
+    "raw_group": "",
+    "logo": "",
+    "primary_url": "http://fastopen.live:8080/filipesoeiro83/vi9sWg8ARS/130264",
+    "alternates": [],
+    "source_file": "FIW_1792646525_1_d0d9b2_Hunter_7E3A.m3u",
+    "health_status": "not_checked",
+    "health_checked_urls": 0,
+    "health_promoted": false
+  },
+  {
+    "id": "dragon_arabic_cb1cbbe90b72",
+    "name": "تلاوة جميلة و رائعة جداً وهادئة تنسيك الدنيا وهمها ARB",
+    "original_name": "تلاوة جميلة و رائعة جداً وهادئة تنسيك الدنيا وهمها ARB | 🌟 FREE IPTV WORLD 🌟",
+    "language": "arabic",
+    "groups": [],
+    "raw_group": "",
+    "logo": "",
+    "primary_url": "http://fastopen.live:8080/filipesoeiro83/vi9sWg8ARS/130263",
+    "alternates": [],
+    "source_file": "FIW_1792646525_1_d0d9b2_Hunter_7E3A.m3u",
+    "health_status": "not_checked",
+    "health_checked_urls": 0,
+    "health_promoted": false
+  },
+  {
+    "id": "dragon_arabic_06719f5207bc",
+    "name": "محمد صالح عالم شاه Mohammad Saleh Alim Shah ARB",
+    "original_name": "محمد صالح عالم شاه Mohammad Saleh Alim Shah ARB | 🌟 FREE IPTV WORLD 🌟",
+    "language": "arabic",
+    "groups": [
+      "sports"
+    ],
+    "raw_group": "",
+    "logo": "",
+    "primary_url": "http://fastopen.live:8080/filipesoeiro83/vi9sWg8ARS/130262",
+    "alternates": [],
+    "source_file": "FIW_1792646525_1_d0d9b2_Hunter_7E3A.m3u",
+    "health_status": "not_checked",
+    "health_checked_urls": 0,
+    "health_promoted": false
+  },
+  {
+    "id": "dragon_arabic_1bcf063bc825",
+    "name": "وليد الدليمي Walid Al-Dulaimi ARB",
+    "original_name": "وليد الدليمي Walid Al-Dulaimi ARB | 🌟 FREE IPTV WORLD 🌟",
+    "language": "arabic",
+    "groups": [],
+    "raw_group": "",
+    "logo": "",
+    "primary_url": "http://fastopen.live:8080/filipesoeiro83/vi9sWg8ARS/130261",
+    "alternates": [],
+    "source_file": "FIW_1792646525_1_d0d9b2_Hunter_7E3A.m3u",
+    "health_status": "not_checked",
+    "health_checked_urls": 0,
+    "health_promoted": false
+  },
+  {
+    "id": "dragon_arabic_296abff3ad83",
+    "name": "سورة الكهف القارئ اسلام صبحي ARB",
+    "original_name": "سورة الكهف القارئ اسلام صبحي ARB | 🌟 FREE IPTV WORLD 🌟",
+    "language": "arabic",
+    "groups": [],
+    "raw_group": "",
+    "logo": "",
+    "primary_url": "http://fastopen.live:8080/filipesoeiro83/vi9sWg8ARS/130260",
+    "alternates": [],
+    "source_file": "FIW_1792646525_1_d0d9b2_Hunter_7E3A.m3u",
+    "health_status": "not_checked",
+    "health_checked_urls": 0,
+    "health_promoted": false
+  },
+  {
+    "id": "dragon_arabic_0577a6177bce",
+    "name": "سعد الغامدي Saad Al-Ghamdi ARB",
+    "original_name": "سعد الغامدي Saad Al-Ghamdi ARB | 🌟 FREE IPTV WORLD 🌟",
+    "language": "arabic",
+    "groups": [],
+    "raw_group": "",
+    "logo": "",
+    "primary_url": "http://fastopen.live:8080/filipesoeiro83/vi9sWg8ARS/130259",
+    "alternates": [],
+    "source_file": "FIW_1792646525_1_d0d9b2_Hunter_7E3A.m3u",
+    "health_status": "not_checked",
+    "health_checked_urls": 0,
+    "health_promoted": false
+  },
+  {
+    "id": "dragon_arabic_a2a3bc59392b",
+    "name": "Quran: عبدلله الجهني Abdullah Al Juhany ARB",
+    "original_name": "Quran: عبدلله الجهني Abdullah Al Juhany ARB | 🌟 FREE IPTV WORLD 🌟",
+    "language": "arabic",
+    "groups": [],
+    "raw_group": "",
+    "logo": "",
+    "primary_url": "http://fastopen.live:8080/filipesoeiro83/vi9sWg8ARS/130258",
+    "alternates": [],
+    "source_file": "FIW_1792646525_1_d0d9b2_Hunter_7E3A.m3u",
+    "health_status": "not_checked",
+    "health_checked_urls": 0,
+    "health_promoted": false
+  },
+  {
+    "id": "dragon_arabic_9eb7da5b8505",
+    "name": "العيون الكوشي loyoon Alkoshi ARB",
+    "original_name": "العيون الكوشي loyoon Alkoshi ARB | 🌟 FREE IPTV WORLD 🌟",
+    "language": "arabic",
+    "groups": [],
+    "raw_group": "",
+    "logo": "",
+    "primary_url": "http://fastopen.live:8080/filipesoeiro83/vi9sWg8ARS/130257",
+    "alternates": [],
+    "source_file": "FIW_1792646525_1_d0d9b2_Hunter_7E3A.m3u",
+    "health_status": "not_checked",
+    "health_checked_urls": 0,
+    "health_promoted": false
+  },
+  {
+    "id": "dragon_arabic_0bc082d0e34a",
+    "name": "عبد الرحمان السديس Abdul Rahman Al-Sudais ARB",
+    "original_name": "عبد الرحمان السديس Abdul Rahman Al-Sudais ARB | 🌟 FREE IPTV WORLD 🌟",
+    "language": "arabic",
+    "groups": [],
+    "raw_group": "",
+    "logo": "",
+    "primary_url": "http://fastopen.live:8080/filipesoeiro83/vi9sWg8ARS/130256",
+    "alternates": [],
+    "source_file": "FIW_1792646525_1_d0d9b2_Hunter_7E3A.m3u",
+    "health_status": "not_checked",
+    "health_checked_urls": 0,
+    "health_promoted": false
+  },
+  {
+    "id": "dragon_arabic_43e88f6a0ad5",
+    "name": "ناصر القطامي Nasser Alqatami ARB",
+    "original_name": "ناصر القطامي Nasser Alqatami ARB | 🌟 FREE IPTV WORLD 🌟",
+    "language": "arabic",
+    "groups": [],
+    "raw_group": "",
+    "logo": "",
+    "primary_url": "http://fastopen.live:8080/filipesoeiro83/vi9sWg8ARS/130255",
+    "alternates": [],
+    "source_file": "FIW_1792646525_1_d0d9b2_Hunter_7E3A.m3u",
+    "health_status": "not_checked",
+    "health_checked_urls": 0,
+    "health_promoted": false
+  },
+  {
+    "id": "dragon_arabic_370367436dfc",
+    "name": "أذكار الصباح كاملة بصوت العفاسي ARB",
+    "original_name": "أذكار الصباح كاملة بصوت العفاسي ARB | 🌟 FREE IPTV WORLD 🌟",
+    "language": "arabic",
+    "groups": [],
+    "raw_group": "",
+    "logo": "",
+    "primary_url": "http://fastopen.live:8080/filipesoeiro83/vi9sWg8ARS/130254",
+    "alternates": [],
+    "source_file": "FIW_1792646525_1_d0d9b2_Hunter_7E3A.m3u",
+    "health_status": "not_checked",
+    "health_checked_urls": 0,
+    "health_promoted": false
+  },
+  {
+    "id": "dragon_arabic_243f3249b6cb",
+    "name": "زكي داغستاني Zaki Daghistani ARB",
+    "original_name": "زكي داغستاني Zaki Daghistani ARB | 🌟 FREE IPTV WORLD 🌟",
+    "language": "arabic",
+    "groups": [],
+    "raw_group": "",
+    "logo": "",
+    "primary_url": "http://fastopen.live:8080/filipesoeiro83/vi9sWg8ARS/130253",
+    "alternates": [],
+    "source_file": "FIW_1792646525_1_d0d9b2_Hunter_7E3A.m3u",
+    "health_status": "not_checked",
+    "health_checked_urls": 0,
+    "health_promoted": false
+  },
+  {
+    "id": "dragon_arabic_e1050e254047",
+    "name": "عبد المحسن العبيكان Abdul Mohsen Al Obeikan ARB",
+    "original_name": "عبد المحسن العبيكان Abdul Mohsen Al Obeikan ARB | 🌟 FREE IPTV WORLD 🌟",
+    "language": "arabic",
+    "groups": [],
+    "raw_group": "",
+    "logo": "",
+    "primary_url": "http://fastopen.live:8080/filipesoeiro83/vi9sWg8ARS/130252",
+    "alternates": [],
+    "source_file": "FIW_1792646525_1_d0d9b2_Hunter_7E3A.m3u",
+    "health_status": "not_checked",
+    "health_checked_urls": 0,
+    "health_promoted": false
+  },
+  {
+    "id": "dragon_arabic_c6bf3855bf7b",
+    "name": "صابر عبد الحكم Saber Abdulhakm ARB",
+    "original_name": "صابر عبد الحكم Saber Abdulhakm ARB | 🌟 FREE IPTV WORLD 🌟",
+    "language": "arabic",
+    "groups": [],
+    "raw_group": "",
+    "logo": "",
+    "primary_url": "http://fastopen.live:8080/filipesoeiro83/vi9sWg8ARS/130251",
+    "alternates": [],
+    "source_file": "FIW_1792646525_1_d0d9b2_Hunter_7E3A.m3u",
+    "health_status": "not_checked",
+    "health_checked_urls": 0,
+    "health_promoted": false
+  },
+  {
+    "id": "dragon_arabic_6cd0c82ad5e1",
+    "name": "أحمد علي العجمي Ahmad bin Ali Al-Ajmi ARB",
+    "original_name": "أحمد علي العجمي Ahmad bin Ali Al-Ajmi ARB | 🌟 FREE IPTV WORLD 🌟",
+    "language": "arabic",
+    "groups": [],
+    "raw_group": "",
+    "logo": "",
+    "primary_url": "http://fastopen.live:8080/filipesoeiro83/vi9sWg8ARS/130250",
+    "alternates": [],
+    "source_file": "FIW_1792646525_1_d0d9b2_Hunter_7E3A.m3u",
+    "health_status": "not_checked",
+    "health_checked_urls": 0,
+    "health_promoted": false
+  },
+  {
+    "id": "dragon_arabic_7389aa554dec",
+    "name": "فارس عباد Fares Abbad ARB",
+    "original_name": "فارس عباد Fares Abbad ARB | 🌟 FREE IPTV WORLD 🌟",
+    "language": "arabic",
+    "groups": [],
+    "raw_group": "",
+    "logo": "",
+    "primary_url": "http://fastopen.live:8080/filipesoeiro83/vi9sWg8ARS/130249",
+    "alternates": [],
+    "source_file": "FIW_1792646525_1_d0d9b2_Hunter_7E3A.m3u",
+    "health_status": "not_checked",
+    "health_checked_urls": 0,
+    "health_promoted": false
+  },
+  {
+    "id": "dragon_arabic_989385164a99",
+    "name": "أحمد الحواشي Ahmad Al Hawashi ARB",
+    "original_name": "أحمد الحواشي Ahmad Al Hawashi ARB | 🌟 FREE IPTV WORLD 🌟",
+    "language": "arabic",
+    "groups": [],
+    "raw_group": "",
+    "logo": "",
+    "primary_url": "http://fastopen.live:8080/filipesoeiro83/vi9sWg8ARS/130248",
+    "alternates": [],
+    "source_file": "FIW_1792646525_1_d0d9b2_Hunter_7E3A.m3u",
+    "health_status": "not_checked",
+    "health_checked_urls": 0,
+    "health_promoted": false
+  },
+  {
+    "id": "dragon_arabic_57122609f6b3",
+    "name": "ماجد العنزي Majed Al Enezi ARB",
+    "original_name": "ماجد العنزي Majed Al Enezi ARB | 🌟 FREE IPTV WORLD 🌟",
+    "language": "arabic",
+    "groups": [],
+    "raw_group": "",
+    "logo": "",
+    "primary_url": "http://fastopen.live:8080/filipesoeiro83/vi9sWg8ARS/130247",
+    "alternates": [],
+    "source_file": "FIW_1792646525_1_d0d9b2_Hunter_7E3A.m3u",
+    "health_status": "not_checked",
+    "health_checked_urls": 0,
+    "health_promoted": false
+  },
+  {
+    "id": "dragon_arabic_9ba763c5c9fc",
+    "name": "أجمل صوت قرآن مؤثر ARB",
+    "original_name": "أجمل صوت قرآن مؤثر ARB | 🌟 FREE IPTV WORLD 🌟",
+    "language": "arabic",
+    "groups": [],
+    "raw_group": "",
+    "logo": "",
+    "primary_url": "http://fastopen.live:8080/filipesoeiro83/vi9sWg8ARS/130246",
+    "alternates": [],
+    "source_file": "FIW_1792646525_1_d0d9b2_Hunter_7E3A.m3u",
+    "health_status": "not_checked",
+    "health_checked_urls": 0,
+    "health_promoted": false
+  },
+  {
+    "id": "dragon_arabic_746aa75cf6b3",
+    "name": "احمد سعود Ahmed Saued ARB",
+    "original_name": "احمد سعود Ahmed Saued ARB | 🌟 FREE IPTV WORLD 🌟",
+    "language": "arabic",
+    "groups": [],
+    "raw_group": "",
+    "logo": "",
+    "primary_url": "http://fastopen.live:8080/filipesoeiro83/vi9sWg8ARS/130245",
+    "alternates": [],
+    "source_file": "FIW_1792646525_1_d0d9b2_Hunter_7E3A.m3u",
+    "health_status": "not_checked",
+    "health_checked_urls": 0,
+    "health_promoted": false
+  },
+  {
+    "id": "dragon_arabic_46500a22bea0",
+    "name": "يوسف الدغوش Youssef Edghouch ARB",
+    "original_name": "يوسف الدغوش Youssef Edghouch ARB | 🌟 FREE IPTV WORLD 🌟",
+    "language": "arabic",
+    "groups": [],
+    "raw_group": "",
+    "logo": "",
+    "primary_url": "http://fastopen.live:8080/filipesoeiro83/vi9sWg8ARS/130244",
+    "alternates": [],
+    "source_file": "FIW_1792646525_1_d0d9b2_Hunter_7E3A.m3u",
+    "health_status": "not_checked",
+    "health_checked_urls": 0,
+    "health_promoted": false
+  },
+  {
+    "id": "dragon_arabic_dea8b09a943a",
+    "name": "اسلام صبحي ARB",
+    "original_name": "اسلام صبحي ARB | 🌟 FREE IPTV WORLD 🌟",
+    "language": "arabic",
+    "groups": [],
+    "raw_group": "",
+    "logo": "",
+    "primary_url": "http://fastopen.live:8080/filipesoeiro83/vi9sWg8ARS/130243",
+    "alternates": [],
+    "source_file": "FIW_1792646525_1_d0d9b2_Hunter_7E3A.m3u",
+    "health_status": "not_checked",
+    "health_checked_urls": 0,
+    "health_promoted": false
+  },
+  {
+    "id": "dragon_arabic_4de99a17e742",
+    "name": "اجمل تلاوات الشيخ منصور السالمي ARB",
+    "original_name": "اجمل تلاوات الشيخ منصور السالمي ARB | 🌟 FREE IPTV WORLD 🌟",
+    "language": "arabic",
+    "groups": [],
+    "raw_group": "",
+    "logo": "",
+    "primary_url": "http://fastopen.live:8080/filipesoeiro83/vi9sWg8ARS/130242",
+    "alternates": [],
+    "source_file": "FIW_1792646525_1_d0d9b2_Hunter_7E3A.m3u",
+    "health_status": "not_checked",
+    "health_checked_urls": 0,
+    "health_promoted": false
+  },
+  {
+    "id": "dragon_arabic_4dbcf4a857e1",
+    "name": "سورة يوسف بيشه‌وا قادر الكردى ARB",
+    "original_name": "سورة يوسف بيشه‌وا قادر الكردى ARB | 🌟 FREE IPTV WORLD 🌟",
+    "language": "arabic",
+    "groups": [],
+    "raw_group": "",
+    "logo": "",
+    "primary_url": "http://fastopen.live:8080/filipesoeiro83/vi9sWg8ARS/130241",
+    "alternates": [],
+    "source_file": "FIW_1792646525_1_d0d9b2_Hunter_7E3A.m3u",
+    "health_status": "not_checked",
+    "health_checked_urls": 0,
+    "health_promoted": false
+  },
+  {
+    "id": "dragon_arabic_cd51411661be",
+    "name": "عادل الكلباني Adel Al-Khalbany ARB",
+    "original_name": "عادل الكلباني Adel Al-Khalbany ARB | 🌟 FREE IPTV WORLD 🌟",
+    "language": "arabic",
+    "groups": [],
+    "raw_group": "",
+    "logo": "",
+    "primary_url": "http://fastopen.live:8080/filipesoeiro83/vi9sWg8ARS/130240",
+    "alternates": [],
+    "source_file": "FIW_1792646525_1_d0d9b2_Hunter_7E3A.m3u",
+    "health_status": "not_checked",
+    "health_checked_urls": 0,
+    "health_promoted": false
+  },
+  {
+    "id": "dragon_arabic_b51f10432b04",
+    "name": "صلاح الهاشم Salah Alhashim ARB",
+    "original_name": "صلاح الهاشم Salah Alhashim ARB | 🌟 FREE IPTV WORLD 🌟",
+    "language": "arabic",
+    "groups": [],
+    "raw_group": "",
+    "logo": "",
+    "primary_url": "http://fastopen.live:8080/filipesoeiro83/vi9sWg8ARS/130239",
+    "alternates": [],
+    "source_file": "FIW_1792646525_1_d0d9b2_Hunter_7E3A.m3u",
+    "health_status": "not_checked",
+    "health_checked_urls": 0,
+    "health_promoted": false
+  },
+  {
+    "id": "dragon_arabic_e973210d6820",
+    "name": "مصطفى إسماعيل Mustafa Ismail ARB",
+    "original_name": "مصطفى إسماعيل Mustafa Ismail ARB | 🌟 FREE IPTV WORLD 🌟",
+    "language": "arabic",
+    "groups": [],
+    "raw_group": "",
+    "logo": "",
+    "primary_url": "http://fastopen.live:8080/filipesoeiro83/vi9sWg8ARS/130238",
+    "alternates": [],
+    "source_file": "FIW_1792646525_1_d0d9b2_Hunter_7E3A.m3u",
+    "health_status": "not_checked",
+    "health_checked_urls": 0,
+    "health_promoted": false
+  },
+  {
+    "id": "dragon_arabic_d0d6648a681d",
+    "name": "خالد عبد الكافي Khalid Abdulkafi ARB",
+    "original_name": "خالد عبد الكافي Khalid Abdulkafi ARB | 🌟 FREE IPTV WORLD 🌟",
+    "language": "arabic",
+    "groups": [],
+    "raw_group": "",
+    "logo": "",
+    "primary_url": "http://fastopen.live:8080/filipesoeiro83/vi9sWg8ARS/130237",
+    "alternates": [],
+    "source_file": "FIW_1792646525_1_d0d9b2_Hunter_7E3A.m3u",
+    "health_status": "not_checked",
+    "health_checked_urls": 0,
+    "health_promoted": false
+  },
+  {
+    "id": "dragon_arabic_556ceb6462e5",
+    "name": "ابو بكر الشطري Abu Bakir Al Shatri ARB",
+    "original_name": "ابو بكر الشطري Abu Bakir Al Shatri ARB | 🌟 FREE IPTV WORLD 🌟",
+    "language": "arabic",
+    "groups": [],
+    "raw_group": "",
+    "logo": "",
+    "primary_url": "http://fastopen.live:8080/filipesoeiro83/vi9sWg8ARS/130236",
+    "alternates": [],
+    "source_file": "FIW_1792646525_1_d0d9b2_Hunter_7E3A.m3u",
+    "health_status": "not_checked",
+    "health_checked_urls": 0,
+    "health_promoted": false
+  },
+  {
+    "id": "dragon_arabic_67ef00ecc02c",
+    "name": "سامي الدوسري Sami Al Dosari ARB",
+    "original_name": "سامي الدوسري Sami Al Dosari ARB | 🌟 FREE IPTV WORLD 🌟",
+    "language": "arabic",
+    "groups": [],
+    "raw_group": "",
+    "logo": "",
+    "primary_url": "http://fastopen.live:8080/filipesoeiro83/vi9sWg8ARS/130235",
+    "alternates": [],
+    "source_file": "FIW_1792646525_1_d0d9b2_Hunter_7E3A.m3u",
+    "health_status": "not_checked",
+    "health_checked_urls": 0,
+    "health_promoted": false
+  },
+  {
+    "id": "dragon_arabic_f2c1c9d9e4bd",
+    "name": "Quran TV: ‫سورة يوسف عبد الباسط عبد الصمد",
+    "original_name": "Quran TV: ‫سورة يوسف عبد الباسط عبد الصمد | 🌟 FREE IPTV WORLD 🌟",
+    "language": "arabic",
+    "groups": [],
+    "raw_group": "",
+    "logo": "",
+    "primary_url": "http://fastopen.live:8080/filipesoeiro83/vi9sWg8ARS/130234",
+    "alternates": [],
+    "source_file": "FIW_1792646525_1_d0d9b2_Hunter_7E3A.m3u",
+    "health_status": "not_checked",
+    "health_checked_urls": 0,
+    "health_promoted": false
+  },
+  {
+    "id": "dragon_arabic_717a8097959f",
+    "name": "يوسف بن نوح احمد Yousef Bin Noah Ahmad ARB",
+    "original_name": "يوسف بن نوح احمد Yousef Bin Noah Ahmad ARB | 🌟 FREE IPTV WORLD 🌟",
+    "language": "arabic",
+    "groups": [],
+    "raw_group": "",
+    "logo": "",
+    "primary_url": "http://fastopen.live:8080/filipesoeiro83/vi9sWg8ARS/130233",
+    "alternates": [],
+    "source_file": "FIW_1792646525_1_d0d9b2_Hunter_7E3A.m3u",
+    "health_status": "not_checked",
+    "health_checked_urls": 0,
+    "health_promoted": false
+  },
+  {
+    "id": "dragon_arabic_e4c374ad2bc1",
+    "name": "عبدالله البريمي Abdullah Al-Burimi ARB",
+    "original_name": "عبدالله البريمي Abdullah Al-Burimi ARB | 🌟 FREE IPTV WORLD 🌟",
+    "language": "arabic",
+    "groups": [],
+    "raw_group": "",
+    "logo": "",
+    "primary_url": "http://fastopen.live:8080/filipesoeiro83/vi9sWg8ARS/130232",
+    "alternates": [],
+    "source_file": "FIW_1792646525_1_d0d9b2_Hunter_7E3A.m3u",
+    "health_status": "not_checked",
+    "health_checked_urls": 0,
+    "health_promoted": false
+  },
+  {
+    "id": "dragon_arabic_50dbd4ff8059",
+    "name": "سعيد الغامدي ARB",
+    "original_name": "سعيد الغامدي ARB | 🌟 FREE IPTV WORLD 🌟",
+    "language": "arabic",
+    "groups": [],
+    "raw_group": "",
+    "logo": "",
+    "primary_url": "http://fastopen.live:8080/filipesoeiro83/vi9sWg8ARS/130231",
+    "alternates": [],
+    "source_file": "FIW_1792646525_1_d0d9b2_Hunter_7E3A.m3u",
+    "health_status": "not_checked",
+    "health_checked_urls": 0,
+    "health_promoted": false
+  },
+  {
+    "id": "dragon_arabic_3f941c4cf63b",
+    "name": "سورة يوسف للشيخ خالد الجليل ARB",
+    "original_name": "سورة يوسف للشيخ خالد الجليل ARB | 🌟 FREE IPTV WORLD 🌟",
+    "language": "arabic",
+    "groups": [],
+    "raw_group": "",
+    "logo": "",
+    "primary_url": "http://fastopen.live:8080/filipesoeiro83/vi9sWg8ARS/130230",
+    "alternates": [],
+    "source_file": "FIW_1792646525_1_d0d9b2_Hunter_7E3A.m3u",
+    "health_status": "not_checked",
+    "health_checked_urls": 0,
+    "health_promoted": false
+  },
+  {
+    "id": "dragon_arabic_975ca25794d8",
+    "name": "منصور السالمي ARB",
+    "original_name": "منصور السالمي ARB | 🌟 FREE IPTV WORLD 🌟",
+    "language": "arabic",
+    "groups": [],
+    "raw_group": "",
+    "logo": "",
+    "primary_url": "http://fastopen.live:8080/filipesoeiro83/vi9sWg8ARS/130229",
+    "alternates": [],
+    "source_file": "FIW_1792646525_1_d0d9b2_Hunter_7E3A.m3u",
+    "health_status": "not_checked",
+    "health_checked_urls": 0,
+    "health_promoted": false
+  },
+  {
+    "id": "dragon_arabic_4fdb576ad994",
+    "name": "Quran TV عبدالرحمن مسعد ARB",
+    "original_name": "Quran TV عبدالرحمن مسعد ARB | 🌟 FREE IPTV WORLD 🌟",
+    "language": "arabic",
+    "groups": [],
+    "raw_group": "",
+    "logo": "",
+    "primary_url": "http://fastopen.live:8080/filipesoeiro83/vi9sWg8ARS/130228",
+    "alternates": [],
+    "source_file": "FIW_1792646525_1_d0d9b2_Hunter_7E3A.m3u",
+    "health_status": "not_checked",
+    "health_checked_urls": 0,
+    "health_promoted": false
+  },
+  {
+    "id": "dragon_arabic_6eaf30fdeaf5",
+    "name": "شيرزاد عبد الرحم Shirazad Abdurrahman ARB",
+    "original_name": "شيرزاد عبد الرحم Shirazad Abdurrahman ARB | 🌟 FREE IPTV WORLD 🌟",
+    "language": "arabic",
+    "groups": [],
+    "raw_group": "",
+    "logo": "",
+    "primary_url": "http://fastopen.live:8080/filipesoeiro83/vi9sWg8ARS/130227",
+    "alternates": [],
+    "source_file": "FIW_1792646525_1_d0d9b2_Hunter_7E3A.m3u",
+    "health_status": "not_checked",
+    "health_checked_urls": 0,
+    "health_promoted": false
+  },
+  {
+    "id": "dragon_arabic_48d6e177d055",
+    "name": "سورة الكهف نوران الاكرم ARB",
+    "original_name": "سورة الكهف نوران الاكرم ARB | 🌟 FREE IPTV WORLD 🌟",
+    "language": "arabic",
+    "groups": [],
+    "raw_group": "",
+    "logo": "",
+    "primary_url": "http://fastopen.live:8080/filipesoeiro83/vi9sWg8ARS/130225",
+    "alternates": [],
+    "source_file": "FIW_1792646525_1_d0d9b2_Hunter_7E3A.m3u",
+    "health_status": "not_checked",
+    "health_checked_urls": 0,
+    "health_promoted": false
+  },
+  {
+    "id": "dragon_arabic_1c484b7a6707",
+    "name": "سعود الشريم Saud Al Shuraim ARB",
+    "original_name": "سعود الشريم Saud Al Shuraim ARB | 🌟 FREE IPTV WORLD 🌟",
+    "language": "arabic",
+    "groups": [],
+    "raw_group": "",
+    "logo": "",
+    "primary_url": "http://fastopen.live:8080/filipesoeiro83/vi9sWg8ARS/130224",
+    "alternates": [],
+    "source_file": "FIW_1792646525_1_d0d9b2_Hunter_7E3A.m3u",
+    "health_status": "not_checked",
+    "health_checked_urls": 0,
+    "health_promoted": false
+  },
+  {
+    "id": "dragon_arabic_16b3970439fa",
+    "name": "عادل ريان Adel Rayyan ARB",
+    "original_name": "عادل ريان Adel Rayyan ARB | 🌟 FREE IPTV WORLD 🌟",
+    "language": "arabic",
+    "groups": [],
+    "raw_group": "",
+    "logo": "",
+    "primary_url": "http://fastopen.live:8080/filipesoeiro83/vi9sWg8ARS/130222",
+    "alternates": [],
+    "source_file": "FIW_1792646525_1_d0d9b2_Hunter_7E3A.m3u",
+    "health_status": "not_checked",
+    "health_checked_urls": 0,
+    "health_promoted": false
+  },
+  {
+    "id": "dragon_arabic_6179178690c2",
+    "name": "هاني الرفاعي Hani Alrefai ABR",
+    "original_name": "هاني الرفاعي Hani Alrefai ABR | 🌟 FREE IPTV WORLD 🌟",
+    "language": "arabic",
+    "groups": [],
+    "raw_group": "",
+    "logo": "",
+    "primary_url": "http://fastopen.live:8080/filipesoeiro83/vi9sWg8ARS/130221",
+    "alternates": [],
+    "source_file": "FIW_1792646525_1_d0d9b2_Hunter_7E3A.m3u",
+    "health_status": "not_checked",
+    "health_checked_urls": 0,
+    "health_promoted": false
+  },
+  {
+    "id": "dragon_arabic_052f39a6467f",
+    "name": "Quran TV سورة البقرة للقارئ اسلام صبحى ARB",
+    "original_name": "Quran TV سورة البقرة للقارئ اسلام صبحى ARB | 🌟 FREE IPTV WORLD 🌟",
+    "language": "arabic",
+    "groups": [],
+    "raw_group": "",
+    "logo": "",
+    "primary_url": "http://fastopen.live:8080/filipesoeiro83/vi9sWg8ARS/130220",
+    "alternates": [],
+    "source_file": "FIW_1792646525_1_d0d9b2_Hunter_7E3A.m3u",
+    "health_status": "not_checked",
+    "health_checked_urls": 0,
+    "health_promoted": false
+  },
+  {
+    "id": "dragon_arabic_f7b1af8516e0",
+    "name": "عبدالباسط عبدالصمد Abdul Basit Abdul Samad ARB",
+    "original_name": "عبدالباسط عبدالصمد Abdul Basit Abdul Samad ARB | 🌟 FREE IPTV WORLD 🌟",
+    "language": "arabic",
+    "groups": [],
+    "raw_group": "",
+    "logo": "",
+    "primary_url": "http://fastopen.live:8080/filipesoeiro83/vi9sWg8ARS/130219",
+    "alternates": [],
+    "source_file": "FIW_1792646525_1_d0d9b2_Hunter_7E3A.m3u",
+    "health_status": "not_checked",
+    "health_checked_urls": 0,
+    "health_promoted": false
+  },
+  {
+    "id": "dragon_arabic_d0e6b0458a0b",
+    "name": "ياسر الدوسري Yasser Al-Dosari",
+    "original_name": "ياسر الدوسري Yasser Al-Dosari | 🌟 FREE IPTV WORLD 🌟",
+    "language": "arabic",
+    "groups": [],
+    "raw_group": "",
+    "logo": "",
+    "primary_url": "http://fastopen.live:8080/filipesoeiro83/vi9sWg8ARS/130217",
+    "alternates": [],
+    "source_file": "FIW_1792646525_1_d0d9b2_Hunter_7E3A.m3u",
+    "health_status": "not_checked",
+    "health_checked_urls": 0,
+    "health_promoted": false
+  },
+  {
+    "id": "dragon_arabic_79794660ed3d",
+    "name": "عبدالله البعيجان Abdullah Al Buaijan ARB",
+    "original_name": "عبدالله البعيجان Abdullah Al Buaijan ARB | 🌟 FREE IPTV WORLD 🌟",
+    "language": "arabic",
+    "groups": [],
+    "raw_group": "",
+    "logo": "",
+    "primary_url": "http://fastopen.live:8080/filipesoeiro83/vi9sWg8ARS/130216",
+    "alternates": [],
+    "source_file": "FIW_1792646525_1_d0d9b2_Hunter_7E3A.m3u",
+    "health_status": "not_checked",
+    "health_checked_urls": 0,
+    "health_promoted": false
+  },
+  {
+    "id": "dragon_arabic_7af265ab8a16",
+    "name": "========== ARB MBC ==========",
+    "original_name": "========== ARB MBC ========== | 🌟 FREE IPTV WORLD 🌟",
+    "language": "arabic",
+    "groups": [],
+    "raw_group": "",
+    "logo": "",
+    "primary_url": "http://fastopen.live:8080/filipesoeiro83/vi9sWg8ARS/24405",
+    "alternates": [],
+    "source_file": "FIW_1792646525_1_d0d9b2_Hunter_7E3A.m3u",
+    "health_status": "not_checked",
+    "health_checked_urls": 0,
+    "health_promoted": false
+  },
+  {
+    "id": "dragon_arabic_779b91b4eecb",
+    "name": "========== ARB MBC Sport ==========",
+    "original_name": "========== ARB MBC Sport ========== | 🌟 FREE IPTV WORLD 🌟",
+    "language": "arabic",
+    "groups": [
+      "sports"
+    ],
+    "raw_group": "",
+    "logo": "",
+    "primary_url": "http://fastopen.live:8080/filipesoeiro83/vi9sWg8ARS/24407",
+    "alternates": [],
+    "source_file": "FIW_1792646525_1_d0d9b2_Hunter_7E3A.m3u",
+    "health_status": "not_checked",
+    "health_checked_urls": 0,
+    "health_promoted": false
+  },
+  {
+    "id": "dragon_arabic_6e7c1662edc2",
+    "name": "========== ARB Rotana ==========",
+    "original_name": "========== ARB Rotana ========== | 🌟 FREE IPTV WORLD 🌟",
+    "language": "arabic",
+    "groups": [],
+    "raw_group": "",
+    "logo": "",
+    "primary_url": "http://fastopen.live:8080/filipesoeiro83/vi9sWg8ARS/24404",
+    "alternates": [],
+    "source_file": "FIW_1792646525_1_d0d9b2_Hunter_7E3A.m3u",
+    "health_status": "not_checked",
+    "health_checked_urls": 0,
+    "health_promoted": false
+  },
+  {
+    "id": "dragon_arabic_af62cdcb2d83",
+    "name": "HARVEST TV ARABIA MY",
+    "original_name": "HARVEST TV ARABIA MY | 🌟 FREE IPTV WORLD 🌟",
+    "language": "arabic",
+    "groups": [],
+    "raw_group": "",
+    "logo": "",
+    "primary_url": "http://fastopen.live:8080/filipesoeiro83/vi9sWg8ARS/29538",
+    "alternates": [],
+    "source_file": "FIW_1792646525_1_d0d9b2_Hunter_7E3A.m3u",
+    "health_status": "not_checked",
+    "health_checked_urls": 0,
+    "health_promoted": false
+  },
+  {
+    "id": "dragon_arabic_2d0b25ab13eb",
+    "name": "AR | LITTLE ROCK | FOX KLRT VIP US",
+    "original_name": "AR | LITTLE ROCK | FOX KLRT VIP US | 🌟 FREE IPTV WORLD 🌟",
+    "language": "arabic",
+    "groups": [],
+    "raw_group": "",
+    "logo": "",
+    "primary_url": "http://fastopen.live:8080/ix3gzHbpGm/GKD9eTN6Ln/95581",
+    "alternates": [
+      "http://fastopen.live:8080/filipesoeiro83/vi9sWg8ARS/95581"
+    ],
+    "source_file": "FIW_1792646510_1_1873d1_Hunter_1A0F.m3u",
+    "health_status": "not_checked",
+    "health_checked_urls": 0,
+    "health_promoted": false
+  },
+  {
+    "id": "dragon_arabic_67609f1a05d1",
+    "name": "MA | BOSTON | FOX WFXT VIP US",
+    "original_name": "MA | BOSTON | FOX WFXT VIP US | 🌟 FREE IPTV WORLD 🌟",
+    "language": "arabic",
+    "groups": [],
+    "raw_group": "",
+    "logo": "",
+    "primary_url": "http://fastopen.live:8080/ix3gzHbpGm/GKD9eTN6Ln/95541",
+    "alternates": [
+      "http://fastopen.live:8080/filipesoeiro83/vi9sWg8ARS/95541"
+    ],
+    "source_file": "FIW_1792646510_1_1873d1_Hunter_1A0F.m3u",
+    "health_status": "not_checked",
+    "health_checked_urls": 0,
+    "health_promoted": false
+  },
+  {
+    "id": "dragon_arabic_9a14e57b49e7",
+    "name": "MA | SPRINGFIELD | FOX WGGB VIP US",
+    "original_name": "MA | SPRINGFIELD | FOX WGGB VIP US | 🌟 FREE IPTV WORLD 🌟",
+    "language": "arabic",
+    "groups": [],
+    "raw_group": "",
+    "logo": "",
+    "primary_url": "http://fastopen.live:8080/ix3gzHbpGm/GKD9eTN6Ln/95540",
+    "alternates": [
+      "http://fastopen.live:8080/filipesoeiro83/vi9sWg8ARS/95540"
+    ],
+    "source_file": "FIW_1792646510_1_1873d1_Hunter_1A0F.m3u",
+    "health_status": "not_checked",
+    "health_checked_urls": 0,
+    "health_promoted": false
+  },
+  {
+    "id": "dragon_arabic_9e50adc38b38",
+    "name": "SD | RAPID CITY | FOX KVEN VIP US",
+    "original_name": "SD | RAPID CITY | FOX KVEN VIP US | 🌟 FREE IPTV WORLD 🌟",
+    "language": "arabic",
+    "groups": [],
+    "raw_group": "",
+    "logo": "",
+    "primary_url": "http://fastopen.live:8080/ix3gzHbpGm/GKD9eTN6Ln/95504",
+    "alternates": [
+      "http://fastopen.live:8080/filipesoeiro83/vi9sWg8ARS/95504"
+    ],
+    "source_file": "FIW_1792646510_1_1873d1_Hunter_1A0F.m3u",
+    "health_status": "not_checked",
+    "health_checked_urls": 0,
+    "health_promoted": false
+  },
+  {
+    "id": "dragon_arabic_f1789e117091",
+    "name": "TN | KNOXVILLE | FOX WTNZ VIP US",
+    "original_name": "TN | KNOXVILLE | FOX WTNZ VIP US | 🌟 FREE IPTV WORLD 🌟",
+    "language": "arabic",
+    "groups": [],
+    "raw_group": "",
+    "logo": "",
+    "primary_url": "http://fastopen.live:8080/ix3gzHbpGm/GKD9eTN6Ln/95503",
+    "alternates": [
+      "http://fastopen.live:8080/filipesoeiro83/vi9sWg8ARS/95503"
+    ],
+    "source_file": "FIW_1792646510_1_1873d1_Hunter_1A0F.m3u",
+    "health_status": "not_checked",
+    "health_checked_urls": 0,
+    "health_promoted": false
+  },
+  {
+    "id": "dragon_arabic_deb0e517d63a",
+    "name": "TN | MEMPHIS | FOX WHBQ VIP US",
+    "original_name": "TN | MEMPHIS | FOX WHBQ VIP US | 🌟 FREE IPTV WORLD 🌟",
+    "language": "arabic",
+    "groups": [],
+    "raw_group": "",
+    "logo": "",
+    "primary_url": "http://fastopen.live:8080/ix3gzHbpGm/GKD9eTN6Ln/95502",
+    "alternates": [
+      "http://fastopen.live:8080/filipesoeiro83/vi9sWg8ARS/95502"
+    ],
+    "source_file": "FIW_1792646510_1_1873d1_Hunter_1A0F.m3u",
+    "health_status": "not_checked",
+    "health_checked_urls": 0,
+    "health_promoted": false
+  },
+  {
+    "id": "dragon_arabic_b5560d173c18",
+    "name": "TN | NASHVILLE | FOX WZTV VIP US",
+    "original_name": "TN | NASHVILLE | FOX WZTV VIP US | 🌟 FREE IPTV WORLD 🌟",
+    "language": "arabic",
+    "groups": [],
+    "raw_group": "",
+    "logo": "",
+    "primary_url": "http://fastopen.live:8080/ix3gzHbpGm/GKD9eTN6Ln/95501",
+    "alternates": [
+      "http://fastopen.live:8080/filipesoeiro83/vi9sWg8ARS/95501"
+    ],
+    "source_file": "FIW_1792646510_1_1873d1_Hunter_1A0F.m3u",
+    "health_status": "not_checked",
+    "health_checked_urls": 0,
+    "health_promoted": false
+  },
+  {
+    "id": "dragon_arabic_7bfe1bfc3825",
+    "name": "AR | LITTLE ROCK | CBS KTHV VIP US",
+    "original_name": "AR | LITTLE ROCK | CBS KTHV VIP US | 🌟 FREE IPTV WORLD 🌟",
+    "language": "arabic",
+    "groups": [],
+    "raw_group": "",
+    "logo": "",
+    "primary_url": "http://fastopen.live:8080/ix3gzHbpGm/GKD9eTN6Ln/95476",
+    "alternates": [
+      "http://fastopen.live:8080/filipesoeiro83/vi9sWg8ARS/95476"
+    ],
+    "source_file": "FIW_1792646510_1_1873d1_Hunter_1A0F.m3u",
+    "health_status": "not_checked",
+    "health_checked_urls": 0,
+    "health_promoted": false
+  },
+  {
+    "id": "dragon_arabic_4b9c0fcc5ab7",
+    "name": "MA | BOSTON | CBS WBZ VIP US",
+    "original_name": "MA | BOSTON | CBS WBZ VIP US | 🌟 FREE IPTV WORLD 🌟",
+    "language": "arabic",
+    "groups": [],
+    "raw_group": "",
+    "logo": "",
+    "primary_url": "http://fastopen.live:8080/ix3gzHbpGm/GKD9eTN6Ln/95432",
+    "alternates": [
+      "http://fastopen.live:8080/filipesoeiro83/vi9sWg8ARS/95432"
+    ],
+    "source_file": "FIW_1792646510_1_1873d1_Hunter_1A0F.m3u",
+    "health_status": "not_checked",
+    "health_checked_urls": 0,
+    "health_promoted": false
+  },
+  {
+    "id": "dragon_arabic_b3e220261896",
+    "name": "MA | SPRINGFIELD | CBS WSHM VIP US",
+    "original_name": "MA | SPRINGFIELD | CBS WSHM VIP US | 🌟 FREE IPTV WORLD 🌟",
+    "language": "arabic",
+    "groups": [],
+    "raw_group": "",
+    "logo": "",
+    "primary_url": "http://fastopen.live:8080/ix3gzHbpGm/GKD9eTN6Ln/95431",
+    "alternates": [
+      "http://fastopen.live:8080/filipesoeiro83/vi9sWg8ARS/95431"
+    ],
+    "source_file": "FIW_1792646510_1_1873d1_Hunter_1A0F.m3u",
+    "health_status": "not_checked",
+    "health_checked_urls": 0,
+    "health_promoted": false
+  },
+  {
+    "id": "dragon_arabic_ce60a9337e00",
+    "name": "SD | SIOUX FALLS | CBS KELO VIP US",
+    "original_name": "SD | SIOUX FALLS | CBS KELO VIP US | 🌟 FREE IPTV WORLD 🌟",
+    "language": "arabic",
+    "groups": [],
+    "raw_group": "",
+    "logo": "",
+    "primary_url": "http://fastopen.live:8080/ix3gzHbpGm/GKD9eTN6Ln/95382",
+    "alternates": [
+      "http://fastopen.live:8080/filipesoeiro83/vi9sWg8ARS/95382"
+    ],
+    "source_file": "FIW_1792646510_1_1873d1_Hunter_1A0F.m3u",
+    "health_status": "not_checked",
+    "health_checked_urls": 0,
+    "health_promoted": false
+  },
+  {
+    "id": "dragon_arabic_0732a9b8930f",
+    "name": "TN | CHATTANOOGA | CBS WDEF VIP US",
+    "original_name": "TN | CHATTANOOGA | CBS WDEF VIP US | 🌟 FREE IPTV WORLD 🌟",
+    "language": "arabic",
+    "groups": [],
+    "raw_group": "",
+    "logo": "",
+    "primary_url": "http://fastopen.live:8080/ix3gzHbpGm/GKD9eTN6Ln/95380",
+    "alternates": [
+      "http://fastopen.live:8080/filipesoeiro83/vi9sWg8ARS/95380"
+    ],
+    "source_file": "FIW_1792646510_1_1873d1_Hunter_1A0F.m3u",
+    "health_status": "not_checked",
+    "health_checked_urls": 0,
+    "health_promoted": false
+  },
+  {
+    "id": "dragon_arabic_8ad43e589334",
+    "name": "TN | KNOXVILLE | CBS WVLT VIP US",
+    "original_name": "TN | KNOXVILLE | CBS WVLT VIP US | 🌟 FREE IPTV WORLD 🌟",
+    "language": "arabic",
+    "groups": [],
+    "raw_group": "",
+    "logo": "",
+    "primary_url": "http://fastopen.live:8080/ix3gzHbpGm/GKD9eTN6Ln/95379",
+    "alternates": [
+      "http://fastopen.live:8080/filipesoeiro83/vi9sWg8ARS/95379"
+    ],
+    "source_file": "FIW_1792646510_1_1873d1_Hunter_1A0F.m3u",
+    "health_status": "not_checked",
+    "health_checked_urls": 0,
+    "health_promoted": false
+  },
+  {
+    "id": "dragon_arabic_617f18684f3c",
+    "name": "TN | NASHVILLE | CBS WTVF VIP US",
+    "original_name": "TN | NASHVILLE | CBS WTVF VIP US | 🌟 FREE IPTV WORLD 🌟",
+    "language": "arabic",
+    "groups": [],
+    "raw_group": "",
+    "logo": "",
+    "primary_url": "http://fastopen.live:8080/ix3gzHbpGm/GKD9eTN6Ln/95378",
+    "alternates": [
+      "http://fastopen.live:8080/filipesoeiro83/vi9sWg8ARS/95378"
+    ],
+    "source_file": "FIW_1792646510_1_1873d1_Hunter_1A0F.m3u",
+    "health_status": "not_checked",
+    "health_checked_urls": 0,
+    "health_promoted": false
+  },
+  {
+    "id": "dragon_arabic_846cdbefb080",
+    "name": "AR | FORT SMITH | ABC KHBS VIP US",
+    "original_name": "AR | FORT SMITH | ABC KHBS VIP US | 🌟 FREE IPTV WORLD 🌟",
+    "language": "arabic",
+    "groups": [],
+    "raw_group": "",
+    "logo": "",
+    "primary_url": "http://fastopen.live:8080/ix3gzHbpGm/GKD9eTN6Ln/95351",
+    "alternates": [
+      "http://fastopen.live:8080/filipesoeiro83/vi9sWg8ARS/95351"
+    ],
+    "source_file": "FIW_1792646510_1_1873d1_Hunter_1A0F.m3u",
+    "health_status": "not_checked",
+    "health_checked_urls": 0,
+    "health_promoted": false
+  },
+  {
+    "id": "dragon_arabic_262548ffc51a",
+    "name": "MA | BOSTON | ABC WCVB VIP US",
+    "original_name": "MA | BOSTON | ABC WCVB VIP US | 🌟 FREE IPTV WORLD 🌟",
+    "language": "arabic",
+    "groups": [],
+    "raw_group": "",
+    "logo": "",
+    "primary_url": "http://fastopen.live:8080/ix3gzHbpGm/GKD9eTN6Ln/95322",
+    "alternates": [
+      "http://fastopen.live:8080/filipesoeiro83/vi9sWg8ARS/95322"
+    ],
+    "source_file": "FIW_1792646510_1_1873d1_Hunter_1A0F.m3u",
+    "health_status": "not_checked",
+    "health_checked_urls": 0,
+    "health_promoted": false
+  },
+  {
+    "id": "dragon_arabic_08d2f1da7f6f",
+    "name": "TN | MEMPHIS | ABC WATN VIP US",
+    "original_name": "TN | MEMPHIS | ABC WATN VIP US | 🌟 FREE IPTV WORLD 🌟",
+    "language": "arabic",
+    "groups": [],
+    "raw_group": "",
+    "logo": "",
+    "primary_url": "http://fastopen.live:8080/ix3gzHbpGm/GKD9eTN6Ln/95289",
+    "alternates": [
+      "http://fastopen.live:8080/filipesoeiro83/vi9sWg8ARS/95289"
+    ],
+    "source_file": "FIW_1792646510_1_1873d1_Hunter_1A0F.m3u",
+    "health_status": "not_checked",
+    "health_checked_urls": 0,
+    "health_promoted": false
+  },
+  {
+    "id": "dragon_arabic_513cf7f21d06",
+    "name": "TN | NASHVILLE | ABC WKRN VIP US",
+    "original_name": "TN | NASHVILLE | ABC WKRN VIP US | 🌟 FREE IPTV WORLD 🌟",
+    "language": "arabic",
+    "groups": [],
+    "raw_group": "",
+    "logo": "",
+    "primary_url": "http://fastopen.live:8080/ix3gzHbpGm/GKD9eTN6Ln/95288",
+    "alternates": [
+      "http://fastopen.live:8080/filipesoeiro83/vi9sWg8ARS/95288"
+    ],
+    "source_file": "FIW_1792646510_1_1873d1_Hunter_1A0F.m3u",
     "health_status": "not_checked",
     "health_checked_urls": 0,
     "health_promoted": false
@@ -332,7 +3739,7 @@
     "logo": "",
     "primary_url": "http://ul7satsn.ottclub.xyz/iptv/22LA539HWWB78T/15193/index.m3u8",
     "alternates": [],
-    "source_file": "FIW_1792614118_1_b160d0_Hunter_C69A.m3u",
+    "source_file": "FIW_1792646514_1_3397c0_Hunter_38BE.m3u",
     "health_status": "not_checked",
     "health_checked_urls": 0,
     "health_promoted": false
@@ -347,7 +3754,7 @@
     "logo": "",
     "primary_url": "http://ul7satsn.ottclub.xyz/iptv/22LA539HWWB78T/15195/index.m3u8",
     "alternates": [],
-    "source_file": "FIW_1792614118_1_b160d0_Hunter_C69A.m3u",
+    "source_file": "FIW_1792646514_1_3397c0_Hunter_38BE.m3u",
     "health_status": "not_checked",
     "health_checked_urls": 0,
     "health_promoted": false
@@ -362,7 +3769,7 @@
     "logo": "",
     "primary_url": "http://ul7satsn.ottclub.xyz/iptv/22LA539HWWB78T/15196/index.m3u8",
     "alternates": [],
-    "source_file": "FIW_1792614118_1_b160d0_Hunter_C69A.m3u",
+    "source_file": "FIW_1792646514_1_3397c0_Hunter_38BE.m3u",
     "health_status": "not_checked",
     "health_checked_urls": 0,
     "health_promoted": false
@@ -377,7 +3784,7 @@
     "logo": "",
     "primary_url": "http://ul7satsn.ottclub.xyz/iptv/22LA539HWWB78T/15197/index.m3u8",
     "alternates": [],
-    "source_file": "FIW_1792614118_1_b160d0_Hunter_C69A.m3u",
+    "source_file": "FIW_1792646514_1_3397c0_Hunter_38BE.m3u",
     "health_status": "not_checked",
     "health_checked_urls": 0,
     "health_promoted": false
@@ -392,7 +3799,7 @@
     "logo": "",
     "primary_url": "http://ul7satsn.ottclub.xyz/iptv/22LA539HWWB78T/15198/index.m3u8",
     "alternates": [],
-    "source_file": "FIW_1792614118_1_b160d0_Hunter_C69A.m3u",
+    "source_file": "FIW_1792646514_1_3397c0_Hunter_38BE.m3u",
     "health_status": "not_checked",
     "health_checked_urls": 0,
     "health_promoted": false
@@ -407,7 +3814,22 @@
     "logo": "",
     "primary_url": "http://ul7satsn.ottclub.xyz/iptv/22LA539HWWB78T/15199/index.m3u8",
     "alternates": [],
-    "source_file": "FIW_1792614118_1_b160d0_Hunter_C69A.m3u",
+    "source_file": "FIW_1792646514_1_3397c0_Hunter_38BE.m3u",
+    "health_status": "not_checked",
+    "health_checked_urls": 0,
+    "health_promoted": false
+  },
+  {
+    "id": "dragon_arabic_e276d471ff96",
+    "name": "اذاعة صدى الارز",
+    "original_name": "اذاعة صدى الارز | 🌟 FREE IPTV WORLD 🌟",
+    "language": "arabic",
+    "groups": [],
+    "raw_group": "",
+    "logo": "",
+    "primary_url": "http://iptv.icsnleb.com:25461/12/12/716",
+    "alternates": [],
+    "source_file": "FIW_1792646492_2_311324_Hunter_8DD4.m3u",
     "health_status": "not_checked",
     "health_checked_urls": 0,
     "health_promoted": false
@@ -2435,7 +5857,7 @@
     "primary_url": "http://nordiciptv.co:7070/live/Lena.carlstrom63%40gmail.com/DmA7WB31w1adxTcN/183134.m3u",
     "alternates": [],
     "source_file": "FIW_1792613918_1_1bcbe0_Hunter_7D1A.m3u",
-    "health_status": "reachable",
+    "health_status": "unreachable",
     "health_checked_urls": 1,
     "health_promoted": false
   },
@@ -2579,17 +6001,17 @@
     ],
     "raw_group": "",
     "logo": "",
-    "primary_url": "http://31.43.191.125:8080/Adri_ruiz/azerty34/97149",
+    "primary_url": "http://31.43.191.125:8080/restream/restream/97149",
     "alternates": [
-      "http://31.43.191.125:8080/restream/restream/97149",
+      "http://31.43.191.125:8080/Adri_ruiz/azerty34/97149",
       "http://31.43.191.125:8080/vip6511789659461/c13ef61ee63b/97149",
       "http://31.43.191.125:8080/VIP018681759070417755/wdbqdxjm4nvh/97149",
       "http://nordiciptv.co:7070/live/Lena.carlstrom63%40gmail.com/DmA7WB31w1adxTcN/183143.m3u"
     ],
     "source_file": "FIW_1792613892_2_eeae03_Hunter_1403.m3u",
-    "health_status": "reachable",
-    "health_checked_urls": 2,
-    "health_promoted": true
+    "health_status": "unreachable",
+    "health_checked_urls": 3,
+    "health_promoted": false
   },
   {
     "id": "dragon_arabic_55b7ac5f7721",
@@ -3835,10 +7257,10 @@
     ],
     "raw_group": "",
     "logo": "",
-    "primary_url": "http://31.43.191.125:8080/restream/restream/130867",
+    "primary_url": "http://31.43.191.125:8080/restream/restream/6979",
     "alternates": [
-      "http://31.43.191.125:8080/restream/restream/6979",
       "http://31.43.191.125:8080/Adri_ruiz/azerty34/6979",
+      "http://31.43.191.125:8080/restream/restream/130867",
       "http://31.43.191.125:8080/Adri_ruiz/azerty34/130867",
       "http://31.43.191.125:8080/vip6511789659461/c13ef61ee63b/6979",
       "http://31.43.191.125:8080/vip6511789659461/c13ef61ee63b/130867",
@@ -3847,9 +7269,9 @@
       "http://nordiciptv.co:7070/live/Lena.carlstrom63%40gmail.com/DmA7WB31w1adxTcN/183308.m3u"
     ],
     "source_file": "FIW_1792613892_2_eeae03_Hunter_1403.m3u",
-    "health_status": "reachable",
+    "health_status": "unreachable",
     "health_checked_urls": 3,
-    "health_promoted": true
+    "health_promoted": false
   },
   {
     "id": "dragon_arabic_49ee9f854a78",
@@ -5319,16 +8741,16 @@
     ],
     "raw_group": "",
     "logo": "",
-    "primary_url": "http://31.43.191.125:8080/vip6511789659461/c13ef61ee63b/4112",
+    "primary_url": "http://31.43.191.125:8080/restream/restream/4112",
     "alternates": [
-      "http://31.43.191.125:8080/restream/restream/4112",
       "http://31.43.191.125:8080/Adri_ruiz/azerty34/4112",
+      "http://31.43.191.125:8080/vip6511789659461/c13ef61ee63b/4112",
       "http://31.43.191.125:8080/VIP018681759070417755/wdbqdxjm4nvh/4112"
     ],
     "source_file": "FIW_1792613892_2_eeae03_Hunter_1403.m3u",
-    "health_status": "reachable",
+    "health_status": "unreachable",
     "health_checked_urls": 3,
-    "health_promoted": true
+    "health_promoted": false
   },
   {
     "id": "dragon_arabic_a54ad2c8f487",
@@ -7419,16 +10841,16 @@
     ],
     "raw_group": "",
     "logo": "",
-    "primary_url": "http://31.43.191.125:8080/restream/restream/6398",
+    "primary_url": "http://31.43.191.125:8080/vip6511789659461/c13ef61ee63b/6398",
     "alternates": [
+      "http://31.43.191.125:8080/restream/restream/6398",
       "http://31.43.191.125:8080/Adri_ruiz/azerty34/6398",
-      "http://31.43.191.125:8080/vip6511789659461/c13ef61ee63b/6398",
       "http://31.43.191.125:8080/VIP018681759070417755/wdbqdxjm4nvh/6398"
     ],
     "source_file": "FIW_1792613892_2_eeae03_Hunter_1403.m3u",
-    "health_status": "unreachable",
+    "health_status": "reachable",
     "health_checked_urls": 3,
-    "health_promoted": false
+    "health_promoted": true
   },
   {
     "id": "dragon_arabic_01cc52a6e882",
@@ -8921,10 +12343,10 @@
     ],
     "raw_group": "",
     "logo": "",
-    "primary_url": "http://31.43.191.125:8080/restream/restream/130892",
+    "primary_url": "http://31.43.191.125:8080/restream/restream/6482",
     "alternates": [
-      "http://31.43.191.125:8080/restream/restream/6482",
       "http://31.43.191.125:8080/Adri_ruiz/azerty34/6482",
+      "http://31.43.191.125:8080/restream/restream/130892",
       "http://31.43.191.125:8080/Adri_ruiz/azerty34/130892",
       "http://31.43.191.125:8080/vip6511789659461/c13ef61ee63b/6482",
       "http://31.43.191.125:8080/vip6511789659461/c13ef61ee63b/130892",
@@ -8932,9 +12354,9 @@
       "http://31.43.191.125:8080/VIP018681759070417755/wdbqdxjm4nvh/130892"
     ],
     "source_file": "FIW_1792613892_2_eeae03_Hunter_1403.m3u",
-    "health_status": "reachable",
+    "health_status": "unreachable",
     "health_checked_urls": 3,
-    "health_promoted": true
+    "health_promoted": false
   },
   {
     "id": "dragon_arabic_8b3fe3310e3a",
@@ -17889,16 +21311,16 @@
     ],
     "raw_group": "",
     "logo": "",
-    "primary_url": "http://31.43.191.125:8080/Adri_ruiz/azerty34/6976",
+    "primary_url": "http://31.43.191.125:8080/restream/restream/6976",
     "alternates": [
-      "http://31.43.191.125:8080/restream/restream/6976",
+      "http://31.43.191.125:8080/Adri_ruiz/azerty34/6976",
       "http://31.43.191.125:8080/vip6511789659461/c13ef61ee63b/6976",
       "http://31.43.191.125:8080/VIP018681759070417755/wdbqdxjm4nvh/6976"
     ],
     "source_file": "FIW_1792613892_2_eeae03_Hunter_1403.m3u",
-    "health_status": "reachable",
-    "health_checked_urls": 2,
-    "health_promoted": true
+    "health_status": "unreachable",
+    "health_checked_urls": 3,
+    "health_promoted": false
   },
   {
     "id": "dragon_arabic_bab978fea45c",
@@ -18784,10 +22206,10 @@
     ],
     "raw_group": "",
     "logo": "",
-    "primary_url": "http://31.43.191.125:8080/restream/restream/130869",
+    "primary_url": "http://31.43.191.125:8080/restream/restream/7028",
     "alternates": [
-      "http://31.43.191.125:8080/restream/restream/7028",
       "http://31.43.191.125:8080/Adri_ruiz/azerty34/7028",
+      "http://31.43.191.125:8080/restream/restream/130869",
       "http://31.43.191.125:8080/Adri_ruiz/azerty34/130869",
       "http://31.43.191.125:8080/vip6511789659461/c13ef61ee63b/7028",
       "http://31.43.191.125:8080/vip6511789659461/c13ef61ee63b/130869",
@@ -18795,9 +22217,9 @@
       "http://31.43.191.125:8080/VIP018681759070417755/wdbqdxjm4nvh/130869"
     ],
     "source_file": "FIW_1792613892_2_eeae03_Hunter_1403.m3u",
-    "health_status": "reachable",
+    "health_status": "unreachable",
     "health_checked_urls": 3,
-    "health_promoted": true
+    "health_promoted": false
   },
   {
     "id": "dragon_arabic_d7bb23041eda",
@@ -19668,16 +23090,16 @@
     ],
     "raw_group": "",
     "logo": "",
-    "primary_url": "http://31.43.191.125:8080/Adri_ruiz/azerty34/130191",
+    "primary_url": "http://31.43.191.125:8080/restream/restream/130191",
     "alternates": [
-      "http://31.43.191.125:8080/restream/restream/130191",
+      "http://31.43.191.125:8080/Adri_ruiz/azerty34/130191",
       "http://31.43.191.125:8080/vip6511789659461/c13ef61ee63b/130191",
       "http://31.43.191.125:8080/VIP018681759070417755/wdbqdxjm4nvh/130191"
     ],
     "source_file": "FIW_1792613892_2_eeae03_Hunter_1403.m3u",
-    "health_status": "reachable",
-    "health_checked_urls": 2,
-    "health_promoted": true
+    "health_status": "unreachable",
+    "health_checked_urls": 3,
+    "health_promoted": false
   },
   {
     "id": "dragon_arabic_b04ca84ae419",
@@ -20012,16 +23434,16 @@
     ],
     "raw_group": "",
     "logo": "",
-    "primary_url": "http://31.43.191.125:8080/vip6511789659461/c13ef61ee63b/130209",
+    "primary_url": "http://31.43.191.125:8080/restream/restream/130209",
     "alternates": [
-      "http://31.43.191.125:8080/restream/restream/130209",
       "http://31.43.191.125:8080/Adri_ruiz/azerty34/130209",
+      "http://31.43.191.125:8080/vip6511789659461/c13ef61ee63b/130209",
       "http://31.43.191.125:8080/VIP018681759070417755/wdbqdxjm4nvh/130209"
     ],
     "source_file": "FIW_1792613892_2_eeae03_Hunter_1403.m3u",
-    "health_status": "reachable",
+    "health_status": "unreachable",
     "health_checked_urls": 3,
-    "health_promoted": true
+    "health_promoted": false
   },
   {
     "id": "dragon_arabic_efef63f05180",
@@ -24170,16 +27592,16 @@
     ],
     "raw_group": "",
     "logo": "",
-    "primary_url": "http://31.43.191.125:8080/vip6511789659461/c13ef61ee63b/130436",
+    "primary_url": "http://31.43.191.125:8080/restream/restream/130436",
     "alternates": [
-      "http://31.43.191.125:8080/restream/restream/130436",
       "http://31.43.191.125:8080/Adri_ruiz/azerty34/130436",
+      "http://31.43.191.125:8080/vip6511789659461/c13ef61ee63b/130436",
       "http://31.43.191.125:8080/VIP018681759070417755/wdbqdxjm4nvh/130436"
     ],
     "source_file": "FIW_1792613892_2_eeae03_Hunter_1403.m3u",
-    "health_status": "reachable",
+    "health_status": "unreachable",
     "health_checked_urls": 3,
-    "health_promoted": true
+    "health_promoted": false
   },
   {
     "id": "dragon_arabic_c874f913845b",
@@ -26318,8 +29740,8 @@
       "http://31.43.191.125:8080/VIP018681759070417755/wdbqdxjm4nvh/130564"
     ],
     "source_file": "FIW_1792613892_2_eeae03_Hunter_1403.m3u",
-    "health_status": "reachable",
-    "health_checked_urls": 1,
+    "health_status": "unreachable",
+    "health_checked_urls": 3,
     "health_promoted": false
   },
   {
@@ -27137,8 +30559,8 @@
       "http://31.43.191.125:8080/VIP018681759070417755/wdbqdxjm4nvh/130608"
     ],
     "source_file": "FIW_1792613892_2_eeae03_Hunter_1403.m3u",
-    "health_status": "reachable",
-    "health_checked_urls": 1,
+    "health_status": "unreachable",
+    "health_checked_urls": 3,
     "health_promoted": false
   },
   {
@@ -29494,8 +32916,8 @@
       "http://31.43.191.125:8080/VIP018681759070417755/wdbqdxjm4nvh/130733"
     ],
     "source_file": "FIW_1792613892_2_eeae03_Hunter_1403.m3u",
-    "health_status": "reachable",
-    "health_checked_urls": 1,
+    "health_status": "unreachable",
+    "health_checked_urls": 3,
     "health_promoted": false
   },
   {
@@ -29515,8 +32937,8 @@
       "http://31.43.191.125:8080/VIP018681759070417755/wdbqdxjm4nvh/130734"
     ],
     "source_file": "FIW_1792613892_2_eeae03_Hunter_1403.m3u",
-    "health_status": "reachable",
-    "health_checked_urls": 1,
+    "health_status": "unreachable",
+    "health_checked_urls": 3,
     "health_promoted": false
   },
   {
@@ -29529,16 +32951,16 @@
     ],
     "raw_group": "",
     "logo": "",
-    "primary_url": "http://31.43.191.125:8080/restream/restream/130735",
+    "primary_url": "http://31.43.191.125:8080/vip6511789659461/c13ef61ee63b/130735",
     "alternates": [
+      "http://31.43.191.125:8080/restream/restream/130735",
       "http://31.43.191.125:8080/Adri_ruiz/azerty34/130735",
-      "http://31.43.191.125:8080/vip6511789659461/c13ef61ee63b/130735",
       "http://31.43.191.125:8080/VIP018681759070417755/wdbqdxjm4nvh/130735"
     ],
     "source_file": "FIW_1792613892_2_eeae03_Hunter_1403.m3u",
     "health_status": "reachable",
-    "health_checked_urls": 1,
-    "health_promoted": false
+    "health_checked_urls": 3,
+    "health_promoted": true
   },
   {
     "id": "dragon_arabic_29b27461d6af",
@@ -29550,16 +32972,16 @@
     ],
     "raw_group": "",
     "logo": "",
-    "primary_url": "http://31.43.191.125:8080/restream/restream/130736",
+    "primary_url": "http://31.43.191.125:8080/vip6511789659461/c13ef61ee63b/130736",
     "alternates": [
+      "http://31.43.191.125:8080/restream/restream/130736",
       "http://31.43.191.125:8080/Adri_ruiz/azerty34/130736",
-      "http://31.43.191.125:8080/vip6511789659461/c13ef61ee63b/130736",
       "http://31.43.191.125:8080/VIP018681759070417755/wdbqdxjm4nvh/130736"
     ],
     "source_file": "FIW_1792613892_2_eeae03_Hunter_1403.m3u",
     "health_status": "reachable",
-    "health_checked_urls": 1,
-    "health_promoted": false
+    "health_checked_urls": 3,
+    "health_promoted": true
   },
   {
     "id": "dragon_arabic_b632dee0fd93",
@@ -29592,16 +33014,16 @@
     ],
     "raw_group": "",
     "logo": "",
-    "primary_url": "http://31.43.191.125:8080/restream/restream/130738",
+    "primary_url": "http://31.43.191.125:8080/vip6511789659461/c13ef61ee63b/130738",
     "alternates": [
+      "http://31.43.191.125:8080/restream/restream/130738",
       "http://31.43.191.125:8080/Adri_ruiz/azerty34/130738",
-      "http://31.43.191.125:8080/vip6511789659461/c13ef61ee63b/130738",
       "http://31.43.191.125:8080/VIP018681759070417755/wdbqdxjm4nvh/130738"
     ],
     "source_file": "FIW_1792613892_2_eeae03_Hunter_1403.m3u",
     "health_status": "reachable",
-    "health_checked_urls": 1,
-    "health_promoted": false
+    "health_checked_urls": 3,
+    "health_promoted": true
   },
   {
     "id": "dragon_arabic_e114c7fd3bf5",
@@ -29613,16 +33035,16 @@
     ],
     "raw_group": "",
     "logo": "",
-    "primary_url": "http://31.43.191.125:8080/restream/restream/130740",
+    "primary_url": "http://31.43.191.125:8080/Adri_ruiz/azerty34/130740",
     "alternates": [
-      "http://31.43.191.125:8080/Adri_ruiz/azerty34/130740",
+      "http://31.43.191.125:8080/restream/restream/130740",
       "http://31.43.191.125:8080/vip6511789659461/c13ef61ee63b/130740",
       "http://31.43.191.125:8080/VIP018681759070417755/wdbqdxjm4nvh/130740"
     ],
     "source_file": "FIW_1792613892_2_eeae03_Hunter_1403.m3u",
     "health_status": "reachable",
-    "health_checked_urls": 1,
-    "health_promoted": false
+    "health_checked_urls": 2,
+    "health_promoted": true
   },
   {
     "id": "dragon_arabic_9d41bb643807",
@@ -29653,16 +33075,16 @@
     ],
     "raw_group": "",
     "logo": "",
-    "primary_url": "http://31.43.191.125:8080/restream/restream/130743",
+    "primary_url": "http://31.43.191.125:8080/vip6511789659461/c13ef61ee63b/130743",
     "alternates": [
+      "http://31.43.191.125:8080/restream/restream/130743",
       "http://31.43.191.125:8080/Adri_ruiz/azerty34/130743",
-      "http://31.43.191.125:8080/vip6511789659461/c13ef61ee63b/130743",
       "http://31.43.191.125:8080/VIP018681759070417755/wdbqdxjm4nvh/130743"
     ],
     "source_file": "FIW_1792613892_2_eeae03_Hunter_1403.m3u",
     "health_status": "reachable",
-    "health_checked_urls": 1,
-    "health_promoted": false
+    "health_checked_urls": 3,
+    "health_promoted": true
   },
   {
     "id": "dragon_arabic_6a08519a97d2",
@@ -31346,16 +34768,16 @@
     ],
     "raw_group": "",
     "logo": "",
-    "primary_url": "http://31.43.191.125:8080/restream/restream/130852",
+    "primary_url": "http://31.43.191.125:8080/vip6511789659461/c13ef61ee63b/130852",
     "alternates": [
+      "http://31.43.191.125:8080/restream/restream/130852",
       "http://31.43.191.125:8080/Adri_ruiz/azerty34/130852",
-      "http://31.43.191.125:8080/vip6511789659461/c13ef61ee63b/130852",
       "http://31.43.191.125:8080/VIP018681759070417755/wdbqdxjm4nvh/130852"
     ],
     "source_file": "FIW_1792613892_2_eeae03_Hunter_1403.m3u",
     "health_status": "reachable",
-    "health_checked_urls": 1,
-    "health_promoted": false
+    "health_checked_urls": 3,
+    "health_promoted": true
   },
   {
     "id": "dragon_arabic_502e125a1a0e",
@@ -31367,16 +34789,16 @@
     ],
     "raw_group": "",
     "logo": "",
-    "primary_url": "http://31.43.191.125:8080/restream/restream/130854",
+    "primary_url": "http://31.43.191.125:8080/vip6511789659461/c13ef61ee63b/130854",
     "alternates": [
+      "http://31.43.191.125:8080/restream/restream/130854",
       "http://31.43.191.125:8080/Adri_ruiz/azerty34/130854",
-      "http://31.43.191.125:8080/vip6511789659461/c13ef61ee63b/130854",
       "http://31.43.191.125:8080/VIP018681759070417755/wdbqdxjm4nvh/130854"
     ],
     "source_file": "FIW_1792613892_2_eeae03_Hunter_1403.m3u",
     "health_status": "reachable",
-    "health_checked_urls": 1,
-    "health_promoted": false
+    "health_checked_urls": 3,
+    "health_promoted": true
   },
   {
     "id": "dragon_arabic_c0fc1aa58098",
@@ -31388,16 +34810,16 @@
     ],
     "raw_group": "",
     "logo": "",
-    "primary_url": "http://31.43.191.125:8080/restream/restream/130855",
+    "primary_url": "http://31.43.191.125:8080/vip6511789659461/c13ef61ee63b/130855",
     "alternates": [
+      "http://31.43.191.125:8080/restream/restream/130855",
       "http://31.43.191.125:8080/Adri_ruiz/azerty34/130855",
-      "http://31.43.191.125:8080/vip6511789659461/c13ef61ee63b/130855",
       "http://31.43.191.125:8080/VIP018681759070417755/wdbqdxjm4nvh/130855"
     ],
     "source_file": "FIW_1792613892_2_eeae03_Hunter_1403.m3u",
     "health_status": "reachable",
-    "health_checked_urls": 1,
-    "health_promoted": false
+    "health_checked_urls": 3,
+    "health_promoted": true
   },
   {
     "id": "dragon_arabic_bbf7f0d718af",
@@ -31409,15 +34831,15 @@
     ],
     "raw_group": "",
     "logo": "",
-    "primary_url": "http://31.43.191.125:8080/Adri_ruiz/azerty34/130856",
+    "primary_url": "http://31.43.191.125:8080/vip6511789659461/c13ef61ee63b/130856",
     "alternates": [
       "http://31.43.191.125:8080/restream/restream/130856",
-      "http://31.43.191.125:8080/vip6511789659461/c13ef61ee63b/130856",
+      "http://31.43.191.125:8080/Adri_ruiz/azerty34/130856",
       "http://31.43.191.125:8080/VIP018681759070417755/wdbqdxjm4nvh/130856"
     ],
     "source_file": "FIW_1792613892_2_eeae03_Hunter_1403.m3u",
     "health_status": "reachable",
-    "health_checked_urls": 2,
+    "health_checked_urls": 3,
     "health_promoted": true
   },
   {
@@ -31430,16 +34852,16 @@
     ],
     "raw_group": "",
     "logo": "",
-    "primary_url": "http://31.43.191.125:8080/restream/restream/130862",
+    "primary_url": "http://31.43.191.125:8080/vip6511789659461/c13ef61ee63b/130862",
     "alternates": [
+      "http://31.43.191.125:8080/restream/restream/130862",
       "http://31.43.191.125:8080/Adri_ruiz/azerty34/130862",
-      "http://31.43.191.125:8080/vip6511789659461/c13ef61ee63b/130862",
       "http://31.43.191.125:8080/VIP018681759070417755/wdbqdxjm4nvh/130862"
     ],
     "source_file": "FIW_1792613892_2_eeae03_Hunter_1403.m3u",
     "health_status": "reachable",
-    "health_checked_urls": 1,
-    "health_promoted": false
+    "health_checked_urls": 3,
+    "health_promoted": true
   },
   {
     "id": "dragon_arabic_995f9bad4021",
@@ -31451,16 +34873,16 @@
     ],
     "raw_group": "",
     "logo": "",
-    "primary_url": "http://31.43.191.125:8080/restream/restream/130863",
+    "primary_url": "http://31.43.191.125:8080/vip6511789659461/c13ef61ee63b/130863",
     "alternates": [
+      "http://31.43.191.125:8080/restream/restream/130863",
       "http://31.43.191.125:8080/Adri_ruiz/azerty34/130863",
-      "http://31.43.191.125:8080/vip6511789659461/c13ef61ee63b/130863",
       "http://31.43.191.125:8080/VIP018681759070417755/wdbqdxjm4nvh/130863"
     ],
     "source_file": "FIW_1792613892_2_eeae03_Hunter_1403.m3u",
     "health_status": "reachable",
-    "health_checked_urls": 1,
-    "health_promoted": false
+    "health_checked_urls": 3,
+    "health_promoted": true
   },
   {
     "id": "dragon_arabic_f004705ab947",
@@ -31472,16 +34894,16 @@
     ],
     "raw_group": "",
     "logo": "",
-    "primary_url": "http://31.43.191.125:8080/restream/restream/130864",
+    "primary_url": "http://31.43.191.125:8080/Adri_ruiz/azerty34/130864",
     "alternates": [
-      "http://31.43.191.125:8080/Adri_ruiz/azerty34/130864",
+      "http://31.43.191.125:8080/restream/restream/130864",
       "http://31.43.191.125:8080/vip6511789659461/c13ef61ee63b/130864",
       "http://31.43.191.125:8080/VIP018681759070417755/wdbqdxjm4nvh/130864"
     ],
     "source_file": "FIW_1792613892_2_eeae03_Hunter_1403.m3u",
     "health_status": "reachable",
-    "health_checked_urls": 1,
-    "health_promoted": false
+    "health_checked_urls": 2,
+    "health_promoted": true
   },
   {
     "id": "dragon_arabic_508fa0a5db43",
@@ -31493,16 +34915,16 @@
     ],
     "raw_group": "",
     "logo": "",
-    "primary_url": "http://31.43.191.125:8080/restream/restream/130865",
+    "primary_url": "http://31.43.191.125:8080/Adri_ruiz/azerty34/130865",
     "alternates": [
-      "http://31.43.191.125:8080/Adri_ruiz/azerty34/130865",
+      "http://31.43.191.125:8080/restream/restream/130865",
       "http://31.43.191.125:8080/vip6511789659461/c13ef61ee63b/130865",
       "http://31.43.191.125:8080/VIP018681759070417755/wdbqdxjm4nvh/130865"
     ],
     "source_file": "FIW_1792613892_2_eeae03_Hunter_1403.m3u",
-    "health_status": "unreachable",
-    "health_checked_urls": 3,
-    "health_promoted": false
+    "health_status": "reachable",
+    "health_checked_urls": 2,
+    "health_promoted": true
   },
   {
     "id": "dragon_arabic_a06e119a0ae3",
@@ -31535,16 +34957,16 @@
     ],
     "raw_group": "",
     "logo": "",
-    "primary_url": "http://31.43.191.125:8080/restream/restream/130868",
+    "primary_url": "http://31.43.191.125:8080/vip6511789659461/c13ef61ee63b/130868",
     "alternates": [
+      "http://31.43.191.125:8080/restream/restream/130868",
       "http://31.43.191.125:8080/Adri_ruiz/azerty34/130868",
-      "http://31.43.191.125:8080/vip6511789659461/c13ef61ee63b/130868",
       "http://31.43.191.125:8080/VIP018681759070417755/wdbqdxjm4nvh/130868"
     ],
     "source_file": "FIW_1792613892_2_eeae03_Hunter_1403.m3u",
-    "health_status": "unreachable",
+    "health_status": "reachable",
     "health_checked_urls": 3,
-    "health_promoted": false
+    "health_promoted": true
   },
   {
     "id": "dragon_arabic_fb999d7d2eb0",
@@ -31577,15 +34999,15 @@
     ],
     "raw_group": "",
     "logo": "",
-    "primary_url": "http://31.43.191.125:8080/Adri_ruiz/azerty34/130871",
+    "primary_url": "http://31.43.191.125:8080/vip6511789659461/c13ef61ee63b/130871",
     "alternates": [
       "http://31.43.191.125:8080/restream/restream/130871",
-      "http://31.43.191.125:8080/vip6511789659461/c13ef61ee63b/130871",
+      "http://31.43.191.125:8080/Adri_ruiz/azerty34/130871",
       "http://31.43.191.125:8080/VIP018681759070417755/wdbqdxjm4nvh/130871"
     ],
     "source_file": "FIW_1792613892_2_eeae03_Hunter_1403.m3u",
     "health_status": "reachable",
-    "health_checked_urls": 2,
+    "health_checked_urls": 3,
     "health_promoted": true
   },
   {
@@ -31714,16 +35136,16 @@
     ],
     "raw_group": "",
     "logo": "",
-    "primary_url": "http://31.43.191.125:8080/restream/restream/130886",
+    "primary_url": "http://31.43.191.125:8080/vip6511789659461/c13ef61ee63b/130886",
     "alternates": [
+      "http://31.43.191.125:8080/restream/restream/130886",
       "http://31.43.191.125:8080/Adri_ruiz/azerty34/130886",
-      "http://31.43.191.125:8080/vip6511789659461/c13ef61ee63b/130886",
       "http://31.43.191.125:8080/VIP018681759070417755/wdbqdxjm4nvh/130886"
     ],
     "source_file": "FIW_1792613892_2_eeae03_Hunter_1403.m3u",
     "health_status": "reachable",
-    "health_checked_urls": 1,
-    "health_promoted": false
+    "health_checked_urls": 3,
+    "health_promoted": true
   },
   {
     "id": "dragon_arabic_853790ad07e1",
@@ -31799,8 +35221,8 @@
       "http://31.43.191.125:8080/VIP018681759070417755/wdbqdxjm4nvh/130891"
     ],
     "source_file": "FIW_1792613892_2_eeae03_Hunter_1403.m3u",
-    "health_status": "reachable",
-    "health_checked_urls": 1,
+    "health_status": "unreachable",
+    "health_checked_urls": 3,
     "health_promoted": false
   },
   {
