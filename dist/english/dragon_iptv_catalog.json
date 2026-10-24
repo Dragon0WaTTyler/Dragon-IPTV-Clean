@@ -107,10 +107,10 @@
     ],
     "raw_group": "",
     "logo": "",
-    "primary_url": "http://p1.tomtv.eu:80/TnhnKr0912/938isf9x1i/358823",
+    "primary_url": "http://31.43.191.125:8080/Dani/Dani/1864",
     "alternates": [
-      "http://31.43.191.125:8080/Dani/Dani/1864",
       "http://31.43.191.125:8080/Dani/Dani/146930",
+      "http://p1.tomtv.eu:80/TnhnKr0912/938isf9x1i/358823",
       "http://megatv.cc:8080/live/dubaihasan/jDT6kMSwpQkZ/527158.ts",
       "http://31.43.191.125:8080/vip2371775319895/9265b2325e78/1864",
       "http://31.43.191.125:8080/vip2371775319895/9265b2325e78/146930",
@@ -125,8 +125,8 @@
     ],
     "source_file": "FIW_1792785412_2_b8e325_Hunter_1F7D.m3u",
     "health_status": "reachable",
-    "health_checked_urls": 3,
-    "health_promoted": true
+    "health_checked_urls": 1,
+    "health_promoted": false
   },
   {
     "id": "dragon_english_8b6682e4f0c5",
@@ -158,10 +158,10 @@
     ],
     "raw_group": "",
     "logo": "",
-    "primary_url": "http://31.43.191.125:8080/Dani/Dani/154946",
+    "primary_url": "http://31.43.191.125:8080/Dani/Dani/1871",
     "alternates": [
-      "http://31.43.191.125:8080/Dani/Dani/1871",
       "http://31.43.191.125:8080/Dani/Dani/154947",
+      "http://31.43.191.125:8080/Dani/Dani/154946",
       "http://31.43.191.125:8080/Dani/Dani/146940",
       "http://p1.tomtv.eu:80/TnhnKr0912/938isf9x1i/358982",
       "http://p1.tomtv.eu:80/TnhnKr0912/938isf9x1i/358815",
@@ -193,8 +193,8 @@
     ],
     "source_file": "FIW_1792785389_1_b93340_Hunter_92B6.m3u",
     "health_status": "reachable",
-    "health_checked_urls": 3,
-    "health_promoted": true
+    "health_checked_urls": 1,
+    "health_promoted": false
   },
   {
     "id": "dragon_english_383f821cdb4e",
@@ -206,9 +206,9 @@
     ],
     "raw_group": "",
     "logo": "",
-    "primary_url": "http://31.43.191.125:8080/Dani/Dani/154948",
+    "primary_url": "http://p1.tomtv.eu:80/TnhnKr0912/938isf9x1i/356561",
     "alternates": [
-      "http://p1.tomtv.eu:80/TnhnKr0912/938isf9x1i/356561",
+      "http://31.43.191.125:8080/Dani/Dani/154948",
       "http://megatv.cc:8080/live/dubaihasan/jDT6kMSwpQkZ/260781.ts",
       "http://31.43.191.125:8080/vip2371775319895/9265b2325e78/154948",
       "http://31.43.191.125:8080/VIP0197177635014379/g5j83mt7dgjr/154948",
@@ -217,8 +217,8 @@
     ],
     "source_file": "FIW_1792785412_2_b8e325_Hunter_1F7D.m3u",
     "health_status": "reachable",
-    "health_checked_urls": 1,
-    "health_promoted": false
+    "health_checked_urls": 2,
+    "health_promoted": true
   },
   {
     "id": "dragon_english_ddab297b67ca",
@@ -357,7 +357,7 @@
     "primary_url": "http://p1.tomtv.eu:80/TnhnKr0912/938isf9x1i/358814",
     "alternates": [],
     "source_file": "FIW_1792785412_2_b8e325_Hunter_1F7D.m3u",
-    "health_status": "unreachable",
+    "health_status": "reachable",
     "health_checked_urls": 1,
     "health_promoted": false
   },
@@ -378,8 +378,8 @@
       "http://31.43.191.125:8080/VIP018201759945199995/e4accec30246/25044"
     ],
     "source_file": "FIW_1792819341_1_c0b20d_Hunter_71F9.m3u",
-    "health_status": "unreachable",
-    "health_checked_urls": 3,
+    "health_status": "reachable",
+    "health_checked_urls": 1,
     "health_promoted": false
   },
   {
@@ -392,9 +392,9 @@
     ],
     "raw_group": "",
     "logo": "",
-    "primary_url": "http://31.43.191.125:8080/Dani/Dani/1885",
+    "primary_url": "http://31.43.191.125:8080/Dani/Dani/1933",
     "alternates": [
-      "http://31.43.191.125:8080/Dani/Dani/1933",
+      "http://31.43.191.125:8080/Dani/Dani/1885",
       "http://31.43.191.125:8080/Dani/Dani/156543",
       "http://31.43.191.125:8080/Dani/Dani/147013",
       "http://p1.tomtv.eu:80/TnhnKr0912/938isf9x1i/358671",
@@ -422,9 +422,9 @@
       "http://cdn.ex-yu.net:2095/play/3MabgpX1RPSbTzE_9_cCrGLtkmpEQFvplVPsJ8eD3SA"
     ],
     "source_file": "FIW_1792785389_1_b93340_Hunter_92B6.m3u",
-    "health_status": "reachable",
-    "health_checked_urls": 2,
-    "health_promoted": true
+    "health_status": "unreachable",
+    "health_checked_urls": 3,
+    "health_promoted": false
   },
   {
     "id": "dragon_english_e8c5e4d6074d",
@@ -552,8 +552,8 @@
       "http://31.43.191.125:8080/VIP018201759945199995/e4accec30246/146955"
     ],
     "source_file": "FIW_1792785389_1_b93340_Hunter_92B6.m3u",
-    "health_status": "reachable",
-    "health_checked_urls": 1,
+    "health_status": "unreachable",
+    "health_checked_urls": 3,
     "health_promoted": false
   },
   {
@@ -569,7 +569,7 @@
     "primary_url": "http://caffe.link:25461/65tomislavrajicfrend/pOkeqhfnsB/118733",
     "alternates": [],
     "source_file": "FIW_1792819267_2_425a45_Hunter_98FE.m3u",
-    "health_status": "unreachable",
+    "health_status": "reachable",
     "health_checked_urls": 1,
     "health_promoted": false
   },
@@ -746,7 +746,7 @@
     "primary_url": "http://caffe.link:25461/65tomislavrajicfrend/pOkeqhfnsB/1541",
     "alternates": [],
     "source_file": "FIW_1792819267_2_425a45_Hunter_98FE.m3u",
-    "health_status": "reachable",
+    "health_status": "unreachable",
     "health_checked_urls": 1,
     "health_promoted": false
   },
@@ -760,14 +760,14 @@
     ],
     "raw_group": "UK & USA",
     "logo": "",
-    "primary_url": "http://caffe.link:25461/65tomislavrajicfrend/pOkeqhfnsB/1592",
+    "primary_url": "http://fastopen.live:8080/filipesoeiro83/vi9sWg8ARS/1886",
     "alternates": [
-      "http://fastopen.live:8080/filipesoeiro83/vi9sWg8ARS/1886"
+      "http://caffe.link:25461/65tomislavrajicfrend/pOkeqhfnsB/1592"
     ],
     "source_file": "FIW_1792790356_2_c7a9e8_Hunter_8202.m3u",
-    "health_status": "reachable",
+    "health_status": "unreachable",
     "health_checked_urls": 2,
-    "health_promoted": true
+    "health_promoted": false
   },
   {
     "id": "dragon_english_c6327fb5b9d1",
@@ -1034,18 +1034,18 @@
     ],
     "raw_group": "Doku & Style",
     "logo": "https://tvprofil.com/cdn/200x32/4/img/kanali-logo/national_geographic_logo.png",
-    "primary_url": "http://caffe.link:25461/65tomislavrajicfrend/pOkeqhfnsB/1404",
+    "primary_url": "http://megatv.cc:8080/live/dubaihasan/jDT6kMSwpQkZ/527314.ts",
     "alternates": [
-      "http://megatv.cc:8080/live/dubaihasan/jDT6kMSwpQkZ/527314.ts",
       "http://megatv.cc:8080/live/dubaihasan/jDT6kMSwpQkZ/261194.ts",
+      "http://caffe.link:25461/65tomislavrajicfrend/pOkeqhfnsB/1404",
       "http://caffe.link:25461/65tomislavrajicfrend/pOkeqhfnsB/118791",
       "http://cdn.ex-yu.net:2095/play/3MabgpX1RPSbTzE_9_cCrE-TD-SfE7UAe-TRx5uNmNA",
       "http://cdn.ex-yu.net:2095/play/3MabgpX1RPSbTzE_9_cCrAUd30jkcuLhxdzRFfwI_qI"
     ],
     "source_file": "FIW_1792819267_2_425a45_Hunter_98FE.m3u",
     "health_status": "reachable",
-    "health_checked_urls": 3,
-    "health_promoted": true
+    "health_checked_urls": 1,
+    "health_promoted": false
   },
   {
     "id": "dragon_english_162d8e1df050",
@@ -1738,17 +1738,17 @@
     ],
     "raw_group": "",
     "logo": "",
-    "primary_url": "http://31.43.191.125:8080/VIP0197177635014379/g5j83mt7dgjr/25020",
+    "primary_url": "http://31.43.191.125:8080/vip2371775319895/9265b2325e78/25020",
     "alternates": [
-      "http://31.43.191.125:8080/vip2371775319895/9265b2325e78/25020",
+      "http://31.43.191.125:8080/VIP0197177635014379/g5j83mt7dgjr/25020",
       "http://31.43.191.125:8080/VIP019671755417939561/81000268d7db/25020",
       "http://31.43.191.125:8080/VIP018201759945199995/e4accec30246/25020",
       "http://cdn.ex-yu.net:2095/play/3MabgpX1RPSbTzE_9_cCrCTqYyDT_jsGUU4RLe8XM64"
     ],
     "source_file": "FIW_1792819341_1_c0b20d_Hunter_71F9.m3u",
-    "health_status": "reachable",
-    "health_checked_urls": 2,
-    "health_promoted": true
+    "health_status": "unreachable",
+    "health_checked_urls": 3,
+    "health_promoted": false
   },
   {
     "id": "dragon_english_de11381175f9",
@@ -2426,8 +2426,8 @@
       "http://vewora.com:8080/live/700416vib/bg%4053%217%21%21U/ede59ca4-6b78-49b8-9be3-5a9c3615a867.m3u"
     ],
     "source_file": "FIW_1792819267_2_425a45_Hunter_98FE.m3u",
-    "health_status": "unreachable",
-    "health_checked_urls": 3,
+    "health_status": "reachable",
+    "health_checked_urls": 1,
     "health_promoted": false
   },
   {
@@ -2440,10 +2440,10 @@
     ],
     "raw_group": "",
     "logo": "",
-    "primary_url": "http://p1.tomtv.eu:80/TnhnKr0912/938isf9x1i/358976",
+    "primary_url": "http://31.43.191.125:8080/Dani/Dani/1865",
     "alternates": [
-      "http://31.43.191.125:8080/Dani/Dani/1865",
       "http://31.43.191.125:8080/Dani/Dani/154698",
+      "http://p1.tomtv.eu:80/TnhnKr0912/938isf9x1i/358976",
       "http://p1.tomtv.eu:80/TnhnKr0912/938isf9x1i/358821",
       "http://31.43.191.125:8080/vip2371775319895/9265b2325e78/5404",
       "http://31.43.191.125:8080/vip2371775319895/9265b2325e78/1865",
@@ -2460,8 +2460,8 @@
     ],
     "source_file": "FIW_1792785412_2_b8e325_Hunter_1F7D.m3u",
     "health_status": "reachable",
-    "health_checked_urls": 3,
-    "health_promoted": true
+    "health_checked_urls": 1,
+    "health_promoted": false
   },
   {
     "id": "dragon_english_105a41a4e1fb",
@@ -2775,8 +2775,8 @@
       "http://31.43.191.125:8080/VIP018201759945199995/e4accec30246/154763"
     ],
     "source_file": "FIW_1792785412_2_b8e325_Hunter_1F7D.m3u",
-    "health_status": "unreachable",
-    "health_checked_urls": 3,
+    "health_status": "reachable",
+    "health_checked_urls": 1,
     "health_promoted": false
   },
   {
@@ -3350,10 +3350,10 @@
     ],
     "raw_group": "Doku & Style",
     "logo": "https://cdn-0.tvprofil.com/img/kanali-logo/Discovery_Channel_logo.png",
-    "primary_url": "http://p1.tomtv.eu:80/TnhnKr0912/938isf9x1i/358705",
+    "primary_url": "http://31.43.191.125:8080/Dani/Dani/1759",
     "alternates": [
-      "http://31.43.191.125:8080/Dani/Dani/1759",
       "http://31.43.191.125:8080/Dani/Dani/155072",
+      "http://p1.tomtv.eu:80/TnhnKr0912/938isf9x1i/358705",
       "http://megatv.cc:8080/live/dubaihasan/jDT6kMSwpQkZ/527317.ts",
       "http://31.43.191.125:8080/vip2371775319895/9265b2325e78/5447",
       "http://31.43.191.125:8080/vip2371775319895/9265b2325e78/1759",
@@ -3374,8 +3374,8 @@
     ],
     "source_file": "FIW_1792819267_2_425a45_Hunter_98FE.m3u",
     "health_status": "reachable",
-    "health_checked_urls": 3,
-    "health_promoted": true
+    "health_checked_urls": 1,
+    "health_promoted": false
   },
   {
     "id": "dragon_english_751ecb483392",
@@ -4029,10 +4029,10 @@
     ],
     "raw_group": "",
     "logo": "",
-    "primary_url": "http://31.43.191.125:8080/Dani/Dani/155854",
+    "primary_url": "http://p1.tomtv.eu:80/TnhnKr0912/938isf9x1i/358711",
     "alternates": [
       "http://31.43.191.125:8080/Dani/Dani/1926",
-      "http://p1.tomtv.eu:80/TnhnKr0912/938isf9x1i/358711",
+      "http://31.43.191.125:8080/Dani/Dani/155854",
       "http://p1.tomtv.eu:80/TnhnKr0912/938isf9x1i/358640",
       "http://p1.tomtv.eu:80/TnhnKr0912/938isf9x1i/356472",
       "http://31.43.191.125:8080/vip2371775319895/9265b2325e78/5476",
@@ -4051,7 +4051,7 @@
     ],
     "source_file": "FIW_1792785412_2_b8e325_Hunter_1F7D.m3u",
     "health_status": "reachable",
-    "health_checked_urls": 2,
+    "health_checked_urls": 3,
     "health_promoted": true
   },
   {
@@ -4950,9 +4950,9 @@
     ],
     "raw_group": "Doku & Style",
     "logo": "http://5.189.149.253/logo/Dokumentarni/NationalGeoWildHD.png",
-    "primary_url": "http://31.43.191.125:8080/Dani/Dani/155857",
+    "primary_url": "http://31.43.191.125:8080/Dani/Dani/1766",
     "alternates": [
-      "http://31.43.191.125:8080/Dani/Dani/1766",
+      "http://31.43.191.125:8080/Dani/Dani/155857",
       "http://p1.tomtv.eu:80/TnhnKr0912/938isf9x1i/359126",
       "http://p1.tomtv.eu:80/TnhnKr0912/938isf9x1i/358710",
       "http://p1.tomtv.eu:80/TnhnKr0912/938isf9x1i/356471",
@@ -4978,8 +4978,8 @@
     ],
     "source_file": "FIW_1792819267_2_425a45_Hunter_98FE.m3u",
     "health_status": "reachable",
-    "health_checked_urls": 2,
-    "health_promoted": true
+    "health_checked_urls": 1,
+    "health_promoted": false
   },
   {
     "id": "dragon_english_6b6827ba45a6",
@@ -7403,9 +7403,9 @@
     ],
     "raw_group": "",
     "logo": "",
-    "primary_url": "http://31.43.191.125:8080/Dani/Dani/1760",
+    "primary_url": "http://31.43.191.125:8080/Dani/Dani/146627",
     "alternates": [
-      "http://31.43.191.125:8080/Dani/Dani/146627",
+      "http://31.43.191.125:8080/Dani/Dani/1760",
       "http://p1.tomtv.eu:80/TnhnKr0912/938isf9x1i/358638",
       "http://megatv.cc:8080/live/dubaihasan/jDT6kMSwpQkZ/527318.ts",
       "http://31.43.191.125:8080/vip2371775319895/9265b2325e78/1760",
@@ -7419,9 +7419,9 @@
       "http://cdn.ex-yu.net:2095/play/3MabgpX1RPSbTzE_9_cCrIfspGq99zSBv8sKchDQYZs"
     ],
     "source_file": "FIW_1792785389_1_b93340_Hunter_92B6.m3u",
-    "health_status": "unreachable",
-    "health_checked_urls": 3,
-    "health_promoted": false
+    "health_status": "reachable",
+    "health_checked_urls": 2,
+    "health_promoted": true
   },
   {
     "id": "dragon_english_cc77423e0349",
@@ -7477,9 +7477,9 @@
     ],
     "raw_group": "Doku & Style",
     "logo": "https://cdn-0.tvprofil.com/img/kanali-logo/investigation_discovery_logo.png",
-    "primary_url": "http://31.43.191.125:8080/Dani/Dani/155655",
+    "primary_url": "http://31.43.191.125:8080/Dani/Dani/1764",
     "alternates": [
-      "http://31.43.191.125:8080/Dani/Dani/1764",
+      "http://31.43.191.125:8080/Dani/Dani/155655",
       "http://p1.tomtv.eu:80/TnhnKr0912/938isf9x1i/358668",
       "http://caffe.link:25461/65tomislavrajicfrend/pOkeqhfnsB/1392",
       "http://31.43.191.125:8080/vip2371775319895/9265b2325e78/1764",
@@ -7493,8 +7493,8 @@
     ],
     "source_file": "FIW_1792819267_2_425a45_Hunter_98FE.m3u",
     "health_status": "reachable",
-    "health_checked_urls": 2,
-    "health_promoted": true
+    "health_checked_urls": 1,
+    "health_promoted": false
   },
   {
     "id": "dragon_english_3c467cbec769",
@@ -9603,18 +9603,18 @@
     ],
     "raw_group": "",
     "logo": "",
-    "primary_url": "http://31.43.191.125:8080/vip2371775319895/9265b2325e78/1856",
+    "primary_url": "http://31.43.191.125:8080/Dani/Dani/1856",
     "alternates": [
-      "http://31.43.191.125:8080/Dani/Dani/1856",
       "http://p1.tomtv.eu:80/TnhnKr0912/938isf9x1i/358811",
+      "http://31.43.191.125:8080/vip2371775319895/9265b2325e78/1856",
       "http://31.43.191.125:8080/VIP0197177635014379/g5j83mt7dgjr/1856",
       "http://31.43.191.125:8080/VIP019671755417939561/81000268d7db/1856",
       "http://31.43.191.125:8080/VIP018201759945199995/e4accec30246/1856"
     ],
     "source_file": "FIW_1792785412_2_b8e325_Hunter_1F7D.m3u",
-    "health_status": "reachable",
+    "health_status": "unreachable",
     "health_checked_urls": 3,
-    "health_promoted": true
+    "health_promoted": false
   },
   {
     "id": "dragon_english_a3954c328e31",
@@ -9918,9 +9918,9 @@
     ],
     "raw_group": "",
     "logo": "",
-    "primary_url": "http://31.43.191.125:8080/Dani/Dani/155449",
+    "primary_url": "http://31.43.191.125:8080/Dani/Dani/1873",
     "alternates": [
-      "http://31.43.191.125:8080/Dani/Dani/1873",
+      "http://31.43.191.125:8080/Dani/Dani/155449",
       "http://p1.tomtv.eu:80/TnhnKr0912/938isf9x1i/358981",
       "http://p1.tomtv.eu:80/TnhnKr0912/938isf9x1i/356514",
       "http://megatv.cc:8080/live/dubaihasan/jDT6kMSwpQkZ/261795.ts",
@@ -9937,8 +9937,8 @@
     ],
     "source_file": "FIW_1792785412_2_b8e325_Hunter_1F7D.m3u",
     "health_status": "reachable",
-    "health_checked_urls": 2,
-    "health_promoted": true
+    "health_checked_urls": 1,
+    "health_promoted": false
   },
   {
     "id": "dragon_english_642abbec5bea",
@@ -10062,10 +10062,10 @@
     ],
     "raw_group": "",
     "logo": "",
-    "primary_url": "http://p1.tomtv.eu:80/TnhnKr0912/938isf9x1i/358700",
+    "primary_url": "http://31.43.191.125:8080/Dani/Dani/1880",
     "alternates": [
-      "http://31.43.191.125:8080/Dani/Dani/1880",
       "http://31.43.191.125:8080/Dani/Dani/147004",
+      "http://p1.tomtv.eu:80/TnhnKr0912/938isf9x1i/358700",
       "http://megatv.cc:8080/live/dubaihasan/jDT6kMSwpQkZ/527304.ts",
       "http://31.43.191.125:8080/vip2371775319895/9265b2325e78/1880",
       "http://31.43.191.125:8080/vip2371775319895/9265b2325e78/147004",
@@ -10078,9 +10078,9 @@
       "http://cdn.ex-yu.net:2095/play/3MabgpX1RPSbTzE_9_cCrK4PddK3lafRsNA9MTay-64"
     ],
     "source_file": "FIW_1792785389_1_b93340_Hunter_92B6.m3u",
-    "health_status": "reachable",
+    "health_status": "unreachable",
     "health_checked_urls": 3,
-    "health_promoted": true
+    "health_promoted": false
   },
   {
     "id": "dragon_english_bcc919095039",
@@ -10092,10 +10092,10 @@
     ],
     "raw_group": "",
     "logo": "",
-    "primary_url": "http://p1.tomtv.eu:80/TnhnKr0912/938isf9x1i/358709",
+    "primary_url": "http://31.43.191.125:8080/Dani/Dani/1881",
     "alternates": [
-      "http://31.43.191.125:8080/Dani/Dani/1881",
       "http://31.43.191.125:8080/Dani/Dani/147012",
+      "http://p1.tomtv.eu:80/TnhnKr0912/938isf9x1i/358709",
       "http://megatv.cc:8080/live/dubaihasan/jDT6kMSwpQkZ/527306.ts",
       "http://31.43.191.125:8080/vip2371775319895/9265b2325e78/1881",
       "http://31.43.191.125:8080/vip2371775319895/9265b2325e78/147012",
@@ -10109,8 +10109,8 @@
     ],
     "source_file": "FIW_1792785389_1_b93340_Hunter_92B6.m3u",
     "health_status": "reachable",
-    "health_checked_urls": 3,
-    "health_promoted": true
+    "health_checked_urls": 1,
+    "health_promoted": false
   },
   {
     "id": "dragon_english_fdf8c7f30bb3",
@@ -10472,8 +10472,8 @@
       "http://31.43.191.125:8080/VIP018201759945199995/e4accec30246/1899"
     ],
     "source_file": "FIW_1792785389_1_b93340_Hunter_92B6.m3u",
-    "health_status": "reachable",
-    "health_checked_urls": 1,
+    "health_status": "unreachable",
+    "health_checked_urls": 3,
     "health_promoted": false
   },
   {
@@ -10592,17 +10592,17 @@
     ],
     "raw_group": "",
     "logo": "",
-    "primary_url": "http://31.43.191.125:8080/Dani/Dani/1905",
+    "primary_url": "http://31.43.191.125:8080/vip2371775319895/9265b2325e78/1905",
     "alternates": [
-      "http://31.43.191.125:8080/vip2371775319895/9265b2325e78/1905",
+      "http://31.43.191.125:8080/Dani/Dani/1905",
       "http://31.43.191.125:8080/VIP0197177635014379/g5j83mt7dgjr/1905",
       "http://31.43.191.125:8080/VIP019671755417939561/81000268d7db/1905",
       "http://31.43.191.125:8080/VIP018201759945199995/e4accec30246/1905"
     ],
     "source_file": "FIW_1792785389_1_b93340_Hunter_92B6.m3u",
     "health_status": "reachable",
-    "health_checked_urls": 1,
-    "health_promoted": false
+    "health_checked_urls": 2,
+    "health_promoted": true
   },
   {
     "id": "dragon_english_168e8be6c983",
@@ -10872,8 +10872,8 @@
       "http://31.43.191.125:8080/VIP018201759945199995/e4accec30246/146959"
     ],
     "source_file": "FIW_1792785412_2_b8e325_Hunter_1F7D.m3u",
-    "health_status": "reachable",
-    "health_checked_urls": 1,
+    "health_status": "unreachable",
+    "health_checked_urls": 3,
     "health_promoted": false
   },
   {
@@ -16327,16 +16327,16 @@
     ],
     "raw_group": "",
     "logo": "",
-    "primary_url": "http://31.43.191.125:8080/vip2371775319895/9265b2325e78/146774",
+    "primary_url": "http://31.43.191.125:8080/VIP0197177635014379/g5j83mt7dgjr/146774",
     "alternates": [
       "http://31.43.191.125:8080/Dani/Dani/146774",
-      "http://31.43.191.125:8080/VIP0197177635014379/g5j83mt7dgjr/146774",
+      "http://31.43.191.125:8080/vip2371775319895/9265b2325e78/146774",
       "http://31.43.191.125:8080/VIP019671755417939561/81000268d7db/146774",
       "http://31.43.191.125:8080/VIP018201759945199995/e4accec30246/146774"
     ],
     "source_file": "FIW_1792785389_1_b93340_Hunter_92B6.m3u",
     "health_status": "reachable",
-    "health_checked_urls": 2,
+    "health_checked_urls": 3,
     "health_promoted": true
   },
   {
@@ -16393,17 +16393,17 @@
     ],
     "raw_group": "",
     "logo": "",
-    "primary_url": "http://31.43.191.125:8080/Dani/Dani/146777",
+    "primary_url": "http://31.43.191.125:8080/vip2371775319895/9265b2325e78/146777",
     "alternates": [
-      "http://31.43.191.125:8080/vip2371775319895/9265b2325e78/146777",
+      "http://31.43.191.125:8080/Dani/Dani/146777",
       "http://31.43.191.125:8080/VIP0197177635014379/g5j83mt7dgjr/146777",
       "http://31.43.191.125:8080/VIP019671755417939561/81000268d7db/146777",
       "http://31.43.191.125:8080/VIP018201759945199995/e4accec30246/146777"
     ],
     "source_file": "FIW_1792785389_1_b93340_Hunter_92B6.m3u",
     "health_status": "reachable",
-    "health_checked_urls": 1,
-    "health_promoted": false
+    "health_checked_urls": 2,
+    "health_promoted": true
   },
   {
     "id": "dragon_english_5728740f3066",
@@ -16415,17 +16415,17 @@
     ],
     "raw_group": "",
     "logo": "",
-    "primary_url": "http://31.43.191.125:8080/Dani/Dani/146778",
+    "primary_url": "http://31.43.191.125:8080/vip2371775319895/9265b2325e78/146778",
     "alternates": [
-      "http://31.43.191.125:8080/vip2371775319895/9265b2325e78/146778",
+      "http://31.43.191.125:8080/Dani/Dani/146778",
       "http://31.43.191.125:8080/VIP0197177635014379/g5j83mt7dgjr/146778",
       "http://31.43.191.125:8080/VIP019671755417939561/81000268d7db/146778",
       "http://31.43.191.125:8080/VIP018201759945199995/e4accec30246/146778"
     ],
     "source_file": "FIW_1792785389_1_b93340_Hunter_92B6.m3u",
     "health_status": "reachable",
-    "health_checked_urls": 1,
-    "health_promoted": false
+    "health_checked_urls": 2,
+    "health_promoted": true
   },
   {
     "id": "dragon_english_552d224d47dc",
@@ -16437,17 +16437,17 @@
     ],
     "raw_group": "",
     "logo": "",
-    "primary_url": "http://31.43.191.125:8080/Dani/Dani/146779",
+    "primary_url": "http://31.43.191.125:8080/vip2371775319895/9265b2325e78/146779",
     "alternates": [
-      "http://31.43.191.125:8080/vip2371775319895/9265b2325e78/146779",
+      "http://31.43.191.125:8080/Dani/Dani/146779",
       "http://31.43.191.125:8080/VIP0197177635014379/g5j83mt7dgjr/146779",
       "http://31.43.191.125:8080/VIP019671755417939561/81000268d7db/146779",
       "http://31.43.191.125:8080/VIP018201759945199995/e4accec30246/146779"
     ],
     "source_file": "FIW_1792785389_1_b93340_Hunter_92B6.m3u",
     "health_status": "reachable",
-    "health_checked_urls": 1,
-    "health_promoted": false
+    "health_checked_urls": 2,
+    "health_promoted": true
   },
   {
     "id": "dragon_english_14ba1ced9bc8",
@@ -16459,17 +16459,17 @@
     ],
     "raw_group": "",
     "logo": "",
-    "primary_url": "http://31.43.191.125:8080/Dani/Dani/146780",
+    "primary_url": "http://31.43.191.125:8080/vip2371775319895/9265b2325e78/146780",
     "alternates": [
-      "http://31.43.191.125:8080/vip2371775319895/9265b2325e78/146780",
+      "http://31.43.191.125:8080/Dani/Dani/146780",
       "http://31.43.191.125:8080/VIP0197177635014379/g5j83mt7dgjr/146780",
       "http://31.43.191.125:8080/VIP019671755417939561/81000268d7db/146780",
       "http://31.43.191.125:8080/VIP018201759945199995/e4accec30246/146780"
     ],
     "source_file": "FIW_1792785389_1_b93340_Hunter_92B6.m3u",
     "health_status": "reachable",
-    "health_checked_urls": 1,
-    "health_promoted": false
+    "health_checked_urls": 2,
+    "health_promoted": true
   },
   {
     "id": "dragon_english_b3f215d88b52",
@@ -16503,17 +16503,17 @@
     ],
     "raw_group": "",
     "logo": "",
-    "primary_url": "http://31.43.191.125:8080/vip2371775319895/9265b2325e78/146782",
+    "primary_url": "http://31.43.191.125:8080/Dani/Dani/146782",
     "alternates": [
-      "http://31.43.191.125:8080/Dani/Dani/146782",
+      "http://31.43.191.125:8080/vip2371775319895/9265b2325e78/146782",
       "http://31.43.191.125:8080/VIP0197177635014379/g5j83mt7dgjr/146782",
       "http://31.43.191.125:8080/VIP019671755417939561/81000268d7db/146782",
       "http://31.43.191.125:8080/VIP018201759945199995/e4accec30246/146782"
     ],
     "source_file": "FIW_1792785389_1_b93340_Hunter_92B6.m3u",
     "health_status": "reachable",
-    "health_checked_urls": 2,
-    "health_promoted": true
+    "health_checked_urls": 1,
+    "health_promoted": false
   },
   {
     "id": "dragon_english_a38ca0669799",
@@ -16525,17 +16525,17 @@
     ],
     "raw_group": "",
     "logo": "",
-    "primary_url": "http://31.43.191.125:8080/vip2371775319895/9265b2325e78/146783",
+    "primary_url": "http://31.43.191.125:8080/Dani/Dani/146783",
     "alternates": [
-      "http://31.43.191.125:8080/Dani/Dani/146783",
+      "http://31.43.191.125:8080/vip2371775319895/9265b2325e78/146783",
       "http://31.43.191.125:8080/VIP0197177635014379/g5j83mt7dgjr/146783",
       "http://31.43.191.125:8080/VIP019671755417939561/81000268d7db/146783",
       "http://31.43.191.125:8080/VIP018201759945199995/e4accec30246/146783"
     ],
     "source_file": "FIW_1792785389_1_b93340_Hunter_92B6.m3u",
     "health_status": "reachable",
-    "health_checked_urls": 2,
-    "health_promoted": true
+    "health_checked_urls": 1,
+    "health_promoted": false
   },
   {
     "id": "dragon_english_15d27f7e29f7",
@@ -19320,10 +19320,10 @@
     ],
     "raw_group": "",
     "logo": "",
-    "primary_url": "http://p1.tomtv.eu:80/TnhnKr0912/938isf9x1i/358699",
+    "primary_url": "http://megatv.cc:8080/live/dubaihasan/jDT6kMSwpQkZ/527325.ts",
     "alternates": [
       "http://31.43.191.125:8080/Dani/Dani/147008",
-      "http://megatv.cc:8080/live/dubaihasan/jDT6kMSwpQkZ/527325.ts",
+      "http://p1.tomtv.eu:80/TnhnKr0912/938isf9x1i/358699",
       "http://31.43.191.125:8080/vip2371775319895/9265b2325e78/147008",
       "http://31.43.191.125:8080/VIP0197177635014379/g5j83mt7dgjr/147008",
       "http://31.43.191.125:8080/VIP019671755417939561/81000268d7db/147008",
@@ -19333,7 +19333,7 @@
     ],
     "source_file": "FIW_1792785389_1_b93340_Hunter_92B6.m3u",
     "health_status": "reachable",
-    "health_checked_urls": 2,
+    "health_checked_urls": 3,
     "health_promoted": true
   },
   {
@@ -23389,8 +23389,8 @@
       "http://31.43.191.125:8080/VIP018201759945199995/e4accec30246/154570"
     ],
     "source_file": "FIW_1792785389_1_b93340_Hunter_92B6.m3u",
-    "health_status": "reachable",
-    "health_checked_urls": 1,
+    "health_status": "unreachable",
+    "health_checked_urls": 3,
     "health_promoted": false
   },
   {
@@ -25773,8 +25773,8 @@
       "http://vewora.com:8080/live/700416vib/bg%4053%217%21%21U/1975e535-7ae1-4cb4-95f4-cadb5b4750cf.m3u"
     ],
     "source_file": "FIW_1792819267_2_425a45_Hunter_98FE.m3u",
-    "health_status": "reachable",
-    "health_checked_urls": 1,
+    "health_status": "unreachable",
+    "health_checked_urls": 3,
     "health_promoted": false
   },
   {
@@ -27012,8 +27012,8 @@
       "http://31.43.191.125:8080/VIP018201759945199995/e4accec30246/154765"
     ],
     "source_file": "FIW_1792785389_1_b93340_Hunter_92B6.m3u",
-    "health_status": "reachable",
-    "health_checked_urls": 1,
+    "health_status": "unreachable",
+    "health_checked_urls": 3,
     "health_promoted": false
   },
   {
@@ -28746,17 +28746,17 @@
     ],
     "raw_group": "",
     "logo": "",
-    "primary_url": "http://31.43.191.125:8080/Dani/Dani/154853",
+    "primary_url": "http://31.43.191.125:8080/vip2371775319895/9265b2325e78/154853",
     "alternates": [
-      "http://31.43.191.125:8080/vip2371775319895/9265b2325e78/154853",
+      "http://31.43.191.125:8080/Dani/Dani/154853",
       "http://31.43.191.125:8080/VIP0197177635014379/g5j83mt7dgjr/154853",
       "http://31.43.191.125:8080/VIP019671755417939561/81000268d7db/154853",
       "http://31.43.191.125:8080/VIP018201759945199995/e4accec30246/154853"
     ],
     "source_file": "FIW_1792785389_1_b93340_Hunter_92B6.m3u",
-    "health_status": "unreachable",
-    "health_checked_urls": 3,
-    "health_promoted": false
+    "health_status": "reachable",
+    "health_checked_urls": 2,
+    "health_promoted": true
   },
   {
     "id": "dragon_english_c8f03f195b8c",
@@ -28864,8 +28864,8 @@
       "http://31.43.191.125:8080/VIP018201759945199995/e4accec30246/154858"
     ],
     "source_file": "FIW_1792785389_1_b93340_Hunter_92B6.m3u",
-    "health_status": "unreachable",
-    "health_checked_urls": 3,
+    "health_status": "reachable",
+    "health_checked_urls": 1,
     "health_promoted": false
   },
   {
@@ -28900,17 +28900,17 @@
     ],
     "raw_group": "",
     "logo": "",
-    "primary_url": "http://31.43.191.125:8080/Dani/Dani/154860",
+    "primary_url": "http://31.43.191.125:8080/VIP0197177635014379/g5j83mt7dgjr/154860",
     "alternates": [
+      "http://31.43.191.125:8080/Dani/Dani/154860",
       "http://31.43.191.125:8080/vip2371775319895/9265b2325e78/154860",
-      "http://31.43.191.125:8080/VIP0197177635014379/g5j83mt7dgjr/154860",
       "http://31.43.191.125:8080/VIP019671755417939561/81000268d7db/154860",
       "http://31.43.191.125:8080/VIP018201759945199995/e4accec30246/154860"
     ],
     "source_file": "FIW_1792785389_1_b93340_Hunter_92B6.m3u",
-    "health_status": "unreachable",
+    "health_status": "reachable",
     "health_checked_urls": 3,
-    "health_promoted": false
+    "health_promoted": true
   },
   {
     "id": "dragon_english_0a729fedd2a4",
@@ -28952,8 +28952,8 @@
       "http://31.43.191.125:8080/VIP018201759945199995/e4accec30246/154862"
     ],
     "source_file": "FIW_1792785389_1_b93340_Hunter_92B6.m3u",
-    "health_status": "unreachable",
-    "health_checked_urls": 3,
+    "health_status": "reachable",
+    "health_checked_urls": 1,
     "health_promoted": false
   },
   {
@@ -28988,17 +28988,17 @@
     ],
     "raw_group": "",
     "logo": "",
-    "primary_url": "http://31.43.191.125:8080/Dani/Dani/154864",
+    "primary_url": "http://31.43.191.125:8080/VIP0197177635014379/g5j83mt7dgjr/154864",
     "alternates": [
+      "http://31.43.191.125:8080/Dani/Dani/154864",
       "http://31.43.191.125:8080/vip2371775319895/9265b2325e78/154864",
-      "http://31.43.191.125:8080/VIP0197177635014379/g5j83mt7dgjr/154864",
       "http://31.43.191.125:8080/VIP019671755417939561/81000268d7db/154864",
       "http://31.43.191.125:8080/VIP018201759945199995/e4accec30246/154864"
     ],
     "source_file": "FIW_1792785389_1_b93340_Hunter_92B6.m3u",
-    "health_status": "unreachable",
+    "health_status": "reachable",
     "health_checked_urls": 3,
-    "health_promoted": false
+    "health_promoted": true
   },
   {
     "id": "dragon_english_0ff57f27459b",
@@ -29878,17 +29878,17 @@
     ],
     "raw_group": "",
     "logo": "",
-    "primary_url": "http://31.43.191.125:8080/Dani/Dani/154908",
+    "primary_url": "http://31.43.191.125:8080/vip2371775319895/9265b2325e78/154908",
     "alternates": [
-      "http://31.43.191.125:8080/vip2371775319895/9265b2325e78/154908",
+      "http://31.43.191.125:8080/Dani/Dani/154908",
       "http://31.43.191.125:8080/VIP0197177635014379/g5j83mt7dgjr/154908",
       "http://31.43.191.125:8080/VIP019671755417939561/81000268d7db/154908",
       "http://31.43.191.125:8080/VIP018201759945199995/e4accec30246/154908"
     ],
     "source_file": "FIW_1792785389_1_b93340_Hunter_92B6.m3u",
     "health_status": "reachable",
-    "health_checked_urls": 1,
-    "health_promoted": false
+    "health_checked_urls": 2,
+    "health_promoted": true
   },
   {
     "id": "dragon_english_b22850a89376",
@@ -32905,17 +32905,17 @@
     ],
     "raw_group": "",
     "logo": "",
-    "primary_url": "http://31.43.191.125:8080/Dani/Dani/155068",
+    "primary_url": "http://31.43.191.125:8080/vip2371775319895/9265b2325e78/155068",
     "alternates": [
-      "http://31.43.191.125:8080/vip2371775319895/9265b2325e78/155068",
+      "http://31.43.191.125:8080/Dani/Dani/155068",
       "http://31.43.191.125:8080/VIP0197177635014379/g5j83mt7dgjr/155068",
       "http://31.43.191.125:8080/VIP019671755417939561/81000268d7db/155068",
       "http://31.43.191.125:8080/VIP018201759945199995/e4accec30246/155068"
     ],
     "source_file": "FIW_1792785389_1_b93340_Hunter_92B6.m3u",
     "health_status": "reachable",
-    "health_checked_urls": 1,
-    "health_promoted": false
+    "health_checked_urls": 2,
+    "health_promoted": true
   },
   {
     "id": "dragon_english_55fb212956e5",
@@ -33000,9 +33000,9 @@
     ],
     "raw_group": "",
     "logo": "",
-    "primary_url": "http://31.43.191.125:8080/Dani/Dani/155073",
+    "primary_url": "http://p1.tomtv.eu:80/TnhnKr0912/938isf9x1i/359170",
     "alternates": [
-      "http://p1.tomtv.eu:80/TnhnKr0912/938isf9x1i/359170",
+      "http://31.43.191.125:8080/Dani/Dani/155073",
       "http://31.43.191.125:8080/vip2371775319895/9265b2325e78/155073",
       "http://31.43.191.125:8080/VIP0197177635014379/g5j83mt7dgjr/155073",
       "http://31.43.191.125:8080/VIP019671755417939561/81000268d7db/155073",
@@ -33010,8 +33010,8 @@
     ],
     "source_file": "FIW_1792785412_2_b8e325_Hunter_1F7D.m3u",
     "health_status": "reachable",
-    "health_checked_urls": 1,
-    "health_promoted": false
+    "health_checked_urls": 2,
+    "health_promoted": true
   },
   {
     "id": "dragon_english_43bb721876be",
@@ -43119,9 +43119,9 @@
     ],
     "raw_group": "",
     "logo": "",
-    "primary_url": "http://31.43.191.125:8080/Dani/Dani/155594",
+    "primary_url": "http://31.43.191.125:8080/Dani/Dani/155596",
     "alternates": [
-      "http://31.43.191.125:8080/Dani/Dani/155596",
+      "http://31.43.191.125:8080/Dani/Dani/155594",
       "http://31.43.191.125:8080/vip2371775319895/9265b2325e78/155596",
       "http://31.43.191.125:8080/vip2371775319895/9265b2325e78/155594",
       "http://31.43.191.125:8080/VIP0197177635014379/g5j83mt7dgjr/155596",
@@ -43132,9 +43132,9 @@
       "http://31.43.191.125:8080/VIP018201759945199995/e4accec30246/155594"
     ],
     "source_file": "FIW_1792785389_1_b93340_Hunter_92B6.m3u",
-    "health_status": "reachable",
-    "health_checked_urls": 2,
-    "health_promoted": true
+    "health_status": "unreachable",
+    "health_checked_urls": 3,
+    "health_promoted": false
   },
   {
     "id": "dragon_english_dd340a61baae",
@@ -43424,17 +43424,17 @@
     ],
     "raw_group": "",
     "logo": "",
-    "primary_url": "http://31.43.191.125:8080/Dani/Dani/155613",
+    "primary_url": "http://31.43.191.125:8080/vip2371775319895/9265b2325e78/155613",
     "alternates": [
-      "http://31.43.191.125:8080/vip2371775319895/9265b2325e78/155613",
+      "http://31.43.191.125:8080/Dani/Dani/155613",
       "http://31.43.191.125:8080/VIP0197177635014379/g5j83mt7dgjr/155613",
       "http://31.43.191.125:8080/VIP019671755417939561/81000268d7db/155613",
       "http://31.43.191.125:8080/VIP018201759945199995/e4accec30246/155613"
     ],
     "source_file": "FIW_1792785389_1_b93340_Hunter_92B6.m3u",
     "health_status": "reachable",
-    "health_checked_urls": 1,
-    "health_promoted": false
+    "health_checked_urls": 2,
+    "health_promoted": true
   },
   {
     "id": "dragon_english_75403a993bcf",
@@ -43446,17 +43446,17 @@
     ],
     "raw_group": "",
     "logo": "",
-    "primary_url": "http://31.43.191.125:8080/vip2371775319895/9265b2325e78/155614",
+    "primary_url": "http://31.43.191.125:8080/Dani/Dani/155614",
     "alternates": [
-      "http://31.43.191.125:8080/Dani/Dani/155614",
+      "http://31.43.191.125:8080/vip2371775319895/9265b2325e78/155614",
       "http://31.43.191.125:8080/VIP0197177635014379/g5j83mt7dgjr/155614",
       "http://31.43.191.125:8080/VIP019671755417939561/81000268d7db/155614",
       "http://31.43.191.125:8080/VIP018201759945199995/e4accec30246/155614"
     ],
     "source_file": "FIW_1792785389_1_b93340_Hunter_92B6.m3u",
-    "health_status": "reachable",
-    "health_checked_urls": 2,
-    "health_promoted": true
+    "health_status": "unreachable",
+    "health_checked_urls": 3,
+    "health_promoted": false
   },
   {
     "id": "dragon_english_6e3ad563b0b3",
@@ -48051,17 +48051,17 @@
     ],
     "raw_group": "",
     "logo": "",
-    "primary_url": "http://31.43.191.125:8080/Dani/Dani/155856",
+    "primary_url": "http://31.43.191.125:8080/VIP0197177635014379/g5j83mt7dgjr/155856",
     "alternates": [
+      "http://31.43.191.125:8080/Dani/Dani/155856",
       "http://31.43.191.125:8080/vip2371775319895/9265b2325e78/155856",
-      "http://31.43.191.125:8080/VIP0197177635014379/g5j83mt7dgjr/155856",
       "http://31.43.191.125:8080/VIP019671755417939561/81000268d7db/155856",
       "http://31.43.191.125:8080/VIP018201759945199995/e4accec30246/155856"
     ],
     "source_file": "FIW_1792785389_1_b93340_Hunter_92B6.m3u",
-    "health_status": "unreachable",
+    "health_status": "reachable",
     "health_checked_urls": 3,
-    "health_promoted": false
+    "health_promoted": true
   },
   {
     "id": "dragon_english_85bb184dbbaf",
@@ -56975,17 +56975,17 @@
     ],
     "raw_group": "",
     "logo": "",
-    "primary_url": "http://31.43.191.125:8080/Dani/Dani/156313",
+    "primary_url": "http://31.43.191.125:8080/vip2371775319895/9265b2325e78/156313",
     "alternates": [
-      "http://31.43.191.125:8080/vip2371775319895/9265b2325e78/156313",
+      "http://31.43.191.125:8080/Dani/Dani/156313",
       "http://31.43.191.125:8080/VIP0197177635014379/g5j83mt7dgjr/156313",
       "http://31.43.191.125:8080/VIP019671755417939561/81000268d7db/156313",
       "http://31.43.191.125:8080/VIP018201759945199995/e4accec30246/156313"
     ],
     "source_file": "FIW_1792785389_1_b93340_Hunter_92B6.m3u",
-    "health_status": "unreachable",
-    "health_checked_urls": 3,
-    "health_promoted": false
+    "health_status": "reachable",
+    "health_checked_urls": 2,
+    "health_promoted": true
   },
   {
     "id": "dragon_english_d68ca9d19c7a",
@@ -57089,18 +57089,18 @@
     ],
     "raw_group": "",
     "logo": "",
-    "primary_url": "http://31.43.191.125:8080/vip2371775319895/9265b2325e78/156318",
+    "primary_url": "http://31.43.191.125:8080/Dani/Dani/156318",
     "alternates": [
-      "http://31.43.191.125:8080/Dani/Dani/156318",
       "http://megatv.cc:8080/live/dubaihasan/jDT6kMSwpQkZ/261477.ts",
+      "http://31.43.191.125:8080/vip2371775319895/9265b2325e78/156318",
       "http://31.43.191.125:8080/VIP0197177635014379/g5j83mt7dgjr/156318",
       "http://31.43.191.125:8080/VIP019671755417939561/81000268d7db/156318",
       "http://31.43.191.125:8080/VIP018201759945199995/e4accec30246/156318"
     ],
     "source_file": "FIW_1792785389_1_b93340_Hunter_92B6.m3u",
-    "health_status": "reachable",
+    "health_status": "unreachable",
     "health_checked_urls": 3,
-    "health_promoted": true
+    "health_promoted": false
   },
   {
     "id": "dragon_english_5357a45b494f",
@@ -57156,18 +57156,18 @@
     ],
     "raw_group": "",
     "logo": "",
-    "primary_url": "http://31.43.191.125:8080/vip2371775319895/9265b2325e78/156321",
+    "primary_url": "http://31.43.191.125:8080/Dani/Dani/156321",
     "alternates": [
-      "http://31.43.191.125:8080/Dani/Dani/156321",
       "http://megatv.cc:8080/live/dubaihasan/jDT6kMSwpQkZ/261481.ts",
+      "http://31.43.191.125:8080/vip2371775319895/9265b2325e78/156321",
       "http://31.43.191.125:8080/VIP0197177635014379/g5j83mt7dgjr/156321",
       "http://31.43.191.125:8080/VIP019671755417939561/81000268d7db/156321",
       "http://31.43.191.125:8080/VIP018201759945199995/e4accec30246/156321"
     ],
     "source_file": "FIW_1792785389_1_b93340_Hunter_92B6.m3u",
-    "health_status": "reachable",
+    "health_status": "unreachable",
     "health_checked_urls": 3,
-    "health_promoted": true
+    "health_promoted": false
   },
   {
     "id": "dragon_english_d1bb73d59bad",
@@ -58403,17 +58403,17 @@
     ],
     "raw_group": "",
     "logo": "",
-    "primary_url": "http://31.43.191.125:8080/vip2371775319895/9265b2325e78/156390",
+    "primary_url": "http://31.43.191.125:8080/Dani/Dani/156390",
     "alternates": [
-      "http://31.43.191.125:8080/Dani/Dani/156390",
+      "http://31.43.191.125:8080/vip2371775319895/9265b2325e78/156390",
       "http://31.43.191.125:8080/VIP0197177635014379/g5j83mt7dgjr/156390",
       "http://31.43.191.125:8080/VIP019671755417939561/81000268d7db/156390",
       "http://31.43.191.125:8080/VIP018201759945199995/e4accec30246/156390"
     ],
     "source_file": "FIW_1792785389_1_b93340_Hunter_92B6.m3u",
     "health_status": "reachable",
-    "health_checked_urls": 2,
-    "health_promoted": true
+    "health_checked_urls": 1,
+    "health_promoted": false
   },
   {
     "id": "dragon_english_4da23349966d",
@@ -66285,17 +66285,17 @@
     ],
     "raw_group": "",
     "logo": "",
-    "primary_url": "http://31.43.191.125:8080/vip2371775319895/9265b2325e78/156804",
+    "primary_url": "http://31.43.191.125:8080/Dani/Dani/156804",
     "alternates": [
-      "http://31.43.191.125:8080/Dani/Dani/156804",
+      "http://31.43.191.125:8080/vip2371775319895/9265b2325e78/156804",
       "http://31.43.191.125:8080/VIP0197177635014379/g5j83mt7dgjr/156804",
       "http://31.43.191.125:8080/VIP019671755417939561/81000268d7db/156804",
       "http://31.43.191.125:8080/VIP018201759945199995/e4accec30246/156804"
     ],
     "source_file": "FIW_1792785389_1_b93340_Hunter_92B6.m3u",
-    "health_status": "reachable",
-    "health_checked_urls": 2,
-    "health_promoted": true
+    "health_status": "unreachable",
+    "health_checked_urls": 3,
+    "health_promoted": false
   },
   {
     "id": "dragon_english_5c4ef2299ea9",
@@ -68476,8 +68476,8 @@
       "http://megatv.cc:8080/live/dubaihasan/jDT6kMSwpQkZ/527320.ts"
     ],
     "source_file": "FIW_1792785412_2_b8e325_Hunter_1F7D.m3u",
-    "health_status": "unreachable",
-    "health_checked_urls": 2,
+    "health_status": "reachable",
+    "health_checked_urls": 1,
     "health_promoted": false
   },
   {
@@ -96474,7 +96474,7 @@
     "primary_url": "http://vewora.com:8080/live/700416vib/bg%4053%217%21%21U/cd45e2a5-8335-4a0a-9262-42e059a55b48.m3u",
     "alternates": [],
     "source_file": "FIW_1792785699_1_2878be_Hunter_A311.m3u",
-    "health_status": "unreachable",
+    "health_status": "reachable",
     "health_checked_urls": 1,
     "health_promoted": false
   },
@@ -96508,7 +96508,7 @@
     "primary_url": "http://vewora.com:8080/live/700416vib/bg%4053%217%21%21U/3bdfff43-351b-4976-bfc2-244b62ff9d87.m3u",
     "alternates": [],
     "source_file": "FIW_1792785699_1_2878be_Hunter_A311.m3u",
-    "health_status": "unreachable",
+    "health_status": "reachable",
     "health_checked_urls": 1,
     "health_promoted": false
   },
@@ -96542,7 +96542,7 @@
     "primary_url": "http://vewora.com:8080/live/700416vib/bg%4053%217%21%21U/bd85d3c9-221a-4fbe-8881-4b7f44524a96.m3u",
     "alternates": [],
     "source_file": "FIW_1792785699_1_2878be_Hunter_A311.m3u",
-    "health_status": "unreachable",
+    "health_status": "reachable",
     "health_checked_urls": 1,
     "health_promoted": false
   },
@@ -99122,7 +99122,7 @@
     "primary_url": "http://p1.tomtv.eu:80/TnhnKr0912/938isf9x1i/359144",
     "alternates": [],
     "source_file": "FIW_1792785412_2_b8e325_Hunter_1F7D.m3u",
-    "health_status": "reachable",
+    "health_status": "unreachable",
     "health_checked_urls": 1,
     "health_promoted": false
   },
