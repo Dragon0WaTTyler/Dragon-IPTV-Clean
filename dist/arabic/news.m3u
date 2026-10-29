@@ -1,86 +1,62 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="ARI AL JAZEERA ARABIC 2 SD" tvg-logo="https://i.pinimg.com/1200x/b2/bd/42/b2bd420b173e7c01746f5c3855a4c429.jpg" group-title="news",ARI AL JAZEERA ARABIC 2 SD
-http://sts.mydroon.com:8080/9127491274/QDXDbuLzFDYaYbD/245507
-#EXTINF:-1 tvg-name="ARI AL JAZEERA ARABIC HD" tvg-logo="https://i.pinimg.com/originals/11/6e/d8/116ed80f298c8ee40551e9291a2273f6.png" group-title="news",ARI AL JAZEERA ARABIC HD
-http://sts.mydroon.com:8080/9127491274/QDXDbuLzFDYaYbD/73960
-#EXTINF:-1 tvg-name="AR|AL JAZEERA ARABIC FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfyXT2noimKLPI1Uca3qpnBT3f46GQvT1ltbi3qZJpafePVeJdw56M4b_U" group-title="news",AR|AL JAZEERA ARABIC FHD
-http://sts.mydroon.com:8080/9127491274/QDXDbuLzFDYaYbD/28069
 #EXTINF:-1 tvg-name="AR: AL JAZEERA MUBASHER" tvg-logo="" group-title="news",AR: AL JAZEERA MUBASHER
 http://31.43.191.125:8080/restream/restream/6599
 #EXTINF:-1 tvg-name="AR: AL JAZEERA" tvg-logo="" group-title="news",AR: AL JAZEERA
 http://31.43.191.125:8080/restream/restream/6597
 #EXTINF:-1 tvg-name="AL ARABIYA HD" tvg-logo="" group-title="news",AL ARABIYA HD
 http://31.43.191.125:8080/restream/restream/130848
-#EXTINF:-1 tvg-name="AL ARABIYA HADATH" tvg-logo="" group-title="news",AL ARABIYA HADATH
-http://mytop2020.life:2095/893963693051/bHksg68fWnri8/1542
 #EXTINF:-1 tvg-name="AL ARABIYA BUSINESS" tvg-logo="" group-title="news",AL ARABIYA BUSINESS
 http://31.43.191.125:8080/restream/restream/130849
-#EXTINF:-1 tvg-name="AR| Al Hadath" tvg-logo="" group-title="news",AR| Al Hadath
+#EXTINF:-1 tvg-name="AL ARABIYA HADATH" tvg-logo="" group-title="news",AL ARABIYA HADATH
+http://mytop2020.life:2095/893963693051/bHksg68fWnri8/1542
+#EXTINF:-1 tvg-name="AR|NEWS: AL HADATH" tvg-logo="" group-title="news",AR|NEWS: AL HADATH
 http://31.43.191.125:8080/restream/restream/130851
 #EXTINF:-1 tvg-name="SKY NEWS ARABIA" tvg-logo="" group-title="news",SKY NEWS ARABIA
-http://sts.mydroon.com:8080/9127491274/QDXDbuLzFDYaYbD/72350
+http://mytop2020.life:2095/893963693051/bHksg68fWnri8/316403
 #EXTINF:-1 tvg-name="SKY NEWS ARABIA (PORTRAIT) (1280P)" tvg-logo="" group-title="news",SKY NEWS ARABIA (PORTRAIT) (1280P)
 http://mytop2020.life:2095/893963693051/bHksg68fWnri8/316404
 #EXTINF:-1 tvg-name="FRANCE 24 ARABIC" tvg-logo="" group-title="news",FRANCE 24 ARABIC
 http://mytop2020.life:2095/893963693051/bHksg68fWnri8/2248
 #EXTINF:-1 tvg-name="BBC ARABIC" tvg-logo="" group-title="news",BBC ARABIC
-http://31.43.191.125:8080/Adri_ruiz/azerty34/6969
-#EXTINF:-1 tvg-name="AR|DW ARABIC HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8CWrtDZ1_4TUTIrDk_fDNRPDwWn0naB2xKN4YYJvfb_WWtJt2gY6JBA" group-title="news",AR|DW ARABIC HD
+http://31.43.191.125:8080/restream/restream/6969
+#EXTINF:-1 tvg-name="AR|DOCU: DW ARABIC" tvg-logo="" group-title="news",AR|DOCU: DW ARABIC
 http://31.43.191.125:8080/restream/restream/130742
 #EXTINF:-1 tvg-name="AR: AL MAYADEEN" tvg-logo="" group-title="news",AR: AL MAYADEEN
 http://31.43.191.125:8080/restream/restream/6527
 #EXTINF:-1 tvg-name="AR-LBN: AL MAYADEEN" tvg-logo="" group-title="news",AR-LBN: AL MAYADEEN
 http://31.43.191.125:8080/restream/restream/130444
-#EXTINF:-1 tvg-name="AR|AL MAYADEEN TV" tvg-logo="https://www9.0zz0.com/2020/04/18/22/211575414.jpg" group-title="news",AR|AL MAYADEEN TV
-http://sts.mydroon.com:8080/9127491274/QDXDbuLzFDYaYbD/28067
-#EXTINF:-1 tvg-name="AR|CGTN ARABIC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/97/CGTN_arabic.png" group-title="news",AR|CGTN ARABIC
-http://sts.mydroon.com:8080/9127491274/QDXDbuLzFDYaYbD/74466
-#EXTINF:-1 tvg-name="AR|MEKAMELEEN TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/45/%D9%82%D9%86%D8%A7%D8%A9_%D9%85%D9%83%D9%85%D9%84%D9%8A%D9%86.jpg" group-title="news",AR|MEKAMELEEN TV HD
-http://mytop2020.life:2095/893963693051/bHksg68fWnri8/67082
-#EXTINF:-1 tvg-name="EG| AL QAHERA NEWS HD" tvg-logo="" group-title="news",EG| AL QAHERA NEWS HD
-http://mytop2020.life:2095/893963693051/bHksg68fWnri8/785115
-#EXTINF:-1 tvg-name="SA| ASHARQ NEWS CHANNEL FHD" tvg-logo="" group-title="news",SA| ASHARQ NEWS CHANNEL FHD
-http://mytop2020.life:2095/893963693051/bHksg68fWnri8/282322
-#EXTINF:-1 tvg-name="DZ | CHOUROUK NEWS" tvg-logo="" group-title="news",DZ | CHOUROUK NEWS
-http://mytop2020.life:2095/893963693051/bHksg68fWnri8/2542
 #EXTINF:-1 tvg-name="AR: DZAIR NEWS" tvg-logo="" group-title="news",AR: DZAIR NEWS
-http://31.43.191.125:8080/Adri_ruiz/azerty34/6398
-#EXTINF:-1 tvg-name="DZ | ECHOROUK NEWS الشروق اخبار" tvg-logo="" group-title="news",DZ | ECHOROUK NEWS الشروق اخبار
-http://mytop2020.life:2095/893963693051/bHksg68fWnri8/310610
-#EXTINF:-1 tvg-name="AR|EL SHARQ" tvg-logo="https://www7.0zz0.com/2020/04/18/22/670383546.jpg" group-title="news",AR|EL SHARQ
-http://31.43.191.125:8080/Adri_ruiz/azerty34/6384
+http://31.43.191.125:8080/restream/restream/6398
 #EXTINF:-1 tvg-name="AR: OSN NEWS" tvg-logo="" group-title="news",AR: OSN NEWS
-http://31.43.191.125:8080/Adri_ruiz/azerty34/6446
+http://31.43.191.125:8080/restream/restream/6446
 #EXTINF:-1 tvg-name="AR: OSN SKY NEWS" tvg-logo="" group-title="news",AR: OSN SKY NEWS
-http://31.43.191.125:8080/restream/restream/6459
+http://31.43.191.125:8080/JkLSFzavCXNW/EdTWE3FK8Nnz/6459
 #EXTINF:-1 tvg-name="AR: ANN NEWS" tvg-logo="" group-title="news",AR: ANN NEWS
 http://31.43.191.125:8080/restream/restream/6533
 #EXTINF:-1 tvg-name="AR: PALESTINE NEWS" tvg-logo="" group-title="news",AR: PALESTINE NEWS
 http://31.43.191.125:8080/restream/restream/6549
-#EXTINF:-1 tvg-name="AR|Iraqia News" tvg-logo="http://212.8.253.112/logo/IRAQ/ALIRAQIANEWS.png" group-title="news",AR|Iraqia News
+#EXTINF:-1 tvg-name="AR: IRAQIA NEWS" tvg-logo="" group-title="news",AR: IRAQIA NEWS
 http://31.43.191.125:8080/restream/restream/6577
-#EXTINF:-1 tvg-name="AR|AL SHARQIYA NEWS" tvg-logo="https://www13.0zz0.com/2020/04/18/22/134233337.png" group-title="news",AR|AL SHARQIYA NEWS
+#EXTINF:-1 tvg-name="AR: AL SHARQIYA NEWS" tvg-logo="" group-title="news",AR: AL SHARQIYA NEWS
 http://31.43.191.125:8080/restream/restream/6590
-#EXTINF:-1 tvg-name="AR|Al Ekhbariya HD" tvg-logo="https://www.iraq-businessnews.com/wp-content/uploads/2019/09/Al-Hurra-TV.png" group-title="news",AR|Al Ekhbariya HD
-http://31.43.191.125:8080/restream/restream/130850
+#EXTINF:-1 tvg-name="AR|NEWS: Al EKHBARIYA" tvg-logo="" group-title="news",AR|NEWS: Al EKHBARIYA
+http://31.43.191.125:8080/restream/restream/6622
 #EXTINF:-1 tvg-name="AR|NEWS: AL HURRA" tvg-logo="" group-title="news",AR|NEWS: AL HURRA
-http://31.43.191.125:8080/restream/restream/130853
+http://31.43.191.125:8080/restream/restream/6630
 #EXTINF:-1 tvg-name="AR: AL SHOROUQ NEWS" tvg-logo="" group-title="news",AR: AL SHOROUQ NEWS
 http://31.43.191.125:8080/restream/restream/6645
 #EXTINF:-1 tvg-name="AR: CBC EXTRA NEWS" tvg-logo="" group-title="news",AR: CBC EXTRA NEWS
-http://31.43.191.125:8080/restream/restream/6657
-#EXTINF:-1 tvg-name="AR|Nile News" tvg-logo="http://212.8.253.112/logo/EGYPT/NILE%20NEWS.png" group-title="news",AR|Nile News
-http://31.43.191.125:8080/JkLSFzavCXNW/EdTWE3FK8Nnz/6684
+http://31.43.191.125:8080/vip4021767785706/99d6a4d1dfb6/6657
+#EXTINF:-1 tvg-name="AR: NILE NEWS" tvg-logo="" group-title="news",AR: NILE NEWS
+http://31.43.191.125:8080/restream/restream/6684
 #EXTINF:-1 tvg-name="AR: SAUDI NEWS" tvg-logo="" group-title="news",AR: SAUDI NEWS
 http://31.43.191.125:8080/restream/restream/6711
 #EXTINF:-1 tvg-name="AR: SYRIA NEWS" tvg-logo="" group-title="news",AR: SYRIA NEWS
 http://31.43.191.125:8080/restream/restream/6841
 #EXTINF:-1 tvg-name="AR: LIBYA 218 NEWS" tvg-logo="" group-title="news",AR: LIBYA 218 NEWS
 http://31.43.191.125:8080/restream/restream/6872
-#EXTINF:-1 tvg-name="AR| NEWS" tvg-logo="" group-title="news",AR| NEWS
+#EXTINF:-1 tvg-name="AR: ✦●✦NEWS✦●✦" tvg-logo="" group-title="news",AR: ✦●✦NEWS✦●✦
 http://31.43.191.125:8080/restream/restream/6887
-#EXTINF:-1 tvg-name="AR|AL AAN TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Al_Aan_TV_Logo.png/150px-Al_Aan_TV_Logo.png" group-title="news",AR|AL AAN TV
-http://31.43.191.125:8080/restream/restream/6895
 #EXTINF:-1 tvg-name="AR: ORIENT NEWS" tvg-logo="" group-title="news",AR: ORIENT NEWS
 http://31.43.191.125:8080/restream/restream/6904
 #EXTINF:-1 tvg-name="AR: EURONEWS" tvg-logo="" group-title="news",AR: EURONEWS
@@ -90,15 +66,15 @@ http://31.43.191.125:8080/restream/restream/6976
 #EXTINF:-1 tvg-name="AR: FRANCE 24" tvg-logo="" group-title="news",AR: FRANCE 24
 http://31.43.191.125:8080/restream/restream/6979
 #EXTINF:-1 tvg-name="AR|NEWS: RUSSIA TODAY" tvg-logo="" group-title="news",AR|NEWS: RUSSIA TODAY
-http://31.43.191.125:8080/restream/restream/7028
+http://31.43.191.125:8080/restream/restream/130869
 #EXTINF:-1 tvg-name="AR: Echorouk NEWS" tvg-logo="" group-title="news",AR: Echorouk NEWS
 http://31.43.191.125:8080/restream/restream/97149
 #EXTINF:-1 tvg-name="AR-AlMAJD: NEWS" tvg-logo="" group-title="news",AR-AlMAJD: NEWS
 http://31.43.191.125:8080/restream/restream/130176
 #EXTINF:-1 tvg-name="AR-DZ: AL24 NEWS" tvg-logo="" group-title="news",AR-DZ: AL24 NEWS
-http://31.43.191.125:8080/restream/restream/130191
+http://31.43.191.125:8080/vip4021767785706/99d6a4d1dfb6/130191
 #EXTINF:-1 tvg-name="AR-DZ: ECHOUROUK NEWS" tvg-logo="" group-title="news",AR-DZ: ECHOUROUK NEWS
-http://31.43.191.125:8080/restream/restream/130209
+http://31.43.191.125:8080/vip4021767785706/99d6a4d1dfb6/130209
 #EXTINF:-1 tvg-name="AR-EG: CBC EXTRA NEWS" tvg-logo="" group-title="news",AR-EG: CBC EXTRA NEWS
 http://31.43.191.125:8080/restream/restream/130252
 #EXTINF:-1 tvg-name="AR-EG: NILE NEWS" tvg-logo="" group-title="news",AR-EG: NILE NEWS
@@ -116,12 +92,12 @@ http://31.43.191.125:8080/restream/restream/130372
 #EXTINF:-1 tvg-name="AR-IRAQ: IRAQIA NEWS HD" tvg-logo="" group-title="news",AR-IRAQ: IRAQIA NEWS HD
 http://31.43.191.125:8080/restream/restream/130381
 #EXTINF:-1 tvg-name="AR-KWT: KUWAIT NEWS" tvg-logo="" group-title="news",AR-KWT: KUWAIT NEWS
-http://31.43.191.125:8080/restream/restream/130436
+http://31.43.191.125:8080/JkLSFzavCXNW/EdTWE3FK8Nnz/130436
 #EXTINF:-1 tvg-name="AR-PLS: PALESTINE NEWS" tvg-logo="" group-title="news",AR-PLS: PALESTINE NEWS
 http://31.43.191.125:8080/restream/restream/130565
 #EXTINF:-1 tvg-name="AR-SYR: SYRIA NEWS" tvg-logo="" group-title="news",AR-SYR: SYRIA NEWS
-http://31.43.191.125:8080/restream/restream/130608
-#EXTINF:-1 tvg-name="AR|AL HIWAR HD" tvg-logo="https://www.alhiwar.tv/all/images/logo.png" group-title="news",AR|AL HIWAR HD
+http://31.43.191.125:8080/vip4021767785706/99d6a4d1dfb6/130608
+#EXTINF:-1 tvg-name="AR|NEWS: AL HIWAR" tvg-logo="" group-title="news",AR|NEWS: AL HIWAR
 http://31.43.191.125:8080/restream/restream/130852
 #EXTINF:-1 tvg-name="AR|NEWS: Al MANAR" tvg-logo="" group-title="news",AR|NEWS: Al MANAR
 http://31.43.191.125:8080/restream/restream/130854
@@ -143,49 +119,15 @@ http://31.43.191.125:8080/restream/restream/130866
 http://31.43.191.125:8080/restream/restream/130868
 #EXTINF:-1 tvg-name="AR|NEWS: SKY ARABIA" tvg-logo="" group-title="news",AR|NEWS: SKY ARABIA
 http://31.43.191.125:8080/restream/restream/130870
-#EXTINF:-1 tvg-name="AR|TRT ARABIC FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTG4Z3F2dd0pkfzZLmfWV-8XwK-vLJxpQyliQZJUWufHtskW-EU&usqp=CAU" group-title="news",AR|TRT ARABIC FHD
-http://31.43.191.125:8080/JkLSFzavCXNW/EdTWE3FK8Nnz/130871
+#EXTINF:-1 tvg-name="AR|NEWS: TRT ARABIC" tvg-logo="" group-title="news",AR|NEWS: TRT ARABIC
+http://31.43.191.125:8080/restream/restream/130871
 #EXTINF:-1 tvg-name="AR|SSC: NEWS" tvg-logo="" group-title="news",AR|SSC: NEWS
 http://31.43.191.125:8080/restream/restream/131091
-#EXTINF:-1 tvg-name="AR|STC BBC WORLD NEWS" tvg-logo="" group-title="news",AR|STC BBC WORLD NEWS
-http://my.atrupo4k.com:8080/04b9e3f00f77/YOxpcckwbdczXho/237365
-#EXTINF:-1 tvg-name="AR|STC CNN" tvg-logo="" group-title="news",AR|STC CNN
-http://my.atrupo4k.com:8080/04b9e3f00f77/YOxpcckwbdczXho/237359
-#EXTINF:-1 tvg-name="AR|STC FRANCE 24" tvg-logo="" group-title="news",AR|STC FRANCE 24
-http://my.atrupo4k.com:8080/04b9e3f00f77/YOxpcckwbdczXho/237355
-#EXTINF:-1 tvg-name="AR|STC SSC NEWS" tvg-logo="" group-title="news",AR|STC SSC NEWS
-http://my.atrupo4k.com:8080/04b9e3f00f77/YOxpcckwbdczXho/237325
-#EXTINF:-1 tvg-name="AR|ECHOUROUK NEWS" tvg-logo="" group-title="news",AR|ECHOUROUK NEWS
-http://my.atrupo4k.com:8080/04b9e3f00f77/YOxpcckwbdczXho/69285
-#EXTINF:-1 tvg-name="AR|AL24 News HD" tvg-logo="" group-title="news",AR|AL24 News HD
-http://my.atrupo4k.com:8080/04b9e3f00f77/YOxpcckwbdczXho/69286
-#EXTINF:-1 tvg-name="AR| FOX-NEWS" tvg-logo="" group-title="news",AR| FOX-NEWS
-http://my.atrupo4k.com:8080/04b9e3f00f77/YOxpcckwbdczXho/201940
-#EXTINF:-1 tvg-name="AR| Roya News" tvg-logo="https://img.roya.tv/imagechanger/Size01Q40R927/storage/app/public/images/channels/UdKZBqQO4ODgcN2.png" group-title="news",AR| Roya News
-http://sts.mydroon.com:8080/9127491274/QDXDbuLzFDYaYbD/269724
-#EXTINF:-1 tvg-name="AR|Al MAJD NEWS" tvg-logo="http://kinglogo.newtvhd.com/logoo/AL%20MAJD/news_almajd.png" group-title="news",AR|Al MAJD NEWS
-http://sts.mydroon.com:8080/9127491274/QDXDbuLzFDYaYbD/52321
-#EXTINF:-1 tvg-name="AR|AL ARABY TV 2 HD" tvg-logo="https://www.alaraby2.com/themes/custom/arabytv/images/touch-icon-iphone.png" group-title="news",AR|AL ARABY TV 2 HD
-http://sts.mydroon.com:8080/9127491274/QDXDbuLzFDYaYbD/199710
-#EXTINF:-1 tvg-name="AR|BBC NEWS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVkuFXKZNqK1neEciTt4GWfJk5UDu9ktfzOSRGYT16zxoOluObOvy8XvU" group-title="news",AR|BBC NEWS
-http://sts.mydroon.com:8080/9127491274/QDXDbuLzFDYaYbD/28058
-#EXTINF:-1 tvg-name="AR|RT ARABIC HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQh3T5q-Uja88LQ5aJZ8MPT4gIANAjpJCyJAgcTUjxWb2RNjBg9x_f6plm" group-title="news",AR|RT ARABIC HD
-http://sts.mydroon.com:8080/9127491274/QDXDbuLzFDYaYbD/28055
-#EXTINF:-1 tvg-name="AR| AL ALAM TV" tvg-logo="https://www10.0zz0.com/2020/04/18/22/511993620.png" group-title="news",AR| AL ALAM TV
-http://sts.mydroon.com:8080/9127491274/QDXDbuLzFDYaYbD/28065
-#EXTINF:-1 tvg-name="AR|AL ARABY TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/87/Alaraby_TV_Logo.png" group-title="news",AR|AL ARABY TV HD
-http://sts.mydroon.com:8080/9127491274/QDXDbuLzFDYaYbD/75014
-#EXTINF:-1 tvg-name="AR|Mehwer" tvg-logo="https://www10.0zz0.com/2020/04/18/21/443857709.jpg" group-title="news",AR|Mehwer
-http://sts.mydroon.com:8080/9127491274/QDXDbuLzFDYaYbD/72347
-#EXTINF:-1 tvg-name="AR|TRT ARABI HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTG4Z3F2dd0pkfzZLmfWV-8XwK-vLJxpQyliQZJUWufHtskW-EU&usqp=CAU" group-title="news",AR|TRT ARABI HD
-http://sts.mydroon.com:8080/9127491274/QDXDbuLzFDYaYbD/75022
-#EXTINF:-1 tvg-name="AR|AL MUSTAKILLAH" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b0/Almostaqila.jpg" group-title="news",AR|AL MUSTAKILLAH
-http://sts.mydroon.com:8080/9127491274/QDXDbuLzFDYaYbD/74467
-#EXTINF:-1 tvg-name="AR|NBN LEBANON FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/14/Nbn_lebanon.png" group-title="news",AR|NBN LEBANON FHD
-http://sts.mydroon.com:8080/9127491274/QDXDbuLzFDYaYbD/74470
-#EXTINF:-1 tvg-name="AR|i24NEWS ARABIC SD" tvg-logo="https://lh3.googleusercontent.com/proxy/qgTSqfPpYjPQsGt3jN_6v7YJS0CXugaFgl_1S-jQPc-syXI_TZNV--kPAEKJ1MMPp23auz1OPtC5XTJNXmdZkhRn49ZtCfaEclQNNFUO-yXPizmZ4KU" group-title="news",AR|i24NEWS ARABIC SD
-http://sts.mydroon.com:8080/9127491274/QDXDbuLzFDYaYbD/130657
-#EXTINF:-1 tvg-name="AR|CNBC Arabiya" tvg-logo="https://www6.0zz0.com/2020/04/20/02/998155499.jpg" group-title="news",AR|CNBC Arabiya
-http://sts.mydroon.com:8080/9127491274/QDXDbuLzFDYaYbD/69267
-#EXTINF:-1 tvg-name="AR|SYRIA NEWS TV" tvg-logo="https://www4.0zz0.com/2020/04/20/03/830049452.jpg" group-title="news",AR|SYRIA NEWS TV
-http://sts.mydroon.com:8080/9127491274/QDXDbuLzFDYaYbD/74483
+#EXTINF:-1 tvg-name="EG| AL QAHERA NEWS HD" tvg-logo="" group-title="news",EG| AL QAHERA NEWS HD
+http://mytop2020.life:2095/893963693051/bHksg68fWnri8/785115
+#EXTINF:-1 tvg-name="SA| ASHARQ NEWS CHANNEL FHD" tvg-logo="" group-title="news",SA| ASHARQ NEWS CHANNEL FHD
+http://mytop2020.life:2095/893963693051/bHksg68fWnri8/282322
+#EXTINF:-1 tvg-name="DZ | CHOUROUK NEWS" tvg-logo="" group-title="news",DZ | CHOUROUK NEWS
+http://mytop2020.life:2095/893963693051/bHksg68fWnri8/2542
+#EXTINF:-1 tvg-name="DZ | ECHOROUK NEWS الشروق اخبار" tvg-logo="" group-title="news",DZ | ECHOROUK NEWS الشروق اخبار
+http://mytop2020.life:2095/893963693051/bHksg68fWnri8/310610
