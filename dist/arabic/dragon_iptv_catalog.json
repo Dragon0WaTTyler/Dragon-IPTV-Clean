@@ -9,9 +9,9 @@
     ],
     "raw_group": "ARAB VIP",
     "logo": "",
-    "primary_url": "http://31.43.191.125:8080/restream/restream/6599",
+    "primary_url": "http://31.43.191.125:8080/restream/restream/130860",
     "alternates": [
-      "http://31.43.191.125:8080/restream/restream/130860",
+      "http://31.43.191.125:8080/restream/restream/6599",
       "http://31.43.191.125:8080/vip291775303175/cfd482cf4ee8/6599",
       "http://31.43.191.125:8080/vip9891786472877/d4fe7bf2dee8/6599",
       "http://31.43.191.125:8080/vip8451787127988/cdf29aaa9bc1/6599",
@@ -35,8 +35,8 @@
     ],
     "source_file": "FIW_1793305236_1_89e431_Hunter_4235.m3u",
     "health_status": "reachable",
-    "health_checked_urls": 1,
-    "health_promoted": false
+    "health_checked_urls": 2,
+    "health_promoted": true
   },
   {
     "id": "dragon_arabic_23896afbfed8",
@@ -48,9 +48,9 @@
     ],
     "raw_group": "ARAB VIP",
     "logo": "",
-    "primary_url": "http://31.43.191.125:8080/restream/restream/130861",
+    "primary_url": "http://31.43.191.125:8080/restream/restream/6597",
     "alternates": [
-      "http://31.43.191.125:8080/restream/restream/6597",
+      "http://31.43.191.125:8080/restream/restream/130861",
       "http://31.43.191.125:8080/restream/restream/130859",
       "http://31.43.191.125:8080/restream/restream/130858",
       "http://31.43.191.125:8080/vip291775303175/cfd482cf4ee8/6597",
@@ -98,8 +98,8 @@
     ],
     "source_file": "FIW_1793305236_1_89e431_Hunter_4235.m3u",
     "health_status": "reachable",
-    "health_checked_urls": 2,
-    "health_promoted": true
+    "health_checked_urls": 1,
+    "health_promoted": false
   },
   {
     "id": "dragon_arabic_ed51d247c049",
@@ -111,10 +111,10 @@
     ],
     "raw_group": "ARAB VIP",
     "logo": "",
-    "primary_url": "http://31.43.191.125:8080/restream/restream/6598",
+    "primary_url": "http://31.43.191.125:8080/vip9891786472877/d4fe7bf2dee8/6598",
     "alternates": [
+      "http://31.43.191.125:8080/restream/restream/6598",
       "http://31.43.191.125:8080/vip291775303175/cfd482cf4ee8/6598",
-      "http://31.43.191.125:8080/vip9891786472877/d4fe7bf2dee8/6598",
       "http://31.43.191.125:8080/vip8451787127988/cdf29aaa9bc1/6598",
       "http://31.43.191.125:8080/vip5361785063764/a40eb73b1039/6598",
       "http://31.43.191.125:8080/vip4021767785706/99d6a4d1dfb6/6598",
@@ -128,8 +128,8 @@
     ],
     "source_file": "FIW_1793305236_1_89e431_Hunter_4235.m3u",
     "health_status": "reachable",
-    "health_checked_urls": 1,
-    "health_promoted": false
+    "health_checked_urls": 3,
+    "health_promoted": true
   },
   {
     "id": "dragon_arabic_137efd2fab40",
@@ -141,9 +141,9 @@
     ],
     "raw_group": "ARAB VIP NEW",
     "logo": "",
-    "primary_url": "http://u8k.pro:2082/893963693051/bHksg68fWnri8/1103",
+    "primary_url": "http://31.43.191.125:8080/restream/restream/130848",
     "alternates": [
-      "http://31.43.191.125:8080/restream/restream/130848",
+      "http://u8k.pro:2082/893963693051/bHksg68fWnri8/1103",
       "http://x12tv.co:2082/893963693051/bHksg68fWnri8/1103",
       "http://u8k.pro:2082/893963693051/bHksg68fWnri8/835569",
       "http://x12tv.co:2082/893963693051/bHksg68fWnri8/835569",
@@ -168,8 +168,8 @@
     ],
     "source_file": "FIW_1793305335_1_527868_Hunter_9B9E.m3u",
     "health_status": "reachable",
-    "health_checked_urls": 2,
-    "health_promoted": true
+    "health_checked_urls": 1,
+    "health_promoted": false
   },
   {
     "id": "dragon_arabic_e8dfd62b6574",
@@ -190,8 +190,8 @@
       "http://mytop2020.life:2095/893963693051/bHksg68fWnri8/1542"
     ],
     "source_file": "FIW_1793305335_1_527868_Hunter_9B9E.m3u",
-    "health_status": "reachable",
-    "health_checked_urls": 1,
+    "health_status": "unreachable",
+    "health_checked_urls": 3,
     "health_promoted": false
   },
   {
@@ -224,8 +224,8 @@
       "http://31.43.191.125:8080/VIP012421756565151601/123a7c80aec7/130849"
     ],
     "source_file": "FIW_1793305335_1_527868_Hunter_9B9E.m3u",
-    "health_status": "reachable",
-    "health_checked_urls": 1,
+    "health_status": "unreachable",
+    "health_checked_urls": 3,
     "health_promoted": false
   },
   {
@@ -268,14 +268,14 @@
     ],
     "raw_group": "",
     "logo": "",
-    "primary_url": "http://germanyservers2.net/live/Volkan000/hsue1185/9ef96171-861e-44b7-9c0e-499b449a87f8.m3u",
+    "primary_url": "http://germanyservers3.net/live/Volkan000/hsue1185/9ef96171-861e-44b7-9c0e-499b449a87f8.m3u",
     "alternates": [
-      "http://germanyservers3.net/live/Volkan000/hsue1185/9ef96171-861e-44b7-9c0e-499b449a87f8.m3u"
+      "http://germanyservers2.net/live/Volkan000/hsue1185/9ef96171-861e-44b7-9c0e-499b449a87f8.m3u"
     ],
     "source_file": "FIW_1793305324_2_d73e97_Hunter_E51D.m3u",
     "health_status": "reachable",
-    "health_checked_urls": 2,
-    "health_promoted": true
+    "health_checked_urls": 1,
+    "health_promoted": false
   },
   {
     "id": "dragon_arabic_627d8769d22d",
@@ -296,8 +296,8 @@
       "http://mytop2020.life:2095/893963693051/bHksg68fWnri8/316403"
     ],
     "source_file": "FIW_1793305335_1_527868_Hunter_9B9E.m3u",
-    "health_status": "reachable",
-    "health_checked_urls": 1,
+    "health_status": "unreachable",
+    "health_checked_urls": 3,
     "health_promoted": false
   },
   {
@@ -319,8 +319,8 @@
       "http://mytop2020.life:2095/893963693051/bHksg68fWnri8/316404"
     ],
     "source_file": "FIW_1793305335_1_527868_Hunter_9B9E.m3u",
-    "health_status": "reachable",
-    "health_checked_urls": 1,
+    "health_status": "unreachable",
+    "health_checked_urls": 3,
     "health_promoted": false
   },
   {
@@ -342,8 +342,8 @@
       "http://mytop2020.life:2095/893963693051/bHksg68fWnri8/2248"
     ],
     "source_file": "FIW_1793305335_1_527868_Hunter_9B9E.m3u",
-    "health_status": "reachable",
-    "health_checked_urls": 1,
+    "health_status": "unreachable",
+    "health_checked_urls": 3,
     "health_promoted": false
   },
   {
@@ -356,9 +356,9 @@
     ],
     "raw_group": "ARAB VIP",
     "logo": "",
-    "primary_url": "http://31.43.191.125:8080/restream/restream/130739",
+    "primary_url": "http://31.43.191.125:8080/restream/restream/6969",
     "alternates": [
-      "http://31.43.191.125:8080/restream/restream/6969",
+      "http://31.43.191.125:8080/restream/restream/130739",
       "http://u8k.pro:2082/893963693051/bHksg68fWnri8/2251",
       "http://x12tv.co:2082/893963693051/bHksg68fWnri8/2251",
       "http://u8k.pro:2082/893963693051/bHksg68fWnri8/871775",
@@ -402,8 +402,8 @@
     ],
     "source_file": "FIW_1793305335_1_527868_Hunter_9B9E.m3u",
     "health_status": "reachable",
-    "health_checked_urls": 2,
-    "health_promoted": true
+    "health_checked_urls": 1,
+    "health_promoted": false
   },
   {
     "id": "dragon_arabic_8a0b665b5957",
@@ -415,10 +415,10 @@
     ],
     "raw_group": "ARAB VIP NEW",
     "logo": "",
-    "primary_url": "http://31.43.191.125:8080/restream/restream/130742",
+    "primary_url": "http://31.43.191.125:8080/vip9891786472877/d4fe7bf2dee8/130742",
     "alternates": [
+      "http://31.43.191.125:8080/restream/restream/130742",
       "http://31.43.191.125:8080/vip291775303175/cfd482cf4ee8/130742",
-      "http://31.43.191.125:8080/vip9891786472877/d4fe7bf2dee8/130742",
       "http://31.43.191.125:8080/vip8451787127988/cdf29aaa9bc1/130742",
       "http://31.43.191.125:8080/vip5361785063764/a40eb73b1039/130742",
       "http://31.43.191.125:8080/vip4021767785706/99d6a4d1dfb6/130742",
@@ -430,8 +430,8 @@
     ],
     "source_file": "FIW_1793305236_1_89e431_Hunter_4235.m3u",
     "health_status": "reachable",
-    "health_checked_urls": 1,
-    "health_promoted": false
+    "health_checked_urls": 3,
+    "health_promoted": true
   },
   {
     "id": "dragon_arabic_4d3717c2e019",
@@ -443,10 +443,10 @@
     ],
     "raw_group": "ARAB VIP",
     "logo": "",
-    "primary_url": "http://31.43.191.125:8080/vip9891786472877/d4fe7bf2dee8/6527",
+    "primary_url": "http://31.43.191.125:8080/restream/restream/6527",
     "alternates": [
-      "http://31.43.191.125:8080/restream/restream/6527",
       "http://31.43.191.125:8080/vip291775303175/cfd482cf4ee8/6527",
+      "http://31.43.191.125:8080/vip9891786472877/d4fe7bf2dee8/6527",
       "http://31.43.191.125:8080/vip8451787127988/cdf29aaa9bc1/6527",
       "http://31.43.191.125:8080/vip5361785063764/a40eb73b1039/6527",
       "http://31.43.191.125:8080/vip4021767785706/99d6a4d1dfb6/6527",
@@ -457,9 +457,9 @@
       "http://31.43.191.125:8080/VIP012421756565151601/123a7c80aec7/6527"
     ],
     "source_file": "FIW_1793305236_1_89e431_Hunter_4235.m3u",
-    "health_status": "reachable",
+    "health_status": "unreachable",
     "health_checked_urls": 3,
-    "health_promoted": true
+    "health_promoted": false
   },
   {
     "id": "dragon_arabic_bde7b372b436",
@@ -10972,8 +10972,8 @@
       "http://mytop2020.life:2095/893963693051/bHksg68fWnri8/785115"
     ],
     "source_file": "FIW_1793305335_1_527868_Hunter_9B9E.m3u",
-    "health_status": "reachable",
-    "health_checked_urls": 1,
+    "health_status": "unreachable",
+    "health_checked_urls": 3,
     "health_promoted": false
   },
   {
@@ -11919,8 +11919,8 @@
       "http://mytop2020.life:2095/893963693051/bHksg68fWnri8/282322"
     ],
     "source_file": "FIW_1793305335_1_527868_Hunter_9B9E.m3u",
-    "health_status": "reachable",
-    "health_checked_urls": 1,
+    "health_status": "unreachable",
+    "health_checked_urls": 3,
     "health_promoted": false
   },
   {
@@ -12694,8 +12694,8 @@
       "http://mytop2020.life:2095/893963693051/bHksg68fWnri8/819901"
     ],
     "source_file": "FIW_1793305335_1_527868_Hunter_9B9E.m3u",
-    "health_status": "reachable",
-    "health_checked_urls": 1,
+    "health_status": "unreachable",
+    "health_checked_urls": 3,
     "health_promoted": false
   },
   {
@@ -12780,8 +12780,8 @@
       "http://mytop2020.life:2095/893963693051/bHksg68fWnri8/819905"
     ],
     "source_file": "FIW_1793305335_1_527868_Hunter_9B9E.m3u",
-    "health_status": "reachable",
-    "health_checked_urls": 1,
+    "health_status": "unreachable",
+    "health_checked_urls": 3,
     "health_promoted": false
   },
   {
@@ -13632,8 +13632,8 @@
       "http://mytop2020.life:2095/893963693051/bHksg68fWnri8/2542"
     ],
     "source_file": "FIW_1793305335_1_527868_Hunter_9B9E.m3u",
-    "health_status": "reachable",
-    "health_checked_urls": 1,
+    "health_status": "unreachable",
+    "health_checked_urls": 3,
     "health_promoted": false
   },
   {
@@ -13800,9 +13800,9 @@
     ],
     "raw_group": "ARAB VIP",
     "logo": "",
-    "primary_url": "http://u8k.pro:2082/893963693051/bHksg68fWnri8/4792",
+    "primary_url": "http://31.43.191.125:8080/restream/restream/6398",
     "alternates": [
-      "http://31.43.191.125:8080/restream/restream/6398",
+      "http://u8k.pro:2082/893963693051/bHksg68fWnri8/4792",
       "http://x12tv.co:2082/893963693051/bHksg68fWnri8/4792",
       "http://mnew8765.co:2082/893963693051/bHksg68fWnri8/4792",
       "http://my98858.site:2082/893963693051/bHksg68fWnri8/4792",
@@ -13821,8 +13821,8 @@
     ],
     "source_file": "FIW_1793305236_1_89e431_Hunter_4235.m3u",
     "health_status": "reachable",
-    "health_checked_urls": 2,
-    "health_promoted": true
+    "health_checked_urls": 1,
+    "health_promoted": false
   },
   {
     "id": "dragon_arabic_55b7ac5f7721",
@@ -14106,8 +14106,8 @@
       "http://mytop2020.life:2095/893963693051/bHksg68fWnri8/310610"
     ],
     "source_file": "FIW_1793305335_1_527868_Hunter_9B9E.m3u",
-    "health_status": "reachable",
-    "health_checked_urls": 1,
+    "health_status": "unreachable",
+    "health_checked_urls": 3,
     "health_promoted": false
   },
   {
@@ -15975,9 +15975,9 @@
     ],
     "raw_group": "EU | BOSNIA VIP",
     "logo": "",
-    "primary_url": "http://31.43.191.125:8080/restream/restream/4112",
+    "primary_url": "http://31.43.191.125:8080/Dani/Dani/4112",
     "alternates": [
-      "http://31.43.191.125:8080/Dani/Dani/4112",
+      "http://31.43.191.125:8080/restream/restream/4112",
       "http://31.43.191.125:8080/vip291775303175/cfd482cf4ee8/4112",
       "http://31.43.191.125:8080/vip9891786472877/d4fe7bf2dee8/4112",
       "http://31.43.191.125:8080/vip8451787127988/cdf29aaa9bc1/4112",
@@ -15990,9 +15990,9 @@
       "http://31.43.191.125:8080/VIP012421756565151601/123a7c80aec7/4112"
     ],
     "source_file": "FIW_1793273370_1_95d01f_Hunter_0561.m3u",
-    "health_status": "reachable",
-    "health_checked_urls": 2,
-    "health_promoted": true
+    "health_status": "unreachable",
+    "health_checked_urls": 3,
+    "health_promoted": false
   },
   {
     "id": "dragon_arabic_a54ad2c8f487",
@@ -19588,9 +19588,9 @@
     ],
     "raw_group": "ARAB | OSN VIP",
     "logo": "",
-    "primary_url": "http://31.43.191.125:8080/vip291775303175/cfd482cf4ee8/6446",
+    "primary_url": "http://31.43.191.125:8080/restream/restream/6446",
     "alternates": [
-      "http://31.43.191.125:8080/restream/restream/6446",
+      "http://31.43.191.125:8080/vip291775303175/cfd482cf4ee8/6446",
       "http://31.43.191.125:8080/vip9891786472877/d4fe7bf2dee8/6446",
       "http://31.43.191.125:8080/vip8451787127988/cdf29aaa9bc1/6446",
       "http://31.43.191.125:8080/vip5361785063764/a40eb73b1039/6446",
@@ -19602,9 +19602,9 @@
       "http://31.43.191.125:8080/VIP012421756565151601/123a7c80aec7/6446"
     ],
     "source_file": "FIW_1793305236_1_89e431_Hunter_4235.m3u",
-    "health_status": "reachable",
-    "health_checked_urls": 2,
-    "health_promoted": true
+    "health_status": "unreachable",
+    "health_checked_urls": 3,
+    "health_promoted": false
   },
   {
     "id": "dragon_arabic_a6f82f7e90d4",
@@ -20421,9 +20421,9 @@
     ],
     "raw_group": "ARAB | OSN VIP",
     "logo": "",
-    "primary_url": "http://31.43.191.125:8080/vip291775303175/cfd482cf4ee8/6476",
+    "primary_url": "http://31.43.191.125:8080/restream/restream/6476",
     "alternates": [
-      "http://31.43.191.125:8080/restream/restream/6476",
+      "http://31.43.191.125:8080/vip291775303175/cfd482cf4ee8/6476",
       "http://31.43.191.125:8080/vip9891786472877/d4fe7bf2dee8/6476",
       "http://31.43.191.125:8080/vip8451787127988/cdf29aaa9bc1/6476",
       "http://31.43.191.125:8080/vip5361785063764/a40eb73b1039/6476",
@@ -20435,9 +20435,9 @@
       "http://31.43.191.125:8080/VIP012421756565151601/123a7c80aec7/6476"
     ],
     "source_file": "FIW_1793305236_1_89e431_Hunter_4235.m3u",
-    "health_status": "reachable",
-    "health_checked_urls": 2,
-    "health_promoted": true
+    "health_status": "unreachable",
+    "health_checked_urls": 3,
+    "health_promoted": false
   },
   {
     "id": "dragon_arabic_4d70dd107646",
@@ -21037,10 +21037,10 @@
     ],
     "raw_group": "ARAB | OSN VIP",
     "logo": "",
-    "primary_url": "http://31.43.191.125:8080/vip9891786472877/d4fe7bf2dee8/6497",
+    "primary_url": "http://31.43.191.125:8080/restream/restream/6497",
     "alternates": [
-      "http://31.43.191.125:8080/restream/restream/6497",
       "http://31.43.191.125:8080/vip291775303175/cfd482cf4ee8/6497",
+      "http://31.43.191.125:8080/vip9891786472877/d4fe7bf2dee8/6497",
       "http://31.43.191.125:8080/vip8451787127988/cdf29aaa9bc1/6497",
       "http://31.43.191.125:8080/vip5361785063764/a40eb73b1039/6497",
       "http://31.43.191.125:8080/vip4021767785706/99d6a4d1dfb6/6497",
@@ -21051,9 +21051,9 @@
       "http://31.43.191.125:8080/VIP012421756565151601/123a7c80aec7/6497"
     ],
     "source_file": "FIW_1793305236_1_89e431_Hunter_4235.m3u",
-    "health_status": "reachable",
+    "health_status": "unreachable",
     "health_checked_urls": 3,
-    "health_promoted": true
+    "health_promoted": false
   },
   {
     "id": "dragon_arabic_808327be9459",
@@ -21065,9 +21065,9 @@
     ],
     "raw_group": "ARAB | OSN VIP",
     "logo": "",
-    "primary_url": "http://31.43.191.125:8080/vip291775303175/cfd482cf4ee8/6498",
+    "primary_url": "http://31.43.191.125:8080/restream/restream/6498",
     "alternates": [
-      "http://31.43.191.125:8080/restream/restream/6498",
+      "http://31.43.191.125:8080/vip291775303175/cfd482cf4ee8/6498",
       "http://31.43.191.125:8080/vip9891786472877/d4fe7bf2dee8/6498",
       "http://31.43.191.125:8080/vip8451787127988/cdf29aaa9bc1/6498",
       "http://31.43.191.125:8080/vip5361785063764/a40eb73b1039/6498",
@@ -21079,9 +21079,9 @@
       "http://31.43.191.125:8080/VIP012421756565151601/123a7c80aec7/6498"
     ],
     "source_file": "FIW_1793305236_1_89e431_Hunter_4235.m3u",
-    "health_status": "reachable",
-    "health_checked_urls": 2,
-    "health_promoted": true
+    "health_status": "unreachable",
+    "health_checked_urls": 3,
+    "health_promoted": false
   },
   {
     "id": "dragon_arabic_0ec6c3ed8b2e",
@@ -24264,10 +24264,10 @@
     ],
     "raw_group": "ARAB VIP",
     "logo": "",
-    "primary_url": "http://31.43.191.125:8080/vip291775303175/cfd482cf4ee8/6630",
+    "primary_url": "http://31.43.191.125:8080/restream/restream/6630",
     "alternates": [
-      "http://31.43.191.125:8080/restream/restream/6630",
       "http://31.43.191.125:8080/restream/restream/130853",
+      "http://31.43.191.125:8080/vip291775303175/cfd482cf4ee8/6630",
       "http://31.43.191.125:8080/vip9891786472877/d4fe7bf2dee8/6630",
       "http://31.43.191.125:8080/vip8451787127988/cdf29aaa9bc1/6630",
       "http://31.43.191.125:8080/vip5361785063764/a40eb73b1039/6630",
@@ -24289,9 +24289,9 @@
       "http://31.43.191.125:8080/VIP012421756565151601/123a7c80aec7/130853"
     ],
     "source_file": "FIW_1793305236_1_89e431_Hunter_4235.m3u",
-    "health_status": "reachable",
+    "health_status": "unreachable",
     "health_checked_urls": 3,
-    "health_promoted": true
+    "health_promoted": false
   },
   {
     "id": "dragon_arabic_b66bc9b9c290",
@@ -30785,10 +30785,10 @@
     ],
     "raw_group": "ARAB VIP",
     "logo": "",
-    "primary_url": "http://31.43.191.125:8080/restream/restream/6904",
+    "primary_url": "http://31.43.191.125:8080/vip9891786472877/d4fe7bf2dee8/6904",
     "alternates": [
+      "http://31.43.191.125:8080/restream/restream/6904",
       "http://31.43.191.125:8080/vip291775303175/cfd482cf4ee8/6904",
-      "http://31.43.191.125:8080/vip9891786472877/d4fe7bf2dee8/6904",
       "http://31.43.191.125:8080/vip8451787127988/cdf29aaa9bc1/6904",
       "http://31.43.191.125:8080/vip5361785063764/a40eb73b1039/6904",
       "http://31.43.191.125:8080/vip4021767785706/99d6a4d1dfb6/6904",
@@ -30799,9 +30799,9 @@
       "http://31.43.191.125:8080/VIP012421756565151601/123a7c80aec7/6904"
     ],
     "source_file": "FIW_1793305236_1_89e431_Hunter_4235.m3u",
-    "health_status": "unreachable",
+    "health_status": "reachable",
     "health_checked_urls": 3,
-    "health_promoted": false
+    "health_promoted": true
   },
   {
     "id": "dragon_arabic_4aad4ee22195",
@@ -32588,9 +32588,9 @@
     ],
     "raw_group": "ARAB VIP",
     "logo": "",
-    "primary_url": "http://31.43.191.125:8080/restream/restream/6976",
+    "primary_url": "http://31.43.191.125:8080/vip291775303175/cfd482cf4ee8/6976",
     "alternates": [
-      "http://31.43.191.125:8080/vip291775303175/cfd482cf4ee8/6976",
+      "http://31.43.191.125:8080/restream/restream/6976",
       "http://31.43.191.125:8080/vip9891786472877/d4fe7bf2dee8/6976",
       "http://31.43.191.125:8080/vip8451787127988/cdf29aaa9bc1/6976",
       "http://31.43.191.125:8080/vip5361785063764/a40eb73b1039/6976",
@@ -32603,8 +32603,8 @@
     ],
     "source_file": "FIW_1793305236_1_89e431_Hunter_4235.m3u",
     "health_status": "reachable",
-    "health_checked_urls": 1,
-    "health_promoted": false
+    "health_checked_urls": 2,
+    "health_promoted": true
   },
   {
     "id": "dragon_arabic_bab978fea45c",
@@ -32668,9 +32668,9 @@
     ],
     "raw_group": "ARAB VIP",
     "logo": "",
-    "primary_url": "http://31.43.191.125:8080/restream/restream/130867",
+    "primary_url": "http://31.43.191.125:8080/restream/restream/6979",
     "alternates": [
-      "http://31.43.191.125:8080/restream/restream/6979",
+      "http://31.43.191.125:8080/restream/restream/130867",
       "http://31.43.191.125:8080/vip291775303175/cfd482cf4ee8/6979",
       "http://31.43.191.125:8080/vip9891786472877/d4fe7bf2dee8/6979",
       "http://31.43.191.125:8080/vip8451787127988/cdf29aaa9bc1/6979",
@@ -32693,9 +32693,9 @@
       "http://31.43.191.125:8080/VIP012421756565151601/123a7c80aec7/130867"
     ],
     "source_file": "FIW_1793305236_1_89e431_Hunter_4235.m3u",
-    "health_status": "reachable",
-    "health_checked_urls": 2,
-    "health_promoted": true
+    "health_status": "unreachable",
+    "health_checked_urls": 3,
+    "health_promoted": false
   },
   {
     "id": "dragon_arabic_cda11a39599e",
@@ -33831,9 +33831,9 @@
     ],
     "raw_group": "ARAB VIP",
     "logo": "",
-    "primary_url": "http://31.43.191.125:8080/restream/restream/130869",
+    "primary_url": "http://31.43.191.125:8080/restream/restream/7028",
     "alternates": [
-      "http://31.43.191.125:8080/restream/restream/7028",
+      "http://31.43.191.125:8080/restream/restream/130869",
       "http://31.43.191.125:8080/vip291775303175/cfd482cf4ee8/7028",
       "http://31.43.191.125:8080/vip9891786472877/d4fe7bf2dee8/7028",
       "http://31.43.191.125:8080/vip8451787127988/cdf29aaa9bc1/7028",
@@ -33856,9 +33856,9 @@
       "http://31.43.191.125:8080/VIP012421756565151601/123a7c80aec7/130869"
     ],
     "source_file": "FIW_1793305236_1_89e431_Hunter_4235.m3u",
-    "health_status": "reachable",
-    "health_checked_urls": 2,
-    "health_promoted": true
+    "health_status": "unreachable",
+    "health_checked_urls": 3,
+    "health_promoted": false
   },
   {
     "id": "dragon_arabic_d7bb23041eda",
@@ -35082,10 +35082,10 @@
     ],
     "raw_group": "ARAB VIP NEW",
     "logo": "",
-    "primary_url": "http://31.43.191.125:8080/vip9891786472877/d4fe7bf2dee8/130191",
+    "primary_url": "http://31.43.191.125:8080/restream/restream/130191",
     "alternates": [
-      "http://31.43.191.125:8080/restream/restream/130191",
       "http://31.43.191.125:8080/vip291775303175/cfd482cf4ee8/130191",
+      "http://31.43.191.125:8080/vip9891786472877/d4fe7bf2dee8/130191",
       "http://31.43.191.125:8080/vip8451787127988/cdf29aaa9bc1/130191",
       "http://31.43.191.125:8080/vip5361785063764/a40eb73b1039/130191",
       "http://31.43.191.125:8080/vip4021767785706/99d6a4d1dfb6/130191",
@@ -35097,8 +35097,8 @@
     ],
     "source_file": "FIW_1793305236_1_89e431_Hunter_4235.m3u",
     "health_status": "reachable",
-    "health_checked_urls": 3,
-    "health_promoted": true
+    "health_checked_urls": 1,
+    "health_promoted": false
   },
   {
     "id": "dragon_arabic_b04ca84ae419",
@@ -35552,10 +35552,10 @@
     ],
     "raw_group": "ARAB VIP NEW",
     "logo": "",
-    "primary_url": "http://31.43.191.125:8080/vip9891786472877/d4fe7bf2dee8/130209",
+    "primary_url": "http://31.43.191.125:8080/restream/restream/130209",
     "alternates": [
-      "http://31.43.191.125:8080/restream/restream/130209",
       "http://31.43.191.125:8080/vip291775303175/cfd482cf4ee8/130209",
+      "http://31.43.191.125:8080/vip9891786472877/d4fe7bf2dee8/130209",
       "http://31.43.191.125:8080/vip8451787127988/cdf29aaa9bc1/130209",
       "http://31.43.191.125:8080/vip5361785063764/a40eb73b1039/130209",
       "http://31.43.191.125:8080/vip4021767785706/99d6a4d1dfb6/130209",
@@ -35567,8 +35567,8 @@
     ],
     "source_file": "FIW_1793305236_1_89e431_Hunter_4235.m3u",
     "health_status": "reachable",
-    "health_checked_urls": 3,
-    "health_promoted": true
+    "health_checked_urls": 1,
+    "health_promoted": false
   },
   {
     "id": "dragon_arabic_efef63f05180",
@@ -41271,9 +41271,9 @@
     ],
     "raw_group": "ARAB VIP NEW",
     "logo": "",
-    "primary_url": "http://31.43.191.125:8080/vip291775303175/cfd482cf4ee8/130436",
+    "primary_url": "http://31.43.191.125:8080/restream/restream/130436",
     "alternates": [
-      "http://31.43.191.125:8080/restream/restream/130436",
+      "http://31.43.191.125:8080/vip291775303175/cfd482cf4ee8/130436",
       "http://31.43.191.125:8080/vip9891786472877/d4fe7bf2dee8/130436",
       "http://31.43.191.125:8080/vip8451787127988/cdf29aaa9bc1/130436",
       "http://31.43.191.125:8080/vip5361785063764/a40eb73b1039/130436",
@@ -41286,8 +41286,8 @@
     ],
     "source_file": "FIW_1793305236_1_89e431_Hunter_4235.m3u",
     "health_status": "reachable",
-    "health_checked_urls": 2,
-    "health_promoted": true
+    "health_checked_urls": 1,
+    "health_promoted": false
   },
   {
     "id": "dragon_arabic_c874f913845b",
@@ -44283,9 +44283,9 @@
     ],
     "raw_group": "ARAB VIP NEW",
     "logo": "",
-    "primary_url": "http://31.43.191.125:8080/restream/restream/130565",
+    "primary_url": "http://31.43.191.125:8080/restream/restream/130564",
     "alternates": [
-      "http://31.43.191.125:8080/restream/restream/130564",
+      "http://31.43.191.125:8080/restream/restream/130565",
       "http://31.43.191.125:8080/vip291775303175/cfd482cf4ee8/130565",
       "http://31.43.191.125:8080/vip291775303175/cfd482cf4ee8/130564",
       "http://31.43.191.125:8080/vip9891786472877/d4fe7bf2dee8/130565",
@@ -44309,8 +44309,8 @@
     ],
     "source_file": "FIW_1793305236_1_89e431_Hunter_4235.m3u",
     "health_status": "reachable",
-    "health_checked_urls": 1,
-    "health_promoted": false
+    "health_checked_urls": 2,
+    "health_promoted": true
   },
   {
     "id": "dragon_arabic_7f1a08f434fa",
@@ -48688,8 +48688,8 @@
       "http://31.43.191.125:8080/VIP012421756565151601/123a7c80aec7/130734"
     ],
     "source_file": "FIW_1793305236_1_89e431_Hunter_4235.m3u",
-    "health_status": "reachable",
-    "health_checked_urls": 1,
+    "health_status": "unreachable",
+    "health_checked_urls": 3,
     "health_promoted": false
   },
   {
@@ -57336,14 +57336,14 @@
     ],
     "raw_group": "",
     "logo": "",
-    "primary_url": "http://germanyservers3.net/live/Volkan000/hsue1185/08178858-134d-4cea-b27f-7f6818b213c6.m3u",
+    "primary_url": "http://germanyservers2.net/live/Volkan000/hsue1185/08178858-134d-4cea-b27f-7f6818b213c6.m3u",
     "alternates": [
-      "http://germanyservers2.net/live/Volkan000/hsue1185/08178858-134d-4cea-b27f-7f6818b213c6.m3u"
+      "http://germanyservers3.net/live/Volkan000/hsue1185/08178858-134d-4cea-b27f-7f6818b213c6.m3u"
     ],
     "source_file": "FIW_1793305324_2_d73e97_Hunter_E51D.m3u",
-    "health_status": "unreachable",
+    "health_status": "reachable",
     "health_checked_urls": 2,
-    "health_promoted": false
+    "health_promoted": true
   },
   {
     "id": "dragon_arabic_5b4375bb562c",
