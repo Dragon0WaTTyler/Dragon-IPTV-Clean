@@ -1,137 +1,47 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="AR: AL JAZEERA MUBASHER" tvg-logo="" group-title="news",AR: AL JAZEERA MUBASHER
-http://31.43.191.125:8080/restream/restream/130860
-#EXTINF:-1 tvg-name="AR: AL JAZEERA" tvg-logo="" group-title="news",AR: AL JAZEERA
-http://31.43.191.125:8080/restream/restream/6597
-#EXTINF:-1 tvg-name="AL ARABIYA HD" tvg-logo="" group-title="news",AL ARABIYA HD
-http://31.43.191.125:8080/restream/restream/130848
-#EXTINF:-1 tvg-name="AL ARABIYA HADATH" tvg-logo="" group-title="news",AL ARABIYA HADATH
-http://u8k.pro:2082/893963693051/bHksg68fWnri8/1542
-#EXTINF:-1 tvg-name="AL ARABIYA BUSINESS" tvg-logo="" group-title="news",AL ARABIYA BUSINESS
-http://31.43.191.125:8080/restream/restream/130849
-#EXTINF:-1 tvg-name="AR:AL HADATH HD" tvg-logo="" group-title="news",AR:AL HADATH HD
-http://31.43.191.125:8080/restream/restream/130851
-#EXTINF:-1 tvg-name="IQ:AL HADATH TV HD" tvg-logo="" group-title="news",IQ:AL HADATH TV HD
-http://germanyservers3.net/live/Volkan000/hsue1185/9ef96171-861e-44b7-9c0e-499b449a87f8.m3u
-#EXTINF:-1 tvg-name="SKY NEWS ARABIA" tvg-logo="" group-title="news",SKY NEWS ARABIA
-http://u8k.pro:2082/893963693051/bHksg68fWnri8/316403
-#EXTINF:-1 tvg-name="SKY NEWS ARABIA (PORTRAIT) (1280P)" tvg-logo="" group-title="news",SKY NEWS ARABIA (PORTRAIT) (1280P)
-http://u8k.pro:2082/893963693051/bHksg68fWnri8/316404
-#EXTINF:-1 tvg-name="FRANCE 24 ARABIC" tvg-logo="" group-title="news",FRANCE 24 ARABIC
-http://u8k.pro:2082/893963693051/bHksg68fWnri8/2248
-#EXTINF:-1 tvg-name="BBC ARABIC" tvg-logo="" group-title="news",BBC ARABIC
-http://31.43.191.125:8080/restream/restream/6969
-#EXTINF:-1 tvg-name="AR|DOCU: DW ARABIC" tvg-logo="" group-title="news",AR|DOCU: DW ARABIC
-http://31.43.191.125:8080/vip9891786472877/d4fe7bf2dee8/130742
-#EXTINF:-1 tvg-name="AR: AL MAYADEEN" tvg-logo="" group-title="news",AR: AL MAYADEEN
-http://31.43.191.125:8080/restream/restream/6527
-#EXTINF:-1 tvg-name="AR-LBN: AL MAYADEEN" tvg-logo="" group-title="news",AR-LBN: AL MAYADEEN
-http://31.43.191.125:8080/restream/restream/130444
-#EXTINF:-1 tvg-name="EG| AL QAHERA NEWS HD" tvg-logo="" group-title="news",EG| AL QAHERA NEWS HD
-http://u8k.pro:2082/893963693051/bHksg68fWnri8/785115
-#EXTINF:-1 tvg-name="SA| ASHARQ NEWS CHANNEL FHD" tvg-logo="" group-title="news",SA| ASHARQ NEWS CHANNEL FHD
-http://u8k.pro:2082/893963693051/bHksg68fWnri8/282322
-#EXTINF:-1 tvg-name="DZ | CHOUROUK NEWS" tvg-logo="" group-title="news",DZ | CHOUROUK NEWS
-http://u8k.pro:2082/893963693051/bHksg68fWnri8/2542
-#EXTINF:-1 tvg-name="AR: DZAIR NEWS" tvg-logo="" group-title="news",AR: DZAIR NEWS
-http://31.43.191.125:8080/restream/restream/6398
-#EXTINF:-1 tvg-name="DZ | ECHOROUK NEWS الشروق اخبار" tvg-logo="" group-title="news",DZ | ECHOROUK NEWS الشروق اخبار
-http://u8k.pro:2082/893963693051/bHksg68fWnri8/310610
-#EXTINF:-1 tvg-name="AR: OSN NEWS" tvg-logo="" group-title="news",AR: OSN NEWS
-http://31.43.191.125:8080/restream/restream/6446
-#EXTINF:-1 tvg-name="AR: OSN SKY NEWS" tvg-logo="" group-title="news",AR: OSN SKY NEWS
-http://31.43.191.125:8080/restream/restream/6459
-#EXTINF:-1 tvg-name="AR: ANN NEWS" tvg-logo="" group-title="news",AR: ANN NEWS
-http://31.43.191.125:8080/restream/restream/6533
-#EXTINF:-1 tvg-name="AR: PALESTINE NEWS" tvg-logo="" group-title="news",AR: PALESTINE NEWS
-http://31.43.191.125:8080/restream/restream/6549
-#EXTINF:-1 tvg-name="AR: IRAQIA NEWS" tvg-logo="" group-title="news",AR: IRAQIA NEWS
-http://31.43.191.125:8080/restream/restream/6577
-#EXTINF:-1 tvg-name="AR: AL SHARQIYA NEWS" tvg-logo="" group-title="news",AR: AL SHARQIYA NEWS
-http://31.43.191.125:8080/restream/restream/6590
-#EXTINF:-1 tvg-name="AR|NEWS: Al EKHBARIYA" tvg-logo="" group-title="news",AR|NEWS: Al EKHBARIYA
-http://31.43.191.125:8080/restream/restream/6622
-#EXTINF:-1 tvg-name="AR|NEWS: AL HURRA" tvg-logo="" group-title="news",AR|NEWS: AL HURRA
-http://31.43.191.125:8080/restream/restream/6630
-#EXTINF:-1 tvg-name="AR: AL SHOROUQ NEWS" tvg-logo="" group-title="news",AR: AL SHOROUQ NEWS
-http://31.43.191.125:8080/restream/restream/6645
-#EXTINF:-1 tvg-name="AR: CBC EXTRA NEWS" tvg-logo="" group-title="news",AR: CBC EXTRA NEWS
-http://31.43.191.125:8080/restream/restream/6657
-#EXTINF:-1 tvg-name="AR: NILE NEWS" tvg-logo="" group-title="news",AR: NILE NEWS
-http://31.43.191.125:8080/restream/restream/6684
-#EXTINF:-1 tvg-name="AR: SAUDI NEWS" tvg-logo="" group-title="news",AR: SAUDI NEWS
-http://31.43.191.125:8080/restream/restream/6711
-#EXTINF:-1 tvg-name="AR: SYRIA NEWS" tvg-logo="" group-title="news",AR: SYRIA NEWS
-http://31.43.191.125:8080/restream/restream/6841
-#EXTINF:-1 tvg-name="AR: LIBYA 218 NEWS" tvg-logo="" group-title="news",AR: LIBYA 218 NEWS
-http://31.43.191.125:8080/restream/restream/6872
-#EXTINF:-1 tvg-name="AR: ✦●✦NEWS✦●✦" tvg-logo="" group-title="news",AR: ✦●✦NEWS✦●✦
-http://31.43.191.125:8080/restream/restream/6887
-#EXTINF:-1 tvg-name="AR: ORIENT NEWS" tvg-logo="" group-title="news",AR: ORIENT NEWS
-http://31.43.191.125:8080/vip9891786472877/d4fe7bf2dee8/6904
-#EXTINF:-1 tvg-name="AR: EURONEWS" tvg-logo="" group-title="news",AR: EURONEWS
-http://31.43.191.125:8080/restream/restream/6975
-#EXTINF:-1 tvg-name="AR: EXTRA NEWS" tvg-logo="" group-title="news",AR: EXTRA NEWS
-http://31.43.191.125:8080/vip291775303175/cfd482cf4ee8/6976
-#EXTINF:-1 tvg-name="AR: FRANCE 24" tvg-logo="" group-title="news",AR: FRANCE 24
-http://31.43.191.125:8080/restream/restream/6979
-#EXTINF:-1 tvg-name="AR|NEWS: RUSSIA TODAY" tvg-logo="" group-title="news",AR|NEWS: RUSSIA TODAY
-http://31.43.191.125:8080/restream/restream/7028
-#EXTINF:-1 tvg-name="AR: Echorouk NEWS" tvg-logo="" group-title="news",AR: Echorouk NEWS
-http://31.43.191.125:8080/restream/restream/97149
-#EXTINF:-1 tvg-name="AR-AlMAJD: NEWS" tvg-logo="" group-title="news",AR-AlMAJD: NEWS
-http://31.43.191.125:8080/restream/restream/130176
-#EXTINF:-1 tvg-name="AR-DZ: AL24 NEWS" tvg-logo="" group-title="news",AR-DZ: AL24 NEWS
-http://31.43.191.125:8080/restream/restream/130191
-#EXTINF:-1 tvg-name="AR-DZ: ECHOUROUK NEWS" tvg-logo="" group-title="news",AR-DZ: ECHOUROUK NEWS
-http://31.43.191.125:8080/restream/restream/130209
-#EXTINF:-1 tvg-name="AR-EG: CBC EXTRA NEWS" tvg-logo="" group-title="news",AR-EG: CBC EXTRA NEWS
-http://31.43.191.125:8080/restream/restream/130252
-#EXTINF:-1 tvg-name="AR-EG: NILE NEWS" tvg-logo="" group-title="news",AR-EG: NILE NEWS
-http://31.43.191.125:8080/restream/restream/130286
-#EXTINF:-1 tvg-name="AR-IRAQ: AL FORAT NEWS" tvg-logo="" group-title="news",AR-IRAQ: AL FORAT NEWS
-http://31.43.191.125:8080/restream/restream/130328
-#EXTINF:-1 tvg-name="AR-IRAQ: AL IRAQIA NEWS" tvg-logo="" group-title="news",AR-IRAQ: AL IRAQIA NEWS
-http://31.43.191.125:8080/restream/restream/130331
-#EXTINF:-1 tvg-name="AR-IRAQ: AL SHARQIYA NEWS HD" tvg-logo="" group-title="news",AR-IRAQ: AL SHARQIYA NEWS HD
-http://31.43.191.125:8080/restream/restream/130343
-#EXTINF:-1 tvg-name="AR-IRAQ: INEWS" tvg-logo="" group-title="news",AR-IRAQ: INEWS
-http://31.43.191.125:8080/restream/restream/130371
-#EXTINF:-1 tvg-name="AR-IRAQ: INEWS TV HD" tvg-logo="" group-title="news",AR-IRAQ: INEWS TV HD
-http://31.43.191.125:8080/restream/restream/130372
-#EXTINF:-1 tvg-name="AR-IRAQ: IRAQIA NEWS HD" tvg-logo="" group-title="news",AR-IRAQ: IRAQIA NEWS HD
-http://31.43.191.125:8080/restream/restream/130381
-#EXTINF:-1 tvg-name="AR-KWT: KUWAIT NEWS" tvg-logo="" group-title="news",AR-KWT: KUWAIT NEWS
-http://31.43.191.125:8080/restream/restream/130436
-#EXTINF:-1 tvg-name="AR-PLS: PALESTINE NEWS" tvg-logo="" group-title="news",AR-PLS: PALESTINE NEWS
-http://31.43.191.125:8080/restream/restream/130564
-#EXTINF:-1 tvg-name="AR-SYR: SYRIA NEWS" tvg-logo="" group-title="news",AR-SYR: SYRIA NEWS
-http://31.43.191.125:8080/restream/restream/130608
-#EXTINF:-1 tvg-name="AR|NEWS: AL HIWAR" tvg-logo="" group-title="news",AR|NEWS: AL HIWAR
-http://31.43.191.125:8080/restream/restream/130852
-#EXTINF:-1 tvg-name="AR|NEWS: Al MANAR" tvg-logo="" group-title="news",AR|NEWS: Al MANAR
-http://31.43.191.125:8080/restream/restream/130854
-#EXTINF:-1 tvg-name="AR|NEWS: Al QAHIRA NEWS" tvg-logo="" group-title="news",AR|NEWS: Al QAHIRA NEWS
-http://31.43.191.125:8080/restream/restream/130855
-#EXTINF:-1 tvg-name="AR|NEWS: AL SHARQ NEWS" tvg-logo="" group-title="news",AR|NEWS: AL SHARQ NEWS
-http://31.43.191.125:8080/restream/restream/130856
-#EXTINF:-1 tvg-name="AR|NEWS: ALMAMLAKA" tvg-logo="" group-title="news",AR|NEWS: ALMAMLAKA
-http://31.43.191.125:8080/restream/restream/130862
-#EXTINF:-1 tvg-name="AR|NEWS: ALMASHHAD" tvg-logo="" group-title="news",AR|NEWS: ALMASHHAD
-http://31.43.191.125:8080/restream/restream/130863
-#EXTINF:-1 tvg-name="AR|NEWS: ALYAUM" tvg-logo="" group-title="news",AR|NEWS: ALYAUM
-http://31.43.191.125:8080/restream/restream/130864
-#EXTINF:-1 tvg-name="AR|NEWS: ASHARIQA NEWS" tvg-logo="" group-title="news",AR|NEWS: ASHARIQA NEWS
-http://31.43.191.125:8080/restream/restream/130865
-#EXTINF:-1 tvg-name="AR|NEWS: CNBC AR" tvg-logo="" group-title="news",AR|NEWS: CNBC AR
-http://31.43.191.125:8080/restream/restream/130866
-#EXTINF:-1 tvg-name="AR|NEWS: INEWS" tvg-logo="" group-title="news",AR|NEWS: INEWS
-http://31.43.191.125:8080/restream/restream/130868
-#EXTINF:-1 tvg-name="AR|NEWS: SKY ARABIA" tvg-logo="" group-title="news",AR|NEWS: SKY ARABIA
-http://31.43.191.125:8080/restream/restream/130870
-#EXTINF:-1 tvg-name="AR|NEWS: TRT ARABIC" tvg-logo="" group-title="news",AR|NEWS: TRT ARABIC
-http://31.43.191.125:8080/restream/restream/130871
-#EXTINF:-1 tvg-name="AR|SSC: NEWS" tvg-logo="" group-title="news",AR|SSC: NEWS
-http://31.43.191.125:8080/restream/restream/131091
-#EXTINF:-1 tvg-name="AR:CNN HD" tvg-logo="" group-title="news",AR:CNN HD
-http://germanyservers2.net/live/Volkan000/hsue1185/08178858-134d-4cea-b27f-7f6818b213c6.m3u
+#EXTINF:-1 tvg-name="Al Jazeera Arabic" tvg-logo="" group-title="news",Al Jazeera Arabic
+http://nocable.cc:8080/4unUYG/388417/285731
+#EXTINF:-1 tvg-name="Al Arabiya FM" tvg-logo="" group-title="news",Al Arabiya FM
+http://nocable.cc:8080/4unUYG/388417/292906
+#EXTINF:-1 tvg-name="sky news arabia radio" tvg-logo="" group-title="news",sky news arabia radio
+http://nocable.cc:8080/4unUYG/388417/271637
+#EXTINF:-1 tvg-name="BBC Arabic 1413 AM" tvg-logo="" group-title="news",BBC Arabic 1413 AM
+http://nocable.cc:8080/4unUYG/388417/293384
+#EXTINF:-1 tvg-name="ABC33 (KSPR) Missouri" tvg-logo="" group-title="news",ABC33 (KSPR) Missouri
+http://nocable.cc:8080/4unUYG/388417/120871
+#EXTINF:-1 tvg-name="MA | Boston | ABC (WCVB)" tvg-logo="" group-title="news",MA | Boston | ABC (WCVB)
+http://nocable.cc:8080/4unUYG/388417/324541
+#EXTINF:-1 tvg-name="MA | Boston | CBS (WBZ)" tvg-logo="" group-title="news",MA | Boston | CBS (WBZ)
+http://nocable.cc:8080/4unUYG/388417/324542
+#EXTINF:-1 tvg-name="MA | Boston | FOX (WFXT)" tvg-logo="" group-title="news",MA | Boston | FOX (WFXT)
+http://nocable.cc:8080/4unUYG/388417/324543
+#EXTINF:-1 tvg-name="MA | Boston | MY TV (WSBK)" tvg-logo="" group-title="news",MA | Boston | MY TV (WSBK)
+http://nocable.cc:8080/4unUYG/388417/324544
+#EXTINF:-1 tvg-name="MA | Boston | NBC (WBTS)" tvg-logo="" group-title="news",MA | Boston | NBC (WBTS)
+http://nocable.cc:8080/4unUYG/388417/324545
+#EXTINF:-1 tvg-name="MA | Springfield | CBS (WSHM)" tvg-logo="" group-title="news",MA | Springfield | CBS (WSHM)
+http://nocable.cc:8080/4unUYG/388417/324546
+#EXTINF:-1 tvg-name="MA | Springfield | FOX (WGGB)" tvg-logo="" group-title="news",MA | Springfield | FOX (WGGB)
+http://nocable.cc:8080/4unUYG/388417/324548
+#EXTINF:-1 tvg-name="MA | Springfield | NBC (WWLP)" tvg-logo="" group-title="news",MA | Springfield | NBC (WWLP)
+http://nocable.cc:8080/4unUYG/388417/324550
+#EXTINF:-1 tvg-name="SD | Rapid City | NBC (KNBN)" tvg-logo="" group-title="news",SD | Rapid City | NBC (KNBN)
+http://nocable.cc:8080/4unUYG/388417/324713
+#EXTINF:-1 tvg-name="SD | Sioux Falls | NBC (KDLT)" tvg-logo="" group-title="news",SD | Sioux Falls | NBC (KDLT)
+http://nocable.cc:8080/4unUYG/388417/324714
+#EXTINF:-1 tvg-name="TN | Chattanooga | CBS (WDEF)" tvg-logo="" group-title="news",TN | Chattanooga | CBS (WDEF)
+http://nocable.cc:8080/4unUYG/388417/324715
+#EXTINF:-1 tvg-name="TN | Chattanooga | FOX (WTVC)" tvg-logo="" group-title="news",TN | Chattanooga | FOX (WTVC)
+http://nocable.cc:8080/4unUYG/388417/324716
+#EXTINF:-1 tvg-name="TN | CHATTANOOGA | NBC (WRCB)" tvg-logo="" group-title="news",TN | CHATTANOOGA | NBC (WRCB)
+http://nocable.cc:8080/4unUYG/388417/324717
+#EXTINF:-1 tvg-name="TN | Nashville | FOX (WZTV)" tvg-logo="" group-title="news",TN | Nashville | FOX (WZTV)
+http://nocable.cc:8080/4unUYG/388417/324718
+#EXTINF:-1 tvg-name="TN | Nashville | NBC (WSMV)" tvg-logo="" group-title="news",TN | Nashville | NBC (WSMV)
+http://nocable.cc:8080/4unUYG/388417/324720
+#EXTINF:-1 tvg-name="TN-VA | Tri-Cities | NBC (WCYB)" tvg-logo="" group-title="news",TN-VA | Tri-Cities | NBC (WCYB)
+http://nocable.cc:8080/4unUYG/388417/324721
+#EXTINF:-1 tvg-name="France24 arabic" tvg-logo="" group-title="news",France24 arabic
+http://nocable.cc:8080/4unUYG/388417/268567
+#EXTINF:-1 tvg-name="Sky Arabia News TV" tvg-logo="" group-title="news",Sky Arabia News TV
+http://nocable.cc:8080/4unUYG/388417/287577
