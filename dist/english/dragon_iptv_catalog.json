@@ -14,8 +14,8 @@
       "http://31.43.191.125:8080/vip9891786472877/d4fe7bf2dee8/130857"
     ],
     "source_file": "FIW_1793959328_2_edf145_Hunter_E376.m3u",
-    "health_status": "unreachable",
-    "health_checked_urls": 2,
+    "health_status": "reachable",
+    "health_checked_urls": 1,
     "health_promoted": false
   },
   {
@@ -45,17 +45,17 @@
     ],
     "raw_group": "",
     "logo": "",
-    "primary_url": "http://hostengine.live/live/john/franklin/53840.m3u",
+    "primary_url": "http://tvmate.icu:8080/34164995/34164995/53757",
     "alternates": [
-      "http://tvmate.icu:8080/34164995/34164995/53757",
       "http://tvmate.icu:8080/34164995/34164995/305067",
+      "http://hostengine.live/live/john/franklin/53840.m3u",
       "http://31.43.191.125:8080/vip9891786472877/d4fe7bf2dee8/1864",
       "http://31.43.191.125:8080/vip9891786472877/d4fe7bf2dee8/146930"
     ],
     "source_file": "FIW_1793959328_2_edf145_Hunter_E376.m3u",
     "health_status": "reachable",
-    "health_checked_urls": 3,
-    "health_promoted": true
+    "health_checked_urls": 1,
+    "health_promoted": false
   },
   {
     "id": "dragon_english_8cd832ed69a5",
@@ -84,9 +84,9 @@
     ],
     "raw_group": "",
     "logo": "",
-    "primary_url": "http://hostengine.live/live/john/franklin/56588.m3u",
+    "primary_url": "http://tvmate.icu:8080/34164995/34164995/57398",
     "alternates": [
-      "http://tvmate.icu:8080/34164995/34164995/57398",
+      "http://hostengine.live/live/john/franklin/56588.m3u",
       "http://hostengine.live/live/john/franklin/53637.m3u",
       "http://hostengine.live/live/john/franklin/53416.m3u",
       "http://hostengine.live/live/john/franklin/185233.m3u",
@@ -98,8 +98,8 @@
     ],
     "source_file": "FIW_1793959328_2_edf145_Hunter_E376.m3u",
     "health_status": "reachable",
-    "health_checked_urls": 2,
-    "health_promoted": true
+    "health_checked_urls": 1,
+    "health_promoted": false
   },
   {
     "id": "dragon_english_831072d6c6fc",
@@ -164,15 +164,15 @@
     ],
     "raw_group": "",
     "logo": "",
-    "primary_url": "http://hostengine.live/live/john/franklin/337600.m3u",
+    "primary_url": "http://tvmate.icu:8080/34164995/34164995/283271",
     "alternates": [
-      "http://tvmate.icu:8080/34164995/34164995/283271",
+      "http://hostengine.live/live/john/franklin/337600.m3u",
       "http://31.43.191.125:8080/vip9891786472877/d4fe7bf2dee8/154948"
     ],
     "source_file": "FIW_1793959328_2_edf145_Hunter_E376.m3u",
     "health_status": "reachable",
-    "health_checked_urls": 2,
-    "health_promoted": true
+    "health_checked_urls": 1,
+    "health_promoted": false
   },
   {
     "id": "dragon_english_d099a4deab4f",
@@ -399,7 +399,7 @@
     "primary_url": "http://tvmate.icu:8080/34164995/34164995/266584",
     "alternates": [],
     "source_file": "FIW_1793959328_2_edf145_Hunter_E376.m3u",
-    "health_status": "reachable",
+    "health_status": "unreachable",
     "health_checked_urls": 1,
     "health_promoted": false
   },
@@ -503,7 +503,7 @@
     "primary_url": "http://caffe.link:25461/200Zrinko/UB9quKy8uSvy/118733",
     "alternates": [],
     "source_file": "FIW_1793959326_1_4c408e_Hunter_4818.m3u",
-    "health_status": "reachable",
+    "health_status": "unreachable",
     "health_checked_urls": 1,
     "health_promoted": false
   },
@@ -618,8 +618,8 @@
       "http://tvmate.icu:8080/34164995/34164995/46720"
     ],
     "source_file": "FIW_1793959328_2_edf145_Hunter_E376.m3u",
-    "health_status": "unreachable",
-    "health_checked_urls": 2,
+    "health_status": "reachable",
+    "health_checked_urls": 1,
     "health_promoted": false
   },
   {
@@ -737,7 +737,7 @@
     "primary_url": "http://tvmate.icu:8080/34164995/34164995/57281",
     "alternates": [],
     "source_file": "FIW_1793959328_2_edf145_Hunter_E376.m3u",
-    "health_status": "reachable",
+    "health_status": "unreachable",
     "health_checked_urls": 1,
     "health_promoted": false
   },
@@ -1544,7 +1544,7 @@
     "primary_url": "http://tvmate.icu:8080/34164995/34164995/57434",
     "alternates": [],
     "source_file": "FIW_1793959328_2_edf145_Hunter_E376.m3u",
-    "health_status": "reachable",
+    "health_status": "unreachable",
     "health_checked_urls": 1,
     "health_promoted": false
   },
@@ -2398,9 +2398,9 @@
     ],
     "raw_group": "Doku & Style",
     "logo": "http://5.189.149.253/logo/Dokumentarni/NationalGeoWildHD.png",
-    "primary_url": "http://tvmate.icu:8080/34164995/34164995/53693",
+    "primary_url": "http://185.149.233.91:80/dren/dren/2588",
     "alternates": [
-      "http://185.149.233.91:80/dren/dren/2588",
+      "http://tvmate.icu:8080/34164995/34164995/53693",
       "http://hostengine.live/live/john/franklin/53929.m3u",
       "http://hostengine.live/live/john/franklin/53723.m3u",
       "http://caffe.link:25461/200Zrinko/UB9quKy8uSvy/1395",
@@ -2411,8 +2411,8 @@
     ],
     "source_file": "FIW_1793959326_1_4c408e_Hunter_4818.m3u",
     "health_status": "reachable",
-    "health_checked_urls": 2,
-    "health_promoted": true
+    "health_checked_urls": 1,
+    "health_promoted": false
   },
   {
     "id": "dragon_english_f124d5748ec1",
@@ -3042,7 +3042,7 @@
     "primary_url": "http://tvmate.icu:8080/34164995/34164995/46810",
     "alternates": [],
     "source_file": "FIW_1793959328_2_edf145_Hunter_E376.m3u",
-    "health_status": "reachable",
+    "health_status": "unreachable",
     "health_checked_urls": 1,
     "health_promoted": false
   },
@@ -4647,7 +4647,7 @@
     "primary_url": "http://tvmate.icu:8080/34164995/34164995/269806",
     "alternates": [],
     "source_file": "FIW_1793959328_2_edf145_Hunter_E376.m3u",
-    "health_status": "reachable",
+    "health_status": "unreachable",
     "health_checked_urls": 1,
     "health_promoted": false
   },
@@ -5890,7 +5890,7 @@
     "primary_url": "http://tvmate.icu:8080/34164995/34164995/296646",
     "alternates": [],
     "source_file": "FIW_1793959328_2_edf145_Hunter_E376.m3u",
-    "health_status": "reachable",
+    "health_status": "unreachable",
     "health_checked_urls": 1,
     "health_promoted": false
   },
@@ -6142,7 +6142,7 @@
     "primary_url": "http://tvmate.icu:8080/34164995/34164995/305961",
     "alternates": [],
     "source_file": "FIW_1793959328_2_edf145_Hunter_E376.m3u",
-    "health_status": "reachable",
+    "health_status": "unreachable",
     "health_checked_urls": 1,
     "health_promoted": false
   },
@@ -7109,7 +7109,7 @@
     "primary_url": "http://caffe.link:25461/200Zrinko/UB9quKy8uSvy/73560",
     "alternates": [],
     "source_file": "FIW_1793959326_1_4c408e_Hunter_4818.m3u",
-    "health_status": "unreachable",
+    "health_status": "reachable",
     "health_checked_urls": 1,
     "health_promoted": false
   },
@@ -7273,7 +7273,7 @@
     "primary_url": "http://caffe.link:25461/200Zrinko/UB9quKy8uSvy/1542",
     "alternates": [],
     "source_file": "FIW_1793959326_1_4c408e_Hunter_4818.m3u",
-    "health_status": "unreachable",
+    "health_status": "reachable",
     "health_checked_urls": 1,
     "health_promoted": false
   },
@@ -9258,7 +9258,7 @@
     "primary_url": "http://31.43.191.125:8080/vip9891786472877/d4fe7bf2dee8/1761",
     "alternates": [],
     "source_file": "FIW_1793959163_1_9ac062_Hunter_144E.m3u",
-    "health_status": "unreachable",
+    "health_status": "reachable",
     "health_checked_urls": 1,
     "health_promoted": false
   },
@@ -10480,7 +10480,7 @@
     "primary_url": "http://31.43.191.125:8080/vip9891786472877/d4fe7bf2dee8/1856",
     "alternates": [],
     "source_file": "FIW_1793959163_1_9ac062_Hunter_144E.m3u",
-    "health_status": "unreachable",
+    "health_status": "reachable",
     "health_checked_urls": 1,
     "health_promoted": false
   },
@@ -11064,7 +11064,7 @@
     "primary_url": "http://31.43.191.125:8080/vip9891786472877/d4fe7bf2dee8/1905",
     "alternates": [],
     "source_file": "FIW_1793959163_1_9ac062_Hunter_144E.m3u",
-    "health_status": "reachable",
+    "health_status": "unreachable",
     "health_checked_urls": 1,
     "health_promoted": false
   },
@@ -15319,7 +15319,7 @@
     "primary_url": "http://31.43.191.125:8080/vip9891786472877/d4fe7bf2dee8/146774",
     "alternates": [],
     "source_file": "FIW_1793959163_1_9ac062_Hunter_144E.m3u",
-    "health_status": "reachable",
+    "health_status": "unreachable",
     "health_checked_urls": 1,
     "health_promoted": false
   },
@@ -15353,7 +15353,7 @@
     "primary_url": "http://31.43.191.125:8080/vip9891786472877/d4fe7bf2dee8/146776",
     "alternates": [],
     "source_file": "FIW_1793959163_1_9ac062_Hunter_144E.m3u",
-    "health_status": "reachable",
+    "health_status": "unreachable",
     "health_checked_urls": 1,
     "health_promoted": false
   },
@@ -15455,7 +15455,7 @@
     "primary_url": "http://31.43.191.125:8080/vip9891786472877/d4fe7bf2dee8/146782",
     "alternates": [],
     "source_file": "FIW_1793959163_1_9ac062_Hunter_144E.m3u",
-    "health_status": "reachable",
+    "health_status": "unreachable",
     "health_checked_urls": 1,
     "health_promoted": false
   },
@@ -21824,7 +21824,7 @@
     "primary_url": "http://31.43.191.125:8080/vip9891786472877/d4fe7bf2dee8/154570",
     "alternates": [],
     "source_file": "FIW_1793959163_1_9ac062_Hunter_144E.m3u",
-    "health_status": "reachable",
+    "health_status": "unreachable",
     "health_checked_urls": 1,
     "health_promoted": false
   },
@@ -26650,7 +26650,7 @@
     "primary_url": "http://31.43.191.125:8080/vip9891786472877/d4fe7bf2dee8/154908",
     "alternates": [],
     "source_file": "FIW_1793959163_1_9ac062_Hunter_144E.m3u",
-    "health_status": "reachable",
+    "health_status": "unreachable",
     "health_checked_urls": 1,
     "health_promoted": false
   },
@@ -28916,8 +28916,8 @@
       "http://31.43.191.125:8080/vip9891786472877/d4fe7bf2dee8/155069"
     ],
     "source_file": "FIW_1793959163_1_9ac062_Hunter_144E.m3u",
-    "health_status": "reachable",
-    "health_checked_urls": 1,
+    "health_status": "unreachable",
+    "health_checked_urls": 2,
     "health_promoted": false
   },
   {
@@ -28950,7 +28950,7 @@
     "primary_url": "http://31.43.191.125:8080/vip9891786472877/d4fe7bf2dee8/155073",
     "alternates": [],
     "source_file": "FIW_1793959163_1_9ac062_Hunter_144E.m3u",
-    "health_status": "reachable",
+    "health_status": "unreachable",
     "health_checked_urls": 1,
     "health_promoted": false
   },
@@ -47945,7 +47945,7 @@
     "primary_url": "http://31.43.191.125:8080/vip9891786472877/d4fe7bf2dee8/156390",
     "alternates": [],
     "source_file": "FIW_1793959163_1_9ac062_Hunter_144E.m3u",
-    "health_status": "reachable",
+    "health_status": "unreachable",
     "health_checked_urls": 1,
     "health_promoted": false
   },
