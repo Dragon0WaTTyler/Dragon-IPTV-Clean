@@ -1,10 +1,16 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="LB : AL JAZEERA ARABIC" tvg-logo="" group-title="news",LB : AL JAZEERA ARABIC
-http://hostengine.live/live/john/franklin/289820.m3u
+#EXTINF:-1 tvg-name="Al Jazeera Arabic (1080p)" tvg-logo="https://i.imgur.com/7bRVpnu.png" group-title="news",Al Jazeera Arabic (1080p)
+http://myultratv.com:8080/0709roberttv/2023libertv/264748
 #EXTINF:-1 tvg-name="AR: AL JAZEERA MUBASHER" tvg-logo="" group-title="news",AR: AL JAZEERA MUBASHER
-http://31.43.191.125:8080/VIP0111177497995358/kc5xpnbtcxph/6599
+http://31.43.191.125:8080/Adri_ruiz/azerty34/6599
 #EXTINF:-1 tvg-name="AR.QAT| AL JAZEERA MUBASHER" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/6/63/Al_Jazeera_Mubasher.png/revision/latest?cb=20120211110554" group-title="news",AR.QAT| AL JAZEERA MUBASHER
 http://31.43.191.210:8080/live/iptv.kosiptv.comNEW/gJUP3KsM2ENEW/2132.m3u
+#EXTINF:-1 tvg-name="AR: AL JAZEERA" tvg-logo="" group-title="news",AR: AL JAZEERA
+http://lordstreams.live:80/joe/joe/272688
+#EXTINF:-1 tvg-name="AR.QAT| AL JAZEERA DOC" tvg-logo="https://upload.wikimedia.org/wikipedia/ar/e/e6/Al_Jazeera_Doc.png" group-title="news",AR.QAT| AL JAZEERA DOC
+http://31.43.191.210:8080/live/iptv.kosiptv.comNEW/gJUP3KsM2ENEW/745.m3u
+#EXTINF:-1 tvg-name="AR.QAT| AL JAZEERA NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/0/0f/Al_Jazeera.svg/614px-Al_Jazeera.svg.png" group-title="news",AR.QAT| AL JAZEERA NEWS
+http://31.43.191.210:8080/live/iptv.kosiptv.comNEW/gJUP3KsM2ENEW/746.m3u
 #EXTINF:-1 tvg-name="4K: ALJAZEERA 360 تأملات" tvg-logo="" group-title="news",4K: ALJAZEERA 360 تأملات
 http://nordicstream.xyz/nkMApnXf/vms4kgrH4H/2156993
 #EXTINF:-1 tvg-name="AR: ALJAZEERA 360 الحروب الصليبية" tvg-logo="" group-title="news",AR: ALJAZEERA 360 الحروب الصليبية
@@ -31,142 +37,176 @@ http://nordicstream.xyz/nkMApnXf/vms4kgrH4H/2156997
 http://nordicstream.xyz/nkMApnXf/vms4kgrH4H/2157000
 #EXTINF:-1 tvg-name="AR: ALJAZEERA 360 مقاهي عتيقة" tvg-logo="" group-title="news",AR: ALJAZEERA 360 مقاهي عتيقة
 http://nordicstream.xyz/nkMApnXf/vms4kgrH4H/2156992
-#EXTINF:-1 tvg-name="AR: AL JAZEERA" tvg-logo="" group-title="news",AR: AL JAZEERA
-http://hostengine.live/live/john/franklin/81857.m3u
-#EXTINF:-1 tvg-name="AR.QAT| AL JAZEERA DOC" tvg-logo="https://upload.wikimedia.org/wikipedia/ar/e/e6/Al_Jazeera_Doc.png" group-title="news",AR.QAT| AL JAZEERA DOC
-http://31.43.191.210:8080/live/iptv.kosiptv.comNEW/gJUP3KsM2ENEW/745.m3u
-#EXTINF:-1 tvg-name="AR.QAT| AL JAZEERA NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/0/0f/Al_Jazeera.svg/614px-Al_Jazeera.svg.png" group-title="news",AR.QAT| AL JAZEERA NEWS
-http://31.43.191.210:8080/live/iptv.kosiptv.comNEW/gJUP3KsM2ENEW/746.m3u
 #EXTINF:-1 tvg-name="Al Arabiya HD" tvg-logo="" group-title="news",Al Arabiya HD
 http://nordicstream.xyz/nkMApnXf/vms4kgrH4H/1603235
 #EXTINF:-1 tvg-name="Al Arabiya Business FHD" tvg-logo="" group-title="news",Al Arabiya Business FHD
 http://nordicstream.xyz/nkMApnXf/vms4kgrH4H/1869129
+#EXTINF:-1 tvg-name="MyHD: AL ARABIYA BUSINESS HD" tvg-logo="https://s9.gifyu.com/images/SVuRP.png" group-title="news",MyHD: AL ARABIYA BUSINESS HD
+http://lordstreams.live:80/joe/joe/641640
+#EXTINF:-1 tvg-name="News | AR | Al Arabiya HD" tvg-logo="http://vod-logo.net/photos/223f1d0317177abf0647fc1c6039ba44.png" group-title="news",News | AR | Al Arabiya HD
+http://lordstreams.live:80/joe/joe/272259
+#EXTINF:-1 tvg-name="AR | MTA3 Al Arabiya" tvg-logo="http://vod-logo.net/photos/3ada51b058186e5fe5128ddcd67067fa.png" group-title="news",AR | MTA3 Al Arabiya
+http://lordstreams.live:80/joe/joe/272191
+#EXTINF:-1 tvg-name="AR.NEW| AL ARABIYA NEWS" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-arab-emirates/al-arabiya-ae.png" group-title="news",AR.NEW| AL ARABIYA NEWS
+http://31.43.191.210:8080/live/iptv.kosiptv.comNEW/gJUP3KsM2ENEW/1328.m3u
 #EXTINF:-1 tvg-name="Al Arabiya Fm" tvg-logo="" group-title="news",Al Arabiya Fm
 http://nordicstream.xyz/nkMApnXf/vms4kgrH4H/1649932
 #EXTINF:-1 tvg-name="Al Arabiya Programs" tvg-logo="" group-title="news",Al Arabiya Programs
 http://nordicstream.xyz/nkMApnXf/vms4kgrH4H/2020303
-#EXTINF:-1 tvg-name="AR.NEW| AL ARABIYA NEWS" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-arab-emirates/al-arabiya-ae.png" group-title="news",AR.NEW| AL ARABIYA NEWS
-http://31.43.191.210:8080/live/iptv.kosiptv.comNEW/gJUP3KsM2ENEW/1328.m3u
-#EXTINF:-1 tvg-name="UAE : AL ARABIYA AL HADATH" tvg-logo="" group-title="news",UAE : AL ARABIYA AL HADATH
-http://hostengine.live/live/john/franklin/81856.m3u
 #EXTINF:-1 tvg-name="AR|NEWS: AL HADATH" tvg-logo="" group-title="news",AR|NEWS: AL HADATH
 http://31.43.191.125:8080/vip6511789659461/c13ef61ee63b/130851
+#EXTINF:-1 tvg-name="LY | Libya Al Hadath" tvg-logo="http://vod-logo.net/photos/c5872428ff2533de7bc334d248c9380d.png" group-title="news",LY | Libya Al Hadath
+http://lordstreams.live:80/joe/joe/272794
+#EXTINF:-1 tvg-name="EG | Al Hadath Al Youm [ Al Hadath Today ]" tvg-logo="http://vod-logo.net/photos/30961313d88e0247f63fb88b806f5d76.png" group-title="news",EG | Al Hadath Al Youm [ Al Hadath Today ]
+http://lordstreams.live:80/joe/joe/272456
+#EXTINF:-1 tvg-name="RADIO | Sky News Arabia Radio" tvg-logo="" group-title="news",RADIO | Sky News Arabia Radio
+https://fplay2.com:8443/play/e4DImlR_8AMChB5YFlVDnWMMOoIXeFV6Iqj6JZaU0mo
 #EXTINF:-1 tvg-name="Sky News Arabia (Portrait) (1280p) [Not 24/7]" tvg-logo="https://i.imgur.com/FjtzQQs.png" group-title="news",Sky News Arabia (Portrait) (1280p) [Not 24/7]
 http://myultratv.com:8080/0709roberttv/2023libertv/264773
 #EXTINF:-1 tvg-name="Sky News Arabia (720p) [Not 24/7]" tvg-logo="" group-title="news",Sky News Arabia (720p) [Not 24/7]
 https://stream.skynewsarabia.com/hls/sna.m3u8
-#EXTINF:-1 tvg-name="SA : SKY NEWS ARABIA" tvg-logo="" group-title="news",SA : SKY NEWS ARABIA
-http://hostengine.live/live/john/franklin/81882.m3u
+#EXTINF:-1 tvg-name="News | AR | France 24 Arabic SD" tvg-logo="http://vod-logo.net/photos/80f44b09886df7a76b3d0847752e2909.png" group-title="news",News | AR | France 24 Arabic SD
+http://lordstreams.live:80/joe/joe/272240
 #EXTINF:-1 tvg-name="France 24 Arabic FHD" tvg-logo="" group-title="news",France 24 Arabic FHD
 http://nordicstream.xyz/nkMApnXf/vms4kgrH4H/1883835
 #EXTINF:-1 tvg-name="BBC Arabic" tvg-logo="" group-title="news",BBC Arabic
-http://nordicstream.xyz/nkMApnXf/vms4kgrH4H/1508707
+http://31.43.191.125:8080/Adri_ruiz/azerty34/6969
 #EXTINF:-1 tvg-name="AR.NEW| BBC ARABIC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Logo_BBC_Arabic.png/800px-Logo_BBC_Arabic.png" group-title="news",AR.NEW| BBC ARABIC
 http://31.43.191.210:8080/live/iptv.kosiptv.comNEW/gJUP3KsM2ENEW/1894.m3u
-#EXTINF:-1 tvg-name="LB : DW ARABIC" tvg-logo="" group-title="news",LB : DW ARABIC
-http://hostengine.live/live/john/franklin/289805.m3u
+#EXTINF:-1 tvg-name="DW Arabic (1080p)" tvg-logo="https://i.imgur.com/EfKe3ae.png" group-title="news",DW Arabic (1080p)
+http://31.43.191.125:8080/vip6511789659461/c13ef61ee63b/130742
+#EXTINF:-1 tvg-name="News | AR | DW Arabic HD" tvg-logo="http://vod-logo.net/photos/9346fd9c39bc582eb06cd0c88a2b1315.png" group-title="news",News | AR | DW Arabic HD
+http://lordstreams.live:80/joe/joe/272237
 #EXTINF:-1 tvg-name="AR: AL MAYADEEN" tvg-logo="" group-title="news",AR: AL MAYADEEN
-http://hostengine.live/live/john/franklin/289815.m3u
+http://31.43.191.125:8080/Adri_ruiz/azerty34/6527
 #EXTINF:-1 tvg-name="AR-LBN: AL MAYADEEN" tvg-logo="" group-title="news",AR-LBN: AL MAYADEEN
 http://31.43.191.125:8080/vip6511789659461/c13ef61ee63b/130444
-#EXTINF:-1 tvg-name="AR|NEWS: TRT ARABIC" tvg-logo="" group-title="news",AR|NEWS: TRT ARABIC
-http://nordicstream.xyz/nkMApnXf/vms4kgrH4H/1883832
+#EXTINF:-1 tvg-name="LB | Al Mayadeen TV" tvg-logo="http://138.199.27.237:8080/0tv_logo/132.png" group-title="news",LB | Al Mayadeen TV
+http://lordstreams.live:80/joe/joe/273244
 #EXTINF:-1 tvg-name="AR: DZAIR NEWS" tvg-logo="" group-title="news",AR: DZAIR NEWS
-http://31.43.191.125:8080/vip6511789659461/c13ef61ee63b/6398
+http://31.43.191.125:8080/VIP0111177497995358/kc5xpnbtcxph/6398
 #EXTINF:-1 tvg-name="AR: OSN NEWS" tvg-logo="" group-title="news",AR: OSN NEWS
 http://31.43.191.125:8080/vip6511789659461/c13ef61ee63b/6446
 #EXTINF:-1 tvg-name="AR: OSN SKY NEWS" tvg-logo="" group-title="news",AR: OSN SKY NEWS
 http://31.43.191.125:8080/vip6511789659461/c13ef61ee63b/6459
 #EXTINF:-1 tvg-name="AR: ANN NEWS" tvg-logo="" group-title="news",AR: ANN NEWS
-http://31.43.191.125:8080/vip6511789659461/c13ef61ee63b/6533
+http://31.43.191.125:8080/Adri_ruiz/azerty34/6533
 #EXTINF:-1 tvg-name="AR: PALESTINE NEWS" tvg-logo="" group-title="news",AR: PALESTINE NEWS
-http://31.43.191.125:8080/vip6511789659461/c13ef61ee63b/6549
+http://31.43.191.125:8080/Adri_ruiz/azerty34/6549
 #EXTINF:-1 tvg-name="AR: IRAQIA NEWS" tvg-logo="" group-title="news",AR: IRAQIA NEWS
-http://31.43.191.125:8080/VIP0111177497995358/kc5xpnbtcxph/6577
+http://31.43.191.125:8080/vip6511789659461/c13ef61ee63b/6577
 #EXTINF:-1 tvg-name="AR: AL SHARQIYA NEWS" tvg-logo="" group-title="news",AR: AL SHARQIYA NEWS
-http://31.43.191.125:8080/VIP0111177497995358/kc5xpnbtcxph/6590
+http://lordstreams.live:80/joe/joe/273319
 #EXTINF:-1 tvg-name="AR|NEWS: Al EKHBARIYA" tvg-logo="" group-title="news",AR|NEWS: Al EKHBARIYA
-http://31.43.191.125:8080/VIP0111177497995358/kc5xpnbtcxph/6622
+http://31.43.191.125:8080/Adri_ruiz/azerty34/6622
 #EXTINF:-1 tvg-name="AR|NEWS: AL HURRA" tvg-logo="" group-title="news",AR|NEWS: AL HURRA
-http://31.43.191.125:8080/VIP0111177497995358/kc5xpnbtcxph/6630
+http://lordstreams.live:80/joe/joe/273311
 #EXTINF:-1 tvg-name="AR: AL SHOROUQ NEWS" tvg-logo="" group-title="news",AR: AL SHOROUQ NEWS
-http://31.43.191.125:8080/vip6511789659461/c13ef61ee63b/6645
+http://31.43.191.125:8080/Adri_ruiz/azerty34/6645
 #EXTINF:-1 tvg-name="AR: CBC EXTRA NEWS" tvg-logo="" group-title="news",AR: CBC EXTRA NEWS
 http://31.43.191.125:8080/VIP0111177497995358/kc5xpnbtcxph/6657
 #EXTINF:-1 tvg-name="AR: NILE NEWS" tvg-logo="" group-title="news",AR: NILE NEWS
-http://31.43.191.125:8080/vip6511789659461/c13ef61ee63b/6684
+http://lordstreams.live:80/joe/joe/272487
 #EXTINF:-1 tvg-name="AR: SAUDI NEWS" tvg-logo="" group-title="news",AR: SAUDI NEWS
-http://31.43.191.125:8080/vip6511789659461/c13ef61ee63b/6711
+http://31.43.191.125:8080/Adri_ruiz/azerty34/6711
 #EXTINF:-1 tvg-name="AR: SYRIA NEWS" tvg-logo="" group-title="news",AR: SYRIA NEWS
-http://31.43.191.125:8080/vip6511789659461/c13ef61ee63b/6841
+http://lordstreams.live:80/joe/joe/273221
 #EXTINF:-1 tvg-name="AR: LIBYA 218 NEWS" tvg-logo="" group-title="news",AR: LIBYA 218 NEWS
-http://31.43.191.125:8080/vip6511789659461/c13ef61ee63b/6872
+http://31.43.191.125:8080/Adri_ruiz/azerty34/6872
 #EXTINF:-1 tvg-name="AR: ✦●✦NEWS✦●✦" tvg-logo="" group-title="news",AR: ✦●✦NEWS✦●✦
-http://31.43.191.125:8080/vip6511789659461/c13ef61ee63b/6887
+http://31.43.191.125:8080/Adri_ruiz/azerty34/6887
 #EXTINF:-1 tvg-name="AR: ORIENT NEWS" tvg-logo="" group-title="news",AR: ORIENT NEWS
-http://31.43.191.125:8080/vip6511789659461/c13ef61ee63b/6904
+http://31.43.191.125:8080/Adri_ruiz/azerty34/6904
 #EXTINF:-1 tvg-name="AR: EURONEWS" tvg-logo="" group-title="news",AR: EURONEWS
-http://31.43.191.125:8080/vip6511789659461/c13ef61ee63b/6975
+http://31.43.191.125:8080/Adri_ruiz/azerty34/6975
 #EXTINF:-1 tvg-name="AR: EXTRA NEWS" tvg-logo="" group-title="news",AR: EXTRA NEWS
 http://31.43.191.125:8080/vip6511789659461/c13ef61ee63b/6976
 #EXTINF:-1 tvg-name="AR: FRANCE 24" tvg-logo="" group-title="news",AR: FRANCE 24
-http://31.43.191.125:8080/vip6511789659461/c13ef61ee63b/6979
+http://31.43.191.125:8080/Adri_ruiz/azerty34/6979
 #EXTINF:-1 tvg-name="AR|NEWS: RUSSIA TODAY" tvg-logo="" group-title="news",AR|NEWS: RUSSIA TODAY
-http://31.43.191.125:8080/vip6511789659461/c13ef61ee63b/7028
+http://31.43.191.125:8080/Adri_ruiz/azerty34/7028
 #EXTINF:-1 tvg-name="AR: Echorouk NEWS" tvg-logo="" group-title="news",AR: Echorouk NEWS
-http://31.43.191.125:8080/VIP0111177497995358/kc5xpnbtcxph/97149
+http://lordstreams.live:80/joe/joe/272525
 #EXTINF:-1 tvg-name="AR-AlMAJD: NEWS" tvg-logo="" group-title="news",AR-AlMAJD: NEWS
-http://31.43.191.125:8080/vip6511789659461/c13ef61ee63b/130176
+http://31.43.191.125:8080/Adri_ruiz/azerty34/130176
 #EXTINF:-1 tvg-name="AR-DZ: AL24 NEWS" tvg-logo="" group-title="news",AR-DZ: AL24 NEWS
 http://31.43.191.125:8080/vip6511789659461/c13ef61ee63b/130191
 #EXTINF:-1 tvg-name="AR-DZ: ECHOUROUK NEWS" tvg-logo="" group-title="news",AR-DZ: ECHOUROUK NEWS
 http://31.43.191.125:8080/vip6511789659461/c13ef61ee63b/130209
 #EXTINF:-1 tvg-name="AR-EG: CBC EXTRA NEWS" tvg-logo="" group-title="news",AR-EG: CBC EXTRA NEWS
-http://31.43.191.125:8080/vip6511789659461/c13ef61ee63b/130252
+http://31.43.191.125:8080/Adri_ruiz/azerty34/130252
 #EXTINF:-1 tvg-name="AR-EG: NILE NEWS" tvg-logo="" group-title="news",AR-EG: NILE NEWS
-http://31.43.191.125:8080/VIP0111177497995358/kc5xpnbtcxph/130286
+http://31.43.191.125:8080/vip6511789659461/c13ef61ee63b/130286
 #EXTINF:-1 tvg-name="AR-IRAQ: AL FORAT NEWS" tvg-logo="" group-title="news",AR-IRAQ: AL FORAT NEWS
-http://31.43.191.125:8080/vip6511789659461/c13ef61ee63b/130328
+http://31.43.191.125:8080/Adri_ruiz/azerty34/130328
 #EXTINF:-1 tvg-name="AR-IRAQ: AL IRAQIA NEWS" tvg-logo="" group-title="news",AR-IRAQ: AL IRAQIA NEWS
-http://31.43.191.125:8080/vip6511789659461/c13ef61ee63b/130331
+http://31.43.191.125:8080/Adri_ruiz/azerty34/130331
 #EXTINF:-1 tvg-name="AR-IRAQ: AL SHARQIYA NEWS HD" tvg-logo="" group-title="news",AR-IRAQ: AL SHARQIYA NEWS HD
-http://31.43.191.125:8080/vip6511789659461/c13ef61ee63b/130343
+http://31.43.191.125:8080/Adri_ruiz/azerty34/130343
 #EXTINF:-1 tvg-name="AR-IRAQ: INEWS" tvg-logo="" group-title="news",AR-IRAQ: INEWS
-http://31.43.191.125:8080/VIP0111177497995358/kc5xpnbtcxph/130371
+http://31.43.191.125:8080/vip6511789659461/c13ef61ee63b/130371
 #EXTINF:-1 tvg-name="AR-IRAQ: INEWS TV HD" tvg-logo="" group-title="news",AR-IRAQ: INEWS TV HD
-http://31.43.191.125:8080/vip6511789659461/c13ef61ee63b/130372
+http://31.43.191.125:8080/Adri_ruiz/azerty34/130372
 #EXTINF:-1 tvg-name="AR-IRAQ: IRAQIA NEWS HD" tvg-logo="" group-title="news",AR-IRAQ: IRAQIA NEWS HD
-http://31.43.191.125:8080/vip6511789659461/c13ef61ee63b/130381
+http://31.43.191.125:8080/Adri_ruiz/azerty34/130381
 #EXTINF:-1 tvg-name="AR-KWT: KUWAIT NEWS" tvg-logo="" group-title="news",AR-KWT: KUWAIT NEWS
-http://31.43.191.125:8080/VIP0111177497995358/kc5xpnbtcxph/130436
+http://31.43.191.125:8080/vip6511789659461/c13ef61ee63b/130436
 #EXTINF:-1 tvg-name="AR-PLS: PALESTINE NEWS" tvg-logo="" group-title="news",AR-PLS: PALESTINE NEWS
-http://31.43.191.125:8080/vip6511789659461/c13ef61ee63b/130565
+http://31.43.191.125:8080/Adri_ruiz/azerty34/130565
 #EXTINF:-1 tvg-name="AR-SYR: SYRIA NEWS" tvg-logo="" group-title="news",AR-SYR: SYRIA NEWS
 http://31.43.191.125:8080/vip6511789659461/c13ef61ee63b/130608
 #EXTINF:-1 tvg-name="AR|NEWS: AL HIWAR" tvg-logo="" group-title="news",AR|NEWS: AL HIWAR
-http://31.43.191.125:8080/vip6511789659461/c13ef61ee63b/130852
+http://31.43.191.125:8080/Adri_ruiz/azerty34/130852
 #EXTINF:-1 tvg-name="AR|NEWS: Al MANAR" tvg-logo="" group-title="news",AR|NEWS: Al MANAR
-http://31.43.191.125:8080/vip6511789659461/c13ef61ee63b/130854
+http://31.43.191.125:8080/Adri_ruiz/azerty34/130854
 #EXTINF:-1 tvg-name="AR|NEWS: Al QAHIRA NEWS" tvg-logo="" group-title="news",AR|NEWS: Al QAHIRA NEWS
-http://31.43.191.125:8080/vip6511789659461/c13ef61ee63b/130855
+http://31.43.191.125:8080/Adri_ruiz/azerty34/130855
 #EXTINF:-1 tvg-name="AR|NEWS: AL SHARQ NEWS" tvg-logo="" group-title="news",AR|NEWS: AL SHARQ NEWS
 http://31.43.191.125:8080/vip6511789659461/c13ef61ee63b/130856
 #EXTINF:-1 tvg-name="AR|NEWS: ALMAMLAKA" tvg-logo="" group-title="news",AR|NEWS: ALMAMLAKA
-http://31.43.191.125:8080/VIP0111177497995358/kc5xpnbtcxph/130862
+http://31.43.191.125:8080/vip6511789659461/c13ef61ee63b/130862
 #EXTINF:-1 tvg-name="AR|NEWS: ALMASHHAD" tvg-logo="" group-title="news",AR|NEWS: ALMASHHAD
-http://31.43.191.125:8080/VIP0111177497995358/kc5xpnbtcxph/130863
+http://31.43.191.125:8080/vip6511789659461/c13ef61ee63b/130863
 #EXTINF:-1 tvg-name="AR|NEWS: ALYAUM" tvg-logo="" group-title="news",AR|NEWS: ALYAUM
-http://31.43.191.125:8080/VIP0111177497995358/kc5xpnbtcxph/130864
+http://31.43.191.125:8080/vip6511789659461/c13ef61ee63b/130864
 #EXTINF:-1 tvg-name="AR|NEWS: ASHARIQA NEWS" tvg-logo="" group-title="news",AR|NEWS: ASHARIQA NEWS
-http://31.43.191.125:8080/VIP0111177497995358/kc5xpnbtcxph/130865
+http://31.43.191.125:8080/vip6511789659461/c13ef61ee63b/130865
 #EXTINF:-1 tvg-name="AR|NEWS: CNBC AR" tvg-logo="" group-title="news",AR|NEWS: CNBC AR
 http://31.43.191.125:8080/VIP0111177497995358/kc5xpnbtcxph/130866
-#EXTINF:-1 tvg-name="AR|NEWS: INEWS" tvg-logo="" group-title="news",AR|NEWS: INEWS
-http://31.43.191.125:8080/VIP0111177497995358/kc5xpnbtcxph/130868
+#EXTINF:-1 tvg-name="IQ | iNews HD" tvg-logo="http://vod-logo.net/photos/7bb86ac0f6b4562df2502df5c282eed1.png" group-title="news",IQ | iNews HD
+http://lordstreams.live:80/joe/joe/273292
 #EXTINF:-1 tvg-name="AR|NEWS: SKY ARABIA" tvg-logo="" group-title="news",AR|NEWS: SKY ARABIA
-http://31.43.191.125:8080/VIP0111177497995358/kc5xpnbtcxph/130870
+http://31.43.191.125:8080/vip6511789659461/c13ef61ee63b/130870
+#EXTINF:-1 tvg-name="AR|NEWS: TRT ARABIC" tvg-logo="" group-title="news",AR|NEWS: TRT ARABIC
+http://nordicstream.xyz/nkMApnXf/vms4kgrH4H/1883832
 #EXTINF:-1 tvg-name="AR|SSC: NEWS" tvg-logo="" group-title="news",AR|SSC: NEWS
-http://31.43.191.125:8080/vip6511789659461/c13ef61ee63b/131091
+http://31.43.191.125:8080/Adri_ruiz/azerty34/131091
+#EXTINF:-1 tvg-name="MyHD: AL-MAJD NEWS قناة المجد الاخبارية" tvg-logo="https://s12.gifyu.com/images/SVcsc.webp" group-title="news",MyHD: AL-MAJD NEWS قناة المجد الاخبارية
+http://lordstreams.live:80/joe/joe/641682
+#EXTINF:-1 tvg-name="LB | Al Alam News TV" tvg-logo="http://vod-logo.net/photos/d13e1e631f36bd0e5f888a4cd009dc62.png" group-title="news",LB | Al Alam News TV
+http://lordstreams.live:80/joe/joe/273238
+#EXTINF:-1 tvg-name="SY | Syria News TV" tvg-logo="http://vod-logo.net/photos/2b0e9d5bb713e623bddf8d014a2a6838.jpg" group-title="news",SY | Syria News TV
+http://lordstreams.live:80/joe/joe/273222
+#EXTINF:-1 tvg-name="SD | DW News" tvg-logo="http://vod-logo.net/photos/641ab1ec36ceb2d1c7449e8bef0d04f3.png" group-title="news",SD | DW News
+http://lordstreams.live:80/joe/joe/272837
+#EXTINF:-1 tvg-name="SA | Asharq News HD" tvg-logo="http://103.161.34.238/dreamtv/tv/SAUDIA/ASHARQ-NEWS.png" group-title="news",SA | Asharq News HD
+http://lordstreams.live:80/joe/joe/272640
+#EXTINF:-1 tvg-name="DZ | AL24 News" tvg-logo="http://138.199.27.237:8080/AFRICA/ALGERIA/alg-24.png" group-title="news",DZ | AL24 News
+http://lordstreams.live:80/joe/joe/272521
+#EXTINF:-1 tvg-name="News | AR | Sky News Arabic SD" tvg-logo="http://vod-logo.net/photos/9ca5c12efad333fabe8a1de0f7d3aec7.png" group-title="news",News | AR | Sky News Arabic SD
+http://lordstreams.live:80/joe/joe/272253
+#EXTINF:-1 tvg-name="News | AR | RT Arabic SD" tvg-logo="http://vod-logo.net/photos/d066e4539347c1beb65084696c674797.png" group-title="news",News | AR | RT Arabic SD
+http://lordstreams.live:80/joe/joe/272247
+#EXTINF:-1 tvg-name="News | AR | TRT News Arabic HD" tvg-logo="http://vod-logo.net/photos/8af4e3c5e9bd720d808edddecce18f0d.png" group-title="news",News | AR | TRT News Arabic HD
+http://lordstreams.live:80/joe/joe/272245
+#EXTINF:-1 tvg-name="News | AR | BBC World News Arabic" tvg-logo="http://vod-logo.net/photos/dea1ea8d31976b8945e3fd920d92665e.png" group-title="news",News | AR | BBC World News Arabic
+http://lordstreams.live:80/joe/joe/272243
+#EXTINF:-1 tvg-name="News | AR | i24 News Arabic" tvg-logo="http://vod-logo.net/photos/18d37c486769fcc9fc50c9fff4adebc0.png" group-title="news",News | AR | i24 News Arabic
+http://lordstreams.live:80/joe/joe/272222
+#EXTINF:-1 tvg-name="News | AR | Russia Today Arabic 4K" tvg-logo="" group-title="news",News | AR | Russia Today Arabic 4K
+http://lordstreams.live:80/joe/joe/272219
+#EXTINF:-1 tvg-name="News | AR | CGTV Arabic" tvg-logo="" group-title="news",News | AR | CGTV Arabic
+http://lordstreams.live:80/joe/joe/272213
 #EXTINF:-1 tvg-name="AR.ALG| ECHOROUK NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/ECHOUROUK-NEWS.png" group-title="news",AR.ALG| ECHOROUK NEWS
 http://31.43.191.210:8080/live/iptv.kosiptv.comNEW/gJUP3KsM2ENEW/665017042.m3u
 #EXTINF:-1 tvg-name="AR.ALG| DZAIR NEWS" tvg-logo="https://www.alg24.net/wp-content/uploads/2017/04/Dzair.png" group-title="news",AR.ALG| DZAIR NEWS

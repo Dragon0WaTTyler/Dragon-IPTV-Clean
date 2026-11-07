@@ -1,28 +1,74 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="USA: AL JAZEERA ENGLISH US" tvg-logo="" group-title="news",USA: AL JAZEERA ENGLISH US
+http://31.43.191.125:8080/Dani/Dani/154626
+#EXTINF:-1 tvg-name="Al Jazeera English FHD" tvg-logo="http://logo.mypanel.one/logos/LogoEVDTV/BeIN/Factual_News/Al_Jazeera_EN.png" group-title="news",Al Jazeera English FHD
+http://lordstreams.live:80/joe/joe/786434
+#EXTINF:-1 tvg-name="News | En: Al Jazeera English" tvg-logo="http://vod-logo.net/photos/7fcbff4dd86d2169111c0703cbf4488f.png" group-title="news",News | En: Al Jazeera English
+http://lordstreams.live:80/joe/joe/272260
 #EXTINF:-1 tvg-name="Al Jazeera English FHD FI" tvg-logo="" group-title="news",Al Jazeera English FHD FI
 http://nordicstream.xyz/nkMApnXf/vms4kgrH4H/85561
 #EXTINF:-1 tvg-name="Al Jazeera English UK" tvg-logo="" group-title="news",Al Jazeera English UK
-http://nordicstream.xyz/nkMApnXf/vms4kgrH4H/10717
-#EXTINF:-1 tvg-name="Al Jazeera English FHD" tvg-logo="" group-title="news",Al Jazeera English FHD
-http://nordicstream.xyz/nkMApnXf/vms4kgrH4H/1883824
-#EXTINF:-1 tvg-name="USA: AL JAZEERA ENGLISH US" tvg-logo="" group-title="news",USA: AL JAZEERA ENGLISH US
-http://31.43.191.125:8080/Dani/Dani/154626
+http://nordicstream.xyz/nkMApnXf/vms4kgrH4H/117765
 #EXTINF:-1 tvg-name="BBC News" tvg-logo="https://images.pluto.tv/channels/65d92a8c8b24c80008e285c0/colorLogoPNG.png" group-title="news",BBC News
 https://stitcher.pluto.tv/stitch/hls/channel/65d92a8c8b24c80008e285c0/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=66fdda05-62bc-11ef-b7b7-72aa874ccba6
+#EXTINF:-1 tvg-name="CA BBC News" tvg-logo="https://www.bbcstudios.com/media/3735/canada.jpg" group-title="news",CA BBC News
+http://lordstreams.live:80/joe/joe/3870
+#EXTINF:-1 tvg-name="Iceland | BBC News" tvg-logo="https://logo.m3uassets.com/bbcnews.png" group-title="news",Iceland | BBC News
+http://lordstreams.live:80/joe/joe/805993
+#EXTINF:-1 tvg-name="AZAM| BBC NEWS" tvg-logo="https://logo.m3uassets.com/bbcnews.png" group-title="news",AZAM| BBC NEWS
+http://lordstreams.live:80/joe/joe/704211
+#EXTINF:-1 tvg-name="BBC News UK" tvg-logo="" group-title="news",BBC News UK
+http://lordstreams.live:80/joe/joe/709757
+#EXTINF:-1 tvg-name="BBC News dtvd" tvg-logo="" group-title="news",BBC News dtvd
+https://fplay2.com:8443/play/e4DImlR_8AMChB5YFlVDnWozd9nReQi4XzXBmGoEznI
 #EXTINF:-1 tvg-name="BBC News (North America) (1080p)" tvg-logo="https://i.imgur.com/vSz2WEp.png" group-title="news",BBC News (North America) (1080p)
 https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8
 #EXTINF:-1 tvg-name="BBC News Asia Pacific (720p)" tvg-logo="https://i.imgur.com/REuN9RR.png" group-title="news",BBC News Asia Pacific (720p)
 http://myultratv.com:8080/0709roberttv/2023libertv/264740
-#EXTINF:-1 tvg-name="BBC News UK" tvg-logo="" group-title="news",BBC News UK
-http://nordicstream.xyz/nkMApnXf/vms4kgrH4H/24775
 #EXTINF:-1 tvg-name="BBC News UHD US" tvg-logo="" group-title="news",BBC News UHD US
 http://nordicstream.xyz/nkMApnXf/vms4kgrH4H/2121780
-#EXTINF:-1 tvg-name="CA BBC News" tvg-logo="" group-title="news",CA BBC News
-http://nordicstream.xyz/nkMApnXf/vms4kgrH4H/2124421
-#EXTINF:-1 tvg-name="CNN HD" tvg-logo="" group-title="news",CNN HD
-http://31.43.191.125:8080/Dani/Dani/1871
 #EXTINF:-1 tvg-name="CNN International HD" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/8/8b/Cnn.svg/640px-Cnn.svg.png" group-title="news",CNN International HD
 http://31.43.191.125:8080/Dani/Dani/154948
+#EXTINF:-1 tvg-name="CNN International (mex)" tvg-logo="" group-title="news",CNN International (mex)
+http://xtreamview.net:80/play/8IoF8OPXjNm--ocohSCYnbf2JHaP-kKMbczJ7AmkjlQ
+#EXTINF:-1 tvg-name="CNN Canada" tvg-logo="" group-title="news",CNN Canada
+http://xtreamview.net:80/play/8IoF8OPXjNm--ocohSCYncWJTCYAKZDWcCoUtdGePL0
+#EXTINF:-1 tvg-name="CNN Headline News" tvg-logo="" group-title="news",CNN Headline News
+http://xtreamview.net:80/play/8IoF8OPXjNm--ocohSCYnZ5E3_fbSdDW-Bp8DTfsK4E
+#EXTINF:-1 tvg-name="CNN HD" tvg-logo="" group-title="news",CNN HD
+http://31.43.191.125:8080/Dani/Dani/1871
+#EXTINF:-1 tvg-name="CA CNN" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s10142_h15_aa.png" group-title="news",CA CNN
+http://lordstreams.live:80/joe/joe/3825
+#EXTINF:-1 tvg-name="CA CNN Canada" tvg-logo="https://logo.m3uassets.com/cnn.png" group-title="news",CA CNN Canada
+http://lordstreams.live:80/joe/joe/3858
+#EXTINF:-1 tvg-name="Iceland | CNN" tvg-logo="https://logo.m3uassets.com/cnn.png" group-title="news",Iceland | CNN
+http://lordstreams.live:80/joe/joe/805990
+#EXTINF:-1 tvg-name="ENGLISH| CNN NEWS" tvg-logo="https://logo.iptveditor.com/cnnenglish.png" group-title="news",ENGLISH| CNN NEWS
+http://lordstreams.live:80/joe/joe/693947
+#EXTINF:-1 tvg-name="AZAM| CNN" tvg-logo="https://logo.m3uassets.com/cnn.png" group-title="news",AZAM| CNN
+http://lordstreams.live:80/joe/joe/704208
+#EXTINF:-1 tvg-name="News | En: CNN International" tvg-logo="" group-title="news",News | En: CNN International
+http://lordstreams.live:80/joe/joe/272241
+#EXTINF:-1 tvg-name="USA CNN" tvg-logo="https://logo.m3uassets.com/cnn.png" group-title="news",USA CNN
+http://lordstreams.live:80/joe/joe/268995
+#EXTINF:-1 tvg-name="USA CNN INTERNATIONAL" tvg-logo="https://logo.m3uassets.com/cnninternational.png" group-title="news",USA CNN INTERNATIONAL
+http://lordstreams.live:80/joe/joe/1040
+#EXTINF:-1 tvg-name="CNN UK" tvg-logo="" group-title="news",CNN UK
+http://lordstreams.live:80/joe/joe/709698
+#EXTINF:-1 tvg-name="Carib CNN" tvg-logo="https://logo.m3uassets.com/cnn.png" group-title="news",Carib CNN
+http://lordstreams.live:80/joe/joe/303894
+#EXTINF:-1 tvg-name="Carib CNN_International" tvg-logo="https://logo.m3uassets.com/cnninternational.png" group-title="news",Carib CNN_International
+http://lordstreams.live:80/joe/joe/303893
+#EXTINF:-1 tvg-name="CA | CNN | OP1" tvg-logo="" group-title="news",CA | CNN | OP1
+https://fplay2.com:8443/play/e4DImlR_8AMChB5YFlVDnb3sK0M6lpnGItQPDULw2i4
+#EXTINF:-1 tvg-name="CA | CNN | OP2" tvg-logo="" group-title="news",CA | CNN | OP2
+https://fplay2.com:8443/play/e4DImlR_8AMChB5YFlVDneI6RVMQYeZV18SEv_115D8
+#EXTINF:-1 tvg-name="Antena 3 CNN" tvg-logo="" group-title="news",Antena 3 CNN
+https://fplay2.com:8443/play/e4DImlR_8AMChB5YFlVDnYc7Cr7VUJ8Vw2bLrr-uOUE
+#EXTINF:-1 tvg-name="CNN USA OP1" tvg-logo="" group-title="news",CNN USA OP1
+https://fplay2.com:8443/play/e4DImlR_8AMChB5YFlVDnUNmfjDLiTCnu6o8wodIdnE
+#EXTINF:-1 tvg-name="CNN USA OP2" tvg-logo="" group-title="news",CNN USA OP2
+https://fplay2.com:8443/play/e4DImlR_8AMChB5YFlVDnRDn4WQXVdmx6KhxJ-J58Rw
 #EXTINF:-1 tvg-name="CNN (ca)" tvg-logo="http://209.126.82.213/logos/ca/makeful_ca.png" group-title="news",CNN (ca)
 http://nordicstream.xyz/nkMApnXf/vms4kgrH4H/30017
 #EXTINF:-1 tvg-name="[Canal+ PL ] CNN" tvg-logo="" group-title="news",[Canal+ PL ] CNN
@@ -49,26 +95,34 @@ http://nordicstream.xyz/nkMApnXf/vms4kgrH4H/86918
 http://nordicstream.xyz/nkMApnXf/vms4kgrH4H/564714
 #EXTINF:-1 tvg-name="CNN FHD IS" tvg-logo="" group-title="news",CNN FHD IS
 http://nordicstream.xyz/nkMApnXf/vms4kgrH4H/80647
-#EXTINF:-1 tvg-name="CNN UK" tvg-logo="" group-title="news",CNN UK
-http://nordicstream.xyz/nkMApnXf/vms4kgrH4H/25041
 #EXTINF:-1 tvg-name="CNN FHD US" tvg-logo="" group-title="news",CNN FHD US
 http://nordicstream.xyz/nkMApnXf/vms4kgrH4H/2116090
 #EXTINF:-1 tvg-name="CNN INTERNATIONAL US" tvg-logo="" group-title="news",CNN INTERNATIONAL US
 http://nordicstream.xyz/nkMApnXf/vms4kgrH4H/2116115
 #EXTINF:-1 tvg-name="CNN Canada CA" tvg-logo="" group-title="news",CNN Canada CA
 http://nordicstream.xyz/nkMApnXf/vms4kgrH4H/2124624
-#EXTINF:-1 tvg-name="CA CNN" tvg-logo="" group-title="news",CA CNN
-http://nordicstream.xyz/nkMApnXf/vms4kgrH4H/2124429
 #EXTINF:-1 tvg-name="ACNN HD NG" tvg-logo="" group-title="news",ACNN HD NG
 http://nordicstream.xyz/nkMApnXf/vms4kgrH4H/825073
 #EXTINF:-1 tvg-name="CNN International FHD ZA" tvg-logo="" group-title="news",CNN International FHD ZA
 http://nordicstream.xyz/nkMApnXf/vms4kgrH4H/600318
-#EXTINF:-1 tvg-name="ENGLISH| CNN NEWS" tvg-logo="" group-title="news",ENGLISH| CNN NEWS
-http://nordicstream.xyz/nkMApnXf/vms4kgrH4H/1805777
 #EXTINF:-1 tvg-name="CNN Prima News FHD SK" tvg-logo="" group-title="news",CNN Prima News FHD SK
 http://nordicstream.xyz/nkMApnXf/vms4kgrH4H/2479896
+#EXTINF:-1 tvg-name="Peacock Live | Sky News" tvg-logo="" group-title="news",Peacock Live | Sky News
+http://xtreamview.net:80/play/8IoF8OPXjNm--ocohSCYncAdWFNxdm_t3ZqoQFH0oJ2E1O0XAUaSD45DxDv-LSRb
 #EXTINF:-1 tvg-name="Sky News" tvg-logo="https://images.pluto.tv/channels/55b285cd2665de274553d66f/colorLogoPNG.png" group-title="news",Sky News
 https://stitcher.pluto.tv/stitch/hls/channel/55b285cd2665de274553d66f/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=66fdda05-62bc-11ef-b7b7-72aa874ccba6
+#EXTINF:-1 tvg-name="USA: SKY NEWS AMERICA" tvg-logo="" group-title="news",USA: SKY NEWS AMERICA
+http://31.43.191.125:8080/Dani/Dani/156544
+#EXTINF:-1 tvg-name="AU: SKY NEWS EXTRA" tvg-logo="" group-title="news",AU: SKY NEWS EXTRA
+http://31.43.191.125:8080/vip6511789659461/c13ef61ee63b/25044
+#EXTINF:-1 tvg-name="Iceland | Sky News" tvg-logo="https://logo.m3uassets.com/skynews.png" group-title="news",Iceland | Sky News
+http://lordstreams.live:80/joe/joe/805989
+#EXTINF:-1 tvg-name="OSN Sky News" tvg-logo="https://logos.mypanel.one/nemesislogos/saqlogo/Logo_EVDTV/OSN/Sky_News_HD.png" group-title="news",OSN Sky News
+http://lordstreams.live:80/joe/joe/786520
+#EXTINF:-1 tvg-name="[US] SKY NEWS FHD [sᴛᴠ+]" tvg-logo="https://logo.m3uassets.com/skynews.png" group-title="news",[US] SKY NEWS FHD [sᴛᴠ+]
+http://lordstreams.live:80/joe/joe/623147
+#EXTINF:-1 tvg-name="Sky News UK" tvg-logo="" group-title="news",Sky News UK
+http://lordstreams.live:80/joe/joe/709511
 #EXTINF:-1 tvg-name="Sky News Extra 1 (540p)" tvg-logo="https://i.imgur.com/ZsPb8nL.png" group-title="news",Sky News Extra 1 (540p)
 http://myultratv.com:8080/0709roberttv/2023libertv/265554
 #EXTINF:-1 tvg-name="Sky News Extra 2 (540p) [Not 24/7]" tvg-logo="https://i.imgur.com/ZsPb8nL.png" group-title="news",Sky News Extra 2 (540p) [Not 24/7]
@@ -81,10 +135,6 @@ http://nordicstream.xyz/nkMApnXf/vms4kgrH4H/504720
 http://nordicstream.xyz/nkMApnXf/vms4kgrH4H/54304
 #EXTINF:-1 tvg-name="Sky News HD IS" tvg-logo="" group-title="news",Sky News HD IS
 http://nordicstream.xyz/nkMApnXf/vms4kgrH4H/80627
-#EXTINF:-1 tvg-name="Sky News UK" tvg-logo="" group-title="news",Sky News UK
-http://nordicstream.xyz/nkMApnXf/vms4kgrH4H/39794
-#EXTINF:-1 tvg-name="OSN Sky News" tvg-logo="" group-title="news",OSN Sky News
-http://nordicstream.xyz/nkMApnXf/vms4kgrH4H/1836426
 #EXTINF:-1 tvg-name="Sky News Arabiya HD" tvg-logo="" group-title="news",Sky News Arabiya HD
 http://nordicstream.xyz/nkMApnXf/vms4kgrH4H/2020250
 #EXTINF:-1 tvg-name="Sky News FHD ZA" tvg-logo="" group-title="news",Sky News FHD ZA
@@ -99,18 +149,28 @@ http://nordicstream.xyz/nkMApnXf/vms4kgrH4H/141889
 http://nordicstream.xyz/nkMApnXf/vms4kgrH4H/1061837
 #EXTINF:-1 tvg-name="Sky News SK" tvg-logo="" group-title="news",Sky News SK
 http://nordicstream.xyz/nkMApnXf/vms4kgrH4H/2480194
-#EXTINF:-1 tvg-name="USA: SKY NEWS AMERICA" tvg-logo="" group-title="news",USA: SKY NEWS AMERICA
-http://31.43.191.125:8080/Dani/Dani/156544
-#EXTINF:-1 tvg-name="AU: SKY NEWS EXTRA" tvg-logo="" group-title="news",AU: SKY NEWS EXTRA
-http://31.43.191.125:8080/VIP0111177497995358/kc5xpnbtcxph/25044
-#EXTINF:-1 tvg-name="AU: SKY NEWS NOW" tvg-logo="" group-title="news",AU: SKY NEWS NOW
-http://hostengine.live/live/john/franklin/264919.m3u
 #EXTINF:-1 tvg-name="UK: France 24 English" tvg-logo="" group-title="news",UK: France 24 English
 http://31.43.191.125:8080/Dani/Dani/146958
+#EXTINF:-1 tvg-name="Iceland | France 24 English" tvg-logo="https://logo.m3uassets.com/france24english.png" group-title="news",Iceland | France 24 English
+http://lordstreams.live:80/joe/joe/805985
+#EXTINF:-1 tvg-name="News | En: France 24 English" tvg-logo="" group-title="news",News | En: France 24 English
+http://lordstreams.live:80/joe/joe/272238
+#EXTINF:-1 tvg-name="USA France 24 (English)" tvg-logo="https://logo.m3uassets.com/24.png" group-title="news",USA France 24 (English)
+http://lordstreams.live:80/joe/joe/1037
+#EXTINF:-1 tvg-name="News | En: DW English" tvg-logo="http://138.199.27.237:8080/USA/DW.png" group-title="news",News | En: DW English
+http://lordstreams.live:80/joe/joe/272236
 #EXTINF:-1 tvg-name="DW English HD SE" tvg-logo="" group-title="news",DW English HD SE
 http://nordicstream.xyz/nkMApnXf/vms4kgrH4H/772169
 #EXTINF:-1 tvg-name="Euronews" tvg-logo="https://images.pluto.tv/channels/6639d7d4b18d700008da5316/colorLogoPNG.png" group-title="news",Euronews
 https://stitcher.pluto.tv/stitch/hls/channel/6639d7d4b18d700008da5316/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=41ba0809-62bc-11ef-83ed-4ec11ef77758
+#EXTINF:-1 tvg-name="Euronews RU UA" tvg-logo="https://logos.mypanel.one/nemesislogos/saqlogo/Ukraine/Euronews%20RU%20UA.jpg" group-title="news",Euronews RU UA
+http://lordstreams.live:80/joe/joe/706649
+#EXTINF:-1 tvg-name="Euronews UK" tvg-logo="" group-title="news",Euronews UK
+http://lordstreams.live:80/joe/joe/709362
+#EXTINF:-1 tvg-name="Carib Euronews" tvg-logo="https://logo.m3uassets.com/euronews.png" group-title="news",Carib Euronews
+http://lordstreams.live:80/joe/joe/303871
+#EXTINF:-1 tvg-name="Euronews Georgia HD GE" tvg-logo="https://logo.m3uassets.com/euronewsgeorgia.png" group-title="news",Euronews Georgia HD GE
+http://lordstreams.live:80/joe/joe/837533
 #EXTINF:-1 tvg-name="Euronews DIRECTO" tvg-logo="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/b4cec5e3-1dec-465b-8a41-7808c1c2ed76.png" group-title="news",Euronews DIRECTO
 https://b65f458b099f43cbb7c26dc1ee4075dd.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-es_EuroNewsLive/playlist.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=com.rakuten.tv&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_classification=12&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_type=web&ads.device_year=&ads.env=prod&ads.gam_correlator=&ads.gdpr_consent=&ads.market=es&ads.os_language=&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.rtv_content_id=3418&ads.rtv_content_language=spa&ads.rtvid=271859&ads.streaming_id=9deb6d59-16fa-4649-84cb-532b193e1c10&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&ads.wurl_channel=867
 #EXTINF:-1 tvg-name="[Canal+ PL ] EURONEWS HD" tvg-logo="" group-title="news",[Canal+ PL ] EURONEWS HD
@@ -129,168 +189,112 @@ https://3b6e2112ee2d490a93b95c9d130c46aa.mediatailor.us-east-1.amazonaws.com/v1/
 http://myultratv.com:8080/0709roberttv/2023libertv/266989
 #EXTINF:-1 tvg-name="Euronews NO" tvg-logo="" group-title="news",Euronews NO
 http://nordicstream.xyz/nkMApnXf/vms4kgrH4H/54300
-#EXTINF:-1 tvg-name="Euronews UK" tvg-logo="" group-title="news",Euronews UK
-http://nordicstream.xyz/nkMApnXf/vms4kgrH4H/10904
 #EXTINF:-1 tvg-name="Euronews Portuguese FHD US" tvg-logo="" group-title="news",Euronews Portuguese FHD US
 http://nordicstream.xyz/nkMApnXf/vms4kgrH4H/1351015
 #EXTINF:-1 tvg-name="Euronews FHD US" tvg-logo="" group-title="news",Euronews FHD US
 http://nordicstream.xyz/nkMApnXf/vms4kgrH4H/1351012
 #EXTINF:-1 tvg-name="Euronews Italiano FHD US" tvg-logo="" group-title="news",Euronews Italiano FHD US
 http://nordicstream.xyz/nkMApnXf/vms4kgrH4H/1351014
-#EXTINF:-1 tvg-name="Euronews RU UA" tvg-logo="" group-title="news",Euronews RU UA
-http://nordicstream.xyz/nkMApnXf/vms4kgrH4H/2018863
-#EXTINF:-1 tvg-name="Euronews Georgia HD GE" tvg-logo="" group-title="news",Euronews Georgia HD GE
-http://nordicstream.xyz/nkMApnXf/vms4kgrH4H/2020339
 #EXTINF:-1 tvg-name="Euronews FHD SK" tvg-logo="" group-title="news",Euronews FHD SK
 http://nordicstream.xyz/nkMApnXf/vms4kgrH4H/2479940
-#EXTINF:-1 tvg-name="EuroNews Srbija" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/4/img/kanali-logo/EuroNews_Serbia_RS_logo.jpg" group-title="news",EuroNews Srbija
-http://caffe.link:25461/200Zrinko/UB9quKy8uSvy/118733
 #EXTINF:-1 tvg-name="TRT World HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/TRT_World.svg/2560px-TRT_World.svg.png" group-title="news",TRT World HD
 http://tv-trtworld.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1 tvg-name="[CeeK] TRT WORLD" tvg-logo="" group-title="news",[CeeK] TRT WORLD
 http://myultratv.com:8080/0709roberttv/2023libertv/258904
 #EXTINF:-1 tvg-name="TRT World FHD SK" tvg-logo="" group-title="news",TRT World FHD SK
 http://nordicstream.xyz/nkMApnXf/vms4kgrH4H/2480203
-#EXTINF:-1 tvg-name="US: Fox News Channel" tvg-logo="https://logos-world.net/wp-content/uploads/2020/11/Fox-News-Channel-Logo-2002-2017.png" group-title="news",US: Fox News Channel
-http://31.43.191.125:8080/Dani/Dani/155450
-#EXTINF:-1 tvg-name="BBC World News" tvg-logo="" group-title="news",BBC World News
-http://31.43.191.125:8080/Dani/Dani/1865
-#EXTINF:-1 tvg-name="USA | NEWS 12 NEW JERSEY" tvg-logo="https://www.randjsc.com/wp-content/uploads/2020/05/News12-NJ.jpg" group-title="news",USA | NEWS 12 NEW JERSEY
-http://myultratv.com:8080/0709roberttv/2023libertv/23757
-#EXTINF:-1 tvg-name="US: Newsmaxtv" tvg-logo="" group-title="news",US: Newsmaxtv
-http://myultratv.com:8080/0709roberttv/2023libertv/23758
-#EXTINF:-1 tvg-name="US: WGN News Chicago" tvg-logo="" group-title="news",US: WGN News Chicago
-http://myultratv.com:8080/0709roberttv/2023libertv/23767
-#EXTINF:-1 tvg-name="US: WCNC Breaking News" tvg-logo="" group-title="news",US: WCNC Breaking News
-http://myultratv.com:8080/0709roberttv/2023libertv/23771
-#EXTINF:-1 tvg-name="US: RT NEWS" tvg-logo="http://mylatinotv.com:8080/images/mexico/rt.png" group-title="news",US: RT NEWS
-http://31.43.191.125:8080/Dani/Dani/1900
-#EXTINF:-1 tvg-name="US: CBS News" tvg-logo="" group-title="news",US: CBS News
-http://31.43.191.125:8080/vip6511789659461/c13ef61ee63b/154853
-#EXTINF:-1 tvg-name="US: NBC News HD" tvg-logo="" group-title="news",US: NBC News HD
-http://myultratv.com:8080/0709roberttv/2023libertv/23965
-#EXTINF:-1 tvg-name="USA: FOX NEWS" tvg-logo="" group-title="news",USA: FOX NEWS
-http://31.43.191.125:8080/Dani/Dani/1873
-#EXTINF:-1 tvg-name="US: CBSN News HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/CBS_News.svg/1280px-CBS_News.svg.png" group-title="news",US: CBSN News HD
-http://myultratv.com:8080/0709roberttv/2023libertv/24098
-#EXTINF:-1 tvg-name="AU: ABC NEWS" tvg-logo="" group-title="news",AU: ABC NEWS
-http://31.43.191.125:8080/VIP0111177497995358/kc5xpnbtcxph/25020
-#EXTINF:-1 tvg-name="UK: FOX News Now DASH" tvg-logo="https://docdog.top/Logotv/countries/uk/foxnews.png" group-title="news",UK: FOX News Now DASH
-https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-name="CA : CBC NEWS NETWORK" tvg-logo="" group-title="news",CA : CBC NEWS NETWORK
-http://hostengine.live/live/john/franklin/53624.m3u
-#EXTINF:-1 tvg-name="CA: CTV NEWS Newtork HD" tvg-logo="http://live.geoiptv.org/channels_icon/13786749151.png" group-title="news",CA: CTV NEWS Newtork HD
-http://myultratv.com:8080/0709roberttv/2023libertv/254677
-#EXTINF:-1 tvg-name="BBC World" tvg-logo="" group-title="news",BBC World
-http://myultratv.com:8080/0709roberttv/2023libertv/254714
-#EXTINF:-1 tvg-name="Africanews English" tvg-logo="" group-title="news",Africanews English
-https://37c774660687468c821a51190046facf.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-gb_AfricaNews/playlist.m3u8
-#EXTINF:-1 tvg-name="France 24 FAST English" tvg-logo="https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/b4e13e24-5808-4dbb-8239-bf72c9611650.jpeg" group-title="news",France 24 FAST English
-https://amg00106-amg00106c1-rakuten-uk-4654.playouts.now.amagi.tv/playlist/amg00106-france24fast-france24-rakutenuk/playlist.m3u8?ads_amagi_channel=938&ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_bundle=com.rakuten.tv&ads_app_store_url=rakuten.tv&ads_app_version=&ads_brand_name=&ads_content_classification=7&ads_device_lmt=1&ads_device_make=&ads_device_model=&ads_device_type=web&ads_device_year=&ads_env=prod&ads_gam_correlator=&ads_gdpr_consent=&ads_market=es&ads_os_language=&ads_player_height=&ads_player_width=&ads_pod_type=playerpage_midroll&ads_ppid=&ads_rtv_content_id=6311&ads_rtv_content_language=eng&ads_rtvid=271859&ads_streaming_id=ccf3bb1a-ee12-450d-ac67-e339e40335f1&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=visitor
-#EXTINF:-1 tvg-name="[Cgates] BBC World News" tvg-logo="" group-title="news",[Cgates] BBC World News
-http://myultratv.com:8080/0709roberttv/2023libertv/264569
-#EXTINF:-1 tvg-name="BBC World News SE" tvg-logo="" group-title="news",BBC World News SE
-http://nordicstream.xyz/nkMApnXf/vms4kgrH4H/29351
-#EXTINF:-1 tvg-name="BBC World News HD DK" tvg-logo="" group-title="news",BBC World News HD DK
-http://nordicstream.xyz/nkMApnXf/vms4kgrH4H/86907
-#EXTINF:-1 tvg-name="BBC World News NO" tvg-logo="" group-title="news",BBC World News NO
-http://nordicstream.xyz/nkMApnXf/vms4kgrH4H/38231
-#EXTINF:-1 tvg-name="BBC World News FI" tvg-logo="" group-title="news",BBC World News FI
-http://nordicstream.xyz/nkMApnXf/vms4kgrH4H/85541
-#EXTINF:-1 tvg-name="BBC World News IS" tvg-logo="" group-title="news",BBC World News IS
-http://nordicstream.xyz/nkMApnXf/vms4kgrH4H/80648
-#EXTINF:-1 tvg-name="BBC World News US" tvg-logo="" group-title="news",BBC World News US
-http://nordicstream.xyz/nkMApnXf/vms4kgrH4H/2116099
-#EXTINF:-1 tvg-name="BBC World News CA" tvg-logo="" group-title="news",BBC World News CA
-http://nordicstream.xyz/nkMApnXf/vms4kgrH4H/52826
-#EXTINF:-1 tvg-name="CA BBC World" tvg-logo="" group-title="news",CA BBC World
-http://nordicstream.xyz/nkMApnXf/vms4kgrH4H/2124422
-#EXTINF:-1 tvg-name="ENGLISH| ALJAZEERA HD" tvg-logo="" group-title="news",ENGLISH| ALJAZEERA HD
-http://nordicstream.xyz/nkMApnXf/vms4kgrH4H/1805778
-#EXTINF:-1 tvg-name="ENGLISH| CNBC TV18 NEWS HD" tvg-logo="" group-title="news",ENGLISH| CNBC TV18 NEWS HD
-http://nordicstream.xyz/nkMApnXf/vms4kgrH4H/1805746
-#EXTINF:-1 tvg-name="ENGLISH| NEWS X" tvg-logo="" group-title="news",ENGLISH| NEWS X
-http://nordicstream.xyz/nkMApnXf/vms4kgrH4H/1805762
-#EXTINF:-1 tvg-name="ENGLISH| TIMES NOW NEWS HD" tvg-logo="" group-title="news",ENGLISH| TIMES NOW NEWS HD
-http://nordicstream.xyz/nkMApnXf/vms4kgrH4H/1805769
-#EXTINF:-1 tvg-name="ENGLISH| WION NEWS" tvg-logo="" group-title="news",ENGLISH| WION NEWS
-http://nordicstream.xyz/nkMApnXf/vms4kgrH4H/1805780
+#EXTINF:-1 tvg-name="CA | Global News Channel" tvg-logo="" group-title="news",CA | Global News Channel
+http://xtreamview.net:80/play/8IoF8OPXjNm--ocohSCYnRgCQZMp9g731XdJ2-xvT88
+#EXTINF:-1 tvg-name="CA: CBC NEWS" tvg-logo="" group-title="news",CA: CBC NEWS
+http://31.43.191.125:8080/Dani/Dani/154763
+#EXTINF:-1 tvg-name="CA | CTV NEWS NETWORK" tvg-logo="" group-title="news",CA | CTV NEWS NETWORK
+http://xtreamview.net:80/play/8IoF8OPXjNm--ocohSCYnUz5bjZXSxVum7UOh3iFYxE
 #EXTINF:-1 tvg-name="UK: VIP ABP NEWS" tvg-logo="" group-title="news",UK: VIP ABP NEWS
 http://31.43.191.125:8080/Dani/Dani/1821
 #EXTINF:-1 tvg-name="UK: VIP FRANCE 24" tvg-logo="" group-title="news",UK: VIP FRANCE 24
 http://31.43.191.125:8080/Dani/Dani/1856
-#EXTINF:-1 tvg-name="AU: AL JAZEERA" tvg-logo="" group-title="news",AU: AL JAZEERA
-http://hostengine.live/live/john/franklin/250038.m3u
+#EXTINF:-1 tvg-name="NZ| Al Jazeera" tvg-logo="https://logo.m3uassets.com/aljazeera.png" group-title="news",NZ| Al Jazeera
+http://31.43.191.125:8080/Dani/Dani/1857
+#EXTINF:-1 tvg-name="BBC World News" tvg-logo="" group-title="news",BBC World News
+http://31.43.191.125:8080/Dani/Dani/1865
+#EXTINF:-1 tvg-name="USA: FOX NEWS" tvg-logo="" group-title="news",USA: FOX NEWS
+http://31.43.191.125:8080/Dani/Dani/1873
 #EXTINF:-1 tvg-name="UK: VIP RTE NEWS NOW" tvg-logo="" group-title="news",UK: VIP RTE NEWS NOW
 http://31.43.191.125:8080/Dani/Dani/1874
 #EXTINF:-1 tvg-name="UK: VIP RUSSIA TODAY NEWS" tvg-logo="" group-title="news",UK: VIP RUSSIA TODAY NEWS
 http://31.43.191.125:8080/Dani/Dani/1876
-#EXTINF:-1 tvg-name="GB : RTE NEWS" tvg-logo="" group-title="news",GB : RTE NEWS
+#EXTINF:-1 tvg-name="UK: VIP RTE NEWS" tvg-logo="" group-title="news",UK: VIP RTE NEWS
 http://31.43.191.125:8080/Dani/Dani/1899
+#EXTINF:-1 tvg-name="US: RT NEWS" tvg-logo="http://mylatinotv.com:8080/images/mexico/rt.png" group-title="news",US: RT NEWS
+http://31.43.191.125:8080/Dani/Dani/1900
 #EXTINF:-1 tvg-name="UK| ALJAZEERA NEWS ENGLISH HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/aljazeera-uk.png" group-title="news",UK| ALJAZEERA NEWS ENGLISH HD
-http://31.43.191.125:8080/VIP0111177497995358/kc5xpnbtcxph/1905
-#EXTINF:-1 tvg-name="GB : GB NEWS" tvg-logo="" group-title="news",GB : GB NEWS
-http://hostengine.live/live/john/franklin/122840.m3u
+http://31.43.191.125:8080/Dani/Dani/1905
+#EXTINF:-1 tvg-name="UK: GB News HD" tvg-logo="" group-title="news",UK: GB News HD
+http://31.43.191.125:8080/Dani/Dani/1917
 #EXTINF:-1 tvg-name="UK: 92 News" tvg-logo="" group-title="news",UK: 92 News
-http://31.43.191.125:8080/VIP0111177497995358/kc5xpnbtcxph/146925
+http://31.43.191.125:8080/Dani/Dani/146925
 #EXTINF:-1 tvg-name="UK: Bloomberg News HD" tvg-logo="" group-title="news",UK: Bloomberg News HD
-http://31.43.191.125:8080/vip6511789659461/c13ef61ee63b/146936
+http://31.43.191.125:8080/Dani/Dani/146936
 #EXTINF:-1 tvg-name="UK: CNBC News" tvg-logo="" group-title="news",UK: CNBC News
-http://31.43.191.125:8080/Dani/Dani/146939
-#EXTINF:-1 tvg-name="CA: CBC NEWS" tvg-logo="" group-title="news",CA: CBC NEWS
-http://31.43.191.125:8080/Dani/Dani/154763
+http://31.43.191.125:8080/Adri_ruiz/azerty34/146939
 #EXTINF:-1 tvg-name="CA: CTV NEWS" tvg-logo="" group-title="news",CA: CTV NEWS
-http://hostengine.live/live/john/franklin/206652.m3u
+http://31.43.191.125:8080/Adri_ruiz/azerty34/5441
 #EXTINF:-1 tvg-name="CA: CTV NEWS LIVE EVENTS" tvg-logo="" group-title="news",CA: CTV NEWS LIVE EVENTS
-http://31.43.191.125:8080/vip6511789659461/c13ef61ee63b/5442
+http://31.43.191.125:8080/Adri_ruiz/azerty34/5442
 #EXTINF:-1 tvg-name="CA: RDI NEWS" tvg-logo="" group-title="news",CA: RDI NEWS
-http://31.43.191.125:8080/vip6511789659461/c13ef61ee63b/5485
+http://31.43.191.125:8080/Adri_ruiz/azerty34/5485
 #EXTINF:-1 tvg-name="USA: ABC NEWS LIVE HD" tvg-logo="" group-title="news",USA: ABC NEWS LIVE HD
 http://31.43.191.125:8080/Dani/Dani/154570
 #EXTINF:-1 tvg-name="USA: CBC NEWS INTERNATIONAL" tvg-logo="" group-title="news",USA: CBC NEWS INTERNATIONAL
 http://31.43.191.125:8080/Dani/Dani/154764
 #EXTINF:-1 tvg-name="USA: CBN NEWS" tvg-logo="" group-title="news",USA: CBN NEWS
 http://31.43.191.125:8080/Dani/Dani/154765
+#EXTINF:-1 tvg-name="US: CBS News" tvg-logo="" group-title="news",US: CBS News
+http://31.43.191.125:8080/Dani/Dani/154853
 #EXTINF:-1 tvg-name="USA: CBS NEWS BAY AREA" tvg-logo="" group-title="news",USA: CBS NEWS BAY AREA
-http://31.43.191.125:8080/Dani/Dani/154854
+http://31.43.191.125:8080/vip6511789659461/c13ef61ee63b/154854
 #EXTINF:-1 tvg-name="USA: CBS NEWS BOSTON" tvg-logo="" group-title="news",USA: CBS NEWS BOSTON
-http://hostengine.live/live/john/franklin/54161.m3u
+http://31.43.191.125:8080/Adri_ruiz/azerty34/154855
 #EXTINF:-1 tvg-name="USA: CBS NEWS CHICAGO" tvg-logo="" group-title="news",USA: CBS NEWS CHICAGO
-http://31.43.191.125:8080/Dani/Dani/154856
+http://31.43.191.125:8080/Adri_ruiz/azerty34/154856
 #EXTINF:-1 tvg-name="USA: CBS NEWS COLORADO" tvg-logo="" group-title="news",USA: CBS NEWS COLORADO
-http://hostengine.live/live/john/franklin/54164.m3u
+http://31.43.191.125:8080/Dani/Dani/154857
 #EXTINF:-1 tvg-name="USA: CBS NEWS DETROIT" tvg-logo="" group-title="news",USA: CBS NEWS DETROIT
-http://31.43.191.125:8080/vip6511789659461/c13ef61ee63b/154858
+http://31.43.191.125:8080/Dani/Dani/154858
 #EXTINF:-1 tvg-name="USA: CBS NEWS HD [Sᴛᴠ+]" tvg-logo="" group-title="news",USA: CBS NEWS HD [Sᴛᴠ+]
 http://31.43.191.125:8080/Dani/Dani/154859
 #EXTINF:-1 tvg-name="USA: CBS NEWS LOS ANGELES" tvg-logo="" group-title="news",USA: CBS NEWS LOS ANGELES
-http://hostengine.live/live/john/franklin/54165.m3u
+http://31.43.191.125:8080/Dani/Dani/154860
 #EXTINF:-1 tvg-name="USA: CBS NEWS MINNESOTA" tvg-logo="" group-title="news",USA: CBS NEWS MINNESOTA
-http://hostengine.live/live/john/franklin/54166.m3u
+http://31.43.191.125:8080/Dani/Dani/154861
 #EXTINF:-1 tvg-name="USA: CBS NEWS NEW YORK" tvg-logo="" group-title="news",USA: CBS NEWS NEW YORK
 http://31.43.191.125:8080/Dani/Dani/154862
 #EXTINF:-1 tvg-name="USA: CBS NEWS PHILADELPHIA" tvg-logo="" group-title="news",USA: CBS NEWS PHILADELPHIA
-http://hostengine.live/live/john/franklin/54170.m3u
+http://31.43.191.125:8080/vip6511789659461/c13ef61ee63b/154863
 #EXTINF:-1 tvg-name="USA: CBS NEWS TEXAS" tvg-logo="" group-title="news",USA: CBS NEWS TEXAS
-http://hostengine.live/live/john/franklin/54163.m3u
+http://31.43.191.125:8080/Dani/Dani/154864
 #EXTINF:-1 tvg-name="USA: CCTV NEWS" tvg-logo="" group-title="news",USA: CCTV NEWS
 http://31.43.191.125:8080/Dani/Dani/154908
 #EXTINF:-1 tvg-name="USA: CHEDDAR NEWS" tvg-logo="" group-title="news",USA: CHEDDAR NEWS
-http://hostengine.live/live/john/franklin/56585.m3u
+http://31.43.191.125:8080/Dani/Dani/154913
 #EXTINF:-1 tvg-name="USA: CHEDDAR NEWS HD [Sᴛᴠ+]" tvg-logo="" group-title="news",USA: CHEDDAR NEWS HD [Sᴛᴠ+]
 http://31.43.191.125:8080/Dani/Dani/154914
+#EXTINF:-1 tvg-name="USA | CNBC World" tvg-logo="https://logo.m3uassets.com/cnbcworld.png" group-title="news",USA | CNBC World
+http://lordstreams.live:80/joe/joe/636630
 #EXTINF:-1 tvg-name="USA: DW NEWS US" tvg-logo="" group-title="news",USA: DW NEWS US
 http://31.43.191.125:8080/Dani/Dani/155097
 #EXTINF:-1 tvg-name="USA: ESTRELLA NEWS" tvg-logo="" group-title="news",USA: ESTRELLA NEWS
 http://31.43.191.125:8080/Dani/Dani/155112
+#EXTINF:-1 tvg-name="US: Fox News Channel" tvg-logo="https://logos-world.net/wp-content/uploads/2020/11/Fox-News-Channel-Logo-2002-2017.png" group-title="news",US: Fox News Channel
+http://31.43.191.125:8080/Dani/Dani/155450
 #EXTINF:-1 tvg-name="USA: NBC BAY AREA NEWS" tvg-logo="" group-title="news",USA: NBC BAY AREA NEWS
 http://31.43.191.125:8080/Dani/Dani/156031
 #EXTINF:-1 tvg-name="USA: NEWS 12 BRONX & BROOKLYN" tvg-logo="" group-title="news",USA: NEWS 12 BRONX & BROOKLYN
 http://31.43.191.125:8080/Dani/Dani/156310
 #EXTINF:-1 tvg-name="USA: NEWS 12 BROOKLYN" tvg-logo="" group-title="news",USA: NEWS 12 BROOKLYN
-http://31.43.191.125:8080/VIP0111177497995358/kc5xpnbtcxph/156311
+http://31.43.191.125:8080/Adri_ruiz/azerty34/156311
 #EXTINF:-1 tvg-name="USA: NEWS 12 CONNECTICUT" tvg-logo="" group-title="news",USA: NEWS 12 CONNECTICUT
-http://31.43.191.125:8080/VIP0111177497995358/kc5xpnbtcxph/156312
+http://31.43.191.125:8080/vip6511789659461/c13ef61ee63b/156312
 #EXTINF:-1 tvg-name="USA: NEWS 12 HAVEN HARTFORD" tvg-logo="" group-title="news",USA: NEWS 12 HAVEN HARTFORD
 http://31.43.191.125:8080/Dani/Dani/156313
 #EXTINF:-1 tvg-name="USA: NEWS 12 HUDSON VALLEY & WESTCHESTER" tvg-logo="" group-title="news",USA: NEWS 12 HUDSON VALLEY & WESTCHESTER
@@ -302,7 +306,7 @@ http://31.43.191.125:8080/Dani/Dani/156316
 #EXTINF:-1 tvg-name="USA: NEWS 12 TRAFFIC AND WEATHER" tvg-logo="" group-title="news",USA: NEWS 12 TRAFFIC AND WEATHER
 http://31.43.191.125:8080/Dani/Dani/156317
 #EXTINF:-1 tvg-name="USA: NEWS 12 WESTCHESTER" tvg-logo="" group-title="news",USA: NEWS 12 WESTCHESTER
-http://31.43.191.125:8080/Dani/Dani/156318
+http://31.43.191.125:8080/vip6511789659461/c13ef61ee63b/156318
 #EXTINF:-1 tvg-name="USA: NEWS12 NY US" tvg-logo="" group-title="news",USA: NEWS12 NY US
 http://31.43.191.125:8080/Dani/Dani/156319
 #EXTINF:-1 tvg-name="USA: NEWSMAX 2" tvg-logo="" group-title="news",USA: NEWSMAX 2
@@ -314,9 +318,9 @@ http://31.43.191.125:8080/Dani/Dani/156322
 #EXTINF:-1 tvg-name="USA: ONE AMERICA NEWS" tvg-logo="" group-title="news",USA: ONE AMERICA NEWS
 http://31.43.191.125:8080/Dani/Dani/156389
 #EXTINF:-1 tvg-name="USA: ONE AMERICA NEWS (OAN)" tvg-logo="" group-title="news",USA: ONE AMERICA NEWS (OAN)
-http://31.43.191.125:8080/VIP0111177497995358/kc5xpnbtcxph/156390
+http://31.43.191.125:8080/Adri_ruiz/azerty34/156390
 #EXTINF:-1 tvg-name="USA: SCRIPPS NEWS" tvg-logo="" group-title="news",USA: SCRIPPS NEWS
-http://hostengine.live/live/john/franklin/56605.m3u
+http://lordstreams.live:80/joe/joe/636600
 #EXTINF:-1 tvg-name="USA: SPECTRUM BAY NEWS 9" tvg-logo="" group-title="news",USA: SPECTRUM BAY NEWS 9
 http://31.43.191.125:8080/Dani/Dani/156560
 #EXTINF:-1 tvg-name="USA: SPECTRUM NEWS 1 ALBANY NY" tvg-logo="" group-title="news",USA: SPECTRUM NEWS 1 ALBANY NY
@@ -373,135 +377,91 @@ http://31.43.191.125:8080/Dani/Dani/156585
 http://31.43.191.125:8080/Dani/Dani/156825
 #EXTINF:-1 tvg-name="USA: WPVI CHANNEL 6 ACTION NEWS (PHILADELPHIA)" tvg-logo="" group-title="news",USA: WPVI CHANNEL 6 ACTION NEWS (PHILADELPHIA)
 http://31.43.191.125:8080/Dani/Dani/156826
+#EXTINF:-1 tvg-name="AU| ABC News" tvg-logo="https://logo.m3uassets.com/abcnews.png" group-title="news",AU| ABC News
+http://lordstreams.live:80/joe/joe/152510
+#EXTINF:-1 tvg-name="CA BBC World" tvg-logo="https://logo.m3uassets.com/bbcworld.png" group-title="news",CA BBC World
+http://lordstreams.live:80/joe/joe/3867
+#EXTINF:-1 tvg-name="ENGLISH| ALJAZEERA HD" tvg-logo="https://logo.iptveditor.com/aljazeeraenglish.png" group-title="news",ENGLISH| ALJAZEERA HD
+http://lordstreams.live:80/joe/joe/693954
+#EXTINF:-1 tvg-name="ENGLISH| CNBC TV18 NEWS HD" tvg-logo="" group-title="news",ENGLISH| CNBC TV18 NEWS HD
+http://lordstreams.live:80/joe/joe/693948
+#EXTINF:-1 tvg-name="ENGLISH| NEWS X" tvg-logo="https://logo.iptveditor.com/euronewsenglish.png" group-title="news",ENGLISH| NEWS X
+http://lordstreams.live:80/joe/joe/693929
+#EXTINF:-1 tvg-name="ENGLISH| WION NEWS" tvg-logo="https://logo.iptveditor.com/euronewsenglish.png" group-title="news",ENGLISH| WION NEWS
+http://lordstreams.live:80/joe/joe/693917
+#EXTINF:-1 tvg-name="Cultura STD | BBC WORLD NEWS MX®" tvg-logo="https://logo.m3uassets.com/bbcworldnews.png" group-title="news",Cultura STD | BBC WORLD NEWS MX®
+http://lordstreams.live:80/joe/joe/716637
+#EXTINF:-1 tvg-name="News | En: BBC World News HD" tvg-logo="http://vod-logo.net/photos/09ec027025c1c45dc83b78166009f48e.png" group-title="news",News | En: BBC World News HD
+http://lordstreams.live:80/joe/joe/272242
+#EXTINF:-1 tvg-name="News | En: i24 News English" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6f/I24NEWS_logo.svg/640px-I24NEWS_logo.svg.png" group-title="news",News | En: i24 News English
+http://lordstreams.live:80/joe/joe/272221
+#EXTINF:-1 tvg-name="AU| 7NEWS Spotlight" tvg-logo="https://i.mjh.nz/.images/auto-cas32-fast-2bc14f.png" group-title="news",AU| 7NEWS Spotlight
+http://lordstreams.live:80/joe/joe/152397
+#EXTINF:-1 tvg-name="AU| Nickelodeon Sydney" tvg-logo="https://logo.m3uassets.com/nickelodeon1.png" group-title="news",AU| Nickelodeon Sydney
+http://lordstreams.live:80/joe/joe/152351
+#EXTINF:-1 tvg-name="AU| Al Jazeera World" tvg-logo="https://logo.m3uassets.com/aljazeera.png" group-title="news",AU| Al Jazeera World
+http://lordstreams.live:80/joe/joe/152344
+#EXTINF:-1 tvg-name="NZ| Channel News Asia (CNA)" tvg-logo="https://logo.m3uassets.com/channelnewsasia.png" group-title="news",NZ| Channel News Asia (CNA)
+http://lordstreams.live:80/joe/joe/251390
+#EXTINF:-1 tvg-name="USA BBC World News" tvg-logo="https://logo.m3uassets.com/bbcworldnews.png" group-title="news",USA BBC World News
+http://lordstreams.live:80/joe/joe/1065
+#EXTINF:-1 tvg-name="USA CGTN (English)" tvg-logo="https://logo.m3uassets.com/cgtn.png" group-title="news",USA CGTN (English)
+http://lordstreams.live:80/joe/joe/1046
+#EXTINF:-1 tvg-name="USA | Yahoo Finance" tvg-logo="https://logo.m3uassets.com/yahoo!finance.png" group-title="news",USA | Yahoo Finance
+http://lordstreams.live:80/joe/joe/636592
+#EXTINF:-1 tvg-name="BBC World News HD UK" tvg-logo="https://logos.mypanel.one/nemesislogos/saqlogo/Span/BBC.jpg" group-title="news",BBC World News HD UK
+http://lordstreams.live:80/joe/joe/709729
 #EXTINF:-1 tvg-name="UK|| SKY ONE FHD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-one-icon-uk.png" group-title="news",UK|| SKY ONE FHD
-http://hostengine.live/live/john/franklin/148491.m3u
+http://31.43.191.210:8080/live/iptv.kosiptv.comNEW/gJUP3KsM2ENEW/9853.m3u
 #EXTINF:-1 tvg-name="|UK| News |UK|" tvg-logo="" group-title="news",|UK| News |UK|
 http://31.43.191.210:8080/live/iptv.kosiptv.comNEW/gJUP3KsM2ENEW/10875.m3u
 #EXTINF:-1 tvg-name="|UK| UK News |UK|" tvg-logo="" group-title="news",|UK| UK News |UK|
 http://31.43.191.210:8080/live/iptv.kosiptv.comNEW/gJUP3KsM2ENEW/11049.m3u
-#EXTINF:-1 tvg-name="AU: ABC NEWS (ADELAIDE)" tvg-logo="" group-title="news",AU: ABC NEWS (ADELAIDE)
-http://hostengine.live/live/john/franklin/250032.m3u
-#EXTINF:-1 tvg-name="AU: ABC NEWS (BRISBANE)" tvg-logo="" group-title="news",AU: ABC NEWS (BRISBANE)
-http://hostengine.live/live/john/franklin/250033.m3u
-#EXTINF:-1 tvg-name="AU: ABC NEWS (MELBOURNE)" tvg-logo="" group-title="news",AU: ABC NEWS (MELBOURNE)
-http://hostengine.live/live/john/franklin/250034.m3u
-#EXTINF:-1 tvg-name="AU: ABC NEWS (PERTH)" tvg-logo="" group-title="news",AU: ABC NEWS (PERTH)
-http://hostengine.live/live/john/franklin/250035.m3u
-#EXTINF:-1 tvg-name="AU: ABC NEWS (SYDNEY)" tvg-logo="" group-title="news",AU: ABC NEWS (SYDNEY)
-http://hostengine.live/live/john/franklin/250008.m3u
-#EXTINF:-1 tvg-name="AU: CHANNEL NEWS ASIA" tvg-logo="" group-title="news",AU: CHANNEL NEWS ASIA
-http://hostengine.live/live/john/franklin/250018.m3u
-#EXTINF:-1 tvg-name="CA : CITY NEWS TORONTO ON" tvg-logo="" group-title="news",CA : CITY NEWS TORONTO ON
-http://hostengine.live/live/john/franklin/254767.m3u
-#EXTINF:-1 tvg-name="CA : CTV NEWS CHANNEL" tvg-logo="" group-title="news",CA : CTV NEWS CHANNEL
-http://hostengine.live/live/john/franklin/53658.m3u
-#EXTINF:-1 tvg-name="CA : GLOBAL BC NEWS" tvg-logo="" group-title="news",CA : GLOBAL BC NEWS
-http://hostengine.live/live/john/franklin/120622.m3u
-#EXTINF:-1 tvg-name="CA : GLOBAL KINGSTON NEWS" tvg-logo="" group-title="news",CA : GLOBAL KINGSTON NEWS
-http://hostengine.live/live/john/franklin/213874.m3u
-#EXTINF:-1 tvg-name="CA : GLOBAL MONTREAL NEWS" tvg-logo="" group-title="news",CA : GLOBAL MONTREAL NEWS
-http://hostengine.live/live/john/franklin/119078.m3u
-#EXTINF:-1 tvg-name="CA : GLOBAL PETERBOROUGH NEWS" tvg-logo="" group-title="news",CA : GLOBAL PETERBOROUGH NEWS
-http://hostengine.live/live/john/franklin/176055.m3u
-#EXTINF:-1 tvg-name="GB : AL JAZEERA ENG" tvg-logo="" group-title="news",GB : AL JAZEERA ENG
-http://hostengine.live/live/john/franklin/53834.m3u
-#EXTINF:-1 tvg-name="GB : EURO NEWS" tvg-logo="" group-title="news",GB : EURO NEWS
-http://hostengine.live/live/john/franklin/82878.m3u
-#EXTINF:-1 tvg-name="GB-Asian : DUNYA NEWS" tvg-logo="" group-title="news",GB-Asian : DUNYA NEWS
-http://hostengine.live/live/john/franklin/54010.m3u
-#EXTINF:-1 tvg-name="US : BAY NEWS 9 TAMPA" tvg-logo="" group-title="news",US : BAY NEWS 9 TAMPA
-http://hostengine.live/live/john/franklin/325691.m3u
-#EXTINF:-1 tvg-name="US : CBS NEWS 247" tvg-logo="" group-title="news",US : CBS NEWS 247
-http://hostengine.live/live/john/franklin/54167.m3u
-#EXTINF:-1 tvg-name="US : FOX NEWS LIVE NOW" tvg-logo="" group-title="news",US : FOX NEWS LIVE NOW
-http://hostengine.live/live/john/franklin/309456.m3u
-#EXTINF:-1 tvg-name="US : NEWS 1 (CAROLINAS) - CHARLOTTE" tvg-logo="" group-title="news",US : NEWS 1 (CAROLINAS) - CHARLOTTE
-http://hostengine.live/live/john/franklin/325685.m3u
-#EXTINF:-1 tvg-name="US : NEWS 1 (CAROLINAS) - COASTAL" tvg-logo="" group-title="news",US : NEWS 1 (CAROLINAS) - COASTAL
-http://hostengine.live/live/john/franklin/325684.m3u
-#EXTINF:-1 tvg-name="US : NEWS 1 (CAROLINAS) - GREENSBORO" tvg-logo="" group-title="news",US : NEWS 1 (CAROLINAS) - GREENSBORO
-http://hostengine.live/live/john/franklin/325683.m3u
-#EXTINF:-1 tvg-name="US : NEWS 1 (CAROLINAS) - MOUNTAIN" tvg-logo="" group-title="news",US : NEWS 1 (CAROLINAS) - MOUNTAIN
-http://hostengine.live/live/john/franklin/325682.m3u
-#EXTINF:-1 tvg-name="US : NEWS 1 (CAROLINAS) - RALEIGH" tvg-logo="" group-title="news",US : NEWS 1 (CAROLINAS) - RALEIGH
-http://hostengine.live/live/john/franklin/325681.m3u
-#EXTINF:-1 tvg-name="US : NEWS 1 - (KENTUCKY) - COVINGTON" tvg-logo="" group-title="news",US : NEWS 1 - (KENTUCKY) - COVINGTON
-http://hostengine.live/live/john/franklin/325690.m3u
-#EXTINF:-1 tvg-name="US : NEWS 1 - (KENTUCKY) - EVANSVILLE" tvg-logo="" group-title="news",US : NEWS 1 - (KENTUCKY) - EVANSVILLE
-http://hostengine.live/live/john/franklin/325671.m3u
-#EXTINF:-1 tvg-name="US : NEWS 1 - (KENTUCKY) LEXINGTON" tvg-logo="" group-title="news",US : NEWS 1 - (KENTUCKY) LEXINGTON
-http://hostengine.live/live/john/franklin/325670.m3u
-#EXTINF:-1 tvg-name="US : NEWS 1 - (KENTUCKY) LOUISVILLE" tvg-logo="" group-title="news",US : NEWS 1 - (KENTUCKY) LOUISVILLE
-http://hostengine.live/live/john/franklin/325669.m3u
-#EXTINF:-1 tvg-name="US : NEWS 1 - (MA) PITTSFIELD" tvg-logo="" group-title="news",US : NEWS 1 - (MA) PITTSFIELD
-http://hostengine.live/live/john/franklin/325667.m3u
-#EXTINF:-1 tvg-name="US : NEWS 1 - (MA) SPRINGFIELD" tvg-logo="" group-title="news",US : NEWS 1 - (MA) SPRINGFIELD
-http://hostengine.live/live/john/franklin/325666.m3u
-#EXTINF:-1 tvg-name="US : NEWS 1 - (MA) WORCESTER" tvg-logo="" group-title="news",US : NEWS 1 - (MA) WORCESTER
-http://hostengine.live/live/john/franklin/325665.m3u
-#EXTINF:-1 tvg-name="US : NEWS 1 - (NEW YORK) ROCHESTER" tvg-logo="" group-title="news",US : NEWS 1 - (NEW YORK) ROCHESTER
-http://hostengine.live/live/john/franklin/325663.m3u
-#EXTINF:-1 tvg-name="US : NEWS 1 - ALBANY CAPITAL REGION" tvg-logo="" group-title="news",US : NEWS 1 - ALBANY CAPITAL REGION
-http://hostengine.live/live/john/franklin/325688.m3u
-#EXTINF:-1 tvg-name="US : NEWS 1 - AUSTIN" tvg-logo="" group-title="news",US : NEWS 1 - AUSTIN
-http://hostengine.live/live/john/franklin/325687.m3u
-#EXTINF:-1 tvg-name="US : NEWS 1 - BUFFALO" tvg-logo="" group-title="news",US : NEWS 1 - BUFFALO
-http://hostengine.live/live/john/franklin/325686.m3u
-#EXTINF:-1 tvg-name="US : NEWS 1 - CENTRAL NY" tvg-logo="" group-title="news",US : NEWS 1 - CENTRAL NY
-http://hostengine.live/live/john/franklin/325680.m3u
-#EXTINF:-1 tvg-name="US : NEWS 1 - CINCINNATI" tvg-logo="" group-title="news",US : NEWS 1 - CINCINNATI
-http://hostengine.live/live/john/franklin/325679.m3u
-#EXTINF:-1 tvg-name="US : NEWS 1 - CLEVELAND/AKRON" tvg-logo="" group-title="news",US : NEWS 1 - CLEVELAND/AKRON
-http://hostengine.live/live/john/franklin/325678.m3u
-#EXTINF:-1 tvg-name="US : NEWS 1 - COLUMBUS" tvg-logo="" group-title="news",US : NEWS 1 - COLUMBUS
-http://hostengine.live/live/john/franklin/325677.m3u
-#EXTINF:-1 tvg-name="US : NEWS 1 - DALLAS -FT WORTH" tvg-logo="" group-title="news",US : NEWS 1 - DALLAS -FT WORTH
-http://hostengine.live/live/john/franklin/325676.m3u
-#EXTINF:-1 tvg-name="US : NEWS 1 - DAYTON" tvg-logo="" group-title="news",US : NEWS 1 - DAYTON
-http://hostengine.live/live/john/franklin/325675.m3u
-#EXTINF:-1 tvg-name="US : NEWS 1 - EL PASO TEXAS" tvg-logo="" group-title="news",US : NEWS 1 - EL PASO TEXAS
-http://hostengine.live/live/john/franklin/325674.m3u
-#EXTINF:-1 tvg-name="US : NEWS 1 - GREEN BAY/APPLETON" tvg-logo="" group-title="news",US : NEWS 1 - GREEN BAY/APPLETON
-http://hostengine.live/live/john/franklin/325673.m3u
-#EXTINF:-1 tvg-name="US : NEWS 1 - HUDSON VALLEY" tvg-logo="" group-title="news",US : NEWS 1 - HUDSON VALLEY
-http://hostengine.live/live/john/franklin/325672.m3u
-#EXTINF:-1 tvg-name="US : NEWS 1 - MADISON" tvg-logo="" group-title="news",US : NEWS 1 - MADISON
-http://hostengine.live/live/john/franklin/325668.m3u
-#EXTINF:-1 tvg-name="US : NEWS 1 - MILWAUKEE" tvg-logo="" group-title="news",US : NEWS 1 - MILWAUKEE
-http://hostengine.live/live/john/franklin/325664.m3u
-#EXTINF:-1 tvg-name="US : NEWS 1 - NEW YORK (NYC)" tvg-logo="" group-title="news",US : NEWS 1 - NEW YORK (NYC)
-http://hostengine.live/live/john/franklin/308665.m3u
-#EXTINF:-1 tvg-name="US : NEWS 1 - SAN ANTONIO" tvg-logo="" group-title="news",US : NEWS 1 - SAN ANTONIO
-http://hostengine.live/live/john/franklin/325662.m3u
-#EXTINF:-1 tvg-name="US : NEWS 1 - SOUTHERN CALIFORNIA" tvg-logo="" group-title="news",US : NEWS 1 - SOUTHERN CALIFORNIA
-http://hostengine.live/live/john/franklin/325689.m3u
-#EXTINF:-1 tvg-name="US : NEWS 1 - ST LOUIS" tvg-logo="" group-title="news",US : NEWS 1 - ST LOUIS
-http://hostengine.live/live/john/franklin/325661.m3u
-#EXTINF:-1 tvg-name="US : NEWS 1 - TOLEDO/LIMA" tvg-logo="" group-title="news",US : NEWS 1 - TOLEDO/LIMA
-http://hostengine.live/live/john/franklin/325660.m3u
-#EXTINF:-1 tvg-name="US : NEWS 13 CENTRAL FLORIDA" tvg-logo="" group-title="news",US : NEWS 13 CENTRAL FLORIDA
-http://hostengine.live/live/john/franklin/281800.m3u
-#EXTINF:-1 tvg-name="US : NEWS12 BROOKLYN" tvg-logo="" group-title="news",US : NEWS12 BROOKLYN
-http://hostengine.live/live/john/franklin/56596.m3u
-#EXTINF:-1 tvg-name="US : NEWS12 CONNECTICUT" tvg-logo="" group-title="news",US : NEWS12 CONNECTICUT
-http://hostengine.live/live/john/franklin/56597.m3u
-#EXTINF:-1 tvg-name="US : NEWS12 HUDSON VALLEY" tvg-logo="" group-title="news",US : NEWS12 HUDSON VALLEY
-http://hostengine.live/live/john/franklin/56598.m3u
-#EXTINF:-1 tvg-name="US : NEWS12 LONG ISLAND" tvg-logo="" group-title="news",US : NEWS12 LONG ISLAND
-http://hostengine.live/live/john/franklin/56599.m3u
-#EXTINF:-1 tvg-name="US : NEWS12 NEW JERSEY" tvg-logo="" group-title="news",US : NEWS12 NEW JERSEY
-http://hostengine.live/live/john/franklin/56600.m3u
-#EXTINF:-1 tvg-name="US : NEWS12 THE BRONX" tvg-logo="" group-title="news",US : NEWS12 THE BRONX
-http://hostengine.live/live/john/franklin/56601.m3u
-#EXTINF:-1 tvg-name="US : NEWS12 WESTCHESTER" tvg-logo="" group-title="news",US : NEWS12 WESTCHESTER
-http://hostengine.live/live/john/franklin/56602.m3u
-#EXTINF:-1 tvg-name="US : NEWSMAX TV" tvg-logo="" group-title="news",US : NEWSMAX TV
-http://hostengine.live/live/john/franklin/56603.m3u
-#EXTINF:-1 tvg-name="US : ONE AMERICA NEWS ENCORE" tvg-logo="" group-title="news",US : ONE AMERICA NEWS ENCORE
-http://hostengine.live/live/john/franklin/56606.m3u
-#EXTINF:-1 tvg-name="US : ONE AMERICA NEWS NETWORK" tvg-logo="" group-title="news",US : ONE AMERICA NEWS NETWORK
-http://hostengine.live/live/john/franklin/56607.m3u
-#EXTINF:-1 tvg-name="US : RT NEWS ENGLISH" tvg-logo="" group-title="news",US : RT NEWS ENGLISH
-http://hostengine.live/live/john/franklin/308896.m3u
-#EXTINF:-1 tvg-name="US : WPLG MIAMI (LOCAL NEWS)" tvg-logo="" group-title="news",US : WPLG MIAMI (LOCAL NEWS)
-http://hostengine.live/live/john/franklin/343221.m3u
+#EXTINF:-1 tvg-name="CA | CBC News Network" tvg-logo="" group-title="news",CA | CBC News Network
+https://fplay2.com:8443/play/e4DImlR_8AMChB5YFlVDnZGryQNWXVB5EX2bnKtOSlE
+#EXTINF:-1 tvg-name="CA | Fox News OP1" tvg-logo="" group-title="news",CA | Fox News OP1
+https://fplay2.com:8443/play/e4DImlR_8AMChB5YFlVDnfkCJUiYY4RfrO653YO6MJU
+#EXTINF:-1 tvg-name="CA | Fox News OP2" tvg-logo="" group-title="news",CA | Fox News OP2
+https://fplay2.com:8443/play/e4DImlR_8AMChB5YFlVDnZ-7MqXSjOBnro36ujENji4
+#EXTINF:-1 tvg-name="BBC WORLD NEWS dtv" tvg-logo="" group-title="news",BBC WORLD NEWS dtv
+https://fplay2.com:8443/play/e4DImlR_8AMChB5YFlVDnRF2Wme0pVZ3ZSraYmdvacQ
+#EXTINF:-1 tvg-name="USA | NEWS 12 NEW JERSEY" tvg-logo="https://www.randjsc.com/wp-content/uploads/2020/05/News12-NJ.jpg" group-title="news",USA | NEWS 12 NEW JERSEY
+http://myultratv.com:8080/0709roberttv/2023libertv/23757
+#EXTINF:-1 tvg-name="US: Newsmaxtv" tvg-logo="" group-title="news",US: Newsmaxtv
+http://myultratv.com:8080/0709roberttv/2023libertv/23758
+#EXTINF:-1 tvg-name="US: WGN News Chicago" tvg-logo="" group-title="news",US: WGN News Chicago
+http://myultratv.com:8080/0709roberttv/2023libertv/23767
+#EXTINF:-1 tvg-name="US: WCNC Breaking News" tvg-logo="" group-title="news",US: WCNC Breaking News
+http://myultratv.com:8080/0709roberttv/2023libertv/23771
+#EXTINF:-1 tvg-name="US: NBC News HD" tvg-logo="" group-title="news",US: NBC News HD
+http://myultratv.com:8080/0709roberttv/2023libertv/23965
+#EXTINF:-1 tvg-name="US: CBSN News HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/CBS_News.svg/1280px-CBS_News.svg.png" group-title="news",US: CBSN News HD
+http://myultratv.com:8080/0709roberttv/2023libertv/24098
+#EXTINF:-1 tvg-name="UK: FOX News Now DASH" tvg-logo="https://docdog.top/Logotv/countries/uk/foxnews.png" group-title="news",UK: FOX News Now DASH
+https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="CA: CTV NEWS Newtork HD" tvg-logo="http://live.geoiptv.org/channels_icon/13786749151.png" group-title="news",CA: CTV NEWS Newtork HD
+http://myultratv.com:8080/0709roberttv/2023libertv/254677
+#EXTINF:-1 tvg-name="BBC World" tvg-logo="" group-title="news",BBC World
+http://myultratv.com:8080/0709roberttv/2023libertv/254714
+#EXTINF:-1 tvg-name="Africanews English" tvg-logo="" group-title="news",Africanews English
+https://37c774660687468c821a51190046facf.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-gb_AfricaNews/playlist.m3u8
+#EXTINF:-1 tvg-name="France 24 FAST English" tvg-logo="https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/b4e13e24-5808-4dbb-8239-bf72c9611650.jpeg" group-title="news",France 24 FAST English
+https://amg00106-amg00106c1-rakuten-uk-4654.playouts.now.amagi.tv/playlist/amg00106-france24fast-france24-rakutenuk/playlist.m3u8?ads_amagi_channel=938&ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_bundle=com.rakuten.tv&ads_app_store_url=rakuten.tv&ads_app_version=&ads_brand_name=&ads_content_classification=7&ads_device_lmt=1&ads_device_make=&ads_device_model=&ads_device_type=web&ads_device_year=&ads_env=prod&ads_gam_correlator=&ads_gdpr_consent=&ads_market=es&ads_os_language=&ads_player_height=&ads_player_width=&ads_pod_type=playerpage_midroll&ads_ppid=&ads_rtv_content_id=6311&ads_rtv_content_language=eng&ads_rtvid=271859&ads_streaming_id=ccf3bb1a-ee12-450d-ac67-e339e40335f1&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=visitor
+#EXTINF:-1 tvg-name="[Cgates] BBC World News" tvg-logo="" group-title="news",[Cgates] BBC World News
+http://myultratv.com:8080/0709roberttv/2023libertv/264569
+#EXTINF:-1 tvg-name="BBC World News SE" tvg-logo="" group-title="news",BBC World News SE
+http://nordicstream.xyz/nkMApnXf/vms4kgrH4H/29351
+#EXTINF:-1 tvg-name="BBC World News HD DK" tvg-logo="" group-title="news",BBC World News HD DK
+http://nordicstream.xyz/nkMApnXf/vms4kgrH4H/86907
+#EXTINF:-1 tvg-name="BBC World News NO" tvg-logo="" group-title="news",BBC World News NO
+http://nordicstream.xyz/nkMApnXf/vms4kgrH4H/38231
+#EXTINF:-1 tvg-name="BBC World News FI" tvg-logo="" group-title="news",BBC World News FI
+http://nordicstream.xyz/nkMApnXf/vms4kgrH4H/85541
+#EXTINF:-1 tvg-name="BBC World News IS" tvg-logo="" group-title="news",BBC World News IS
+http://nordicstream.xyz/nkMApnXf/vms4kgrH4H/80648
+#EXTINF:-1 tvg-name="BBC World News US" tvg-logo="" group-title="news",BBC World News US
+http://nordicstream.xyz/nkMApnXf/vms4kgrH4H/2116099
+#EXTINF:-1 tvg-name="BBC World News CA" tvg-logo="" group-title="news",BBC World News CA
+http://nordicstream.xyz/nkMApnXf/vms4kgrH4H/52826
+#EXTINF:-1 tvg-name="ENGLISH| TIMES NOW NEWS HD" tvg-logo="" group-title="news",ENGLISH| TIMES NOW NEWS HD
+http://nordicstream.xyz/nkMApnXf/vms4kgrH4H/1805769
