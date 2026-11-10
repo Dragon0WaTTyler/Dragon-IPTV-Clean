@@ -97,9 +97,9 @@
     ],
     "raw_group": "UK - NEWS",
     "logo": "https://cdn.tvpassport.com/image/station/240x135/v2/s10142_h15_aa.png",
-    "primary_url": "http://wp.strmz.cc:80/ahd58HbB6A/GUnBRc3Vab/1073949.ts",
+    "primary_url": "http://wp.strmz.cc:80/ahd58HbB6A/GUnBRc3Vab/2185338.ts",
     "alternates": [
-      "http://wp.strmz.cc:80/ahd58HbB6A/GUnBRc3Vab/2185338.ts",
+      "http://wp.strmz.cc:80/ahd58HbB6A/GUnBRc3Vab/1073949.ts",
       "http://wp.strmz.cc:80/ahd58HbB6A/GUnBRc3Vab/1000882.ts",
       "http://wp.strmz.cc:80/ahd58HbB6A/GUnBRc3Vab/1000122.ts",
       "http://523098.solanaflix.com/live/TV-34919284/139229777171/15020.ts",
@@ -123,8 +123,8 @@
     ],
     "source_file": "FIW_1794286876_1_9065c2_Hunter_2411.m3u",
     "health_status": "reachable",
-    "health_checked_urls": 2,
-    "health_promoted": true
+    "health_checked_urls": 1,
+    "health_promoted": false
   },
   {
     "id": "dragon_english_ff034a0091fb",
@@ -236,8 +236,8 @@
       "http://323955-2.solanaflix.com/live/TV-25966903/342304953133/457279.ts"
     ],
     "source_file": "FIW_1794286906_1_dcafc5_Hunter_0D7D.m3u",
-    "health_status": "reachable",
-    "health_checked_urls": 1,
+    "health_status": "unreachable",
+    "health_checked_urls": 3,
     "health_promoted": false
   },
   {
@@ -331,7 +331,7 @@
     "primary_url": "http://wp.strmz.cc:80/ahd58HbB6A/GUnBRc3Vab/2198842.ts",
     "alternates": [],
     "source_file": "FIW_1794286876_1_9065c2_Hunter_2411.m3u",
-    "health_status": "reachable",
+    "health_status": "unreachable",
     "health_checked_urls": 1,
     "health_promoted": false
   },
@@ -357,8 +357,8 @@
       "http://watchdog.build/live/1030493636/8818804742/09dc6554-10f4-450b-a1da-9ea85c7247ef.m3u"
     ],
     "source_file": "FIW_1794286876_1_9065c2_Hunter_2411.m3u",
-    "health_status": "unreachable",
-    "health_checked_urls": 3,
+    "health_status": "reachable",
+    "health_checked_urls": 1,
     "health_promoted": false
   },
   {
@@ -496,8 +496,8 @@
       "http://smart.mediaking.fi:8080/live/numanovic@msn.com/Zaki1976/42154.ts"
     ],
     "source_file": "FIW_1794286872_1_cbd66b_Hunter_5FA7.m3u",
-    "health_status": "unreachable",
-    "health_checked_urls": 2,
+    "health_status": "reachable",
+    "health_checked_urls": 1,
     "health_promoted": false
   },
   {
@@ -651,10 +651,10 @@
     ],
     "raw_group": "US - Factual",
     "logo": "https://tvprofil.com/cdn/200x32/4/img/kanali-logo/Discovery_Channel_logo.png",
-    "primary_url": "http://redworld.pro:8880/Sandybel_44/ws5juAqq7qpM/452644",
+    "primary_url": "http://redworld.pro:8880/Sandybel_44/ws5juAqq7qpM/318603",
     "alternates": [
+      "http://redworld.pro:8880/Sandybel_44/ws5juAqq7qpM/452644",
       "http://redworld.pro:8880/Sandybel_44/ws5juAqq7qpM/318604",
-      "http://redworld.pro:8880/Sandybel_44/ws5juAqq7qpM/318603",
       "http://caffe.link:25461/YY24TitanRazmjena/suUZnULqeG8d/1403",
       "http://523098.solanaflix.com/live/TV-34919284/139229777171/448203.ts",
       "http://523098.solanaflix.com/live/TV-34919284/139229777171/105778.ts",
@@ -668,9 +668,9 @@
       "http://watchdog.build/live/1030493636/8818804742/dd45e275-4280-4f08-8077-d0bfebe00a29.m3u"
     ],
     "source_file": "FIW_1794286872_1_cbd66b_Hunter_5FA7.m3u",
-    "health_status": "unreachable",
+    "health_status": "reachable",
     "health_checked_urls": 3,
-    "health_promoted": false
+    "health_promoted": true
   },
   {
     "id": "dragon_english_0b1e31d60ef0",
@@ -723,7 +723,7 @@
     "primary_url": "http://caffe.link:25461/YY24TitanRazmjena/suUZnULqeG8d/1541",
     "alternates": [],
     "source_file": "FIW_1794286872_1_cbd66b_Hunter_5FA7.m3u",
-    "health_status": "reachable",
+    "health_status": "unreachable",
     "health_checked_urls": 1,
     "health_promoted": false
   },
@@ -925,7 +925,7 @@
     "primary_url": "http://wp.strmz.cc:80/ahd58HbB6A/GUnBRc3Vab/2185378.ts",
     "alternates": [],
     "source_file": "FIW_1794286876_1_9065c2_Hunter_2411.m3u",
-    "health_status": "reachable",
+    "health_status": "unreachable",
     "health_checked_urls": 1,
     "health_promoted": false
   },
@@ -5877,9 +5877,9 @@
     ],
     "raw_group": "UK - DOCUMENTARIES",
     "logo": "",
-    "primary_url": "http://wp.strmz.cc:80/ahd58HbB6A/GUnBRc3Vab/2198824.ts",
+    "primary_url": "http://wp.strmz.cc:80/ahd58HbB6A/GUnBRc3Vab/1083928.ts",
     "alternates": [
-      "http://wp.strmz.cc:80/ahd58HbB6A/GUnBRc3Vab/1083928.ts",
+      "http://wp.strmz.cc:80/ahd58HbB6A/GUnBRc3Vab/2198824.ts",
       "http://wp.strmz.cc:80/ahd58HbB6A/GUnBRc3Vab/1000877.ts",
       "http://wp.strmz.cc:80/ahd58HbB6A/GUnBRc3Vab/1000496.ts",
       "http://redworld.pro:8880/Sandybel_44/ws5juAqq7qpM/465065",
@@ -5899,9 +5899,9 @@
       "http://watchdog.build/live/1030493636/8818804742/1c067d95-3961-4805-9718-6e510dee3bdc.m3u"
     ],
     "source_file": "FIW_1794286906_1_dcafc5_Hunter_0D7D.m3u",
-    "health_status": "unreachable",
-    "health_checked_urls": 3,
-    "health_promoted": false
+    "health_status": "reachable",
+    "health_checked_urls": 2,
+    "health_promoted": true
   },
   {
     "id": "dragon_english_8744a7dfb6fd",
@@ -6006,8 +6006,8 @@
       "http://watchdog.build/live/1030493636/8818804742/2ee15bc3-e763-4008-9a83-3f2b186db8cc.m3u"
     ],
     "source_file": "FIW_1794286897_1_b85936_Hunter_AA4B.m3u",
-    "health_status": "reachable",
-    "health_checked_urls": 1,
+    "health_status": "unreachable",
+    "health_checked_urls": 3,
     "health_promoted": false
   },
   {
@@ -6110,8 +6110,8 @@
       "http://watchdog.build/live/1030493636/8818804742/cf60f1cc-f7e0-44e0-95c7-275306328ee5.m3u"
     ],
     "source_file": "FIW_1794286897_1_b85936_Hunter_AA4B.m3u",
-    "health_status": "unreachable",
-    "health_checked_urls": 3,
+    "health_status": "reachable",
+    "health_checked_urls": 1,
     "health_promoted": false
   },
   {
@@ -6124,10 +6124,10 @@
     ],
     "raw_group": "UK - DOCUMENTARIES",
     "logo": "http://5.189.149.253/logo/Dokumentarni/NationalGeoWildHD.png",
-    "primary_url": "http://wp.strmz.cc:80/ahd58HbB6A/GUnBRc3Vab/1000812.ts",
+    "primary_url": "http://wp.strmz.cc:80/ahd58HbB6A/GUnBRc3Vab/1000489.ts",
     "alternates": [
       "http://wp.strmz.cc:80/ahd58HbB6A/GUnBRc3Vab/2199157.ts",
-      "http://wp.strmz.cc:80/ahd58HbB6A/GUnBRc3Vab/1000489.ts",
+      "http://wp.strmz.cc:80/ahd58HbB6A/GUnBRc3Vab/1000812.ts",
       "http://wp.strmz.cc:80/ahd58HbB6A/GUnBRc3Vab/1000148.ts",
       "http://caffe.link:25461/YY24TitanRazmjena/suUZnULqeG8d/1395",
       "http://caffe.link:25461/YY24TitanRazmjena/suUZnULqeG8d/118792",
@@ -6142,7 +6142,7 @@
     ],
     "source_file": "FIW_1794286872_1_cbd66b_Hunter_5FA7.m3u",
     "health_status": "reachable",
-    "health_checked_urls": 2,
+    "health_checked_urls": 3,
     "health_promoted": true
   },
   {
@@ -11241,8 +11241,8 @@
       "http://323955-2.solanaflix.com/live/TV-25966903/342304953133/457431.ts"
     ],
     "source_file": "FIW_1794286906_1_dcafc5_Hunter_0D7D.m3u",
-    "health_status": "unreachable",
-    "health_checked_urls": 3,
+    "health_status": "reachable",
+    "health_checked_urls": 1,
     "health_promoted": false
   },
   {
@@ -12336,9 +12336,9 @@
     ],
     "raw_group": "US - Factual",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Discovery_Life_logo_2016.svg/1920px-Discovery_Life_logo_2016.svg.png",
-    "primary_url": "http://wp.strmz.cc:80/ahd58HbB6A/GUnBRc3Vab/1000371.ts",
+    "primary_url": "http://wp.strmz.cc:80/ahd58HbB6A/GUnBRc3Vab/2198884.ts",
     "alternates": [
-      "http://wp.strmz.cc:80/ahd58HbB6A/GUnBRc3Vab/2198884.ts",
+      "http://wp.strmz.cc:80/ahd58HbB6A/GUnBRc3Vab/1000371.ts",
       "http://redworld.pro:8880/Sandybel_44/ws5juAqq7qpM/452649",
       "http://redworld.pro:8880/Sandybel_44/ws5juAqq7qpM/452648",
       "http://523098.solanaflix.com/live/TV-34919284/139229777171/448213.ts",
@@ -12350,8 +12350,8 @@
     ],
     "source_file": "FIW_1794286876_1_9065c2_Hunter_2411.m3u",
     "health_status": "reachable",
-    "health_checked_urls": 2,
-    "health_promoted": true
+    "health_checked_urls": 1,
+    "health_promoted": false
   },
   {
     "id": "dragon_english_13d5d4a824ec",
@@ -12363,10 +12363,10 @@
     ],
     "raw_group": "US - Factual",
     "logo": "http://127.0.0.1/",
-    "primary_url": "http://wp.strmz.cc:80/ahd58HbB6A/GUnBRc3Vab/1000119.ts",
+    "primary_url": "http://wp.strmz.cc:80/ahd58HbB6A/GUnBRc3Vab/1000839.ts",
     "alternates": [
       "http://wp.strmz.cc:80/ahd58HbB6A/GUnBRc3Vab/2199028.ts",
-      "http://wp.strmz.cc:80/ahd58HbB6A/GUnBRc3Vab/1000839.ts",
+      "http://wp.strmz.cc:80/ahd58HbB6A/GUnBRc3Vab/1000119.ts",
       "http://redworld.pro:8880/Sandybel_44/ws5juAqq7qpM/567876",
       "http://redworld.pro:8880/Sandybel_44/ws5juAqq7qpM/567875",
       "http://caffe.link:25461/YY24TitanRazmjena/suUZnULqeG8d/1392",
@@ -12377,7 +12377,7 @@
     ],
     "source_file": "FIW_1794286897_1_b85936_Hunter_AA4B.m3u",
     "health_status": "reachable",
-    "health_checked_urls": 3,
+    "health_checked_urls": 2,
     "health_promoted": true
   },
   {
@@ -16077,9 +16077,9 @@
     ],
     "raw_group": "CANADA",
     "logo": "http://onlytimewilltell.xyz:2086/images/8e73a8b6152376af322c16a42571885b.png",
-    "primary_url": "http://wp.strmz.cc:80/ahd58HbB6A/GUnBRc3Vab/1084188.ts",
+    "primary_url": "http://wp.strmz.cc:80/ahd58HbB6A/GUnBRc3Vab/2198833.ts",
     "alternates": [
-      "http://wp.strmz.cc:80/ahd58HbB6A/GUnBRc3Vab/2198833.ts",
+      "http://wp.strmz.cc:80/ahd58HbB6A/GUnBRc3Vab/1084188.ts",
       "http://wp.strmz.cc:80/ahd58HbB6A/GUnBRc3Vab/1000356.ts",
       "http://523098.solanaflix.com/live/TV-34919284/139229777171/105800.ts",
       "http://466845.solanaflix.com/live/TV-30566768/706529617252/105800.ts",
@@ -16090,8 +16090,8 @@
     ],
     "source_file": "FIW_1794286898_1_34c574_Hunter_3BB0.m3u",
     "health_status": "reachable",
-    "health_checked_urls": 2,
-    "health_promoted": true
+    "health_checked_urls": 1,
+    "health_promoted": false
   },
   {
     "id": "dragon_english_510c1a284b0c",
@@ -19578,16 +19578,16 @@
     ],
     "raw_group": "CANADIAN TV",
     "logo": "https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Ftv.lovenature.com%2Fwp-content%2Fuploads%2F2023%2F03%2FLove-Nature-Logo.png&f=1&nofb=1&ipt=76a1145e47af33de199ca1ca1e03e24893e16c95b1aab67a8c7350a5bd4312e6&ipo=images",
-    "primary_url": "http://wp.strmz.cc:80/ahd58HbB6A/GUnBRc3Vab/1000493.ts",
+    "primary_url": "http://wp.strmz.cc:80/ahd58HbB6A/GUnBRc3Vab/2199067.ts",
     "alternates": [
-      "http://wp.strmz.cc:80/ahd58HbB6A/GUnBRc3Vab/2199067.ts",
+      "http://wp.strmz.cc:80/ahd58HbB6A/GUnBRc3Vab/1000493.ts",
       "http://watchdog.build/live/KPGt2FzXFg/3UoYd71bm7/03bdd372-dcaf-4459-beb0-e19ccc488e46.m3u",
       "http://watchdog.build/live/1030493636/8818804742/03bdd372-dcaf-4459-beb0-e19ccc488e46.m3u"
     ],
     "source_file": "FIW_1794286876_1_9065c2_Hunter_2411.m3u",
     "health_status": "reachable",
-    "health_checked_urls": 2,
-    "health_promoted": true
+    "health_checked_urls": 1,
+    "health_promoted": false
   },
   {
     "id": "dragon_english_726a65ff3fb4",
@@ -20237,16 +20237,16 @@
     ],
     "raw_group": "NEWS NETWORKS",
     "logo": "http://onlytimewilltell.xyz:2086/images/1b87225c734b0a934e9ce33ffc53c9ce.png",
-    "primary_url": "http://watchdog.build/live/KPGt2FzXFg/3UoYd71bm7/e379c753-47ad-4917-b21f-2b5313d871e7.m3u",
+    "primary_url": "http://wp.strmz.cc:80/ahd58HbB6A/GUnBRc3Vab/2198809.ts",
     "alternates": [
-      "http://wp.strmz.cc:80/ahd58HbB6A/GUnBRc3Vab/2198809.ts",
       "http://redworld.pro:8880/Sandybel_44/ws5juAqq7qpM/452704",
+      "http://watchdog.build/live/KPGt2FzXFg/3UoYd71bm7/e379c753-47ad-4917-b21f-2b5313d871e7.m3u",
       "http://watchdog.build/live/1030493636/8818804742/e379c753-47ad-4917-b21f-2b5313d871e7.m3u"
     ],
     "source_file": "FIW_1794286898_1_34c574_Hunter_3BB0.m3u",
     "health_status": "reachable",
-    "health_checked_urls": 3,
-    "health_promoted": true
+    "health_checked_urls": 1,
+    "health_promoted": false
   },
   {
     "id": "dragon_english_82ecc709cc06",
@@ -20450,16 +20450,16 @@
     ],
     "raw_group": "NEWS NETWORKS",
     "logo": "https://cdn.iptvboss.pro/logos/USA/Cheddar.us.png",
-    "primary_url": "http://wp.strmz.cc:80/ahd58HbB6A/GUnBRc3Vab/1000359.ts",
+    "primary_url": "http://wp.strmz.cc:80/ahd58HbB6A/GUnBRc3Vab/2198821.ts",
     "alternates": [
-      "http://wp.strmz.cc:80/ahd58HbB6A/GUnBRc3Vab/2198821.ts",
+      "http://wp.strmz.cc:80/ahd58HbB6A/GUnBRc3Vab/1000359.ts",
       "http://watchdog.build/live/KPGt2FzXFg/3UoYd71bm7/4bf674e9-f604-41c0-a27b-2cbc3e3fa182.m3u",
       "http://watchdog.build/live/1030493636/8818804742/4bf674e9-f604-41c0-a27b-2cbc3e3fa182.m3u"
     ],
     "source_file": "FIW_1794286876_1_9065c2_Hunter_2411.m3u",
     "health_status": "reachable",
-    "health_checked_urls": 2,
-    "health_promoted": true
+    "health_checked_urls": 1,
+    "health_promoted": false
   },
   {
     "id": "dragon_english_286eb4aceab2",
@@ -20723,14 +20723,14 @@
     ],
     "raw_group": "NEWS NETWORKS",
     "logo": "https://pi-lite.spectrum.net/imageserver/guide/123808",
-    "primary_url": "http://watchdog.build/live/1030493636/8818804742/93045938-796e-4f3d-9280-3286bd2282a7.m3u",
+    "primary_url": "http://watchdog.build/live/KPGt2FzXFg/3UoYd71bm7/93045938-796e-4f3d-9280-3286bd2282a7.m3u",
     "alternates": [
-      "http://watchdog.build/live/KPGt2FzXFg/3UoYd71bm7/93045938-796e-4f3d-9280-3286bd2282a7.m3u"
+      "http://watchdog.build/live/1030493636/8818804742/93045938-796e-4f3d-9280-3286bd2282a7.m3u"
     ],
     "source_file": "FIW_1794286898_1_34c574_Hunter_3BB0.m3u",
     "health_status": "reachable",
-    "health_checked_urls": 2,
-    "health_promoted": true
+    "health_checked_urls": 1,
+    "health_promoted": false
   },
   {
     "id": "dragon_english_c9cf2d6ea354",
@@ -20780,14 +20780,14 @@
     ],
     "raw_group": "NEWS NETWORKS",
     "logo": "https://pi-lite.spectrum.net/imageserver/guide/123834",
-    "primary_url": "http://watchdog.build/live/1030493636/8818804742/3dfd7563-9a47-4684-949c-4d8e04b02d9f.m3u",
+    "primary_url": "http://watchdog.build/live/KPGt2FzXFg/3UoYd71bm7/3dfd7563-9a47-4684-949c-4d8e04b02d9f.m3u",
     "alternates": [
-      "http://watchdog.build/live/KPGt2FzXFg/3UoYd71bm7/3dfd7563-9a47-4684-949c-4d8e04b02d9f.m3u"
+      "http://watchdog.build/live/1030493636/8818804742/3dfd7563-9a47-4684-949c-4d8e04b02d9f.m3u"
     ],
     "source_file": "FIW_1794286898_1_34c574_Hunter_3BB0.m3u",
     "health_status": "reachable",
-    "health_checked_urls": 2,
-    "health_promoted": true
+    "health_checked_urls": 1,
+    "health_promoted": false
   },
   {
     "id": "dragon_english_7137febf8b2d",
@@ -20837,14 +20837,14 @@
     ],
     "raw_group": "NEWS NETWORKS",
     "logo": "https://pi-lite.spectrum.net/imageserver/guide/123827",
-    "primary_url": "http://watchdog.build/live/1030493636/8818804742/23c8ab18-3bc1-4f26-9bc0-09c2e4dbfd3a.m3u",
+    "primary_url": "http://watchdog.build/live/KPGt2FzXFg/3UoYd71bm7/23c8ab18-3bc1-4f26-9bc0-09c2e4dbfd3a.m3u",
     "alternates": [
-      "http://watchdog.build/live/KPGt2FzXFg/3UoYd71bm7/23c8ab18-3bc1-4f26-9bc0-09c2e4dbfd3a.m3u"
+      "http://watchdog.build/live/1030493636/8818804742/23c8ab18-3bc1-4f26-9bc0-09c2e4dbfd3a.m3u"
     ],
     "source_file": "FIW_1794286898_1_34c574_Hunter_3BB0.m3u",
     "health_status": "reachable",
-    "health_checked_urls": 2,
-    "health_promoted": true
+    "health_checked_urls": 1,
+    "health_promoted": false
   },
   {
     "id": "dragon_english_67b7d73f4142",
@@ -20875,14 +20875,14 @@
     ],
     "raw_group": "NEWS NETWORKS",
     "logo": "https://pi-lite.spectrum.net/imageserver/guide/123832",
-    "primary_url": "http://watchdog.build/live/1030493636/8818804742/2078d58c-779b-43eb-8b94-862d955a6d68.m3u",
+    "primary_url": "http://watchdog.build/live/KPGt2FzXFg/3UoYd71bm7/2078d58c-779b-43eb-8b94-862d955a6d68.m3u",
     "alternates": [
-      "http://watchdog.build/live/KPGt2FzXFg/3UoYd71bm7/2078d58c-779b-43eb-8b94-862d955a6d68.m3u"
+      "http://watchdog.build/live/1030493636/8818804742/2078d58c-779b-43eb-8b94-862d955a6d68.m3u"
     ],
     "source_file": "FIW_1794286898_1_34c574_Hunter_3BB0.m3u",
     "health_status": "reachable",
-    "health_checked_urls": 2,
-    "health_promoted": true
+    "health_checked_urls": 1,
+    "health_promoted": false
   },
   {
     "id": "dragon_english_29c5457af9f8",
@@ -20894,14 +20894,14 @@
     ],
     "raw_group": "NEWS NETWORKS",
     "logo": "https://pi-lite.spectrum.net/imageserver/guide/123849",
-    "primary_url": "http://watchdog.build/live/1030493636/8818804742/04206886-8a06-42a7-89d5-c4a1bfbed2ef.m3u",
+    "primary_url": "http://watchdog.build/live/KPGt2FzXFg/3UoYd71bm7/04206886-8a06-42a7-89d5-c4a1bfbed2ef.m3u",
     "alternates": [
-      "http://watchdog.build/live/KPGt2FzXFg/3UoYd71bm7/04206886-8a06-42a7-89d5-c4a1bfbed2ef.m3u"
+      "http://watchdog.build/live/1030493636/8818804742/04206886-8a06-42a7-89d5-c4a1bfbed2ef.m3u"
     ],
     "source_file": "FIW_1794286898_1_34c574_Hunter_3BB0.m3u",
     "health_status": "reachable",
-    "health_checked_urls": 2,
-    "health_promoted": true
+    "health_checked_urls": 1,
+    "health_promoted": false
   },
   {
     "id": "dragon_english_a45bfbe9cf6d",
@@ -21293,14 +21293,14 @@
     ],
     "raw_group": "NEWS NETWORKS",
     "logo": "http://onlytimewilltell.xyz:2086/images/2d7540ec49bfdb3d75d93357d8ff2339.jpg",
-    "primary_url": "http://watchdog.build/live/1030493636/8818804742/4bca8520-ab2b-4392-abd0-5fe0d0b5df78.m3u",
+    "primary_url": "http://watchdog.build/live/KPGt2FzXFg/3UoYd71bm7/4bca8520-ab2b-4392-abd0-5fe0d0b5df78.m3u",
     "alternates": [
-      "http://watchdog.build/live/KPGt2FzXFg/3UoYd71bm7/4bca8520-ab2b-4392-abd0-5fe0d0b5df78.m3u"
+      "http://watchdog.build/live/1030493636/8818804742/4bca8520-ab2b-4392-abd0-5fe0d0b5df78.m3u"
     ],
     "source_file": "FIW_1794286898_1_34c574_Hunter_3BB0.m3u",
     "health_status": "reachable",
-    "health_checked_urls": 2,
-    "health_promoted": true
+    "health_checked_urls": 1,
+    "health_promoted": false
   },
   {
     "id": "dragon_english_54d36d39d7af",
@@ -21389,16 +21389,16 @@
     ],
     "raw_group": "NEWS NETWORKS",
     "logo": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.newsnationnow.com%2Fwp-content%2Fuploads%2Fsites%2F108%2F2021%2F04%2F16x9-1920x1080_NNRefresh_NewsNationLogo_r02.png%3Fw%3D1280&f=1&nofb=1&ipt=9f9d5071b9413580f9d51f03a22dad21af41f169c24030437dd17400903ac0e5&ipo=images",
-    "primary_url": "http://wp.strmz.cc:80/ahd58HbB6A/GUnBRc3Vab/1014838.ts",
+    "primary_url": "http://wp.strmz.cc:80/ahd58HbB6A/GUnBRc3Vab/2199175.ts",
     "alternates": [
-      "http://wp.strmz.cc:80/ahd58HbB6A/GUnBRc3Vab/2199175.ts",
+      "http://wp.strmz.cc:80/ahd58HbB6A/GUnBRc3Vab/1014838.ts",
       "http://watchdog.build/live/KPGt2FzXFg/3UoYd71bm7/f6f14517-0d72-4e25-9104-db6fac73cbe0.m3u",
       "http://watchdog.build/live/1030493636/8818804742/f6f14517-0d72-4e25-9104-db6fac73cbe0.m3u"
     ],
     "source_file": "FIW_1794286876_1_9065c2_Hunter_2411.m3u",
     "health_status": "reachable",
-    "health_checked_urls": 2,
-    "health_promoted": true
+    "health_checked_urls": 1,
+    "health_promoted": false
   },
   {
     "id": "dragon_english_31d02d6ccfe2",
@@ -21448,15 +21448,15 @@
     ],
     "raw_group": "NEWS NETWORKS",
     "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/a/ae/Scripps_News_logo.png/440px-Scripps_News_logo.png",
-    "primary_url": "http://watchdog.build/live/KPGt2FzXFg/3UoYd71bm7/09871531-5836-4062-94ae-22b1bdf8c352.m3u",
+    "primary_url": "http://wp.strmz.cc:80/ahd58HbB6A/GUnBRc3Vab/2199265.ts",
     "alternates": [
-      "http://wp.strmz.cc:80/ahd58HbB6A/GUnBRc3Vab/2199265.ts",
+      "http://watchdog.build/live/KPGt2FzXFg/3UoYd71bm7/09871531-5836-4062-94ae-22b1bdf8c352.m3u",
       "http://watchdog.build/live/1030493636/8818804742/09871531-5836-4062-94ae-22b1bdf8c352.m3u"
     ],
     "source_file": "FIW_1794286898_1_34c574_Hunter_3BB0.m3u",
     "health_status": "reachable",
-    "health_checked_urls": 2,
-    "health_promoted": true
+    "health_checked_urls": 1,
+    "health_promoted": false
   },
   {
     "id": "dragon_english_3cc40897a738",
@@ -33234,14 +33234,14 @@
     ],
     "raw_group": "UK TV",
     "logo": "http://onlytimewilltell.xyz:2086/images/ebed673a4a8b1217bea1cc6d987492a2.png",
-    "primary_url": "http://watchdog.build/live/1030493636/8818804742/36316f13-d148-445a-b50c-213d492872f2.m3u",
+    "primary_url": "http://watchdog.build/live/KPGt2FzXFg/3UoYd71bm7/36316f13-d148-445a-b50c-213d492872f2.m3u",
     "alternates": [
-      "http://watchdog.build/live/KPGt2FzXFg/3UoYd71bm7/36316f13-d148-445a-b50c-213d492872f2.m3u"
+      "http://watchdog.build/live/1030493636/8818804742/36316f13-d148-445a-b50c-213d492872f2.m3u"
     ],
     "source_file": "FIW_1794286898_1_34c574_Hunter_3BB0.m3u",
     "health_status": "reachable",
-    "health_checked_urls": 2,
-    "health_promoted": true
+    "health_checked_urls": 1,
+    "health_promoted": false
   },
   {
     "id": "dragon_english_3c39b480c70c",
@@ -33792,14 +33792,14 @@
     ],
     "raw_group": "UK TV",
     "logo": "http://onlytimewilltell.xyz:2086/images/83b21d648d01c10d2cb698f7c86e196d.png",
-    "primary_url": "http://watchdog.build/live/1030493636/8818804742/1fa2934f-33a1-4459-8fbf-df4a8e152656.m3u",
+    "primary_url": "http://watchdog.build/live/KPGt2FzXFg/3UoYd71bm7/1fa2934f-33a1-4459-8fbf-df4a8e152656.m3u",
     "alternates": [
-      "http://watchdog.build/live/KPGt2FzXFg/3UoYd71bm7/1fa2934f-33a1-4459-8fbf-df4a8e152656.m3u"
+      "http://watchdog.build/live/1030493636/8818804742/1fa2934f-33a1-4459-8fbf-df4a8e152656.m3u"
     ],
     "source_file": "FIW_1794286898_1_34c574_Hunter_3BB0.m3u",
     "health_status": "reachable",
-    "health_checked_urls": 2,
-    "health_promoted": true
+    "health_checked_urls": 1,
+    "health_promoted": false
   },
   {
     "id": "dragon_english_c7f07ee6a98d",
@@ -34429,15 +34429,15 @@
     ],
     "raw_group": "UK TV",
     "logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-documentaries-uk.png?raw=true",
-    "primary_url": "http://wp.strmz.cc:80/ahd58HbB6A/GUnBRc3Vab/1170703.ts",
+    "primary_url": "http://watchdog.build/live/KPGt2FzXFg/3UoYd71bm7/c027027f-cf00-408d-89b8-45027c52f760.m3u",
     "alternates": [
-      "http://watchdog.build/live/KPGt2FzXFg/3UoYd71bm7/c027027f-cf00-408d-89b8-45027c52f760.m3u",
+      "http://wp.strmz.cc:80/ahd58HbB6A/GUnBRc3Vab/1170703.ts",
       "http://watchdog.build/live/1030493636/8818804742/c027027f-cf00-408d-89b8-45027c52f760.m3u"
     ],
     "source_file": "FIW_1794286876_1_9065c2_Hunter_2411.m3u",
     "health_status": "reachable",
-    "health_checked_urls": 1,
-    "health_promoted": false
+    "health_checked_urls": 2,
+    "health_promoted": true
   },
   {
     "id": "dragon_english_887bc2432515",
@@ -60240,7 +60240,7 @@
     "primary_url": "http://redworld.pro:8880/Sandybel_44/ws5juAqq7qpM/321976",
     "alternates": [],
     "source_file": "FIW_1794286897_1_b85936_Hunter_AA4B.m3u",
-    "health_status": "unreachable",
+    "health_status": "reachable",
     "health_checked_urls": 1,
     "health_promoted": false
   },
@@ -60988,8 +60988,8 @@
       "http://redworld.pro:8880/Sandybel_44/ws5juAqq7qpM/452703"
     ],
     "source_file": "FIW_1794286897_1_b85936_Hunter_AA4B.m3u",
-    "health_status": "unreachable",
-    "health_checked_urls": 2,
+    "health_status": "reachable",
+    "health_checked_urls": 1,
     "health_promoted": false
   },
   {
@@ -63999,14 +63999,14 @@
     ],
     "raw_group": "US-ENTERTAINMENT",
     "logo": "https://imgx.fubo.tv/station_logos/science_c.png",
-    "primary_url": "http://wp.strmz.cc:80/ahd58HbB6A/GUnBRc3Vab/1059361.ts",
+    "primary_url": "http://wp.strmz.cc:80/ahd58HbB6A/GUnBRc3Vab/2199262.ts",
     "alternates": [
-      "http://wp.strmz.cc:80/ahd58HbB6A/GUnBRc3Vab/2199262.ts"
+      "http://wp.strmz.cc:80/ahd58HbB6A/GUnBRc3Vab/1059361.ts"
     ],
     "source_file": "FIW_1794286876_1_9065c2_Hunter_2411.m3u",
     "health_status": "reachable",
-    "health_checked_urls": 2,
-    "health_promoted": true
+    "health_checked_urls": 1,
+    "health_promoted": false
   },
   {
     "id": "dragon_english_698a2e480117",
@@ -65877,7 +65877,7 @@
     "primary_url": "http://wp.strmz.cc:80/ahd58HbB6A/GUnBRc3Vab/2198881.ts",
     "alternates": [],
     "source_file": "FIW_1794286876_1_9065c2_Hunter_2411.m3u",
-    "health_status": "unreachable",
+    "health_status": "reachable",
     "health_checked_urls": 1,
     "health_promoted": false
   },
@@ -69202,7 +69202,7 @@
     "primary_url": "http://wp.strmz.cc:80/ahd58HbB6A/GUnBRc3Vab/1058637.ts",
     "alternates": [],
     "source_file": "FIW_1794286876_1_9065c2_Hunter_2411.m3u",
-    "health_status": "unreachable",
+    "health_status": "reachable",
     "health_checked_urls": 1,
     "health_promoted": false
   },
@@ -71052,7 +71052,7 @@
     "primary_url": "http://wp.strmz.cc:80/ahd58HbB6A/GUnBRc3Vab/2193570.ts",
     "alternates": [],
     "source_file": "FIW_1794286876_1_9065c2_Hunter_2411.m3u",
-    "health_status": "unreachable",
+    "health_status": "reachable",
     "health_checked_urls": 1,
     "health_promoted": false
   },
@@ -71223,7 +71223,7 @@
     "primary_url": "http://wp.strmz.cc:80/ahd58HbB6A/GUnBRc3Vab/2197255.ts",
     "alternates": [],
     "source_file": "FIW_1794286876_1_9065c2_Hunter_2411.m3u",
-    "health_status": "unreachable",
+    "health_status": "reachable",
     "health_checked_urls": 1,
     "health_promoted": false
   },
@@ -71392,7 +71392,7 @@
     "primary_url": "http://wp.strmz.cc:80/ahd58HbB6A/GUnBRc3Vab/2197291.ts",
     "alternates": [],
     "source_file": "FIW_1794286876_1_9065c2_Hunter_2411.m3u",
-    "health_status": "reachable",
+    "health_status": "unreachable",
     "health_checked_urls": 1,
     "health_promoted": false
   },
@@ -71486,7 +71486,7 @@
     "primary_url": "http://wp.strmz.cc:80/ahd58HbB6A/GUnBRc3Vab/2197309.ts",
     "alternates": [],
     "source_file": "FIW_1794286876_1_9065c2_Hunter_2411.m3u",
-    "health_status": "unreachable",
+    "health_status": "reachable",
     "health_checked_urls": 1,
     "health_promoted": false
   },
@@ -71535,7 +71535,7 @@
     "primary_url": "http://wp.strmz.cc:80/ahd58HbB6A/GUnBRc3Vab/2197318.ts",
     "alternates": [],
     "source_file": "FIW_1794286876_1_9065c2_Hunter_2411.m3u",
-    "health_status": "unreachable",
+    "health_status": "reachable",
     "health_checked_urls": 1,
     "health_promoted": false
   },
@@ -71552,7 +71552,7 @@
     "primary_url": "http://wp.strmz.cc:80/ahd58HbB6A/GUnBRc3Vab/2197321.ts",
     "alternates": [],
     "source_file": "FIW_1794286876_1_9065c2_Hunter_2411.m3u",
-    "health_status": "reachable",
+    "health_status": "unreachable",
     "health_checked_urls": 1,
     "health_promoted": false
   },
@@ -71618,7 +71618,7 @@
     "primary_url": "http://wp.strmz.cc:80/ahd58HbB6A/GUnBRc3Vab/2197333.ts",
     "alternates": [],
     "source_file": "FIW_1794286876_1_9065c2_Hunter_2411.m3u",
-    "health_status": "unreachable",
+    "health_status": "reachable",
     "health_checked_urls": 1,
     "health_promoted": false
   },
@@ -71712,7 +71712,7 @@
     "primary_url": "http://wp.strmz.cc:80/ahd58HbB6A/GUnBRc3Vab/2197351.ts",
     "alternates": [],
     "source_file": "FIW_1794286876_1_9065c2_Hunter_2411.m3u",
-    "health_status": "unreachable",
+    "health_status": "reachable",
     "health_checked_urls": 1,
     "health_promoted": false
   },
@@ -86631,7 +86631,7 @@
     "primary_url": "http://caffe.link:25461/YY24TitanRazmjena/suUZnULqeG8d/1542",
     "alternates": [],
     "source_file": "FIW_1794286872_1_cbd66b_Hunter_5FA7.m3u",
-    "health_status": "unreachable",
+    "health_status": "reachable",
     "health_checked_urls": 1,
     "health_promoted": false
   },
@@ -86915,14 +86915,14 @@
     ],
     "raw_group": "Poland",
     "logo": "",
-    "primary_url": "http://xy8t.com:8080/maru-luna/baSRfnjd/866",
+    "primary_url": "http://xy8t.com:8080/maru-luna/baSRfnjd/867",
     "alternates": [
-      "http://xy8t.com:8080/maru-luna/baSRfnjd/867"
+      "http://xy8t.com:8080/maru-luna/baSRfnjd/866"
     ],
     "source_file": "FIW_1794286832_1_f732e8_Hunter_0E1C.m3u",
-    "health_status": "reachable",
+    "health_status": "unreachable",
     "health_checked_urls": 2,
-    "health_promoted": true
+    "health_promoted": false
   },
   {
     "id": "dragon_english_fe8b145c9450",
@@ -87141,7 +87141,7 @@
     "primary_url": "http://xy8t.com:8080/maru-luna/baSRfnjd/4931",
     "alternates": [],
     "source_file": "FIW_1794286832_1_f732e8_Hunter_0E1C.m3u",
-    "health_status": "reachable",
+    "health_status": "unreachable",
     "health_checked_urls": 1,
     "health_promoted": false
   },
@@ -87209,7 +87209,7 @@
     "primary_url": "http://xy8t.com:8080/maru-luna/baSRfnjd/4935",
     "alternates": [],
     "source_file": "FIW_1794286832_1_f732e8_Hunter_0E1C.m3u",
-    "health_status": "unreachable",
+    "health_status": "reachable",
     "health_checked_urls": 1,
     "health_promoted": false
   },

@@ -197,7 +197,7 @@
     "primary_url": "http://xy8t.com:8080/maru-luna/baSRfnjd/13236",
     "alternates": [],
     "source_file": "FIW_1794286832_1_f732e8_Hunter_0E1C.m3u",
-    "health_status": "unreachable",
+    "health_status": "reachable",
     "health_checked_urls": 1,
     "health_promoted": false
   },
@@ -231,7 +231,7 @@
     "primary_url": "http://xy8t.com:8080/maru-luna/baSRfnjd/13250",
     "alternates": [],
     "source_file": "FIW_1794286832_1_f732e8_Hunter_0E1C.m3u",
-    "health_status": "reachable",
+    "health_status": "unreachable",
     "health_checked_urls": 1,
     "health_promoted": false
   },
@@ -271,7 +271,7 @@
     "primary_url": "http://sts.mydroon.com:8080/9127491274/QDXDbuLzFDYaYbD/239718",
     "alternates": [],
     "source_file": "FIW_1794286913_1_9f8e55_Hunter_9D9D.m3u",
-    "health_status": "unreachable",
+    "health_status": "reachable",
     "health_checked_urls": 1,
     "health_promoted": false
   },
@@ -350,16 +350,16 @@
     ],
     "raw_group": "AR| ARABIC NEWS",
     "logo": "",
-    "primary_url": "http://sts.mydroon.com:8080/9127491274/QDXDbuLzFDYaYbD/75015",
+    "primary_url": "http://xy8t.com:8080/maru-luna/baSRfnjd/1115",
     "alternates": [
-      "http://xy8t.com:8080/maru-luna/baSRfnjd/1115",
+      "http://sts.mydroon.com:8080/9127491274/QDXDbuLzFDYaYbD/75015",
       "http://sts.mydroon.com:8080/9127491274/QDXDbuLzFDYaYbD/72343",
       "http://sts.mydroon.com:8080/9127491274/QDXDbuLzFDYaYbD/239719"
     ],
     "source_file": "FIW_1794286913_1_9f8e55_Hunter_9D9D.m3u",
     "health_status": "reachable",
-    "health_checked_urls": 2,
-    "health_promoted": true
+    "health_checked_urls": 1,
+    "health_promoted": false
   },
   {
     "id": "dragon_arabic_462405774799",
@@ -2804,7 +2804,7 @@
     "primary_url": "http://sts.mydroon.com:8080/9127491274/QDXDbuLzFDYaYbD/269724",
     "alternates": [],
     "source_file": "FIW_1794286913_1_9f8e55_Hunter_9D9D.m3u",
-    "health_status": "unreachable",
+    "health_status": "reachable",
     "health_checked_urls": 1,
     "health_promoted": false
   },
@@ -3283,7 +3283,7 @@
     "primary_url": "http://sts.mydroon.com:8080/9127491274/QDXDbuLzFDYaYbD/52321",
     "alternates": [],
     "source_file": "FIW_1794286913_1_9f8e55_Hunter_9D9D.m3u",
-    "health_status": "reachable",
+    "health_status": "unreachable",
     "health_checked_urls": 1,
     "health_promoted": false
   },
@@ -3578,14 +3578,14 @@
     ],
     "raw_group": "LB| LEBANON",
     "logo": "https://upload.wikimedia.org/wikipedia/en/1/14/Nbn_lebanon.png",
-    "primary_url": "http://sts.mydroon.com:8080/9127491274/QDXDbuLzFDYaYbD/28107",
+    "primary_url": "http://sts.mydroon.com:8080/9127491274/QDXDbuLzFDYaYbD/74470",
     "alternates": [
-      "http://sts.mydroon.com:8080/9127491274/QDXDbuLzFDYaYbD/74470"
+      "http://sts.mydroon.com:8080/9127491274/QDXDbuLzFDYaYbD/28107"
     ],
     "source_file": "FIW_1794286913_1_9f8e55_Hunter_9D9D.m3u",
     "health_status": "reachable",
-    "health_checked_urls": 2,
-    "health_promoted": true
+    "health_checked_urls": 1,
+    "health_promoted": false
   },
   {
     "id": "dragon_arabic_be4e94c2145c",
@@ -3785,7 +3785,7 @@
     "primary_url": "http://sts.mydroon.com:8080/9127491274/QDXDbuLzFDYaYbD/28055",
     "alternates": [],
     "source_file": "FIW_1794286913_1_9f8e55_Hunter_9D9D.m3u",
-    "health_status": "reachable",
+    "health_status": "unreachable",
     "health_checked_urls": 1,
     "health_promoted": false
   },
@@ -3802,7 +3802,7 @@
     "primary_url": "http://sts.mydroon.com:8080/9127491274/QDXDbuLzFDYaYbD/28052",
     "alternates": [],
     "source_file": "FIW_1794286913_1_9f8e55_Hunter_9D9D.m3u",
-    "health_status": "reachable",
+    "health_status": "unreachable",
     "health_checked_urls": 1,
     "health_promoted": false
   },
@@ -6018,9 +6018,9 @@
     ],
     "raw_group": "EG| EGYPT",
     "logo": "http://212.8.253.112/logo/EGYPT/NILE%20NEWS.png",
-    "primary_url": "http://xy8t.com:8080/maru-luna/baSRfnjd/1006",
+    "primary_url": "http://sts.mydroon.com:8080/9127491274/QDXDbuLzFDYaYbD/71429",
     "alternates": [
-      "http://sts.mydroon.com:8080/9127491274/QDXDbuLzFDYaYbD/71429",
+      "http://xy8t.com:8080/maru-luna/baSRfnjd/1006",
       "http://523098.solanaflix.com/live/TV-34919284/139229777171/459033.ts",
       "http://466845.solanaflix.com/live/TV-30566768/706529617252/459033.ts",
       "http://365446.solanaflix.com/live/TV-99803967/248720734961/459033.ts",
@@ -6028,8 +6028,8 @@
     ],
     "source_file": "FIW_1794286913_1_9f8e55_Hunter_9D9D.m3u",
     "health_status": "reachable",
-    "health_checked_urls": 1,
-    "health_promoted": false
+    "health_checked_urls": 2,
+    "health_promoted": true
   },
   {
     "id": "dragon_arabic_fe9152e28375",
@@ -8709,8 +8709,8 @@
       "http://323955-2.solanaflix.com/live/TV-25966903/342304953133/458835.ts"
     ],
     "source_file": "FIW_1794286913_1_9f8e55_Hunter_9D9D.m3u",
-    "health_status": "unreachable",
-    "health_checked_urls": 3,
+    "health_status": "reachable",
+    "health_checked_urls": 1,
     "health_promoted": false
   },
   {
@@ -8731,8 +8731,8 @@
       "http://323955-2.solanaflix.com/live/TV-25966903/342304953133/458834.ts"
     ],
     "source_file": "FIW_1794286913_1_9f8e55_Hunter_9D9D.m3u",
-    "health_status": "unreachable",
-    "health_checked_urls": 3,
+    "health_status": "reachable",
+    "health_checked_urls": 1,
     "health_promoted": false
   },
   {
@@ -21049,7 +21049,7 @@
     "primary_url": "http://xy8t.com:8080/maru-luna/baSRfnjd/1175",
     "alternates": [],
     "source_file": "FIW_1794286832_1_f732e8_Hunter_0E1C.m3u",
-    "health_status": "unreachable",
+    "health_status": "reachable",
     "health_checked_urls": 1,
     "health_promoted": false
   },
@@ -21066,7 +21066,7 @@
     "primary_url": "http://xy8t.com:8080/maru-luna/baSRfnjd/1174",
     "alternates": [],
     "source_file": "FIW_1794286832_1_f732e8_Hunter_0E1C.m3u",
-    "health_status": "unreachable",
+    "health_status": "reachable",
     "health_checked_urls": 1,
     "health_promoted": false
   },
@@ -22811,7 +22811,7 @@
     "primary_url": "http://xy8t.com:8080/maru-luna/baSRfnjd/13238",
     "alternates": [],
     "source_file": "FIW_1794286832_1_f732e8_Hunter_0E1C.m3u",
-    "health_status": "unreachable",
+    "health_status": "reachable",
     "health_checked_urls": 1,
     "health_promoted": false
   },
@@ -22862,7 +22862,7 @@
     "primary_url": "http://xy8t.com:8080/maru-luna/baSRfnjd/13243",
     "alternates": [],
     "source_file": "FIW_1794286832_1_f732e8_Hunter_0E1C.m3u",
-    "health_status": "unreachable",
+    "health_status": "reachable",
     "health_checked_urls": 1,
     "health_promoted": false
   },
@@ -22896,7 +22896,7 @@
     "primary_url": "http://xy8t.com:8080/maru-luna/baSRfnjd/13245",
     "alternates": [],
     "source_file": "FIW_1794286832_1_f732e8_Hunter_0E1C.m3u",
-    "health_status": "unreachable",
+    "health_status": "reachable",
     "health_checked_urls": 1,
     "health_promoted": false
   },
@@ -22913,7 +22913,7 @@
     "primary_url": "http://xy8t.com:8080/maru-luna/baSRfnjd/13246",
     "alternates": [],
     "source_file": "FIW_1794286832_1_f732e8_Hunter_0E1C.m3u",
-    "health_status": "reachable",
+    "health_status": "unreachable",
     "health_checked_urls": 1,
     "health_promoted": false
   },
@@ -22947,7 +22947,7 @@
     "primary_url": "http://xy8t.com:8080/maru-luna/baSRfnjd/13248",
     "alternates": [],
     "source_file": "FIW_1794286832_1_f732e8_Hunter_0E1C.m3u",
-    "health_status": "reachable",
+    "health_status": "unreachable",
     "health_checked_urls": 1,
     "health_promoted": false
   },
