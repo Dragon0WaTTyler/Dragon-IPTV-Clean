@@ -1,8 +1,18 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="AR|AL JAZEERA DOCUMENTARY HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTb5fvIX7o5BnAmnaruZ9pCzyaCsVceTUc5q4y3igjM0Ezdy0ug8_I6pQw" group-title="documentary",AR|AL JAZEERA DOCUMENTARY HD
-https://live-hls-web-ajd-ll-bp.thehlive.com/AJD/02.m3u8
-#EXTINF:-1 tvg-name="BH: DISCOVERY SCIENCE" tvg-logo="" group-title="documentary",BH: DISCOVERY SCIENCE
-http://31.43.191.125:8080/vip2371775319895/9265b2325e78/4112
+http://31.43.191.125:8080/vip2371775319895/9265b2325e78/6598
+#EXTINF:-1 tvg-name="SD | Animal planet" tvg-logo="" group-title="documentary",SD | Animal planet
+https://skynetmax.live:8443/play/pF5FbpT1J4mElJjGxGs-cn5-5j9PMmcEmmjL7hHCkUU
+#EXTINF:-1 tvg-name="SD | History" tvg-logo="" group-title="documentary",SD | History
+https://skynetmax.live:8443/play/pF5FbpT1J4mElJjGxGs-ciXoBf-q9mCLw6sIpvF_RgY
+#EXTINF:-1 tvg-name="SD | Discovery Kids" tvg-logo="" group-title="documentary",SD | Discovery Kids
+https://skynetmax.live:8443/play/pF5FbpT1J4mElJjGxGs-cj9ydM6_zkmLHlE2mocVI2k
+#EXTINF:-1 tvg-name="SD | Discovery Turbo" tvg-logo="" group-title="documentary",SD | Discovery Turbo
+https://skynetmax.live:8443/play/pF5FbpT1J4mElJjGxGs-cv3GM5ev0goiS3vNXqIRqgA
+#EXTINF:-1 tvg-name="SD | Discovery science" tvg-logo="" group-title="documentary",SD | Discovery science
+https://skynetmax.live:8443/play/pF5FbpT1J4mElJjGxGs-cgXj5aLyfe7-TVoU67HDlCE
+#EXTINF:-1 tvg-name="SD | Discovery Home & Health" tvg-logo="" group-title="documentary",SD | Discovery Home & Health
+https://skynetmax.live:8443/play/pF5FbpT1J4mElJjGxGs-ciMwQHswvseUmpfdKzLQY8k
 #EXTINF:-1 tvg-name="AR: OSN DISCOVERY" tvg-logo="" group-title="documentary",AR: OSN DISCOVERY
 http://31.43.191.125:8080/vip2371775319895/9265b2325e78/6474
 #EXTINF:-1 tvg-name="AR: OSN DISCOVERY SCIENCE" tvg-logo="" group-title="documentary",AR: OSN DISCOVERY SCIENCE
@@ -12,7 +22,7 @@ http://31.43.191.125:8080/vip2371775319895/9265b2325e78/6482
 #EXTINF:-1 tvg-name="AR: OSN NAT GEO" tvg-logo="" group-title="documentary",AR: OSN NAT GEO
 http://31.43.191.125:8080/vip2371775319895/9265b2325e78/6497
 #EXTINF:-1 tvg-name="AR: OSN NAT GEO WILD" tvg-logo="" group-title="documentary",AR: OSN NAT GEO WILD
-http://31.43.191.125:8080/VIP01191707897388004/947624c017db/6498
+http://31.43.191.125:8080/vip2371775319895/9265b2325e78/6498
 #EXTINF:-1 tvg-name="AR: NAT GEO WILD" tvg-logo="" group-title="documentary",AR: NAT GEO WILD
 http://31.43.191.125:8080/vip2371775319895/9265b2325e78/6675
 #EXTINF:-1 tvg-name="AR|AD Nat Geo" tvg-logo="http://kinglogo.newtvhd.com/logoo/IMARAT/NATGEO_AD.png" group-title="documentary",AR|AD Nat Geo
@@ -42,7 +52,7 @@ http://31.43.191.125:8080/vip2371775319895/9265b2325e78/130745
 #EXTINF:-1 tvg-name="AR|OSN: ANIMAL PLANET" tvg-logo="" group-title="documentary",AR|OSN: ANIMAL PLANET
 http://31.43.191.125:8080/vip2371775319895/9265b2325e78/130875
 #EXTINF:-1 tvg-name="AR|OSN: DISCOVERY SC" tvg-logo="" group-title="documentary",AR|OSN: DISCOVERY SC
-http://31.43.191.125:8080/VIP01191707897388004/947624c017db/130886
+http://31.43.191.125:8080/vip2371775319895/9265b2325e78/130886
 #EXTINF:-1 tvg-name="AR|OSN: HISTORY 2" tvg-logo="" group-title="documentary",AR|OSN: HISTORY 2
 http://31.43.191.125:8080/vip2371775319895/9265b2325e78/130891
 #EXTINF:-1 tvg-name="AR|SHAHID: DOCUMENTARY 1" tvg-logo="" group-title="documentary",AR|SHAHID: DOCUMENTARY 1
@@ -63,8 +73,6 @@ http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/101716
 http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/134241
 #EXTINF:-1 tvg-name="AR: Almajd07 documentaire" tvg-logo="" group-title="documentary",AR: Almajd07 documentaire
 http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/132946
-#EXTINF:-1 tvg-name="AR: Animal Planet" tvg-logo="" group-title="documentary",AR: Animal Planet
-http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/134242
 #EXTINF:-1 tvg-name="AR: BEIN Animal Planet HD" tvg-logo="" group-title="documentary",AR: BEIN Animal Planet HD
 http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/133925
 #EXTINF:-1 tvg-name="AR: MyHD Aroma Discovery HD" tvg-logo="" group-title="documentary",AR: MyHD Aroma Discovery HD
@@ -92,7 +100,7 @@ http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/133767
 #EXTINF:-1 tvg-name="AR: OSN History Channel SD" tvg-logo="" group-title="documentary",AR: OSN History Channel SD
 http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/133769
 #EXTINF:-1 tvg-name="AR: OSN Investigation Discovery HD" tvg-logo="" group-title="documentary",AR: OSN Investigation Discovery HD
-http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/133772
+http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/133773
 #EXTINF:-1 tvg-name="AR: OSN Nat Geo People" tvg-logo="" group-title="documentary",AR: OSN Nat Geo People
 http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/133829
 #EXTINF:-1 tvg-name="AR: OSN Nat Geo Pepole SD" tvg-logo="" group-title="documentary",AR: OSN Nat Geo Pepole SD

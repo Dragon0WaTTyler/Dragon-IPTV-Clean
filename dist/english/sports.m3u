@@ -1,26 +1,240 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="ESPN 1 HD" tvg-logo="" group-title="sports",ESPN 1 HD
+http://go.iptvhn.net:25461/7619/7619/836
+#EXTINF:-1 tvg-name="ESPN 2" tvg-logo="" group-title="sports",ESPN 2
+https://skynetmax.live:8443/play/pF5FbpT1J4mElJjGxGs-coR3eCjZ0s0M8ypNNcsjxffyljfZVvKh7XXRZSW6Dsrx
+#EXTINF:-1 tvg-name="ESPN 3" tvg-logo="" group-title="sports",ESPN 3
+https://skynetmax.live:8443/play/pF5FbpT1J4mElJjGxGs-ck1oZEyuTzPJmSL5D5ZzpTrIDMEc9J8yN2FGeZvc_JCO
+#EXTINF:-1 tvg-name="ESPN 4 HD" tvg-logo="" group-title="sports",ESPN 4 HD
+http://go.iptvhn.net:25461/7619/7619/909
+#EXTINF:-1 tvg-name="ESPN 5 HD" tvg-logo="" group-title="sports",ESPN 5 HD
+http://go.iptvhn.net:25461/7619/7619/1069
+#EXTINF:-1 tvg-name="ESPN 6 HD" tvg-logo="" group-title="sports",ESPN 6 HD
+http://go.iptvhn.net:25461/7619/7619/1072
+#EXTINF:-1 tvg-name="ESPN SUR" tvg-logo="" group-title="sports",ESPN SUR
+http://go.iptvhn.net:25461/7619/7619/2469
+#EXTINF:-1 tvg-name="ESPN 2 SUR" tvg-logo="" group-title="sports",ESPN 2 SUR
+http://go.iptvhn.net:25461/7619/7619/2470
+#EXTINF:-1 tvg-name="ESPN 4 SUR" tvg-logo="" group-title="sports",ESPN 4 SUR
+http://go.iptvhn.net:25461/7619/7619/2473
+#EXTINF:-1 tvg-name="UK: Sky Sports Premier League" tvg-logo="" group-title="sports",UK: Sky Sports Premier League
+http://u8k.pro:2082/893963693051/bHksg68fWnri8/819118
+#EXTINF:-1 tvg-name="UK: Premier Sports 1" tvg-logo="" group-title="sports",UK: Premier Sports 1
+http://31.43.191.125:8080/vip2371775319895/9265b2325e78/146984
+#EXTINF:-1 tvg-name="UK| BT SPORT 1" tvg-logo="" group-title="sports",UK| BT SPORT 1
+http://asd2.de:8000/Muhamedmidzan/ywgRrqjKcJ/26712
+#EXTINF:-1 tvg-name="UK| BT SPORT 2" tvg-logo="" group-title="sports",UK| BT SPORT 2
+http://asd2.de:8000/Muhamedmidzan/ywgRrqjKcJ/26711
+#EXTINF:-1 tvg-name="UK: BT SPORT ESPN HD" tvg-logo="" group-title="sports",UK: BT SPORT ESPN HD
+http://u8k.pro:2082/893963693051/bHksg68fWnri8/279031
+#EXTINF:-1 tvg-name="UK: Sky Sports Action" tvg-logo="" group-title="sports",UK: Sky Sports Action
+http://u8k.pro:2082/893963693051/bHksg68fWnri8/819111
+#EXTINF:-1 tvg-name="UK: Sky Sports Mix" tvg-logo="" group-title="sports",UK: Sky Sports Mix
+http://u8k.pro:2082/893963693051/bHksg68fWnri8/819116
+#EXTINF:-1 tvg-name="UK: Sky Sports F1" tvg-logo="" group-title="sports",UK: Sky Sports F1
+http://u8k.pro:2082/893963693051/bHksg68fWnri8/819114
+#EXTINF:-1 tvg-name="UK| EXTREME SPORTS" tvg-logo="" group-title="sports",UK| EXTREME SPORTS
+http://vewora.com:8080/live/212738whatsapp/NbmrdFgSHyup/d06b40f0-5a25-4577-9448-20a40fcb65b9.m3u
+#EXTINF:-1 tvg-name="UK: Sky Sports Box Office" tvg-logo="" group-title="sports",UK: Sky Sports Box Office
+http://vewora.com:8080/live/212738whatsapp/NbmrdFgSHyup/9b838c9f-e064-4de6-a9f1-08d5c89be44f.m3u
+#EXTINF:-1 tvg-name="EUROSPORT" tvg-logo="https://layout.eurosport.com/i/v8_5/logo/epg/e1_new.png" group-title="sports",EUROSPORT
+http://client.nodomain.vip:80/sadetaa/aiMWZsQYsT/128
+#EXTINF:-1 tvg-name="EUROSPORT 2" tvg-logo="https://layout.eurosport.com/i/v8_5/logo/epg/e2_new.png" group-title="sports",EUROSPORT 2
+http://u8k.pro:2082/893963693051/bHksg68fWnri8/72594
+#EXTINF:-1 tvg-name="EUROSPORT 1 DE" tvg-logo="https://sport-tv-guide.live/images/tv-station-de-eurosport-1-150.png" group-title="sports",EUROSPORT 1 DE
+http://client.nodomain.vip:80/sadetaa/aiMWZsQYsT/1686
+#EXTINF:-1 tvg-name="EUROSPORT 2 DE" tvg-logo="https://sport-tv-guide.live/images/tv-station-de-eurosport-2-151.png" group-title="sports",EUROSPORT 2 DE
+http://client.nodomain.vip:80/sadetaa/aiMWZsQYsT/1687
+#EXTINF:-1 tvg-name="ESPN US" tvg-logo="https://sport-tv-guide.live/images/tv-station-us-espn-29.png" group-title="sports",ESPN US
+http://client.nodomain.vip:80/sadetaa/aiMWZsQYsT/1703
+#EXTINF:-1 tvg-name="ESPN SPORTS 1 NL" tvg-logo="" group-title="sports",ESPN SPORTS 1 NL
+http://client.nodomain.vip:80/sadetaa/aiMWZsQYsT/1721
+#EXTINF:-1 tvg-name="ESPN SPORTS 2 NL" tvg-logo="" group-title="sports",ESPN SPORTS 2 NL
+http://client.nodomain.vip:80/sadetaa/aiMWZsQYsT/1722
+#EXTINF:-1 tvg-name="ESPN SPORTS 3 NL" tvg-logo="" group-title="sports",ESPN SPORTS 3 NL
+http://client.nodomain.vip:80/sadetaa/aiMWZsQYsT/1723
+#EXTINF:-1 tvg-name="ESPN SPORTS 4 NL" tvg-logo="" group-title="sports",ESPN SPORTS 4 NL
+http://client.nodomain.vip:80/sadetaa/aiMWZsQYsT/1724
+#EXTINF:-1 tvg-name="ESPN" tvg-logo="" group-title="sports",ESPN
+https://skynetmax.live:8443/play/pF5FbpT1J4mElJjGxGs-cuhIOfWGbhtGoQg-g7fOzV0mkKjt2O1pFrKCM33P427L
+#EXTINF:-1 tvg-name="ESPN2" tvg-logo="" group-title="sports",ESPN2
+https://skynetmax.live:8443/play/pF5FbpT1J4mElJjGxGs-ckhu_hp0mxgwlfQKr1GR0XIrUvjxhQ26SR2_-pqzl8lR
+#EXTINF:-1 tvg-name="BEIN SPORTS XTRA ENG" tvg-logo="" group-title="sports",BEIN SPORTS XTRA ENG
+https://skynetmax.live:8443/play/pF5FbpT1J4mElJjGxGs-coEDlnWVMTa-rfZeCHRXbFgeFvcFe0YpiX7OsEorGdTP
+#EXTINF:-1 tvg-name="CA | Sportsnet 360" tvg-logo="" group-title="sports",CA | Sportsnet 360
+https://skynetmax.live:8443/play/pF5FbpT1J4mElJjGxGs-cgk20m7O5JSRquwK6d1f2kF7tIkEWRAtZ2m6vBdBrz9T
+#EXTINF:-1 tvg-name="CA | Sportsnet Ontario" tvg-logo="" group-title="sports",CA | Sportsnet Ontario
+https://skynetmax.live:8443/play/pF5FbpT1J4mElJjGxGs-cjTOMeG5XLI6MudDoflFIgyp4cook42ocJm1bWq8KZbh
+#EXTINF:-1 tvg-name="CA | Sportsnet Pacific" tvg-logo="" group-title="sports",CA | Sportsnet Pacific
+https://skynetmax.live:8443/play/pF5FbpT1J4mElJjGxGs-cjDgg1gM1c-KVnwhUNY43t1xa2gGzIIsVkSysQ2jcb_3
+#EXTINF:-1 tvg-name="CA | Sportsnet West" tvg-logo="" group-title="sports",CA | Sportsnet West
+https://skynetmax.live:8443/play/pF5FbpT1J4mElJjGxGs-co-f_XT5Z3t6y8qHksK1WINw4CLmeImA0wip3WP6IoT-
+#EXTINF:-1 tvg-name="CA | Fox Sports Racing" tvg-logo="" group-title="sports",CA | Fox Sports Racing
+https://skynetmax.live:8443/play/pF5FbpT1J4mElJjGxGs-coXAY1IhIaGKdlhWiZJasIVk-mp3bZTyrG63-KWsIdLZ
+#EXTINF:-1 tvg-name="CA | TVA Sports 1 HD" tvg-logo="" group-title="sports",CA | TVA Sports 1 HD
+https://skynetmax.live:8443/play/pF5FbpT1J4mElJjGxGs-ckrYFV6j9mV3rN4DFBiS1IumjJIF6td0VA1R7_Unnmab
+#EXTINF:-1 tvg-name="CA | TVA Sports 2 HD" tvg-logo="" group-title="sports",CA | TVA Sports 2 HD
+https://skynetmax.live:8443/play/pF5FbpT1J4mElJjGxGs-coLjzuaU1wUXj2zDPjcl8IVegY9ebs7l6ND42dD0Efqb
+#EXTINF:-1 tvg-name="USA | ESPN 1 | FORMULA 1" tvg-logo="" group-title="sports",USA | ESPN 1 | FORMULA 1
+https://skynetmax.live:8443/play/pF5FbpT1J4mElJjGxGs-crOMoAz9aZ3yjoRhnZGFM04d6gUWw4r7P7g61cArZnZg
+#EXTINF:-1 tvg-name="CUBA | ESPN 1" tvg-logo="" group-title="sports",CUBA | ESPN 1
+https://skynetmax.live:8443/play/pF5FbpT1J4mElJjGxGs-ckIaHd6YPzi-m4PoypVcNKYDMI-IV_AfsuEloiAEPzsA
+#EXTINF:-1 tvg-name="ESPN Deportes" tvg-logo="" group-title="sports",ESPN Deportes
+https://skynetmax.live:8443/play/pF5FbpT1J4mElJjGxGs-cuDHQjCr4A-u9tFxtQoCm2smTQMYxtva7RZSbTG50Db5
+#EXTINF:-1 tvg-name="ESPN U" tvg-logo="" group-title="sports",ESPN U
+https://skynetmax.live:8443/play/pF5FbpT1J4mElJjGxGs-ck09S5ChKPnYOO6KkpklMgPoIDTnnXrC3zkxYDWJrWEg
+#EXTINF:-1 tvg-name="ESPN News" tvg-logo="" group-title="sports",ESPN News
+https://skynetmax.live:8443/play/pF5FbpT1J4mElJjGxGs-chhERr15j4ATkvJNcl6wlufZod7oNaLnvkINNdM9JPog
+#EXTINF:-1 tvg-name="USA| SPECTRUM SPORTS NET HD" tvg-logo="" group-title="sports",USA| SPECTRUM SPORTS NET HD
+https://skynetmax.live:8443/play/pF5FbpT1J4mElJjGxGs-coJWnqYcPLPInmRxE0g-kOfKtwv73_6p8YUAXxaVokrc
+#EXTINF:-1 tvg-name="US | Spectrum SportsNet LA Dodgers" tvg-logo="" group-title="sports",US | Spectrum SportsNet LA Dodgers
+https://skynetmax.live:8443/play/pF5FbpT1J4mElJjGxGs-csXbI-OFsRy7DLvpsZSLCqbb27tPNBPVhLbqcuh1lbcR
+#EXTINF:-1 tvg-name="US | Spectrum SportsNet LA Lakers" tvg-logo="" group-title="sports",US | Spectrum SportsNet LA Lakers
+https://skynetmax.live:8443/play/pF5FbpT1J4mElJjGxGs-cme4qCcEo-gwYExqU0SQfbYfMxMVAMmsDZ3fIv7soJFv
+#EXTINF:-1 tvg-name="BUNDESLIGA | ESPN 1 ARG HD" tvg-logo="" group-title="sports",BUNDESLIGA | ESPN 1 ARG HD
+https://skynetmax.live:8443/play/pF5FbpT1J4mElJjGxGs-cr1WnuJm2V1bR-vTr9xVT97VqF8UJVCQ0hLXH3NA_Ze3
+#EXTINF:-1 tvg-name="BUNDESLIGA | ESPN 2 ARG HD" tvg-logo="" group-title="sports",BUNDESLIGA | ESPN 2 ARG HD
+https://skynetmax.live:8443/play/pF5FbpT1J4mElJjGxGs-cqwJiKNK90da96jzWs_ULPFtafpEHIIUKzh-9I6puNls
+#EXTINF:-1 tvg-name="BUNDESLIGA | ESPN DEPORTES HD" tvg-logo="" group-title="sports",BUNDESLIGA | ESPN DEPORTES HD
+https://skynetmax.live:8443/play/pF5FbpT1J4mElJjGxGs-cjL8bTnmV9J8wbE0vBafrJw7Me2ggV12IJIItCxjbv4n
+#EXTINF:-1 tvg-name="PORT | EUROSPORT 1" tvg-logo="" group-title="sports",PORT | EUROSPORT 1
+https://skynetmax.live:8443/play/pF5FbpT1J4mElJjGxGs-crW72aTda0gPgHXMlhtn7cqrgcklSW2tXsxuMphahaMo
+#EXTINF:-1 tvg-name="PORT | EUROSPORT 2" tvg-logo="" group-title="sports",PORT | EUROSPORT 2
+https://skynetmax.live:8443/play/pF5FbpT1J4mElJjGxGs-cmWF-tGMBR0bwx_HAM1UeWHsnDbBhYPf0oz7qV-Kn9H0
+#EXTINF:-1 tvg-name="ARG D | ESPN 1 ARG OPC 1" tvg-logo="" group-title="sports",ARG D | ESPN 1 ARG OPC 1
+https://skynetmax.live:8443/play/pF5FbpT1J4mElJjGxGs-cnwsUfVWa_TCqm5U9O8w9DFcRkbXr99qAuOaV_S_ePVw
+#EXTINF:-1 tvg-name="ARG D | ESPN 1 ARG OPC 2" tvg-logo="" group-title="sports",ARG D | ESPN 1 ARG OPC 2
+https://skynetmax.live:8443/play/pF5FbpT1J4mElJjGxGs-coe251rn9cvQaWeB8GvtlU_4JPfc21oRtWHSIEMOipD7
+#EXTINF:-1 tvg-name="ARG D | ESPN 2 ARG OPC1" tvg-logo="" group-title="sports",ARG D | ESPN 2 ARG OPC1
+https://skynetmax.live:8443/play/pF5FbpT1J4mElJjGxGs-cpdBzOujnfkCzBTsjph_vcsJXrl7fX3IRzXdWmU4F2b6
+#EXTINF:-1 tvg-name="ARG D | ESPN 2 ARG OPC 2" tvg-logo="" group-title="sports",ARG D | ESPN 2 ARG OPC 2
+https://skynetmax.live:8443/play/pF5FbpT1J4mElJjGxGs-cpQNJp4rLAvZfQb536nsIiQp2Pvs4Ze1P-lIXwmYcZYb
+#EXTINF:-1 tvg-name="ARG D | ESPN 3 ARG OPC 1" tvg-logo="" group-title="sports",ARG D | ESPN 3 ARG OPC 1
+https://skynetmax.live:8443/play/pF5FbpT1J4mElJjGxGs-cqCNkboY-6jR7dO-rWzj3T2-pDAwrHOnjtiSxE6AGRcG
+#EXTINF:-1 tvg-name="ARG D | ESPN 3 ARG OPC 2" tvg-logo="" group-title="sports",ARG D | ESPN 3 ARG OPC 2
+https://skynetmax.live:8443/play/pF5FbpT1J4mElJjGxGs-csKBVE8MhvbtWVAwXdP-nuvzKOcDe5dEDU2C1dkvvkZA
+#EXTINF:-1 tvg-name="ARG D | ESPN 4 ARG OPC 1" tvg-logo="" group-title="sports",ARG D | ESPN 4 ARG OPC 1
+https://skynetmax.live:8443/play/pF5FbpT1J4mElJjGxGs-cuqR88RTytn_Mb4ueO3gQJ_Wde2ptVUcI5D6hfAfafU3
+#EXTINF:-1 tvg-name="ARG D | ESPN 4 ARG OPC 2" tvg-logo="" group-title="sports",ARG D | ESPN 4 ARG OPC 2
+https://skynetmax.live:8443/play/pF5FbpT1J4mElJjGxGs-cgIpo52EfDkDZbOt6GlYCBsqz369YxUID6SD6_kBvuVx
+#EXTINF:-1 tvg-name="ARG D | ESPN 5 SUR OPC 1" tvg-logo="" group-title="sports",ARG D | ESPN 5 SUR OPC 1
+https://skynetmax.live:8443/play/pF5FbpT1J4mElJjGxGs-cvFUzVP7TFCjqChihzIQWplw7zjvuzFUMGkOxjszfI5h
+#EXTINF:-1 tvg-name="ARG D | ESPN 5 SUR OPC 2" tvg-logo="" group-title="sports",ARG D | ESPN 5 SUR OPC 2
+https://skynetmax.live:8443/play/pF5FbpT1J4mElJjGxGs-ctjhqx1aVnOcXxpZzEboWPIAKkFxKFCzs73ykO4F3I2P
+#EXTINF:-1 tvg-name="ARG D | ESPN PREMIUM ARG OPC 1" tvg-logo="" group-title="sports",ARG D | ESPN PREMIUM ARG OPC 1
+https://skynetmax.live:8443/play/pF5FbpT1J4mElJjGxGs-concxqXsyIl-BuWDx5Ay8nzwWZmGi5dDA-uB9GovLE3_
+#EXTINF:-1 tvg-name="ARG D | ESPN PREMIUM ARG OPC 2" tvg-logo="" group-title="sports",ARG D | ESPN PREMIUM ARG OPC 2
+https://skynetmax.live:8443/play/pF5FbpT1J4mElJjGxGs-csLkUdcEEwU_e8VgRz3Br02s1y2aSO38aM3LSl3kn8le
+#EXTINF:-1 tvg-name="ESPN 1 ARGENTINA OP1" tvg-logo="" group-title="sports",ESPN 1 ARGENTINA OP1
+https://skynetmax.live:8443/play/pF5FbpT1J4mElJjGxGs-csM95StgWSclGF9xXfAF2_1bwCA1VjVHwRowtQHzB_CL
+#EXTINF:-1 tvg-name="ESPN 1 ARGENTINA OP2" tvg-logo="" group-title="sports",ESPN 1 ARGENTINA OP2
+https://skynetmax.live:8443/play/pF5FbpT1J4mElJjGxGs-ch6sAvSuCDpnxhTuLAwA7P72JB1lUdPHHorG9eFL9Hl1
+#EXTINF:-1 tvg-name="ESPN 2 ARGENTINA OP1" tvg-logo="" group-title="sports",ESPN 2 ARGENTINA OP1
+https://skynetmax.live:8443/play/pF5FbpT1J4mElJjGxGs-cvKTaNfI_DObDSGDYyVe0gp5QFsqBoIIDxqvmyB3j2Al
+#EXTINF:-1 tvg-name="ESPN 2 ARGENTINA OP2" tvg-logo="" group-title="sports",ESPN 2 ARGENTINA OP2
+https://skynetmax.live:8443/play/pF5FbpT1J4mElJjGxGs-coeEaB7l9ug2zA81QptWefUyS9YY2MiVYpoSk3SSLEV3
+#EXTINF:-1 tvg-name="ESPN 3 ARGENTINA OP1" tvg-logo="" group-title="sports",ESPN 3 ARGENTINA OP1
+https://skynetmax.live:8443/play/pF5FbpT1J4mElJjGxGs-chp89EUA6uVvAaH5YtxUd7S9Mo5E_qAIYrkUW76Xa05U
+#EXTINF:-1 tvg-name="ESPN 3 ARGENTINA OP2" tvg-logo="" group-title="sports",ESPN 3 ARGENTINA OP2
+https://skynetmax.live:8443/play/pF5FbpT1J4mElJjGxGs-ctSf5KEIHdlMlpTNPxhCotYp-9ZQ4mQFNs-2xWqF8KqM
+#EXTINF:-1 tvg-name="ESPN PREMIUM ARGENTINA OP1" tvg-logo="" group-title="sports",ESPN PREMIUM ARGENTINA OP1
+https://skynetmax.live:8443/play/pF5FbpT1J4mElJjGxGs-cgOYmwlhXMJ4gxMI7u5NBjnNMDk15A_tuY9fhnEqcKTw
+#EXTINF:-1 tvg-name="ESPN PREMIUM ARGENTINA OP2" tvg-logo="" group-title="sports",ESPN PREMIUM ARGENTINA OP2
+https://skynetmax.live:8443/play/pF5FbpT1J4mElJjGxGs-couOa3KZ2Nh-v541pkyeGy5ko259GxgZjOaCMkJxjpq4
+#EXTINF:-1 tvg-name="ESPN 1 COLOMBIA OP1" tvg-logo="" group-title="sports",ESPN 1 COLOMBIA OP1
+https://skynetmax.live:8443/play/pF5FbpT1J4mElJjGxGs-ck8MZqNgeCanjEwqw1CK_GhLR7C21BoVJ8n_G0Tc29mM
+#EXTINF:-1 tvg-name="ESPN 1 COLOMBIA OP2" tvg-logo="" group-title="sports",ESPN 1 COLOMBIA OP2
+https://skynetmax.live:8443/play/pF5FbpT1J4mElJjGxGs-coZuIghGvUlbbi1-yKx1AT_ORjuf1m7b2bOPNDv1-DAj
+#EXTINF:-1 tvg-name="ESPN 2 COLOMBIA OP1" tvg-logo="" group-title="sports",ESPN 2 COLOMBIA OP1
+https://skynetmax.live:8443/play/pF5FbpT1J4mElJjGxGs-cozDQNUJCdShiBSO2SAClpWyQJXQQtmr4Gg0TKx9Czd4
+#EXTINF:-1 tvg-name="ESPN 2 COLOMBIA OP2" tvg-logo="" group-title="sports",ESPN 2 COLOMBIA OP2
+https://skynetmax.live:8443/play/pF5FbpT1J4mElJjGxGs-cq8M72rwZwxOoztLK01AAYc59DbBzVpAb9Ti4x6lV50b
+#EXTINF:-1 tvg-name="ESPN 3 COLOMBIA OP1" tvg-logo="" group-title="sports",ESPN 3 COLOMBIA OP1
+https://skynetmax.live:8443/play/pF5FbpT1J4mElJjGxGs-cln85TedXZOe2h0gUaostNUUWJl0mz8UqGD7-9DpVlog
+#EXTINF:-1 tvg-name="ESPN 3 COLOMBIA OP2" tvg-logo="" group-title="sports",ESPN 3 COLOMBIA OP2
+https://skynetmax.live:8443/play/pF5FbpT1J4mElJjGxGs-clnoLlpEnHA6-o2QTsfPsjEOM8oQ6Oamwm4nH31K-mLX
+#EXTINF:-1 tvg-name="ESPN 4 COLOMBIA OP1" tvg-logo="" group-title="sports",ESPN 4 COLOMBIA OP1
+https://skynetmax.live:8443/play/pF5FbpT1J4mElJjGxGs-cvGgW0yoz6QnyZ4iWw7SsICUouLjHHDTw5rUS7IY5L6J
+#EXTINF:-1 tvg-name="ESPN 4 COLOMBIA OP2" tvg-logo="" group-title="sports",ESPN 4 COLOMBIA OP2
+https://skynetmax.live:8443/play/pF5FbpT1J4mElJjGxGs-cuwaKwfVCAjRIiNfI5832wsJ1dC69hb6K1NzXCq1-qwJ
+#EXTINF:-1 tvg-name="ESPN 1 MEXICO OP1" tvg-logo="" group-title="sports",ESPN 1 MEXICO OP1
+https://skynetmax.live:8443/play/pF5FbpT1J4mElJjGxGs-cmtxCf-xnbv4q4NTzvACtQu4GxtxfOL-OaqXAEFl8yNx
+#EXTINF:-1 tvg-name="ESPN 1 MEXICO OP2" tvg-logo="" group-title="sports",ESPN 1 MEXICO OP2
+https://skynetmax.live:8443/play/pF5FbpT1J4mElJjGxGs-ci-60memKB02FOfloVZFQaXPrdtovlfVSmv_khVdx1d9
+#EXTINF:-1 tvg-name="ESPN 2 MEXICO OP1" tvg-logo="" group-title="sports",ESPN 2 MEXICO OP1
+https://skynetmax.live:8443/play/pF5FbpT1J4mElJjGxGs-cu6LmW_3yzdYsimGBWCbIvJc8QmHT8Yrc1plyoH1DCOL
+#EXTINF:-1 tvg-name="ESPN 2 MEXICO OP2" tvg-logo="" group-title="sports",ESPN 2 MEXICO OP2
+https://skynetmax.live:8443/play/pF5FbpT1J4mElJjGxGs-cu3YPff5ZuWMfrQucbY_VhzbJ3jHxGWl0EjAJHnIaUrv
+#EXTINF:-1 tvg-name="ESPN 3 MEXICO OP1" tvg-logo="" group-title="sports",ESPN 3 MEXICO OP1
+https://skynetmax.live:8443/play/pF5FbpT1J4mElJjGxGs-cosL3swsFo5kK3JaADoocWBsDeoMT2E8UVXSydHqielb
+#EXTINF:-1 tvg-name="ESPN 3 MEXICO OP2" tvg-logo="" group-title="sports",ESPN 3 MEXICO OP2
+https://skynetmax.live:8443/play/pF5FbpT1J4mElJjGxGs-cnMrdirOpqLrJbN1JrvCNGGkw6Lkt8QsQcs1IwXydj9N
+#EXTINF:-1 tvg-name="ESPN 4 MEXICO OP1" tvg-logo="" group-title="sports",ESPN 4 MEXICO OP1
+https://skynetmax.live:8443/play/pF5FbpT1J4mElJjGxGs-cu-J2EDi16fOmLaIZ16cGLjlQCXyZeINHilkLEFwPpmM
+#EXTINF:-1 tvg-name="ESPN 4 MEXICO OP2" tvg-logo="" group-title="sports",ESPN 4 MEXICO OP2
+https://skynetmax.live:8443/play/pF5FbpT1J4mElJjGxGs-cqGPyKyL6caD4wYGq-OmJiGoKe2ndwFlULkstKClZenN
+#EXTINF:-1 tvg-name="ESPN 1 USA OP1" tvg-logo="" group-title="sports",ESPN 1 USA OP1
+https://skynetmax.live:8443/play/pF5FbpT1J4mElJjGxGs-coxFu0vLi9JvjssFG8FhfdQHfoeB9KWFq0eya8scBxxJ
+#EXTINF:-1 tvg-name="ESPN 1 USA OP2" tvg-logo="" group-title="sports",ESPN 1 USA OP2
+https://skynetmax.live:8443/play/pF5FbpT1J4mElJjGxGs-chQH2pav7AH_stijkjRHUPdYwbBDTE5DYJLBrE2j0rG4
+#EXTINF:-1 tvg-name="ESPN 2 USA OP1" tvg-logo="" group-title="sports",ESPN 2 USA OP1
+https://skynetmax.live:8443/play/pF5FbpT1J4mElJjGxGs-cpRsc9-dBXwE806nE_DDRHHMaqfwQcZXNtGTYazKb4IM
+#EXTINF:-1 tvg-name="ESPN 2 USA OP2" tvg-logo="" group-title="sports",ESPN 2 USA OP2
+https://skynetmax.live:8443/play/pF5FbpT1J4mElJjGxGs-coHO_8amo9jJxjORDsu-7cxb20XeAEIB_lIcH7uw6nn6
+#EXTINF:-1 tvg-name="ESPN DEPORTES (USA) OP1" tvg-logo="" group-title="sports",ESPN DEPORTES (USA) OP1
+https://skynetmax.live:8443/play/pF5FbpT1J4mElJjGxGs-cr6yk_y8kirR1sdJ3qwFliQO4hlqeLAmUh0Qbo_3XQBo
+#EXTINF:-1 tvg-name="ESPN DEPORTES (USA) OP2" tvg-logo="" group-title="sports",ESPN DEPORTES (USA) OP2
+https://skynetmax.live:8443/play/pF5FbpT1J4mElJjGxGs-cnS-UXB93IwozK-XmeWYXRzRIMJNFMrq7A49xjFeXZnr
+#EXTINF:-1 tvg-name="ESPN U (USA) OP1" tvg-logo="" group-title="sports",ESPN U (USA) OP1
+https://skynetmax.live:8443/play/pF5FbpT1J4mElJjGxGs-clHEV_E4FqVfeBP-OX4ctIf6xUDWSlmtG2jPJQGJCDJ7
+#EXTINF:-1 tvg-name="ESPN U (USA) OP2" tvg-logo="" group-title="sports",ESPN U (USA) OP2
+https://skynetmax.live:8443/play/pF5FbpT1J4mElJjGxGs-ctv760H7bkkfll0m-jKBxdfEzbDwBIbI8FtUtGlWrkVe
+#EXTINF:-1 tvg-name="ESPN 5 SUR OP1" tvg-logo="" group-title="sports",ESPN 5 SUR OP1
+https://skynetmax.live:8443/play/pF5FbpT1J4mElJjGxGs-cg94qFusgTVEnwC5G9Lau5JJPfKNje-zmlMiyXfH2rid
+#EXTINF:-1 tvg-name="ESPN 5 SUR OP2" tvg-logo="" group-title="sports",ESPN 5 SUR OP2
+https://skynetmax.live:8443/play/pF5FbpT1J4mElJjGxGs-coLF9MMuj5E1hOdkqRyFxOlQoSEDan8E2Xr0OyZCrx0-
+#EXTINF:-1 tvg-name="ESPN 6 SUR OP1" tvg-logo="" group-title="sports",ESPN 6 SUR OP1
+https://skynetmax.live:8443/play/pF5FbpT1J4mElJjGxGs-ck-fOeJutf8etqAlSg0HHnufrqC05nVugmILjooeZxCG
+#EXTINF:-1 tvg-name="ESPN 6 SUR OP2" tvg-logo="" group-title="sports",ESPN 6 SUR OP2
+https://skynetmax.live:8443/play/pF5FbpT1J4mElJjGxGs-csjJYDKOJiCJkBepd64Ea7IacOtQQrs9ovJDc-NNz4Nw
+#EXTINF:-1 tvg-name="ESPN 7 SUR OP1" tvg-logo="" group-title="sports",ESPN 7 SUR OP1
+https://skynetmax.live:8443/play/pF5FbpT1J4mElJjGxGs-cp9UC5i-fRKi3YLDbG_EahPWc6BYpE1U0uIfq0A9IW4P
+#EXTINF:-1 tvg-name="ESPN 7 SUR OP2" tvg-logo="" group-title="sports",ESPN 7 SUR OP2
+https://skynetmax.live:8443/play/pF5FbpT1J4mElJjGxGs-cmW_dioQAzRmHP8-ZnWhGguFG4n-BhA2OLwrHIlyefYv
+#EXTINF:-1 tvg-name="EUROSPORT 1 ESPAÑA OP1" tvg-logo="" group-title="sports",EUROSPORT 1 ESPAÑA OP1
+https://skynetmax.live:8443/play/pF5FbpT1J4mElJjGxGs-cnFhULI15mksAT3_i8zCujsg0ISLDU6DS0Qa6CgQABHZ
+#EXTINF:-1 tvg-name="EUROSPORT 1 ESPAÑA OP 2" tvg-logo="" group-title="sports",EUROSPORT 1 ESPAÑA OP 2
+https://skynetmax.live:8443/play/pF5FbpT1J4mElJjGxGs-cnm69XVsr-7EL9vjhyEIr6k7xLsIY1bTqPUbGjefwzsv
+#EXTINF:-1 tvg-name="EUROSPORT 2 ESPAÑA OP 1" tvg-logo="" group-title="sports",EUROSPORT 2 ESPAÑA OP 1
+https://skynetmax.live:8443/play/pF5FbpT1J4mElJjGxGs-crZLDGoQbd8WFNp-6LC7bDnDUah5UZuu3ZXGO8KE1otC
+#EXTINF:-1 tvg-name="EUROSPORT 2 ESPAÑA OP2" tvg-logo="" group-title="sports",EUROSPORT 2 ESPAÑA OP2
+https://skynetmax.live:8443/play/pF5FbpT1J4mElJjGxGs-cgnh64DW2C_BhPjK7iR69cmR8ddRd-nBGlZ0A1StwRRQ
+#EXTINF:-1 tvg-name="EUROSPORT 1 ALEMANIA" tvg-logo="" group-title="sports",EUROSPORT 1 ALEMANIA
+https://skynetmax.live:8443/play/pF5FbpT1J4mElJjGxGs-ch7RaVM4zrP9XDDopcmVpwSsJCYsjELImIaQUJa1t7an
+#EXTINF:-1 tvg-name="EUROSPORT 2 ALEMANIA" tvg-logo="" group-title="sports",EUROSPORT 2 ALEMANIA
+https://skynetmax.live:8443/play/pF5FbpT1J4mElJjGxGs-ctCjvyVvLZljdp60M_YeIOBFILONOxNWsYkNkO4vbCrn
+#EXTINF:-1 tvg-name="ESPNews dtvd" tvg-logo="" group-title="sports",ESPNews dtvd
+https://skynetmax.live:8443/play/pF5FbpT1J4mElJjGxGs-ckIlrdxnB_R7ymgJvKFfna9u87HvYOI0k2NMtmSKAkQJ
+#EXTINF:-1 tvg-name="CA | Sportsnet East" tvg-logo="" group-title="sports",CA | Sportsnet East
+https://skynetmax.live:8443/play/pF5FbpT1J4mElJjGxGs-cmJvara0I87n8WmY8HX5ecjxS0l3BJ9b48Gi0Rla-e8T
+#EXTINF:-1 tvg-name="A BBC Boss, BBC Friend, BBC footballer, and a BBC homie pound wet trans asshole" tvg-logo="" group-title="sports",A BBC Boss, BBC Friend, BBC footballer, and a BBC homie pound wet trans asshole
+https://skynetmax.live:8443/play/-tJpc4XzwYN9MYnMyPd6JFOgDiFDwLXqXhK0G4WGV7kZ7bMlAwWPiJpi2_sl1xUS
+#EXTINF:-1 tvg-name="IHaveAWife Emma Starr Jessica Jaymes And Nikki Benz 2014 SD x264 2.7 Mbps eng" tvg-logo="" group-title="sports",IHaveAWife Emma Starr Jessica Jaymes And Nikki Benz 2014 SD x264 2.7 Mbps eng
+https://skynetmax.live:8443/play/-tJpc4XzwYN9MYnMyPd6JOnhbv6c5G3-dOVRCJNJFzvvvowAvF89ssI4I3f7mpgJ
 #EXTINF:-1 tvg-name="AR: BEIN SPORTS ENG 1" tvg-logo="" group-title="sports",AR: BEIN SPORTS ENG 1
 http://31.43.191.125:8080/vip2371775319895/9265b2325e78/848
 #EXTINF:-1 tvg-name="AR: BEIN SPORTS ENG 2" tvg-logo="" group-title="sports",AR: BEIN SPORTS ENG 2
 http://31.43.191.125:8080/vip2371775319895/9265b2325e78/849
 #EXTINF:-1 tvg-name="AR: BEIN SPORTS ENG 3" tvg-logo="" group-title="sports",AR: BEIN SPORTS ENG 3
 http://31.43.191.125:8080/vip2371775319895/9265b2325e78/850
-#EXTINF:-1 tvg-name="UK: Sky Sports F1" tvg-logo="" group-title="sports",UK: Sky Sports F1
-http://u8k.pro:2082/893963693051/bHksg68fWnri8/819114
 #EXTINF:-1 tvg-name="UK: Sky Sports Golf" tvg-logo="" group-title="sports",UK: Sky Sports Golf
 http://u8k.pro:2082/893963693051/bHksg68fWnri8/819115
-#EXTINF:-1 tvg-name="UK: Sky Sports Mix" tvg-logo="" group-title="sports",UK: Sky Sports Mix
-http://u8k.pro:2082/893963693051/bHksg68fWnri8/819116
 #EXTINF:-1 tvg-name="UK: Sky Sports Football" tvg-logo="" group-title="sports",UK: Sky Sports Football
 http://u8k.pro:2082/893963693051/bHksg68fWnri8/819113
-#EXTINF:-1 tvg-name="UK: Sky Sports Premier League" tvg-logo="" group-title="sports",UK: Sky Sports Premier League
-http://u8k.pro:2082/893963693051/bHksg68fWnri8/819118
 #EXTINF:-1 tvg-name="UK: Sky Sports Cricket" tvg-logo="" group-title="sports",UK: Sky Sports Cricket
 http://u8k.pro:2082/893963693051/bHksg68fWnri8/819122
 #EXTINF:-1 tvg-name="UK: Sky Sports Arena" tvg-logo="" group-title="sports",UK: Sky Sports Arena
 http://u8k.pro:2082/893963693051/bHksg68fWnri8/279048
-#EXTINF:-1 tvg-name="UK: Sky Sports Action" tvg-logo="" group-title="sports",UK: Sky Sports Action
-http://u8k.pro:2082/893963693051/bHksg68fWnri8/819111
 #EXTINF:-1 tvg-name="UK: Sky Sports Racing" tvg-logo="" group-title="sports",UK: Sky Sports Racing
 http://u8k.pro:2082/893963693051/bHksg68fWnri8/819119
 #EXTINF:-1 tvg-name="UK: Sky Sports Main Event" tvg-logo="" group-title="sports",UK: Sky Sports Main Event
@@ -35,10 +249,8 @@ http://u8k.pro:2082/893963693051/bHksg68fWnri8/879765
 http://u8k.pro:2082/893963693051/bHksg68fWnri8/888556
 #EXTINF:-1 tvg-name="USA: BEIN SPORTS 7" tvg-logo="" group-title="sports",USA: BEIN SPORTS 7
 http://u8k.pro:2082/893963693051/bHksg68fWnri8/888559
-#EXTINF:-1 tvg-name="Eurosport 1" tvg-logo="" group-title="sports",Eurosport 1
-http://caffe.link:25461/200Zrinko/UB9quKy8uSvy/1508
-#EXTINF:-1 tvg-name="Eurosport 2" tvg-logo="https://tvprofil.com/img/kanali-logo/Eurosport_2_2015_logo.png" group-title="sports",Eurosport 2
-http://caffe.link:25461/200Zrinko/UB9quKy8uSvy/1507
+#EXTINF:-1 tvg-name="EUROSPORT 1 HD" tvg-logo="" group-title="sports",EUROSPORT 1 HD
+http://u8k.pro:2082/893963693051/bHksg68fWnri8/72593
 #EXTINF:-1 tvg-name="UK: VIP EIR SPORT 1" tvg-logo="" group-title="sports",UK: VIP EIR SPORT 1
 http://31.43.191.125:8080/vip2371775319895/9265b2325e78/1685
 #EXTINF:-1 tvg-name="UK: VIP EIR SPORT 2" tvg-logo="" group-title="sports",UK: VIP EIR SPORT 2
@@ -85,8 +297,6 @@ http://31.43.191.125:8080/vip2371775319895/9265b2325e78/1709
 http://31.43.191.125:8080/vip2371775319895/9265b2325e78/1710
 #EXTINF:-1 tvg-name="UK: VIP FREE SPORTS" tvg-logo="" group-title="sports",UK: VIP FREE SPORTS
 http://31.43.191.125:8080/vip2371775319895/9265b2325e78/1714
-#EXTINF:-1 tvg-name="ESPN" tvg-logo="" group-title="sports",ESPN
-http://caffe.link:25461/200Zrinko/UB9quKy8uSvy/72470
 #EXTINF:-1 tvg-name="UK: Sky Sports Tennis" tvg-logo="" group-title="sports",UK: Sky Sports Tennis
 http://u8k.pro:2082/893963693051/bHksg68fWnri8/819120
 #EXTINF:-1 tvg-name="UK: Sky Sports+ FHD" tvg-logo="" group-title="sports",UK: Sky Sports+ FHD
@@ -143,8 +353,6 @@ http://31.43.191.125:8080/vip2371775319895/9265b2325e78/147048
 http://31.43.191.125:8080/vip2371775319895/9265b2325e78/146584
 #EXTINF:-1 tvg-name="UK: VIAPLAY SPORTS 2" tvg-logo="" group-title="sports",UK: VIAPLAY SPORTS 2
 http://31.43.191.125:8080/vip2371775319895/9265b2325e78/146583
-#EXTINF:-1 tvg-name="UK: Premier Sports 1" tvg-logo="" group-title="sports",UK: Premier Sports 1
-http://31.43.191.125:8080/vip2371775319895/9265b2325e78/146984
 #EXTINF:-1 tvg-name="UK: Bein Sports Extra Ñ" tvg-logo="" group-title="sports",UK: Bein Sports Extra Ñ
 http://31.43.191.125:8080/vip2371775319895/9265b2325e78/146628
 #EXTINF:-1 tvg-name="UK: SPORT" tvg-logo="" group-title="sports",UK: SPORT
@@ -241,22 +449,12 @@ http://31.43.191.125:8080/vip2371775319895/9265b2325e78/146897
 http://31.43.191.125:8080/vip2371775319895/9265b2325e78/146907
 #EXTINF:-1 tvg-name="US| BEIN SPORTS" tvg-logo="" group-title="sports",US| BEIN SPORTS
 http://u8k.pro:2082/893963693051/bHksg68fWnri8/888555
-#EXTINF:-1 tvg-name="US| SPORTSNET 360" tvg-logo="" group-title="sports",US| SPORTSNET 360
-http://u8k.pro:2082/893963693051/bHksg68fWnri8/819094
 #EXTINF:-1 tvg-name="US| SPORTSNET ONE" tvg-logo="" group-title="sports",US| SPORTSNET ONE
 http://u8k.pro:2082/893963693051/bHksg68fWnri8/819095
-#EXTINF:-1 tvg-name="US| SPORTSNET ONTARIO" tvg-logo="" group-title="sports",US| SPORTSNET ONTARIO
-http://u8k.pro:2082/893963693051/bHksg68fWnri8/819096
-#EXTINF:-1 tvg-name="UK| SPORTSNET PACIFIC" tvg-logo="" group-title="sports",UK| SPORTSNET PACIFIC
-http://u8k.pro:2082/893963693051/bHksg68fWnri8/819097
-#EXTINF:-1 tvg-name="US| SPORTSNET WEST" tvg-logo="" group-title="sports",US| SPORTSNET WEST
-http://u8k.pro:2082/893963693051/bHksg68fWnri8/819098
 #EXTINF:-1 tvg-name="UK| SPORTSNET WORLD" tvg-logo="" group-title="sports",UK| SPORTSNET WORLD
 http://u8k.pro:2082/893963693051/bHksg68fWnri8/819099
 #EXTINF:-1 tvg-name="CA: TVA SPORTS" tvg-logo="" group-title="sports",CA: TVA SPORTS
 http://31.43.191.125:8080/vip2371775319895/9265b2325e78/5516
-#EXTINF:-1 tvg-name="US| FOX SPORTS RACING" tvg-logo="" group-title="sports",US| FOX SPORTS RACING
-http://u8k.pro:2082/893963693051/bHksg68fWnri8/888581
 #EXTINF:-1 tvg-name="USA: ACCN ESPN" tvg-logo="" group-title="sports",USA: ACCN ESPN
 http://31.43.191.125:8080/vip2371775319895/9265b2325e78/154614
 #EXTINF:-1 tvg-name="USA: AFN SPORT" tvg-logo="" group-title="sports",USA: AFN SPORT
@@ -295,12 +493,6 @@ http://u8k.pro:2082/893963693051/bHksg68fWnri8/888563
 http://31.43.191.125:8080/vip2371775319895/9265b2325e78/154915
 #EXTINF:-1 tvg-name="USA: COURT SPORTS NETWORK" tvg-logo="" group-title="sports",USA: COURT SPORTS NETWORK
 http://31.43.191.125:8080/vip2371775319895/9265b2325e78/154958
-#EXTINF:-1 tvg-name="ESPN 2" tvg-logo="" group-title="sports",ESPN 2
-http://go.iptvhn.net:25461/7619/7619/837
-#EXTINF:-1 tvg-name="US| ESPN NEWS" tvg-logo="" group-title="sports",US| ESPN NEWS
-http://u8k.pro:2082/893963693051/bHksg68fWnri8/888568
-#EXTINF:-1 tvg-name="US| ESPN U" tvg-logo="" group-title="sports",US| ESPN U
-http://u8k.pro:2082/893963693051/bHksg68fWnri8/881212
 #EXTINF:-1 tvg-name="USA: FIGHT SPORTS FHD" tvg-logo="" group-title="sports",USA: FIGHT SPORTS FHD
 http://31.43.191.125:8080/vip2371775319895/9265b2325e78/155246
 #EXTINF:-1 tvg-name="USA: FOOTBALL EVENT 14" tvg-logo="" group-title="sports",USA: FOOTBALL EVENT 14
@@ -441,8 +633,6 @@ http://31.43.191.125:8080/vip2371775319895/9265b2325e78/156445
 http://u8k.pro:2082/893963693051/bHksg68fWnri8/888618
 #EXTINF:-1 tvg-name="USA: SNY SPORTSNET NEW YORK" tvg-logo="" group-title="sports",USA: SNY SPORTSNET NEW YORK
 http://31.43.191.125:8080/vip2371775319895/9265b2325e78/156553
-#EXTINF:-1 tvg-name="US| SPECTRUM SPORTSNET LA DODGERS" tvg-logo="" group-title="sports",US| SPECTRUM SPORTSNET LA DODGERS
-http://u8k.pro:2082/893963693051/bHksg68fWnri8/875083
 #EXTINF:-1 tvg-name="USA: SPORTS" tvg-logo="" group-title="sports",USA: SPORTS
 http://31.43.191.125:8080/vip2371775319895/9265b2325e78/156588
 #EXTINF:-1 tvg-name="USA: SPORTS GRID" tvg-logo="" group-title="sports",USA: SPORTS GRID
@@ -459,8 +649,6 @@ http://31.43.191.125:8080/vip2371775319895/9265b2325e78/156683
 http://31.43.191.125:8080/vip2371775319895/9265b2325e78/156738
 #EXTINF:-1 tvg-name="USA: WOMENS SPORTS NETWORK" tvg-logo="" group-title="sports",USA: WOMENS SPORTS NETWORK
 http://31.43.191.125:8080/vip2371775319895/9265b2325e78/156821
-#EXTINF:-1 tvg-name="ESPN 1 HD" tvg-logo="" group-title="sports",ESPN 1 HD
-http://go.iptvhn.net:25461/7619/7619/836
 #EXTINF:-1 tvg-name="AU| FOX SPORTS 501" tvg-logo="" group-title="sports",AU| FOX SPORTS 501
 http://u8k.pro:2082/893963693051/bHksg68fWnri8/879760
 #EXTINF:-1 tvg-name="AU| FOX SPORTS 502" tvg-logo="" group-title="sports",AU| FOX SPORTS 502
@@ -497,14 +685,8 @@ http://u8k.pro:2082/893963693051/bHksg68fWnri8/167707
 http://u8k.pro:2082/893963693051/bHksg68fWnri8/50023
 #EXTINF:-1 tvg-name="NL EUROSPORT 1 HD" tvg-logo="" group-title="sports",NL EUROSPORT 1 HD
 http://u8k.pro:2082/893963693051/bHksg68fWnri8/50024
-#EXTINF:-1 tvg-name="UK| BT SPORT 1" tvg-logo="" group-title="sports",UK| BT SPORT 1
-http://u8k.pro:2082/893963693051/bHksg68fWnri8/279026
-#EXTINF:-1 tvg-name="UK| BT SPORT 2" tvg-logo="" group-title="sports",UK| BT SPORT 2
-http://u8k.pro:2082/893963693051/bHksg68fWnri8/279028
 #EXTINF:-1 tvg-name="UK| BT SPORT 3" tvg-logo="" group-title="sports",UK| BT SPORT 3
 http://u8k.pro:2082/893963693051/bHksg68fWnri8/279030
-#EXTINF:-1 tvg-name="UK: BT SPORT ESPN HD" tvg-logo="" group-title="sports",UK: BT SPORT ESPN HD
-http://u8k.pro:2082/893963693051/bHksg68fWnri8/279031
 #EXTINF:-1 tvg-name="UK| BT SPORTS ESPN HD" tvg-logo="" group-title="sports",UK| BT SPORTS ESPN HD
 http://u8k.pro:2082/893963693051/bHksg68fWnri8/279032
 #EXTINF:-1 tvg-name="UK| BEIN SPORTS HD EN 1" tvg-logo="" group-title="sports",UK| BEIN SPORTS HD EN 1
@@ -545,8 +727,6 @@ http://u8k.pro:2082/893963693051/bHksg68fWnri8/880417
 http://u8k.pro:2082/893963693051/bHksg68fWnri8/880418
 #EXTINF:-1 tvg-name="CA | FUBO SPORTS 1" tvg-logo="" group-title="sports",CA | FUBO SPORTS 1
 http://u8k.pro:2082/893963693051/bHksg68fWnri8/880419
-#EXTINF:-1 tvg-name="US| SPORTSNET EAST" tvg-logo="" group-title="sports",US| SPORTSNET EAST
-http://u8k.pro:2082/893963693051/bHksg68fWnri8/781904
 #EXTINF:-1 tvg-name="US| NBC SPORTS WASHINGTON PLUS [LIVE DURING EVENTS ONLY] VIP" tvg-logo="" group-title="sports",US| NBC SPORTS WASHINGTON PLUS [LIVE DURING EVENTS ONLY] VIP
 http://u8k.pro:2082/893963693051/bHksg68fWnri8/781752
 #EXTINF:-1 tvg-name="USA: NBC SPORTS PHILADELPHIA" tvg-logo="" group-title="sports",USA: NBC SPORTS PHILADELPHIA
@@ -601,8 +781,6 @@ http://u8k.pro:2082/893963693051/bHksg68fWnri8/781902
 http://u8k.pro:2082/893963693051/bHksg68fWnri8/781927
 #EXTINF:-1 tvg-name="US| FIGHT NETWORK / MMA NETWORK" tvg-logo="" group-title="sports",US| FIGHT NETWORK / MMA NETWORK
 http://u8k.pro:2082/893963693051/bHksg68fWnri8/782009
-#EXTINF:-1 tvg-name="US: ESPN DEPORTES" tvg-logo="" group-title="sports",US: ESPN DEPORTES
-http://u8k.pro:2082/893963693051/bHksg68fWnri8/881210
 #EXTINF:-1 tvg-name="US| AFN SPORTS HD" tvg-logo="" group-title="sports",US| AFN SPORTS HD
 http://u8k.pro:2082/893963693051/bHksg68fWnri8/874820
 #EXTINF:-1 tvg-name="US| FOX SPORTS 1" tvg-logo="" group-title="sports",US| FOX SPORTS 1
@@ -795,8 +973,6 @@ http://u8k.pro:2082/893963693051/bHksg68fWnri8/888550
 http://u8k.pro:2082/893963693051/bHksg68fWnri8/888552
 #EXTINF:-1 tvg-name="USA: BEIN SPORTS XTRA 1" tvg-logo="" group-title="sports",USA: BEIN SPORTS XTRA 1
 http://u8k.pro:2082/893963693051/bHksg68fWnri8/888561
-#EXTINF:-1 tvg-name="ESPN 3 HD" tvg-logo="" group-title="sports",ESPN 3 HD
-http://go.iptvhn.net:25461/7619/7619/838
 #EXTINF:-1 tvg-name="USA: ESPNU" tvg-logo="" group-title="sports",USA: ESPNU
 http://u8k.pro:2082/893963693051/bHksg68fWnri8/888569
 #EXTINF:-1 tvg-name="USA: FANDUEL SPORTS NETWORK 10" tvg-logo="" group-title="sports",USA: FANDUEL SPORTS NETWORK 10
@@ -815,22 +991,6 @@ http://u8k.pro:2082/893963693051/bHksg68fWnri8/889495
 http://u8k.pro:2082/893963693051/bHksg68fWnri8/818720
 #EXTINF:-1 tvg-name="SUR A| ESPN 3" tvg-logo="" group-title="sports",SUR A| ESPN 3
 http://u8k.pro:2082/893963693051/bHksg68fWnri8/818721
-#EXTINF:-1 tvg-name="ESPN 4 HD" tvg-logo="" group-title="sports",ESPN 4 HD
-http://go.iptvhn.net:25461/7619/7619/909
-#EXTINF:-1 tvg-name="ESPN 5 HD" tvg-logo="" group-title="sports",ESPN 5 HD
-http://go.iptvhn.net:25461/7619/7619/1069
-#EXTINF:-1 tvg-name="ESPN 6 HD" tvg-logo="" group-title="sports",ESPN 6 HD
-http://go.iptvhn.net:25461/7619/7619/1072
-#EXTINF:-1 tvg-name="ESPN SUR" tvg-logo="" group-title="sports",ESPN SUR
-http://go.iptvhn.net:25461/7619/7619/2469
-#EXTINF:-1 tvg-name="ESPN 2 SUR" tvg-logo="" group-title="sports",ESPN 2 SUR
-http://go.iptvhn.net:25461/7619/7619/2470
-#EXTINF:-1 tvg-name="ESPN 4 SUR" tvg-logo="" group-title="sports",ESPN 4 SUR
-http://go.iptvhn.net:25461/7619/7619/2473
-#EXTINF:-1 tvg-name="UK| EXTREME SPORTS" tvg-logo="" group-title="sports",UK| EXTREME SPORTS
-http://vewora.com:8080/live/212738whatsapp/NbmrdFgSHyup/d06b40f0-5a25-4577-9448-20a40fcb65b9.m3u
-#EXTINF:-1 tvg-name="UK: Sky Sports Box Office" tvg-logo="" group-title="sports",UK: Sky Sports Box Office
-http://vewora.com:8080/live/212738whatsapp/NbmrdFgSHyup/9b838c9f-e064-4de6-a9f1-08d5c89be44f.m3u
 #EXTINF:-1 tvg-name="CA: beIN Sports Canada HD" tvg-logo="" group-title="sports",CA: beIN Sports Canada HD
 http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/101580
 #EXTINF:-1 tvg-name="USA: beIN Sports 04 HD" tvg-logo="" group-title="sports",USA: beIN Sports 04 HD
@@ -839,163 +999,3 @@ http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/101585
 http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/101586
 #EXTINF:-1 tvg-name="USA: beIN Sports 06 HD" tvg-logo="" group-title="sports",USA: beIN Sports 06 HD
 http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/101587
-#EXTINF:-1 tvg-name="USA: beIN Sports 07 HD" tvg-logo="" group-title="sports",USA: beIN Sports 07 HD
-http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/101588
-#EXTINF:-1 tvg-name="USA: beIN Sports 08 HD" tvg-logo="" group-title="sports",USA: beIN Sports 08 HD
-http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/101589
-#EXTINF:-1 tvg-name="AR: bein Sports 1 (ENG) SD" tvg-logo="" group-title="sports",AR: bein Sports 1 (ENG) SD
-http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/101668
-#EXTINF:-1 tvg-name="AR: bein Sports 2 (ENG) SD" tvg-logo="" group-title="sports",AR: bein Sports 2 (ENG) SD
-http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/101674
-#EXTINF:-1 tvg-name="AR: bein Sports 3 (ENG) SD" tvg-logo="" group-title="sports",AR: bein Sports 3 (ENG) SD
-http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/101686
-#EXTINF:-1 tvg-name="EN: Bein Sport 12 FHD" tvg-logo="" group-title="sports",EN: Bein Sport 12 FHD
-http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/101767
-#EXTINF:-1 tvg-name="ESPN Extra 8" tvg-logo="" group-title="sports",ESPN Extra 8
-http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/152525
-#EXTINF:-1 tvg-name="ESPN Extra 9" tvg-logo="" group-title="sports",ESPN Extra 9
-http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/152526
-#EXTINF:-1 tvg-name="ESPN Extra 1 - FC Sion - AJAX" tvg-logo="" group-title="sports",ESPN Extra 1 - FC Sion - AJAX
-http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/104824
-#EXTINF:-1 tvg-name="ESPN Extra 2 - FC Sion - AJAX BACKUP" tvg-logo="" group-title="sports",ESPN Extra 2 - FC Sion - AJAX BACKUP
-http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/104825
-#EXTINF:-1 tvg-name="ESPN Extra 3" tvg-logo="" group-title="sports",ESPN Extra 3
-http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/104826
-#EXTINF:-1 tvg-name="ESPN Extra 4" tvg-logo="" group-title="sports",ESPN Extra 4
-http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/104827
-#EXTINF:-1 tvg-name="ESPN Extra 5" tvg-logo="" group-title="sports",ESPN Extra 5
-http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/104828
-#EXTINF:-1 tvg-name="ESPN Extra 6" tvg-logo="" group-title="sports",ESPN Extra 6
-http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/104829
-#EXTINF:-1 tvg-name="ESPN Extra 7" tvg-logo="" group-title="sports",ESPN Extra 7
-http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/104830
-#EXTINF:-1 tvg-name="2026-11-12 00:50 - NBA Gamepass 1 : Cavaliers @ Knicks - FEED: ESPN (In-Arena)" tvg-logo="" group-title="sports",2026-11-12 00:50 - NBA Gamepass 1 : Cavaliers @ Knicks - FEED: ESPN (In-Arena)
-http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/139163
-#EXTINF:-1 tvg-name="2026-11-12 03:20 - NBA Gamepass 17 : Warriors @ Rockets - FEED: ESPN (In-Arena)" tvg-logo="" group-title="sports",2026-11-12 03:20 - NBA Gamepass 17 : Warriors @ Rockets - FEED: ESPN (In-Arena)
-http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/157150
-#EXTINF:-1 tvg-name="2026-11-05 03:20 - NBA Gamepass 23 : Mavericks @ Spurs - FEED: ESPN (In-Arena)" tvg-logo="" group-title="sports",2026-11-05 03:20 - NBA Gamepass 23 : Mavericks @ Spurs - FEED: ESPN (In-Arena)
-http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/157194
-#EXTINF:-1 tvg-name="USA: Altitude Sports 2" tvg-logo="" group-title="sports",USA: Altitude Sports 2
-http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/194641
-#EXTINF:-1 tvg-name="USA: Barstool Sports" tvg-logo="" group-title="sports",USA: Barstool Sports
-http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/194662
-#EXTINF:-1 tvg-name="USA: Bek Sports East" tvg-logo="" group-title="sports",USA: Bek Sports East
-http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/194677
-#EXTINF:-1 tvg-name="USA: Bek Sports West" tvg-logo="" group-title="sports",USA: Bek Sports West
-http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/194678
-#EXTINF:-1 tvg-name="USA: CBS Sports Golazo" tvg-logo="" group-title="sports",USA: CBS Sports Golazo
-http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/194890
-#EXTINF:-1 tvg-name="USA: Chicago Sports Network Plus" tvg-logo="" group-title="sports",USA: Chicago Sports Network Plus
-http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/194940
-#EXTINF:-1 tvg-name="USA: Chicago Sports Network" tvg-logo="" group-title="sports",USA: Chicago Sports Network
-http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/194941
-#EXTINF:-1 tvg-name="USA: ESPN2" tvg-logo="" group-title="sports",USA: ESPN2
-http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/195148
-#EXTINF:-1 tvg-name="USA: ESPNews" tvg-logo="" group-title="sports",USA: ESPNews
-http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/195150
-#EXTINF:-1 tvg-name="USA: FanDuel Sports Network Cincinnati Extra" tvg-logo="" group-title="sports",USA: FanDuel Sports Network Cincinnati Extra
-http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/195157
-#EXTINF:-1 tvg-name="USA: FanDuel Sports Network Cincinnati" tvg-logo="" group-title="sports",USA: FanDuel Sports Network Cincinnati
-http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/195158
-#EXTINF:-1 tvg-name="USA: FanDuel Sports Network Detroit Plus" tvg-logo="" group-title="sports",USA: FanDuel Sports Network Detroit Plus
-http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/195159
-#EXTINF:-1 tvg-name="USA: FanDuel Sports Network Detroit" tvg-logo="" group-title="sports",USA: FanDuel Sports Network Detroit
-http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/195160
-#EXTINF:-1 tvg-name="USA: FanDuel Sports Network Florida" tvg-logo="" group-title="sports",USA: FanDuel Sports Network Florida
-http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/195161
-#EXTINF:-1 tvg-name="USA: FanDuel Sports Network Indiana Plus" tvg-logo="" group-title="sports",USA: FanDuel Sports Network Indiana Plus
-http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/195162
-#EXTINF:-1 tvg-name="USA: FanDuel Sports Network Indiana" tvg-logo="" group-title="sports",USA: FanDuel Sports Network Indiana
-http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/195163
-#EXTINF:-1 tvg-name="USA: FanDuel Sports Network Kansas City Extra" tvg-logo="" group-title="sports",USA: FanDuel Sports Network Kansas City Extra
-http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/195164
-#EXTINF:-1 tvg-name="USA: FanDuel Sports Network Kansas City" tvg-logo="" group-title="sports",USA: FanDuel Sports Network Kansas City
-http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/195165
-#EXTINF:-1 tvg-name="USA: FanDuel Sports Network Midwest Plus" tvg-logo="" group-title="sports",USA: FanDuel Sports Network Midwest Plus
-http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/195166
-#EXTINF:-1 tvg-name="USA: FanDuel Sports Network Midwest" tvg-logo="" group-title="sports",USA: FanDuel Sports Network Midwest
-http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/195167
-#EXTINF:-1 tvg-name="USA: FanDuel Sports Network New Orleans" tvg-logo="" group-title="sports",USA: FanDuel Sports Network New Orleans
-http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/195168
-#EXTINF:-1 tvg-name="USA: FanDuel Sports Network North Plus" tvg-logo="" group-title="sports",USA: FanDuel Sports Network North Plus
-http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/195169
-#EXTINF:-1 tvg-name="USA: FanDuel Sports Network North" tvg-logo="" group-title="sports",USA: FanDuel Sports Network North
-http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/195170
-#EXTINF:-1 tvg-name="USA: FanDuel Sports Network Ohio Plus" tvg-logo="" group-title="sports",USA: FanDuel Sports Network Ohio Plus
-http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/195171
-#EXTINF:-1 tvg-name="USA: FanDuel Sports Network Ohio" tvg-logo="" group-title="sports",USA: FanDuel Sports Network Ohio
-http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/195172
-#EXTINF:-1 tvg-name="USA: FanDuel Sports Network Oklahoma Plus" tvg-logo="" group-title="sports",USA: FanDuel Sports Network Oklahoma Plus
-http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/195173
-#EXTINF:-1 tvg-name="USA: FanDuel Sports Network Oklahoma" tvg-logo="" group-title="sports",USA: FanDuel Sports Network Oklahoma
-http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/195174
-#EXTINF:-1 tvg-name="USA: FanDuel Sports Network SoCal Plus" tvg-logo="" group-title="sports",USA: FanDuel Sports Network SoCal Plus
-http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/195175
-#EXTINF:-1 tvg-name="USA: FanDuel Sports Network SoCal" tvg-logo="" group-title="sports",USA: FanDuel Sports Network SoCal
-http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/195176
-#EXTINF:-1 tvg-name="USA: FanDuel Sports Network South Plus" tvg-logo="" group-title="sports",USA: FanDuel Sports Network South Plus
-http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/195177
-#EXTINF:-1 tvg-name="USA: FanDuel Sports Network Southeast Plus" tvg-logo="" group-title="sports",USA: FanDuel Sports Network Southeast Plus
-http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/195178
-#EXTINF:-1 tvg-name="USA: FanDuel Sports Network Southeast" tvg-logo="" group-title="sports",USA: FanDuel Sports Network Southeast
-http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/195179
-#EXTINF:-1 tvg-name="USA: FanDuel Sports Network Southwest Extra" tvg-logo="" group-title="sports",USA: FanDuel Sports Network Southwest Extra
-http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/195180
-#EXTINF:-1 tvg-name="USA: FanDuel Sports Network Southwest Plus" tvg-logo="" group-title="sports",USA: FanDuel Sports Network Southwest Plus
-http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/195181
-#EXTINF:-1 tvg-name="USA: FanDuel Sports Network Southwest" tvg-logo="" group-title="sports",USA: FanDuel Sports Network Southwest
-http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/195182
-#EXTINF:-1 tvg-name="USA: FanDuel Sports Network South" tvg-logo="" group-title="sports",USA: FanDuel Sports Network South
-http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/195183
-#EXTINF:-1 tvg-name="USA: FanDuel Sports Network Sun" tvg-logo="" group-title="sports",USA: FanDuel Sports Network Sun
-http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/195184
-#EXTINF:-1 tvg-name="USA: FanDuel Sports Network West" tvg-logo="" group-title="sports",USA: FanDuel Sports Network West
-http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/195185
-#EXTINF:-1 tvg-name="USA: FanDuel Sports Network Wisconsin Extra" tvg-logo="" group-title="sports",USA: FanDuel Sports Network Wisconsin Extra
-http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/195186
-#EXTINF:-1 tvg-name="USA: FanDuel Sports Network Wisconsin" tvg-logo="" group-title="sports",USA: FanDuel Sports Network Wisconsin
-http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/195187
-#EXTINF:-1 tvg-name="USA: KBP Sports HD" tvg-logo="" group-title="sports",USA: KBP Sports HD
-http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/195476
-#EXTINF:-1 tvg-name="USA: MMA Junkie HD" tvg-logo="" group-title="sports",USA: MMA Junkie HD
-http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/195506
-#EXTINF:-1 tvg-name="USA: Monumental Sports Network 2" tvg-logo="" group-title="sports",USA: Monumental Sports Network 2
-http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/195507
-#EXTINF:-1 tvg-name="UK: Sky Sports 1 SD" tvg-logo="" group-title="sports",UK: Sky Sports 1 SD
-http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/203413
-#EXTINF:-1 tvg-name="UK: Sky Sports 2 SD" tvg-logo="" group-title="sports",UK: Sky Sports 2 SD
-http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/203415
-#EXTINF:-1 tvg-name="UK: Sky Sports Box Office SD (Event only)" tvg-logo="" group-title="sports",UK: Sky Sports Box Office SD (Event only)
-http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/203421
-#EXTINF:-1 tvg-name="UK: Sky Sports plus SD" tvg-logo="" group-title="sports",UK: Sky Sports plus SD
-http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/203445
-#EXTINF:-1 tvg-name="UK: SKY Sport Football HD" tvg-logo="" group-title="sports",UK: SKY Sport Football HD
-http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/203465
-#EXTINF:-1 tvg-name="UK: SKY Sport NEWS SD" tvg-logo="" group-title="sports",UK: SKY Sport NEWS SD
-http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/203476
-#EXTINF:-1 tvg-name="UK: TNT Sport 1 HD 50fps" tvg-logo="" group-title="sports",UK: TNT Sport 1 HD 50fps
-http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/203478
-#EXTINF:-1 tvg-name="UK: TNT Sport 2 HD 50fps" tvg-logo="" group-title="sports",UK: TNT Sport 2 HD 50fps
-http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/203481
-#EXTINF:-1 tvg-name="ESPN Plus 1: 10-11-2026 18:00 LALIGA Tue, 11/10 - LALIGA Highlight Show" tvg-logo="" group-title="sports",ESPN Plus 1: 10-11-2026 18:00 LALIGA Tue, 11/10 - LALIGA Highlight Show
-http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/186947
-#EXTINF:-1 tvg-name="ESPN Plus 2: 10-11-2026 18:00 LALIGA Tue, 11/10 - LALIGA Highlight Show" tvg-logo="" group-title="sports",ESPN Plus 2: 10-11-2026 18:00 LALIGA Tue, 11/10 - LALIGA Highlight Show
-http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/186948
-#EXTINF:-1 tvg-name="ESPN Plus 3: 10-11-2026 20:50 Copa del Rey Tavernes de la Valldigna vs. Valencia CF (Round 1) (Copa del Rey)" tvg-logo="" group-title="sports",ESPN Plus 3: 10-11-2026 20:50 Copa del Rey Tavernes de la Valldigna vs. Valencia CF (Round 1) (Copa del Rey)
-http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/186949
-#EXTINF:-1 tvg-name="ESPN Plus 4: 11-11-2026 02:00 WWE NXT WWE NXT" tvg-logo="" group-title="sports",ESPN Plus 4: 11-11-2026 02:00 WWE NXT WWE NXT
-http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/186950
-#EXTINF:-1 tvg-name="ESPN Plus 5: 08-11-2026 16:05 LALIGA 2 Girona FC vs. Almeria" tvg-logo="" group-title="sports",ESPN Plus 5: 08-11-2026 16:05 LALIGA 2 Girona FC vs. Almeria
-http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/186951
-#EXTINF:-1 tvg-name="ESPN Plus 7: 08-11-2026 16:40 Dutch Eredivisie AZ vs. FC Groningen" tvg-logo="" group-title="sports",ESPN Plus 7: 08-11-2026 16:40 Dutch Eredivisie AZ vs. FC Groningen
-http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/186953
-#EXTINF:-1 tvg-name="ESPN Plus 8: 08-11-2026 18:20 LALIGA 2 Las Palmas vs. Eldense" tvg-logo="" group-title="sports",ESPN Plus 8: 08-11-2026 18:20 LALIGA 2 Las Palmas vs. Eldense
-http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/186954
-#EXTINF:-1 tvg-name="ESPN Plus 9: 08-11-2026 18:20 LALIGA Villarreal CF vs. Getafe CF (Matchday #12)" tvg-logo="" group-title="sports",ESPN Plus 9: 08-11-2026 18:20 LALIGA Villarreal CF vs. Getafe CF (Matchday #12)
-http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/186955
-#EXTINF:-1 tvg-name="ESPN Plus 10: 08-11-2026 18:20 LALIGA Celta de Vigo vs. Levante UD (Matchday #12)" tvg-logo="" group-title="sports",ESPN Plus 10: 08-11-2026 18:20 LALIGA Celta de Vigo vs. Levante UD (Matchday #12)
-http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/186956
-#EXTINF:-1 tvg-name="ESPN Plus 11: 08-11-2026 20:30 LALIGA Atletico de Madrid vs. FC Barcelona (Matchday #12)" tvg-logo="" group-title="sports",ESPN Plus 11: 08-11-2026 20:30 LALIGA Atletico de Madrid vs. FC Barcelona (Matchday #12)
-http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/186957
-#EXTINF:-1 tvg-name="ESPN Plus 12: 08-11-2026 23:30 Professional Bull Riders Professional Bull Riders" tvg-logo="" group-title="sports",ESPN Plus 12: 08-11-2026 23:30 Professional Bull Riders Professional Bull Riders
-http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/186958

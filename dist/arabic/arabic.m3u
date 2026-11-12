@@ -10,7 +10,7 @@ http://sts.mydroon.com:8080/9127491274/QDXDbuLzFDYaYbD/74846
 #EXTINF:-1 tvg-name="AR: AL JAZEERA" tvg-logo="" group-title="arabic",AR: AL JAZEERA
 http://31.43.191.125:8080/vip2371775319895/9265b2325e78/6597
 #EXTINF:-1 tvg-name="AR|AL JAZEERA DOCUMENTARY HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTb5fvIX7o5BnAmnaruZ9pCzyaCsVceTUc5q4y3igjM0Ezdy0ug8_I6pQw" group-title="arabic",AR|AL JAZEERA DOCUMENTARY HD
-https://live-hls-web-ajd-ll-bp.thehlive.com/AJD/02.m3u8
+http://31.43.191.125:8080/vip2371775319895/9265b2325e78/6598
 #EXTINF:-1 tvg-name="AR: Al Jazeera Documentry" tvg-logo="" group-title="arabic",AR: Al Jazeera Documentry
 http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/134243
 #EXTINF:-1 tvg-name="AR|AL JAZEERA ATHEER HD" tvg-logo="https://www.pinterest.com/16182afb-5aed-4f40-adf8-995e138f3d48" group-title="arabic",AR|AL JAZEERA ATHEER HD
@@ -35,6 +35,8 @@ http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/133374
 http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/133289
 #EXTINF:-1 tvg-name="AR: Al Hadath | Libya" tvg-logo="" group-title="arabic",AR: Al Hadath | Libya
 http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/133196
+#EXTINF:-1 tvg-name="RADIO | Sky News Arabia Radio" tvg-logo="" group-title="arabic",RADIO | Sky News Arabia Radio
+https://skynetmax.live:8443/play/pF5FbpT1J4mElJjGxGs-cu3y6XFvAOfNEY3wufZiiBw24E1ZINMynEcRUi3mW_i7
 #EXTINF:-1 tvg-name="SKY NEWS ARABIA" tvg-logo="" group-title="arabic",SKY NEWS ARABIA
 http://u8k.pro:2082/893963693051/bHksg68fWnri8/316403
 #EXTINF:-1 tvg-name="SKY NEWS ARABIA (PORTRAIT) (1280P)" tvg-logo="" group-title="arabic",SKY NEWS ARABIA (PORTRAIT) (1280P)
@@ -53,6 +55,32 @@ http://31.43.191.125:8080/vip2371775319895/9265b2325e78/130444
 http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/133300
 #EXTINF:-1 tvg-name="AR|AL MAYADEEN TV" tvg-logo="https://www9.0zz0.com/2020/04/18/22/211575414.jpg" group-title="arabic",AR|AL MAYADEEN TV
 http://sts.mydroon.com:8080/9127491274/QDXDbuLzFDYaYbD/28067
+#EXTINF:-1 tvg-name="BH| MYTV" tvg-logo="" group-title="arabic",BH| MYTV
+http://vewora.com:8080/live/212738whatsapp/NbmrdFgSHyup/00a00e7e-2c9b-4166-872a-cbcf8c9061db.m3u
+#EXTINF:-1 tvg-name="BH: CITY TV" tvg-logo="" group-title="arabic",BH: CITY TV
+http://31.43.191.125:8080/vip2371775319895/9265b2325e78/4110
+#EXTINF:-1 tvg-name="BH| ARENA 1 PREMIUM" tvg-logo="" group-title="arabic",BH| ARENA 1 PREMIUM
+http://vewora.com:8080/live/212738whatsapp/NbmrdFgSHyup/6bf1e5d3-2331-4946-83a0-2dc8a31551dd.m3u
+#EXTINF:-1 tvg-name="BH| ARENA 2 PREMIUM" tvg-logo="" group-title="arabic",BH| ARENA 2 PREMIUM
+http://vewora.com:8080/live/212738whatsapp/NbmrdFgSHyup/5f7f8e31-80ae-4aba-a4b0-9660eea1a292.m3u
+#EXTINF:-1 tvg-name="BH| ARENA 3 PREMIUM" tvg-logo="" group-title="arabic",BH| ARENA 3 PREMIUM
+http://vewora.com:8080/live/212738whatsapp/NbmrdFgSHyup/572750c5-475b-4cd5-b191-cd905968c943.m3u
+#EXTINF:-1 tvg-name="BH| ARENA SPORT 1" tvg-logo="" group-title="arabic",BH| ARENA SPORT 1
+http://vewora.com:8080/live/212738whatsapp/NbmrdFgSHyup/2cf8cf27-fed7-43e8-bdba-890ecfed3c3c.m3u
+#EXTINF:-1 tvg-name="BH: Arena Sport 2" tvg-logo="" group-title="arabic",BH: Arena Sport 2
+http://31.43.191.125:8080/vip2371775319895/9265b2325e78/115068
+#EXTINF:-1 tvg-name="BH: Arena Sport 3" tvg-logo="" group-title="arabic",BH: Arena Sport 3
+http://31.43.191.125:8080/vip2371775319895/9265b2325e78/115064
+#EXTINF:-1 tvg-name="BH| ARENA SPORT 4" tvg-logo="" group-title="arabic",BH| ARENA SPORT 4
+http://vewora.com:8080/live/212738whatsapp/NbmrdFgSHyup/d461c705-1234-4309-a1fd-6f588db52303.m3u
+#EXTINF:-1 tvg-name="BH| ARENA SPORT 5" tvg-logo="" group-title="arabic",BH| ARENA SPORT 5
+http://vewora.com:8080/live/212738whatsapp/NbmrdFgSHyup/32374ce2-240e-434b-aef0-cece40da4db2.m3u
+#EXTINF:-1 tvg-name="BH| ARENA SPORT 6" tvg-logo="" group-title="arabic",BH| ARENA SPORT 6
+http://vewora.com:8080/live/212738whatsapp/NbmrdFgSHyup/067e3244-4427-4dd0-9871-ba5b4db32fc7.m3u
+#EXTINF:-1 tvg-name="BH| NOVA SPORT HD" tvg-logo="" group-title="arabic",BH| NOVA SPORT HD
+http://vewora.com:8080/live/212738whatsapp/NbmrdFgSHyup/fb568867-c744-408a-9d31-044affb06b64.m3u
+#EXTINF:-1 tvg-name="* * * * ARAB * * * *" tvg-logo="" group-title="arabic",* * * * ARAB * * * *
+http://vewora.com:8080/live/212738whatsapp/NbmrdFgSHyup/61c563af-d628-4493-8b4a-1d8fc7e5fa16.m3u
 #EXTINF:-1 tvg-name="AR: BEIN SPORTS 1" tvg-logo="" group-title="arabic",AR: BEIN SPORTS 1
 http://u8k.pro:2082/893963693051/bHksg68fWnri8/831756
 #EXTINF:-1 tvg-name="AR: BEIN SPORTS 2" tvg-logo="" group-title="arabic",AR: BEIN SPORTS 2
@@ -63,6 +91,74 @@ http://u8k.pro:2082/893963693051/bHksg68fWnri8/831758
 http://u8k.pro:2082/893963693051/bHksg68fWnri8/831755
 #EXTINF:-1 tvg-name="AR: BEIN SPORTS 5" tvg-logo="" group-title="arabic",AR: BEIN SPORTS 5
 http://u8k.pro:2082/893963693051/bHksg68fWnri8/831752
+#EXTINF:-1 tvg-name="AR: BEIN SPORTS MAX 1" tvg-logo="" group-title="arabic",AR: BEIN SPORTS MAX 1
+http://31.43.191.125:8080/vip2371775319895/9265b2325e78/835
+#EXTINF:-1 tvg-name="AR: BEIN SPORTS MAX 2" tvg-logo="" group-title="arabic",AR: BEIN SPORTS MAX 2
+http://31.43.191.125:8080/vip2371775319895/9265b2325e78/836
+#EXTINF:-1 tvg-name="AR: BEIN SPORTS MAX 3" tvg-logo="" group-title="arabic",AR: BEIN SPORTS MAX 3
+http://31.43.191.125:8080/vip2371775319895/9265b2325e78/837
+#EXTINF:-1 tvg-name="SD | Cartoon network" tvg-logo="" group-title="arabic",SD | Cartoon network
+https://skynetmax.live:8443/play/pF5FbpT1J4mElJjGxGs-chfjv2lT1GFtQGXA1RF14Qw
+#EXTINF:-1 tvg-name="SD | TLC" tvg-logo="" group-title="arabic",SD | TLC
+https://skynetmax.live:8443/play/pF5FbpT1J4mElJjGxGs-cm3RbtY3-TdYAsOkyd76Ems
+#EXTINF:-1 tvg-name="SD | Animal planet" tvg-logo="" group-title="arabic",SD | Animal planet
+https://skynetmax.live:8443/play/pF5FbpT1J4mElJjGxGs-cn5-5j9PMmcEmmjL7hHCkUU
+#EXTINF:-1 tvg-name="SD | History" tvg-logo="" group-title="arabic",SD | History
+https://skynetmax.live:8443/play/pF5FbpT1J4mElJjGxGs-ciXoBf-q9mCLw6sIpvF_RgY
+#EXTINF:-1 tvg-name="SD | Discovery Kids" tvg-logo="" group-title="arabic",SD | Discovery Kids
+https://skynetmax.live:8443/play/pF5FbpT1J4mElJjGxGs-cj9ydM6_zkmLHlE2mocVI2k
+#EXTINF:-1 tvg-name="SD | Discovery Turbo" tvg-logo="" group-title="arabic",SD | Discovery Turbo
+https://skynetmax.live:8443/play/pF5FbpT1J4mElJjGxGs-cv3GM5ev0goiS3vNXqIRqgA
+#EXTINF:-1 tvg-name="SD | Warner" tvg-logo="" group-title="arabic",SD | Warner
+https://skynetmax.live:8443/play/pF5FbpT1J4mElJjGxGs-cpz1GwDlN5AUc7aaDojaA7Y
+#EXTINF:-1 tvg-name="SD | FX" tvg-logo="" group-title="arabic",SD | FX
+https://skynetmax.live:8443/play/pF5FbpT1J4mElJjGxGs-cs9DbXce-4fY3p_EkTtJYGU
+#EXTINF:-1 tvg-name="SD | Studio Universal" tvg-logo="" group-title="arabic",SD | Studio Universal
+https://skynetmax.live:8443/play/pF5FbpT1J4mElJjGxGs-ck2XLnVquIqM8Lf5bvilxss
+#EXTINF:-1 tvg-name="SD | Nickelodeon" tvg-logo="" group-title="arabic",SD | Nickelodeon
+https://skynetmax.live:8443/play/pF5FbpT1J4mElJjGxGs-cvHc9sNm5UFr0hsgQQh2yWo
+#EXTINF:-1 tvg-name="SD | HBO plus" tvg-logo="" group-title="arabic",SD | HBO plus
+https://skynetmax.live:8443/play/pF5FbpT1J4mElJjGxGs-crI8u3s9eJ_BQ4FGZhobf84
+#EXTINF:-1 tvg-name="SD | Discovery science" tvg-logo="" group-title="arabic",SD | Discovery science
+https://skynetmax.live:8443/play/pF5FbpT1J4mElJjGxGs-cgXj5aLyfe7-TVoU67HDlCE
+#EXTINF:-1 tvg-name="SD | Food Network" tvg-logo="" group-title="arabic",SD | Food Network
+https://skynetmax.live:8443/play/pF5FbpT1J4mElJjGxGs-cuYf8ZR-tv9oVQu7OdwEM-o
+#EXTINF:-1 tvg-name="SD | Tooncast" tvg-logo="" group-title="arabic",SD | Tooncast
+https://skynetmax.live:8443/play/pF5FbpT1J4mElJjGxGs-ci0xkbSupB2_QUs2SOzgP-M
+#EXTINF:-1 tvg-name="SD | Disney Junior" tvg-logo="" group-title="arabic",SD | Disney Junior
+https://skynetmax.live:8443/play/pF5FbpT1J4mElJjGxGs-cgHpsxtv40cRhvRsgFfG-Sk
+#EXTINF:-1 tvg-name="SD | HBO MUNDI" tvg-logo="" group-title="arabic",SD | HBO MUNDI
+https://skynetmax.live:8443/play/pF5FbpT1J4mElJjGxGs-cm7zggQZJD_vY0hLpKbm82A
+#EXTINF:-1 tvg-name="SD | A&E" tvg-logo="" group-title="arabic",SD | A&E
+https://skynetmax.live:8443/play/pF5FbpT1J4mElJjGxGs-cmvTWMSkhq-d7Uv7I_vHnGg
+#EXTINF:-1 tvg-name="SD | CINECANAL" tvg-logo="" group-title="arabic",SD | CINECANAL
+https://skynetmax.live:8443/play/pF5FbpT1J4mElJjGxGs-cg3X0gfXopw1NTwh0wQLxf0
+#EXTINF:-1 tvg-name="SD | TNT Series" tvg-logo="" group-title="arabic",SD | TNT Series
+https://skynetmax.live:8443/play/pF5FbpT1J4mElJjGxGs-ch5SjeNC0Y0av5_266dNtds
+#EXTINF:-1 tvg-name="SD | DE PELICULA" tvg-logo="" group-title="arabic",SD | DE PELICULA
+https://skynetmax.live:8443/play/pF5FbpT1J4mElJjGxGs-couqN7FwXZnGtL04vlik-_0
+#EXTINF:-1 tvg-name="SD | AXN" tvg-logo="" group-title="arabic",SD | AXN
+https://skynetmax.live:8443/play/pF5FbpT1J4mElJjGxGs-cohH0kbwD0Ew8wBejx8WZR8
+#EXTINF:-1 tvg-name="SD | GOLDEN" tvg-logo="" group-title="arabic",SD | GOLDEN
+https://skynetmax.live:8443/play/pF5FbpT1J4mElJjGxGs-ct-LVqxKwJaIunB8ljFuyHM
+#EXTINF:-1 tvg-name="SD | GOLDEN PLUS" tvg-logo="" group-title="arabic",SD | GOLDEN PLUS
+https://skynetmax.live:8443/play/pF5FbpT1J4mElJjGxGs-cr7usULcAX6yZrWuaNhHBoE
+#EXTINF:-1 tvg-name="SD | Discovery Home & Health" tvg-logo="" group-title="arabic",SD | Discovery Home & Health
+https://skynetmax.live:8443/play/pF5FbpT1J4mElJjGxGs-ciMwQHswvseUmpfdKzLQY8k
+#EXTINF:-1 tvg-name="SD | Tlnovelas" tvg-logo="" group-title="arabic",SD | Tlnovelas
+https://skynetmax.live:8443/play/pF5FbpT1J4mElJjGxGs-cvM3MWd24GqAqP4c8nSeFXo
+#EXTINF:-1 tvg-name="MTA3 Al-Arabia (1080p)" tvg-logo="" group-title="arabic",MTA3 Al-Arabia (1080p)
+https://skynetmax.live:8443/play/pF5FbpT1J4mElJjGxGs-ch8txpbUAdJ3sYqQbk-RrxMxPaX71LwuoPLduhsgyDo_
+#EXTINF:-1 tvg-name="RADIO | Rotana Radio Jordan" tvg-logo="" group-title="arabic",RADIO | Rotana Radio Jordan
+https://skynetmax.live:8443/play/pF5FbpT1J4mElJjGxGs-ckPiJN-CWj-AzM2lJmY5lzfFEn0bPnFkkC8EJDU6m9JS
+#EXTINF:-1 tvg-name="AR | CIUDAD MAGAZINE" tvg-logo="" group-title="arabic",AR | CIUDAD MAGAZINE
+https://skynetmax.live:8443/play/pF5FbpT1J4mElJjGxGs-cotEYRlu-huabH4aBzXXDxWBpM845Fbcffdq9zrE7so9
+#EXTINF:-1 tvg-name="18:00 - NCAA Basket - Morgan St vs. UMBC" tvg-logo="" group-title="arabic",18:00 - NCAA Basket - Morgan St vs. UMBC
+https://skynetmax.live:8443/play/pF5FbpT1J4mElJjGxGs-cgG0c-bX1bZ7eUNCgWkMkJyMCrRPG0mBd8dewjEKu024
+#EXTINF:-1 tvg-name="Lawrence de Arabia (1962)" tvg-logo="" group-title="arabic",Lawrence de Arabia (1962)
+https://skynetmax.live:8443/play/-tJpc4XzwYN9MYnMyPd6JAARYe-GgbnOsM_Xc3a4H2FyeSqMJ6UZ6JuwIacFJNmp
+#EXTINF:-1 tvg-name="Hombres G - Lawrence De Arabia" tvg-logo="" group-title="arabic",Hombres G - Lawrence De Arabia
+https://skynetmax.live:8443/play/-tJpc4XzwYN9MYnMyPd6JN0mzmrz6iGTUDh7Ab_Aema5Ff9NYhvdGyPWRu4M8peV
 #EXTINF:-1 tvg-name="AR: BEIN SPORTS 6" tvg-logo="" group-title="arabic",AR: BEIN SPORTS 6
 http://u8k.pro:2082/893963693051/bHksg68fWnri8/831753
 #EXTINF:-1 tvg-name="AR: BEIN SPORTS 7" tvg-logo="" group-title="arabic",AR: BEIN SPORTS 7
@@ -73,12 +169,6 @@ http://31.43.191.125:8080/vip2371775319895/9265b2325e78/853
 http://31.43.191.125:8080/vip2371775319895/9265b2325e78/854
 #EXTINF:-1 tvg-name="AR: BEIN SPORTS PREMIUM 3" tvg-logo="" group-title="arabic",AR: BEIN SPORTS PREMIUM 3
 http://31.43.191.125:8080/vip2371775319895/9265b2325e78/855
-#EXTINF:-1 tvg-name="AR: BEIN SPORTS MAX 1" tvg-logo="" group-title="arabic",AR: BEIN SPORTS MAX 1
-http://31.43.191.125:8080/vip2371775319895/9265b2325e78/835
-#EXTINF:-1 tvg-name="AR: BEIN SPORTS MAX 2" tvg-logo="" group-title="arabic",AR: BEIN SPORTS MAX 2
-http://31.43.191.125:8080/vip2371775319895/9265b2325e78/836
-#EXTINF:-1 tvg-name="AR: BEIN SPORTS MAX 3" tvg-logo="" group-title="arabic",AR: BEIN SPORTS MAX 3
-http://31.43.191.125:8080/vip2371775319895/9265b2325e78/837
 #EXTINF:-1 tvg-name="AR: BEIN SPORTS MAX 4" tvg-logo="" group-title="arabic",AR: BEIN SPORTS MAX 4
 http://31.43.191.125:8080/vip2371775319895/9265b2325e78/838
 #EXTINF:-1 tvg-name="AR: BEIN SPORTS MAX 6" tvg-logo="" group-title="arabic",AR: BEIN SPORTS MAX 6
@@ -129,8 +219,6 @@ http://31.43.191.125:8080/vip2371775319895/9265b2325e78/4099
 http://31.43.191.125:8080/vip2371775319895/9265b2325e78/4100
 #EXTINF:-1 tvg-name="BH: ATV ALTERNATIVNA" tvg-logo="" group-title="arabic",BH: ATV ALTERNATIVNA
 http://31.43.191.125:8080/vip2371775319895/9265b2325e78/4102
-#EXTINF:-1 tvg-name="BH: AXN" tvg-logo="" group-title="arabic",BH: AXN
-http://31.43.191.125:8080/vip2371775319895/9265b2325e78/4103
 #EXTINF:-1 tvg-name="BH: BHT 1" tvg-logo="" group-title="arabic",BH: BHT 1
 http://31.43.191.125:8080/vip2371775319895/9265b2325e78/4104
 #EXTINF:-1 tvg-name="BH: BN TV" tvg-logo="" group-title="arabic",BH: BN TV
@@ -143,12 +231,8 @@ http://31.43.191.125:8080/vip2371775319895/9265b2325e78/4107
 http://31.43.191.125:8080/vip2371775319895/9265b2325e78/4108
 #EXTINF:-1 tvg-name="BH: CINEMAX 2" tvg-logo="" group-title="arabic",BH: CINEMAX 2
 http://31.43.191.125:8080/vip2371775319895/9265b2325e78/4109
-#EXTINF:-1 tvg-name="BH: CITY TV" tvg-logo="" group-title="arabic",BH: CITY TV
-http://31.43.191.125:8080/vip2371775319895/9265b2325e78/4110
 #EXTINF:-1 tvg-name="BH: CMC" tvg-logo="" group-title="arabic",BH: CMC
 http://31.43.191.125:8080/vip2371775319895/9265b2325e78/4111
-#EXTINF:-1 tvg-name="BH: DISCOVERY SCIENCE" tvg-logo="" group-title="arabic",BH: DISCOVERY SCIENCE
-http://31.43.191.125:8080/vip2371775319895/9265b2325e78/4112
 #EXTINF:-1 tvg-name="BH: DIVA" tvg-logo="" group-title="arabic",BH: DIVA
 http://31.43.191.125:8080/vip2371775319895/9265b2325e78/4113
 #EXTINF:-1 tvg-name="BH: DUGA TV" tvg-logo="" group-title="arabic",BH: DUGA TV
@@ -209,8 +293,6 @@ http://31.43.191.125:8080/vip2371775319895/9265b2325e78/4140
 http://31.43.191.125:8080/vip2371775319895/9265b2325e78/4141
 #EXTINF:-1 tvg-name="BH: N1" tvg-logo="" group-title="arabic",BH: N1
 http://31.43.191.125:8080/vip2371775319895/9265b2325e78/4142
-#EXTINF:-1 tvg-name="BH: NICKELODEON" tvg-logo="" group-title="arabic",BH: NICKELODEON
-http://31.43.191.125:8080/vip2371775319895/9265b2325e78/4143
 #EXTINF:-1 tvg-name="BH: NOVA BH" tvg-logo="" group-title="arabic",BH: NOVA BH
 http://31.43.191.125:8080/vip2371775319895/9265b2325e78/4144
 #EXTINF:-1 tvg-name="BH: NTV 101" tvg-logo="" group-title="arabic",BH: NTV 101
@@ -295,10 +377,6 @@ http://31.43.191.125:8080/vip2371775319895/9265b2325e78/115060
 http://31.43.191.125:8080/vip2371775319895/9265b2325e78/115061
 #EXTINF:-1 tvg-name="BH: Arena Sport" tvg-logo="" group-title="arabic",BH: Arena Sport
 http://31.43.191.125:8080/vip2371775319895/9265b2325e78/115063
-#EXTINF:-1 tvg-name="BH: Arena Sport 2" tvg-logo="" group-title="arabic",BH: Arena Sport 2
-http://31.43.191.125:8080/vip2371775319895/9265b2325e78/115068
-#EXTINF:-1 tvg-name="BH: Arena Sport 3" tvg-logo="" group-title="arabic",BH: Arena Sport 3
-http://31.43.191.125:8080/vip2371775319895/9265b2325e78/115064
 #EXTINF:-1 tvg-name="BH: Arena Sport Premium 1" tvg-logo="" group-title="arabic",BH: Arena Sport Premium 1
 http://31.43.191.125:8080/vip2371775319895/9265b2325e78/115065
 #EXTINF:-1 tvg-name="BH: Arena Sport Premium 2" tvg-logo="" group-title="arabic",BH: Arena Sport Premium 2
@@ -580,7 +658,7 @@ http://31.43.191.125:8080/vip2371775319895/9265b2325e78/6496
 #EXTINF:-1 tvg-name="AR: OSN NAT GEO" tvg-logo="" group-title="arabic",AR: OSN NAT GEO
 http://31.43.191.125:8080/vip2371775319895/9265b2325e78/6497
 #EXTINF:-1 tvg-name="AR: OSN NAT GEO WILD" tvg-logo="" group-title="arabic",AR: OSN NAT GEO WILD
-http://31.43.191.125:8080/VIP01191707897388004/947624c017db/6498
+http://31.43.191.125:8080/vip2371775319895/9265b2325e78/6498
 #EXTINF:-1 tvg-name="AR: OSN NICK JR" tvg-logo="" group-title="arabic",AR: OSN NICK JR
 http://31.43.191.125:8080/vip2371775319895/9265b2325e78/6499
 #EXTINF:-1 tvg-name="AR: OSN NICKELODEON" tvg-logo="" group-title="arabic",AR: OSN NICKELODEON
@@ -678,7 +756,7 @@ http://31.43.191.125:8080/vip2371775319895/9265b2325e78/6547
 #EXTINF:-1 tvg-name="AR|Palestine Live" tvg-logo="" group-title="arabic",AR|Palestine Live
 http://u8k.pro:2082/893963693051/bHksg68fWnri8/125979
 #EXTINF:-1 tvg-name="AR: PALESTINE NEWS" tvg-logo="" group-title="arabic",AR: PALESTINE NEWS
-http://31.43.191.125:8080/vip2371775319895/9265b2325e78/6549
+http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/134111
 #EXTINF:-1 tvg-name="AR: PALESTINE SPORT" tvg-logo="" group-title="arabic",AR: PALESTINE SPORT
 http://u8k.pro:2082/893963693051/bHksg68fWnri8/125990
 #EXTINF:-1 tvg-name="AR|Palestine Today" tvg-logo="" group-title="arabic",AR|Palestine Today
@@ -1244,7 +1322,7 @@ http://31.43.191.125:8080/vip2371775319895/9265b2325e78/6839
 #EXTINF:-1 tvg-name="AR: SYRIA MEDICAL TV" tvg-logo="" group-title="arabic",AR: SYRIA MEDICAL TV
 http://31.43.191.125:8080/vip2371775319895/9265b2325e78/6840
 #EXTINF:-1 tvg-name="AR: SYRIA NEWS" tvg-logo="" group-title="arabic",AR: SYRIA NEWS
-http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/134114
+http://31.43.191.125:8080/vip2371775319895/9265b2325e78/6841
 #EXTINF:-1 tvg-name="AR: SYRIA SAMA" tvg-logo="" group-title="arabic",AR: SYRIA SAMA
 http://31.43.191.125:8080/vip2371775319895/9265b2325e78/6842
 #EXTINF:-1 tvg-name="AR: SYRIA SATELLITE TV" tvg-logo="" group-title="arabic",AR: SYRIA SATELLITE TV
@@ -1467,8 +1545,6 @@ http://31.43.191.125:8080/vip2371775319895/9265b2325e78/6952
 http://31.43.191.125:8080/vip2371775319895/9265b2325e78/6953
 #EXTINF:-1 tvg-name="AR: BERBERE MUSIC" tvg-logo="" group-title="arabic",AR: BERBERE MUSIC
 http://31.43.191.125:8080/vip2371775319895/9265b2325e78/6954
-#EXTINF:-1 tvg-name="AR: CARTOON NETWORK" tvg-logo="" group-title="arabic",AR: CARTOON NETWORK
-http://31.43.191.125:8080/vip2371775319895/9265b2325e78/6955
 #EXTINF:-1 tvg-name="AR: ADEN TV" tvg-logo="" group-title="arabic",AR: ADEN TV
 http://31.43.191.125:8080/vip2371775319895/9265b2325e78/6956
 #EXTINF:-1 tvg-name="AR: AFAGH" tvg-logo="" group-title="arabic",AR: AFAGH
@@ -2396,7 +2472,7 @@ http://31.43.191.125:8080/vip2371775319895/9265b2325e78/130561
 #EXTINF:-1 tvg-name="AR-PLS: PALESTINE LIVE" tvg-logo="" group-title="arabic",AR-PLS: PALESTINE LIVE
 http://31.43.191.125:8080/vip2371775319895/9265b2325e78/130563
 #EXTINF:-1 tvg-name="AR-PLS: PALESTINE NEWS" tvg-logo="" group-title="arabic",AR-PLS: PALESTINE NEWS
-http://31.43.191.125:8080/vip2371775319895/9265b2325e78/130565
+http://31.43.191.125:8080/vip2371775319895/9265b2325e78/130564
 #EXTINF:-1 tvg-name="AR-PLS: PALESTINE TODAY" tvg-logo="" group-title="arabic",AR-PLS: PALESTINE TODAY
 http://31.43.191.125:8080/vip2371775319895/9265b2325e78/130566
 #EXTINF:-1 tvg-name="AR-PLS: PALESTINE TV" tvg-logo="" group-title="arabic",AR-PLS: PALESTINE TV
@@ -2950,7 +3026,7 @@ http://31.43.191.125:8080/vip2371775319895/9265b2325e78/130880
 #EXTINF:-1 tvg-name="AR|OSN: CINEMA 2" tvg-logo="" group-title="arabic",AR|OSN: CINEMA 2
 http://31.43.191.125:8080/vip2371775319895/9265b2325e78/130882
 #EXTINF:-1 tvg-name="AR|OSN: DISCOVERY SC" tvg-logo="" group-title="arabic",AR|OSN: DISCOVERY SC
-http://31.43.191.125:8080/VIP01191707897388004/947624c017db/130886
+http://31.43.191.125:8080/vip2371775319895/9265b2325e78/130886
 #EXTINF:-1 tvg-name="AR|OSN: E! HD" tvg-logo="" group-title="arabic",AR|OSN: E! HD
 http://31.43.191.125:8080/vip2371775319895/9265b2325e78/130887
 #EXTINF:-1 tvg-name="AR|OSN: HIKAYAT 1" tvg-logo="" group-title="arabic",AR|OSN: HIKAYAT 1
@@ -3328,7 +3404,7 @@ http://u8k.pro:2082/893963693051/bHksg68fWnri8/50740
 #EXTINF:-1 tvg-name="CGTN-ARABIC" tvg-logo="" group-title="arabic",CGTN-ARABIC
 http://u8k.pro:2082/893963693051/bHksg68fWnri8/63477
 #EXTINF:-1 tvg-name="AR|CGTN ARABIC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/97/CGTN_arabic.png" group-title="arabic",AR|CGTN ARABIC
-http://u8k.pro:2082/893963693051/bHksg68fWnri8/316373
+http://sts.mydroon.com:8080/9127491274/QDXDbuLzFDYaYbD/74466
 #EXTINF:-1 tvg-name="ALARABIYA 4K" tvg-logo="" group-title="arabic",ALARABIYA 4K
 http://u8k.pro:2082/893963693051/bHksg68fWnri8/739050
 #EXTINF:-1 tvg-name="ROTANA KHALIJIAH" tvg-logo="" group-title="arabic",ROTANA KHALIJIAH
@@ -4046,7 +4122,7 @@ http://u8k.pro:2082/893963693051/bHksg68fWnri8/32437
 #EXTINF:-1 tvg-name="EG| MIX.HOLLYWOOD" tvg-logo="" group-title="arabic",EG| MIX.HOLLYWOOD
 http://u8k.pro:2082/893963693051/bHksg68fWnri8/42672
 #EXTINF:-1 tvg-name="AR|MEKAMELEEN TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/45/%D9%82%D9%86%D8%A7%D8%A9_%D9%85%D9%83%D9%85%D9%84%D9%8A%D9%86.jpg" group-title="arabic",AR|MEKAMELEEN TV HD
-http://u8k.pro:2082/893963693051/bHksg68fWnri8/67082
+http://sts.mydroon.com:8080/9127491274/QDXDbuLzFDYaYbD/72348
 #EXTINF:-1 tvg-name="EG| NILE.CULTURE" tvg-logo="" group-title="arabic",EG| NILE.CULTURE
 http://u8k.pro:2082/893963693051/bHksg68fWnri8/166942
 #EXTINF:-1 tvg-name="EG| NILE.DRAMA" tvg-logo="" group-title="arabic",EG| NILE.DRAMA
@@ -4337,26 +4413,6 @@ http://u8k.pro:2082/893963693051/bHksg68fWnri8/704965
 http://u8k.pro:2082/893963693051/bHksg68fWnri8/777588
 #EXTINF:-1 tvg-name="أناشيد دينية" tvg-logo="" group-title="arabic",أناشيد دينية
 http://u8k.pro:2082/893963693051/bHksg68fWnri8/777594
-#EXTINF:-1 tvg-name="BH| MYTV" tvg-logo="" group-title="arabic",BH| MYTV
-http://vewora.com:8080/live/212738whatsapp/NbmrdFgSHyup/00a00e7e-2c9b-4166-872a-cbcf8c9061db.m3u
-#EXTINF:-1 tvg-name="BH| ARENA 1 PREMIUM" tvg-logo="" group-title="arabic",BH| ARENA 1 PREMIUM
-http://vewora.com:8080/live/212738whatsapp/NbmrdFgSHyup/6bf1e5d3-2331-4946-83a0-2dc8a31551dd.m3u
-#EXTINF:-1 tvg-name="BH| ARENA 2 PREMIUM" tvg-logo="" group-title="arabic",BH| ARENA 2 PREMIUM
-http://vewora.com:8080/live/212738whatsapp/NbmrdFgSHyup/5f7f8e31-80ae-4aba-a4b0-9660eea1a292.m3u
-#EXTINF:-1 tvg-name="BH| ARENA 3 PREMIUM" tvg-logo="" group-title="arabic",BH| ARENA 3 PREMIUM
-http://vewora.com:8080/live/212738whatsapp/NbmrdFgSHyup/572750c5-475b-4cd5-b191-cd905968c943.m3u
-#EXTINF:-1 tvg-name="BH| ARENA SPORT 1" tvg-logo="" group-title="arabic",BH| ARENA SPORT 1
-http://vewora.com:8080/live/212738whatsapp/NbmrdFgSHyup/2cf8cf27-fed7-43e8-bdba-890ecfed3c3c.m3u
-#EXTINF:-1 tvg-name="BH| ARENA SPORT 4" tvg-logo="" group-title="arabic",BH| ARENA SPORT 4
-http://vewora.com:8080/live/212738whatsapp/NbmrdFgSHyup/d461c705-1234-4309-a1fd-6f588db52303.m3u
-#EXTINF:-1 tvg-name="BH| ARENA SPORT 5" tvg-logo="" group-title="arabic",BH| ARENA SPORT 5
-http://vewora.com:8080/live/212738whatsapp/NbmrdFgSHyup/32374ce2-240e-434b-aef0-cece40da4db2.m3u
-#EXTINF:-1 tvg-name="BH| ARENA SPORT 6" tvg-logo="" group-title="arabic",BH| ARENA SPORT 6
-http://vewora.com:8080/live/212738whatsapp/NbmrdFgSHyup/067e3244-4427-4dd0-9871-ba5b4db32fc7.m3u
-#EXTINF:-1 tvg-name="BH| NOVA SPORT HD" tvg-logo="" group-title="arabic",BH| NOVA SPORT HD
-http://vewora.com:8080/live/212738whatsapp/NbmrdFgSHyup/fb568867-c744-408a-9d31-044affb06b64.m3u
-#EXTINF:-1 tvg-name="* * * * ARAB * * * *" tvg-logo="" group-title="arabic",* * * * ARAB * * * *
-http://vewora.com:8080/live/212738whatsapp/NbmrdFgSHyup/61c563af-d628-4493-8b4a-1d8fc7e5fa16.m3u
 #EXTINF:-1 tvg-name="AR: beIN Sports 1 PREMIUM SD" tvg-logo="" group-title="arabic",AR: beIN Sports 1 PREMIUM SD
 http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/134277
 #EXTINF:-1 tvg-name="AR: Bein Sports 2 Premium" tvg-logo="" group-title="arabic",AR: Bein Sports 2 Premium
@@ -4875,8 +4931,6 @@ http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/133249
 http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/133936
 #EXTINF:-1 tvg-name="AR: Angel TV | Arabia SD" tvg-logo="" group-title="arabic",AR: Angel TV | Arabia SD
 http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/133380
-#EXTINF:-1 tvg-name="AR: Animal Planet" tvg-logo="" group-title="arabic",AR: Animal Planet
-http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/134242
 #EXTINF:-1 tvg-name="AR: ANN" tvg-logo="" group-title="arabic",AR: ANN
 http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/132983
 #EXTINF:-1 tvg-name="AR: Anointing TV SD" tvg-logo="" group-title="arabic",AR: Anointing TV SD
@@ -5834,7 +5888,7 @@ http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/133770
 #EXTINF:-1 tvg-name="AR: OSN Home Cinema 2 FHD OFFLINE" tvg-logo="" group-title="arabic",AR: OSN Home Cinema 2 FHD OFFLINE
 http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/133771
 #EXTINF:-1 tvg-name="AR: OSN Investigation Discovery HD" tvg-logo="" group-title="arabic",AR: OSN Investigation Discovery HD
-http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/133772
+http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/133773
 #EXTINF:-1 tvg-name="AR: OSN ITV Choice SD OFFLINE" tvg-logo="" group-title="arabic",AR: OSN ITV Choice SD OFFLINE
 http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/133774
 #EXTINF:-1 tvg-name="AR: OSN JimJam SD" tvg-logo="" group-title="arabic",AR: OSN JimJam SD
@@ -5945,57 +5999,3 @@ http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/133880
 http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/133883
 #EXTINF:-1 tvg-name="AR: OSN Ten Cricket" tvg-logo="" group-title="arabic",AR: OSN Ten Cricket
 http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/133885
-#EXTINF:-1 tvg-name="AR: OSN The Movies HD" tvg-logo="" group-title="arabic",AR: OSN The Movies HD
-http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/133886
-#EXTINF:-1 tvg-name="AR: OSN The Movies 2 HD" tvg-logo="" group-title="arabic",AR: OSN The Movies 2 HD
-http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/133887
-#EXTINF:-1 tvg-name="AR: OSN Thriller Movies" tvg-logo="" group-title="arabic",AR: OSN Thriller Movies
-http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/133888
-#EXTINF:-1 tvg-name="AR: OSN Trace urban HD" tvg-logo="" group-title="arabic",AR: OSN Trace urban HD
-http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/133890
-#EXTINF:-1 tvg-name="AR: OSN Travel Channel HD" tvg-logo="" group-title="arabic",AR: OSN Travel Channel HD
-http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/133891
-#EXTINF:-1 tvg-name="AR: OSN VH1" tvg-logo="" group-title="arabic",AR: OSN VH1
-http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/133893
-#EXTINF:-1 tvg-name="AR: OSN W Movies HD" tvg-logo="" group-title="arabic",AR: OSN W Movies HD
-http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/133894
-#EXTINF:-1 tvg-name="AR: OSN WWE Network HD" tvg-logo="" group-title="arabic",AR: OSN WWE Network HD
-http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/133896
-#EXTINF:-1 tvg-name="AR: OSN YA Hala CINEMA HD" tvg-logo="" group-title="arabic",AR: OSN YA Hala CINEMA HD
-http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/133897
-#EXTINF:-1 tvg-name="AR: OSN YA Hala DRAMA HD" tvg-logo="" group-title="arabic",AR: OSN YA Hala DRAMA HD
-http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/133898
-#EXTINF:-1 tvg-name="AR: OSN Ya Hala! Al Oula HD" tvg-logo="" group-title="arabic",AR: OSN Ya Hala! Al Oula HD
-http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/133901
-#EXTINF:-1 tvg-name="AR: OSN YA Hala+2 HD" tvg-logo="" group-title="arabic",AR: OSN YA Hala+2 HD
-http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/133900
-#EXTINF:-1 tvg-name="AR: OSN Yahala Oula HD" tvg-logo="" group-title="arabic",AR: OSN Yahala Oula HD
-http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/133902
-#EXTINF:-1 tvg-name="AR: Oyoon Alwatan" tvg-logo="" group-title="arabic",AR: Oyoon Alwatan
-http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/134237
-#EXTINF:-1 tvg-name="AR: Oyoun Al Watan SD" tvg-logo="" group-title="arabic",AR: Oyoun Al Watan SD
-http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/133440
-#EXTINF:-1 tvg-name="AR: Palestine Live | Palestine" tvg-logo="" group-title="arabic",AR: Palestine Live | Palestine
-http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/133280
-#EXTINF:-1 tvg-name="AR: Palestine Radio SD OFFLINE" tvg-logo="" group-title="arabic",AR: Palestine Radio SD OFFLINE
-http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/133442
-#EXTINF:-1 tvg-name="AR: Palestine Sport | Palestine" tvg-logo="" group-title="arabic",AR: Palestine Sport | Palestine
-http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/133685
-#EXTINF:-1 tvg-name="AR: Palestine Today | Palestine" tvg-logo="" group-title="arabic",AR: Palestine Today | Palestine
-http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/133441
-#EXTINF:-1 tvg-name="AR: Palestine TV | Palestine" tvg-logo="" group-title="arabic",AR: Palestine TV | Palestine
-http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/133281
-#EXTINF:-1 tvg-name="AR: PANORAMA FM" tvg-logo="" group-title="arabic",AR: PANORAMA FM
-http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/133937
-#EXTINF:-1 tvg-name="AR: Panorama | Libya" tvg-logo="" group-title="arabic",AR: Panorama | Libya
-http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/134014
-#EXTINF:-1 tvg-name="AR: Programme National Dz" tvg-logo="" group-title="arabic",AR: Programme National Dz
-http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/134381
-#EXTINF:-1 tvg-name="AR: Qatar TV HD | Qatar" tvg-logo="" group-title="arabic",AR: Qatar TV HD | Qatar
-http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/134028
-#EXTINF:-1 tvg-name="AR: Quaran TV HD" tvg-logo="" group-title="arabic",AR: Quaran TV HD
-http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/133658
-#EXTINF:-1 tvg-name="AR: Quran Kareem Radio" tvg-logo="" group-title="arabic",AR: Quran Kareem Radio
-http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/133443
-#EXTINF:-1 tvg-name="AR: Quran_TV" tvg-logo="" group-title="arabic",AR: Quran_TV
-http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/132942

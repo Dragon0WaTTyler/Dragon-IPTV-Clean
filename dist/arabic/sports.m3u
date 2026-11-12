@@ -1,4 +1,18 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="BH| ARENA SPORT 1" tvg-logo="" group-title="sports",BH| ARENA SPORT 1
+http://vewora.com:8080/live/212738whatsapp/NbmrdFgSHyup/2cf8cf27-fed7-43e8-bdba-890ecfed3c3c.m3u
+#EXTINF:-1 tvg-name="BH: Arena Sport 2" tvg-logo="" group-title="sports",BH: Arena Sport 2
+http://31.43.191.125:8080/vip2371775319895/9265b2325e78/115068
+#EXTINF:-1 tvg-name="BH: Arena Sport 3" tvg-logo="" group-title="sports",BH: Arena Sport 3
+http://31.43.191.125:8080/vip2371775319895/9265b2325e78/115064
+#EXTINF:-1 tvg-name="BH| ARENA SPORT 4" tvg-logo="" group-title="sports",BH| ARENA SPORT 4
+http://vewora.com:8080/live/212738whatsapp/NbmrdFgSHyup/d461c705-1234-4309-a1fd-6f588db52303.m3u
+#EXTINF:-1 tvg-name="BH| ARENA SPORT 5" tvg-logo="" group-title="sports",BH| ARENA SPORT 5
+http://vewora.com:8080/live/212738whatsapp/NbmrdFgSHyup/32374ce2-240e-434b-aef0-cece40da4db2.m3u
+#EXTINF:-1 tvg-name="BH| ARENA SPORT 6" tvg-logo="" group-title="sports",BH| ARENA SPORT 6
+http://vewora.com:8080/live/212738whatsapp/NbmrdFgSHyup/067e3244-4427-4dd0-9871-ba5b4db32fc7.m3u
+#EXTINF:-1 tvg-name="BH| NOVA SPORT HD" tvg-logo="" group-title="sports",BH| NOVA SPORT HD
+http://vewora.com:8080/live/212738whatsapp/NbmrdFgSHyup/fb568867-c744-408a-9d31-044affb06b64.m3u
 #EXTINF:-1 tvg-name="AR: BEIN SPORTS 1" tvg-logo="" group-title="sports",AR: BEIN SPORTS 1
 http://u8k.pro:2082/893963693051/bHksg68fWnri8/831756
 #EXTINF:-1 tvg-name="AR: BEIN SPORTS 2" tvg-logo="" group-title="sports",AR: BEIN SPORTS 2
@@ -9,6 +23,12 @@ http://u8k.pro:2082/893963693051/bHksg68fWnri8/831758
 http://u8k.pro:2082/893963693051/bHksg68fWnri8/831755
 #EXTINF:-1 tvg-name="AR: BEIN SPORTS 5" tvg-logo="" group-title="sports",AR: BEIN SPORTS 5
 http://u8k.pro:2082/893963693051/bHksg68fWnri8/831752
+#EXTINF:-1 tvg-name="AR: BEIN SPORTS MAX 1" tvg-logo="" group-title="sports",AR: BEIN SPORTS MAX 1
+http://31.43.191.125:8080/vip2371775319895/9265b2325e78/835
+#EXTINF:-1 tvg-name="AR: BEIN SPORTS MAX 2" tvg-logo="" group-title="sports",AR: BEIN SPORTS MAX 2
+http://31.43.191.125:8080/vip2371775319895/9265b2325e78/836
+#EXTINF:-1 tvg-name="AR: BEIN SPORTS MAX 3" tvg-logo="" group-title="sports",AR: BEIN SPORTS MAX 3
+http://31.43.191.125:8080/vip2371775319895/9265b2325e78/837
 #EXTINF:-1 tvg-name="AR: BEIN SPORTS 6" tvg-logo="" group-title="sports",AR: BEIN SPORTS 6
 http://u8k.pro:2082/893963693051/bHksg68fWnri8/831753
 #EXTINF:-1 tvg-name="AR: BEIN SPORTS 7" tvg-logo="" group-title="sports",AR: BEIN SPORTS 7
@@ -19,12 +39,6 @@ http://31.43.191.125:8080/vip2371775319895/9265b2325e78/853
 http://31.43.191.125:8080/vip2371775319895/9265b2325e78/854
 #EXTINF:-1 tvg-name="AR: BEIN SPORTS PREMIUM 3" tvg-logo="" group-title="sports",AR: BEIN SPORTS PREMIUM 3
 http://31.43.191.125:8080/vip2371775319895/9265b2325e78/855
-#EXTINF:-1 tvg-name="AR: BEIN SPORTS MAX 1" tvg-logo="" group-title="sports",AR: BEIN SPORTS MAX 1
-http://31.43.191.125:8080/vip2371775319895/9265b2325e78/835
-#EXTINF:-1 tvg-name="AR: BEIN SPORTS MAX 2" tvg-logo="" group-title="sports",AR: BEIN SPORTS MAX 2
-http://31.43.191.125:8080/vip2371775319895/9265b2325e78/836
-#EXTINF:-1 tvg-name="AR: BEIN SPORTS MAX 3" tvg-logo="" group-title="sports",AR: BEIN SPORTS MAX 3
-http://31.43.191.125:8080/vip2371775319895/9265b2325e78/837
 #EXTINF:-1 tvg-name="AR: BEIN SPORTS MAX 4" tvg-logo="" group-title="sports",AR: BEIN SPORTS MAX 4
 http://31.43.191.125:8080/vip2371775319895/9265b2325e78/838
 #EXTINF:-1 tvg-name="AR: BEIN SPORTS MAX 6" tvg-logo="" group-title="sports",AR: BEIN SPORTS MAX 6
@@ -41,10 +55,6 @@ http://u8k.pro:2082/893963693051/bHksg68fWnri8/831759
 http://u8k.pro:2082/893963693051/bHksg68fWnri8/831760
 #EXTINF:-1 tvg-name="BH: Arena Sport" tvg-logo="" group-title="sports",BH: Arena Sport
 http://31.43.191.125:8080/vip2371775319895/9265b2325e78/115063
-#EXTINF:-1 tvg-name="BH: Arena Sport 2" tvg-logo="" group-title="sports",BH: Arena Sport 2
-http://31.43.191.125:8080/vip2371775319895/9265b2325e78/115068
-#EXTINF:-1 tvg-name="BH: Arena Sport 3" tvg-logo="" group-title="sports",BH: Arena Sport 3
-http://31.43.191.125:8080/vip2371775319895/9265b2325e78/115064
 #EXTINF:-1 tvg-name="BH: Arena Sport Premium 1" tvg-logo="" group-title="sports",BH: Arena Sport Premium 1
 http://31.43.191.125:8080/vip2371775319895/9265b2325e78/115065
 #EXTINF:-1 tvg-name="BH: Arena Sport Premium 2" tvg-logo="" group-title="sports",BH: Arena Sport Premium 2
@@ -261,16 +271,6 @@ http://u8k.pro:2082/893963693051/bHksg68fWnri8/282318
 http://u8k.pro:2082/893963693051/bHksg68fWnri8/282315
 #EXTINF:-1 tvg-name="SA| KSA SPORTS 3 FHD" tvg-logo="" group-title="sports",SA| KSA SPORTS 3 FHD
 http://u8k.pro:2082/893963693051/bHksg68fWnri8/282316
-#EXTINF:-1 tvg-name="BH| ARENA SPORT 1" tvg-logo="" group-title="sports",BH| ARENA SPORT 1
-http://vewora.com:8080/live/212738whatsapp/NbmrdFgSHyup/2cf8cf27-fed7-43e8-bdba-890ecfed3c3c.m3u
-#EXTINF:-1 tvg-name="BH| ARENA SPORT 4" tvg-logo="" group-title="sports",BH| ARENA SPORT 4
-http://vewora.com:8080/live/212738whatsapp/NbmrdFgSHyup/d461c705-1234-4309-a1fd-6f588db52303.m3u
-#EXTINF:-1 tvg-name="BH| ARENA SPORT 5" tvg-logo="" group-title="sports",BH| ARENA SPORT 5
-http://vewora.com:8080/live/212738whatsapp/NbmrdFgSHyup/32374ce2-240e-434b-aef0-cece40da4db2.m3u
-#EXTINF:-1 tvg-name="BH| ARENA SPORT 6" tvg-logo="" group-title="sports",BH| ARENA SPORT 6
-http://vewora.com:8080/live/212738whatsapp/NbmrdFgSHyup/067e3244-4427-4dd0-9871-ba5b4db32fc7.m3u
-#EXTINF:-1 tvg-name="BH| NOVA SPORT HD" tvg-logo="" group-title="sports",BH| NOVA SPORT HD
-http://vewora.com:8080/live/212738whatsapp/NbmrdFgSHyup/fb568867-c744-408a-9d31-044affb06b64.m3u
 #EXTINF:-1 tvg-name="AR: beIN Sports 1 PREMIUM SD" tvg-logo="" group-title="sports",AR: beIN Sports 1 PREMIUM SD
 http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/134277
 #EXTINF:-1 tvg-name="AR: Bein Sports 2 Premium" tvg-logo="" group-title="sports",AR: Bein Sports 2 Premium
