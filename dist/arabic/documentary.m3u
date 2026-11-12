@@ -1,83 +1,111 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="AR| AL JAZEERA DOCUMENTARY" tvg-logo="http://vodkom.com/Logo/ARABNEWS/AL_JAZEERA_DOCUMENTARY.png" group-title="documentary",AR| AL JAZEERA DOCUMENTARY
-http://sansat.cc:88/02040602770386/MZUM69XAsGrYbJj/7374
-#EXTINF:-1 tvg-name="SD | Discovery science" tvg-logo="" group-title="documentary",SD | Discovery science
-https://reborned.cc:8443/play/FtYKMsCP5kDGcqwrA8b7u134f7xS0wPZLIuyNcvJ1ro
+#EXTINF:-1 tvg-name="AR|AL JAZEERA DOCUMENTARY HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTb5fvIX7o5BnAmnaruZ9pCzyaCsVceTUc5q4y3igjM0Ezdy0ug8_I6pQw" group-title="documentary",AR|AL JAZEERA DOCUMENTARY HD
+https://live-hls-web-ajd-ll-bp.thehlive.com/AJD/02.m3u8
+#EXTINF:-1 tvg-name="BH: DISCOVERY SCIENCE" tvg-logo="" group-title="documentary",BH: DISCOVERY SCIENCE
+http://31.43.191.125:8080/vip2371775319895/9265b2325e78/4112
 #EXTINF:-1 tvg-name="AR: OSN DISCOVERY" tvg-logo="" group-title="documentary",AR: OSN DISCOVERY
-http://31.43.191.125:8080/vip9891786472877/d4fe7bf2dee8/6474
+http://31.43.191.125:8080/vip2371775319895/9265b2325e78/6474
 #EXTINF:-1 tvg-name="AR: OSN DISCOVERY SCIENCE" tvg-logo="" group-title="documentary",AR: OSN DISCOVERY SCIENCE
-http://31.43.191.125:8080/JkLSFzavCXNW/EdTWE3FK8Nnz/6476
+http://31.43.191.125:8080/vip2371775319895/9265b2325e78/6476
 #EXTINF:-1 tvg-name="AR: OSN HISTORY" tvg-logo="" group-title="documentary",AR: OSN HISTORY
-http://31.43.191.125:8080/vip9891786472877/d4fe7bf2dee8/6482
+http://31.43.191.125:8080/vip2371775319895/9265b2325e78/6482
 #EXTINF:-1 tvg-name="AR: OSN NAT GEO" tvg-logo="" group-title="documentary",AR: OSN NAT GEO
-http://31.43.191.125:8080/JkLSFzavCXNW/EdTWE3FK8Nnz/6497
+http://31.43.191.125:8080/vip2371775319895/9265b2325e78/6497
 #EXTINF:-1 tvg-name="AR: OSN NAT GEO WILD" tvg-logo="" group-title="documentary",AR: OSN NAT GEO WILD
-http://31.43.191.125:8080/vip9891786472877/d4fe7bf2dee8/6498
+http://31.43.191.125:8080/VIP01191707897388004/947624c017db/6498
 #EXTINF:-1 tvg-name="AR: NAT GEO WILD" tvg-logo="" group-title="documentary",AR: NAT GEO WILD
-http://31.43.191.125:8080/JkLSFzavCXNW/EdTWE3FK8Nnz/6675
-#EXTINF:-1 tvg-name="AR: AD NAT GEO" tvg-logo="" group-title="documentary",AR: AD NAT GEO
-http://31.43.191.125:8080/JkLSFzavCXNW/EdTWE3FK8Nnz/6891
+http://31.43.191.125:8080/vip2371775319895/9265b2325e78/6675
+#EXTINF:-1 tvg-name="AR|AD Nat Geo" tvg-logo="http://kinglogo.newtvhd.com/logoo/IMARAT/NATGEO_AD.png" group-title="documentary",AR|AD Nat Geo
+http://sts.mydroon.com:8080/9127491274/QDXDbuLzFDYaYbD/69264
 #EXTINF:-1 tvg-name="AR|BEIN-TOD: DOCUMENTARY" tvg-logo="" group-title="documentary",AR|BEIN-TOD: DOCUMENTARY
-http://31.43.191.125:8080/JkLSFzavCXNW/EdTWE3FK8Nnz/130701
+http://31.43.191.125:8080/vip2371775319895/9265b2325e78/130701
 #EXTINF:-1 tvg-name="AR|DOCU: AD NATIONAL GEO" tvg-logo="" group-title="documentary",AR|DOCU: AD NATIONAL GEO
-http://31.43.191.125:8080/JkLSFzavCXNW/EdTWE3FK8Nnz/130733
+http://31.43.191.125:8080/vip2371775319895/9265b2325e78/130733
 #EXTINF:-1 tvg-name="AR|DOCU: Al MAJD DOC" tvg-logo="" group-title="documentary",AR|DOCU: Al MAJD DOC
-http://31.43.191.125:8080/JkLSFzavCXNW/EdTWE3FK8Nnz/130734
+http://31.43.191.125:8080/vip2371775319895/9265b2325e78/130734
 #EXTINF:-1 tvg-name="AR|DOCU: ALSHARQ DISCOVERY" tvg-logo="" group-title="documentary",AR|DOCU: ALSHARQ DISCOVERY
-http://31.43.191.125:8080/JkLSFzavCXNW/EdTWE3FK8Nnz/130735
+http://31.43.191.125:8080/vip2371775319895/9265b2325e78/130735
 #EXTINF:-1 tvg-name="AR|DOCU: ALSHARQ DOC" tvg-logo="" group-title="documentary",AR|DOCU: ALSHARQ DOC
-http://31.43.191.125:8080/vip9891786472877/d4fe7bf2dee8/130736
+http://31.43.191.125:8080/vip2371775319895/9265b2325e78/130736
 #EXTINF:-1 tvg-name="AR|DOCU: ALWATHAEQIA" tvg-logo="" group-title="documentary",AR|DOCU: ALWATHAEQIA
-http://31.43.191.125:8080/JkLSFzavCXNW/EdTWE3FK8Nnz/130737
+http://31.43.191.125:8080/vip2371775319895/9265b2325e78/130737
 #EXTINF:-1 tvg-name="AR|DOCU: ALZAJEERA DOC" tvg-logo="" group-title="documentary",AR|DOCU: ALZAJEERA DOC
-http://31.43.191.125:8080/JkLSFzavCXNW/EdTWE3FK8Nnz/130738
+http://31.43.191.125:8080/vip2371775319895/9265b2325e78/130738
 #EXTINF:-1 tvg-name="AR|DOCU: CGTN AR 4K" tvg-logo="" group-title="documentary",AR|DOCU: CGTN AR 4K
-http://31.43.191.125:8080/JkLSFzavCXNW/EdTWE3FK8Nnz/130740
+http://31.43.191.125:8080/vip2371775319895/9265b2325e78/130740
 #EXTINF:-1 tvg-name="AR|DOCU: KARBALA DOC" tvg-logo="" group-title="documentary",AR|DOCU: KARBALA DOC
-http://31.43.191.125:8080/vip9891786472877/d4fe7bf2dee8/130743
+http://31.43.191.125:8080/vip2371775319895/9265b2325e78/130743
 #EXTINF:-1 tvg-name="AR|DOCU: LIBYA DOCUMENTARY" tvg-logo="" group-title="documentary",AR|DOCU: LIBYA DOCUMENTARY
-http://31.43.191.125:8080/JkLSFzavCXNW/EdTWE3FK8Nnz/130744
+http://31.43.191.125:8080/vip2371775319895/9265b2325e78/130744
 #EXTINF:-1 tvg-name="AR|DOCU: WEGO STORIES" tvg-logo="" group-title="documentary",AR|DOCU: WEGO STORIES
-http://31.43.191.125:8080/JkLSFzavCXNW/EdTWE3FK8Nnz/130745
+http://31.43.191.125:8080/vip2371775319895/9265b2325e78/130745
 #EXTINF:-1 tvg-name="AR|OSN: ANIMAL PLANET" tvg-logo="" group-title="documentary",AR|OSN: ANIMAL PLANET
-http://31.43.191.125:8080/JkLSFzavCXNW/EdTWE3FK8Nnz/130875
+http://31.43.191.125:8080/vip2371775319895/9265b2325e78/130875
 #EXTINF:-1 tvg-name="AR|OSN: DISCOVERY SC" tvg-logo="" group-title="documentary",AR|OSN: DISCOVERY SC
-http://31.43.191.125:8080/vip9891786472877/d4fe7bf2dee8/130886
+http://31.43.191.125:8080/VIP01191707897388004/947624c017db/130886
 #EXTINF:-1 tvg-name="AR|OSN: HISTORY 2" tvg-logo="" group-title="documentary",AR|OSN: HISTORY 2
-http://31.43.191.125:8080/JkLSFzavCXNW/EdTWE3FK8Nnz/130891
+http://31.43.191.125:8080/vip2371775319895/9265b2325e78/130891
 #EXTINF:-1 tvg-name="AR|SHAHID: DOCUMENTARY 1" tvg-logo="" group-title="documentary",AR|SHAHID: DOCUMENTARY 1
-http://31.43.191.125:8080/JkLSFzavCXNW/EdTWE3FK8Nnz/130985
+http://31.43.191.125:8080/vip2371775319895/9265b2325e78/130985
 #EXTINF:-1 tvg-name="AR|SHAHID: DOCUMENTARY 2" tvg-logo="" group-title="documentary",AR|SHAHID: DOCUMENTARY 2
-http://31.43.191.125:8080/JkLSFzavCXNW/EdTWE3FK8Nnz/130986
+http://31.43.191.125:8080/vip2371775319895/9265b2325e78/130986
 #EXTINF:-1 tvg-name="AR|SHAHID: NATURE LIFE" tvg-logo="" group-title="documentary",AR|SHAHID: NATURE LIFE
-http://31.43.191.125:8080/JkLSFzavCXNW/EdTWE3FK8Nnz/131012
+http://31.43.191.125:8080/vip2371775319895/9265b2325e78/131012
 #EXTINF:-1 tvg-name="AR: NAT GEO PEOPLE" tvg-logo="" group-title="documentary",AR: NAT GEO PEOPLE
-http://31.43.191.125:8080/JkLSFzavCXNW/EdTWE3FK8Nnz/34360
-#EXTINF:-1 tvg-name="SA| AL MAJD DOCUMENTARY" tvg-logo="" group-title="documentary",SA| AL MAJD DOCUMENTARY
-http://u8k.pro:2082/893963693051/bHksg68fWnri8/819905
+http://31.43.191.125:8080/vip2371775319895/9265b2325e78/34360
 #EXTINF:-1 tvg-name="SA| AL MAJD RELIGIOUS SCIENCE" tvg-logo="" group-title="documentary",SA| AL MAJD RELIGIOUS SCIENCE
 http://u8k.pro:2082/893963693051/bHksg68fWnri8/819901
-#EXTINF:-1 tvg-name="Sa| Asharq Discovery HD" tvg-logo="" group-title="documentary",Sa| Asharq Discovery HD
-http://8631.solanaflix.com/live/TV-59248585/403212737263/458835.ts
-#EXTINF:-1 tvg-name="Sa| Asharq Documentary HD" tvg-logo="" group-title="documentary",Sa| Asharq Documentary HD
-http://8631.solanaflix.com/live/TV-59248585/403212737263/458834.ts
-#EXTINF:-1 tvg-name="Uae: Nat Geo Abu Dhabi" tvg-logo="" group-title="documentary",Uae: Nat Geo Abu Dhabi
-http://8631.solanaflix.com/live/TV-59248585/403212737263/458887.ts
-#EXTINF:-1 tvg-name="Ye| Yemen Documentary" tvg-logo="http://vod-logo.net/photos/cc8b37c39f2ae49d5e335159618957c0.png" group-title="documentary",Ye| Yemen Documentary
-http://8631.solanaflix.com/live/TV-59248585/403212737263/458997.ts
-#EXTINF:-1 tvg-name="MA| FORJA DOCUMENTAIRE 1" tvg-logo="https://libs.easybroadcast.io/pixplay/snrt/logo.svg" group-title="documentary",MA| FORJA DOCUMENTAIRE 1
-http://sansat.cc:88/02040602770386/MZUM69XAsGrYbJj/843970
-#EXTINF:-1 tvg-name="MA| FORJA DOCUMENTAIRE 2" tvg-logo="https://libs.easybroadcast.io/pixplay/snrt/logo.svg" group-title="documentary",MA| FORJA DOCUMENTAIRE 2
-http://sansat.cc:88/02040602770386/MZUM69XAsGrYbJj/844016
-#EXTINF:-1 tvg-name="AR| ABU DHABI NAT GEO HD" tvg-logo="http://vodkom.com/Logo/ARABICHD/AD_Nat_Geo_HD.png" group-title="documentary",AR| ABU DHABI NAT GEO HD
-http://sansat.cc:88/02040602770386/MZUM69XAsGrYbJj/7417
-#EXTINF:-1 tvg-name="SD | Animal planet" tvg-logo="" group-title="documentary",SD | Animal planet
-https://reborned.cc:8443/play/FtYKMsCP5kDGcqwrA8b7u6XOwHE3XnqFM7VPDpYJVmc
-#EXTINF:-1 tvg-name="SD | History" tvg-logo="" group-title="documentary",SD | History
-https://reborned.cc:8443/play/FtYKMsCP5kDGcqwrA8b7u99gDUUkeYdauaLVnAi06YI
-#EXTINF:-1 tvg-name="SD | Discovery Kids" tvg-logo="" group-title="documentary",SD | Discovery Kids
-https://reborned.cc:8443/play/FtYKMsCP5kDGcqwrA8b7uxrh5VMpuldljy99Lpx9rxI
-#EXTINF:-1 tvg-name="SD | Discovery Turbo" tvg-logo="" group-title="documentary",SD | Discovery Turbo
-https://reborned.cc:8443/play/FtYKMsCP5kDGcqwrA8b7u20iGhkOn2sH6ZfFM6uZerA
-#EXTINF:-1 tvg-name="SD | Discovery Home & Health" tvg-logo="" group-title="documentary",SD | Discovery Home & Health
-https://reborned.cc:8443/play/FtYKMsCP5kDGcqwrA8b7u7cNoNv2uPLEgDGGJ6E-0zI
+#EXTINF:-1 tvg-name="SA| AL MAJD DOCUMENTARY" tvg-logo="" group-title="documentary",SA| AL MAJD DOCUMENTARY
+http://u8k.pro:2082/893963693051/bHksg68fWnri8/819905
+#EXTINF:-1 tvg-name="AR: BEIN Discovery KIDS SD" tvg-logo="" group-title="documentary",AR: BEIN Discovery KIDS SD
+http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/101716
+#EXTINF:-1 tvg-name="AR: Abu Dhabi Nat Geo" tvg-logo="" group-title="documentary",AR: Abu Dhabi Nat Geo
+http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/134241
+#EXTINF:-1 tvg-name="AR: Almajd07 documentaire" tvg-logo="" group-title="documentary",AR: Almajd07 documentaire
+http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/132946
+#EXTINF:-1 tvg-name="AR: Animal Planet" tvg-logo="" group-title="documentary",AR: Animal Planet
+http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/134242
+#EXTINF:-1 tvg-name="AR: BEIN Animal Planet HD" tvg-logo="" group-title="documentary",AR: BEIN Animal Planet HD
+http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/133925
+#EXTINF:-1 tvg-name="AR: MyHD Aroma Discovery HD" tvg-logo="" group-title="documentary",AR: MyHD Aroma Discovery HD
+http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/133572
+#EXTINF:-1 tvg-name="AR: MyHD Discovery HD" tvg-logo="" group-title="documentary",AR: MyHD Discovery HD
+http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/133587
+#EXTINF:-1 tvg-name="AR: MyHD Discovery ID HD" tvg-logo="" group-title="documentary",AR: MyHD Discovery ID HD
+http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/133588
+#EXTINF:-1 tvg-name="AR: MyHD Discovery Science HD" tvg-logo="" group-title="documentary",AR: MyHD Discovery Science HD
+http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/133590
+#EXTINF:-1 tvg-name="AR: MYHD NAT Geo HD SD" tvg-logo="" group-title="documentary",AR: MYHD NAT Geo HD SD
+http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/133684
+#EXTINF:-1 tvg-name="AR: MyHD NAT GEO Wild HD" tvg-logo="" group-title="documentary",AR: MyHD NAT GEO Wild HD
+http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/133623
+#EXTINF:-1 tvg-name="AR: Nat Geo | Abu Dhabi HD" tvg-logo="" group-title="documentary",AR: Nat Geo | Abu Dhabi HD
+http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/133499
+#EXTINF:-1 tvg-name="AR: OSN Discovery History" tvg-logo="" group-title="documentary",AR: OSN Discovery History
+http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/133728
+#EXTINF:-1 tvg-name="AR: OSN Discovery Showcase OFFLINE" tvg-logo="" group-title="documentary",AR: OSN Discovery Showcase OFFLINE
+http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/133732
+#EXTINF:-1 tvg-name="AR: OSN Docu SD OFFLINE" tvg-logo="" group-title="documentary",AR: OSN Docu SD OFFLINE
+http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/133741
+#EXTINF:-1 tvg-name="AR: OSN History 1 HD" tvg-logo="" group-title="documentary",AR: OSN History 1 HD
+http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/133767
+#EXTINF:-1 tvg-name="AR: OSN History Channel SD" tvg-logo="" group-title="documentary",AR: OSN History Channel SD
+http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/133769
+#EXTINF:-1 tvg-name="AR: OSN Investigation Discovery HD" tvg-logo="" group-title="documentary",AR: OSN Investigation Discovery HD
+http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/133772
+#EXTINF:-1 tvg-name="AR: OSN Nat Geo People" tvg-logo="" group-title="documentary",AR: OSN Nat Geo People
+http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/133829
+#EXTINF:-1 tvg-name="AR: OSN Nat Geo Pepole SD" tvg-logo="" group-title="documentary",AR: OSN Nat Geo Pepole SD
+http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/133831
+#EXTINF:-1 tvg-name="AR: Yemen Documentary SD" tvg-logo="" group-title="documentary",AR: Yemen Documentary SD
+http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/133271
+#EXTINF:-1 tvg-name="AR| Roya Documentaries" tvg-logo="https://img.roya.tv/imagechanger/Size01Q40R927/storage/app/public/images/channels/O3Ghqm99JvIWQe7.png" group-title="documentary",AR| Roya Documentaries
+http://sts.mydroon.com:8080/9127491274/QDXDbuLzFDYaYbD/269749
+#EXTINF:-1 tvg-name="AR|Al MAJD NATURE HD" tvg-logo="http://kinglogo.newtvhd.com/logoo/AL%20MAJD/Tabeaeyah.png" group-title="documentary",AR|Al MAJD NATURE HD
+http://sts.mydroon.com:8080/9127491274/QDXDbuLzFDYaYbD/52320
+#EXTINF:-1 tvg-name="AR|Al MAJD DOCUMENTARIES HD" tvg-logo="http://kinglogo.newtvhd.com/logoo/AL%20MAJD/Wathaeqeyah.png" group-title="documentary",AR|Al MAJD DOCUMENTARIES HD
+http://sts.mydroon.com:8080/9127491274/QDXDbuLzFDYaYbD/52319
+#EXTINF:-1 tvg-name="AR| Asharq Discovery" tvg-logo="" group-title="documentary",AR| Asharq Discovery
+http://sts.mydroon.com:8080/9127491274/QDXDbuLzFDYaYbD/239734
+#EXTINF:-1 tvg-name="AR| Asharq Documentary" tvg-logo="" group-title="documentary",AR| Asharq Documentary
+http://sts.mydroon.com:8080/9127491274/QDXDbuLzFDYaYbD/239733
