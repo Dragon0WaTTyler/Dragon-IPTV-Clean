@@ -1,1001 +1,431 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="AR: BEIN SPORTS ENG 1" tvg-logo="" group-title="sports",AR: BEIN SPORTS ENG 1
-http://31.43.191.125:8080/JkLSFzavCXNW/EdTWE3FK8Nnz/848
-#EXTINF:-1 tvg-name="AR: BEIN SPORTS ENG 2" tvg-logo="" group-title="sports",AR: BEIN SPORTS ENG 2
-http://31.43.191.125:8080/JkLSFzavCXNW/EdTWE3FK8Nnz/849
-#EXTINF:-1 tvg-name="AR: BEIN SPORTS ENG 3" tvg-logo="" group-title="sports",AR: BEIN SPORTS ENG 3
-http://31.43.191.125:8080/JkLSFzavCXNW/EdTWE3FK8Nnz/850
-#EXTINF:-1 tvg-name="UK: Sky Sports F1" tvg-logo="" group-title="sports",UK: Sky Sports F1
-http://hostengine.live/live/john/franklin/53979.m3u
-#EXTINF:-1 tvg-name="UK: Sky Sports Golf" tvg-logo="" group-title="sports",UK: Sky Sports Golf
-http://hostengine.live/live/john/franklin/53981.m3u
-#EXTINF:-1 tvg-name="UK: Sky Sports Mix" tvg-logo="" group-title="sports",UK: Sky Sports Mix
-http://hostengine.live/live/john/franklin/53983.m3u
-#EXTINF:-1 tvg-name="UK: Sky Sports Football" tvg-logo="" group-title="sports",UK: Sky Sports Football
-http://hostengine.live/live/john/franklin/53980.m3u
-#EXTINF:-1 tvg-name="UK: Sky Sports Premier League" tvg-logo="" group-title="sports",UK: Sky Sports Premier League
-http://hostengine.live/live/john/franklin/53986.m3u
-#EXTINF:-1 tvg-name="UK: Sky Sports Cricket" tvg-logo="" group-title="sports",UK: Sky Sports Cricket
-http://hostengine.live/live/john/franklin/53978.m3u
-#EXTINF:-1 tvg-name="UK: Sky Sports Arena" tvg-logo="" group-title="sports",UK: Sky Sports Arena
-http://31.43.191.125:8080/JkLSFzavCXNW/EdTWE3FK8Nnz/1674
-#EXTINF:-1 tvg-name="UK: Sky Sports Action" tvg-logo="" group-title="sports",UK: Sky Sports Action
-http://31.43.191.125:8080/JkLSFzavCXNW/EdTWE3FK8Nnz/1675
-#EXTINF:-1 tvg-name="UK: Sky Sports Racing" tvg-logo="" group-title="sports",UK: Sky Sports Racing
-http://hostengine.live/live/john/franklin/53987.m3u
-#EXTINF:-1 tvg-name="UK: Sky Sports Main Event" tvg-logo="" group-title="sports",UK: Sky Sports Main Event
-http://hostengine.live/live/john/franklin/53982.m3u
-#EXTINF:-1 tvg-name="GB : SKY SPORTS NFL" tvg-logo="" group-title="sports",GB : SKY SPORTS NFL
-http://hostengine.live/live/john/franklin/53985.m3u
-#EXTINF:-1 tvg-name="AU: BEIN SPORTS 1" tvg-logo="" group-title="sports",AU: BEIN SPORTS 1
-http://31.43.191.125:8080/JkLSFzavCXNW/EdTWE3FK8Nnz/1679
-#EXTINF:-1 tvg-name="AU: BEIN SPORTS 2" tvg-logo="" group-title="sports",AU: BEIN SPORTS 2
-http://31.43.191.125:8080/JkLSFzavCXNW/EdTWE3FK8Nnz/1680
-#EXTINF:-1 tvg-name="USA: BEIN SPORTS 4" tvg-logo="" group-title="sports",USA: BEIN SPORTS 4
-http://31.43.191.125:8080/JkLSFzavCXNW/EdTWE3FK8Nnz/1681
-#EXTINF:-1 tvg-name="UK: VIP BEIN SPORTS 7" tvg-logo="" group-title="sports",UK: VIP BEIN SPORTS 7
-http://31.43.191.125:8080/JkLSFzavCXNW/EdTWE3FK8Nnz/1682
-#EXTINF:-1 tvg-name="Eurosport 1" tvg-logo="" group-title="sports",Eurosport 1
-http://caffe.link:25461/111Siniisa/2ApupeRBtTRt/1508
-#EXTINF:-1 tvg-name="Eurosport 2" tvg-logo="https://tvprofil.com/img/kanali-logo/Eurosport_2_2015_logo.png" group-title="sports",Eurosport 2
-http://client.nodomain.vip:80/sadetaa/aiMWZsQYsT/129
-#EXTINF:-1 tvg-name="UK| EIR SPORT 1 HD" tvg-logo="data:image/jpeg;base64,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lB4j/H6trA+yKeooh6aJjyJHgEgZhqNAd616/Nkx5/YmY6Qz0mKl8XtR5yklFh+khOaOCMO4Otdw7CdQoN9TlvG1rSlUwY6TvFYdJaG5jnp2SNLXta5p3hwDmnuK9raazvEvJrExtLlf/lKC9/V4+yxy+F7KR+sz7bc8tH6XD/5h1aenZG0Nja1jRuDQGtHcFHtabTvMt9axWNohrVmx6aZ2eWGN7rWu5jXOsNwuVspnyUjatphhbDS872iJbUEDY2hjGhrWizQBZoHIBa7Wm07yzisVjaGRePXKrMOUczi+SBhcd5AsT22tdSKarNSNq2nZptp8dp3msNyh2fDA3LDG1g5NAF+s81qvkved7TuzpjrSNqxs2VgzEBAQEBAQEBAQEBAQEBAQEBAQEEcxdht1cYi2QMyZt7S6+bLyI5Kbo9XGn36b7oup085tuu2zcwvsg0cHoi8POZzrgWGvC11r1Wfx8nPtsz0+Lwqcu7rqM3iAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg//Z" group-title="sports",UK| EIR SPORT 1 HD
-http://31.43.191.125:8080/JkLSFzavCXNW/EdTWE3FK8Nnz/1685
-#EXTINF:-1 tvg-name="UK| EIR SPORT 2 HD" tvg-logo="data:image/jpeg;base64,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lB4j/H6trA+yKeooh6aJjyJHgEgZhqNAd616/Nkx5/YmY6Qz0mKl8XtR5yklFh+khOaOCMO4Otdw7CdQoN9TlvG1rSlUwY6TvFYdJaG5jnp2SNLXta5p3hwDmnuK9raazvEvJrExtLlf/lKC9/V4+yxy+F7KR+sz7bc8tH6XD/5h1aenZG0Nja1jRuDQGtHcFHtabTvMt9axWNohrVmx6aZ2eWGN7rWu5jXOsNwuVspnyUjatphhbDS872iJbUEDY2hjGhrWizQBZoHIBa7Wm07yzisVjaGRePXKrMOUczi+SBhcd5AsT22tdSKarNSNq2nZptp8dp3msNyh2fDA3LDG1g5NAF+s81qvkved7TuzpjrSNqxs2VgzEBAQEBAQEBAQEBAQEBAQEBAQEEcxdht1cYi2QMyZt7S6+bLyI5Kbo9XGn36b7oup085tuu2zcwvsg0cHoi8POZzrgWGvC11r1Wfx8nPtsz0+Lwqcu7rqM3iAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg//Z" group-title="sports",UK| EIR SPORT 2 HD
-http://31.43.191.125:8080/JkLSFzavCXNW/EdTWE3FK8Nnz/1686
-#EXTINF:-1 tvg-name="UK: TNT Sport 1" tvg-logo="" group-title="sports",UK: TNT Sport 1
-http://31.43.191.125:8080/JkLSFzavCXNW/EdTWE3FK8Nnz/1687
-#EXTINF:-1 tvg-name="UK: TNT Sport 2" tvg-logo="" group-title="sports",UK: TNT Sport 2
-http://31.43.191.125:8080/JkLSFzavCXNW/EdTWE3FK8Nnz/1688
-#EXTINF:-1 tvg-name="UK| TNT SPORT 3 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/bt-sport-3-uk.png" group-title="sports",UK| TNT SPORT 3 HD
-http://31.43.191.125:8080/JkLSFzavCXNW/EdTWE3FK8Nnz/1689
-#EXTINF:-1 tvg-name="UK: VIP PREMIERE SPORTS 1" tvg-logo="" group-title="sports",UK: VIP PREMIERE SPORTS 1
-http://31.43.191.125:8080/JkLSFzavCXNW/EdTWE3FK8Nnz/1694
-#EXTINF:-1 tvg-name="UK: Premier Sports 2" tvg-logo="" group-title="sports",UK: Premier Sports 2
-http://31.43.191.125:8080/JkLSFzavCXNW/EdTWE3FK8Nnz/1695
-#EXTINF:-1 tvg-name="UK: Sky Sports News" tvg-logo="" group-title="sports",UK: Sky Sports News
-http://hostengine.live/live/john/franklin/53984.m3u
-#EXTINF:-1 tvg-name="UK: VIP SUPER SPORT GOLF" tvg-logo="" group-title="sports",UK: VIP SUPER SPORT GOLF
-http://31.43.191.125:8080/JkLSFzavCXNW/EdTWE3FK8Nnz/1697
-#EXTINF:-1 tvg-name="UK: VIP SUPER SPORT VARIETY 4 (MATCH TIME)" tvg-logo="" group-title="sports",UK: VIP SUPER SPORT VARIETY 4 (MATCH TIME)
-http://31.43.191.125:8080/JkLSFzavCXNW/EdTWE3FK8Nnz/1698
-#EXTINF:-1 tvg-name="UK: VIP SUPER SPORTS CRICKET (MATCH TIME)" tvg-logo="" group-title="sports",UK: VIP SUPER SPORTS CRICKET (MATCH TIME)
-http://31.43.191.125:8080/JkLSFzavCXNW/EdTWE3FK8Nnz/1699
-#EXTINF:-1 tvg-name="UK: VIP SUPERSPORT RUGBY (MATCH TIME)" tvg-logo="" group-title="sports",UK: VIP SUPERSPORT RUGBY (MATCH TIME)
-http://31.43.191.125:8080/JkLSFzavCXNW/EdTWE3FK8Nnz/1700
-#EXTINF:-1 tvg-name="UK: VIP SUPER SPORT VARIETY 3 (MATCH TIME)" tvg-logo="" group-title="sports",UK: VIP SUPER SPORT VARIETY 3 (MATCH TIME)
-http://31.43.191.125:8080/JkLSFzavCXNW/EdTWE3FK8Nnz/1701
-#EXTINF:-1 tvg-name="UK: VIP SUPER SPORT VARIETY 1 (MATCH TIME)" tvg-logo="" group-title="sports",UK: VIP SUPER SPORT VARIETY 1 (MATCH TIME)
-http://31.43.191.125:8080/JkLSFzavCXNW/EdTWE3FK8Nnz/1702
-#EXTINF:-1 tvg-name="UK: VIP SUPER SPORTS FOOTBALL (MATCH TIME)" tvg-logo="" group-title="sports",UK: VIP SUPER SPORTS FOOTBALL (MATCH TIME)
-http://31.43.191.125:8080/JkLSFzavCXNW/EdTWE3FK8Nnz/1703
-#EXTINF:-1 tvg-name="UK: VIP SUPER SPORTS ACTION (MATCH TIME)" tvg-logo="" group-title="sports",UK: VIP SUPER SPORTS ACTION (MATCH TIME)
-http://31.43.191.125:8080/JkLSFzavCXNW/EdTWE3FK8Nnz/1704
-#EXTINF:-1 tvg-name="UK: VIP SUPER SPORT VARIETY 2 (MATCH TIME)" tvg-logo="" group-title="sports",UK: VIP SUPER SPORT VARIETY 2 (MATCH TIME)
-http://31.43.191.125:8080/JkLSFzavCXNW/EdTWE3FK8Nnz/1705
-#EXTINF:-1 tvg-name="UK: VIP SUPER SPORT MOTORSPORT (MATCH TIME)" tvg-logo="" group-title="sports",UK: VIP SUPER SPORT MOTORSPORT (MATCH TIME)
-http://31.43.191.125:8080/JkLSFzavCXNW/EdTWE3FK8Nnz/1706
-#EXTINF:-1 tvg-name="UK: VIP SUPER SPORTS GRAND STAND (MATCH TIME)" tvg-logo="" group-title="sports",UK: VIP SUPER SPORTS GRAND STAND (MATCH TIME)
-http://31.43.191.125:8080/JkLSFzavCXNW/EdTWE3FK8Nnz/1707
-#EXTINF:-1 tvg-name="UK: VIP SUPER SPORT PSL (MATCH TIME)" tvg-logo="" group-title="sports",UK: VIP SUPER SPORT PSL (MATCH TIME)
-http://31.43.191.125:8080/JkLSFzavCXNW/EdTWE3FK8Nnz/1708
-#EXTINF:-1 tvg-name="UK: VIP SUPER SPORTS LALIGA (MATCH TIME)" tvg-logo="" group-title="sports",UK: VIP SUPER SPORTS LALIGA (MATCH TIME)
-http://31.43.191.125:8080/JkLSFzavCXNW/EdTWE3FK8Nnz/1709
-#EXTINF:-1 tvg-name="UK: TNT Sport 4" tvg-logo="" group-title="sports",UK: TNT Sport 4
-http://31.43.191.125:8080/JkLSFzavCXNW/EdTWE3FK8Nnz/1710
-#EXTINF:-1 tvg-name="UK| FREE SPORTS HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/free-sports-uk.png" group-title="sports",UK| FREE SPORTS HD
-http://31.43.191.125:8080/JkLSFzavCXNW/EdTWE3FK8Nnz/1714
-#EXTINF:-1 tvg-name="ESPN" tvg-logo="" group-title="sports",ESPN
-https://skynetmax.live:8443/play/pF5FbpT1J4mElJjGxGs-cuhIOfWGbhtGoQg-g7fOzV0mkKjt2O1pFrKCM33P427L
-#EXTINF:-1 tvg-name="UK: Sky Sports Tennis" tvg-logo="" group-title="sports",UK: Sky Sports Tennis
-http://hostengine.live/live/john/franklin/295285.m3u
-#EXTINF:-1 tvg-name="UK: Sky Sports+ FHD" tvg-logo="" group-title="sports",UK: Sky Sports+ FHD
-http://31.43.191.125:8080/JkLSFzavCXNW/EdTWE3FK8Nnz/146466
-#EXTINF:-1 tvg-name="UK: Sky Sports News HQ HD" tvg-logo="" group-title="sports",UK: Sky Sports News HQ HD
-http://31.43.191.125:8080/JkLSFzavCXNW/EdTWE3FK8Nnz/147024
-#EXTINF:-1 tvg-name="UK: SKY SPORTS ULTRA 1 4K (Event Only)" tvg-logo="" group-title="sports",UK: SKY SPORTS ULTRA 1 4K (Event Only)
-http://31.43.191.125:8080/JkLSFzavCXNW/EdTWE3FK8Nnz/146593
-#EXTINF:-1 tvg-name="UK: SKY SPORTS ULTRA 2 4K (Event Only)" tvg-logo="" group-title="sports",UK: SKY SPORTS ULTRA 2 4K (Event Only)
-http://31.43.191.125:8080/JkLSFzavCXNW/EdTWE3FK8Nnz/146592
-#EXTINF:-1 tvg-name="UK: TNT Sports 1" tvg-logo="" group-title="sports",UK: TNT Sports 1
-http://31.43.191.125:8080/JkLSFzavCXNW/EdTWE3FK8Nnz/147028
-#EXTINF:-1 tvg-name="UK: TNT Sports 2" tvg-logo="" group-title="sports",UK: TNT Sports 2
-http://31.43.191.125:8080/JkLSFzavCXNW/EdTWE3FK8Nnz/147029
-#EXTINF:-1 tvg-name="UK: TNT Sports 3" tvg-logo="" group-title="sports",UK: TNT Sports 3
-http://31.43.191.125:8080/JkLSFzavCXNW/EdTWE3FK8Nnz/147030
-#EXTINF:-1 tvg-name="UK: TNT Sports 4" tvg-logo="" group-title="sports",UK: TNT Sports 4
-http://31.43.191.125:8080/JkLSFzavCXNW/EdTWE3FK8Nnz/147031
-#EXTINF:-1 tvg-name="UK: TNT SPORTS 5" tvg-logo="" group-title="sports",UK: TNT SPORTS 5
-http://31.43.191.125:8080/JkLSFzavCXNW/EdTWE3FK8Nnz/146591
-#EXTINF:-1 tvg-name="UK: TNT Sports 6 FHD (Not 24/7)" tvg-logo="" group-title="sports",UK: TNT Sports 6 FHD (Not 24/7)
-http://31.43.191.125:8080/JkLSFzavCXNW/EdTWE3FK8Nnz/146480
-#EXTINF:-1 tvg-name="UK: TNT Sports 7 FHD (Not 24/7)" tvg-logo="" group-title="sports",UK: TNT Sports 7 FHD (Not 24/7)
-http://31.43.191.125:8080/JkLSFzavCXNW/EdTWE3FK8Nnz/146481
-#EXTINF:-1 tvg-name="UK: TNT Sports 8 FHD (Not 24/7)" tvg-logo="" group-title="sports",UK: TNT Sports 8 FHD (Not 24/7)
-http://31.43.191.125:8080/JkLSFzavCXNW/EdTWE3FK8Nnz/146482
-#EXTINF:-1 tvg-name="UK: TNT Sports 9 FHD (Not 24/7)" tvg-logo="" group-title="sports",UK: TNT Sports 9 FHD (Not 24/7)
-http://31.43.191.125:8080/JkLSFzavCXNW/EdTWE3FK8Nnz/146483
-#EXTINF:-1 tvg-name="UK: TNT Sports 10 FHD (Not 24/7)" tvg-logo="" group-title="sports",UK: TNT Sports 10 FHD (Not 24/7)
-http://31.43.191.125:8080/JkLSFzavCXNW/EdTWE3FK8Nnz/146484
-#EXTINF:-1 tvg-name="UK: TNT SPORTS 6" tvg-logo="" group-title="sports",UK: TNT SPORTS 6
-http://31.43.191.125:8080/JkLSFzavCXNW/EdTWE3FK8Nnz/146590
-#EXTINF:-1 tvg-name="UK: TNT SPORTS 7" tvg-logo="" group-title="sports",UK: TNT SPORTS 7
-http://31.43.191.125:8080/JkLSFzavCXNW/EdTWE3FK8Nnz/146589
-#EXTINF:-1 tvg-name="UK: TNT SPORTS 8" tvg-logo="" group-title="sports",UK: TNT SPORTS 8
-http://31.43.191.125:8080/JkLSFzavCXNW/EdTWE3FK8Nnz/146588
-#EXTINF:-1 tvg-name="UK: TNT SPORTS 09" tvg-logo="" group-title="sports",UK: TNT SPORTS 09
-http://hostengine.live/live/john/franklin/53858.m3u
-#EXTINF:-1 tvg-name="UK: TNT SPORTS 10" tvg-logo="" group-title="sports",UK: TNT SPORTS 10
-http://hostengine.live/live/john/franklin/53859.m3u
-#EXTINF:-1 tvg-name="UK: TNT SPORTS ULTIMATE" tvg-logo="" group-title="sports",UK: TNT SPORTS ULTIMATE
-http://31.43.191.125:8080/JkLSFzavCXNW/EdTWE3FK8Nnz/146585
-#EXTINF:-1 tvg-name="UK: FLOW SPORT" tvg-logo="" group-title="sports",UK: FLOW SPORT
-http://31.43.191.125:8080/JkLSFzavCXNW/EdTWE3FK8Nnz/146805
-#EXTINF:-1 tvg-name="UK: RUSH SPORT" tvg-logo="" group-title="sports",UK: RUSH SPORT
-http://31.43.191.125:8080/JkLSFzavCXNW/EdTWE3FK8Nnz/146806
-#EXTINF:-1 tvg-name="UK: Bein Sports English 2" tvg-logo="" group-title="sports",UK: Bein Sports English 2
-http://31.43.191.125:8080/JkLSFzavCXNW/EdTWE3FK8Nnz/147047
-#EXTINF:-1 tvg-name="AU: BEIN SPORTS 3" tvg-logo="" group-title="sports",AU: BEIN SPORTS 3
-http://31.43.191.125:8080/JkLSFzavCXNW/EdTWE3FK8Nnz/25025
-#EXTINF:-1 tvg-name="UK: Bein Sports USA" tvg-logo="" group-title="sports",UK: Bein Sports USA
-http://31.43.191.125:8080/JkLSFzavCXNW/EdTWE3FK8Nnz/147048
-#EXTINF:-1 tvg-name="UK: VIAPLAY SPORTS 1" tvg-logo="" group-title="sports",UK: VIAPLAY SPORTS 1
-http://31.43.191.125:8080/JkLSFzavCXNW/EdTWE3FK8Nnz/146584
-#EXTINF:-1 tvg-name="UK: VIAPLAY SPORTS 2" tvg-logo="" group-title="sports",UK: VIAPLAY SPORTS 2
-http://31.43.191.125:8080/JkLSFzavCXNW/EdTWE3FK8Nnz/146583
-#EXTINF:-1 tvg-name="UK: Premier Sports 1" tvg-logo="" group-title="sports",UK: Premier Sports 1
-http://31.43.191.125:8080/JkLSFzavCXNW/EdTWE3FK8Nnz/146984
-#EXTINF:-1 tvg-name="UK: Bein Sports Extra Ñ" tvg-logo="" group-title="sports",UK: Bein Sports Extra Ñ
-http://31.43.191.125:8080/JkLSFzavCXNW/EdTWE3FK8Nnz/146628
-#EXTINF:-1 tvg-name="UK: SPORT" tvg-logo="" group-title="sports",UK: SPORT
-http://31.43.191.125:8080/JkLSFzavCXNW/EdTWE3FK8Nnz/146724
-#EXTINF:-1 tvg-name="UK: Astro Sports Plus" tvg-logo="" group-title="sports",UK: Astro Sports Plus
-http://31.43.191.125:8080/JkLSFzavCXNW/EdTWE3FK8Nnz/146810
-#EXTINF:-1 tvg-name="NZ: SKY SPORT 5 VIP [Live During Events Only]" tvg-logo="" group-title="sports",NZ: SKY SPORT 5 VIP [Live During Events Only]
-http://31.43.191.125:8080/JkLSFzavCXNW/EdTWE3FK8Nnz/146817
-#EXTINF:-1 tvg-name="UK: Astro Football" tvg-logo="" group-title="sports",UK: Astro Football
-http://31.43.191.125:8080/JkLSFzavCXNW/EdTWE3FK8Nnz/146820
-#EXTINF:-1 tvg-name="UK: Supersport 3" tvg-logo="" group-title="sports",UK: Supersport 3
-http://31.43.191.125:8080/JkLSFzavCXNW/EdTWE3FK8Nnz/146822
-#EXTINF:-1 tvg-name="UK: Supersport 2" tvg-logo="" group-title="sports",UK: Supersport 2
-http://31.43.191.125:8080/JkLSFzavCXNW/EdTWE3FK8Nnz/146823
-#EXTINF:-1 tvg-name="UK: Supersport 1" tvg-logo="" group-title="sports",UK: Supersport 1
-http://31.43.191.125:8080/JkLSFzavCXNW/EdTWE3FK8Nnz/146824
-#EXTINF:-1 tvg-name="UK: HUB SPORTS 1" tvg-logo="" group-title="sports",UK: HUB SPORTS 1
-http://31.43.191.125:8080/JkLSFzavCXNW/EdTWE3FK8Nnz/146827
-#EXTINF:-1 tvg-name="UK: HUB SPORTS 2" tvg-logo="" group-title="sports",UK: HUB SPORTS 2
-http://31.43.191.125:8080/JkLSFzavCXNW/EdTWE3FK8Nnz/146826
-#EXTINF:-1 tvg-name="UK: HUB SPORTS 3" tvg-logo="" group-title="sports",UK: HUB SPORTS 3
-http://31.43.191.125:8080/JkLSFzavCXNW/EdTWE3FK8Nnz/146825
-#EXTINF:-1 tvg-name="UK: Event 34 (Match Time Only)" tvg-logo="" group-title="sports",UK: Event 34 (Match Time Only)
-http://31.43.191.125:8080/JkLSFzavCXNW/EdTWE3FK8Nnz/146836
-#EXTINF:-1 tvg-name="UK: Event 33 (Match Time Only)" tvg-logo="" group-title="sports",UK: Event 33 (Match Time Only)
-http://31.43.191.125:8080/JkLSFzavCXNW/EdTWE3FK8Nnz/146837
-#EXTINF:-1 tvg-name="UK: Event 32 (Match Time Only)" tvg-logo="" group-title="sports",UK: Event 32 (Match Time Only)
-http://31.43.191.125:8080/JkLSFzavCXNW/EdTWE3FK8Nnz/146838
-#EXTINF:-1 tvg-name="UK: Event 31 (Match Time Only)" tvg-logo="" group-title="sports",UK: Event 31 (Match Time Only)
-http://31.43.191.125:8080/JkLSFzavCXNW/EdTWE3FK8Nnz/146839
-#EXTINF:-1 tvg-name="UK: Event 30 (Match Time Only)" tvg-logo="" group-title="sports",UK: Event 30 (Match Time Only)
-http://31.43.191.125:8080/JkLSFzavCXNW/EdTWE3FK8Nnz/146840
-#EXTINF:-1 tvg-name="UK: Event 29 (Match Time Only)" tvg-logo="" group-title="sports",UK: Event 29 (Match Time Only)
-http://31.43.191.125:8080/JkLSFzavCXNW/EdTWE3FK8Nnz/146841
-#EXTINF:-1 tvg-name="UK: Event 28 (Match Time Only)" tvg-logo="" group-title="sports",UK: Event 28 (Match Time Only)
-http://31.43.191.125:8080/JkLSFzavCXNW/EdTWE3FK8Nnz/146842
-#EXTINF:-1 tvg-name="UK: Event 27 (Match Time Only)" tvg-logo="" group-title="sports",UK: Event 27 (Match Time Only)
-http://31.43.191.125:8080/JkLSFzavCXNW/EdTWE3FK8Nnz/146843
-#EXTINF:-1 tvg-name="UK: Event 26 (Match Time Only)" tvg-logo="" group-title="sports",UK: Event 26 (Match Time Only)
-http://31.43.191.125:8080/JkLSFzavCXNW/EdTWE3FK8Nnz/146844
-#EXTINF:-1 tvg-name="UK: Event 25 (Match Time Only)" tvg-logo="" group-title="sports",UK: Event 25 (Match Time Only)
-http://31.43.191.125:8080/JkLSFzavCXNW/EdTWE3FK8Nnz/146845
-#EXTINF:-1 tvg-name="UK: Event 24 (Match Time Only)" tvg-logo="" group-title="sports",UK: Event 24 (Match Time Only)
-http://31.43.191.125:8080/JkLSFzavCXNW/EdTWE3FK8Nnz/146846
-#EXTINF:-1 tvg-name="UK: Boxing live EVENT 00 (Match Time Only)" tvg-logo="" group-title="sports",UK: Boxing live EVENT 00 (Match Time Only)
-http://31.43.191.125:8080/JkLSFzavCXNW/EdTWE3FK8Nnz/146870
-#EXTINF:-1 tvg-name="UK: UKHD : TNT SPORTS BOX OFFICE" tvg-logo="" group-title="sports",UK: UKHD : TNT SPORTS BOX OFFICE
-http://31.43.191.125:8080/JkLSFzavCXNW/EdTWE3FK8Nnz/146886
-#EXTINF:-1 tvg-name="UK: UKSD : TNT SPORTS BOX OFFICE" tvg-logo="" group-title="sports",UK: UKSD : TNT SPORTS BOX OFFICE
-http://31.43.191.125:8080/JkLSFzavCXNW/EdTWE3FK8Nnz/146887
-#EXTINF:-1 tvg-name="UK: UKFHD : TNT SPORTS BOX OFFICE" tvg-logo="" group-title="sports",UK: UKFHD : TNT SPORTS BOX OFFICE
-http://31.43.191.125:8080/JkLSFzavCXNW/EdTWE3FK8Nnz/146888
-#EXTINF:-1 tvg-name="UK: Premier Sports 2 (Match Time)" tvg-logo="" group-title="sports",UK: Premier Sports 2 (Match Time)
-http://31.43.191.125:8080/JkLSFzavCXNW/EdTWE3FK8Nnz/147054
-#EXTINF:-1 tvg-name="UK: SuperSport Action" tvg-logo="" group-title="sports",UK: SuperSport Action
-http://31.43.191.125:8080/JkLSFzavCXNW/EdTWE3FK8Nnz/147069
-#EXTINF:-1 tvg-name="UK: Super Sport Blitz [Live During Events Only]" tvg-logo="" group-title="sports",UK: Super Sport Blitz [Live During Events Only]
-http://31.43.191.125:8080/JkLSFzavCXNW/EdTWE3FK8Nnz/147070
-#EXTINF:-1 tvg-name="UK: Super Sport Cricket" tvg-logo="" group-title="sports",UK: Super Sport Cricket
-http://31.43.191.125:8080/JkLSFzavCXNW/EdTWE3FK8Nnz/147071
-#EXTINF:-1 tvg-name="UK: SuperSport Golf" tvg-logo="" group-title="sports",UK: SuperSport Golf
-http://31.43.191.125:8080/JkLSFzavCXNW/EdTWE3FK8Nnz/147072
-#EXTINF:-1 tvg-name="UK: SuperSport LaLiga" tvg-logo="" group-title="sports",UK: SuperSport LaLiga
-http://31.43.191.125:8080/JkLSFzavCXNW/EdTWE3FK8Nnz/147073
-#EXTINF:-1 tvg-name="UK: SuperSport Premier League" tvg-logo="" group-title="sports",UK: SuperSport Premier League
-http://31.43.191.125:8080/JkLSFzavCXNW/EdTWE3FK8Nnz/147074
-#EXTINF:-1 tvg-name="UK: Sky Sport Tennis" tvg-logo="" group-title="sports",UK: Sky Sport Tennis
-http://31.43.191.125:8080/JkLSFzavCXNW/EdTWE3FK8Nnz/147075
-#EXTINF:-1 tvg-name="UK: SPFL 01 (Match Time)" tvg-logo="" group-title="sports",UK: SPFL 01 (Match Time)
-http://31.43.191.125:8080/JkLSFzavCXNW/EdTWE3FK8Nnz/146496
-#EXTINF:-1 tvg-name="UK: SPFL 02 (Match Time)" tvg-logo="" group-title="sports",UK: SPFL 02 (Match Time)
-http://31.43.191.125:8080/JkLSFzavCXNW/EdTWE3FK8Nnz/146495
-#EXTINF:-1 tvg-name="UK: SPFL 03 (Match Time)" tvg-logo="" group-title="sports",UK: SPFL 03 (Match Time)
-http://31.43.191.125:8080/JkLSFzavCXNW/EdTWE3FK8Nnz/146494
-#EXTINF:-1 tvg-name="UK: SPFL 04 (Match Time)" tvg-logo="" group-title="sports",UK: SPFL 04 (Match Time)
-http://31.43.191.125:8080/JkLSFzavCXNW/EdTWE3FK8Nnz/146493
-#EXTINF:-1 tvg-name="UK: SPFL 05 (Match Time)" tvg-logo="" group-title="sports",UK: SPFL 05 (Match Time)
-http://31.43.191.125:8080/JkLSFzavCXNW/EdTWE3FK8Nnz/146492
-#EXTINF:-1 tvg-name="UK: SPFL 06 (Match Time)" tvg-logo="" group-title="sports",UK: SPFL 06 (Match Time)
-http://31.43.191.125:8080/JkLSFzavCXNW/EdTWE3FK8Nnz/146491
-#EXTINF:-1 tvg-name="UK: SPFL 07 (Match Time)" tvg-logo="" group-title="sports",UK: SPFL 07 (Match Time)
-http://31.43.191.125:8080/JkLSFzavCXNW/EdTWE3FK8Nnz/146490
-#EXTINF:-1 tvg-name="UK: SPFL 08 (Match Time)" tvg-logo="" group-title="sports",UK: SPFL 08 (Match Time)
-http://31.43.191.125:8080/JkLSFzavCXNW/EdTWE3FK8Nnz/146489
-#EXTINF:-1 tvg-name="UK: SPFL 09 (Match Time)" tvg-logo="" group-title="sports",UK: SPFL 09 (Match Time)
-http://31.43.191.125:8080/JkLSFzavCXNW/EdTWE3FK8Nnz/146488
-#EXTINF:-1 tvg-name="UK: SPFL 10 (Match Time)" tvg-logo="" group-title="sports",UK: SPFL 10 (Match Time)
-http://31.43.191.125:8080/JkLSFzavCXNW/EdTWE3FK8Nnz/146487
-#EXTINF:-1 tvg-name="UK: Dazn Womens Football" tvg-logo="" group-title="sports",UK: Dazn Womens Football
-http://31.43.191.125:8080/JkLSFzavCXNW/EdTWE3FK8Nnz/146894
-#EXTINF:-1 tvg-name="UK: DAZN Matchroom Boxing" tvg-logo="" group-title="sports",UK: DAZN Matchroom Boxing
-http://31.43.191.125:8080/JkLSFzavCXNW/EdTWE3FK8Nnz/146897
-#EXTINF:-1 tvg-name="UK: DAZN Sport Stack" tvg-logo="" group-title="sports",UK: DAZN Sport Stack
-http://31.43.191.125:8080/JkLSFzavCXNW/EdTWE3FK8Nnz/146907
-#EXTINF:-1 tvg-name="CA: BEIN SPORTS" tvg-logo="" group-title="sports",CA: BEIN SPORTS
-http://hostengine.live/live/john/franklin/55055.m3u
-#EXTINF:-1 tvg-name="USA: NBA TV HD" tvg-logo="https://cordcutting.com/wp-content/uploads/2018/05/nba-tv-logo.png" group-title="sports",USA: NBA TV HD
-http://hostengine.live/live/john/franklin/55195.m3u
-#EXTINF:-1 tvg-name="CA | Sportsnet 360" tvg-logo="" group-title="sports",CA | Sportsnet 360
-https://skynetmax.live:8443/play/pF5FbpT1J4mElJjGxGs-cgk20m7O5JSRquwK6d1f2kF7tIkEWRAtZ2m6vBdBrz9T
-#EXTINF:-1 tvg-name="CA: SPORTSNET ONE" tvg-logo="" group-title="sports",CA: SPORTSNET ONE
-http://hostengine.live/live/john/franklin/53750.m3u
-#EXTINF:-1 tvg-name="CA | Sportsnet Ontario" tvg-logo="" group-title="sports",CA | Sportsnet Ontario
-https://skynetmax.live:8443/play/pF5FbpT1J4mElJjGxGs-cjTOMeG5XLI6MudDoflFIgyp4cook42ocJm1bWq8KZbh
-#EXTINF:-1 tvg-name="CA | Sportsnet Pacific" tvg-logo="" group-title="sports",CA | Sportsnet Pacific
-https://skynetmax.live:8443/play/pF5FbpT1J4mElJjGxGs-cjDgg1gM1c-KVnwhUNY43t1xa2gGzIIsVkSysQ2jcb_3
-#EXTINF:-1 tvg-name="CA | Sportsnet West" tvg-logo="" group-title="sports",CA | Sportsnet West
-https://skynetmax.live:8443/play/pF5FbpT1J4mElJjGxGs-co-f_XT5Z3t6y8qHksK1WINw4CLmeImA0wip3WP6IoT-
-#EXTINF:-1 tvg-name="CA: SPORTSNET WORLD" tvg-logo="" group-title="sports",CA: SPORTSNET WORLD
-http://hostengine.live/live/john/franklin/53754.m3u
-#EXTINF:-1 tvg-name="CA: TVA SPORTS" tvg-logo="" group-title="sports",CA: TVA SPORTS
-http://hostengine.live/live/john/franklin/53815.m3u
-#EXTINF:-1 tvg-name="CA | Fox Sports Racing" tvg-logo="" group-title="sports",CA | Fox Sports Racing
-https://skynetmax.live:8443/play/pF5FbpT1J4mElJjGxGs-coXAY1IhIaGKdlhWiZJasIVk-mp3bZTyrG63-KWsIdLZ
-#EXTINF:-1 tvg-name="USA: ACCN ESPN" tvg-logo="" group-title="sports",USA: ACCN ESPN
-http://31.43.191.125:8080/JkLSFzavCXNW/EdTWE3FK8Nnz/154614
-#EXTINF:-1 tvg-name="USA: AFN SPORT" tvg-logo="" group-title="sports",USA: AFN SPORT
-http://31.43.191.125:8080/JkLSFzavCXNW/EdTWE3FK8Nnz/154617
-#EXTINF:-1 tvg-name="US : ALTITUDE SPORTS" tvg-logo="" group-title="sports",US : ALTITUDE SPORTS
-http://hostengine.live/live/john/franklin/55051.m3u
-#EXTINF:-1 tvg-name="USA: AT&T SPORTSNET" tvg-logo="" group-title="sports",USA: AT&T SPORTSNET
-http://31.43.191.125:8080/JkLSFzavCXNW/EdTWE3FK8Nnz/154671
-#EXTINF:-1 tvg-name="USA: AT&T SPORTSNET PITTSBURGH" tvg-logo="" group-title="sports",USA: AT&T SPORTSNET PITTSBURGH
-http://31.43.191.125:8080/JkLSFzavCXNW/EdTWE3FK8Nnz/154672
-#EXTINF:-1 tvg-name="USA: AT&T SPORTSNET SOUTHWEST" tvg-logo="" group-title="sports",USA: AT&T SPORTSNET SOUTHWEST
-http://31.43.191.125:8080/JkLSFzavCXNW/EdTWE3FK8Nnz/154673
-#EXTINF:-1 tvg-name="USA: BALLY SPORTS NEW ORLEANS" tvg-logo="" group-title="sports",USA: BALLY SPORTS NEW ORLEANS
-http://31.43.191.125:8080/JkLSFzavCXNW/EdTWE3FK8Nnz/154683
-#EXTINF:-1 tvg-name="USA: BALLY SPORTS NORTH" tvg-logo="" group-title="sports",USA: BALLY SPORTS NORTH
-http://31.43.191.125:8080/JkLSFzavCXNW/EdTWE3FK8Nnz/154684
-#EXTINF:-1 tvg-name="USA: BALLY SPORTS PRIME TICKET" tvg-logo="" group-title="sports",USA: BALLY SPORTS PRIME TICKET
-http://31.43.191.125:8080/JkLSFzavCXNW/EdTWE3FK8Nnz/154685
-#EXTINF:-1 tvg-name="USA: BEIN SPORTS CONNECT" tvg-logo="" group-title="sports",USA: BEIN SPORTS CONNECT
-http://31.43.191.125:8080/JkLSFzavCXNW/EdTWE3FK8Nnz/154702
-#EXTINF:-1 tvg-name="USA: BEIN SPORTS CONNECT 4" tvg-logo="" group-title="sports",USA: BEIN SPORTS CONNECT 4
-http://31.43.191.125:8080/JkLSFzavCXNW/EdTWE3FK8Nnz/154703
-#EXTINF:-1 tvg-name="USA: BEIN SPORTS CONNECT 8" tvg-logo="" group-title="sports",USA: BEIN SPORTS CONNECT 8
-http://31.43.191.125:8080/JkLSFzavCXNW/EdTWE3FK8Nnz/154704
-#EXTINF:-1 tvg-name="USA: BEIN SPORTS LA LIGA" tvg-logo="" group-title="sports",USA: BEIN SPORTS LA LIGA
-http://31.43.191.125:8080/JkLSFzavCXNW/EdTWE3FK8Nnz/154705
-#EXTINF:-1 tvg-name="USA: BELLATOR MMA" tvg-logo="" group-title="sports",USA: BELLATOR MMA
-http://31.43.191.125:8080/JkLSFzavCXNW/EdTWE3FK8Nnz/154706
-#EXTINF:-1 tvg-name="USA: BTN SPORT" tvg-logo="" group-title="sports",USA: BTN SPORT
-http://31.43.191.125:8080/JkLSFzavCXNW/EdTWE3FK8Nnz/154740
-#EXTINF:-1 tvg-name="USA: BUNDESLIGA 01 (MATCH TIME)" tvg-logo="" group-title="sports",USA: BUNDESLIGA 01 (MATCH TIME)
-http://31.43.191.125:8080/JkLSFzavCXNW/EdTWE3FK8Nnz/154741
-#EXTINF:-1 tvg-name="US : CBS SPORTS NETWORK" tvg-logo="" group-title="sports",US : CBS SPORTS NETWORK
-http://hostengine.live/live/john/franklin/55058.m3u
-#EXTINF:-1 tvg-name="USA: CHICAGO SPORTS NETWORK CHSN US" tvg-logo="" group-title="sports",USA: CHICAGO SPORTS NETWORK CHSN US
-http://31.43.191.125:8080/JkLSFzavCXNW/EdTWE3FK8Nnz/154915
-#EXTINF:-1 tvg-name="USA: COURT SPORTS NETWORK" tvg-logo="" group-title="sports",USA: COURT SPORTS NETWORK
-http://31.43.191.125:8080/JkLSFzavCXNW/EdTWE3FK8Nnz/154958
-#EXTINF:-1 tvg-name="ESPN 2" tvg-logo="" group-title="sports",ESPN 2
-https://skynetmax.live:8443/play/pF5FbpT1J4mElJjGxGs-coR3eCjZ0s0M8ypNNcsjxffyljfZVvKh7XXRZSW6Dsrx
-#EXTINF:-1 tvg-name="ESPN News" tvg-logo="" group-title="sports",ESPN News
-https://skynetmax.live:8443/play/pF5FbpT1J4mElJjGxGs-chhERr15j4ATkvJNcl6wlufZod7oNaLnvkINNdM9JPog
-#EXTINF:-1 tvg-name="ESPN U" tvg-logo="" group-title="sports",ESPN U
-https://skynetmax.live:8443/play/pF5FbpT1J4mElJjGxGs-ck09S5ChKPnYOO6KkpklMgPoIDTnnXrC3zkxYDWJrWEg
-#EXTINF:-1 tvg-name="USA: FIGHT SPORTS FHD" tvg-logo="" group-title="sports",USA: FIGHT SPORTS FHD
-http://31.43.191.125:8080/JkLSFzavCXNW/EdTWE3FK8Nnz/155246
-#EXTINF:-1 tvg-name="USA: FOOTBALL EVENT 14" tvg-logo="" group-title="sports",USA: FOOTBALL EVENT 14
-http://31.43.191.125:8080/JkLSFzavCXNW/EdTWE3FK8Nnz/155326
-#EXTINF:-1 tvg-name="USA: FOOTBALL EVENTS 01" tvg-logo="" group-title="sports",USA: FOOTBALL EVENTS 01
-http://31.43.191.125:8080/JkLSFzavCXNW/EdTWE3FK8Nnz/155327
-#EXTINF:-1 tvg-name="USA: FOOTBALL EVENTS 02" tvg-logo="" group-title="sports",USA: FOOTBALL EVENTS 02
-http://31.43.191.125:8080/JkLSFzavCXNW/EdTWE3FK8Nnz/155328
-#EXTINF:-1 tvg-name="USA: FOOTBALL EVENTS 03" tvg-logo="" group-title="sports",USA: FOOTBALL EVENTS 03
-http://31.43.191.125:8080/JkLSFzavCXNW/EdTWE3FK8Nnz/155329
-#EXTINF:-1 tvg-name="USA: FOOTBALL EVENTS 04" tvg-logo="" group-title="sports",USA: FOOTBALL EVENTS 04
-http://31.43.191.125:8080/JkLSFzavCXNW/EdTWE3FK8Nnz/155330
-#EXTINF:-1 tvg-name="USA: FOOTBALL EVENTS 05" tvg-logo="" group-title="sports",USA: FOOTBALL EVENTS 05
-http://31.43.191.125:8080/JkLSFzavCXNW/EdTWE3FK8Nnz/155331
-#EXTINF:-1 tvg-name="USA: FOOTBALL EVENTS 06" tvg-logo="" group-title="sports",USA: FOOTBALL EVENTS 06
-http://31.43.191.125:8080/JkLSFzavCXNW/EdTWE3FK8Nnz/155332
-#EXTINF:-1 tvg-name="USA: FOOTBALL EVENTS 07" tvg-logo="" group-title="sports",USA: FOOTBALL EVENTS 07
-http://31.43.191.125:8080/JkLSFzavCXNW/EdTWE3FK8Nnz/155333
-#EXTINF:-1 tvg-name="USA: FOOTBALL EVENTS 08" tvg-logo="" group-title="sports",USA: FOOTBALL EVENTS 08
-http://31.43.191.125:8080/JkLSFzavCXNW/EdTWE3FK8Nnz/155334
-#EXTINF:-1 tvg-name="USA: FOOTBALL EVENTS 09" tvg-logo="" group-title="sports",USA: FOOTBALL EVENTS 09
-http://31.43.191.125:8080/JkLSFzavCXNW/EdTWE3FK8Nnz/155335
-#EXTINF:-1 tvg-name="USA: FOOTBALL EVENTS 10" tvg-logo="" group-title="sports",USA: FOOTBALL EVENTS 10
-http://31.43.191.125:8080/JkLSFzavCXNW/EdTWE3FK8Nnz/155336
-#EXTINF:-1 tvg-name="USA: FOOTBALL EVENTS 11" tvg-logo="" group-title="sports",USA: FOOTBALL EVENTS 11
-http://31.43.191.125:8080/JkLSFzavCXNW/EdTWE3FK8Nnz/155337
-#EXTINF:-1 tvg-name="USA: FOOTBALL EVENTS 12" tvg-logo="" group-title="sports",USA: FOOTBALL EVENTS 12
-http://31.43.191.125:8080/JkLSFzavCXNW/EdTWE3FK8Nnz/155338
-#EXTINF:-1 tvg-name="USA: FOOTBALL EVENTS 13" tvg-logo="" group-title="sports",USA: FOOTBALL EVENTS 13
-http://31.43.191.125:8080/JkLSFzavCXNW/EdTWE3FK8Nnz/155339
-#EXTINF:-1 tvg-name="USA: FOOTBALL EVENTS 15" tvg-logo="" group-title="sports",USA: FOOTBALL EVENTS 15
-http://31.43.191.125:8080/JkLSFzavCXNW/EdTWE3FK8Nnz/155340
-#EXTINF:-1 tvg-name="USA: FOOTBALL EVENTS 16" tvg-logo="" group-title="sports",USA: FOOTBALL EVENTS 16
-http://31.43.191.125:8080/JkLSFzavCXNW/EdTWE3FK8Nnz/155341
-#EXTINF:-1 tvg-name="USA: FOOTBALL EVENTS 17" tvg-logo="" group-title="sports",USA: FOOTBALL EVENTS 17
-http://31.43.191.125:8080/JkLSFzavCXNW/EdTWE3FK8Nnz/155342
-#EXTINF:-1 tvg-name="USA: FOOTBALL EVENTS 18" tvg-logo="" group-title="sports",USA: FOOTBALL EVENTS 18
-http://31.43.191.125:8080/JkLSFzavCXNW/EdTWE3FK8Nnz/155343
-#EXTINF:-1 tvg-name="USA: FOOTBALL EVENTS 19" tvg-logo="" group-title="sports",USA: FOOTBALL EVENTS 19
-http://31.43.191.125:8080/JkLSFzavCXNW/EdTWE3FK8Nnz/155344
-#EXTINF:-1 tvg-name="USA: FOOTBALL EVENTS 20" tvg-logo="" group-title="sports",USA: FOOTBALL EVENTS 20
-http://31.43.191.125:8080/JkLSFzavCXNW/EdTWE3FK8Nnz/155345
-#EXTINF:-1 tvg-name="USA: FOOTBALL EVENTS 21" tvg-logo="" group-title="sports",USA: FOOTBALL EVENTS 21
-http://31.43.191.125:8080/JkLSFzavCXNW/EdTWE3FK8Nnz/155346
-#EXTINF:-1 tvg-name="USA: FOOTBALL EVENTS 22" tvg-logo="" group-title="sports",USA: FOOTBALL EVENTS 22
-http://31.43.191.125:8080/JkLSFzavCXNW/EdTWE3FK8Nnz/155347
-#EXTINF:-1 tvg-name="USA: FOOTBALL EVENTS 23" tvg-logo="" group-title="sports",USA: FOOTBALL EVENTS 23
-http://31.43.191.125:8080/JkLSFzavCXNW/EdTWE3FK8Nnz/155348
-#EXTINF:-1 tvg-name="USA: FOOTBALL EVENTS 24" tvg-logo="" group-title="sports",USA: FOOTBALL EVENTS 24
-http://31.43.191.125:8080/JkLSFzavCXNW/EdTWE3FK8Nnz/155349
-#EXTINF:-1 tvg-name="USA: FOOTBALL EVENTS 25" tvg-logo="" group-title="sports",USA: FOOTBALL EVENTS 25
-http://31.43.191.125:8080/JkLSFzavCXNW/EdTWE3FK8Nnz/155350
-#EXTINF:-1 tvg-name="USA: FOOTBALL EVENTS 26" tvg-logo="" group-title="sports",USA: FOOTBALL EVENTS 26
-http://31.43.191.125:8080/JkLSFzavCXNW/EdTWE3FK8Nnz/155351
-#EXTINF:-1 tvg-name="USA: FOOTBALL EVENTS 27" tvg-logo="" group-title="sports",USA: FOOTBALL EVENTS 27
-http://31.43.191.125:8080/JkLSFzavCXNW/EdTWE3FK8Nnz/155352
-#EXTINF:-1 tvg-name="USA: FOOTBALL EVENTS 28" tvg-logo="" group-title="sports",USA: FOOTBALL EVENTS 28
-http://31.43.191.125:8080/JkLSFzavCXNW/EdTWE3FK8Nnz/155353
-#EXTINF:-1 tvg-name="USA: FOOTBALL EVENTS 29" tvg-logo="" group-title="sports",USA: FOOTBALL EVENTS 29
-http://31.43.191.125:8080/JkLSFzavCXNW/EdTWE3FK8Nnz/155354
-#EXTINF:-1 tvg-name="USA: FOOTBALL EVENTS 30" tvg-logo="" group-title="sports",USA: FOOTBALL EVENTS 30
-http://31.43.191.125:8080/JkLSFzavCXNW/EdTWE3FK8Nnz/155355
-#EXTINF:-1 tvg-name="USA: FOOTBALL EVENTS 31" tvg-logo="" group-title="sports",USA: FOOTBALL EVENTS 31
-http://31.43.191.125:8080/JkLSFzavCXNW/EdTWE3FK8Nnz/155356
-#EXTINF:-1 tvg-name="USA: FOOTBALL EVENTS 32" tvg-logo="" group-title="sports",USA: FOOTBALL EVENTS 32
-http://31.43.191.125:8080/JkLSFzavCXNW/EdTWE3FK8Nnz/155357
-#EXTINF:-1 tvg-name="USA: FOOTBALL EVENTS 33" tvg-logo="" group-title="sports",USA: FOOTBALL EVENTS 33
-http://31.43.191.125:8080/JkLSFzavCXNW/EdTWE3FK8Nnz/155358
-#EXTINF:-1 tvg-name="USA: FOOTBALL EVENTS 34" tvg-logo="" group-title="sports",USA: FOOTBALL EVENTS 34
-http://31.43.191.125:8080/JkLSFzavCXNW/EdTWE3FK8Nnz/155359
-#EXTINF:-1 tvg-name="USA: FOOTBALL EVENTS 35" tvg-logo="" group-title="sports",USA: FOOTBALL EVENTS 35
-http://31.43.191.125:8080/JkLSFzavCXNW/EdTWE3FK8Nnz/155360
-#EXTINF:-1 tvg-name="USA: FOOTBALL EVENTS 36" tvg-logo="" group-title="sports",USA: FOOTBALL EVENTS 36
-http://31.43.191.125:8080/JkLSFzavCXNW/EdTWE3FK8Nnz/155361
-#EXTINF:-1 tvg-name="USA: FOOTBALL EVENTS 37" tvg-logo="" group-title="sports",USA: FOOTBALL EVENTS 37
-http://31.43.191.125:8080/JkLSFzavCXNW/EdTWE3FK8Nnz/155362
-#EXTINF:-1 tvg-name="USA: FOOTBALL EVENTS 38" tvg-logo="" group-title="sports",USA: FOOTBALL EVENTS 38
-http://31.43.191.125:8080/JkLSFzavCXNW/EdTWE3FK8Nnz/155363
-#EXTINF:-1 tvg-name="USA: FOOTBALL EVENTS 39" tvg-logo="" group-title="sports",USA: FOOTBALL EVENTS 39
-http://31.43.191.125:8080/JkLSFzavCXNW/EdTWE3FK8Nnz/155364
-#EXTINF:-1 tvg-name="USA: FOX SPORTS" tvg-logo="" group-title="sports",USA: FOX SPORTS
-http://31.43.191.125:8080/JkLSFzavCXNW/EdTWE3FK8Nnz/155481
-#EXTINF:-1 tvg-name="US : FOX SPORTS 2" tvg-logo="" group-title="sports",US : FOX SPORTS 2
-http://hostengine.live/live/john/franklin/54776.m3u
-#EXTINF:-1 tvg-name="USA: FOX SPORTS NETBASE" tvg-logo="" group-title="sports",USA: FOX SPORTS NETBASE
-http://31.43.191.125:8080/JkLSFzavCXNW/EdTWE3FK8Nnz/155483
-#EXTINF:-1 tvg-name="USA: FUBO SPORTS 01" tvg-logo="" group-title="sports",USA: FUBO SPORTS 01
-http://31.43.191.125:8080/JkLSFzavCXNW/EdTWE3FK8Nnz/155501
-#EXTINF:-1 tvg-name="USA: FUBO SPORTS 02" tvg-logo="" group-title="sports",USA: FUBO SPORTS 02
-http://31.43.191.125:8080/JkLSFzavCXNW/EdTWE3FK8Nnz/155502
-#EXTINF:-1 tvg-name="USA: FUBO SPORTS 03" tvg-logo="" group-title="sports",USA: FUBO SPORTS 03
-http://31.43.191.125:8080/JkLSFzavCXNW/EdTWE3FK8Nnz/155503
-#EXTINF:-1 tvg-name="USA: FUBO SPORTS 05" tvg-logo="" group-title="sports",USA: FUBO SPORTS 05
-http://31.43.191.125:8080/JkLSFzavCXNW/EdTWE3FK8Nnz/155504
-#EXTINF:-1 tvg-name="USA: FUBO SPORTS 06" tvg-logo="" group-title="sports",USA: FUBO SPORTS 06
-http://31.43.191.125:8080/JkLSFzavCXNW/EdTWE3FK8Nnz/155505
-#EXTINF:-1 tvg-name="USA: FUBO SPORTS 07" tvg-logo="" group-title="sports",USA: FUBO SPORTS 07
-http://31.43.191.125:8080/JkLSFzavCXNW/EdTWE3FK8Nnz/155506
-#EXTINF:-1 tvg-name="USA: FUBO SPORTS 08" tvg-logo="" group-title="sports",USA: FUBO SPORTS 08
-http://31.43.191.125:8080/JkLSFzavCXNW/EdTWE3FK8Nnz/155507
-#EXTINF:-1 tvg-name="US : FUBO SPORTS NETWORK" tvg-logo="" group-title="sports",US : FUBO SPORTS NETWORK
-http://hostengine.live/live/john/franklin/317097.m3u
-#EXTINF:-1 tvg-name="USA: GINX ESPORTS" tvg-logo="" group-title="sports",USA: GINX ESPORTS
-http://31.43.191.125:8080/JkLSFzavCXNW/EdTWE3FK8Nnz/155528
-#EXTINF:-1 tvg-name="US : MARQUEE SPORTS NETWORK" tvg-logo="" group-title="sports",US : MARQUEE SPORTS NETWORK
-http://hostengine.live/live/john/franklin/55067.m3u
-#EXTINF:-1 tvg-name="USA: MATCHED MARRIED MEET BY LIFETIME" tvg-logo="" group-title="sports",USA: MATCHED MARRIED MEET BY LIFETIME
-http://31.43.191.125:8080/JkLSFzavCXNW/EdTWE3FK8Nnz/155716
-#EXTINF:-1 tvg-name="USA: MMA TV" tvg-logo="" group-title="sports",USA: MMA TV
-http://31.43.191.125:8080/JkLSFzavCXNW/EdTWE3FK8Nnz/155794
-#EXTINF:-1 tvg-name="US : MONUMENTAL SPORTS NETWORK" tvg-logo="" group-title="sports",US : MONUMENTAL SPORTS NETWORK
-http://hostengine.live/live/john/franklin/54435.m3u
-#EXTINF:-1 tvg-name="USA: NBC SPORT NETWORK" tvg-logo="" group-title="sports",USA: NBC SPORT NETWORK
-http://31.43.191.125:8080/JkLSFzavCXNW/EdTWE3FK8Nnz/156135
-#EXTINF:-1 tvg-name="US : NBC SPORTS BOSTON" tvg-logo="" group-title="sports",US : NBC SPORTS BOSTON
-http://hostengine.live/live/john/franklin/54430.m3u
-#EXTINF:-1 tvg-name="USA: NBC SPORTS CALIFORNIA PLUS" tvg-logo="" group-title="sports",USA: NBC SPORTS CALIFORNIA PLUS
-http://31.43.191.125:8080/JkLSFzavCXNW/EdTWE3FK8Nnz/156137
-#EXTINF:-1 tvg-name="USA: NBC SPORTS CHICAGO" tvg-logo="" group-title="sports",USA: NBC SPORTS CHICAGO
-http://31.43.191.125:8080/JkLSFzavCXNW/EdTWE3FK8Nnz/156138
-#EXTINF:-1 tvg-name="US : NBC SPORTS CHICAGO PLUS" tvg-logo="" group-title="sports",US : NBC SPORTS CHICAGO PLUS
-http://hostengine.live/live/john/franklin/97033.m3u
-#EXTINF:-1 tvg-name="USA: NBC SPORTS PHILADELFIA" tvg-logo="" group-title="sports",USA: NBC SPORTS PHILADELFIA
-http://31.43.191.125:8080/JkLSFzavCXNW/EdTWE3FK8Nnz/156140
-#EXTINF:-1 tvg-name="USA: NBC SPORTS PHILADELPHIA PLUS" tvg-logo="" group-title="sports",USA: NBC SPORTS PHILADELPHIA PLUS
-http://31.43.191.125:8080/JkLSFzavCXNW/EdTWE3FK8Nnz/156141
-#EXTINF:-1 tvg-name="USA: NBC SPORTS WASHINGTON" tvg-logo="" group-title="sports",USA: NBC SPORTS WASHINGTON
-http://31.43.191.125:8080/JkLSFzavCXNW/EdTWE3FK8Nnz/156142
-#EXTINF:-1 tvg-name="NHL 02 (ESPN)" tvg-logo="" group-title="sports",NHL 02 (ESPN)
-http://hostengine.live/live/john/franklin/325528.m3u
-#EXTINF:-1 tvg-name="USA: NHL 03 - ESPN 2" tvg-logo="" group-title="sports",USA: NHL 03 - ESPN 2
-http://31.43.191.125:8080/JkLSFzavCXNW/EdTWE3FK8Nnz/156344
-#EXTINF:-1 tvg-name="USA: ORIGIN SPORTS" tvg-logo="" group-title="sports",USA: ORIGIN SPORTS
-http://31.43.191.125:8080/JkLSFzavCXNW/EdTWE3FK8Nnz/156392
-#EXTINF:-1 tvg-name="USA: PFL MMA" tvg-logo="" group-title="sports",USA: PFL MMA
-http://31.43.191.125:8080/JkLSFzavCXNW/EdTWE3FK8Nnz/156445
-#EXTINF:-1 tvg-name="USA: ROOT SPORTS" tvg-logo="" group-title="sports",USA: ROOT SPORTS
-http://31.43.191.125:8080/JkLSFzavCXNW/EdTWE3FK8Nnz/156491
-#EXTINF:-1 tvg-name="USA: SNY SPORTSNET NEW YORK" tvg-logo="" group-title="sports",USA: SNY SPORTSNET NEW YORK
-http://hostengine.live/live/john/franklin/55084.m3u
-#EXTINF:-1 tvg-name="US | Spectrum SportsNet LA Dodgers" tvg-logo="" group-title="sports",US | Spectrum SportsNet LA Dodgers
-https://skynetmax.live:8443/play/pF5FbpT1J4mElJjGxGs-csXbI-OFsRy7DLvpsZSLCqbb27tPNBPVhLbqcuh1lbcR
-#EXTINF:-1 tvg-name="USA: SPORTS" tvg-logo="" group-title="sports",USA: SPORTS
-http://31.43.191.125:8080/JkLSFzavCXNW/EdTWE3FK8Nnz/156588
-#EXTINF:-1 tvg-name="USA: SPORTS GRID" tvg-logo="" group-title="sports",USA: SPORTS GRID
-http://hostengine.live/live/john/franklin/287243.m3u
-#EXTINF:-1 tvg-name="USA: SPORTSGRID" tvg-logo="" group-title="sports",USA: SPORTSGRID
-http://31.43.191.125:8080/JkLSFzavCXNW/EdTWE3FK8Nnz/156590
-#EXTINF:-1 tvg-name="US : SPORTSMAN CHANNEL" tvg-logo="" group-title="sports",US : SPORTSMAN CHANNEL
-http://hostengine.live/live/john/franklin/55087.m3u
-#EXTINF:-1 tvg-name="USA: SPORTSNET NEW YORK" tvg-logo="" group-title="sports",USA: SPORTSNET NEW YORK
-http://31.43.191.125:8080/JkLSFzavCXNW/EdTWE3FK8Nnz/156592
-#EXTINF:-1 tvg-name="UK| TENNIS CHANNEL HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-sports-tennis-hz-uk.png" group-title="sports",UK| TENNIS CHANNEL HD
-http://hostengine.live/live/john/franklin/249142.m3u
-#EXTINF:-1 tvg-name="USA: THE SPORTSMAN CHANNEL" tvg-logo="" group-title="sports",USA: THE SPORTSMAN CHANNEL
-http://31.43.191.125:8080/JkLSFzavCXNW/EdTWE3FK8Nnz/156683
-#EXTINF:-1 tvg-name="USA: TYC SPORTS" tvg-logo="" group-title="sports",USA: TYC SPORTS
-http://31.43.191.125:8080/JkLSFzavCXNW/EdTWE3FK8Nnz/156738
-#EXTINF:-1 tvg-name="USA: WOMENS SPORTS NETWORK" tvg-logo="" group-title="sports",USA: WOMENS SPORTS NETWORK
-http://31.43.191.125:8080/JkLSFzavCXNW/EdTWE3FK8Nnz/156821
-#EXTINF:-1 tvg-name="NZ: VIP SKY SPORT 1" tvg-logo="" group-title="sports",NZ: VIP SKY SPORT 1
-http://31.43.191.125:8080/JkLSFzavCXNW/EdTWE3FK8Nnz/56471
-#EXTINF:-1 tvg-name="NZ: VIP SKY SPORT 2" tvg-logo="" group-title="sports",NZ: VIP SKY SPORT 2
-http://31.43.191.125:8080/JkLSFzavCXNW/EdTWE3FK8Nnz/56472
-#EXTINF:-1 tvg-name="NZ: VIP SKY SPORT 4" tvg-logo="" group-title="sports",NZ: VIP SKY SPORT 4
-http://31.43.191.125:8080/JkLSFzavCXNW/EdTWE3FK8Nnz/56474
-#EXTINF:-1 tvg-name="NZ: VIP SKY SPORT 6" tvg-logo="" group-title="sports",NZ: VIP SKY SPORT 6
-http://31.43.191.125:8080/JkLSFzavCXNW/EdTWE3FK8Nnz/56476
-#EXTINF:-1 tvg-name="NZ: VIP SKY SPORT 7" tvg-logo="" group-title="sports",NZ: VIP SKY SPORT 7
-http://31.43.191.125:8080/JkLSFzavCXNW/EdTWE3FK8Nnz/56477
-#EXTINF:-1 tvg-name="NZ: VIP SKY SPORT 9" tvg-logo="" group-title="sports",NZ: VIP SKY SPORT 9
-http://31.43.191.125:8080/JkLSFzavCXNW/EdTWE3FK8Nnz/56479
 #EXTINF:-1 tvg-name="ESPN 1 HD" tvg-logo="" group-title="sports",ESPN 1 HD
-http://go.iptvhn.net:25461/7619/7619/836
-#EXTINF:-1 tvg-name="AU: FOX SPORTS 501" tvg-logo="" group-title="sports",AU: FOX SPORTS 501
-http://31.43.191.125:8080/JkLSFzavCXNW/EdTWE3FK8Nnz/25029
-#EXTINF:-1 tvg-name="AU: FOX SPORTS 502" tvg-logo="" group-title="sports",AU: FOX SPORTS 502
-http://31.43.191.125:8080/JkLSFzavCXNW/EdTWE3FK8Nnz/25030
-#EXTINF:-1 tvg-name="AU: FOX SPORTS 503" tvg-logo="" group-title="sports",AU: FOX SPORTS 503
-http://31.43.191.125:8080/JkLSFzavCXNW/EdTWE3FK8Nnz/25031
-#EXTINF:-1 tvg-name="AU: FOX SPORTS 504" tvg-logo="" group-title="sports",AU: FOX SPORTS 504
-http://31.43.191.125:8080/JkLSFzavCXNW/EdTWE3FK8Nnz/25032
-#EXTINF:-1 tvg-name="AU: FOX SPORTS 505" tvg-logo="" group-title="sports",AU: FOX SPORTS 505
-http://31.43.191.125:8080/JkLSFzavCXNW/EdTWE3FK8Nnz/25033
-#EXTINF:-1 tvg-name="AU: FOX SPORTS 506" tvg-logo="" group-title="sports",AU: FOX SPORTS 506
-http://31.43.191.125:8080/JkLSFzavCXNW/EdTWE3FK8Nnz/25034
-#EXTINF:-1 tvg-name="AU: FOX SPORTS 507" tvg-logo="" group-title="sports",AU: FOX SPORTS 507
-http://31.43.191.125:8080/JkLSFzavCXNW/EdTWE3FK8Nnz/25035
-#EXTINF:-1 tvg-name="AU: FOX SPORTS NEWS" tvg-logo="" group-title="sports",AU: FOX SPORTS NEWS
-http://31.43.191.125:8080/JkLSFzavCXNW/EdTWE3FK8Nnz/25036
-#EXTINF:-1 tvg-name="ES (O) Eurosport 1" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Eurosport%201%20HD.png" group-title="sports",ES (O) Eurosport 1
-http://zonaxes.vip:80/9bebbkyvc62/sv5gw0e7nu/1235300
-#EXTINF:-1 tvg-name="ES (O) Eurosport 2" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Eurosport%202.png" group-title="sports",ES (O) Eurosport 2
-http://zonaxes.vip:80/9bebbkyvc62/sv5gw0e7nu/1235301
-#EXTINF:-1 tvg-name="ES (AV) EUROSPORT 1" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Eurosport%201.png" group-title="sports",ES (AV) EUROSPORT 1
-http://zonaxes.vip:80/9bebbkyvc62/sv5gw0e7nu/1663426
-#EXTINF:-1 tvg-name="ES (AV) EUROSPORT 2" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Eurosport%202.png" group-title="sports",ES (AV) EUROSPORT 2
-http://zonaxes.vip:80/9bebbkyvc62/sv5gw0e7nu/1663425
-#EXTINF:-1 tvg-name="ESPN 6 SD [P]" tvg-logo="s:1:/images/PMMm5g39tUUIhYrim0QVe3QQam3ANW07mXl78aAQY99ifWnpfe0pgAoCnTw0YODz35kmhgw0MNrvhkir7RXD0pAqhvlPjnjSmsz_u0fh1jM.png" group-title="sports",ESPN 6 SD [P]
-http://fonte.lista.luxe:8080/iptvgood/101011/3978
-#EXTINF:-1 tvg-name="ESPN 2 FHD [P]" tvg-logo="http://srv.mypanel.life:8080/images/06760656a36a5281e3991756a5648eae.png" group-title="sports",ESPN 2 FHD [P]
-http://fonte.lista.luxe:8080/iptvgood/101011/4791
-#EXTINF:-1 tvg-name="UK| TNT SPORT ESPN HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/bt-sport-espn-hz-uk.png" group-title="sports",UK| TNT SPORT ESPN HD
-http://31.43.191.210:8080/live/iptv.kosiptv.comNEW/gJUP3KsM2ENEW/9883.m3u
-#EXTINF:-1 tvg-name="|UK| UK SPORT |UK|" tvg-logo="" group-title="sports",|UK| UK SPORT |UK|
-http://31.43.191.210:8080/live/iptv.kosiptv.comNEW/gJUP3KsM2ENEW/4219.m3u
-#EXTINF:-1 tvg-name="UK| SKY SPORTS 5 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-sports-hz-uk.png" group-title="sports",UK| SKY SPORTS 5 HD
-http://31.43.191.210:8080/live/iptv.kosiptv.comNEW/gJUP3KsM2ENEW/4260.m3u
-#EXTINF:-1 tvg-name="AR: Bein Sports 1 English" tvg-logo="" group-title="sports",AR: Bein Sports 1 English
-http://31.43.191.210:8080/live/iptv.kosiptv.comNEW/gJUP3KsM2ENEW/4156.m3u
-#EXTINF:-1 tvg-name="UK| TNT SPORT EXTRA 1 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/bt-sport-1-uk.png" group-title="sports",UK| TNT SPORT EXTRA 1 HD
-http://31.43.191.210:8080/live/iptv.kosiptv.comNEW/gJUP3KsM2ENEW/4225.m3u
-#EXTINF:-1 tvg-name="UK| TNT SPORT EXTRA 2 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/bt-sport-2-uk.png" group-title="sports",UK| TNT SPORT EXTRA 2 HD
-http://31.43.191.210:8080/live/iptv.kosiptv.comNEW/gJUP3KsM2ENEW/4224.m3u
-#EXTINF:-1 tvg-name="UK| TNT SPORT EXTRA 3 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/bt-sport-3-uk.png" group-title="sports",UK| TNT SPORT EXTRA 3 HD
-http://31.43.191.210:8080/live/iptv.kosiptv.comNEW/gJUP3KsM2ENEW/4223.m3u
-#EXTINF:-1 tvg-name="UK| TNT SPORT EXTRA 4 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/bt-sport-4-uk.png" group-title="sports",UK| TNT SPORT EXTRA 4 HD
-http://31.43.191.210:8080/live/iptv.kosiptv.comNEW/gJUP3KsM2ENEW/4222.m3u
-#EXTINF:-1 tvg-name="UK| PREMIER SPORTS HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/premier-sports-1-uk.png" group-title="sports",UK| PREMIER SPORTS HD
-http://31.43.191.210:8080/live/iptv.kosiptv.comNEW/gJUP3KsM2ENEW/4182.m3u
-#EXTINF:-1 tvg-name="UK| USA|FOX SPORTS 1 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fox-sports-us.png" group-title="sports",UK| USA|FOX SPORTS 1 HD
-http://31.43.191.210:8080/live/iptv.kosiptv.comNEW/gJUP3KsM2ENEW/4159.m3u
-#EXTINF:-1 tvg-name="UK| USA|FOX SPORTS 2 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fox-sports-us.png" group-title="sports",UK| USA|FOX SPORTS 2 HD
-http://31.43.191.210:8080/live/iptv.kosiptv.comNEW/gJUP3KsM2ENEW/4157.m3u
-#EXTINF:-1 tvg-name="UK| USA|SPORTSNET WORLD HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/spectrum-sportsnet-us.png" group-title="sports",UK| USA|SPORTSNET WORLD HD
-http://31.43.191.210:8080/live/iptv.kosiptv.comNEW/gJUP3KsM2ENEW/4153.m3u
-#EXTINF:-1 tvg-name="ESPN 3" tvg-logo="" group-title="sports",ESPN 3
-https://skynetmax.live:8443/play/pF5FbpT1J4mElJjGxGs-ck1oZEyuTzPJmSL5D5ZzpTrIDMEc9J8yN2FGeZvc_JCO
-#EXTINF:-1 tvg-name="ESPN Deportes" tvg-logo="" group-title="sports",ESPN Deportes
-https://skynetmax.live:8443/play/pF5FbpT1J4mElJjGxGs-cuDHQjCr4A-u9tFxtQoCm2smTQMYxtva7RZSbTG50Db5
-#EXTINF:-1 tvg-name="Eurosport 1 UK" tvg-logo="https://tvprofil.com/img/kanali-logo/eurosport-uk-logo.png" group-title="sports",Eurosport 1 UK
-http://caffe.link:25461/111Siniisa/2ApupeRBtTRt/13847
-#EXTINF:-1 tvg-name="Eurosport 1 NL" tvg-logo="http://epg.netsolutionpro.com/logo-tv/221.sr.png" group-title="sports",Eurosport 1 NL
-http://caffe.link:25461/111Siniisa/2ApupeRBtTRt/13687
-#EXTINF:-1 tvg-name="Eurosport 1 DE" tvg-logo="https://tvprofil.com/img/kanali-logo/Eurosport_2015_logo.png" group-title="sports",Eurosport 1 DE
-http://caffe.link:25461/111Siniisa/2ApupeRBtTRt/1506
-#EXTINF:-1 tvg-name="Eurosport 2 DE" tvg-logo="" group-title="sports",Eurosport 2 DE
-http://caffe.link:25461/111Siniisa/2ApupeRBtTRt/5822
-#EXTINF:-1 tvg-name="BSports ESPN HD" tvg-logo="https://tvprofil.com/img/kanali-logo/ESPNUK.png" group-title="sports",BSports ESPN HD
-http://caffe.link:25461/111Siniisa/2ApupeRBtTRt/1488
+http://go.iptvhn.net:25461/7151/71512023/836
+#EXTINF:-1 tvg-name="ESPN 2 HD" tvg-logo="" group-title="sports",ESPN 2 HD
+http://go.iptvhn.net:25461/7151/71512023/837
+#EXTINF:-1 tvg-name="ESPN 3." tvg-logo="" group-title="sports",ESPN 3.
+http://go.iptvhn.net:25461/7151/71512023/838
 #EXTINF:-1 tvg-name="ESPN 4 HD" tvg-logo="" group-title="sports",ESPN 4 HD
-http://go.iptvhn.net:25461/7619/7619/909
+http://go.iptvhn.net:25461/7151/71512023/909
 #EXTINF:-1 tvg-name="ESPN 5 HD" tvg-logo="" group-title="sports",ESPN 5 HD
-http://go.iptvhn.net:25461/7619/7619/1069
+http://go.iptvhn.net:25461/7151/71512023/1069
 #EXTINF:-1 tvg-name="ESPN 6 HD" tvg-logo="" group-title="sports",ESPN 6 HD
-http://go.iptvhn.net:25461/7619/7619/1072
+http://go.iptvhn.net:25461/7151/71512023/1072
 #EXTINF:-1 tvg-name="ESPN SUR" tvg-logo="" group-title="sports",ESPN SUR
-http://go.iptvhn.net:25461/7619/7619/2469
+http://go.iptvhn.net:25461/7151/71512023/2469
 #EXTINF:-1 tvg-name="ESPN 2 SUR" tvg-logo="" group-title="sports",ESPN 2 SUR
-http://go.iptvhn.net:25461/7619/7619/2470
+http://go.iptvhn.net:25461/7151/71512023/2470
 #EXTINF:-1 tvg-name="ESPN 4 SUR" tvg-logo="" group-title="sports",ESPN 4 SUR
-http://go.iptvhn.net:25461/7619/7619/2473
-#EXTINF:-1 tvg-name="UK: BT SPORT ESPN HD" tvg-logo="https://sport-onthebox.com/wp-content/uploads/2019/08/BT-Sport-ESPN.png" group-title="sports",UK: BT SPORT ESPN HD
-http://vewora.com:8080/live/281569whatsapp/p6UYrtuBXKWF/5137c786-ee19-4914-8e3b-872a35143384.ts
-#EXTINF:-1 tvg-name="UK| EXTREME SPORTS" tvg-logo="https://lo1.in/LOGO/EXYU/SPORTS/SPORTSKA.png" group-title="sports",UK| EXTREME SPORTS
-http://vewora.com:8080/live/281569whatsapp/p6UYrtuBXKWF/d06b40f0-5a25-4577-9448-20a40fcb65b9.ts
-#EXTINF:-1 tvg-name="24/7: ESPN 30 For 30" tvg-logo="" group-title="sports",24/7: ESPN 30 For 30
-http://hostengine.live/live/john/franklin/224099.m3u
-#EXTINF:-1 tvg-name="AU: 10 SPORT 01" tvg-logo="" group-title="sports",AU: 10 SPORT 01
-http://hostengine.live/live/john/franklin/278769.m3u
-#EXTINF:-1 tvg-name="AU: 10 SPORT 02" tvg-logo="" group-title="sports",AU: 10 SPORT 02
-http://hostengine.live/live/john/franklin/280441.m3u
-#EXTINF:-1 tvg-name="AU: 10 SPORT 03" tvg-logo="" group-title="sports",AU: 10 SPORT 03
-http://hostengine.live/live/john/franklin/280439.m3u
-#EXTINF:-1 tvg-name="AU: 10 SPORT 04" tvg-logo="" group-title="sports",AU: 10 SPORT 04
-http://hostengine.live/live/john/franklin/280440.m3u
-#EXTINF:-1 tvg-name="CA : (FR) TVA SPORTS 2" tvg-logo="" group-title="sports",CA : (FR) TVA SPORTS 2
-http://hostengine.live/live/john/franklin/309489.m3u
-#EXTINF:-1 tvg-name="CA : BEIN SPORTS CANADA" tvg-logo="" group-title="sports",CA : BEIN SPORTS CANADA
-http://hostengine.live/live/john/franklin/53609.m3u
-#EXTINF:-1 tvg-name="CA : SPORTSMAN HD" tvg-logo="" group-title="sports",CA : SPORTSMAN HD
-http://hostengine.live/live/john/franklin/103320.m3u
-#EXTINF:-1 tvg-name="CA | Sportsnet East" tvg-logo="" group-title="sports",CA | Sportsnet East
-https://skynetmax.live:8443/play/pF5FbpT1J4mElJjGxGs-cmJvara0I87n8WmY8HX5ecjxS0l3BJ9b48Gi0Rla-e8T
-#EXTINF:-1 tvg-name="CA : SPORTSNET EAST b" tvg-logo="" group-title="sports",CA : SPORTSNET EAST b
-http://hostengine.live/live/john/franklin/53749.m3u
-#EXTINF:-1 tvg-name="CARIBBEAN : ESPN" tvg-logo="" group-title="sports",CARIBBEAN : ESPN
-http://hostengine.live/live/john/franklin/118998.m3u
-#EXTINF:-1 tvg-name="ESPN+ EVENT 001" tvg-logo="" group-title="sports",ESPN+ EVENT 001
-http://hostengine.live/live/john/franklin/343699.m3u
-#EXTINF:-1 tvg-name="ESPN+ EVENT 002" tvg-logo="" group-title="sports",ESPN+ EVENT 002
-http://hostengine.live/live/john/franklin/343700.m3u
-#EXTINF:-1 tvg-name="ESPN+ EVENT 003" tvg-logo="" group-title="sports",ESPN+ EVENT 003
-http://hostengine.live/live/john/franklin/343701.m3u
-#EXTINF:-1 tvg-name="ESPN+ EVENT 004" tvg-logo="" group-title="sports",ESPN+ EVENT 004
-http://hostengine.live/live/john/franklin/343702.m3u
-#EXTINF:-1 tvg-name="ESPN+ EVENT 005" tvg-logo="" group-title="sports",ESPN+ EVENT 005
-http://hostengine.live/live/john/franklin/343703.m3u
-#EXTINF:-1 tvg-name="ESPN+ EVENT 006" tvg-logo="" group-title="sports",ESPN+ EVENT 006
-http://hostengine.live/live/john/franklin/343704.m3u
-#EXTINF:-1 tvg-name="ESPN+ EVENT 007" tvg-logo="" group-title="sports",ESPN+ EVENT 007
-http://hostengine.live/live/john/franklin/343705.m3u
-#EXTINF:-1 tvg-name="ESPN+ EVENT 008" tvg-logo="" group-title="sports",ESPN+ EVENT 008
-http://hostengine.live/live/john/franklin/343706.m3u
-#EXTINF:-1 tvg-name="ESPN+ EVENT 009" tvg-logo="" group-title="sports",ESPN+ EVENT 009
-http://hostengine.live/live/john/franklin/343707.m3u
-#EXTINF:-1 tvg-name="ESPN+ EVENT 010" tvg-logo="" group-title="sports",ESPN+ EVENT 010
-http://hostengine.live/live/john/franklin/343708.m3u
-#EXTINF:-1 tvg-name="ESPN+ EVENT 011" tvg-logo="" group-title="sports",ESPN+ EVENT 011
-http://hostengine.live/live/john/franklin/343709.m3u
-#EXTINF:-1 tvg-name="ESPN+ EVENT 012" tvg-logo="" group-title="sports",ESPN+ EVENT 012
-http://hostengine.live/live/john/franklin/343710.m3u
-#EXTINF:-1 tvg-name="ESPN+ EVENT 013" tvg-logo="" group-title="sports",ESPN+ EVENT 013
-http://hostengine.live/live/john/franklin/343711.m3u
-#EXTINF:-1 tvg-name="ESPN+ EVENT 014" tvg-logo="" group-title="sports",ESPN+ EVENT 014
-http://hostengine.live/live/john/franklin/343712.m3u
-#EXTINF:-1 tvg-name="ESPN+ EVENT 015" tvg-logo="" group-title="sports",ESPN+ EVENT 015
-http://hostengine.live/live/john/franklin/343713.m3u
-#EXTINF:-1 tvg-name="ESPN+ EVENT 016" tvg-logo="" group-title="sports",ESPN+ EVENT 016
-http://hostengine.live/live/john/franklin/343714.m3u
-#EXTINF:-1 tvg-name="ESPN+ EVENT 017" tvg-logo="" group-title="sports",ESPN+ EVENT 017
-http://hostengine.live/live/john/franklin/343715.m3u
-#EXTINF:-1 tvg-name="ESPN+ EVENT 018" tvg-logo="" group-title="sports",ESPN+ EVENT 018
-http://hostengine.live/live/john/franklin/343716.m3u
-#EXTINF:-1 tvg-name="ESPN+ EVENT 019" tvg-logo="" group-title="sports",ESPN+ EVENT 019
-http://hostengine.live/live/john/franklin/343717.m3u
-#EXTINF:-1 tvg-name="ESPN+ EVENT 020" tvg-logo="" group-title="sports",ESPN+ EVENT 020
-http://hostengine.live/live/john/franklin/343718.m3u
-#EXTINF:-1 tvg-name="ESPN+ EVENT 021" tvg-logo="" group-title="sports",ESPN+ EVENT 021
-http://hostengine.live/live/john/franklin/343719.m3u
-#EXTINF:-1 tvg-name="ESPN+ EVENT 022" tvg-logo="" group-title="sports",ESPN+ EVENT 022
-http://hostengine.live/live/john/franklin/343720.m3u
-#EXTINF:-1 tvg-name="ESPN+ EVENT 023" tvg-logo="" group-title="sports",ESPN+ EVENT 023
-http://hostengine.live/live/john/franklin/343721.m3u
-#EXTINF:-1 tvg-name="ESPN+ EVENT 024" tvg-logo="" group-title="sports",ESPN+ EVENT 024
-http://hostengine.live/live/john/franklin/343722.m3u
-#EXTINF:-1 tvg-name="ESPN+ EVENT 025" tvg-logo="" group-title="sports",ESPN+ EVENT 025
-http://hostengine.live/live/john/franklin/343723.m3u
-#EXTINF:-1 tvg-name="ESPN+ EVENT 026" tvg-logo="" group-title="sports",ESPN+ EVENT 026
-http://hostengine.live/live/john/franklin/343724.m3u
-#EXTINF:-1 tvg-name="ESPN+ EVENT 027" tvg-logo="" group-title="sports",ESPN+ EVENT 027
-http://hostengine.live/live/john/franklin/343725.m3u
-#EXTINF:-1 tvg-name="ESPN+ EVENT 028" tvg-logo="" group-title="sports",ESPN+ EVENT 028
-http://hostengine.live/live/john/franklin/343726.m3u
-#EXTINF:-1 tvg-name="ESPN+ EVENT 029" tvg-logo="" group-title="sports",ESPN+ EVENT 029
-http://hostengine.live/live/john/franklin/343727.m3u
-#EXTINF:-1 tvg-name="ESPN+ EVENT 030" tvg-logo="" group-title="sports",ESPN+ EVENT 030
-http://hostengine.live/live/john/franklin/343728.m3u
-#EXTINF:-1 tvg-name="ESPN+ EVENT 031" tvg-logo="" group-title="sports",ESPN+ EVENT 031
-http://hostengine.live/live/john/franklin/343729.m3u
-#EXTINF:-1 tvg-name="ESPN+ EVENT 032" tvg-logo="" group-title="sports",ESPN+ EVENT 032
-http://hostengine.live/live/john/franklin/343730.m3u
-#EXTINF:-1 tvg-name="ESPN+ EVENT 033" tvg-logo="" group-title="sports",ESPN+ EVENT 033
-http://hostengine.live/live/john/franklin/343731.m3u
-#EXTINF:-1 tvg-name="ESPN+ EVENT 034" tvg-logo="" group-title="sports",ESPN+ EVENT 034
-http://hostengine.live/live/john/franklin/343732.m3u
-#EXTINF:-1 tvg-name="ESPN+ EVENT 035" tvg-logo="" group-title="sports",ESPN+ EVENT 035
-http://hostengine.live/live/john/franklin/343733.m3u
-#EXTINF:-1 tvg-name="ESPN+ EVENT 036" tvg-logo="" group-title="sports",ESPN+ EVENT 036
-http://hostengine.live/live/john/franklin/343734.m3u
-#EXTINF:-1 tvg-name="ESPN+ EVENT 037" tvg-logo="" group-title="sports",ESPN+ EVENT 037
-http://hostengine.live/live/john/franklin/343735.m3u
-#EXTINF:-1 tvg-name="ESPN+ EVENT 038" tvg-logo="" group-title="sports",ESPN+ EVENT 038
-http://hostengine.live/live/john/franklin/343736.m3u
-#EXTINF:-1 tvg-name="ESPN+ EVENT 039" tvg-logo="" group-title="sports",ESPN+ EVENT 039
-http://hostengine.live/live/john/franklin/343737.m3u
-#EXTINF:-1 tvg-name="ESPN+ EVENT 040" tvg-logo="" group-title="sports",ESPN+ EVENT 040
-http://hostengine.live/live/john/franklin/343738.m3u
-#EXTINF:-1 tvg-name="ESPN+ EVENT 041" tvg-logo="" group-title="sports",ESPN+ EVENT 041
-http://hostengine.live/live/john/franklin/343739.m3u
-#EXTINF:-1 tvg-name="ESPN+ EVENT 042" tvg-logo="" group-title="sports",ESPN+ EVENT 042
-http://hostengine.live/live/john/franklin/343740.m3u
-#EXTINF:-1 tvg-name="ESPN+ EVENT 043" tvg-logo="" group-title="sports",ESPN+ EVENT 043
-http://hostengine.live/live/john/franklin/343741.m3u
-#EXTINF:-1 tvg-name="ESPN+ EVENT 044" tvg-logo="" group-title="sports",ESPN+ EVENT 044
-http://hostengine.live/live/john/franklin/343742.m3u
-#EXTINF:-1 tvg-name="ESPN+ EVENT 045" tvg-logo="" group-title="sports",ESPN+ EVENT 045
-http://hostengine.live/live/john/franklin/343743.m3u
-#EXTINF:-1 tvg-name="ESPN+ EVENT 046" tvg-logo="" group-title="sports",ESPN+ EVENT 046
-http://hostengine.live/live/john/franklin/343744.m3u
-#EXTINF:-1 tvg-name="ESPN+ EVENT 047" tvg-logo="" group-title="sports",ESPN+ EVENT 047
-http://hostengine.live/live/john/franklin/343745.m3u
-#EXTINF:-1 tvg-name="ESPN+ EVENT 048" tvg-logo="" group-title="sports",ESPN+ EVENT 048
-http://hostengine.live/live/john/franklin/343746.m3u
-#EXTINF:-1 tvg-name="ESPN+ EVENT 049" tvg-logo="" group-title="sports",ESPN+ EVENT 049
-http://hostengine.live/live/john/franklin/343747.m3u
-#EXTINF:-1 tvg-name="ESPN+ EVENT 050" tvg-logo="" group-title="sports",ESPN+ EVENT 050
-http://hostengine.live/live/john/franklin/343748.m3u
-#EXTINF:-1 tvg-name="ESPN+ EVENT 051" tvg-logo="" group-title="sports",ESPN+ EVENT 051
-http://hostengine.live/live/john/franklin/343749.m3u
-#EXTINF:-1 tvg-name="ESPN+ EVENT 052" tvg-logo="" group-title="sports",ESPN+ EVENT 052
-http://hostengine.live/live/john/franklin/343750.m3u
-#EXTINF:-1 tvg-name="ESPN+ EVENT 053" tvg-logo="" group-title="sports",ESPN+ EVENT 053
-http://hostengine.live/live/john/franklin/343751.m3u
-#EXTINF:-1 tvg-name="ESPN+ EVENT 054" tvg-logo="" group-title="sports",ESPN+ EVENT 054
-http://hostengine.live/live/john/franklin/343752.m3u
-#EXTINF:-1 tvg-name="ESPN+ EVENT 055" tvg-logo="" group-title="sports",ESPN+ EVENT 055
-http://hostengine.live/live/john/franklin/343753.m3u
-#EXTINF:-1 tvg-name="ESPN+ EVENT 056" tvg-logo="" group-title="sports",ESPN+ EVENT 056
-http://hostengine.live/live/john/franklin/343754.m3u
-#EXTINF:-1 tvg-name="ESPN+ EVENT 057" tvg-logo="" group-title="sports",ESPN+ EVENT 057
-http://hostengine.live/live/john/franklin/343755.m3u
-#EXTINF:-1 tvg-name="ESPN+ EVENT 058" tvg-logo="" group-title="sports",ESPN+ EVENT 058
-http://hostengine.live/live/john/franklin/343756.m3u
-#EXTINF:-1 tvg-name="ESPN+ EVENT 059" tvg-logo="" group-title="sports",ESPN+ EVENT 059
-http://hostengine.live/live/john/franklin/343757.m3u
-#EXTINF:-1 tvg-name="ESPN+ EVENT 060" tvg-logo="" group-title="sports",ESPN+ EVENT 060
-http://hostengine.live/live/john/franklin/343758.m3u
-#EXTINF:-1 tvg-name="ESPN+ EVENT 061" tvg-logo="" group-title="sports",ESPN+ EVENT 061
-http://hostengine.live/live/john/franklin/343759.m3u
-#EXTINF:-1 tvg-name="ESPN+ EVENT 062" tvg-logo="" group-title="sports",ESPN+ EVENT 062
-http://hostengine.live/live/john/franklin/343760.m3u
-#EXTINF:-1 tvg-name="ESPN+ EVENT 063" tvg-logo="" group-title="sports",ESPN+ EVENT 063
-http://hostengine.live/live/john/franklin/343761.m3u
-#EXTINF:-1 tvg-name="ESPN+ EVENT 064" tvg-logo="" group-title="sports",ESPN+ EVENT 064
-http://hostengine.live/live/john/franklin/343762.m3u
-#EXTINF:-1 tvg-name="ESPN+ EVENT 065" tvg-logo="" group-title="sports",ESPN+ EVENT 065
-http://hostengine.live/live/john/franklin/343763.m3u
-#EXTINF:-1 tvg-name="ESPN+ EVENT 066" tvg-logo="" group-title="sports",ESPN+ EVENT 066
-http://hostengine.live/live/john/franklin/343764.m3u
-#EXTINF:-1 tvg-name="ESPN+ EVENT 067" tvg-logo="" group-title="sports",ESPN+ EVENT 067
-http://hostengine.live/live/john/franklin/343765.m3u
-#EXTINF:-1 tvg-name="ESPN+ EVENT 068" tvg-logo="" group-title="sports",ESPN+ EVENT 068
-http://hostengine.live/live/john/franklin/343766.m3u
-#EXTINF:-1 tvg-name="ESPN+ EVENT 069" tvg-logo="" group-title="sports",ESPN+ EVENT 069
-http://hostengine.live/live/john/franklin/343767.m3u
-#EXTINF:-1 tvg-name="ESPN+ EVENT 070" tvg-logo="" group-title="sports",ESPN+ EVENT 070
-http://hostengine.live/live/john/franklin/343768.m3u
-#EXTINF:-1 tvg-name="ESPN+ EVENT 071" tvg-logo="" group-title="sports",ESPN+ EVENT 071
-http://hostengine.live/live/john/franklin/343769.m3u
-#EXTINF:-1 tvg-name="ESPN+ EVENT 072" tvg-logo="" group-title="sports",ESPN+ EVENT 072
-http://hostengine.live/live/john/franklin/343770.m3u
-#EXTINF:-1 tvg-name="ESPN+ EVENT 073" tvg-logo="" group-title="sports",ESPN+ EVENT 073
-http://hostengine.live/live/john/franklin/343771.m3u
-#EXTINF:-1 tvg-name="ESPN+ EVENT 074" tvg-logo="" group-title="sports",ESPN+ EVENT 074
-http://hostengine.live/live/john/franklin/343772.m3u
-#EXTINF:-1 tvg-name="ESPN+ EVENT 075" tvg-logo="" group-title="sports",ESPN+ EVENT 075
-http://hostengine.live/live/john/franklin/343773.m3u
-#EXTINF:-1 tvg-name="ESPN+ EVENT 076" tvg-logo="" group-title="sports",ESPN+ EVENT 076
-http://hostengine.live/live/john/franklin/343774.m3u
-#EXTINF:-1 tvg-name="ESPN+ EVENT 077" tvg-logo="" group-title="sports",ESPN+ EVENT 077
-http://hostengine.live/live/john/franklin/343775.m3u
-#EXTINF:-1 tvg-name="ESPN+ EVENT 078" tvg-logo="" group-title="sports",ESPN+ EVENT 078
-http://hostengine.live/live/john/franklin/343776.m3u
-#EXTINF:-1 tvg-name="ESPN+ EVENT 079" tvg-logo="" group-title="sports",ESPN+ EVENT 079
-http://hostengine.live/live/john/franklin/343777.m3u
-#EXTINF:-1 tvg-name="ESPN+ EVENT 080" tvg-logo="" group-title="sports",ESPN+ EVENT 080
-http://hostengine.live/live/john/franklin/343778.m3u
-#EXTINF:-1 tvg-name="ESPN+ EVENT 081" tvg-logo="" group-title="sports",ESPN+ EVENT 081
-http://hostengine.live/live/john/franklin/343779.m3u
-#EXTINF:-1 tvg-name="ESPN+ EVENT 082" tvg-logo="" group-title="sports",ESPN+ EVENT 082
-http://hostengine.live/live/john/franklin/343780.m3u
-#EXTINF:-1 tvg-name="ESPN+ EVENT 083" tvg-logo="" group-title="sports",ESPN+ EVENT 083
-http://hostengine.live/live/john/franklin/343781.m3u
-#EXTINF:-1 tvg-name="ESPN+ EVENT 084" tvg-logo="" group-title="sports",ESPN+ EVENT 084
-http://hostengine.live/live/john/franklin/343782.m3u
-#EXTINF:-1 tvg-name="ESPN+ EVENT 085" tvg-logo="" group-title="sports",ESPN+ EVENT 085
-http://hostengine.live/live/john/franklin/343783.m3u
-#EXTINF:-1 tvg-name="ESPN+ EVENT 086" tvg-logo="" group-title="sports",ESPN+ EVENT 086
-http://hostengine.live/live/john/franklin/343784.m3u
-#EXTINF:-1 tvg-name="ESPN+ EVENT 087" tvg-logo="" group-title="sports",ESPN+ EVENT 087
-http://hostengine.live/live/john/franklin/343785.m3u
-#EXTINF:-1 tvg-name="ESPN+ EVENT 088" tvg-logo="" group-title="sports",ESPN+ EVENT 088
-http://hostengine.live/live/john/franklin/343786.m3u
-#EXTINF:-1 tvg-name="ESPN+ EVENT 089" tvg-logo="" group-title="sports",ESPN+ EVENT 089
-http://hostengine.live/live/john/franklin/343787.m3u
-#EXTINF:-1 tvg-name="ESPN+ EVENT 090" tvg-logo="" group-title="sports",ESPN+ EVENT 090
-http://hostengine.live/live/john/franklin/343788.m3u
-#EXTINF:-1 tvg-name="ESPN+ EVENT 091" tvg-logo="" group-title="sports",ESPN+ EVENT 091
-http://hostengine.live/live/john/franklin/343789.m3u
-#EXTINF:-1 tvg-name="ESPN+ EVENT 092" tvg-logo="" group-title="sports",ESPN+ EVENT 092
-http://hostengine.live/live/john/franklin/343790.m3u
-#EXTINF:-1 tvg-name="ESPN+ EVENT 093" tvg-logo="" group-title="sports",ESPN+ EVENT 093
-http://hostengine.live/live/john/franklin/343791.m3u
-#EXTINF:-1 tvg-name="ESPN+ EVENT 094" tvg-logo="" group-title="sports",ESPN+ EVENT 094
-http://hostengine.live/live/john/franklin/343792.m3u
-#EXTINF:-1 tvg-name="ESPN+ EVENT 095" tvg-logo="" group-title="sports",ESPN+ EVENT 095
-http://hostengine.live/live/john/franklin/343793.m3u
-#EXTINF:-1 tvg-name="ESPN+ EVENT 096" tvg-logo="" group-title="sports",ESPN+ EVENT 096
-http://hostengine.live/live/john/franklin/343794.m3u
-#EXTINF:-1 tvg-name="ESPN+ EVENT 097" tvg-logo="" group-title="sports",ESPN+ EVENT 097
-http://hostengine.live/live/john/franklin/343795.m3u
-#EXTINF:-1 tvg-name="ESPN+ EVENT 098" tvg-logo="" group-title="sports",ESPN+ EVENT 098
-http://hostengine.live/live/john/franklin/343796.m3u
-#EXTINF:-1 tvg-name="ESPN+ EVENT 099" tvg-logo="" group-title="sports",ESPN+ EVENT 099
-http://hostengine.live/live/john/franklin/343797.m3u
-#EXTINF:-1 tvg-name="ESPN+ EVENT 100" tvg-logo="" group-title="sports",ESPN+ EVENT 100
-http://hostengine.live/live/john/franklin/343798.m3u
-#EXTINF:-1 tvg-name="ESPN+ EVENT 101" tvg-logo="" group-title="sports",ESPN+ EVENT 101
-http://hostengine.live/live/john/franklin/343698.m3u
-#EXTINF:-1 tvg-name="ESPN+ EVENT 102" tvg-logo="" group-title="sports",ESPN+ EVENT 102
-http://hostengine.live/live/john/franklin/343697.m3u
-#EXTINF:-1 tvg-name="ESPN+ EVENT 103" tvg-logo="" group-title="sports",ESPN+ EVENT 103
-http://hostengine.live/live/john/franklin/343696.m3u
-#EXTINF:-1 tvg-name="ESPN+ EVENT 104" tvg-logo="" group-title="sports",ESPN+ EVENT 104
-http://hostengine.live/live/john/franklin/343695.m3u
-#EXTINF:-1 tvg-name="ESPN+ EVENT 105" tvg-logo="" group-title="sports",ESPN+ EVENT 105
-http://hostengine.live/live/john/franklin/343694.m3u
-#EXTINF:-1 tvg-name="ESPN+ EVENT 106" tvg-logo="" group-title="sports",ESPN+ EVENT 106
-http://hostengine.live/live/john/franklin/343693.m3u
-#EXTINF:-1 tvg-name="ESPN+ EVENT 107" tvg-logo="" group-title="sports",ESPN+ EVENT 107
-http://hostengine.live/live/john/franklin/343692.m3u
-#EXTINF:-1 tvg-name="ESPN+ EVENT 108" tvg-logo="" group-title="sports",ESPN+ EVENT 108
-http://hostengine.live/live/john/franklin/343691.m3u
-#EXTINF:-1 tvg-name="ESPN+ EVENT 109" tvg-logo="" group-title="sports",ESPN+ EVENT 109
-http://hostengine.live/live/john/franklin/343690.m3u
-#EXTINF:-1 tvg-name="ESPN+ EVENT 110" tvg-logo="" group-title="sports",ESPN+ EVENT 110
-http://hostengine.live/live/john/franklin/343689.m3u
-#EXTINF:-1 tvg-name="ESPN+ EVENT 111" tvg-logo="" group-title="sports",ESPN+ EVENT 111
-http://hostengine.live/live/john/franklin/343688.m3u
-#EXTINF:-1 tvg-name="ESPN+ EVENT 112" tvg-logo="" group-title="sports",ESPN+ EVENT 112
-http://hostengine.live/live/john/franklin/343687.m3u
-#EXTINF:-1 tvg-name="ESPN+ EVENT 113" tvg-logo="" group-title="sports",ESPN+ EVENT 113
-http://hostengine.live/live/john/franklin/343686.m3u
-#EXTINF:-1 tvg-name="ESPN+ EVENT 114" tvg-logo="" group-title="sports",ESPN+ EVENT 114
-http://hostengine.live/live/john/franklin/343685.m3u
-#EXTINF:-1 tvg-name="ESPN+ EVENT 115" tvg-logo="" group-title="sports",ESPN+ EVENT 115
-http://hostengine.live/live/john/franklin/343684.m3u
-#EXTINF:-1 tvg-name="ESPN+ EVENT 116" tvg-logo="" group-title="sports",ESPN+ EVENT 116
-http://hostengine.live/live/john/franklin/343683.m3u
-#EXTINF:-1 tvg-name="ESPN+ EVENT 117" tvg-logo="" group-title="sports",ESPN+ EVENT 117
-http://hostengine.live/live/john/franklin/343682.m3u
-#EXTINF:-1 tvg-name="ESPN+ EVENT 118" tvg-logo="" group-title="sports",ESPN+ EVENT 118
-http://hostengine.live/live/john/franklin/343681.m3u
-#EXTINF:-1 tvg-name="ESPN+ EVENT 119" tvg-logo="" group-title="sports",ESPN+ EVENT 119
-http://hostengine.live/live/john/franklin/343680.m3u
-#EXTINF:-1 tvg-name="ESPN+ EVENT 120" tvg-logo="" group-title="sports",ESPN+ EVENT 120
-http://hostengine.live/live/john/franklin/343679.m3u
-#EXTINF:-1 tvg-name="ESPN+ EVENT 121" tvg-logo="" group-title="sports",ESPN+ EVENT 121
-http://hostengine.live/live/john/franklin/343678.m3u
-#EXTINF:-1 tvg-name="ESPN+ EVENT 122" tvg-logo="" group-title="sports",ESPN+ EVENT 122
-http://hostengine.live/live/john/franklin/343677.m3u
-#EXTINF:-1 tvg-name="ESPN+ EVENT 123" tvg-logo="" group-title="sports",ESPN+ EVENT 123
-http://hostengine.live/live/john/franklin/343676.m3u
-#EXTINF:-1 tvg-name="ESPN+ EVENT 124" tvg-logo="" group-title="sports",ESPN+ EVENT 124
-http://hostengine.live/live/john/franklin/343675.m3u
-#EXTINF:-1 tvg-name="ESPN+ EVENT 125" tvg-logo="" group-title="sports",ESPN+ EVENT 125
-http://hostengine.live/live/john/franklin/343674.m3u
-#EXTINF:-1 tvg-name="ESPN+ EVENT 126" tvg-logo="" group-title="sports",ESPN+ EVENT 126
-http://hostengine.live/live/john/franklin/343673.m3u
-#EXTINF:-1 tvg-name="ESPN+ EVENT 127" tvg-logo="" group-title="sports",ESPN+ EVENT 127
-http://hostengine.live/live/john/franklin/343672.m3u
-#EXTINF:-1 tvg-name="ESPN+ EVENT 128" tvg-logo="" group-title="sports",ESPN+ EVENT 128
-http://hostengine.live/live/john/franklin/343671.m3u
-#EXTINF:-1 tvg-name="ESPN+ EVENT 129" tvg-logo="" group-title="sports",ESPN+ EVENT 129
-http://hostengine.live/live/john/franklin/343670.m3u
-#EXTINF:-1 tvg-name="ESPN+ EVENT 130" tvg-logo="" group-title="sports",ESPN+ EVENT 130
-http://hostengine.live/live/john/franklin/343669.m3u
-#EXTINF:-1 tvg-name="ESPN+ EVENT 131" tvg-logo="" group-title="sports",ESPN+ EVENT 131
-http://hostengine.live/live/john/franklin/343668.m3u
-#EXTINF:-1 tvg-name="ESPN+ EVENT 132" tvg-logo="" group-title="sports",ESPN+ EVENT 132
-http://hostengine.live/live/john/franklin/343667.m3u
-#EXTINF:-1 tvg-name="ESPN+ EVENT 133" tvg-logo="" group-title="sports",ESPN+ EVENT 133
-http://hostengine.live/live/john/franklin/343666.m3u
-#EXTINF:-1 tvg-name="ESPN+ EVENT 134" tvg-logo="" group-title="sports",ESPN+ EVENT 134
-http://hostengine.live/live/john/franklin/343665.m3u
-#EXTINF:-1 tvg-name="ESPN+ EVENT 135" tvg-logo="" group-title="sports",ESPN+ EVENT 135
-http://hostengine.live/live/john/franklin/343664.m3u
-#EXTINF:-1 tvg-name="ESPN+ EVENT 136" tvg-logo="" group-title="sports",ESPN+ EVENT 136
-http://hostengine.live/live/john/franklin/343663.m3u
-#EXTINF:-1 tvg-name="ESPN+ EVENT 137" tvg-logo="" group-title="sports",ESPN+ EVENT 137
-http://hostengine.live/live/john/franklin/343662.m3u
-#EXTINF:-1 tvg-name="ESPN+ EVENT 138" tvg-logo="" group-title="sports",ESPN+ EVENT 138
-http://hostengine.live/live/john/franklin/343661.m3u
-#EXTINF:-1 tvg-name="ESPN+ EVENT 139" tvg-logo="" group-title="sports",ESPN+ EVENT 139
-http://hostengine.live/live/john/franklin/343660.m3u
-#EXTINF:-1 tvg-name="ESPN+ EVENT 140" tvg-logo="" group-title="sports",ESPN+ EVENT 140
-http://hostengine.live/live/john/franklin/343659.m3u
-#EXTINF:-1 tvg-name="ESPN+ EVENT 141" tvg-logo="" group-title="sports",ESPN+ EVENT 141
-http://hostengine.live/live/john/franklin/343658.m3u
-#EXTINF:-1 tvg-name="ESPN+ EVENT 142" tvg-logo="" group-title="sports",ESPN+ EVENT 142
-http://hostengine.live/live/john/franklin/343657.m3u
-#EXTINF:-1 tvg-name="ESPN+ EVENT 143" tvg-logo="" group-title="sports",ESPN+ EVENT 143
-http://hostengine.live/live/john/franklin/343656.m3u
-#EXTINF:-1 tvg-name="ESPN+ EVENT 144" tvg-logo="" group-title="sports",ESPN+ EVENT 144
-http://hostengine.live/live/john/franklin/343655.m3u
-#EXTINF:-1 tvg-name="ESPN+ EVENT 145" tvg-logo="" group-title="sports",ESPN+ EVENT 145
-http://hostengine.live/live/john/franklin/343654.m3u
-#EXTINF:-1 tvg-name="ESPN+ EVENT 146" tvg-logo="" group-title="sports",ESPN+ EVENT 146
-http://hostengine.live/live/john/franklin/343653.m3u
-#EXTINF:-1 tvg-name="ESPN+ EVENT 147" tvg-logo="" group-title="sports",ESPN+ EVENT 147
-http://hostengine.live/live/john/franklin/343652.m3u
-#EXTINF:-1 tvg-name="ESPN+ EVENT 148" tvg-logo="" group-title="sports",ESPN+ EVENT 148
-http://hostengine.live/live/john/franklin/343651.m3u
-#EXTINF:-1 tvg-name="ESPN+ EVENT 149" tvg-logo="" group-title="sports",ESPN+ EVENT 149
-http://hostengine.live/live/john/franklin/343650.m3u
-#EXTINF:-1 tvg-name="ESPN+ EVENT 150" tvg-logo="" group-title="sports",ESPN+ EVENT 150
-http://hostengine.live/live/john/franklin/343649.m3u
-#EXTINF:-1 tvg-name="ESPN+ EVENT 151" tvg-logo="" group-title="sports",ESPN+ EVENT 151
-http://hostengine.live/live/john/franklin/343648.m3u
-#EXTINF:-1 tvg-name="ESPN+ EVENT 152" tvg-logo="" group-title="sports",ESPN+ EVENT 152
-http://hostengine.live/live/john/franklin/343647.m3u
-#EXTINF:-1 tvg-name="ESPN+ EVENT 153" tvg-logo="" group-title="sports",ESPN+ EVENT 153
-http://hostengine.live/live/john/franklin/343646.m3u
-#EXTINF:-1 tvg-name="ESPN+ EVENT 154" tvg-logo="" group-title="sports",ESPN+ EVENT 154
-http://hostengine.live/live/john/franklin/343645.m3u
-#EXTINF:-1 tvg-name="ESPN+ EVENT 155" tvg-logo="" group-title="sports",ESPN+ EVENT 155
-http://hostengine.live/live/john/franklin/343644.m3u
-#EXTINF:-1 tvg-name="ESPN+ EVENT 156" tvg-logo="" group-title="sports",ESPN+ EVENT 156
-http://hostengine.live/live/john/franklin/343643.m3u
-#EXTINF:-1 tvg-name="ESPN+ EVENT 157" tvg-logo="" group-title="sports",ESPN+ EVENT 157
-http://hostengine.live/live/john/franklin/343642.m3u
-#EXTINF:-1 tvg-name="ESPN+ EVENT 158" tvg-logo="" group-title="sports",ESPN+ EVENT 158
-http://hostengine.live/live/john/franklin/343641.m3u
-#EXTINF:-1 tvg-name="ESPN+ EVENT 159" tvg-logo="" group-title="sports",ESPN+ EVENT 159
-http://hostengine.live/live/john/franklin/343640.m3u
-#EXTINF:-1 tvg-name="ESPN+ EVENT 160" tvg-logo="" group-title="sports",ESPN+ EVENT 160
-http://hostengine.live/live/john/franklin/343639.m3u
-#EXTINF:-1 tvg-name="ESPN+ EVENT 161" tvg-logo="" group-title="sports",ESPN+ EVENT 161
-http://hostengine.live/live/john/franklin/343638.m3u
-#EXTINF:-1 tvg-name="ESPN+ EVENT 162" tvg-logo="" group-title="sports",ESPN+ EVENT 162
-http://hostengine.live/live/john/franklin/343637.m3u
-#EXTINF:-1 tvg-name="ESPN+ EVENT 163" tvg-logo="" group-title="sports",ESPN+ EVENT 163
-http://hostengine.live/live/john/franklin/343636.m3u
-#EXTINF:-1 tvg-name="ESPN+ EVENT 164" tvg-logo="" group-title="sports",ESPN+ EVENT 164
-http://hostengine.live/live/john/franklin/343635.m3u
-#EXTINF:-1 tvg-name="ESPN+ EVENT 165" tvg-logo="" group-title="sports",ESPN+ EVENT 165
-http://hostengine.live/live/john/franklin/343634.m3u
-#EXTINF:-1 tvg-name="ESPN+ EVENT 166" tvg-logo="" group-title="sports",ESPN+ EVENT 166
-http://hostengine.live/live/john/franklin/343633.m3u
-#EXTINF:-1 tvg-name="ESPN+ EVENT 167" tvg-logo="" group-title="sports",ESPN+ EVENT 167
-http://hostengine.live/live/john/franklin/343632.m3u
-#EXTINF:-1 tvg-name="ESPN+ EVENT 168" tvg-logo="" group-title="sports",ESPN+ EVENT 168
-http://hostengine.live/live/john/franklin/343631.m3u
-#EXTINF:-1 tvg-name="ESPN+ EVENT 169" tvg-logo="" group-title="sports",ESPN+ EVENT 169
-http://hostengine.live/live/john/franklin/343630.m3u
-#EXTINF:-1 tvg-name="ESPN+ EVENT 170" tvg-logo="" group-title="sports",ESPN+ EVENT 170
-http://hostengine.live/live/john/franklin/343629.m3u
-#EXTINF:-1 tvg-name="ESPN+ EVENT 171" tvg-logo="" group-title="sports",ESPN+ EVENT 171
-http://hostengine.live/live/john/franklin/343628.m3u
-#EXTINF:-1 tvg-name="ESPN+ EVENT 172" tvg-logo="" group-title="sports",ESPN+ EVENT 172
-http://hostengine.live/live/john/franklin/343627.m3u
-#EXTINF:-1 tvg-name="ESPN+ EVENT 173" tvg-logo="" group-title="sports",ESPN+ EVENT 173
-http://hostengine.live/live/john/franklin/343626.m3u
-#EXTINF:-1 tvg-name="ESPN+ EVENT 174" tvg-logo="" group-title="sports",ESPN+ EVENT 174
-http://hostengine.live/live/john/franklin/343625.m3u
-#EXTINF:-1 tvg-name="ESPN+ EVENT 175" tvg-logo="" group-title="sports",ESPN+ EVENT 175
-http://hostengine.live/live/john/franklin/343624.m3u
-#EXTINF:-1 tvg-name="ESPN+ EVENT 176" tvg-logo="" group-title="sports",ESPN+ EVENT 176
-http://hostengine.live/live/john/franklin/343623.m3u
-#EXTINF:-1 tvg-name="ESPN+ EVENT 177" tvg-logo="" group-title="sports",ESPN+ EVENT 177
-http://hostengine.live/live/john/franklin/343622.m3u
-#EXTINF:-1 tvg-name="ESPN+ EVENT 178" tvg-logo="" group-title="sports",ESPN+ EVENT 178
-http://hostengine.live/live/john/franklin/343621.m3u
-#EXTINF:-1 tvg-name="ESPN+ EVENT 179" tvg-logo="" group-title="sports",ESPN+ EVENT 179
-http://hostengine.live/live/john/franklin/343620.m3u
-#EXTINF:-1 tvg-name="ESPN+ EVENT 180" tvg-logo="" group-title="sports",ESPN+ EVENT 180
-http://hostengine.live/live/john/franklin/343619.m3u
-#EXTINF:-1 tvg-name="ESPN+ EVENT 181" tvg-logo="" group-title="sports",ESPN+ EVENT 181
-http://hostengine.live/live/john/franklin/343618.m3u
-#EXTINF:-1 tvg-name="ESPN+ EVENT 182" tvg-logo="" group-title="sports",ESPN+ EVENT 182
-http://hostengine.live/live/john/franklin/343617.m3u
-#EXTINF:-1 tvg-name="ESPN+ EVENT 183" tvg-logo="" group-title="sports",ESPN+ EVENT 183
-http://hostengine.live/live/john/franklin/343616.m3u
-#EXTINF:-1 tvg-name="ESPN+ EVENT 184" tvg-logo="" group-title="sports",ESPN+ EVENT 184
-http://hostengine.live/live/john/franklin/343615.m3u
-#EXTINF:-1 tvg-name="ESPN+ EVENT 185" tvg-logo="" group-title="sports",ESPN+ EVENT 185
-http://hostengine.live/live/john/franklin/343614.m3u
-#EXTINF:-1 tvg-name="ESPN+ EVENT 186" tvg-logo="" group-title="sports",ESPN+ EVENT 186
-http://hostengine.live/live/john/franklin/343613.m3u
-#EXTINF:-1 tvg-name="ESPN+ EVENT 187" tvg-logo="" group-title="sports",ESPN+ EVENT 187
-http://hostengine.live/live/john/franklin/343612.m3u
-#EXTINF:-1 tvg-name="ESPN+ EVENT 188" tvg-logo="" group-title="sports",ESPN+ EVENT 188
-http://hostengine.live/live/john/franklin/343611.m3u
-#EXTINF:-1 tvg-name="ESPN+ EVENT 189" tvg-logo="" group-title="sports",ESPN+ EVENT 189
-http://hostengine.live/live/john/franklin/343610.m3u
-#EXTINF:-1 tvg-name="ESPN+ EVENT 190" tvg-logo="" group-title="sports",ESPN+ EVENT 190
-http://hostengine.live/live/john/franklin/343609.m3u
-#EXTINF:-1 tvg-name="ESPN+ EVENT 191" tvg-logo="" group-title="sports",ESPN+ EVENT 191
-http://hostengine.live/live/john/franklin/343608.m3u
-#EXTINF:-1 tvg-name="ESPN+ EVENT 192" tvg-logo="" group-title="sports",ESPN+ EVENT 192
-http://hostengine.live/live/john/franklin/343607.m3u
-#EXTINF:-1 tvg-name="ESPN+ EVENT 193" tvg-logo="" group-title="sports",ESPN+ EVENT 193
-http://hostengine.live/live/john/franklin/343606.m3u
-#EXTINF:-1 tvg-name="ESPN+ EVENT 194" tvg-logo="" group-title="sports",ESPN+ EVENT 194
-http://hostengine.live/live/john/franklin/343605.m3u
-#EXTINF:-1 tvg-name="ESPN+ EVENT 195" tvg-logo="" group-title="sports",ESPN+ EVENT 195
-http://hostengine.live/live/john/franklin/343604.m3u
-#EXTINF:-1 tvg-name="ESPN+ EVENT 196" tvg-logo="" group-title="sports",ESPN+ EVENT 196
-http://hostengine.live/live/john/franklin/343603.m3u
-#EXTINF:-1 tvg-name="ESPN+ EVENT 197" tvg-logo="" group-title="sports",ESPN+ EVENT 197
-http://hostengine.live/live/john/franklin/343602.m3u
-#EXTINF:-1 tvg-name="ESPN+ EVENT 198" tvg-logo="" group-title="sports",ESPN+ EVENT 198
-http://hostengine.live/live/john/franklin/343601.m3u
-#EXTINF:-1 tvg-name="ESPN+ EVENT 199" tvg-logo="" group-title="sports",ESPN+ EVENT 199
-http://hostengine.live/live/john/franklin/343600.m3u
-#EXTINF:-1 tvg-name="ESPN+ EVENT 200" tvg-logo="" group-title="sports",ESPN+ EVENT 200
-http://hostengine.live/live/john/franklin/343599.m3u
-#EXTINF:-1 tvg-name="ESPN+ EVENT 201" tvg-logo="" group-title="sports",ESPN+ EVENT 201
-http://hostengine.live/live/john/franklin/343937.m3u
-#EXTINF:-1 tvg-name="ESPN+ EVENT 202" tvg-logo="" group-title="sports",ESPN+ EVENT 202
-http://hostengine.live/live/john/franklin/343936.m3u
-#EXTINF:-1 tvg-name="ESPN+ EVENT 203" tvg-logo="" group-title="sports",ESPN+ EVENT 203
-http://hostengine.live/live/john/franklin/343935.m3u
-#EXTINF:-1 tvg-name="ESPN+ EVENT 204" tvg-logo="" group-title="sports",ESPN+ EVENT 204
-http://hostengine.live/live/john/franklin/343934.m3u
-#EXTINF:-1 tvg-name="ESPN+ EVENT 205" tvg-logo="" group-title="sports",ESPN+ EVENT 205
-http://hostengine.live/live/john/franklin/343933.m3u
-#EXTINF:-1 tvg-name="ESPN+ EVENT 206" tvg-logo="" group-title="sports",ESPN+ EVENT 206
-http://hostengine.live/live/john/franklin/343932.m3u
-#EXTINF:-1 tvg-name="ESPN+ EVENT 207" tvg-logo="" group-title="sports",ESPN+ EVENT 207
-http://hostengine.live/live/john/franklin/343931.m3u
-#EXTINF:-1 tvg-name="ESPN+ EVENT 208" tvg-logo="" group-title="sports",ESPN+ EVENT 208
-http://hostengine.live/live/john/franklin/343930.m3u
-#EXTINF:-1 tvg-name="ESPN+ EVENT 209" tvg-logo="" group-title="sports",ESPN+ EVENT 209
-http://hostengine.live/live/john/franklin/343929.m3u
+http://go.iptvhn.net:25461/7151/71512023/2473
+#EXTINF:-1 tvg-name="ESPN 6 SD [P]" tvg-logo="" group-title="sports",ESPN 6 SD [P]
+http://fonte.lista.luxe:8080/pandoscanew/sdikfhvnwqpiweh/3978
+#EXTINF:-1 tvg-name="ESPN 2 FHD [P]" tvg-logo="" group-title="sports",ESPN 2 FHD [P]
+http://fonte.lista.luxe:8080/pandoscanew/sdikfhvnwqpiweh/4791
+#EXTINF:-1 tvg-name="ESPN" tvg-logo="" group-title="sports",ESPN
+http://23.227.132.58:25461/Toolsplus/6969/117299
+#EXTINF:-1 tvg-name="ESPN NEWS | HD" tvg-logo="" group-title="sports",ESPN NEWS | HD
+http://23.227.132.58:25461/Toolsplus/6969/115379
+#EXTINF:-1 tvg-name="ESPN U | HD" tvg-logo="" group-title="sports",ESPN U | HD
+http://23.227.132.58:25461/Toolsplus/6969/115380
+#EXTINF:-1 tvg-name="ESPN SEC NETWORK | HD*" tvg-logo="" group-title="sports",ESPN SEC NETWORK | HD*
+http://23.227.132.58:25461/Toolsplus/6969/115381
+#EXTINF:-1 tvg-name="US: SPECTRUM SPORTSNET LAKERS | HD" tvg-logo="" group-title="sports",US: SPECTRUM SPORTSNET LAKERS | HD
+http://23.227.132.58:25461/Toolsplus/6969/115431
+#EXTINF:-1 tvg-name="CA | TVA Sports" tvg-logo="" group-title="sports",CA | TVA Sports
+http://23.227.132.58:25461/Toolsplus/6969/115670
+#EXTINF:-1 tvg-name="CA | TVA 2 Sports" tvg-logo="" group-title="sports",CA | TVA 2 Sports
+http://23.227.132.58:25461/Toolsplus/6969/115671
+#EXTINF:-1 tvg-name="NCAAM 008: ESPN" tvg-logo="" group-title="sports",NCAAM 008: ESPN
+http://23.227.132.58:25461/Toolsplus/6969/221009
+#EXTINF:-1 tvg-name="NCAAM 009: ESPN2" tvg-logo="" group-title="sports",NCAAM 009: ESPN2
+http://23.227.132.58:25461/Toolsplus/6969/221010
+#EXTINF:-1 tvg-name="NCAAM 010: ESPNU" tvg-logo="" group-title="sports",NCAAM 010: ESPNU
+http://23.227.132.58:25461/Toolsplus/6969/221011
+#EXTINF:-1 tvg-name="ESPN+ 001 | 08:00AM AUSTIN CHAMPIONSHIP: BLADES BROWN & HORSCHEL FEATURED GROUPS (FIRST ROUND) (NOV 12)" tvg-logo="" group-title="sports",ESPN+ 001 | 08:00AM AUSTIN CHAMPIONSHIP: BLADES BROWN & HORSCHEL FEATURED GROUPS (FIRST ROUND) (NOV 12)
+http://23.227.132.58:25461/Toolsplus/6969/221064
+#EXTINF:-1 tvg-name="ESPN+ 002 | 08:00AM FOOTBALL: GOOD MORNING FOOTBALL (GOOD MORNING FOOTBALL) (NOV 12)" tvg-logo="" group-title="sports",ESPN+ 002 | 08:00AM FOOTBALL: GOOD MORNING FOOTBALL (GOOD MORNING FOOTBALL) (NOV 12)
+http://23.227.132.58:25461/Toolsplus/6969/221065
+#EXTINF:-1 tvg-name="ESPN+ 003 | 08:00AM BASEBALL: ESPN BEISBOL (ESPN BEISBOL) (NOV 12)" tvg-logo="" group-title="sports",ESPN+ 003 | 08:00AM BASEBALL: ESPN BEISBOL (ESPN BEISBOL) (NOV 12)
+http://23.227.132.58:25461/Toolsplus/6969/221066
+#EXTINF:-1 tvg-name="ESPN+ 004 | 10:00AM THE GOLICS (NOV 12)" tvg-logo="" group-title="sports",ESPN+ 004 | 10:00AM THE GOLICS (NOV 12)
+http://23.227.132.58:25461/Toolsplus/6969/221067
+#EXTINF:-1 tvg-name="ESPN+ 005 | 11:00AM CHATTANOOGA VS. NORTHERN KENTUCKY (NOV 12)" tvg-logo="" group-title="sports",ESPN+ 005 | 11:00AM CHATTANOOGA VS. NORTHERN KENTUCKY (NOV 12)
+http://23.227.132.58:25461/Toolsplus/6969/221068
+#EXTINF:-1 tvg-name="ESPN+ 006 | 11:00AM WEST VIRGINIA STATE VS. MARSHALL (NOV 12)" tvg-logo="" group-title="sports",ESPN+ 006 | 11:00AM WEST VIRGINIA STATE VS. MARSHALL (NOV 12)
+http://23.227.132.58:25461/Toolsplus/6969/221069
+#EXTINF:-1 tvg-name="ESPN+ 007 | 11:00AM HAWK TALK WITH LANCE LEIPOLD (NOV 12)" tvg-logo="" group-title="sports",ESPN+ 007 | 11:00AM HAWK TALK WITH LANCE LEIPOLD (NOV 12)
+http://23.227.132.58:25461/Toolsplus/6969/221070
+#EXTINF:-1 tvg-name="ESPN+ 008 | 11:30AM BASKETBALL: UNC WILMINGTON VS. WAKE FOREST (UNC WILMINGTON VS. WAKE FOREST) (NOV 12)" tvg-logo="" group-title="sports",ESPN+ 008 | 11:30AM BASKETBALL: UNC WILMINGTON VS. WAKE FOREST (UNC WILMINGTON VS. WAKE FOREST) (NOV 12)
+http://23.227.132.58:25461/Toolsplus/6969/221071
+#EXTINF:-1 tvg-name="ESPN+ 009 | 12:00PM CENTRAL METHODIST VS. SIU EDWARDSVILLE (NOV 12)" tvg-logo="" group-title="sports",ESPN+ 009 | 12:00PM CENTRAL METHODIST VS. SIU EDWARDSVILLE (NOV 12)
+http://23.227.132.58:25461/Toolsplus/6969/221072
+#EXTINF:-1 tvg-name="ESPN+ 010 | 12:00PM THE PAT MCAFEE SHOW (NOV 12)" tvg-logo="" group-title="sports",ESPN+ 010 | 12:00PM THE PAT MCAFEE SHOW (NOV 12)
+http://23.227.132.58:25461/Toolsplus/6969/221073
+#EXTINF:-1 tvg-name="ESPN+ 011 | 12:00PM MOREHEAD STATE VS. MURRAY STATE (NOV 12)" tvg-logo="" group-title="sports",ESPN+ 011 | 12:00PM MOREHEAD STATE VS. MURRAY STATE (NOV 12)
+http://23.227.132.58:25461/Toolsplus/6969/221074
+#EXTINF:-1 tvg-name="ESPN+ 012 | 12:00PM SPALDING VS. SOUTHERN INDIANA (NOV 12)" tvg-logo="" group-title="sports",ESPN+ 012 | 12:00PM SPALDING VS. SOUTHERN INDIANA (NOV 12)
+http://23.227.132.58:25461/Toolsplus/6969/221075
+#EXTINF:-1 tvg-name="ESPN+ 013 | 12:00PM THU_ 11/12 _ THE RICH EISEN SHOW (NOV 12)" tvg-logo="" group-title="sports",ESPN+ 013 | 12:00PM THU_ 11/12 _ THE RICH EISEN SHOW (NOV 12)
+http://23.227.132.58:25461/Toolsplus/6969/221076
+#EXTINF:-1 tvg-name="ESPN+ 014 | 12:00PM FOOTBALL: TOTAL ACCESS (TOTAL ACCESS) (NOV 12)" tvg-logo="" group-title="sports",ESPN+ 014 | 12:00PM FOOTBALL: TOTAL ACCESS (TOTAL ACCESS) (NOV 12)
+http://23.227.132.58:25461/Toolsplus/6969/221077
+#EXTINF:-1 tvg-name="ESPN+ 019 | 02:00PM FLAMES CENTRAL (NOV 12)" tvg-logo="" group-title="sports",ESPN+ 019 | 02:00PM FLAMES CENTRAL (NOV 12)
+http://23.227.132.58:25461/Toolsplus/6969/221078
+#EXTINF:-1 tvg-name="ESPN+ 020 | 02:00PM PORTLAND STATE VS. UC SAN DIEGO (NOV 12)" tvg-logo="" group-title="sports",ESPN+ 020 | 02:00PM PORTLAND STATE VS. UC SAN DIEGO (NOV 12)
+http://23.227.132.58:25461/Toolsplus/6969/221079
+#EXTINF:-1 tvg-name="ESPN+ 021 | 02:00PM FOOTBALL: COLLEGE FOOTBALL LIVE (COLLEGE FOOTBALL LIVE) (NOV 12)" tvg-logo="" group-title="sports",ESPN+ 021 | 02:00PM FOOTBALL: COLLEGE FOOTBALL LIVE (COLLEGE FOOTBALL LIVE) (NOV 12)
+http://23.227.132.58:25461/Toolsplus/6969/221080
+#EXTINF:-1 tvg-name="ESPN+ 022 | 02:00PM BASKETBALL: CHARLESTON VS. CALIFORNIA (CHARLESTON VS. CALIFORNIA) (NOV 12)" tvg-logo="" group-title="sports",ESPN+ 022 | 02:00PM BASKETBALL: CHARLESTON VS. CALIFORNIA (CHARLESTON VS. CALIFORNIA) (NOV 12)
+http://23.227.132.58:25461/Toolsplus/6969/221081
+#EXTINF:-1 tvg-name="ESPN+ 023 | 03:00PM CALHOUN STREET: EPISODE 3 (NOV 12)" tvg-logo="" group-title="sports",ESPN+ 023 | 03:00PM CALHOUN STREET: EPISODE 3 (NOV 12)
+http://23.227.132.58:25461/Toolsplus/6969/221082
+#EXTINF:-1 tvg-name="ESPN+ 024 | 03:00PM DEVILS VS. RENEGADES (NOV 12)" tvg-logo="" group-title="sports",ESPN+ 024 | 03:00PM DEVILS VS. RENEGADES (NOV 12)
+http://23.227.132.58:25461/Toolsplus/6969/221083
+#EXTINF:-1 tvg-name="ESPN+ 025 | 03:00PM FOOTBALL: COACHES CORNER (COACHES CORNER) (NOV 12)" tvg-logo="" group-title="sports",ESPN+ 025 | 03:00PM FOOTBALL: COACHES CORNER (COACHES CORNER) (NOV 12)
+http://23.227.132.58:25461/Toolsplus/6969/221084
+#EXTINF:-1 tvg-name="ESPN+ 026 | 03:00PM BASKETBALL: NBA TODAY (NBA TODAY) (NOV 12)" tvg-logo="" group-title="sports",ESPN+ 026 | 03:00PM BASKETBALL: NBA TODAY (NBA TODAY) (NOV 12)
+http://23.227.132.58:25461/Toolsplus/6969/221085
+#EXTINF:-1 tvg-name="ESPN+ 027 | 03:00PM GOLF: PGA JR. LEAGUE CHAMPIONSHIP (PGA JR. LEAGUE CHAMPIONSHIP) (NOV 12)" tvg-logo="" group-title="sports",ESPN+ 027 | 03:00PM GOLF: PGA JR. LEAGUE CHAMPIONSHIP (PGA JR. LEAGUE CHAMPIONSHIP) (NOV 12)
+http://23.227.132.58:25461/Toolsplus/6969/221086
+#EXTINF:-1 tvg-name="ESPN+ 028 | 03:30PM PRINCETON VS. COLUMBIA (SEMIFINAL) (NOV 12)" tvg-logo="" group-title="sports",ESPN+ 028 | 03:30PM PRINCETON VS. COLUMBIA (SEMIFINAL) (NOV 12)
+http://23.227.132.58:25461/Toolsplus/6969/221087
+#EXTINF:-1 tvg-name="ESPN+ 029 | 03:30PM HARVARD VS. #17 CORNELL (SEMIFINAL) (NOV 12)" tvg-logo="" group-title="sports",ESPN+ 029 | 03:30PM HARVARD VS. #17 CORNELL (SEMIFINAL) (NOV 12)
+http://23.227.132.58:25461/Toolsplus/6969/221088
+#EXTINF:-1 tvg-name="ESPN+ 030 | 03:30PM YALE VS. PENNSYLVANIA (SEMIFINAL) (NOV 12)" tvg-logo="" group-title="sports",ESPN+ 030 | 03:30PM YALE VS. PENNSYLVANIA (SEMIFINAL) (NOV 12)
+http://23.227.132.58:25461/Toolsplus/6969/221089
+#EXTINF:-1 tvg-name="ESPN+ 031 | 04:00PM SIU EDWARDSVILLE VS. UT MARTIN (SEMIFINAL) (NOV 12)" tvg-logo="" group-title="sports",ESPN+ 031 | 04:00PM SIU EDWARDSVILLE VS. UT MARTIN (SEMIFINAL) (NOV 12)
+http://23.227.132.58:25461/Toolsplus/6969/221090
+#EXTINF:-1 tvg-name="ESPN+ 032 | 04:00PM ILLINOIS STATE VS. SOUTHERN ILLINOIS (SEMIFINAL) (NOV 12)" tvg-logo="" group-title="sports",ESPN+ 032 | 04:00PM ILLINOIS STATE VS. SOUTHERN ILLINOIS (SEMIFINAL) (NOV 12)
+http://23.227.132.58:25461/Toolsplus/6969/221091
+#EXTINF:-1 tvg-name="ESPN+ 033 | 04:00PM FOOTBALL: THE MINA KIMES SHOW FEATURING LENNY (THE MINA KIMES SHOW FEATURING LENNY) (NOV 12)" tvg-logo="" group-title="sports",ESPN+ 033 | 04:00PM FOOTBALL: THE MINA KIMES SHOW FEATURING LENNY (THE MINA KIMES SHOW FEATURING LENNY) (NOV 12)
+http://23.227.132.58:25461/Toolsplus/6969/221092
+#EXTINF:-1 tvg-name="ESPN+ 034 | 04:00PM FOOTBALL: NFL LIVE (NFL LIVE) (NOV 12)" tvg-logo="" group-title="sports",ESPN+ 034 | 04:00PM FOOTBALL: NFL LIVE (NFL LIVE) (NOV 12)
+http://23.227.132.58:25461/Toolsplus/6969/221093
+#EXTINF:-1 tvg-name="ESPN+ 035 | 04:30PM HOLY CROSS VS. BROWN (NOV 12)" tvg-logo="" group-title="sports",ESPN+ 035 | 04:30PM HOLY CROSS VS. BROWN (NOV 12)
+http://23.227.132.58:25461/Toolsplus/6969/221094
+#EXTINF:-1 tvg-name="ESPN+ 036 | 04:30PM INCARNATE WORD VS. LAMAR (SEMIFINAL) (NOV 12)" tvg-logo="" group-title="sports",ESPN+ 036 | 04:30PM INCARNATE WORD VS. LAMAR (SEMIFINAL) (NOV 12)
+http://23.227.132.58:25461/Toolsplus/6969/221095
+#EXTINF:-1 tvg-name="ESPN+ 037 | 04:30PM SOCCER: TEXAS VS. #25 ARKANSAS (TEXAS VS. #25 ARKANSAS) (NOV 12)" tvg-logo="" group-title="sports",ESPN+ 037 | 04:30PM SOCCER: TEXAS VS. #25 ARKANSAS (TEXAS VS. #25 ARKANSAS) (NOV 12)
+http://23.227.132.58:25461/Toolsplus/6969/221096
+#EXTINF:-1 tvg-name="ESPN+ 038 | 04:30PM SEC NETWORK +: THE PAUL FINEBAUM SHOW (THE PAUL FINEBAUM SHOW) (NOV 12)" tvg-logo="" group-title="sports",ESPN+ 038 | 04:30PM SEC NETWORK +: THE PAUL FINEBAUM SHOW (THE PAUL FINEBAUM SHOW) (NOV 12)
+http://23.227.132.58:25461/Toolsplus/6969/221097
+#EXTINF:-1 tvg-name="ESPN+ 039 | 05:00PM INSIDE OSU ATHLETICS (NOV 12)" tvg-logo="" group-title="sports",ESPN+ 039 | 05:00PM INSIDE OSU ATHLETICS (NOV 12)
+http://23.227.132.58:25461/Toolsplus/6969/221098
+#EXTINF:-1 tvg-name="ESPN+ 040 | 05:00PM THU_ 11/12 _ ESPN FC (NOV 12)" tvg-logo="" group-title="sports",ESPN+ 040 | 05:00PM THU_ 11/12 _ ESPN FC (NOV 12)
+http://23.227.132.58:25461/Toolsplus/6969/221099
+#EXTINF:-1 tvg-name="ESPN+ 041 | 05:00PM #4 AKRON VS. #8 CREIGHTON (SEMIFINAL) (NOV 12)" tvg-logo="" group-title="sports",ESPN+ 041 | 05:00PM #4 AKRON VS. #8 CREIGHTON (SEMIFINAL) (NOV 12)
+http://23.227.132.58:25461/Toolsplus/6969/221100
+#EXTINF:-1 tvg-name="ESPN+ 042 | 05:00PM FOOTBALL: NFL FANTASY LIVE (NFL FANTASY LIVE) (NOV 12)" tvg-logo="" group-title="sports",ESPN+ 042 | 05:00PM FOOTBALL: NFL FANTASY LIVE (NFL FANTASY LIVE) (NOV 12)
+http://23.227.132.58:25461/Toolsplus/6969/221101
+#EXTINF:-1 tvg-name="ESPN+ 044 | 05:30PM WRESTLING: NAVY VS. NC STATE (NAVY VS. NC STATE) (NOV 12)" tvg-logo="" group-title="sports",ESPN+ 044 | 05:30PM WRESTLING: NAVY VS. NC STATE (NAVY VS. NC STATE) (NOV 12)
+http://23.227.132.58:25461/Toolsplus/6969/221102
+#EXTINF:-1 tvg-name="ESPN+ 045 | 06:00PM VIRGINIA TECH VS. VCU (NOV 12)" tvg-logo="" group-title="sports",ESPN+ 045 | 06:00PM VIRGINIA TECH VS. VCU (NOV 12)
+http://23.227.132.58:25461/Toolsplus/6969/221103
+#EXTINF:-1 tvg-name="ESPN+ 046 | 06:00PM THE POINT (NOV 12)" tvg-logo="" group-title="sports",ESPN+ 046 | 06:00PM THE POINT (NOV 12)
+http://23.227.132.58:25461/Toolsplus/6969/221104
+#EXTINF:-1 tvg-name="ESPN+ 047 | 06:00PM LONGWOOD VS. PENNSYLVANIA (NOV 12)" tvg-logo="" group-title="sports",ESPN+ 047 | 06:00PM LONGWOOD VS. PENNSYLVANIA (NOV 12)
+http://23.227.132.58:25461/Toolsplus/6969/221105
+#EXTINF:-1 tvg-name="ESPN+ 048 | 06:00PM TENNESSEE TECH VS. WOFFORD (NOV 12)" tvg-logo="" group-title="sports",ESPN+ 048 | 06:00PM TENNESSEE TECH VS. WOFFORD (NOV 12)
+http://23.227.132.58:25461/Toolsplus/6969/221106
+#EXTINF:-1 tvg-name="ESPN+ 049 | 06:00PM SAMFORD VS. FURMAN (NOV 12)" tvg-logo="" group-title="sports",ESPN+ 049 | 06:00PM SAMFORD VS. FURMAN (NOV 12)
+http://23.227.132.58:25461/Toolsplus/6969/221107
+#EXTINF:-1 tvg-name="ESPN+ 050 | 06:00PM VERMONT VS. NEW HAMPSHIRE (NOV 12)" tvg-logo="" group-title="sports",ESPN+ 050 | 06:00PM VERMONT VS. NEW HAMPSHIRE (NOV 12)
+http://23.227.132.58:25461/Toolsplus/6969/221108
+#EXTINF:-1 tvg-name="ESPN+ 051 | 06:00PM OLD DOMINION VS. RICHMOND (NOV 12)" tvg-logo="" group-title="sports",ESPN+ 051 | 06:00PM OLD DOMINION VS. RICHMOND (NOV 12)
+http://23.227.132.58:25461/Toolsplus/6969/221109
+#EXTINF:-1 tvg-name="ESPN+ 052 | 06:00PM WESTERN ILLINOIS VS. MOREHEAD STATE (NOV 12)" tvg-logo="" group-title="sports",ESPN+ 052 | 06:00PM WESTERN ILLINOIS VS. MOREHEAD STATE (NOV 12)
+http://23.227.132.58:25461/Toolsplus/6969/221110
+#EXTINF:-1 tvg-name="ESPN+ 053 | 06:00PM DELAWARE VS. LIBERTY (NOV 12)" tvg-logo="" group-title="sports",ESPN+ 053 | 06:00PM DELAWARE VS. LIBERTY (NOV 12)
+http://23.227.132.58:25461/Toolsplus/6969/221111
+#EXTINF:-1 tvg-name="ESPN+ 055 | 06:00PM SOUTHERN ILLINOIS VS. EASTERN KENTUCKY (NOV 12)" tvg-logo="" group-title="sports",ESPN+ 055 | 06:00PM SOUTHERN ILLINOIS VS. EASTERN KENTUCKY (NOV 12)
+http://23.227.132.58:25461/Toolsplus/6969/221113
+#EXTINF:-1 tvg-name="ESPN+ 056 | 06:00PM MILWAUKEE VS. YOUNGSTOWN STATE (NOV 12)" tvg-logo="" group-title="sports",ESPN+ 056 | 06:00PM MILWAUKEE VS. YOUNGSTOWN STATE (NOV 12)
+http://23.227.132.58:25461/Toolsplus/6969/221114
+#EXTINF:-1 tvg-name="ESPN+ 057 | 06:01PM LITTLE ROCK VS. WEST GEORGIA (NOV 12)" tvg-logo="" group-title="sports",ESPN+ 057 | 06:01PM LITTLE ROCK VS. WEST GEORGIA (NOV 12)
+http://23.227.132.58:25461/Toolsplus/6969/221115
+#EXTINF:-1 tvg-name="ESPN+ 058 | 06:01PM FAIRFIELD VS. NIAGARA (SEMIFINAL #2) (NOV 12)" tvg-logo="" group-title="sports",ESPN+ 058 | 06:01PM FAIRFIELD VS. NIAGARA (SEMIFINAL #2) (NOV 12)
+http://23.227.132.58:25461/Toolsplus/6969/221116
+#EXTINF:-1 tvg-name="ESPN+ 059 | 06:01PM LOUISIANA TECH VS. GEORGIA STATE (NOV 12)" tvg-logo="" group-title="sports",ESPN+ 059 | 06:01PM LOUISIANA TECH VS. GEORGIA STATE (NOV 12)
+http://23.227.132.58:25461/Toolsplus/6969/221117
+#EXTINF:-1 tvg-name="ESPN+ 060 | 06:01PM OHIO VS. MIAMI (OH) (NOV 12)" tvg-logo="" group-title="sports",ESPN+ 060 | 06:01PM OHIO VS. MIAMI (OH) (NOV 12)
+http://23.227.132.58:25461/Toolsplus/6969/221118
+#EXTINF:-1 tvg-name="ESPN+ 061 | 06:01PM JOHNSON & WALES VS. BOSTON UNIVERSITY (NOV 12)" tvg-logo="" group-title="sports",ESPN+ 061 | 06:01PM JOHNSON & WALES VS. BOSTON UNIVERSITY (NOV 12)
+http://23.227.132.58:25461/Toolsplus/6969/221119
+#EXTINF:-1 tvg-name="ESPN+ 062 | 06:01PM SACRAMENTO STATE VS. BUFFALO (NOV 12)" tvg-logo="" group-title="sports",ESPN+ 062 | 06:01PM SACRAMENTO STATE VS. BUFFALO (NOV 12)
+http://23.227.132.58:25461/Toolsplus/6969/221120
+#EXTINF:-1 tvg-name="ESPN+ 063 | 06:01PM FOOTBALL: NFL GAMEDAY KICKOFF (NFL GAMEDAY KICKOFF) (NOV 12)" tvg-logo="" group-title="sports",ESPN+ 063 | 06:01PM FOOTBALL: NFL GAMEDAY KICKOFF (NFL GAMEDAY KICKOFF) (NOV 12)
+http://23.227.132.58:25461/Toolsplus/6969/221121
+#EXTINF:-1 tvg-name="ESPN+ 064 | 06:01PM FOOTBALL: THE BIGGEST GAME (THE BIGGEST GAME) (NOV 12)" tvg-logo="" group-title="sports",ESPN+ 064 | 06:01PM FOOTBALL: THE BIGGEST GAME (THE BIGGEST GAME) (NOV 12)
+http://23.227.132.58:25461/Toolsplus/6969/221122
+#EXTINF:-1 tvg-name="ESPN+ 065 | 06:01PM BASKETBALL: #19 OKLAHOMA ST VS. TULSA (#19 OKLAHOMA ST VS. TULSA) (NOV 12)" tvg-logo="" group-title="sports",ESPN+ 065 | 06:01PM BASKETBALL: #19 OKLAHOMA ST VS. TULSA (#19 OKLAHOMA ST VS. TULSA) (NOV 12)
+http://23.227.132.58:25461/Toolsplus/6969/221123
+#EXTINF:-1 tvg-name="ESPN+ 066 | 06:01PM BASKETBALL: SOUTH FLORIDA VS. FLORIDA (SOUTH FLORIDA VS. FLORIDA) (NOV 12)" tvg-logo="" group-title="sports",ESPN+ 066 | 06:01PM BASKETBALL: SOUTH FLORIDA VS. FLORIDA (SOUTH FLORIDA VS. FLORIDA) (NOV 12)
+http://23.227.132.58:25461/Toolsplus/6969/221124
+#EXTINF:-1 tvg-name="ESPN+ 067 | 06:02PM HOCKEY: THE POINT (THE POINT) (NOV 12)" tvg-logo="" group-title="sports",ESPN+ 067 | 06:02PM HOCKEY: THE POINT (THE POINT) (NOV 12)
+http://23.227.132.58:25461/Toolsplus/6969/221125
+#EXTINF:-1 tvg-name="ESPN+ 068 | 06:30PM MINNESOTA WILD VS. TORONTO MAPLE LEAFS (NOV 12)" tvg-logo="" group-title="sports",ESPN+ 068 | 06:30PM MINNESOTA WILD VS. TORONTO MAPLE LEAFS (NOV 12)
+http://23.227.132.58:25461/Toolsplus/6969/221126
+#EXTINF:-1 tvg-name="ESPN+ 069 | 06:30PM WASHINGTON CAPITALS VS. NEW JERSEY DEVILS (NOV 12)" tvg-logo="" group-title="sports",ESPN+ 069 | 06:30PM WASHINGTON CAPITALS VS. NEW JERSEY DEVILS (NOV 12)
+http://23.227.132.58:25461/Toolsplus/6969/221127
+#EXTINF:-1 tvg-name="ESPN+ 070 | 06:30PM COLORADO AVALANCHE VS. OTTAWA SENATORS (NOV 12)" tvg-logo="" group-title="sports",ESPN+ 070 | 06:30PM COLORADO AVALANCHE VS. OTTAWA SENATORS (NOV 12)
+http://23.227.132.58:25461/Toolsplus/6969/221128
+#EXTINF:-1 tvg-name="ESPN+ 071 | 06:30PM WESTERN CAROLINA VS. UNC ASHEVILLE (NOV 12)" tvg-logo="" group-title="sports",ESPN+ 071 | 06:30PM WESTERN CAROLINA VS. UNC ASHEVILLE (NOV 12)
+http://23.227.132.58:25461/Toolsplus/6969/221129
+#EXTINF:-1 tvg-name="ESPN+ 072 | 06:30PM MINNESOTA WILD VS. TORONTO MAPLE LEAFS (NOV 12)" tvg-logo="" group-title="sports",ESPN+ 072 | 06:30PM MINNESOTA WILD VS. TORONTO MAPLE LEAFS (NOV 12)
+http://23.227.132.58:25461/Toolsplus/6969/221130
+#EXTINF:-1 tvg-name="ESPN+ 073 | 06:30PM COLORADO AVALANCHE VS. OTTAWA SENATORS (NOV 12)" tvg-logo="" group-title="sports",ESPN+ 073 | 06:30PM COLORADO AVALANCHE VS. OTTAWA SENATORS (NOV 12)
+http://23.227.132.58:25461/Toolsplus/6969/221131
+#EXTINF:-1 tvg-name="ESPN+ 074 | 06:30PM WASHINGTON CAPITALS VS. NEW JERSEY DEVILS (NOV 12)" tvg-logo="" group-title="sports",ESPN+ 074 | 06:30PM WASHINGTON CAPITALS VS. NEW JERSEY DEVILS (NOV 12)
+http://23.227.132.58:25461/Toolsplus/6969/221132
+#EXTINF:-1 tvg-name="ESPN+ 075 | 06:30PM BASKETBALL: MTSU VS. TENNESSEE (MTSU VS. TENNESSEE) (NOV 12)" tvg-logo="" group-title="sports",ESPN+ 075 | 06:30PM BASKETBALL: MTSU VS. TENNESSEE (MTSU VS. TENNESSEE) (NOV 12)
+http://23.227.132.58:25461/Toolsplus/6969/221133
+#EXTINF:-1 tvg-name="ESPN+ 076 | 06:31PM NHL: MIN VS. TOR • COL VS. OTT (MIN VS. TOR ) (NOV 12)" tvg-logo="" group-title="sports",ESPN+ 076 | 06:31PM NHL: MIN VS. TOR • COL VS. OTT (MIN VS. TOR ) (NOV 12)
+http://23.227.132.58:25461/Toolsplus/6969/221134
+#EXTINF:-1 tvg-name="ESPN+ 077 | 06:31PM VOLLEYBALL: #20 NORTH CAROLINA VS. DUKE (#20 NORTH CAROLINA VS. DUKE) (NOV 12)" tvg-logo="" group-title="sports",ESPN+ 077 | 06:31PM VOLLEYBALL: #20 NORTH CAROLINA VS. DUKE (#20 NORTH CAROLINA VS. DUKE) (NOV 12)
+http://23.227.132.58:25461/Toolsplus/6969/221135
+#EXTINF:-1 tvg-name="ESPN+ 078 | 07:00PM NICHOLLS VS. MCNEESE (NOV 12)" tvg-logo="" group-title="sports",ESPN+ 078 | 07:00PM NICHOLLS VS. MCNEESE (NOV 12)
+http://23.227.132.58:25461/Toolsplus/6969/221136
+#EXTINF:-1 tvg-name="ESPN+ 079 | 07:00PM EASTERN KENTUCKY VS. TARLETON STATE (NOV 12)" tvg-logo="" group-title="sports",ESPN+ 079 | 07:00PM EASTERN KENTUCKY VS. TARLETON STATE (NOV 12)
+http://23.227.132.58:25461/Toolsplus/6969/221137
+#EXTINF:-1 tvg-name="ESPN+ 080 | 07:00PM MARYLAND_EASTERN SHORE VS. RHODE ISLAND (NOV 12)" tvg-logo="" group-title="sports",ESPN+ 080 | 07:00PM MARYLAND_EASTERN SHORE VS. RHODE ISLAND (NOV 12)
+http://23.227.132.58:25461/Toolsplus/6969/221138
+#EXTINF:-1 tvg-name="ESPN+ 081 | 07:00PM JACKSON STATE VS. SOUTHERN MISS (NOV 12)" tvg-logo="" group-title="sports",ESPN+ 081 | 07:00PM JACKSON STATE VS. SOUTHERN MISS (NOV 12)
+http://23.227.132.58:25461/Toolsplus/6969/221139
+#EXTINF:-1 tvg-name="ESPN+ 082 | 07:00PM SOUTHERN INDIANA VS. SOUTHEAST MISSOURI STATE (SEMIFINAL) (NOV 12)" tvg-logo="" group-title="sports",ESPN+ 082 | 07:00PM SOUTHERN INDIANA VS. SOUTHEAST MISSOURI STATE (SEMIFINAL) (NOV 12)
+http://23.227.132.58:25461/Toolsplus/6969/221140
+#EXTINF:-1 tvg-name="ESPN+ 083 | 07:00PM SOUTHEAST MISSOURI STATE VS. SOUTHERN INDIANA (NOV 12)" tvg-logo="" group-title="sports",ESPN+ 083 | 07:00PM SOUTHEAST MISSOURI STATE VS. SOUTHERN INDIANA (NOV 12)
+http://23.227.132.58:25461/Toolsplus/6969/221141
+#EXTINF:-1 tvg-name="ESPN+ 084 | 07:00PM AUSTIN PEAY VS. UT ARLINGTON (NOV 12)" tvg-logo="" group-title="sports",ESPN+ 084 | 07:00PM AUSTIN PEAY VS. UT ARLINGTON (NOV 12)
+http://23.227.132.58:25461/Toolsplus/6969/221142
+#EXTINF:-1 tvg-name="ESPN+ 085 | 07:00PM MURRAY STATE VS. DRAKE (SEMIFINAL) (NOV 12)" tvg-logo="" group-title="sports",ESPN+ 085 | 07:00PM MURRAY STATE VS. DRAKE (SEMIFINAL) (NOV 12)
+http://23.227.132.58:25461/Toolsplus/6969/221143
+#EXTINF:-1 tvg-name="ESPN+ 086 | 07:00PM MEXICO CITY CAPITANES VS. OSCEOLA MAGIC (NOV 12)" tvg-logo="" group-title="sports",ESPN+ 086 | 07:00PM MEXICO CITY CAPITANES VS. OSCEOLA MAGIC (NOV 12)
+http://23.227.132.58:25461/Toolsplus/6969/221144
+#EXTINF:-1 tvg-name="ESPN+ 087 | 07:00PM CENTRAL ARKANSAS VS. ABILENE CHRISTIAN (NOV 12)" tvg-logo="" group-title="sports",ESPN+ 087 | 07:00PM CENTRAL ARKANSAS VS. ABILENE CHRISTIAN (NOV 12)
+http://23.227.132.58:25461/Toolsplus/6969/221145
+#EXTINF:-1 tvg-name="ESPN+ 088 | 07:00PM VIRGINIA LYNCHBURG VS. COASTAL CAROLINA (NOV 12)" tvg-logo="" group-title="sports",ESPN+ 088 | 07:00PM VIRGINIA LYNCHBURG VS. COASTAL CAROLINA (NOV 12)
+http://23.227.132.58:25461/Toolsplus/6969/221146
+#EXTINF:-1 tvg-name="ESPN+ 089 | 07:00PM CAL STATE BAKERSFIELD VS. WESTERN ILLINOIS (NOV 12)" tvg-logo="" group-title="sports",ESPN+ 089 | 07:00PM CAL STATE BAKERSFIELD VS. WESTERN ILLINOIS (NOV 12)
+http://23.227.132.58:25461/Toolsplus/6969/221147
+#EXTINF:-1 tvg-name="ESPN+ 090 | 07:01PM SOUTHERN UTAH VS. HIGH POINT (NOV 12)" tvg-logo="" group-title="sports",ESPN+ 090 | 07:01PM SOUTHERN UTAH VS. HIGH POINT (NOV 12)
+http://23.227.132.58:25461/Toolsplus/6969/221148
+#EXTINF:-1 tvg-name="ESPN+ 091 | 07:01PM CENTRAL CONNECTICUT VS. SACRED HEART (NOV 12)" tvg-logo="" group-title="sports",ESPN+ 091 | 07:01PM CENTRAL CONNECTICUT VS. SACRED HEART (NOV 12)
+http://23.227.132.58:25461/Toolsplus/6969/221149
+#EXTINF:-1 tvg-name="ESPN+ 093 | 07:01PM OAKLAND VS. NORTHERN ILLINOIS (NOV 12)" tvg-logo="" group-title="sports",ESPN+ 093 | 07:01PM OAKLAND VS. NORTHERN ILLINOIS (NOV 12)
+http://23.227.132.58:25461/Toolsplus/6969/221151
+#EXTINF:-1 tvg-name="ESPN+ 094 | 07:01PM TAMPA BAY LIGHTNING VS. COLUMBUS BLUE JACKETS (NOV 12)" tvg-logo="" group-title="sports",ESPN+ 094 | 07:01PM TAMPA BAY LIGHTNING VS. COLUMBUS BLUE JACKETS (NOV 12)
+http://23.227.132.58:25461/Toolsplus/6969/221152
+#EXTINF:-1 tvg-name="ESPN+ 095 | 07:01PM MISSISSIPPI VALLEY STATE VS. LIPSCOMB (NOV 12)" tvg-logo="" group-title="sports",ESPN+ 095 | 07:01PM MISSISSIPPI VALLEY STATE VS. LIPSCOMB (NOV 12)
+http://23.227.132.58:25461/Toolsplus/6969/221153
+#EXTINF:-1 tvg-name="ESPN+ 096 | 07:01PM FAIRFIELD VS. SETON HALL (NOV 12)" tvg-logo="" group-title="sports",ESPN+ 096 | 07:01PM FAIRFIELD VS. SETON HALL (NOV 12)
+http://23.227.132.58:25461/Toolsplus/6969/221154
+#EXTINF:-1 tvg-name="ESPN+ 097 | 07:01PM MONTREAL CANADIENS VS. BOSTON BRUINS (NOV 12)" tvg-logo="" group-title="sports",ESPN+ 097 | 07:01PM MONTREAL CANADIENS VS. BOSTON BRUINS (NOV 12)
+http://23.227.132.58:25461/Toolsplus/6969/221155
+#EXTINF:-1 tvg-name="ESPN+ 098 | 07:01PM NORTH DAKOTA STATE VS. BUTLER (NOV 12)" tvg-logo="" group-title="sports",ESPN+ 098 | 07:01PM NORTH DAKOTA STATE VS. BUTLER (NOV 12)
+http://23.227.132.58:25461/Toolsplus/6969/221156
+#EXTINF:-1 tvg-name="ESPN+ 099 | 07:01PM WESTERN KENTUCKY VS. SAM HOUSTON (NOV 12)" tvg-logo="" group-title="sports",ESPN+ 099 | 07:01PM WESTERN KENTUCKY VS. SAM HOUSTON (NOV 12)
+http://23.227.132.58:25461/Toolsplus/6969/221157
+#EXTINF:-1 tvg-name="ESPN+ 100 | 07:01PM TAMPA BAY LIGHTNING VS. COLUMBUS BLUE JACKETS (NOV 12)" tvg-logo="" group-title="sports",ESPN+ 100 | 07:01PM TAMPA BAY LIGHTNING VS. COLUMBUS BLUE JACKETS (NOV 12)
+http://23.227.132.58:25461/Toolsplus/6969/221158
+#EXTINF:-1 tvg-name="ESPN+ 101 | 07:01PM NORTH DAKOTA VS. MILWAUKEE (NOV 12)" tvg-logo="" group-title="sports",ESPN+ 101 | 07:01PM NORTH DAKOTA VS. MILWAUKEE (NOV 12)
+http://23.227.132.58:25461/Toolsplus/6969/221159
+#EXTINF:-1 tvg-name="ESPN+ 102 | 07:02PM UT RIO GRANDE VALLEY VS. INCARNATE WORD (NOV 12)" tvg-logo="" group-title="sports",ESPN+ 102 | 07:02PM UT RIO GRANDE VALLEY VS. INCARNATE WORD (NOV 12)
+http://23.227.132.58:25461/Toolsplus/6969/221160
+#EXTINF:-1 tvg-name="ESPN+ 103 | 07:02PM TENNESSEE STATE VS. LINDENWOOD (NOV 12)" tvg-logo="" group-title="sports",ESPN+ 103 | 07:02PM TENNESSEE STATE VS. LINDENWOOD (NOV 12)
+http://23.227.132.58:25461/Toolsplus/6969/221161
+#EXTINF:-1 tvg-name="ESPN+ 104 | 07:02PM ALABAMA VS. MEMPHIS (NOV 12)" tvg-logo="" group-title="sports",ESPN+ 104 | 07:02PM ALABAMA VS. MEMPHIS (NOV 12)
+http://23.227.132.58:25461/Toolsplus/6969/221162
+#EXTINF:-1 tvg-name="ESPN+ 105 | 07:02PM BROWN VS. DARTMOUTH (SEMIFINAL) (NOV 12)" tvg-logo="" group-title="sports",ESPN+ 105 | 07:02PM BROWN VS. DARTMOUTH (SEMIFINAL) (NOV 12)
+http://23.227.132.58:25461/Toolsplus/6969/221163
+#EXTINF:-1 tvg-name="ESPN+ 106 | 07:02PM MERRIMACK VS. VILLANOVA (NOV 12)" tvg-logo="" group-title="sports",ESPN+ 106 | 07:02PM MERRIMACK VS. VILLANOVA (NOV 12)
+http://23.227.132.58:25461/Toolsplus/6969/221164
+#EXTINF:-1 tvg-name="ESPN+ 107 | 07:02PM MONTREAL CANADIENS VS. BOSTON BRUINS (NOV 12)" tvg-logo="" group-title="sports",ESPN+ 107 | 07:02PM MONTREAL CANADIENS VS. BOSTON BRUINS (NOV 12)
+http://23.227.132.58:25461/Toolsplus/6969/221165
+#EXTINF:-1 tvg-name="ESPN+ 108 | 07:02PM MERCER VS. WEST VIRGINIA (NOV 12)" tvg-logo="" group-title="sports",ESPN+ 108 | 07:02PM MERCER VS. WEST VIRGINIA (NOV 12)
+http://23.227.132.58:25461/Toolsplus/6969/221166
+#EXTINF:-1 tvg-name="ESPN+ 109 | 07:02PM JACKSONVILLE STATE VS. MISSOURI STATE (NOV 12)" tvg-logo="" group-title="sports",ESPN+ 109 | 07:02PM JACKSONVILLE STATE VS. MISSOURI STATE (NOV 12)
+http://23.227.132.58:25461/Toolsplus/6969/221167
+#EXTINF:-1 tvg-name="ESPN+ 110 | 07:02PM LAGRANGE VS. KENNESAW STATE (NOV 12)" tvg-logo="" group-title="sports",ESPN+ 110 | 07:02PM LAGRANGE VS. KENNESAW STATE (NOV 12)
+http://23.227.132.58:25461/Toolsplus/6969/221168
+#EXTINF:-1 tvg-name="ESPN+ 111 | 07:02PM #2 MICHIGAN VS. COLUMBIA (NOV 12)" tvg-logo="" group-title="sports",ESPN+ 111 | 07:02PM #2 MICHIGAN VS. COLUMBIA (NOV 12)
+http://23.227.132.58:25461/Toolsplus/6969/221169
+#EXTINF:-1 tvg-name="ESPN+ 112 | 07:02PM GEORGIA SOUTHERN VS. SOUTH ALABAMA (NOV 12)" tvg-logo="" group-title="sports",ESPN+ 112 | 07:02PM GEORGIA SOUTHERN VS. SOUTH ALABAMA (NOV 12)
+http://23.227.132.58:25461/Toolsplus/6969/221170
+#EXTINF:-1 tvg-name="ESPN+ 113 | 07:02PM CANISIUS VS. BROWN (NOV 12)" tvg-logo="" group-title="sports",ESPN+ 113 | 07:02PM CANISIUS VS. BROWN (NOV 12)
+http://23.227.132.58:25461/Toolsplus/6969/221171
+#EXTINF:-1 tvg-name="ESPN+ 114 | 07:03PM NIAGARA VS. BOWLING GREEN (NOV 12)" tvg-logo="" group-title="sports",ESPN+ 114 | 07:03PM NIAGARA VS. BOWLING GREEN (NOV 12)
+http://23.227.132.58:25461/Toolsplus/6969/221172
+#EXTINF:-1 tvg-name="ESPN+ 115 | 07:03PM MONMOUTH VS. QUINNIPIAC (NOV 12)" tvg-logo="" group-title="sports",ESPN+ 115 | 07:03PM MONMOUTH VS. QUINNIPIAC (NOV 12)
+http://23.227.132.58:25461/Toolsplus/6969/221173
+#EXTINF:-1 tvg-name="ESPN+ 116 | 07:03PM SIU EDWARDSVILLE VS. EASTERN ILLINOIS (NOV 12)" tvg-logo="" group-title="sports",ESPN+ 116 | 07:03PM SIU EDWARDSVILLE VS. EASTERN ILLINOIS (NOV 12)
+http://23.227.132.58:25461/Toolsplus/6969/221174
+#EXTINF:-1 tvg-name="ESPN+ 117 | 07:03PM FOOTBALL: THE TIMELINE: THE HELMET CATCH (THE TIMELINE: THE HELMET CATCH) (NOV 12)" tvg-logo="" group-title="sports",ESPN+ 117 | 07:03PM FOOTBALL: THE TIMELINE: THE HELMET CATCH (THE TIMELINE: THE HELMET CATCH) (NOV 12)
+http://23.227.132.58:25461/Toolsplus/6969/221175
+#EXTINF:-1 tvg-name="ESPN+ 118 | 07:03PM BASKETBALL: SAINT PETER`S VS. MIAMI (SAINT PETER`S VS. MIAMI) (NOV 12)" tvg-logo="" group-title="sports",ESPN+ 118 | 07:03PM BASKETBALL: SAINT PETER`S VS. MIAMI (SAINT PETER`S VS. MIAMI) (NOV 12)
+http://23.227.132.58:25461/Toolsplus/6969/221176
+#EXTINF:-1 tvg-name="ESPN+ 119 | 07:05PM BASKETBALL: MD_EASTERN VS. GEORGIA TECH (MD_EASTERN VS. GEORGIA TECH) (NOV 12)" tvg-logo="" group-title="sports",ESPN+ 119 | 07:05PM BASKETBALL: MD_EASTERN VS. GEORGIA TECH (MD_EASTERN VS. GEORGIA TECH) (NOV 12)
+http://23.227.132.58:25461/Toolsplus/6969/221177
+#EXTINF:-1 tvg-name="ESPN+ 120 | 07:05PM BASKETBALL: #1 SOUTH CAROLINA VS. CLEMSON (#1 SOUTH CAROLINA VS. CLEMSON) (NOV 12)" tvg-logo="" group-title="sports",ESPN+ 120 | 07:05PM BASKETBALL: #1 SOUTH CAROLINA VS. CLEMSON (#1 SOUTH CAROLINA VS. CLEMSON) (NOV 12)
+http://23.227.132.58:25461/Toolsplus/6969/221178
+#EXTINF:-1 tvg-name="ESPN+ 121 | 07:05PM NCAA WOMEN`S BASKETBALL: UMES VS. GT • SPU VS. MIA (UMES VS. GT ) (NOV 12)" tvg-logo="" group-title="sports",ESPN+ 121 | 07:05PM NCAA WOMEN`S BASKETBALL: UMES VS. GT • SPU VS. MIA (UMES VS. GT ) (NOV 12)
+http://23.227.132.58:25461/Toolsplus/6969/221179
+#EXTINF:-1 tvg-name="ESPN+ 122 | 07:05PM NCAA WOMEN`S BASKETBALL: SPU VS. MIA • #1 SC VS. CLEM (SPU VS. MIA ) (NOV 12)" tvg-logo="" group-title="sports",ESPN+ 122 | 07:05PM NCAA WOMEN`S BASKETBALL: SPU VS. MIA • #1 SC VS. CLEM (SPU VS. MIA ) (NOV 12)
+http://23.227.132.58:25461/Toolsplus/6969/221180
+#EXTINF:-1 tvg-name="ESPN+ 123 | 07:05PM NCAA WOMEN`S BASKETBALL: UMES VS. GT • SPU VS. MIA • #1 SC VS. CLEM (UMES VS. GT ) (NOV 12)" tvg-logo="" group-title="sports",ESPN+ 123 | 07:05PM NCAA WOMEN`S BASKETBALL: UMES VS. GT • SPU VS. MIA • #1 SC VS. CLEM (UMES VS. GT ) (NOV 12)
+http://23.227.132.58:25461/Toolsplus/6969/221181
+#EXTINF:-1 tvg-name="ESPN+ 124 | 07:05PM NCAA WOMEN`S BASKETBALL: UMES VS. GT • #1 SC VS. CLEM (UMES VS. GT ) (NOV 12)" tvg-logo="" group-title="sports",ESPN+ 124 | 07:05PM NCAA WOMEN`S BASKETBALL: UMES VS. GT • #1 SC VS. CLEM (UMES VS. GT ) (NOV 12)
+http://23.227.132.58:25461/Toolsplus/6969/221182
+#EXTINF:-1 tvg-name="ESPN+ 125 | 07:05PM NCAA WOMEN`S BASKETBALL: #19 OKST VS. TLSA • #2 MICH VS. COLU (#19 OKST VS. TLSA ) (NOV 12)" tvg-logo="" group-title="sports",ESPN+ 125 | 07:05PM NCAA WOMEN`S BASKETBALL: #19 OKST VS. TLSA • #2 MICH VS. COLU (#19 OKST VS. TLSA ) (NOV 12)
+http://23.227.132.58:25461/Toolsplus/6969/221183
+#EXTINF:-1 tvg-name="ESPN+ 126 | 07:06PM NHL: MIN VS. TOR • MTL VS. BOS (MIN VS. TOR ) (NOV 12)" tvg-logo="" group-title="sports",ESPN+ 126 | 07:06PM NHL: MIN VS. TOR • MTL VS. BOS (MIN VS. TOR ) (NOV 12)
+http://23.227.132.58:25461/Toolsplus/6969/221184
+#EXTINF:-1 tvg-name="ESPN+ 127 | 07:06PM NHL: MIN VS. TOR • COL VS. OTT • MTL VS. BOS (MIN VS. TOR ) (NOV 12)" tvg-logo="" group-title="sports",ESPN+ 127 | 07:06PM NHL: MIN VS. TOR • COL VS. OTT • MTL VS. BOS (MIN VS. TOR ) (NOV 12)
+http://23.227.132.58:25461/Toolsplus/6969/221185
+#EXTINF:-1 tvg-name="ESPN+ 128 | 07:06PM NHL: COL VS. OTT • MTL VS. BOS (COL VS. OTT ) (NOV 12)" tvg-logo="" group-title="sports",ESPN+ 128 | 07:06PM NHL: COL VS. OTT • MTL VS. BOS (COL VS. OTT ) (NOV 12)
+http://23.227.132.58:25461/Toolsplus/6969/221186
+#EXTINF:-1 tvg-name="ESPN+ 129 | 07:06PM NHL: TB VS. CBJ • WSH VS. NJ (TB VS. CBJ ) (NOV 12)" tvg-logo="" group-title="sports",ESPN+ 129 | 07:06PM NHL: TB VS. CBJ • WSH VS. NJ (TB VS. CBJ ) (NOV 12)
+http://23.227.132.58:25461/Toolsplus/6969/221187
+#EXTINF:-1 tvg-name="ESPN+ 130 | 07:06PM SOCCER: #8 ALABAMA VS. #11 SOUTH CAROLINA (#8 ALABAMA VS. #11 SOUTH CAROLINA) (NOV 12)" tvg-logo="" group-title="sports",ESPN+ 130 | 07:06PM SOCCER: #8 ALABAMA VS. #11 SOUTH CAROLINA (#8 ALABAMA VS. #11 SOUTH CAROLINA) (NOV 12)
+http://23.227.132.58:25461/Toolsplus/6969/221188
+#EXTINF:-1 tvg-name="ESPN+ 131 | 07:30PM NORTHWESTERN STATE VS. LOUISIANA TECH (NOV 12)" tvg-logo="" group-title="sports",ESPN+ 131 | 07:30PM NORTHWESTERN STATE VS. LOUISIANA TECH (NOV 12)
+http://23.227.132.58:25461/Toolsplus/6969/221189
+#EXTINF:-1 tvg-name="ESPN+ 132 | 07:30PM STEPHEN F. AUSTIN VS. SE LOUISIANA (NOV 12)" tvg-logo="" group-title="sports",ESPN+ 132 | 07:30PM STEPHEN F. AUSTIN VS. SE LOUISIANA (NOV 12)
+http://23.227.132.58:25461/Toolsplus/6969/221190
+#EXTINF:-1 tvg-name="ESPN+ 133 | 07:30PM LAMAR VS. LSU NEW ORLEANS (NOV 12)" tvg-logo="" group-title="sports",ESPN+ 133 | 07:30PM LAMAR VS. LSU NEW ORLEANS (NOV 12)
+http://23.227.132.58:25461/Toolsplus/6969/221191
+#EXTINF:-1 tvg-name="ESPN+ 134 | 07:30PM SETON HALL VS. #2 GEORGETOWN (SEMIFINAL) (NOV 12)" tvg-logo="" group-title="sports",ESPN+ 134 | 07:30PM SETON HALL VS. #2 GEORGETOWN (SEMIFINAL) (NOV 12)
+http://23.227.132.58:25461/Toolsplus/6969/221192
+#EXTINF:-1 tvg-name="ESPN+ 135 | 07:30PM GREENSBORO SWARM VS. RAPTORS 905 (NOV 12)" tvg-logo="" group-title="sports",ESPN+ 135 | 07:30PM GREENSBORO SWARM VS. RAPTORS 905 (NOV 12)
+http://23.227.132.58:25461/Toolsplus/6969/221193
+#EXTINF:-1 tvg-name="ESPN+ 136 | 07:30PM LSU NEW ORLEANS VS. TULANE (NOV 12)" tvg-logo="" group-title="sports",ESPN+ 136 | 07:30PM LSU NEW ORLEANS VS. TULANE (NOV 12)
+http://23.227.132.58:25461/Toolsplus/6969/221194
+#EXTINF:-1 tvg-name="ESPN+ 137 | 07:30PM WINNIPEG JETS VS. DALLAS STARS (NOV 12)" tvg-logo="" group-title="sports",ESPN+ 137 | 07:30PM WINNIPEG JETS VS. DALLAS STARS (NOV 12)
+http://23.227.132.58:25461/Toolsplus/6969/221195
+#EXTINF:-1 tvg-name="ESPN+ 138 | 07:30PM SOUTHERN MISS VS. MARSHALL (NOV 12)" tvg-logo="" group-title="sports",ESPN+ 138 | 07:30PM SOUTHERN MISS VS. MARSHALL (NOV 12)
+http://23.227.132.58:25461/Toolsplus/6969/221196
+#EXTINF:-1 tvg-name="ESPN+ 139 | 07:30PM HOWARD VS. IOWA STATE (NOV 12)" tvg-logo="" group-title="sports",ESPN+ 139 | 07:30PM HOWARD VS. IOWA STATE (NOV 12)
+http://23.227.132.58:25461/Toolsplus/6969/221197
+#EXTINF:-1 tvg-name="ESPN+ 140 | 07:30PM SE LOUISIANA VS. #15 TCU (NOV 12)" tvg-logo="" group-title="sports",ESPN+ 140 | 07:30PM SE LOUISIANA VS. #15 TCU (NOV 12)
+http://23.227.132.58:25461/Toolsplus/6969/221198
+#EXTINF:-1 tvg-name="ESPN+ 141 | 07:30PM WEST VIRGINIA VS. HOUSTON (NOV 12)" tvg-logo="" group-title="sports",ESPN+ 141 | 07:30PM WEST VIRGINIA VS. HOUSTON (NOV 12)
+http://23.227.132.58:25461/Toolsplus/6969/221199
+#EXTINF:-1 tvg-name="ESPN+ 142 | 07:30PM WINNIPEG JETS VS. DALLAS STARS (NOV 12)" tvg-logo="" group-title="sports",ESPN+ 142 | 07:30PM WINNIPEG JETS VS. DALLAS STARS (NOV 12)
+http://23.227.132.58:25461/Toolsplus/6969/221200
+#EXTINF:-1 tvg-name="ESPN+ 143 | 07:31PM DETROIT RED WINGS VS. FLORIDA PANTHERS (NOV 12)" tvg-logo="" group-title="sports",ESPN+ 143 | 07:31PM DETROIT RED WINGS VS. FLORIDA PANTHERS (NOV 12)
+http://23.227.132.58:25461/Toolsplus/6969/221201
+#EXTINF:-1 tvg-name="ESPN+ 144 | 07:31PM EAST TEXAS A&M VS. NORTHWESTERN STATE (NOV 12)" tvg-logo="" group-title="sports",ESPN+ 144 | 07:31PM EAST TEXAS A&M VS. NORTHWESTERN STATE (NOV 12)
+http://23.227.132.58:25461/Toolsplus/6969/221202
+#EXTINF:-1 tvg-name="ESPN+ 145 | 07:31PM BUFFALO SABRES VS. CHICAGO BLACKHAWKS (NOV 12)" tvg-logo="" group-title="sports",ESPN+ 145 | 07:31PM BUFFALO SABRES VS. CHICAGO BLACKHAWKS (NOV 12)
+http://23.227.132.58:25461/Toolsplus/6969/221203
+#EXTINF:-1 tvg-name="ESPN+ 146 | 07:31PM BUFFALO SABRES VS. CHICAGO BLACKHAWKS (NOV 12)" tvg-logo="" group-title="sports",ESPN+ 146 | 07:31PM BUFFALO SABRES VS. CHICAGO BLACKHAWKS (NOV 12)
+http://23.227.132.58:25461/Toolsplus/6969/221204
+#EXTINF:-1 tvg-name="ESPN+ 147 | 07:31PM TEXAS A&M_CORPUS CHRISTI VS. HOUSTON CHRISTIAN (NOV 12)" tvg-logo="" group-title="sports",ESPN+ 147 | 07:31PM TEXAS A&M_CORPUS CHRISTI VS. HOUSTON CHRISTIAN (NOV 12)
+http://23.227.132.58:25461/Toolsplus/6969/221205
+#EXTINF:-1 tvg-name="ESPN+ 148 | 07:31PM FOOTBALL: COLLEGE FOOTBALL COUNTDOWN (COLLEGE FOOTBALL COUNTDOWN) (NOV 12)" tvg-logo="" group-title="sports",ESPN+ 148 | 07:31PM FOOTBALL: COLLEGE FOOTBALL COUNTDOWN (COLLEGE FOOTBALL COUNTDOWN) (NOV 12)
+http://23.227.132.58:25461/Toolsplus/6969/221206
+#EXTINF:-1 tvg-name="ESPN+ 149 | 07:31PM BASKETBALL: UT MARTIN VS. MISSOURI (UT MARTIN VS. MISSOURI) (NOV 12)" tvg-logo="" group-title="sports",ESPN+ 149 | 07:31PM BASKETBALL: UT MARTIN VS. MISSOURI (UT MARTIN VS. MISSOURI) (NOV 12)
+http://23.227.132.58:25461/Toolsplus/6969/221207
+#EXTINF:-1 tvg-name="ESPN+ 150 | 07:31PM BASKETBALL: AR_PINE BLUFF VS. ARKANSAS (AR_PINE BLUFF VS. ARKANSAS) (NOV 12)" tvg-logo="" group-title="sports",ESPN+ 150 | 07:31PM BASKETBALL: AR_PINE BLUFF VS. ARKANSAS (AR_PINE BLUFF VS. ARKANSAS) (NOV 12)
+http://23.227.132.58:25461/Toolsplus/6969/221208
+#EXTINF:-1 tvg-name="ESPN+ 151 | 07:32PM NHL: BUF VS. CHI • WPG VS. DAL (BUF VS. CHI ) (NOV 12)" tvg-logo="" group-title="sports",ESPN+ 151 | 07:32PM NHL: BUF VS. CHI • WPG VS. DAL (BUF VS. CHI ) (NOV 12)
+http://23.227.132.58:25461/Toolsplus/6969/221209
+#EXTINF:-1 tvg-name="ESPN+ 152 | 07:32PM NHL: WSH VS. NJ • DET VS. FLA (WSH VS. NJ ) (NOV 12)" tvg-logo="" group-title="sports",ESPN+ 152 | 07:32PM NHL: WSH VS. NJ • DET VS. FLA (WSH VS. NJ ) (NOV 12)
+http://23.227.132.58:25461/Toolsplus/6969/221210
+#EXTINF:-1 tvg-name="ESPN+ 153 | 07:32PM NHL: TB VS. CBJ • DET VS. FLA (TB VS. CBJ ) (NOV 12)" tvg-logo="" group-title="sports",ESPN+ 153 | 07:32PM NHL: TB VS. CBJ • DET VS. FLA (TB VS. CBJ ) (NOV 12)
+http://23.227.132.58:25461/Toolsplus/6969/221211
+#EXTINF:-1 tvg-name="ESPN+ 154 | 07:32PM NHL: TB VS. CBJ • WSH VS. NJ • DET VS. FLA (TB VS. CBJ ) (NOV 12)" tvg-logo="" group-title="sports",ESPN+ 154 | 07:32PM NHL: TB VS. CBJ • WSH VS. NJ • DET VS. FLA (TB VS. CBJ ) (NOV 12)
+http://23.227.132.58:25461/Toolsplus/6969/221212
+#EXTINF:-1 tvg-name="ESPN+ 155 | 08:00PM ARLINGTON BAPTIST VS. LAMAR (NOV 12)" tvg-logo="" group-title="sports",ESPN+ 155 | 08:00PM ARLINGTON BAPTIST VS. LAMAR (NOV 12)
+http://23.227.132.58:25461/Toolsplus/6969/221213
+#EXTINF:-1 tvg-name="ESPN+ 156 | 08:00PM NORTH FLORIDA VS. LITTLE ROCK (NOV 12)" tvg-logo="" group-title="sports",ESPN+ 156 | 08:00PM NORTH FLORIDA VS. LITTLE ROCK (NOV 12)
+http://23.227.132.58:25461/Toolsplus/6969/221214
+#EXTINF:-1 tvg-name="ESPN+ 157 | 08:00PM NORTHWESTERN STATE VS. HOUSTON CHRISTIAN (SEMIFINAL) (NOV 12)" tvg-logo="" group-title="sports",ESPN+ 157 | 08:00PM NORTHWESTERN STATE VS. HOUSTON CHRISTIAN (SEMIFINAL) (NOV 12)
+http://23.227.132.58:25461/Toolsplus/6969/221215
+#EXTINF:-1 tvg-name="ESPN+ 158 | 08:00PM BYU COUNTDOWN TO TIP_OFF (NOV 12)" tvg-logo="" group-title="sports",ESPN+ 158 | 08:00PM BYU COUNTDOWN TO TIP_OFF (NOV 12)
+http://23.227.132.58:25461/Toolsplus/6969/221216
+#EXTINF:-1 tvg-name="ESPN+ 159 | 08:00PM PRAIRIE VIEW A&M VS. BAYLOR (NOV 12)" tvg-logo="" group-title="sports",ESPN+ 159 | 08:00PM PRAIRIE VIEW A&M VS. BAYLOR (NOV 12)
+http://23.227.132.58:25461/Toolsplus/6969/221217
+#EXTINF:-1 tvg-name="ESPN+ 160 | 08:00PM SOUTHERN UTAH VS. NORTHERN COLORADO (NOV 12)" tvg-logo="" group-title="sports",ESPN+ 160 | 08:00PM SOUTHERN UTAH VS. NORTHERN COLORADO (NOV 12)
+http://23.227.132.58:25461/Toolsplus/6969/221218
+#EXTINF:-1 tvg-name="ESPN+ 161 | 08:00PM GRAND RAPIDS GOLD VS. WINDY CITY BULLS (NOV 12)" tvg-logo="" group-title="sports",ESPN+ 161 | 08:00PM GRAND RAPIDS GOLD VS. WINDY CITY BULLS (NOV 12)
+http://23.227.132.58:25461/Toolsplus/6969/221219
+#EXTINF:-1 tvg-name="ESPN+ 162 | 08:00PM RICHMOND VS. SOUTHERN ILLINOIS (NOV 12)" tvg-logo="" group-title="sports",ESPN+ 162 | 08:00PM RICHMOND VS. SOUTHERN ILLINOIS (NOV 12)
+http://23.227.132.58:25461/Toolsplus/6969/221220
+#EXTINF:-1 tvg-name="ESPN+ 163 | 08:00PM #7 BYU VS. #23 BAYLOR (NOV 12)" tvg-logo="" group-title="sports",ESPN+ 163 | 08:00PM #7 BYU VS. #23 BAYLOR (NOV 12)
+http://23.227.132.58:25461/Toolsplus/6969/221221
+#EXTINF:-1 tvg-name="ESPN+ 164 | 08:00PM TEXAS SOUTHERN VS. RICE (NOV 12)" tvg-logo="" group-title="sports",ESPN+ 164 | 08:00PM TEXAS SOUTHERN VS. RICE (NOV 12)
+http://23.227.132.58:25461/Toolsplus/6969/221222
+#EXTINF:-1 tvg-name="ESPN+ 165 | 08:00PM OKLAHOMA CITY BLUE VS. MEMPHIS HUSTLE (NOV 12)" tvg-logo="" group-title="sports",ESPN+ 165 | 08:00PM OKLAHOMA CITY BLUE VS. MEMPHIS HUSTLE (NOV 12)
+http://23.227.132.58:25461/Toolsplus/6969/221223
+#EXTINF:-1 tvg-name="ESPN+ 166 | 08:00PM FOOTBALL: MEMPHIS VS. SOUTH FLORIDA (MEMPHIS VS. SOUTH FLORIDA) (NOV 12)" tvg-logo="" group-title="sports",ESPN+ 166 | 08:00PM FOOTBALL: MEMPHIS VS. SOUTH FLORIDA (MEMPHIS VS. SOUTH FLORIDA) (NOV 12)
+http://23.227.132.58:25461/Toolsplus/6969/221224
+#EXTINF:-1 tvg-name="ESPN+ 167 | 08:01PM NCAA MEN`S BASKETBALL: OKLAHOMA ST VS. TEXAS A&M (OKLAHOMA ST VS. TEXAS A&M) (NOV 12)" tvg-logo="" group-title="sports",ESPN+ 167 | 08:01PM NCAA MEN`S BASKETBALL: OKLAHOMA ST VS. TEXAS A&M (OKLAHOMA ST VS. TEXAS A&M) (NOV 12)
+http://23.227.132.58:25461/Toolsplus/6969/221225
+#EXTINF:-1 tvg-name="ESPN+ 168 | 08:01PM NCAA WOMEN`S BASKETBALL: SELA VS. #15 TCU • PV VS. BAY (SELA VS. #15 TCU ) (NOV 12)" tvg-logo="" group-title="sports",ESPN+ 168 | 08:01PM NCAA WOMEN`S BASKETBALL: SELA VS. #15 TCU • PV VS. BAY (SELA VS. #15 TCU ) (NOV 12)
+http://23.227.132.58:25461/Toolsplus/6969/221226
+#EXTINF:-1 tvg-name="ESPN+ 169 | 08:01PM NCAA WOMEN`S BASKETBALL: HOW VS. ISU • PV VS. BAY (HOW VS. ISU ) (NOV 12)" tvg-logo="" group-title="sports",ESPN+ 169 | 08:01PM NCAA WOMEN`S BASKETBALL: HOW VS. ISU • PV VS. BAY (HOW VS. ISU ) (NOV 12)
+http://23.227.132.58:25461/Toolsplus/6969/221227
+#EXTINF:-1 tvg-name="ESPN+ 170 | 08:01PM NCAA WOMEN`S BASKETBALL: SELA VS. #15 TCU • HOW VS. ISU • PV VS. BAY (SELA VS. #15 TCU ) (NOV 12)" tvg-logo="" group-title="sports",ESPN+ 170 | 08:01PM NCAA WOMEN`S BASKETBALL: SELA VS. #15 TCU • HOW VS. ISU • PV VS. BAY (SELA VS. #15 TCU ) (NOV 12)
+http://23.227.132.58:25461/Toolsplus/6969/221228
+#EXTINF:-1 tvg-name="ESPN+ 172 | 08:02PM VOLLEYBALL: #3 LOUISVILLE VS. #5 SMU (#3 LOUISVILLE VS. #5 SMU) (NOV 12)" tvg-logo="" group-title="sports",ESPN+ 172 | 08:02PM VOLLEYBALL: #3 LOUISVILLE VS. #5 SMU (#3 LOUISVILLE VS. #5 SMU) (NOV 12)
+http://23.227.132.58:25461/Toolsplus/6969/221229
+#EXTINF:-1 tvg-name="ESPN+ 173 | 08:30PM ST. LOUIS BLUES VS. UTAH MAMMOTH (NOV 12)" tvg-logo="" group-title="sports",ESPN+ 173 | 08:30PM ST. LOUIS BLUES VS. UTAH MAMMOTH (NOV 12)
+http://23.227.132.58:25461/Toolsplus/6969/221230
+#EXTINF:-1 tvg-name="ESPN+ 174 | 08:30PM ST. LOUIS BLUES VS. UTAH MAMMOTH (NOV 12)" tvg-logo="" group-title="sports",ESPN+ 174 | 08:30PM ST. LOUIS BLUES VS. UTAH MAMMOTH (NOV 12)
+http://23.227.132.58:25461/Toolsplus/6969/221231
+#EXTINF:-1 tvg-name="ESPN+ 175 | 08:30PM WEBER STATE VS. NORTHERN ARIZONA (NOV 12)" tvg-logo="" group-title="sports",ESPN+ 175 | 08:30PM WEBER STATE VS. NORTHERN ARIZONA (NOV 12)
+http://23.227.132.58:25461/Toolsplus/6969/221232
+#EXTINF:-1 tvg-name="ESPN+ 176 | 08:30PM FUTBOL W (NOV 12)" tvg-logo="" group-title="sports",ESPN+ 176 | 08:30PM FUTBOL W (NOV 12)
+http://23.227.132.58:25461/Toolsplus/6969/221233
+#EXTINF:-1 tvg-name="ESPN+ 177 | 09:00PM BIOLA VS. UC SAN DIEGO (NOV 12)" tvg-logo="" group-title="sports",ESPN+ 177 | 09:00PM BIOLA VS. UC SAN DIEGO (NOV 12)
+http://23.227.132.58:25461/Toolsplus/6969/221234
+#EXTINF:-1 tvg-name="ESPN+ 178 | 09:00PM #14 KANSAS VS. COLORADO (NOV 12)" tvg-logo="" group-title="sports",ESPN+ 178 | 09:00PM #14 KANSAS VS. COLORADO (NOV 12)
+http://23.227.132.58:25461/Toolsplus/6969/221235
+#EXTINF:-1 tvg-name="ESPN+ 179 | 09:00PM MONTANA STATE VS. EASTERN WASHINGTON (NOV 12)" tvg-logo="" group-title="sports",ESPN+ 179 | 09:00PM MONTANA STATE VS. EASTERN WASHINGTON (NOV 12)
+http://23.227.132.58:25461/Toolsplus/6969/221236
+#EXTINF:-1 tvg-name="ESPN+ 180 | 09:00PM SAINT MARY`S VS. PORTLAND (NOV 12)" tvg-logo="" group-title="sports",ESPN+ 180 | 09:00PM SAINT MARY`S VS. PORTLAND (NOV 12)
+http://23.227.132.58:25461/Toolsplus/6969/221237
+#EXTINF:-1 tvg-name="ESPN+ 181 | 09:00PM LINCOLN (CA) VS. CAL STATE FULLERTON (NOV 12)" tvg-logo="" group-title="sports",ESPN+ 181 | 09:00PM LINCOLN (CA) VS. CAL STATE FULLERTON (NOV 12)
+http://23.227.132.58:25461/Toolsplus/6969/221238
+#EXTINF:-1 tvg-name="ESPN+ 182 | 09:00PM DENVER VS. LOYOLA MARYMOUNT (NOV 12)" tvg-logo="" group-title="sports",ESPN+ 182 | 09:00PM DENVER VS. LOYOLA MARYMOUNT (NOV 12)
+http://23.227.132.58:25461/Toolsplus/6969/221239
+#EXTINF:-1 tvg-name="ESPN+ 183 | 09:00PM COACHELLA VALLEY LAKERS VS. VALLEY SUNS (NOV 12)" tvg-logo="" group-title="sports",ESPN+ 183 | 09:00PM COACHELLA VALLEY LAKERS VS. VALLEY SUNS (NOV 12)
+http://23.227.132.58:25461/Toolsplus/6969/221240
+#EXTINF:-1 tvg-name="ESPN+ 184 | 09:00PM MONTANA VS. IDAHO (NOV 12)" tvg-logo="" group-title="sports",ESPN+ 184 | 09:00PM MONTANA VS. IDAHO (NOV 12)
+http://23.227.132.58:25461/Toolsplus/6969/221241
+#EXTINF:-1 tvg-name="ESPN+ 185 | 09:00PM TEXAS TECH VS. UTAH (NOV 12)" tvg-logo="" group-title="sports",ESPN+ 185 | 09:00PM TEXAS TECH VS. UTAH (NOV 12)
+http://23.227.132.58:25461/Toolsplus/6969/221242
+#EXTINF:-1 tvg-name="ESPN+ 186 | 09:00PM PACIFIC VS. SEATTLE U (NOV 12)" tvg-logo="" group-title="sports",ESPN+ 186 | 09:00PM PACIFIC VS. SEATTLE U (NOV 12)
+http://23.227.132.58:25461/Toolsplus/6969/221243
+#EXTINF:-1 tvg-name="ESPN+ 187 | 09:00PM MONTANA STATE VS. #23 BYU (NOV 12)" tvg-logo="" group-title="sports",ESPN+ 187 | 09:00PM MONTANA STATE VS. #23 BYU (NOV 12)
+http://23.227.132.58:25461/Toolsplus/6969/221244
+#EXTINF:-1 tvg-name="ESPN+ 188 | 09:00PM FOOTBALL: LOUISIANA VS. UL MONROE (LOUISIANA VS. UL MONROE) (NOV 12)" tvg-logo="" group-title="sports",ESPN+ 188 | 09:00PM FOOTBALL: LOUISIANA VS. UL MONROE (LOUISIANA VS. UL MONROE) (NOV 12)
+http://23.227.132.58:25461/Toolsplus/6969/221245
+#EXTINF:-1 tvg-name="ESPN+ 189 | 09:01PM NCAA FOOTBALL: MEM VS. USF • UL VS. ULM (MEM VS. USF ) (NOV 12)" tvg-logo="" group-title="sports",ESPN+ 189 | 09:01PM NCAA FOOTBALL: MEM VS. USF • UL VS. ULM (MEM VS. USF ) (NOV 12)
+http://23.227.132.58:25461/Toolsplus/6969/221246
+#EXTINF:-1 tvg-name="ESPN+ 190 | 09:01PM NCAA MEN`S BASKETBALL: OKST VS. TA&M • MTST VS. #23 BYU (OKST VS. TA&M ) (NOV 12)" tvg-logo="" group-title="sports",ESPN+ 190 | 09:01PM NCAA MEN`S BASKETBALL: OKST VS. TA&M • MTST VS. #23 BYU (OKST VS. TA&M ) (NOV 12)
+http://23.227.132.58:25461/Toolsplus/6969/221247
+#EXTINF:-1 tvg-name="ESPN+ 191 | 09:01PM NCAA MEN`S BASKETBALL: OKST VS. TA&M • LNCA VS. CSUF (OKST VS. TA&M ) (NOV 12)" tvg-logo="" group-title="sports",ESPN+ 191 | 09:01PM NCAA MEN`S BASKETBALL: OKST VS. TA&M • LNCA VS. CSUF (OKST VS. TA&M ) (NOV 12)
+http://23.227.132.58:25461/Toolsplus/6969/221248
+#EXTINF:-1 tvg-name="ESPN+ 192 | 09:01PM NCAA MEN`S BASKETBALL: OKST VS. TA&M • MTST VS. #23 BYU • LNCA VS. CSUF (OKST VS. TA&M ) (NOV 12)" tvg-logo="" group-title="sports",ESPN+ 192 | 09:01PM NCAA MEN`S BASKETBALL: OKST VS. TA&M • MTST VS. #23 BYU • LNCA VS. CSUF (OKST VS. TA&M ) (NOV 12)
+http://23.227.132.58:25461/Toolsplus/6969/221249
+#EXTINF:-1 tvg-name="ESPN+ 193 | 09:01PM NCAA MEN`S BASKETBALL: MTST VS. #23 BYU • LNCA VS. CSUF (MTST VS. #23 BYU ) (NOV 12)" tvg-logo="" group-title="sports",ESPN+ 193 | 09:01PM NCAA MEN`S BASKETBALL: MTST VS. #23 BYU • LNCA VS. CSUF (MTST VS. #23 BYU ) (NOV 12)
+http://23.227.132.58:25461/Toolsplus/6969/221250
+#EXTINF:-1 tvg-name="ESPN+ 194 | 09:15PM CINCINNATI VS. NC STATE (NOV 12)" tvg-logo="" group-title="sports",ESPN+ 194 | 09:15PM CINCINNATI VS. NC STATE (NOV 12)
+http://23.227.132.58:25461/Toolsplus/6969/221251
+#EXTINF:-1 tvg-name="ESPN+ 195 | 10:00PM GRACE VS. CAL STATE NORTHRIDGE (NOV 12)" tvg-logo="" group-title="sports",ESPN+ 195 | 10:00PM GRACE VS. CAL STATE NORTHRIDGE (NOV 12)
+http://23.227.132.58:25461/Toolsplus/6969/221252
+#EXTINF:-1 tvg-name="ESPN+ 196 | 10:00PM NEW YORK ISLANDERS VS. LOS ANGELES KINGS (NOV 12)" tvg-logo="" group-title="sports",ESPN+ 196 | 10:00PM NEW YORK ISLANDERS VS. LOS ANGELES KINGS (NOV 12)
+http://23.227.132.58:25461/Toolsplus/6969/221253
+#EXTINF:-1 tvg-name="ESPN+ 197 | 10:00PM IDAHO STATE VS. PORTLAND STATE (NOV 12)" tvg-logo="" group-title="sports",ESPN+ 197 | 10:00PM IDAHO STATE VS. PORTLAND STATE (NOV 12)
+http://23.227.132.58:25461/Toolsplus/6969/221254
+#EXTINF:-1 tvg-name="ESPN+ 198 | 10:00PM LONG BEACH STATE VS. LOYOLA MARYMOUNT (NOV 12)" tvg-logo="" group-title="sports",ESPN+ 198 | 10:00PM LONG BEACH STATE VS. LOYOLA MARYMOUNT (NOV 12)
+http://23.227.132.58:25461/Toolsplus/6969/221255
+#EXTINF:-1 tvg-name="ESPN+ 199 | 10:00PM NCAA MEN`S BASKETBALL: MTST VS. #23 BYU • NYI VS. LA (MTST VS. #23 BYU ) (NOV 12)" tvg-logo="" group-title="sports",ESPN+ 199 | 10:00PM NCAA MEN`S BASKETBALL: MTST VS. #23 BYU • NYI VS. LA (MTST VS. #23 BYU ) (NOV 12)
+http://23.227.132.58:25461/Toolsplus/6969/221256
+#EXTINF:-1 tvg-name="ESPN+ 200 | 10:00PM VOLLEYBALL: SAN DIEGO VS. PEPPERDINE (SAN DIEGO VS. PEPPERDINE) (NOV 12)" tvg-logo="" group-title="sports",ESPN+ 200 | 10:00PM VOLLEYBALL: SAN DIEGO VS. PEPPERDINE (SAN DIEGO VS. PEPPERDINE) (NOV 12)
+http://23.227.132.58:25461/Toolsplus/6969/221257
+#EXTINF:-1 tvg-name="ESPN+ 201 | 11:00PM BYU POSTGAME PRESS CONFERENCE (NOV 12)" tvg-logo="" group-title="sports",ESPN+ 201 | 11:00PM BYU POSTGAME PRESS CONFERENCE (NOV 12)
+http://23.227.132.58:25461/Toolsplus/6969/221258
+#EXTINF:-1 tvg-name="ESPN+ 202 | 11:30PM FOOTBALL: NFL GAMEDAY FINAL (NFL GAMEDAY FINAL) (NOV 12)" tvg-logo="" group-title="sports",ESPN+ 202 | 11:30PM FOOTBALL: NFL GAMEDAY FINAL (NFL GAMEDAY FINAL) (NOV 12)
+http://23.227.132.58:25461/Toolsplus/6969/221259
