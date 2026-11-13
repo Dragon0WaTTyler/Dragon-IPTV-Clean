@@ -1,6 +1,20 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="AR|AL JAZEERA DOCUMENTARY HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTb5fvIX7o5BnAmnaruZ9pCzyaCsVceTUc5q4y3igjM0Ezdy0ug8_I6pQw" group-title="documentary",AR|AL JAZEERA DOCUMENTARY HD
 https://live-hls-web-ajd-ll-bp.thehlive.com/AJD/02.m3u8
+#EXTINF:-1 tvg-name="MyHD: AL-MAJD DOCUMENTARY قناة المجد الوثائقية" tvg-logo="https://s12.gifyu.com/images/SVcxP.png" group-title="documentary",MyHD: AL-MAJD DOCUMENTARY قناة المجد الوثائقية
+http://lordstreams.live:80/joe/joe/641678
+#EXTINF:-1 tvg-name="YE | Yemen Documentary" tvg-logo="http://vod-logo.net/photos/cc8b37c39f2ae49d5e335159618957c0.png" group-title="documentary",YE | Yemen Documentary
+http://lordstreams.live:80/joe/joe/272814
+#EXTINF:-1 tvg-name="AR | Al Majd Documentary" tvg-logo="http://vod-logo.net/photos/2825991dc5e44c95738fe8b0118ea1ee.png" group-title="documentary",AR | Al Majd Documentary
+http://lordstreams.live:80/joe/joe/272163
+#EXTINF:-1 tvg-name="AR | Al Majd Religious Science" tvg-logo="" group-title="documentary",AR | Al Majd Religious Science
+http://lordstreams.live:80/joe/joe/272159
+#EXTINF:-1 tvg-name="AR.KSA| OSN DISCOVERY" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/discovery-channel-icon-2-plus-uk.png" group-title="documentary",AR.KSA| OSN DISCOVERY
+http://31.43.191.210:8080/live/iptv.kosiptv.comNEW/gJUP3KsM2ENEW/1973.m3u
+#EXTINF:-1 tvg-name="AR.KSA| OSN ANIMAL PLANET" tvg-logo="http://dokpal.ps//Files/636667024441790000.png" group-title="documentary",AR.KSA| OSN ANIMAL PLANET
+http://31.43.191.210:8080/live/iptv.kosiptv.comNEW/gJUP3KsM2ENEW/1467.m3u
+#EXTINF:-1 tvg-name="AR.KSA| OSN NAT GEO WILD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/national-geographic-wild-uk.png" group-title="documentary",AR.KSA| OSN NAT GEO WILD
+http://31.43.191.210:8080/live/iptv.kosiptv.comNEW/gJUP3KsM2ENEW/2712.m3u
 #EXTINF:-1 tvg-name="AR| Roya Documentaries" tvg-logo="https://img.roya.tv/imagechanger/Size01Q40R927/storage/app/public/images/channels/O3Ghqm99JvIWQe7.png" group-title="documentary",AR| Roya Documentaries
 http://sts.mydroon.com:8080/9127491274/QDXDbuLzFDYaYbD/269749
 #EXTINF:-1 tvg-name="AR|Al MAJD NATURE HD" tvg-logo="http://kinglogo.newtvhd.com/logoo/AL%20MAJD/Tabeaeyah.png" group-title="documentary",AR|Al MAJD NATURE HD
