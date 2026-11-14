@@ -12,7 +12,7 @@
     "primary_url": "http://lordstreams.live:80/joe/joe/786434",
     "alternates": [],
     "source_file": "FIW_1794587143_2_c11083_Hunter_C405.m3u",
-    "health_status": "unreachable",
+    "health_status": "reachable",
     "health_checked_urls": 1,
     "health_promoted": false
   },
@@ -66,7 +66,7 @@
     "primary_url": "http://lordstreams.live:80/joe/joe/3870",
     "alternates": [],
     "source_file": "FIW_1794587143_2_c11083_Hunter_C405.m3u",
-    "health_status": "unreachable",
+    "health_status": "reachable",
     "health_checked_urls": 1,
     "health_promoted": false
   },
@@ -298,8 +298,8 @@
       "http://lordstreams.live:80/joe/joe/709698"
     ],
     "source_file": "FIW_1794587143_2_c11083_Hunter_C405.m3u",
-    "health_status": "reachable",
-    "health_checked_urls": 1,
+    "health_status": "unreachable",
+    "health_checked_urls": 2,
     "health_promoted": false
   },
   {
@@ -406,17 +406,17 @@
     ],
     "raw_group": "Australia",
     "logo": "",
-    "primary_url": "http://lordstreams.live:80/joe/joe/251367",
+    "primary_url": "http://31.43.191.210:8080/live/iptv.kosiptv.comNEW/gJUP3KsM2ENEW/11048.m3u",
     "alternates": [
+      "http://lordstreams.live:80/joe/joe/251367",
       "http://lordstreams.live:80/joe/joe/152282",
-      "http://31.43.191.210:8080/live/iptv.kosiptv.comNEW/gJUP3KsM2ENEW/11048.m3u",
       "http://31.43.191.210:8080/live/iptv.kosiptv.comNEW/gJUP3KsM2ENEW/10884.m3u",
       "http://4426wa.dailytasty.co:8080/play/fUz_NsnxXKTyp4yoUX-rCE7pFyOsYZlN5V7GzgH4tCA"
     ],
     "source_file": "FIW_1794587815_1_786361_Hunter_E4A7.m3u",
     "health_status": "reachable",
-    "health_checked_urls": 1,
-    "health_promoted": false
+    "health_checked_urls": 3,
+    "health_promoted": true
   },
   {
     "id": "dragon_english_f01d272937bc",
@@ -465,7 +465,7 @@
     "primary_url": "http://lordstreams.live:80/joe/joe/623147",
     "alternates": [],
     "source_file": "FIW_1794587143_2_c11083_Hunter_C405.m3u",
-    "health_status": "unreachable",
+    "health_status": "reachable",
     "health_checked_urls": 1,
     "health_promoted": false
   },
@@ -479,16 +479,16 @@
     ],
     "raw_group": "UK-Restream",
     "logo": "https://logos.mypanel.one/nemesislogos/saqlogo/dstv%20general%202/sky%20news.jpg",
-    "primary_url": "http://lordstreams.live:80/joe/joe/709511",
+    "primary_url": "http://lordstreams.live:80/joe/joe/709510",
     "alternates": [
-      "http://lordstreams.live:80/joe/joe/709510",
+      "http://lordstreams.live:80/joe/joe/709511",
       "http://lordstreams.live:80/joe/joe/709509",
       "http://lordstreams.live:80/joe/joe/709508"
     ],
     "source_file": "FIW_1794587143_2_c11083_Hunter_C405.m3u",
-    "health_status": "unreachable",
-    "health_checked_urls": 3,
-    "health_promoted": false
+    "health_status": "reachable",
+    "health_checked_urls": 2,
+    "health_promoted": true
   },
   {
     "id": "dragon_english_97d42bf2d1fa",
@@ -732,16 +732,16 @@
     ],
     "raw_group": "UK & USA",
     "logo": "",
-    "primary_url": "http://caffe.link:25461/111DavorV/Izzhb76gsie658Ht/1592",
+    "primary_url": "http://lordstreams.live:80/joe/joe/709683",
     "alternates": [
-      "http://lordstreams.live:80/joe/joe/709683",
       "http://lordstreams.live:80/joe/joe/709682",
+      "http://caffe.link:25461/111DavorV/Izzhb76gsie658Ht/1592",
       "http://caffe.link:25461/24AntunFranStajakovicWhatsa/Kd3NQ2Zs9J8d/1592"
     ],
     "source_file": "FIW_1794587817_1_d8a5ac_Hunter_4AF7.m3u",
-    "health_status": "reachable",
+    "health_status": "unreachable",
     "health_checked_urls": 3,
-    "health_promoted": true
+    "health_promoted": false
   },
   {
     "id": "dragon_english_c6327fb5b9d1",
@@ -818,7 +818,7 @@
     "primary_url": "http://lordstreams.live:80/joe/joe/3770",
     "alternates": [],
     "source_file": "FIW_1794587143_2_c11083_Hunter_C405.m3u",
-    "health_status": "unreachable",
+    "health_status": "reachable",
     "health_checked_urls": 1,
     "health_promoted": false
   },
@@ -1009,7 +1009,7 @@
     "primary_url": "http://lordstreams.live:80/joe/joe/3692",
     "alternates": [],
     "source_file": "FIW_1794587143_2_c11083_Hunter_C405.m3u",
-    "health_status": "reachable",
+    "health_status": "unreachable",
     "health_checked_urls": 1,
     "health_promoted": false
   },
@@ -1094,7 +1094,7 @@
     "primary_url": "http://lordstreams.live:80/joe/joe/716638",
     "alternates": [],
     "source_file": "FIW_1794587143_2_c11083_Hunter_C405.m3u",
-    "health_status": "reachable",
+    "health_status": "unreachable",
     "health_checked_urls": 1,
     "health_promoted": false
   },
@@ -1142,14 +1142,14 @@
     ],
     "raw_group": "UK-Restream",
     "logo": "https://logos.mypanel.one/nemesislogos/saqlogo/Logo_EVDTV/OSN/NatGeoHD.png",
-    "primary_url": "http://lordstreams.live:80/joe/joe/709581",
+    "primary_url": "http://lordstreams.live:80/joe/joe/709580",
     "alternates": [
-      "http://lordstreams.live:80/joe/joe/709580"
+      "http://lordstreams.live:80/joe/joe/709581"
     ],
     "source_file": "FIW_1794587143_2_c11083_Hunter_C405.m3u",
     "health_status": "reachable",
-    "health_checked_urls": 1,
-    "health_promoted": false
+    "health_checked_urls": 2,
+    "health_promoted": true
   },
   {
     "id": "dragon_english_45971560f869",
@@ -1183,7 +1183,7 @@
     "primary_url": "http://lordstreams.live:80/joe/joe/837634",
     "alternates": [],
     "source_file": "FIW_1794587143_2_c11083_Hunter_C405.m3u",
-    "health_status": "reachable",
+    "health_status": "unreachable",
     "health_checked_urls": 1,
     "health_promoted": false
   },
@@ -1398,9 +1398,9 @@
     ],
     "raw_group": "DOKUMENTARNI",
     "logo": "https://logo.iptveditor.com/animalplanet.png",
-    "primary_url": "http://lordstreams.live:80/joe/joe/745466",
+    "primary_url": "http://lordstreams.live:80/joe/joe/786521",
     "alternates": [
-      "http://lordstreams.live:80/joe/joe/786521",
+      "http://lordstreams.live:80/joe/joe/745466",
       "http://lordstreams.live:80/joe/joe/251368",
       "http://go.iptvhn.net:25461/7151/71512023/1343",
       "http://go.iptvhn.net:25461/7151/71512023/1234",
@@ -1425,9 +1425,9 @@
       "http://vewora.com:8080/live/mirsadfazlic%40fb/U3Z2T83QvXK6/ede59ca4-6b78-49b8-9be3-5a9c3615a867.ts"
     ],
     "source_file": "FIW_1794587143_2_c11083_Hunter_C405.m3u",
-    "health_status": "reachable",
-    "health_checked_urls": 2,
-    "health_promoted": true
+    "health_status": "unreachable",
+    "health_checked_urls": 3,
+    "health_promoted": false
   },
   {
     "id": "dragon_english_7fa1e0a20424",
@@ -1668,9 +1668,9 @@
     ],
     "raw_group": "Doku & Style",
     "logo": "",
-    "primary_url": "http://23.227.132.58:25461/Toolsplus/6969/115642",
+    "primary_url": "http://23.227.132.58:25461/thegan/Tomegan1/115642",
     "alternates": [
-      "http://23.227.132.58:25461/thegan/Tomegan1/115642",
+      "http://23.227.132.58:25461/Toolsplus/6969/115642",
       "http://caffe.link:25461/24LucicJoso/gm5P6a4tTjDN/73560",
       "http://23.227.132.58:25461/Torchrose/21Gigawatt/115642",
       "http://caffe.link:25461/111DavorV/Izzhb76gsie658Ht/73560",
@@ -1679,8 +1679,8 @@
     ],
     "source_file": "FIW_1794569665_2_916b67_Hunter_BE62.m3u",
     "health_status": "reachable",
-    "health_checked_urls": 1,
-    "health_promoted": false
+    "health_checked_urls": 2,
+    "health_promoted": true
   },
   {
     "id": "dragon_english_13d5d4a824ec",
@@ -2161,15 +2161,15 @@
     ],
     "raw_group": "NIzozemska",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Animal_Planet_logo_%28black_and_green%29.svg/200px-Animal_Planet_logo_%28black_and_green%29.svg.png",
-    "primary_url": "http://caffe.link:25461/24AntunFranStajakovicWhatsa/Kd3NQ2Zs9J8d/13669",
+    "primary_url": "http://caffe.link:25461/24LucicJoso/gm5P6a4tTjDN/13669",
     "alternates": [
-      "http://caffe.link:25461/24LucicJoso/gm5P6a4tTjDN/13669",
-      "http://caffe.link:25461/111DavorV/Izzhb76gsie658Ht/13669"
+      "http://caffe.link:25461/111DavorV/Izzhb76gsie658Ht/13669",
+      "http://caffe.link:25461/24AntunFranStajakovicWhatsa/Kd3NQ2Zs9J8d/13669"
     ],
     "source_file": "FIW_1794587794_1_8a783e_Hunter_EAF7.m3u",
     "health_status": "reachable",
-    "health_checked_urls": 3,
-    "health_promoted": true
+    "health_checked_urls": 1,
+    "health_promoted": false
   },
   {
     "id": "dragon_english_9cedf0885b36",
@@ -2186,8 +2186,8 @@
       "http://caffe.link:25461/24AntunFranStajakovicWhatsa/Kd3NQ2Zs9J8d/3699"
     ],
     "source_file": "FIW_1794587817_1_d8a5ac_Hunter_4AF7.m3u",
-    "health_status": "unreachable",
-    "health_checked_urls": 2,
+    "health_status": "reachable",
+    "health_checked_urls": 1,
     "health_promoted": false
   },
   {
@@ -4507,7 +4507,7 @@
     "primary_url": "http://lordstreams.live:80/joe/joe/694020",
     "alternates": [],
     "source_file": "FIW_1794587143_2_c11083_Hunter_C405.m3u",
-    "health_status": "reachable",
+    "health_status": "unreachable",
     "health_checked_urls": 1,
     "health_promoted": false
   },
@@ -4797,7 +4797,7 @@
     "primary_url": "http://lordstreams.live:80/joe/joe/693936",
     "alternates": [],
     "source_file": "FIW_1794587143_2_c11083_Hunter_C405.m3u",
-    "health_status": "unreachable",
+    "health_status": "reachable",
     "health_checked_urls": 1,
     "health_promoted": false
   },
@@ -5115,7 +5115,7 @@
     "primary_url": "http://lordstreams.live:80/joe/joe/693760",
     "alternates": [],
     "source_file": "FIW_1794587143_2_c11083_Hunter_C405.m3u",
-    "health_status": "unreachable",
+    "health_status": "reachable",
     "health_checked_urls": 1,
     "health_promoted": false
   },
@@ -5285,7 +5285,7 @@
     "primary_url": "http://lordstreams.live:80/joe/joe/716624",
     "alternates": [],
     "source_file": "FIW_1794587143_2_c11083_Hunter_C405.m3u",
-    "health_status": "reachable",
+    "health_status": "unreachable",
     "health_checked_urls": 1,
     "health_promoted": false
   },
@@ -5372,8 +5372,8 @@
       "http://lordstreams.live:80/joe/joe/786482"
     ],
     "source_file": "FIW_1794587143_2_c11083_Hunter_C405.m3u",
-    "health_status": "unreachable",
-    "health_checked_urls": 2,
+    "health_status": "reachable",
+    "health_checked_urls": 1,
     "health_promoted": false
   },
   {
@@ -5386,14 +5386,14 @@
     ],
     "raw_group": "AR | OSN",
     "logo": "https://logos.mypanel.one/nemesislogos/saqlogo/Logo_EVDTV/OSN/NatGeoWildHD.png",
-    "primary_url": "http://lordstreams.live:80/joe/joe/786522",
+    "primary_url": "http://lordstreams.live:80/joe/joe/786480",
     "alternates": [
-      "http://lordstreams.live:80/joe/joe/786480"
+      "http://lordstreams.live:80/joe/joe/786522"
     ],
     "source_file": "FIW_1794587143_2_c11083_Hunter_C405.m3u",
-    "health_status": "unreachable",
+    "health_status": "reachable",
     "health_checked_urls": 2,
-    "health_promoted": false
+    "health_promoted": true
   },
   {
     "id": "dragon_english_b91731c52920",
@@ -10821,7 +10821,7 @@
     "primary_url": "http://lordstreams.live:80/joe/joe/1065",
     "alternates": [],
     "source_file": "FIW_1794587143_2_c11083_Hunter_C405.m3u",
-    "health_status": "unreachable",
+    "health_status": "reachable",
     "health_checked_urls": 1,
     "health_promoted": false
   },
@@ -19472,14 +19472,14 @@
     ],
     "raw_group": "UK-Restream",
     "logo": "https://logos.mypanel.one/nemesislogos/saqlogo/Ukraine/Discovery%20Channel%20HD%20UA.jpg",
-    "primary_url": "http://lordstreams.live:80/joe/joe/709680",
+    "primary_url": "http://lordstreams.live:80/joe/joe/709681",
     "alternates": [
-      "http://lordstreams.live:80/joe/joe/709681"
+      "http://lordstreams.live:80/joe/joe/709680"
     ],
     "source_file": "FIW_1794587143_2_c11083_Hunter_C405.m3u",
     "health_status": "reachable",
-    "health_checked_urls": 2,
-    "health_promoted": true
+    "health_checked_urls": 1,
+    "health_promoted": false
   },
   {
     "id": "dragon_english_f30a0727b4f0",
@@ -19548,14 +19548,14 @@
     ],
     "raw_group": "UK-Restream",
     "logo": "https://logos.mypanel.one/nemesislogos/saqlogo/UK/DMAX.jpg",
-    "primary_url": "http://lordstreams.live:80/joe/joe/709666",
+    "primary_url": "http://lordstreams.live:80/joe/joe/709667",
     "alternates": [
-      "http://lordstreams.live:80/joe/joe/709667"
+      "http://lordstreams.live:80/joe/joe/709666"
     ],
     "source_file": "FIW_1794587143_2_c11083_Hunter_C405.m3u",
     "health_status": "reachable",
-    "health_checked_urls": 2,
-    "health_promoted": true
+    "health_checked_urls": 1,
+    "health_promoted": false
   },
   {
     "id": "dragon_english_2f397a3e6a44",
@@ -22789,15 +22789,15 @@
     ],
     "raw_group": "",
     "logo": "",
-    "primary_url": "http://23.227.132.58:25461/Toolsplus/6969/115080",
+    "primary_url": "http://23.227.132.58:25461/thegan/Tomegan1/115080",
     "alternates": [
-      "http://23.227.132.58:25461/thegan/Tomegan1/115080",
+      "http://23.227.132.58:25461/Toolsplus/6969/115080",
       "http://23.227.132.58:25461/Torchrose/21Gigawatt/115080"
     ],
     "source_file": "FIW_1794569665_2_916b67_Hunter_BE62.m3u",
-    "health_status": "unreachable",
-    "health_checked_urls": 3,
-    "health_promoted": false
+    "health_status": "reachable",
+    "health_checked_urls": 2,
+    "health_promoted": true
   },
   {
     "id": "dragon_english_22f0218e25b4",
@@ -22809,14 +22809,14 @@
     ],
     "raw_group": "",
     "logo": "",
-    "primary_url": "http://23.227.132.58:25461/Torchrose/21Gigawatt/115081",
+    "primary_url": "http://23.227.132.58:25461/thegan/Tomegan1/115081",
     "alternates": [
       "http://23.227.132.58:25461/Toolsplus/6969/115081",
-      "http://23.227.132.58:25461/thegan/Tomegan1/115081"
+      "http://23.227.132.58:25461/Torchrose/21Gigawatt/115081"
     ],
     "source_file": "FIW_1794569665_2_916b67_Hunter_BE62.m3u",
     "health_status": "reachable",
-    "health_checked_urls": 3,
+    "health_checked_urls": 2,
     "health_promoted": true
   },
   {
@@ -22829,15 +22829,15 @@
     ],
     "raw_group": "",
     "logo": "",
-    "primary_url": "http://23.227.132.58:25461/Toolsplus/6969/115092",
+    "primary_url": "http://23.227.132.58:25461/thegan/Tomegan1/115092",
     "alternates": [
-      "http://23.227.132.58:25461/thegan/Tomegan1/115092",
+      "http://23.227.132.58:25461/Toolsplus/6969/115092",
       "http://23.227.132.58:25461/Torchrose/21Gigawatt/115092"
     ],
     "source_file": "FIW_1794569665_2_916b67_Hunter_BE62.m3u",
     "health_status": "reachable",
-    "health_checked_urls": 1,
-    "health_promoted": false
+    "health_checked_urls": 2,
+    "health_promoted": true
   },
   {
     "id": "dragon_english_55fb212956e5",
@@ -22889,15 +22889,15 @@
     ],
     "raw_group": "",
     "logo": "",
-    "primary_url": "http://23.227.132.58:25461/Torchrose/21Gigawatt/115096",
+    "primary_url": "http://23.227.132.58:25461/Toolsplus/6969/115096",
     "alternates": [
-      "http://23.227.132.58:25461/Toolsplus/6969/115096",
-      "http://23.227.132.58:25461/thegan/Tomegan1/115096"
+      "http://23.227.132.58:25461/thegan/Tomegan1/115096",
+      "http://23.227.132.58:25461/Torchrose/21Gigawatt/115096"
     ],
     "source_file": "FIW_1794569665_2_916b67_Hunter_BE62.m3u",
-    "health_status": "reachable",
+    "health_status": "unreachable",
     "health_checked_urls": 3,
-    "health_promoted": true
+    "health_promoted": false
   },
   {
     "id": "dragon_english_5bed5b23d5ba",
@@ -22909,15 +22909,15 @@
     ],
     "raw_group": "",
     "logo": "",
-    "primary_url": "http://23.227.132.58:25461/Toolsplus/6969/115097",
+    "primary_url": "http://23.227.132.58:25461/thegan/Tomegan1/115097",
     "alternates": [
-      "http://23.227.132.58:25461/thegan/Tomegan1/115097",
+      "http://23.227.132.58:25461/Toolsplus/6969/115097",
       "http://23.227.132.58:25461/Torchrose/21Gigawatt/115097"
     ],
     "source_file": "FIW_1794569665_2_916b67_Hunter_BE62.m3u",
-    "health_status": "unreachable",
-    "health_checked_urls": 3,
-    "health_promoted": false
+    "health_status": "reachable",
+    "health_checked_urls": 2,
+    "health_promoted": true
   },
   {
     "id": "dragon_english_23a0b9e3e260",
@@ -23661,15 +23661,15 @@
     ],
     "raw_group": "",
     "logo": "",
-    "primary_url": "http://23.227.132.58:25461/Toolsplus/6969/115677",
+    "primary_url": "http://23.227.132.58:25461/thegan/Tomegan1/115677",
     "alternates": [
-      "http://23.227.132.58:25461/thegan/Tomegan1/115677",
+      "http://23.227.132.58:25461/Toolsplus/6969/115677",
       "http://23.227.132.58:25461/Torchrose/21Gigawatt/115677"
     ],
     "source_file": "FIW_1794569665_2_916b67_Hunter_BE62.m3u",
-    "health_status": "unreachable",
-    "health_checked_urls": 3,
-    "health_promoted": false
+    "health_status": "reachable",
+    "health_checked_urls": 2,
+    "health_promoted": true
   },
   {
     "id": "dragon_english_c95dc726a258",
@@ -23701,15 +23701,15 @@
     ],
     "raw_group": "",
     "logo": "",
-    "primary_url": "http://23.227.132.58:25461/thegan/Tomegan1/115679",
+    "primary_url": "http://23.227.132.58:25461/Toolsplus/6969/115679",
     "alternates": [
-      "http://23.227.132.58:25461/Toolsplus/6969/115679",
+      "http://23.227.132.58:25461/thegan/Tomegan1/115679",
       "http://23.227.132.58:25461/Torchrose/21Gigawatt/115679"
     ],
     "source_file": "FIW_1794569665_2_916b67_Hunter_BE62.m3u",
     "health_status": "reachable",
-    "health_checked_urls": 2,
-    "health_promoted": true
+    "health_checked_urls": 1,
+    "health_promoted": false
   },
   {
     "id": "dragon_english_5291b8cf67ed",
@@ -23941,15 +23941,15 @@
     ],
     "raw_group": "",
     "logo": "",
-    "primary_url": "http://23.227.132.58:25461/Toolsplus/6969/117294",
+    "primary_url": "http://23.227.132.58:25461/thegan/Tomegan1/117294",
     "alternates": [
-      "http://23.227.132.58:25461/thegan/Tomegan1/117294",
+      "http://23.227.132.58:25461/Toolsplus/6969/117294",
       "http://23.227.132.58:25461/Torchrose/21Gigawatt/117294"
     ],
     "source_file": "FIW_1794569665_2_916b67_Hunter_BE62.m3u",
-    "health_status": "unreachable",
-    "health_checked_urls": 3,
-    "health_promoted": false
+    "health_status": "reachable",
+    "health_checked_urls": 2,
+    "health_promoted": true
   },
   {
     "id": "dragon_english_7e82672ca046",
