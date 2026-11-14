@@ -1,133 +1,89 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Al Jazeera English FHD" tvg-logo="http://logo.mypanel.one/logos/LogoEVDTV/BeIN/Factual_News/Al_Jazeera_EN.png" group-title="news",Al Jazeera English FHD
-http://lordstreams.live:80/joe/joe/786434
-#EXTINF:-1 tvg-name="News | En: Al Jazeera English" tvg-logo="http://vod-logo.net/photos/7fcbff4dd86d2169111c0703cbf4488f.png" group-title="news",News | En: Al Jazeera English
-http://lordstreams.live:80/joe/joe/272260
-#EXTINF:-1 tvg-name="UK: BBC News" tvg-logo="" group-title="news",UK: BBC News
-http://31.43.191.210:8080/live/iptv.kosiptv.comNEW/gJUP3KsM2ENEW/11047.m3u
-#EXTINF:-1 tvg-name="CA BBC News" tvg-logo="https://www.bbcstudios.com/media/3735/canada.jpg" group-title="news",CA BBC News
-http://lordstreams.live:80/joe/joe/3870
-#EXTINF:-1 tvg-name="Iceland | BBC News" tvg-logo="https://logo.m3uassets.com/bbcnews.png" group-title="news",Iceland | BBC News
-http://lordstreams.live:80/joe/joe/805993
-#EXTINF:-1 tvg-name="AZAM| BBC NEWS" tvg-logo="https://logo.m3uassets.com/bbcnews.png" group-title="news",AZAM| BBC NEWS
-http://lordstreams.live:80/joe/joe/704211
-#EXTINF:-1 tvg-name="BBC News FHD UK" tvg-logo="https://logos.mypanel.one/nemesislogos/saqlogo/Span/BBC.jpg" group-title="news",BBC News FHD UK
-http://lordstreams.live:80/joe/joe/709756
-#EXTINF:-1 tvg-name="CA CNN" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s10142_h15_aa.png" group-title="news",CA CNN
-http://lordstreams.live:80/joe/joe/3825
-#EXTINF:-1 tvg-name="CA CNN Canada" tvg-logo="https://logo.m3uassets.com/cnn.png" group-title="news",CA CNN Canada
-http://lordstreams.live:80/joe/joe/3858
-#EXTINF:-1 tvg-name="Iceland | CNN" tvg-logo="https://logo.m3uassets.com/cnn.png" group-title="news",Iceland | CNN
-http://lordstreams.live:80/joe/joe/805990
-#EXTINF:-1 tvg-name="ENGLISH| CNN NEWS" tvg-logo="https://logo.iptveditor.com/cnnenglish.png" group-title="news",ENGLISH| CNN NEWS
-http://lordstreams.live:80/joe/joe/693947
-#EXTINF:-1 tvg-name="AZAM| CNN" tvg-logo="https://logo.m3uassets.com/cnn.png" group-title="news",AZAM| CNN
-http://lordstreams.live:80/joe/joe/704208
-#EXTINF:-1 tvg-name="News | En: CNN International" tvg-logo="" group-title="news",News | En: CNN International
-http://lordstreams.live:80/joe/joe/272241
-#EXTINF:-1 tvg-name="NZ| CNN HD" tvg-logo="https://logo.m3uassets.com/cnn.png" group-title="news",NZ| CNN HD
-http://31.43.191.210:8080/live/iptv.kosiptv.comNEW/gJUP3KsM2ENEW/11041.m3u
-#EXTINF:-1 tvg-name="USA CNN" tvg-logo="https://logo.m3uassets.com/cnn.png" group-title="news",USA CNN
-http://lordstreams.live:80/joe/joe/1041
-#EXTINF:-1 tvg-name="USA CNN INTERNATIONAL" tvg-logo="https://logo.m3uassets.com/cnninternational.png" group-title="news",USA CNN INTERNATIONAL
-http://lordstreams.live:80/joe/joe/1040
-#EXTINF:-1 tvg-name="CNN FHD UK" tvg-logo="http://3.00322.xyz:8000/images/36d95a69f4d625719b7aff1b6a37423a.png" group-title="news",CNN FHD UK
-http://lordstreams.live:80/joe/joe/709699
-#EXTINF:-1 tvg-name="Carib CNN" tvg-logo="https://logo.m3uassets.com/cnn.png" group-title="news",Carib CNN
-http://lordstreams.live:80/joe/joe/303894
-#EXTINF:-1 tvg-name="Carib CNN_International" tvg-logo="https://logo.m3uassets.com/cnninternational.png" group-title="news",Carib CNN_International
-http://lordstreams.live:80/joe/joe/303893
+#EXTINF:-1 tvg-name="Al Jazeera - English" tvg-logo="" group-title="news",Al Jazeera - English
+http://tvmate.icu:8080/34164995/34164995/312092
+#EXTINF:-1 tvg-name="UK: BBC NEWS" tvg-logo="" group-title="news",UK: BBC NEWS
+http://tvmate.icu:8080/34164995/34164995/53757
+#EXTINF:-1 tvg-name="RADIO BBC NEWS HAITI" tvg-logo="" group-title="news",RADIO BBC NEWS HAITI
+http://tvmate.icu:8080/34164995/34164995/280308
+#EXTINF:-1 tvg-name="CA: CNN" tvg-logo="" group-title="news",CA: CNN
+http://tvmate.icu:8080/34164995/34164995/57398
+#EXTINF:-1 tvg-name="CA CNN" tvg-logo="" group-title="news",CA CNN
+http://tvmate.icu:8080/34164995/34164995/47213
+#EXTINF:-1 tvg-name="US CNN" tvg-logo="" group-title="news",US CNN
+http://tvmate.icu:8080/34164995/34164995/1817
+#EXTINF:-1 tvg-name="WCNN 680 The Fan live" tvg-logo="" group-title="news",WCNN 680 The Fan live
+http://tvmate.icu:8080/34164995/34164995/123187
 #EXTINF:-1 tvg-name="CNN International" tvg-logo="" group-title="news",CNN International
-http://23.227.132.58:25461/thegan/Tomegan1/115603
-#EXTINF:-1 tvg-name="CNN Canada" tvg-logo="" group-title="news",CNN Canada
-http://23.227.132.58:25461/thegan/Tomegan1/115630
-#EXTINF:-1 tvg-name="CNN International (mex)" tvg-logo="" group-title="news",CNN International (mex)
-http://23.227.132.58:25461/Toolsplus/6969/117249
-#EXTINF:-1 tvg-name="UK: Sky News" tvg-logo="" group-title="news",UK: Sky News
-http://31.43.191.210:8080/live/iptv.kosiptv.comNEW/gJUP3KsM2ENEW/11048.m3u
-#EXTINF:-1 tvg-name="Iceland | Sky News" tvg-logo="https://logo.m3uassets.com/skynews.png" group-title="news",Iceland | Sky News
-http://lordstreams.live:80/joe/joe/805989
-#EXTINF:-1 tvg-name="OSN Sky News" tvg-logo="https://logos.mypanel.one/nemesislogos/saqlogo/Logo_EVDTV/OSN/Sky_News_HD.png" group-title="news",OSN Sky News
-http://lordstreams.live:80/joe/joe/786520
-#EXTINF:-1 tvg-name="[US] SKY NEWS FHD [sᴛᴠ+]" tvg-logo="https://logo.m3uassets.com/skynews.png" group-title="news",[US] SKY NEWS FHD [sᴛᴠ+]
-http://lordstreams.live:80/joe/joe/623147
-#EXTINF:-1 tvg-name="Sky News HD UK" tvg-logo="https://logos.mypanel.one/nemesislogos/saqlogo/dstv%20general%202/sky%20news.jpg" group-title="news",Sky News HD UK
-http://lordstreams.live:80/joe/joe/709510
-#EXTINF:-1 tvg-name="Iceland | France 24 English" tvg-logo="https://logo.m3uassets.com/france24english.png" group-title="news",Iceland | France 24 English
-http://lordstreams.live:80/joe/joe/805985
-#EXTINF:-1 tvg-name="News | En: France 24 English" tvg-logo="" group-title="news",News | En: France 24 English
-http://lordstreams.live:80/joe/joe/272238
-#EXTINF:-1 tvg-name="USA France 24 (English)" tvg-logo="https://logo.m3uassets.com/24.png" group-title="news",USA France 24 (English)
-http://lordstreams.live:80/joe/joe/1037
-#EXTINF:-1 tvg-name="News | En: DW English" tvg-logo="http://138.199.27.237:8080/USA/DW.png" group-title="news",News | En: DW English
-http://lordstreams.live:80/joe/joe/272236
+http://tvmate.icu:8080/34164995/34164995/283271
+#EXTINF:-1 tvg-name="Cnn Trk Radyo" tvg-logo="" group-title="news",Cnn Trk Radyo
+http://tvmate.icu:8080/34164995/34164995/285137
+#EXTINF:-1 tvg-name="Radio CNN" tvg-logo="" group-title="news",Radio CNN
+http://tvmate.icu:8080/34164995/34164995/309095
+#EXTINF:-1 tvg-name="(ES) (VF) CNN International" tvg-logo="" group-title="news",(ES) (VF) CNN International
+http://tvmate.icu:8080/34164995/34164995/327723
+#EXTINF:-1 tvg-name="Sky News" tvg-logo="" group-title="news",Sky News
+http://4426wa.dailytasty.co:8080/play/fUz_NsnxXKTyp4yoUX-rCE7pFyOsYZlN5V7GzgH4tCA
+#EXTINF:-1 tvg-name="PT (VF) Sky News" tvg-logo="" group-title="news",PT (VF) Sky News
+http://tvmate.icu:8080/34164995/34164995/266590
+#EXTINF:-1 tvg-name="Sky News Australia Radio" tvg-logo="" group-title="news",Sky News Australia Radio
+http://tvmate.icu:8080/34164995/34164995/283302
+#EXTINF:-1 tvg-name="sky news UK" tvg-logo="" group-title="news",sky news UK
+http://tvmate.icu:8080/34164995/34164995/291281
+#EXTINF:-1 tvg-name="Sky News Australia Radio (AAC+)" tvg-logo="" group-title="news",Sky News Australia Radio (AAC+)
+http://tvmate.icu:8080/34164995/34164995/296435
+#EXTINF:-1 tvg-name="Sky News Australia Radio (MP3)" tvg-logo="" group-title="news",Sky News Australia Radio (MP3)
+http://tvmate.icu:8080/34164995/34164995/302617
+#EXTINF:-1 tvg-name="PT (VF) France 24 English" tvg-logo="" group-title="news",PT (VF) France 24 English
+http://tvmate.icu:8080/34164995/34164995/266584
+#EXTINF:-1 tvg-name="DW English HD" tvg-logo="" group-title="news",DW English HD
+http://tvmate.icu:8080/34164995/34164995/303888
 #EXTINF:-1 tvg-name="EuroNews Srbija" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/4/img/kanali-logo/EuroNews_Serbia_RS_logo.jpg" group-title="news",EuroNews Srbija
 http://caffe.link:25461/24LucicJoso/gm5P6a4tTjDN/118733
-#EXTINF:-1 tvg-name="Euronews RU UA" tvg-logo="https://logos.mypanel.one/nemesislogos/saqlogo/Ukraine/Euronews%20RU%20UA.jpg" group-title="news",Euronews RU UA
-http://lordstreams.live:80/joe/joe/706649
-#EXTINF:-1 tvg-name="EuroNews HD UK" tvg-logo="https://is2-ssl.mzstatic.com/image/thumb/Purple116/v4/49/08/a2/4908a249-a03e-8985-b218-814982220dee/source/256x256bb.jpg" group-title="news",EuroNews HD UK
-http://lordstreams.live:80/joe/joe/709362
-#EXTINF:-1 tvg-name="Carib Euronews" tvg-logo="https://logo.m3uassets.com/euronews.png" group-title="news",Carib Euronews
-http://lordstreams.live:80/joe/joe/303871
-#EXTINF:-1 tvg-name="Euronews Georgia HD GE" tvg-logo="https://logo.m3uassets.com/euronewsgeorgia.png" group-title="news",Euronews Georgia HD GE
-http://lordstreams.live:80/joe/joe/837533
+#EXTINF:-1 tvg-name="IT Euronews Italian" tvg-logo="" group-title="news",IT Euronews Italian
+http://tvmate.icu:8080/34164995/34164995/266390
+#EXTINF:-1 tvg-name="Euronews Bulgaria" tvg-logo="" group-title="news",Euronews Bulgaria
+http://tvmate.icu:8080/34164995/34164995/307398
+#EXTINF:-1 tvg-name="(ES) (VF) Euronews" tvg-logo="" group-title="news",(ES) (VF) Euronews
+http://tvmate.icu:8080/34164995/34164995/327741
 #EXTINF:-1 tvg-name="TRT World" tvg-logo="https://tvprofil.com/img/kanali-logo/TRT_World_TR_logo.png" group-title="news",TRT World
-http://caffe.link:25461/24LucicJoso/gm5P6a4tTjDN/53706
-#EXTINF:-1 tvg-name="CA BBC World" tvg-logo="https://logo.m3uassets.com/bbcworld.png" group-title="news",CA BBC World
-http://lordstreams.live:80/joe/joe/3867
-#EXTINF:-1 tvg-name="ENGLISH| ALJAZEERA HD" tvg-logo="https://logo.iptveditor.com/aljazeeraenglish.png" group-title="news",ENGLISH| ALJAZEERA HD
-http://lordstreams.live:80/joe/joe/693954
-#EXTINF:-1 tvg-name="ENGLISH| CNBC TV18 NEWS HD" tvg-logo="" group-title="news",ENGLISH| CNBC TV18 NEWS HD
-http://lordstreams.live:80/joe/joe/693948
-#EXTINF:-1 tvg-name="ENGLISH| NEWS X" tvg-logo="https://logo.iptveditor.com/euronewsenglish.png" group-title="news",ENGLISH| NEWS X
-http://lordstreams.live:80/joe/joe/693929
-#EXTINF:-1 tvg-name="ENGLISH| WION NEWS" tvg-logo="https://logo.iptveditor.com/euronewsenglish.png" group-title="news",ENGLISH| WION NEWS
-http://lordstreams.live:80/joe/joe/693917
-#EXTINF:-1 tvg-name="Cultura STD | BBC WORLD NEWS MX®" tvg-logo="https://logo.m3uassets.com/bbcworldnews.png" group-title="news",Cultura STD | BBC WORLD NEWS MX®
-http://lordstreams.live:80/joe/joe/716637
-#EXTINF:-1 tvg-name="News | En: BBC World News HD" tvg-logo="http://vod-logo.net/photos/09ec027025c1c45dc83b78166009f48e.png" group-title="news",News | En: BBC World News HD
-http://lordstreams.live:80/joe/joe/272242
-#EXTINF:-1 tvg-name="News | En: i24 News English" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6f/I24NEWS_logo.svg/640px-I24NEWS_logo.svg.png" group-title="news",News | En: i24 News English
-http://lordstreams.live:80/joe/joe/272221
-#EXTINF:-1 tvg-name="AU| ABC News" tvg-logo="https://logo.m3uassets.com/abcnews.png" group-title="news",AU| ABC News
-http://lordstreams.live:80/joe/joe/152510
-#EXTINF:-1 tvg-name="AU| 7NEWS Spotlight" tvg-logo="https://i.mjh.nz/.images/auto-cas32-fast-2bc14f.png" group-title="news",AU| 7NEWS Spotlight
-http://lordstreams.live:80/joe/joe/152397
-#EXTINF:-1 tvg-name="AU| Nickelodeon Sydney" tvg-logo="https://logo.m3uassets.com/nickelodeon1.png" group-title="news",AU| Nickelodeon Sydney
-http://lordstreams.live:80/joe/joe/152351
-#EXTINF:-1 tvg-name="AU| Al Jazeera World" tvg-logo="https://logo.m3uassets.com/aljazeera.png" group-title="news",AU| Al Jazeera World
-http://lordstreams.live:80/joe/joe/152344
-#EXTINF:-1 tvg-name="NZ| Al Jazeera" tvg-logo="https://logo.m3uassets.com/aljazeera.png" group-title="news",NZ| Al Jazeera
-http://lordstreams.live:80/joe/joe/251402
-#EXTINF:-1 tvg-name="NZ| Channel News Asia (CNA)" tvg-logo="https://logo.m3uassets.com/channelnewsasia.png" group-title="news",NZ| Channel News Asia (CNA)
-http://lordstreams.live:80/joe/joe/251390
-#EXTINF:-1 tvg-name="USA BBC World News" tvg-logo="https://logo.m3uassets.com/bbcworldnews.png" group-title="news",USA BBC World News
-http://lordstreams.live:80/joe/joe/1065
-#EXTINF:-1 tvg-name="USA CGTN (English)" tvg-logo="https://logo.m3uassets.com/cgtn.png" group-title="news",USA CGTN (English)
-http://lordstreams.live:80/joe/joe/1046
-#EXTINF:-1 tvg-name="USA | CNBC World" tvg-logo="https://logo.m3uassets.com/cnbcworld.png" group-title="news",USA | CNBC World
-http://lordstreams.live:80/joe/joe/636630
-#EXTINF:-1 tvg-name="USA | Scripps News" tvg-logo="https://logo.m3uassets.com/scrippsnews.png" group-title="news",USA | Scripps News
-http://lordstreams.live:80/joe/joe/636600
-#EXTINF:-1 tvg-name="USA | Yahoo Finance" tvg-logo="https://logo.m3uassets.com/yahoo!finance.png" group-title="news",USA | Yahoo Finance
-http://lordstreams.live:80/joe/joe/636592
-#EXTINF:-1 tvg-name="BBC World News HD UK" tvg-logo="https://logos.mypanel.one/nemesislogos/saqlogo/Span/BBC.jpg" group-title="news",BBC World News HD UK
-http://lordstreams.live:80/joe/joe/709729
-#EXTINF:-1 tvg-name="UK|| SKY ONE FHD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-one-icon-uk.png" group-title="news",UK|| SKY ONE FHD
-http://31.43.191.210:8080/live/iptv.kosiptv.comNEW/gJUP3KsM2ENEW/9853.m3u
-#EXTINF:-1 tvg-name="|UK| News |UK|" tvg-logo="" group-title="news",|UK| News |UK|
-http://31.43.191.210:8080/live/iptv.kosiptv.comNEW/gJUP3KsM2ENEW/10875.m3u
-#EXTINF:-1 tvg-name="UK| ALJAZEERA NEWS ENGLISH HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/aljazeera-uk.png" group-title="news",UK| ALJAZEERA NEWS ENGLISH HD
-http://31.43.191.210:8080/live/iptv.kosiptv.comNEW/gJUP3KsM2ENEW/11043.m3u
-#EXTINF:-1 tvg-name="BBC World News" tvg-logo="" group-title="news",BBC World News
-http://23.227.132.58:25461/Toolsplus/6969/115614
-#EXTINF:-1 tvg-name="UK| CNBC NEWS HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cnbc-us.png" group-title="news",UK| CNBC NEWS HD
-http://31.43.191.210:8080/live/iptv.kosiptv.comNEW/gJUP3KsM2ENEW/11009.m3u
-#EXTINF:-1 tvg-name="|UK| UK News |UK|" tvg-logo="" group-title="news",|UK| UK News |UK|
-http://31.43.191.210:8080/live/iptv.kosiptv.comNEW/gJUP3KsM2ENEW/11049.m3u
-#EXTINF:-1 tvg-name="CA | Global News Channel" tvg-logo="" group-title="news",CA | Global News Channel
-http://23.227.132.58:25461/thegan/Tomegan1/115677
-#EXTINF:-1 tvg-name="CA | CBC NEWS HD" tvg-logo="" group-title="news",CA | CBC NEWS HD
-http://23.227.132.58:25461/thegan/Tomegan1/115678
-#EXTINF:-1 tvg-name="CA | CTV NEWS NETWORK" tvg-logo="" group-title="news",CA | CTV NEWS NETWORK
-http://23.227.132.58:25461/Toolsplus/6969/115679
+http://caffe.link:25461/200Zrinko/UB9quKy8uSvy/53706
+#EXTINF:-1 tvg-name="CA: CTV NEWS CHANNEL HD" tvg-logo="" group-title="news",CA: CTV NEWS CHANNEL HD
+http://tvmate.icu:8080/34164995/34164995/57350
+#EXTINF:-1 tvg-name="CA: Global Halifax News" tvg-logo="" group-title="news",CA: Global Halifax News
+http://tvmate.icu:8080/34164995/34164995/57434
+#EXTINF:-1 tvg-name="UK: RTE NEWS" tvg-logo="" group-title="news",UK: RTE NEWS
+http://tvmate.icu:8080/34164995/34164995/79108
+#EXTINF:-1 tvg-name="USA: NTD NEWS." tvg-logo="" group-title="news",USA: NTD NEWS.
+http://tvmate.icu:8080/34164995/34164995/53527
+#EXTINF:-1 tvg-name="VPR BBC World Service - Vermont Public Radio live" tvg-logo="" group-title="news",VPR BBC World Service - Vermont Public Radio live
+http://tvmate.icu:8080/34164995/34164995/123562
+#EXTINF:-1 tvg-name="WYPR HD2 BBC World Service live" tvg-logo="" group-title="news",WYPR HD2 BBC World Service live
+http://tvmate.icu:8080/34164995/34164995/124460
+#EXTINF:-1 tvg-name="CA: BBC World News" tvg-logo="" group-title="news",CA: BBC World News
+http://tvmate.icu:8080/34164995/34164995/139752
+#EXTINF:-1 tvg-name="US: NEWS 12 CONNECTICUT HD" tvg-logo="" group-title="news",US: NEWS 12 CONNECTICUT HD
+http://tvmate.icu:8080/34164995/34164995/159246
+#EXTINF:-1 tvg-name="US: NEWS 12 NEW JERSEY FHD" tvg-logo="" group-title="news",US: NEWS 12 NEW JERSEY FHD
+http://tvmate.icu:8080/34164995/34164995/167741
+#EXTINF:-1 tvg-name="BBC World Service for East Asia" tvg-logo="" group-title="news",BBC World Service for East Asia
+http://tvmate.icu:8080/34164995/34164995/269806
+#EXTINF:-1 tvg-name="BBC World Service" tvg-logo="" group-title="news",BBC World Service
+http://tvmate.icu:8080/34164995/34164995/286333
+#EXTINF:-1 tvg-name="BBC World Service Europe" tvg-logo="" group-title="news",BBC World Service Europe
+http://tvmate.icu:8080/34164995/34164995/281763
+#EXTINF:-1 tvg-name="BBC Live News (128k)" tvg-logo="" group-title="news",BBC Live News (128k)
+http://tvmate.icu:8080/34164995/34164995/291300
+#EXTINF:-1 tvg-name="BBC World Service (128k)" tvg-logo="" group-title="news",BBC World Service (128k)
+http://tvmate.icu:8080/34164995/34164995/296646
+#EXTINF:-1 tvg-name="BBC Live News (48k)" tvg-logo="" group-title="news",BBC Live News (48k)
+http://tvmate.icu:8080/34164995/34164995/305460
+#EXTINF:-1 tvg-name="WVPS-HD3 Vermont Public Radio - BBC World Service Stream - Burlington, VT" tvg-logo="" group-title="news",WVPS-HD3 Vermont Public Radio - BBC World Service Stream - Burlington, VT
+http://tvmate.icu:8080/34164995/34164995/305961
+#EXTINF:-1 tvg-name="BBC World Service News Internet" tvg-logo="" group-title="news",BBC World Service News Internet
+http://tvmate.icu:8080/34164995/34164995/308117
+#EXTINF:-1 tvg-name="REPLAY NEWS - English News radio every 5 minutes" tvg-logo="" group-title="news",REPLAY NEWS - English News radio every 5 minutes
+http://tvmate.icu:8080/34164995/34164995/310916
+#EXTINF:-1 tvg-name="Al Jazzera News Audio Hub Live English 20260312" tvg-logo="" group-title="news",Al Jazzera News Audio Hub Live English 20260312
+http://tvmate.icu:8080/34164995/34164995/313595
+#EXTINF:-1 tvg-name="(ES) (VF) BBC World" tvg-logo="" group-title="news",(ES) (VF) BBC World
+http://tvmate.icu:8080/34164995/34164995/327705
