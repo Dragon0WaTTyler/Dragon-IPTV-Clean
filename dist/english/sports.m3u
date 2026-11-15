@@ -1,273 +1,1001 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Eurosport 1" tvg-logo="" group-title="sports",Eurosport 1
-http://caffe.link:25461/200Zrinko/UB9quKy8uSvy/1508
-#EXTINF:-1 tvg-name="Eurosport 2" tvg-logo="https://tvprofil.com/img/kanali-logo/Eurosport_2_2015_logo.png" group-title="sports",Eurosport 2
-http://caffe.link:25461/200Zrinko/UB9quKy8uSvy/1507
-#EXTINF:-1 tvg-name="Eurosport 1 UK" tvg-logo="https://tvprofil.com/img/kanali-logo/eurosport-uk-logo.png" group-title="sports",Eurosport 1 UK
-http://caffe.link:25461/200Zrinko/UB9quKy8uSvy/13847
-#EXTINF:-1 tvg-name="Eurosport 1 NL" tvg-logo="http://epg.netsolutionpro.com/logo-tv/221.sr.png" group-title="sports",Eurosport 1 NL
-http://caffe.link:25461/200Zrinko/UB9quKy8uSvy/13687
-#EXTINF:-1 tvg-name="Eurosport 1 DE" tvg-logo="https://tvprofil.com/img/kanali-logo/Eurosport_2015_logo.png" group-title="sports",Eurosport 1 DE
-http://caffe.link:25461/200Zrinko/UB9quKy8uSvy/1506
-#EXTINF:-1 tvg-name="Eurosport 2 DE" tvg-logo="" group-title="sports",Eurosport 2 DE
-http://caffe.link:25461/200Zrinko/UB9quKy8uSvy/5822
-#EXTINF:-1 tvg-name="BSports ESPN HD" tvg-logo="https://tvprofil.com/img/kanali-logo/ESPNUK.png" group-title="sports",BSports ESPN HD
-http://caffe.link:25461/200Zrinko/UB9quKy8uSvy/1488
-#EXTINF:-1 tvg-name="ESPN 2" tvg-logo="" group-title="sports",ESPN 2
-http://tvmate.icu:8080/34164995/34164995/328465
 #EXTINF:-1 tvg-name="ESPN" tvg-logo="" group-title="sports",ESPN
-http://tvmate.icu:8080/34164995/34164995/328464
-#EXTINF:-1 tvg-name="UK: TNT Sports 1" tvg-logo="" group-title="sports",UK: TNT Sports 1
-http://185.149.233.91:80/dren/dren/334
-#EXTINF:-1 tvg-name="UK: TNT Sports 3" tvg-logo="" group-title="sports",UK: TNT Sports 3
-http://185.149.233.91:80/dren/dren/4159
-#EXTINF:-1 tvg-name="UK: TNT Sports 4" tvg-logo="" group-title="sports",UK: TNT Sports 4
-http://185.149.233.91:80/dren/dren/4160
-#EXTINF:-1 tvg-name="UK: P.SPORTS 1 HD" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/Sky_Sports_Premier_League_logo.png" group-title="sports",UK: P.SPORTS 1 HD
-http://185.149.233.91:80/dren/dren/332
-#EXTINF:-1 tvg-name="UK: S. Sports Mix HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Sky_Sport_4_-_Logo_2016.svg/1280px-Sky_Sport_4_-_Logo_2016.svg.png" group-title="sports",UK: S. Sports Mix HD
-http://185.149.233.91:80/dren/dren/300
-#EXTINF:-1 tvg-name="UK: S. Sports Cricket" tvg-logo="https://www.thesportsdb.com/images/media/logo/Sky_Sport_6_HD.png" group-title="sports",UK: S. Sports Cricket
-http://185.149.233.91:80/dren/dren/302
-#EXTINF:-1 tvg-name="UK: S. SPORTS PREMIER LEAGUE HD" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/Sky_Sports_Premier_League_logo.png" group-title="sports",UK: S. SPORTS PREMIER LEAGUE HD
-http://185.149.233.91:80/dren/dren/331
-#EXTINF:-1 tvg-name="UK: S. Sports NFL HD" tvg-logo="http://tv.luzer.org:8080/images/0f8df707aacc0c920f52b6bb75f2f3fb.png" group-title="sports",UK: S. Sports NFL HD
-http://185.149.233.91:80/dren/dren/4149
-#EXTINF:-1 tvg-name="UK: S. Sports Football HD" tvg-logo="http://tv.luzer.org:8080/images/ad9021e1752914bdeb61dd35e5070937.png" group-title="sports",UK: S. Sports Football HD
-http://185.149.233.91:80/dren/dren/4151
-#EXTINF:-1 tvg-name="UK: S. Sports Main Event HD" tvg-logo="http://tv.luzer.org:8080/images/b16e0be9bee400a5dd9bf24104c84bf6.png" group-title="sports",UK: S. Sports Main Event HD
-http://185.149.233.91:80/dren/dren/4152
-#EXTINF:-1 tvg-name="UK: LFC TV" tvg-logo="" group-title="sports",UK: LFC TV
-http://185.149.233.91:80/dren/dren/4162
-#EXTINF:-1 tvg-name="UK: P. Sports 1" tvg-logo="" group-title="sports",UK: P. Sports 1
-http://185.149.233.91:80/dren/dren/4164
-#EXTINF:-1 tvg-name="UK: P. Sports 2" tvg-logo="" group-title="sports",UK: P. Sports 2
-http://185.149.233.91:80/dren/dren/4165
-#EXTINF:-1 tvg-name="US: TSN 2" tvg-logo="http://tv.luzer.org:8080/images/e324ca08ff1b5d24373901863302eecb.png" group-title="sports",US: TSN 2
-http://185.149.233.91:80/dren/dren/4169
-#EXTINF:-1 tvg-name="US: TSN 3" tvg-logo="http://tv.luzer.org:8080/images/ca300639a4037718a169ddbddf32b22b.png" group-title="sports",US: TSN 3
-http://185.149.233.91:80/dren/dren/4170
-#EXTINF:-1 tvg-name="US: NFL Network HD" tvg-logo="http://tv.luzer.org:8080/images/bab14fcf1e3e07a5285d403024c06809.png" group-title="sports",US: NFL Network HD
-http://185.149.233.91:80/dren/dren/4183
-#EXTINF:-1 tvg-name="US: NHL Network HD" tvg-logo="http://tv.luzer.org:8080/images/48f6277363c7aa70ae87e4d2d4c6719d.jpg" group-title="sports",US: NHL Network HD
-http://185.149.233.91:80/dren/dren/4184
-#EXTINF:-1 tvg-name="US: Tennis Channel HD" tvg-logo="http://tv.luzer.org:8080/images/809542cbb710d190e98d2f0c33cb7ad1.png" group-title="sports",US: Tennis Channel HD
-http://185.149.233.91:80/dren/dren/4190
-#EXTINF:-1 tvg-name="AU: FOX SPORTS 505" tvg-logo="" group-title="sports",AU: FOX SPORTS 505
-http://tvmate.icu:8080/34164995/34164995/57771
-#EXTINF:-1 tvg-name="CA-FR | TVA SPORTS 1" tvg-logo="" group-title="sports",CA-FR | TVA SPORTS 1
-http://tvmate.icu:8080/34164995/34164995/57498
-#EXTINF:-1 tvg-name="CA: Ginx esports TV" tvg-logo="" group-title="sports",CA: Ginx esports TV
-http://tvmate.icu:8080/34164995/34164995/57431
-#EXTINF:-1 tvg-name="CA: Sportsnet Ontario" tvg-logo="" group-title="sports",CA: Sportsnet Ontario
-http://tvmate.icu:8080/34164995/34164995/57463
-#EXTINF:-1 tvg-name="CA: SPORTSNET WEST" tvg-logo="" group-title="sports",CA: SPORTSNET WEST
-http://tvmate.icu:8080/34164995/34164995/57300
-#EXTINF:-1 tvg-name="Carib ESPN" tvg-logo="" group-title="sports",Carib ESPN
-http://tvmate.icu:8080/34164995/34164995/99624
-#EXTINF:-1 tvg-name="UK EuroSport 1 UK (P)" tvg-logo="" group-title="sports",UK EuroSport 1 UK (P)
-http://tvmate.icu:8080/34164995/34164995/53713
-#EXTINF:-1 tvg-name="UK-Sky Sports Action" tvg-logo="" group-title="sports",UK-Sky Sports Action
-http://tvmate.icu:8080/34164995/34164995/53705
-#EXTINF:-1 tvg-name="UK-Sky Sports Arena" tvg-logo="" group-title="sports",UK-Sky Sports Arena
-http://tvmate.icu:8080/34164995/34164995/35238
-#EXTINF:-1 tvg-name="UK-Sky Sports Main Event" tvg-logo="" group-title="sports",UK-Sky Sports Main Event
-http://tvmate.icu:8080/34164995/34164995/35243
-#EXTINF:-1 tvg-name="UK-Sky Sports News" tvg-logo="" group-title="sports",UK-Sky Sports News
-http://tvmate.icu:8080/34164995/34164995/35241
-#EXTINF:-1 tvg-name="US ESPN NEWS" tvg-logo="" group-title="sports",US ESPN NEWS
-http://tvmate.icu:8080/34164995/34164995/17707
-#EXTINF:-1 tvg-name="US ESPN SEC Network" tvg-logo="" group-title="sports",US ESPN SEC Network
-http://tvmate.icu:8080/34164995/34164995/17608
-#EXTINF:-1 tvg-name="US ESPN 2" tvg-logo="" group-title="sports",US ESPN 2
-http://tvmate.icu:8080/34164995/34164995/2210
-#EXTINF:-1 tvg-name="US ESPN 1 (HD)" tvg-logo="" group-title="sports",US ESPN 1 (HD)
-http://tvmate.icu:8080/34164995/34164995/9802
-#EXTINF:-1 tvg-name="US ESPNU College Sports" tvg-logo="" group-title="sports",US ESPNU College Sports
-http://tvmate.icu:8080/34164995/34164995/10255
-#EXTINF:-1 tvg-name="Carib ESPN2" tvg-logo="" group-title="sports",Carib ESPN2
-http://tvmate.icu:8080/34164995/34164995/99623
-#EXTINF:-1 tvg-name="KSPN ESPN LA 710 AM live" tvg-logo="" group-title="sports",KSPN ESPN LA 710 AM live
-http://tvmate.icu:8080/34164995/34164995/122752
-#EXTINF:-1 tvg-name="WKNR 850 ESPN Cleveland live" tvg-logo="" group-title="sports",WKNR 850 ESPN Cleveland live
-http://tvmate.icu:8080/34164995/34164995/122630
-#EXTINF:-1 tvg-name="WTLA ESPN Radio 97.7 live" tvg-logo="" group-title="sports",WTLA ESPN Radio 97.7 live
-http://tvmate.icu:8080/34164995/34164995/122785
-#EXTINF:-1 tvg-name="ESPN Dallas 103.3 FM live" tvg-logo="" group-title="sports",ESPN Dallas 103.3 FM live
-http://tvmate.icu:8080/34164995/34164995/122842
-#EXTINF:-1 tvg-name="ESPN 106.7 live" tvg-logo="" group-title="sports",ESPN 106.7 live
-http://tvmate.icu:8080/34164995/34164995/122836
-#EXTINF:-1 tvg-name="WVSP ESPN Radio 94.1 live" tvg-logo="" group-title="sports",WVSP ESPN Radio 94.1 live
-http://tvmate.icu:8080/34164995/34164995/122889
-#EXTINF:-1 tvg-name="WSEG ESPN Radio FM 104.3 live" tvg-logo="" group-title="sports",WSEG ESPN Radio FM 104.3 live
-http://tvmate.icu:8080/34164995/34164995/123018
-#EXTINF:-1 tvg-name="KLRZ ESPN 100.3 FM live" tvg-logo="" group-title="sports",KLRZ ESPN 100.3 FM live
-http://tvmate.icu:8080/34164995/34164995/123481
-#EXTINF:-1 tvg-name="KEPN ESPN Denver 1600 AM live" tvg-logo="" group-title="sports",KEPN ESPN Denver 1600 AM live
-http://tvmate.icu:8080/34164995/34164995/123700
-#EXTINF:-1 tvg-name="WRUF ESPN 850 / 98.1 live" tvg-logo="" group-title="sports",WRUF ESPN 850 / 98.1 live
-http://tvmate.icu:8080/34164995/34164995/123745
-#EXTINF:-1 tvg-name="KRZI ESPN Central Texas live" tvg-logo="" group-title="sports",KRZI ESPN Central Texas live
-http://tvmate.icu:8080/34164995/34164995/123813
-#EXTINF:-1 tvg-name="WZZN ESPN 97.7 The Zone live" tvg-logo="" group-title="sports",WZZN ESPN 97.7 The Zone live
-http://tvmate.icu:8080/34164995/34164995/124525
-#EXTINF:-1 tvg-name="KFIG 940 AM ESPN Fresno live" tvg-logo="" group-title="sports",KFIG 940 AM ESPN Fresno live
-http://tvmate.icu:8080/34164995/34164995/124609
-#EXTINF:-1 tvg-name="KFFN ESPN Tucson 1490 AM & 104.9 FM live" tvg-logo="" group-title="sports",KFFN ESPN Tucson 1490 AM & 104.9 FM live
-http://tvmate.icu:8080/34164995/34164995/124719
-#EXTINF:-1 tvg-name="KSHQ ESPN 100.7 FM live" tvg-logo="" group-title="sports",KSHQ ESPN 100.7 FM live
-http://tvmate.icu:8080/34164995/34164995/124894
-#EXTINF:-1 tvg-name="WTIG ESPN Radio 990 AM live" tvg-logo="" group-title="sports",WTIG ESPN Radio 990 AM live
-http://tvmate.icu:8080/34164995/34164995/124911
-#EXTINF:-1 tvg-name="WSJK ESPN 93.5 live" tvg-logo="" group-title="sports",WSJK ESPN 93.5 live
-http://tvmate.icu:8080/34164995/34164995/125047
-#EXTINF:-1 tvg-name="WWKU ESPN 102.7 FM live" tvg-logo="" group-title="sports",WWKU ESPN 102.7 FM live
-http://tvmate.icu:8080/34164995/34164995/125055
-#EXTINF:-1 tvg-name="WRGM ESPN Radio 106.7 FM live" tvg-logo="" group-title="sports",WRGM ESPN Radio 106.7 FM live
-http://tvmate.icu:8080/34164995/34164995/125203
-#EXTINF:-1 tvg-name="KTOQ ESPN Rapid City live" tvg-logo="" group-title="sports",KTOQ ESPN Rapid City live
-http://tvmate.icu:8080/34164995/34164995/125214
-#EXTINF:-1 tvg-name="KZDC ESPN San Antonio 1250 AM and 94.5 FM live" tvg-logo="" group-title="sports",KZDC ESPN San Antonio 1250 AM and 94.5 FM live
-http://tvmate.icu:8080/34164995/34164995/125256
-#EXTINF:-1 tvg-name="KQTM ESPN Albuquerque 101.7 FM live" tvg-logo="" group-title="sports",KQTM ESPN Albuquerque 101.7 FM live
-http://tvmate.icu:8080/34164995/34164995/125311
-#EXTINF:-1 tvg-name="KXLX ESPN Spokane 700 AM live" tvg-logo="" group-title="sports",KXLX ESPN Spokane 700 AM live
-http://tvmate.icu:8080/34164995/34164995/125543
-#EXTINF:-1 tvg-name="WISW ESPN Radio 1320 live" tvg-logo="" group-title="sports",WISW ESPN Radio 1320 live
-http://tvmate.icu:8080/34164995/34164995/138265
-#EXTINF:-1 tvg-name="WZGV ESPN 730 AM live" tvg-logo="" group-title="sports",WZGV ESPN 730 AM live
-http://tvmate.icu:8080/34164995/34164995/138299
-#EXTINF:-1 tvg-name="WMTD ESPN 102.3 The Ticket live" tvg-logo="" group-title="sports",WMTD ESPN 102.3 The Ticket live
-http://tvmate.icu:8080/34164995/34164995/138317
-#EXTINF:-1 tvg-name="KSLD ESPN 1140 AM live" tvg-logo="" group-title="sports",KSLD ESPN 1140 AM live
-http://tvmate.icu:8080/34164995/34164995/138358
-#EXTINF:-1 tvg-name="WSBN ESPN Capitol 630 AM live" tvg-logo="" group-title="sports",WSBN ESPN Capitol 630 AM live
-http://tvmate.icu:8080/34164995/34164995/138363
-#EXTINF:-1 tvg-name="ESPN 970 WFUN live" tvg-logo="" group-title="sports",ESPN 970 WFUN live
-http://tvmate.icu:8080/34164995/34164995/138392
-#EXTINF:-1 tvg-name="KCTC ESPN 1320 AM KIFM live" tvg-logo="" group-title="sports",KCTC ESPN 1320 AM KIFM live
-http://tvmate.icu:8080/34164995/34164995/139077
-#EXTINF:-1 tvg-name="WRNY ESPN Utica-Rome 1310 1350 AM live" tvg-logo="" group-title="sports",WRNY ESPN Utica-Rome 1310 1350 AM live
-http://tvmate.icu:8080/34164995/34164995/138444
-#EXTINF:-1 tvg-name="WECU ESPN Greenville 1570 AM live" tvg-logo="" group-title="sports",WECU ESPN Greenville 1570 AM live
-http://tvmate.icu:8080/34164995/34164995/138477
-#EXTINF:-1 tvg-name="KVTK ESPN Radio 1570 live" tvg-logo="" group-title="sports",KVTK ESPN Radio 1570 live
-http://tvmate.icu:8080/34164995/34164995/138485
-#EXTINF:-1 tvg-name="WBLT / WVGM ESPN Radio in Virginia live" tvg-logo="" group-title="sports",WBLT / WVGM ESPN Radio in Virginia live
-http://tvmate.icu:8080/34164995/34164995/138612
-#EXTINF:-1 tvg-name="WDZ 1050 ESPN Decatur live" tvg-logo="" group-title="sports",WDZ 1050 ESPN Decatur live
-http://tvmate.icu:8080/34164995/34164995/138640
-#EXTINF:-1 tvg-name="WEBY ESPN Pensacola live" tvg-logo="" group-title="sports",WEBY ESPN Pensacola live
-http://tvmate.icu:8080/34164995/34164995/138677
-#EXTINF:-1 tvg-name="KYZS 1490 AM & 95.7 FM ESPN Tyler live" tvg-logo="" group-title="sports",KYZS 1490 AM & 95.7 FM ESPN Tyler live
-http://tvmate.icu:8080/34164995/34164995/138768
-#EXTINF:-1 tvg-name="WOPI ESPN Tri-Cities 1490 AM live" tvg-logo="" group-title="sports",WOPI ESPN Tri-Cities 1490 AM live
-http://tvmate.icu:8080/34164995/34164995/138890
-#EXTINF:-1 tvg-name="WSFN ESPN Coastal Georgia live" tvg-logo="" group-title="sports",WSFN ESPN Coastal Georgia live
-http://tvmate.icu:8080/34164995/34164995/138895
-#EXTINF:-1 tvg-name="ESPN 103.9 FM / 1490 AM live" tvg-logo="" group-title="sports",ESPN 103.9 FM / 1490 AM live
-http://tvmate.icu:8080/34164995/34164995/139074
-#EXTINF:-1 tvg-name="BR (DTV) ESPN 3 (D)" tvg-logo="" group-title="sports",BR (DTV) ESPN 3 (D)
-http://tvmate.icu:8080/34164995/34164995/266474
-#EXTINF:-1 tvg-name="BR (DTV) ESPN 5 (D)" tvg-logo="" group-title="sports",BR (DTV) ESPN 5 (D)
-http://tvmate.icu:8080/34164995/34164995/266477
-#EXTINF:-1 tvg-name="BR (DTV) ESPN 6 (D)" tvg-logo="" group-title="sports",BR (DTV) ESPN 6 (D)
-http://tvmate.icu:8080/34164995/34164995/266503
-#EXTINF:-1 tvg-name="BR (DTV) ESPN (D)" tvg-logo="" group-title="sports",BR (DTV) ESPN (D)
-http://tvmate.icu:8080/34164995/34164995/266530
-#EXTINF:-1 tvg-name="BR (DTV) ESPN 4 (D)" tvg-logo="" group-title="sports",BR (DTV) ESPN 4 (D)
-http://tvmate.icu:8080/34164995/34164995/266532
-#EXTINF:-1 tvg-name="BR (DTV) ESPN 2 (D)" tvg-logo="" group-title="sports",BR (DTV) ESPN 2 (D)
-http://tvmate.icu:8080/34164995/34164995/266545
-#EXTINF:-1 tvg-name="PT (VF) Eurosport 2" tvg-logo="" group-title="sports",PT (VF) Eurosport 2
-http://tvmate.icu:8080/34164995/34164995/266642
-#EXTINF:-1 tvg-name="PT (VF) Eurosport 1" tvg-logo="" group-title="sports",PT (VF) Eurosport 1
-http://tvmate.icu:8080/34164995/34164995/266643
-#EXTINF:-1 tvg-name="101 ESPN" tvg-logo="" group-title="sports",101 ESPN
-http://tvmate.icu:8080/34164995/34164995/272413
-#EXTINF:-1 tvg-name="ESPN Radio 106.3" tvg-logo="" group-title="sports",ESPN Radio 106.3
-http://tvmate.icu:8080/34164995/34164995/273210
-#EXTINF:-1 tvg-name="910 ESPN Billings KBLG" tvg-logo="" group-title="sports",910 ESPN Billings KBLG
-http://tvmate.icu:8080/34164995/34164995/273997
-#EXTINF:-1 tvg-name="ESPN 710 Los Angeles" tvg-logo="" group-title="sports",ESPN 710 Los Angeles
-http://tvmate.icu:8080/34164995/34164995/276134
-#EXTINF:-1 tvg-name="94.5 ESPN FM Milwaukee" tvg-logo="" group-title="sports",94.5 ESPN FM Milwaukee
-http://tvmate.icu:8080/34164995/34164995/277479
-#EXTINF:-1 tvg-name="ESPN Radio" tvg-logo="" group-title="sports",ESPN Radio
-http://tvmate.icu:8080/34164995/34164995/279253
-#EXTINF:-1 tvg-name="KOVO AM 960 and FM 103.9 and 98.3 ESPN the Fan Provo - Utah" tvg-logo="" group-title="sports",KOVO AM 960 and FM 103.9 and 98.3 ESPN the Fan Provo - Utah
-http://tvmate.icu:8080/34164995/34164995/279707
-#EXTINF:-1 tvg-name="KALL radio - ESPN 700" tvg-logo="" group-title="sports",KALL radio - ESPN 700
-http://tvmate.icu:8080/34164995/34164995/280984
-#EXTINF:-1 tvg-name="930 AM WKY ESPN Deportes" tvg-logo="" group-title="sports",930 AM WKY ESPN Deportes
-http://tvmate.icu:8080/34164995/34164995/283722
-#EXTINF:-1 tvg-name="KLAS ESPN Sports FM 89" tvg-logo="" group-title="sports",KLAS ESPN Sports FM 89
-http://tvmate.icu:8080/34164995/34164995/284155
-#EXTINF:-1 tvg-name="ESPN 1530" tvg-logo="" group-title="sports",ESPN 1530
-http://tvmate.icu:8080/34164995/34164995/286261
-#EXTINF:-1 tvg-name="ESPN 630 DC" tvg-logo="" group-title="sports",ESPN 630 DC
-http://tvmate.icu:8080/34164995/34164995/287182
-#EXTINF:-1 tvg-name="1460 ESPN Deportes" tvg-logo="" group-title="sports",1460 ESPN Deportes
-http://tvmate.icu:8080/34164995/34164995/290081
-#EXTINF:-1 tvg-name="KIRO 710 ESPN Seattle" tvg-logo="" group-title="sports",KIRO 710 ESPN Seattle
-http://tvmate.icu:8080/34164995/34164995/293114
-#EXTINF:-1 tvg-name="NEPA's ESPN Radio" tvg-logo="" group-title="sports",NEPA's ESPN Radio
-http://tvmate.icu:8080/34164995/34164995/293692
-#EXTINF:-1 tvg-name="ESPN 1140" tvg-logo="" group-title="sports",ESPN 1140
-http://tvmate.icu:8080/34164995/34164995/294093
-#EXTINF:-1 tvg-name="ESPN 1100AM / 100.9FM" tvg-logo="" group-title="sports",ESPN 1100AM / 100.9FM
-http://tvmate.icu:8080/34164995/34164995/294310
-#EXTINF:-1 tvg-name="ESPN Radio 101.7 The TEAM" tvg-logo="" group-title="sports",ESPN Radio 101.7 The TEAM
-http://tvmate.icu:8080/34164995/34164995/295906
-#EXTINF:-1 tvg-name="WMVP 1000 AM - ESPN Chicago, IL" tvg-logo="" group-title="sports",WMVP 1000 AM - ESPN Chicago, IL
-http://tvmate.icu:8080/34164995/34164995/296413
-#EXTINF:-1 tvg-name="KFNC 97.5 \"ESPN Houston\" Mont Belevieu - TX" tvg-logo="" group-title="sports",KFNC 97.5 "ESPN Houston" Mont Belevieu - TX
-http://tvmate.icu:8080/34164995/34164995/296584
-#EXTINF:-1 tvg-name="WDZ \"1050 ESPN\" Decatur - IL" tvg-logo="" group-title="sports",WDZ "1050 ESPN" Decatur - IL
-http://tvmate.icu:8080/34164995/34164995/298833
-#EXTINF:-1 tvg-name="ESPN 99.5 Northwest Arkansas" tvg-logo="" group-title="sports",ESPN 99.5 Northwest Arkansas
-http://tvmate.icu:8080/34164995/34164995/299539
-#EXTINF:-1 tvg-name="WKY 930 \"ESPN Deportes\" Oklahoma City - OK" tvg-logo="" group-title="sports",WKY 930 "ESPN Deportes" Oklahoma City - OK
-http://tvmate.icu:8080/34164995/34164995/303494
-#EXTINF:-1 tvg-name="KXLX \"700 ESPN\" Airway Heights - WA" tvg-logo="" group-title="sports",KXLX "700 ESPN" Airway Heights - WA
-http://tvmate.icu:8080/34164995/34164995/303537
-#EXTINF:-1 tvg-name="WCMC-FM 99.9 The Fan ESPN" tvg-logo="" group-title="sports",WCMC-FM 99.9 The Fan ESPN
-http://tvmate.icu:8080/34164995/34164995/307819
-#EXTINF:-1 tvg-name="(ES) (VF) Eurosport 1" tvg-logo="" group-title="sports",(ES) (VF) Eurosport 1
-http://tvmate.icu:8080/34164995/34164995/327742
-#EXTINF:-1 tvg-name="(ES) (VF) Eurosport 2" tvg-logo="" group-title="sports",(ES) (VF) Eurosport 2
-http://tvmate.icu:8080/34164995/34164995/327743
-#EXTINF:-1 tvg-name="MEX ESPN 3" tvg-logo="" group-title="sports",MEX ESPN 3
-http://tvmate.icu:8080/34164995/34164995/328466
-#EXTINF:-1 tvg-name="ESPN 3" tvg-logo="" group-title="sports",ESPN 3
-http://tvmate.icu:8080/34164995/34164995/328467
-#EXTINF:-1 tvg-name="ESPN 5" tvg-logo="" group-title="sports",ESPN 5
-http://tvmate.icu:8080/34164995/34164995/328468
-#EXTINF:-1 tvg-name="MEX ESPN 2" tvg-logo="" group-title="sports",MEX ESPN 2
-http://tvmate.icu:8080/34164995/34164995/328469
-#EXTINF:-1 tvg-name="ESPN Deportes" tvg-logo="" group-title="sports",ESPN Deportes
-http://tvmate.icu:8080/34164995/34164995/328470
-#EXTINF:-1 tvg-name="US ESPN8: The Ocho" tvg-logo="" group-title="sports",US ESPN8: The Ocho
-http://tvmate.icu:8080/34164995/34164995/329471
-#EXTINF:-1 tvg-name="AR: Bein Sports 1 English" tvg-logo="" group-title="sports",AR: Bein Sports 1 English
-http://4426wa.dailytasty.co:8080/play/fUz_NsnxXKTyp4yoUX-rCKDuHo2ZCqn_kagPcKlFDTU
-#EXTINF:-1 tvg-name="AR: Bein Sports 2 English" tvg-logo="" group-title="sports",AR: Bein Sports 2 English
-http://4426wa.dailytasty.co:8080/play/fUz_NsnxXKTyp4yoUX-rCDr-tXJdu_N86PmZvGEmIBI
-#EXTINF:-1 tvg-name="AR: Bein Sports 3 English" tvg-logo="" group-title="sports",AR: Bein Sports 3 English
-http://4426wa.dailytasty.co:8080/play/fUz_NsnxXKTyp4yoUX-rCEljLzIXpMQvJce8aI0c16w
-#EXTINF:-1 tvg-name="UK: TNT Sports 2" tvg-logo="" group-title="sports",UK: TNT Sports 2
-http://4426wa.dailytasty.co:8080/play/fUz_NsnxXKTyp4yoUX-rCMjxRmWI12pN6_M9SJIluoQ
-#EXTINF:-1 tvg-name="UK: Sky Sports Cricket" tvg-logo="" group-title="sports",UK: Sky Sports Cricket
-http://4426wa.dailytasty.co:8080/play/fUz_NsnxXKTyp4yoUX-rCB9ZY8-PdhIpLu3O0r2ZI0s
-#EXTINF:-1 tvg-name="UK: Sky Sports F1" tvg-logo="" group-title="sports",UK: Sky Sports F1
-http://4426wa.dailytasty.co:8080/play/fUz_NsnxXKTyp4yoUX-rCMVg_HUVwcTilgtb3rAcEkM
-#EXTINF:-1 tvg-name="UK: Sky Sports Football" tvg-logo="" group-title="sports",UK: Sky Sports Football
-http://4426wa.dailytasty.co:8080/play/fUz_NsnxXKTyp4yoUX-rCAR6nstE7bBbgWAa6PXFVFc
-#EXTINF:-1 tvg-name="UK: Sky Sports Golf" tvg-logo="" group-title="sports",UK: Sky Sports Golf
-http://4426wa.dailytasty.co:8080/play/fUz_NsnxXKTyp4yoUX-rCP2bu0nAM29Mwz3KSZxj-aE
-#EXTINF:-1 tvg-name="UK: Sky Sports Mix" tvg-logo="" group-title="sports",UK: Sky Sports Mix
-http://4426wa.dailytasty.co:8080/play/fUz_NsnxXKTyp4yoUX-rCHWZp7ZFiFDkiS1uQSSdYhs
-#EXTINF:-1 tvg-name="UK: Sky Sports Premier League" tvg-logo="" group-title="sports",UK: Sky Sports Premier League
-http://4426wa.dailytasty.co:8080/play/fUz_NsnxXKTyp4yoUX-rCLhZcBmRw7Hpg1Vvj22LxVI
-#EXTINF:-1 tvg-name="UK: TNT Sports 5" tvg-logo="" group-title="sports",UK: TNT Sports 5
-http://4426wa.dailytasty.co:8080/play/fUz_NsnxXKTyp4yoUX-rCA2mPEKx1f_38EzlOylWq4g
+http://23.227.132.58:25461/nigel1966/1966nigel/117299
+#EXTINF:-1 tvg-name="ESPN 3." tvg-logo="" group-title="sports",ESPN 3.
+http://23.227.132.58:25461/nigel1966/1966nigel/117359
+#EXTINF:-1 tvg-name="ESPN NEWS | HD" tvg-logo="" group-title="sports",ESPN NEWS | HD
+http://23.227.132.58:25461/nigel1966/1966nigel/115379
+#EXTINF:-1 tvg-name="ESPN U | HD" tvg-logo="" group-title="sports",ESPN U | HD
+http://23.227.132.58:25461/nigel1966/1966nigel/115380
+#EXTINF:-1 tvg-name="ESPN SEC NETWORK | HD*" tvg-logo="" group-title="sports",ESPN SEC NETWORK | HD*
+http://23.227.132.58:25461/nigel1966/1966nigel/115381
+#EXTINF:-1 tvg-name="US: SPECTRUM SPORTSNET LAKERS | HD" tvg-logo="" group-title="sports",US: SPECTRUM SPORTSNET LAKERS | HD
+http://23.227.132.58:25461/nigel1966/1966nigel/115431
+#EXTINF:-1 tvg-name="CA | TVA Sports" tvg-logo="" group-title="sports",CA | TVA Sports
+http://23.227.132.58:25461/nigel1966/1966nigel/115670
+#EXTINF:-1 tvg-name="CA | TVA 2 Sports" tvg-logo="" group-title="sports",CA | TVA 2 Sports
+http://23.227.132.58:25461/nigel1966/1966nigel/115671
+#EXTINF:-1 tvg-name="ESPN 2" tvg-logo="" group-title="sports",ESPN 2
+http://23.227.132.58:25461/nigel1966/1966nigel/171819
+#EXTINF:-1 tvg-name="NCAAM 008: ESPN" tvg-logo="" group-title="sports",NCAAM 008: ESPN
+http://23.227.132.58:25461/nigel1966/1966nigel/221773
+#EXTINF:-1 tvg-name="NCAAM 009: ESPN2" tvg-logo="" group-title="sports",NCAAM 009: ESPN2
+http://23.227.132.58:25461/nigel1966/1966nigel/221774
+#EXTINF:-1 tvg-name="NCAAM 010: ESPNU" tvg-logo="" group-title="sports",NCAAM 010: ESPNU
+http://23.227.132.58:25461/nigel1966/1966nigel/221775
+#EXTINF:-1 tvg-name="ESPN+ 003 | 08:00AM GRAND SLAM OF DARTS (GROUP STAGE) (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 003 | 08:00AM GRAND SLAM OF DARTS (GROUP STAGE) (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222015
+#EXTINF:-1 tvg-name="ESPN+ 004 | 08:30AM FOOTBALL: VIKINGS VS. PACKERS (VIKINGS VS. PACKERS) (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 004 | 08:30AM FOOTBALL: VIKINGS VS. PACKERS (VIKINGS VS. PACKERS) (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222016
+#EXTINF:-1 tvg-name="ESPN+ 005 | 08:30AM FOOTBALL: NFL MATCHUP WEEK 10 (NFL MATCHUP WEEK 10) (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 005 | 08:30AM FOOTBALL: NFL MATCHUP WEEK 10 (NFL MATCHUP WEEK 10) (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222017
+#EXTINF:-1 tvg-name="ESPN+ 006 | 09:00AM PFL DUBAI (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 006 | 09:00AM PFL DUBAI (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222018
+#EXTINF:-1 tvg-name="ESPN+ 007 | 09:00AM FOOTBALL: COLLEGE GAMEDAY BUILT BY THE HOME DEPOT (COLLEGE GAMEDAY BUILT BY THE HOME DEPOT) (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 007 | 09:00AM FOOTBALL: COLLEGE GAMEDAY BUILT BY THE HOME DEPOT (COLLEGE GAMEDAY BUILT BY THE HOME DEPOT) (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222019
+#EXTINF:-1 tvg-name="ESPN+ 008 | 09:00AM FOOTBALL: COLLEGE GAMEDAY BUILT BY THE HOME DEPOT (COLLEGE GAMEDAY BUILT BY THE HOME DEPOT) (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 008 | 09:00AM FOOTBALL: COLLEGE GAMEDAY BUILT BY THE HOME DEPOT (COLLEGE GAMEDAY BUILT BY THE HOME DEPOT) (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222020
+#EXTINF:-1 tvg-name="ESPN+ 009 | 09:00AM FOOTBALL: SEC NATION (SEC NATION) (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 009 | 09:00AM FOOTBALL: SEC NATION (SEC NATION) (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222021
+#EXTINF:-1 tvg-name="ESPN+ 010 | 09:00AM NCAA FOOTBALL: COLLEGE GAMEDAY • SEC NATION (COLLEGE GAMEDAY ) (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 010 | 09:00AM NCAA FOOTBALL: COLLEGE GAMEDAY • SEC NATION (COLLEGE GAMEDAY ) (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222022
+#EXTINF:-1 tvg-name="ESPN+ 011 | 10:00AM CHATTANOOGA_ DUKE_ OHIO_ PRINCETON (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 011 | 10:00AM CHATTANOOGA_ DUKE_ OHIO_ PRINCETON (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222023
+#EXTINF:-1 tvg-name="ESPN+ 012 | 10:00AM SMU VS. FRESNO STATE (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 012 | 10:00AM SMU VS. FRESNO STATE (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222024
+#EXTINF:-1 tvg-name="ESPN+ 013 | 10:00AM PRINCETON VS. PENNSYLVANIA (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 013 | 10:00AM PRINCETON VS. PENNSYLVANIA (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222025
+#EXTINF:-1 tvg-name="ESPN+ 014 | 10:00AM NCAA FOOTBALL: ACC HUDDLE (ACC HUDDLE) (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 014 | 10:00AM NCAA FOOTBALL: ACC HUDDLE (ACC HUDDLE) (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222026
+#EXTINF:-1 tvg-name="ESPN+ 015 | 10:00AM NCAA FOOTBALL: SEC NATION • ACC HUDDLE (SEC NATION ) (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 015 | 10:00AM NCAA FOOTBALL: SEC NATION • ACC HUDDLE (SEC NATION ) (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222027
+#EXTINF:-1 tvg-name="ESPN+ 016 | 10:00AM NCAA FOOTBALL: COLLEGE GAMEDAY • ACC HUDDLE (COLLEGE GAMEDAY ) (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 016 | 10:00AM NCAA FOOTBALL: COLLEGE GAMEDAY • ACC HUDDLE (COLLEGE GAMEDAY ) (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222028
+#EXTINF:-1 tvg-name="ESPN+ 017 | 10:00AM NCAA FOOTBALL: COLLEGE GAMEDAY • SEC NATION • ACC HUDDLE (COLLEGE GAMEDAY ) (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 017 | 10:00AM NCAA FOOTBALL: COLLEGE GAMEDAY • SEC NATION • ACC HUDDLE (COLLEGE GAMEDAY ) (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222029
+#EXTINF:-1 tvg-name="ESPN+ 018 | 10:05AM REAL SOCIEDAD B VS. SPORTING GIJóN (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 018 | 10:05AM REAL SOCIEDAD B VS. SPORTING GIJóN (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222030
+#EXTINF:-1 tvg-name="ESPN+ 020 | 10:30AM FOOTBALL: SIAC CHAMP _ KENTUCKY ST VS. BENEDICT (SIAC CHAMP _ KENTUCKY ST VS. BENEDICT) (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 020 | 10:30AM FOOTBALL: SIAC CHAMP _ KENTUCKY ST VS. BENEDICT (SIAC CHAMP _ KENTUCKY ST VS. BENEDICT) (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222032
+#EXTINF:-1 tvg-name="ESPN+ 021 | 11:00AM WOFFORD VS. GEORGIA SOUTHERN (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 021 | 11:00AM WOFFORD VS. GEORGIA SOUTHERN (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222033
+#EXTINF:-1 tvg-name="ESPN+ 022 | 11:00AM RIDER VS. YALE (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 022 | 11:00AM RIDER VS. YALE (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222034
+#EXTINF:-1 tvg-name="ESPN+ 023 | 11:00AM BROWN_ COLUMBIA_ HARVARD (DIVING) (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 023 | 11:00AM BROWN_ COLUMBIA_ HARVARD (DIVING) (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222035
+#EXTINF:-1 tvg-name="ESPN+ 024 | 11:00AM BROWN_ COLUMBIA_ HARVARD (SWIMMING) (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 024 | 11:00AM BROWN_ COLUMBIA_ HARVARD (SWIMMING) (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222036
+#EXTINF:-1 tvg-name="ESPN+ 025 | 11:00AM UNC GREENSBORO VS. CORNELL (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 025 | 11:00AM UNC GREENSBORO VS. CORNELL (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222037
+#EXTINF:-1 tvg-name="ESPN+ 026 | 11:30AM SIAC CHAMPIONSHIP BAND HALFTIME PERFORMANCE (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 026 | 11:30AM SIAC CHAMPIONSHIP BAND HALFTIME PERFORMANCE (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222038
+#EXTINF:-1 tvg-name="ESPN+ 027 | 12:00PM PRESBYTERIAN VS. MOREHEAD STATE (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 027 | 12:00PM PRESBYTERIAN VS. MOREHEAD STATE (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222039
+#EXTINF:-1 tvg-name="ESPN+ 028 | 12:00PM PRINCETON VS. YALE (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 028 | 12:00PM PRINCETON VS. YALE (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222040
+#EXTINF:-1 tvg-name="ESPN+ 029 | 12:00PM STONEHILL VS. ROBERT MORRIS (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 029 | 12:00PM STONEHILL VS. ROBERT MORRIS (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222041
+#EXTINF:-1 tvg-name="ESPN+ 030 | 12:00PM GEORGETOWN VS. FORDHAM (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 030 | 12:00PM GEORGETOWN VS. FORDHAM (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222042
+#EXTINF:-1 tvg-name="ESPN+ 031 | 12:00PM MISSISSIPPI VALLEY STATE VS. TENNESSEE STATE (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 031 | 12:00PM MISSISSIPPI VALLEY STATE VS. TENNESSEE STATE (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222043
+#EXTINF:-1 tvg-name="ESPN+ 032 | 12:00PM CLINTON VS. WINTHROP (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 032 | 12:00PM CLINTON VS. WINTHROP (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222044
+#EXTINF:-1 tvg-name="ESPN+ 033 | 12:00PM COLUMBIA VS. BROWN (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 033 | 12:00PM COLUMBIA VS. BROWN (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222045
+#EXTINF:-1 tvg-name="ESPN+ 034 | 12:00PM NORFOLK STATE VS. MORGAN STATE (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 034 | 12:00PM NORFOLK STATE VS. MORGAN STATE (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222046
+#EXTINF:-1 tvg-name="ESPN+ 035 | 12:00PM BUTLER VS. MARIST (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 035 | 12:00PM BUTLER VS. MARIST (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222047
+#EXTINF:-1 tvg-name="ESPN+ 036 | 12:00PM TULANE VS. AKRON (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 036 | 12:00PM TULANE VS. AKRON (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222048
+#EXTINF:-1 tvg-name="ESPN+ 037 | 12:00PM MISSISSIPPI STATE VS. BUFFALO (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 037 | 12:00PM MISSISSIPPI STATE VS. BUFFALO (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222049
+#EXTINF:-1 tvg-name="ESPN+ 038 | 12:00PM VILLANOVA VS. HOLY CROSS (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 038 | 12:00PM VILLANOVA VS. HOLY CROSS (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222050
+#EXTINF:-1 tvg-name="ESPN+ 039 | 12:01PM FOOTBALL: AUBURN VS. MISSISSIPPI ST (AUBURN VS. MISSISSIPPI ST) (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 039 | 12:01PM FOOTBALL: AUBURN VS. MISSISSIPPI ST (AUBURN VS. MISSISSIPPI ST) (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222051
+#EXTINF:-1 tvg-name="ESPN+ 040 | 12:01PM FOOTBALL: DUKE VS. #7 MIAMI (DUKE VS. #7 MIAMI) (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 040 | 12:01PM FOOTBALL: DUKE VS. #7 MIAMI (DUKE VS. #7 MIAMI) (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222052
+#EXTINF:-1 tvg-name="ESPN+ 041 | 12:01PM FOOTBALL: DUKE VS. #7 MIAMI (DUKE VS. #7 MIAMI (ESP)) (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 041 | 12:01PM FOOTBALL: DUKE VS. #7 MIAMI (DUKE VS. #7 MIAMI (ESP)) (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222053
+#EXTINF:-1 tvg-name="ESPN+ 042 | 12:01PM FOOTBALL: #13 WAKE FOREST VS. SMU (#13 WAKE FOREST VS. SMU) (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 042 | 12:01PM FOOTBALL: #13 WAKE FOREST VS. SMU (#13 WAKE FOREST VS. SMU) (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222054
+#EXTINF:-1 tvg-name="ESPN+ 043 | 12:02PM NCAA FOOTBALL: #13 WAKE FOREST VS. SMU (SKYCAST) (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 043 | 12:02PM NCAA FOOTBALL: #13 WAKE FOREST VS. SMU (SKYCAST) (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222055
+#EXTINF:-1 tvg-name="ESPN+ 044 | 12:02PM NCAA FOOTBALL: DUKE VS. #7 MIAMI (SKYCAST) (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 044 | 12:02PM NCAA FOOTBALL: DUKE VS. #7 MIAMI (SKYCAST) (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222056
+#EXTINF:-1 tvg-name="ESPN+ 045 | 12:02PM NCAA FOOTBALL: SYRACUSE VS. NC STATE (SYRACUSE VS. NC STATE) (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 045 | 12:02PM NCAA FOOTBALL: SYRACUSE VS. NC STATE (SYRACUSE VS. NC STATE) (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222057
+#EXTINF:-1 tvg-name="ESPN+ 046 | 12:02PM NCAA FOOTBALL: CW COLLEGE FOOTBALL COUNTDOWN (CW COLLEGE FOOTBALL COUNTDOWN) (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 046 | 12:02PM NCAA FOOTBALL: CW COLLEGE FOOTBALL COUNTDOWN (CW COLLEGE FOOTBALL COUNTDOWN) (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222058
+#EXTINF:-1 tvg-name="ESPN+ 047 | 12:02PM NCAA FOOTBALL: SYR VS. NCSU • DUKE VS. #7 MIA • #13 WAKE VS. SMU (SYR VS. NCSU ) (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 047 | 12:02PM NCAA FOOTBALL: SYR VS. NCSU • DUKE VS. #7 MIA • #13 WAKE VS. SMU (SYR VS. NCSU ) (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222059
+#EXTINF:-1 tvg-name="ESPN+ 048 | 12:02PM NCAA FOOTBALL: DUKE VS. #7 MIA • AUB VS. MSST • #13 WAKE VS. SMU (DUKE VS. #7 MIA ) (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 048 | 12:02PM NCAA FOOTBALL: DUKE VS. #7 MIA • AUB VS. MSST • #13 WAKE VS. SMU (DUKE VS. #7 MIA ) (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222060
+#EXTINF:-1 tvg-name="ESPN+ 049 | 12:02PM NCAA FOOTBALL: SYR VS. NCSU • DUKE VS. #7 MIA (SYR VS. NCSU ) (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 049 | 12:02PM NCAA FOOTBALL: SYR VS. NCSU • DUKE VS. #7 MIA (SYR VS. NCSU ) (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222061
+#EXTINF:-1 tvg-name="ESPN+ 050 | 12:02PM NCAA FOOTBALL: AUB VS. MSST • #13 WAKE VS. SMU (AUB VS. MSST ) (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 050 | 12:02PM NCAA FOOTBALL: AUB VS. MSST • #13 WAKE VS. SMU (AUB VS. MSST ) (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222062
+#EXTINF:-1 tvg-name="ESPN+ 051 | 12:02PM NCAA FOOTBALL: DUKE VS. #7 MIA • #13 WAKE VS. SMU (DUKE VS. #7 MIA ) (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 051 | 12:02PM NCAA FOOTBALL: DUKE VS. #7 MIA • #13 WAKE VS. SMU (DUKE VS. #7 MIA ) (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222063
+#EXTINF:-1 tvg-name="ESPN+ 052 | 12:02PM NCAA FOOTBALL: SYR VS. NCSU • #13 WAKE VS. SMU (SYR VS. NCSU ) (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 052 | 12:02PM NCAA FOOTBALL: SYR VS. NCSU • #13 WAKE VS. SMU (SYR VS. NCSU ) (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222064
+#EXTINF:-1 tvg-name="ESPN+ 053 | 12:02PM NCAA FOOTBALL: DUKE VS. #7 MIA • AUB VS. MSST (DUKE VS. #7 MIA ) (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 053 | 12:02PM NCAA FOOTBALL: DUKE VS. #7 MIA • AUB VS. MSST (DUKE VS. #7 MIA ) (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222065
+#EXTINF:-1 tvg-name="ESPN+ 054 | 12:02PM BASKETBALL: CHARLESTON SO VS. PITT (CHARLESTON SO VS. PITT) (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 054 | 12:02PM BASKETBALL: CHARLESTON SO VS. PITT (CHARLESTON SO VS. PITT) (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222066
+#EXTINF:-1 tvg-name="ESPN+ 055 | 12:03PM BASKETBALL: PROVIDENCE VS. BOSTON COLLEGE (PROVIDENCE VS. BOSTON COLLEGE) (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 055 | 12:03PM BASKETBALL: PROVIDENCE VS. BOSTON COLLEGE (PROVIDENCE VS. BOSTON COLLEGE) (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222067
+#EXTINF:-1 tvg-name="ESPN+ 056 | 12:03PM NCAA WOMEN`S BASKETBALL: PROV VS. BC • CHSO VS. PITT (PROV VS. BC ) (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 056 | 12:03PM NCAA WOMEN`S BASKETBALL: PROV VS. BC • CHSO VS. PITT (PROV VS. BC ) (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222068
+#EXTINF:-1 tvg-name="ESPN+ 057 | 12:20PM ALMERíA VS. FC ANDORRA (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 057 | 12:20PM ALMERíA VS. FC ANDORRA (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222069
+#EXTINF:-1 tvg-name="ESPN+ 058 | 12:20PM RCD MALLORCA VS. CORDOBA (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 058 | 12:20PM RCD MALLORCA VS. CORDOBA (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222070
+#EXTINF:-1 tvg-name="ESPN+ 061 | 12:30PM CENTRAL ARKANSAS VS. UT ARLINGTON (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 061 | 12:30PM CENTRAL ARKANSAS VS. UT ARLINGTON (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222073
+#EXTINF:-1 tvg-name="ESPN+ 062 | 12:30PM APP ARIZONA OPEN (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 062 | 12:30PM APP ARIZONA OPEN (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222074
+#EXTINF:-1 tvg-name="ESPN+ 063 | 12:30PM THE CITADEL VS. VMI (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 063 | 12:30PM THE CITADEL VS. VMI (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222075
+#EXTINF:-1 tvg-name="ESPN+ 064 | 12:30PM NCAA FOOTBALL: GEORGIA TECH VS. CLEMSON (GEORGIA TECH VS. CLEMSON) (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 064 | 12:30PM NCAA FOOTBALL: GEORGIA TECH VS. CLEMSON (GEORGIA TECH VS. CLEMSON) (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222076
+#EXTINF:-1 tvg-name="ESPN+ 065 | 12:30PM NCAA FOOTBALL: GT VS. CLEM • DUKE VS. #7 MIA • #13 WAKE VS. SMU (GT VS. CLEM ) (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 065 | 12:30PM NCAA FOOTBALL: GT VS. CLEM • DUKE VS. #7 MIA • #13 WAKE VS. SMU (GT VS. CLEM ) (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222077
+#EXTINF:-1 tvg-name="ESPN+ 066 | 12:30PM NCAA FOOTBALL: SYR VS. NCSU • GT VS. CLEM • #13 WAKE VS. SMU (SYR VS. NCSU ) (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 066 | 12:30PM NCAA FOOTBALL: SYR VS. NCSU • GT VS. CLEM • #13 WAKE VS. SMU (SYR VS. NCSU ) (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222078
+#EXTINF:-1 tvg-name="ESPN+ 067 | 12:30PM NCAA FOOTBALL: SYR VS. NCSU • GT VS. CLEM • DUKE VS. #7 MIA • #13 WAKE VS. SMU (SYR VS. NCSU ) (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 067 | 12:30PM NCAA FOOTBALL: SYR VS. NCSU • GT VS. CLEM • DUKE VS. #7 MIA • #13 WAKE VS. SMU (SYR VS. NCSU ) (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222079
+#EXTINF:-1 tvg-name="ESPN+ 068 | 12:30PM NCAA FOOTBALL: GT VS. CLEM • DUKE VS. #7 MIA (GT VS. CLEM ) (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 068 | 12:30PM NCAA FOOTBALL: GT VS. CLEM • DUKE VS. #7 MIA (GT VS. CLEM ) (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222080
+#EXTINF:-1 tvg-name="ESPN+ 069 | 12:30PM NCAA FOOTBALL: GT VS. CLEM • #13 WAKE VS. SMU (GT VS. CLEM ) (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 069 | 12:30PM NCAA FOOTBALL: GT VS. CLEM • #13 WAKE VS. SMU (GT VS. CLEM ) (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222081
+#EXTINF:-1 tvg-name="ESPN+ 070 | 12:30PM NCAA FOOTBALL: SYR VS. NCSU • GT VS. CLEM • DUKE VS. #7 MIA (SYR VS. NCSU ) (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 070 | 12:30PM NCAA FOOTBALL: SYR VS. NCSU • GT VS. CLEM • DUKE VS. #7 MIA (SYR VS. NCSU ) (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222082
+#EXTINF:-1 tvg-name="ESPN+ 071 | 12:30PM NCAA FOOTBALL: SYR VS. NCSU • GT VS. CLEM (SYR VS. NCSU ) (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 071 | 12:30PM NCAA FOOTBALL: SYR VS. NCSU • GT VS. CLEM (SYR VS. NCSU ) (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222083
+#EXTINF:-1 tvg-name="ESPN+ 072 | 12:45PM FOOTBALL: #3 ALABAMA VS. VANDERBILT (#3 ALABAMA VS. VANDERBILT) (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 072 | 12:45PM FOOTBALL: #3 ALABAMA VS. VANDERBILT (#3 ALABAMA VS. VANDERBILT) (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222084
+#EXTINF:-1 tvg-name="ESPN+ 073 | 12:45PM NCAA FOOTBALL: DUKE VS. #7 MIA • AUB VS. MSST • #13 WAKE VS. SMU • #3 ALA VS. VAN (DUKE VS. #7 MIA ) (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 073 | 12:45PM NCAA FOOTBALL: DUKE VS. #7 MIA • AUB VS. MSST • #13 WAKE VS. SMU • #3 ALA VS. VAN (DUKE VS. #7 MIA ) (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222085
+#EXTINF:-1 tvg-name="ESPN+ 074 | 12:45PM NCAA FOOTBALL: DUKE VS. #7 MIA • #13 WAKE VS. SMU • #3 ALA VS. VAN (DUKE VS. #7 MIA ) (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 074 | 12:45PM NCAA FOOTBALL: DUKE VS. #7 MIA • #13 WAKE VS. SMU • #3 ALA VS. VAN (DUKE VS. #7 MIA ) (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222086
+#EXTINF:-1 tvg-name="ESPN+ 075 | 12:45PM NCAA FOOTBALL: DUKE VS. #7 MIA • AUB VS. MSST • #3 ALA VS. VAN (DUKE VS. #7 MIA ) (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 075 | 12:45PM NCAA FOOTBALL: DUKE VS. #7 MIA • AUB VS. MSST • #3 ALA VS. VAN (DUKE VS. #7 MIA ) (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222087
+#EXTINF:-1 tvg-name="ESPN+ 076 | 12:45PM NCAA FOOTBALL: DUKE VS. #7 MIA • #3 ALA VS. VAN (DUKE VS. #7 MIA ) (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 076 | 12:45PM NCAA FOOTBALL: DUKE VS. #7 MIA • #3 ALA VS. VAN (DUKE VS. #7 MIA ) (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222088
+#EXTINF:-1 tvg-name="ESPN+ 077 | 12:45PM NCAA FOOTBALL: AUB VS. MSST • #3 ALA VS. VAN (AUB VS. MSST ) (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 077 | 12:45PM NCAA FOOTBALL: AUB VS. MSST • #3 ALA VS. VAN (AUB VS. MSST ) (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222089
+#EXTINF:-1 tvg-name="ESPN+ 078 | 12:45PM NCAA FOOTBALL: AUB VS. MSST • #13 WAKE VS. SMU • #3 ALA VS. VAN (AUB VS. MSST ) (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 078 | 12:45PM NCAA FOOTBALL: AUB VS. MSST • #13 WAKE VS. SMU • #3 ALA VS. VAN (AUB VS. MSST ) (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222090
+#EXTINF:-1 tvg-name="ESPN+ 079 | 12:45PM NCAA FOOTBALL: #13 WAKE VS. SMU • #3 ALA VS. VAN (#13 WAKE VS. SMU ) (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 079 | 12:45PM NCAA FOOTBALL: #13 WAKE VS. SMU • #3 ALA VS. VAN (#13 WAKE VS. SMU ) (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222091
+#EXTINF:-1 tvg-name="ESPN+ 080 | 01:00PM FORDHAM VS. DAVIDSON (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 080 | 01:00PM FORDHAM VS. DAVIDSON (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222092
+#EXTINF:-1 tvg-name="ESPN+ 081 | 01:00PM DUQUESNE VS. KENT STATE (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 081 | 01:00PM DUQUESNE VS. KENT STATE (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222093
+#EXTINF:-1 tvg-name="ESPN+ 082 | 01:00PM UL MONROE VS. OLD DOMINION (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 082 | 01:00PM UL MONROE VS. OLD DOMINION (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222094
+#EXTINF:-1 tvg-name="ESPN+ 083 | 01:00PM UAB VS. TEMPLE (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 083 | 01:00PM UAB VS. TEMPLE (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222095
+#EXTINF:-1 tvg-name="ESPN+ 084 | 01:00PM DELAWARE STATE VS. HOWARD (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 084 | 01:00PM DELAWARE STATE VS. HOWARD (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222096
+#EXTINF:-1 tvg-name="ESPN+ 085 | 01:00PM NIAGARA VS. FAIRFIELD (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 085 | 01:00PM NIAGARA VS. FAIRFIELD (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222097
+#EXTINF:-1 tvg-name="ESPN+ 086 | 01:00PM MARSHALL VS. YOUNGSTOWN STATE (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 086 | 01:00PM MARSHALL VS. YOUNGSTOWN STATE (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222098
+#EXTINF:-1 tvg-name="ESPN+ 087 | 01:00PM NJIT VS. DARTMOUTH (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 087 | 01:00PM NJIT VS. DARTMOUTH (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222099
+#EXTINF:-1 tvg-name="ESPN+ 088 | 01:00PM ARMY VS. DARTMOUTH (SEMIFINAL) (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 088 | 01:00PM ARMY VS. DARTMOUTH (SEMIFINAL) (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222100
+#EXTINF:-1 tvg-name="ESPN+ 089 | 01:00PM SOUTH CAROLINA UPSTATE VS. UNC GREENSBORO (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 089 | 01:00PM SOUTH CAROLINA UPSTATE VS. UNC GREENSBORO (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222101
+#EXTINF:-1 tvg-name="ESPN+ 090 | 01:00PM IDAHO STATE VS. NORTHERN ARIZONA (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 090 | 01:00PM IDAHO STATE VS. NORTHERN ARIZONA (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222102
+#EXTINF:-1 tvg-name="ESPN+ 091 | 01:00PM MURRAY STATE VS. INDIANA STATE (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 091 | 01:00PM MURRAY STATE VS. INDIANA STATE (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222103
+#EXTINF:-1 tvg-name="ESPN+ 092 | 01:01PM SACRAMENTO STATE VS. NIAGARA (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 092 | 01:01PM SACRAMENTO STATE VS. NIAGARA (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222104
+#EXTINF:-1 tvg-name="ESPN+ 093 | 01:01PM BUCKNELL VS. WILLIAM & MARY (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 093 | 01:01PM BUCKNELL VS. WILLIAM & MARY (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222105
+#EXTINF:-1 tvg-name="ESPN+ 094 | 01:01PM AIR FORCE VS. NAVY (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 094 | 01:01PM AIR FORCE VS. NAVY (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222106
+#EXTINF:-1 tvg-name="ESPN+ 095 | 01:01PM JAMES MADISON VS. ARKANSAS STATE (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 095 | 01:01PM JAMES MADISON VS. ARKANSAS STATE (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222107
+#EXTINF:-1 tvg-name="ESPN+ 096 | 01:01PM LOYOLA CHICAGO VS. GEORGE WASHINGTON (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 096 | 01:01PM LOYOLA CHICAGO VS. GEORGE WASHINGTON (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222108
+#EXTINF:-1 tvg-name="ESPN+ 097 | 01:01PM NORTH DAKOTA VS. DETROIT MERCY (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 097 | 01:01PM NORTH DAKOTA VS. DETROIT MERCY (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222109
+#EXTINF:-1 tvg-name="ESPN+ 098 | 01:01PM EASTERN KENTUCKY VS. ABILENE CHRISTIAN (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 098 | 01:01PM EASTERN KENTUCKY VS. ABILENE CHRISTIAN (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222110
+#EXTINF:-1 tvg-name="ESPN+ 099 | 01:01PM SEC HALFTIME BAND PERFORMANCES AT MISSISSIPPI STATE (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 099 | 01:01PM SEC HALFTIME BAND PERFORMANCES AT MISSISSIPPI STATE (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222111
+#EXTINF:-1 tvg-name="ESPN+ 100 | 01:01PM #5 NORTHEASTERN VS. MERRIMACK (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 100 | 01:01PM #5 NORTHEASTERN VS. MERRIMACK (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222112
+#EXTINF:-1 tvg-name="ESPN+ 101 | 01:01PM DAYTON VS. VCU (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 101 | 01:01PM DAYTON VS. VCU (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222113
+#EXTINF:-1 tvg-name="ESPN+ 102 | 01:01PM ARKANSAS STATE VS. COASTAL CAROLINA (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 102 | 01:01PM ARKANSAS STATE VS. COASTAL CAROLINA (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222114
+#EXTINF:-1 tvg-name="ESPN+ 103 | 01:01PM CENTRAL CONNECTICUT VS. MASSACHUSETTS (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 103 | 01:01PM CENTRAL CONNECTICUT VS. MASSACHUSETTS (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222115
+#EXTINF:-1 tvg-name="ESPN+ 104 | 01:02PM ST. THOMAS (MN) VS. ARMY (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 104 | 01:02PM ST. THOMAS (MN) VS. ARMY (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222116
+#EXTINF:-1 tvg-name="ESPN+ 105 | 01:02PM GEORGIA VS. OHIO (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 105 | 01:02PM GEORGIA VS. OHIO (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222117
+#EXTINF:-1 tvg-name="ESPN+ 106 | 01:02PM AUSTIN PEAY VS. TARLETON STATE (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 106 | 01:02PM AUSTIN PEAY VS. TARLETON STATE (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222118
+#EXTINF:-1 tvg-name="ESPN+ 107 | 01:02PM LAMAR VS. SE LOUISIANA (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 107 | 01:02PM LAMAR VS. SE LOUISIANA (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222119
+#EXTINF:-1 tvg-name="ESPN+ 109 | 01:02PM SUN DEVIL INVITE (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 109 | 01:02PM SUN DEVIL INVITE (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222121
+#EXTINF:-1 tvg-name="ESPN+ 110 | 01:02PM NEW MEXICO STATE VS. FLORIDA INTERNATIONAL (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 110 | 01:02PM NEW MEXICO STATE VS. FLORIDA INTERNATIONAL (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222122
+#EXTINF:-1 tvg-name="ESPN+ 111 | 01:02PM BRYANT VS. BINGHAMTON (CHAMPIONSHIP) (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 111 | 01:02PM BRYANT VS. BINGHAMTON (CHAMPIONSHIP) (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222123
+#EXTINF:-1 tvg-name="ESPN+ 112 | 01:02PM PLATTSBURGH STATE VS. VERMONT (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 112 | 01:02PM PLATTSBURGH STATE VS. VERMONT (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222124
+#EXTINF:-1 tvg-name="ESPN+ 113 | 01:02PM DREXEL VS. MAINE (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 113 | 01:02PM DREXEL VS. MAINE (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222125
+#EXTINF:-1 tvg-name="ESPN+ 114 | 01:02PM DARTMOUTH VS. CORNELL (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 114 | 01:02PM DARTMOUTH VS. CORNELL (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222126
+#EXTINF:-1 tvg-name="ESPN+ 115 | 01:02PM CHATTANOOGA VS. FURMAN (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 115 | 01:02PM CHATTANOOGA VS. FURMAN (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222127
+#EXTINF:-1 tvg-name="ESPN+ 116 | 01:03PM LAFAYETTE VS. COLGATE (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 116 | 01:03PM LAFAYETTE VS. COLGATE (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222128
+#EXTINF:-1 tvg-name="ESPN+ 117 | 01:03PM EAST CAROLINA VS. CHARLOTTE (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 117 | 01:03PM EAST CAROLINA VS. CHARLOTTE (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222129
+#EXTINF:-1 tvg-name="ESPN+ 118 | 01:03PM AMERICAN INTERNATIONAL VS. HARVARD (SEMIFINAL) (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 118 | 01:03PM AMERICAN INTERNATIONAL VS. HARVARD (SEMIFINAL) (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222130
+#EXTINF:-1 tvg-name="ESPN+ 119 | 01:03PM HARVARD VS. PENNSYLVANIA (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 119 | 01:03PM HARVARD VS. PENNSYLVANIA (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222131
+#EXTINF:-1 tvg-name="ESPN+ 120 | 01:05PM BASKETBALL: TARLETON ST VS. #6 TEXAS (TARLETON ST VS. #6 TEXAS) (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 120 | 01:05PM BASKETBALL: TARLETON ST VS. #6 TEXAS (TARLETON ST VS. #6 TEXAS) (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222132
+#EXTINF:-1 tvg-name="ESPN+ 121 | 01:05PM NCAA WOMEN`S BASKETBALL: TAR VS. #6 TEX • PROV VS. BC • CHSO VS. PITT (TAR VS. #6 TEX ) (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 121 | 01:05PM NCAA WOMEN`S BASKETBALL: TAR VS. #6 TEX • PROV VS. BC • CHSO VS. PITT (TAR VS. #6 TEX ) (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222133
+#EXTINF:-1 tvg-name="ESPN+ 122 | 01:05PM NCAA WOMEN`S BASKETBALL: TAR VS. #6 TEX • PROV VS. BC (TAR VS. #6 TEX ) (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 122 | 01:05PM NCAA WOMEN`S BASKETBALL: TAR VS. #6 TEX • PROV VS. BC (TAR VS. #6 TEX ) (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222134
+#EXTINF:-1 tvg-name="ESPN+ 123 | 01:05PM NCAA WOMEN`S BASKETBALL: TAR VS. #6 TEX • CHSO VS. PITT (TAR VS. #6 TEX ) (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 123 | 01:05PM NCAA WOMEN`S BASKETBALL: TAR VS. #6 TEX • CHSO VS. PITT (TAR VS. #6 TEX ) (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222135
+#EXTINF:-1 tvg-name="ESPN+ 124 | 01:06PM WRESTLING: BUFFALO VS. PITT (BUFFALO VS. PITT) (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 124 | 01:06PM WRESTLING: BUFFALO VS. PITT (BUFFALO VS. PITT) (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222136
+#EXTINF:-1 tvg-name="ESPN+ 125 | 01:30PM BYU SPORTS NATION GAMEDAY (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 125 | 01:30PM BYU SPORTS NATION GAMEDAY (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222137
+#EXTINF:-1 tvg-name="ESPN+ 126 | 01:30PM BINGHAMTON VS. ST. BONAVENTURE (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 126 | 01:30PM BINGHAMTON VS. ST. BONAVENTURE (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222138
+#EXTINF:-1 tvg-name="ESPN+ 127 | 01:30PM EAST TENNESSEE STATE VS. WOFFORD (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 127 | 01:30PM EAST TENNESSEE STATE VS. WOFFORD (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222139
+#EXTINF:-1 tvg-name="ESPN+ 128 | 01:30PM NORTH CAROLINA CENTRAL VS. SOUTH CAROLINA STATE (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 128 | 01:30PM NORTH CAROLINA CENTRAL VS. SOUTH CAROLINA STATE (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222140
+#EXTINF:-1 tvg-name="ESPN+ 129 | 01:45PM FOOTBALL: HALFTIME AT VANDERBILT (HALFTIME AT VANDERBILT) (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 129 | 01:45PM FOOTBALL: HALFTIME AT VANDERBILT (HALFTIME AT VANDERBILT) (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222141
+#EXTINF:-1 tvg-name="ESPN+ 130 | 01:55PM MONTREAL ROSES FC VS. AFC TORONTO (CHAMPIONSHIP) (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 130 | 01:55PM MONTREAL ROSES FC VS. AFC TORONTO (CHAMPIONSHIP) (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222142
+#EXTINF:-1 tvg-name="ESPN+ 131 | 02:00PM STONEHILL VS. #16 TEXAS TECH (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 131 | 02:00PM STONEHILL VS. #16 TEXAS TECH (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222143
+#EXTINF:-1 tvg-name="ESPN+ 132 | 02:00PM EAST TENNESSEE STATE VS. WESTERN CAROLINA (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 132 | 02:00PM EAST TENNESSEE STATE VS. WESTERN CAROLINA (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222144
+#EXTINF:-1 tvg-name="ESPN+ 133 | 02:00PM GRAND SLAM OF DARTS (GROUP STAGE) (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 133 | 02:00PM GRAND SLAM OF DARTS (GROUP STAGE) (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222145
+#EXTINF:-1 tvg-name="ESPN+ 134 | 02:00PM RHODE ISLAND VS. ST. JOHN`S (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 134 | 02:00PM RHODE ISLAND VS. ST. JOHN`S (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222146
+#EXTINF:-1 tvg-name="ESPN+ 135 | 02:00PM MIDDLE TENNESSEE VS. KENNESAW STATE (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 135 | 02:00PM MIDDLE TENNESSEE VS. KENNESAW STATE (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222147
+#EXTINF:-1 tvg-name="ESPN+ 136 | 02:00PM WISCONSIN VS. GREEN BAY (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 136 | 02:00PM WISCONSIN VS. GREEN BAY (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222148
+#EXTINF:-1 tvg-name="ESPN+ 137 | 02:00PM SOUTHEAST MISSOURI STATE VS. CHARLESTON SOUTHERN (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 137 | 02:00PM SOUTHEAST MISSOURI STATE VS. CHARLESTON SOUTHERN (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222149
+#EXTINF:-1 tvg-name="ESPN+ 138 | 02:00PM BOSTON UNIVERSITY VS. QUINNIPIAC (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 138 | 02:00PM BOSTON UNIVERSITY VS. QUINNIPIAC (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222150
+#EXTINF:-1 tvg-name="ESPN+ 139 | 02:00PM WOFFORD VS. QUEENS UNIVERSITY (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 139 | 02:00PM WOFFORD VS. QUEENS UNIVERSITY (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222151
+#EXTINF:-1 tvg-name="ESPN+ 140 | 02:00PM LEHIGH VS. RICHMOND (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 140 | 02:00PM LEHIGH VS. RICHMOND (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222152
+#EXTINF:-1 tvg-name="ESPN+ 141 | 02:00PM ILLINOIS STATE VS. SAINT LOUIS (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 141 | 02:00PM ILLINOIS STATE VS. SAINT LOUIS (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222153
+#EXTINF:-1 tvg-name="ESPN+ 142 | 02:00PM UT RIO GRANDE VALLEY VS. HOUSTON CHRISTIAN (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 142 | 02:00PM UT RIO GRANDE VALLEY VS. HOUSTON CHRISTIAN (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222154
+#EXTINF:-1 tvg-name="ESPN+ 143 | 02:01PM MIAMI (OH) VS. EVANSVILLE (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 143 | 02:01PM MIAMI (OH) VS. EVANSVILLE (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222155
+#EXTINF:-1 tvg-name="ESPN+ 144 | 02:01PM MCNEESE VS. NICHOLLS (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 144 | 02:01PM MCNEESE VS. NICHOLLS (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222156
+#EXTINF:-1 tvg-name="ESPN+ 145 | 02:01PM NORTH FLORIDA VS. CENTRAL ARKANSAS (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 145 | 02:01PM NORTH FLORIDA VS. CENTRAL ARKANSAS (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222157
+#EXTINF:-1 tvg-name="ESPN+ 146 | 02:01PM EVANSVILLE VS. EASTERN ILLINOIS (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 146 | 02:01PM EVANSVILLE VS. EASTERN ILLINOIS (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222158
+#EXTINF:-1 tvg-name="ESPN+ 147 | 02:01PM NORTH ALABAMA VS. WEST GEORGIA (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 147 | 02:01PM NORTH ALABAMA VS. WEST GEORGIA (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222159
+#EXTINF:-1 tvg-name="ESPN+ 148 | 02:01PM CHATTANOOGA VS. THE CITADEL (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 148 | 02:01PM CHATTANOOGA VS. THE CITADEL (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222160
+#EXTINF:-1 tvg-name="ESPN+ 149 | 02:01PM PGA JR. LEAGUE CHAMPIONSHIP (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 149 | 02:01PM PGA JR. LEAGUE CHAMPIONSHIP (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222161
+#EXTINF:-1 tvg-name="ESPN+ 150 | 02:01PM COPPIN STATE VS. SOUTH FLORIDA (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 150 | 02:01PM COPPIN STATE VS. SOUTH FLORIDA (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222162
+#EXTINF:-1 tvg-name="ESPN+ 151 | 02:01PM NORTHERN ILLINOIS VS. BELLARMINE (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 151 | 02:01PM NORTHERN ILLINOIS VS. BELLARMINE (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222163
+#EXTINF:-1 tvg-name="ESPN+ 152 | 02:01PM HOUSTON CHRISTIAN VS. NORTHWESTERN STATE (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 152 | 02:01PM HOUSTON CHRISTIAN VS. NORTHWESTERN STATE (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222164
+#EXTINF:-1 tvg-name="ESPN+ 153 | 02:01PM #11 UCONN VS. PROVIDENCE (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 153 | 02:01PM #11 UCONN VS. PROVIDENCE (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222165
+#EXTINF:-1 tvg-name="ESPN+ 154 | 02:01PM MILWAUKEE VS. LOYOLA CHICAGO (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 154 | 02:01PM MILWAUKEE VS. LOYOLA CHICAGO (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222166
+#EXTINF:-1 tvg-name="ESPN+ 155 | 02:02PM UTAH VS. HOUSTON (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 155 | 02:02PM UTAH VS. HOUSTON (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222167
+#EXTINF:-1 tvg-name="ESPN+ 156 | 02:02PM COASTAL GEORGIA VS. FLORIDA ATLANTIC (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 156 | 02:02PM COASTAL GEORGIA VS. FLORIDA ATLANTIC (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222168
+#EXTINF:-1 tvg-name="ESPN+ 157 | 02:02PM FLORIDA ATLANTIC VS. FLORIDA GULF COAST (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 157 | 02:02PM FLORIDA ATLANTIC VS. FLORIDA GULF COAST (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222169
+#EXTINF:-1 tvg-name="ESPN+ 158 | 02:02PM THE CITADEL VS. NORTH FLORIDA (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 158 | 02:02PM THE CITADEL VS. NORTH FLORIDA (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222170
+#EXTINF:-1 tvg-name="ESPN+ 159 | 02:02PM RIDER VS. IONA (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 159 | 02:02PM RIDER VS. IONA (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222171
+#EXTINF:-1 tvg-name="ESPN+ 160 | 02:02PM WARNER VS. JACKSONVILLE (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 160 | 02:02PM WARNER VS. JACKSONVILLE (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222172
+#EXTINF:-1 tvg-name="ESPN+ 161 | 02:02PM NORTHERN IOWA VS. SOUTH DAKOTA (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 161 | 02:02PM NORTHERN IOWA VS. SOUTH DAKOTA (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222173
+#EXTINF:-1 tvg-name="ESPN+ 162 | 02:02PM GARDNER_WEBB VS. WESTERN ILLINOIS (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 162 | 02:02PM GARDNER_WEBB VS. WESTERN ILLINOIS (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222174
+#EXTINF:-1 tvg-name="ESPN+ 163 | 02:02PM IU INDIANAPOLIS VS. MILWAUKEE (CHAMPIONSHIP) (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 163 | 02:02PM IU INDIANAPOLIS VS. MILWAUKEE (CHAMPIONSHIP) (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222175
+#EXTINF:-1 tvg-name="ESPN+ 164 | 02:02PM MECUM AUCTIONS: LAS VEGAS (DAY 2) (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 164 | 02:02PM MECUM AUCTIONS: LAS VEGAS (DAY 2) (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222176
+#EXTINF:-1 tvg-name="ESPN+ 165 | 02:02PM LITTLE ROCK VS. NORTH ALABAMA (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 165 | 02:02PM LITTLE ROCK VS. NORTH ALABAMA (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222177
+#EXTINF:-1 tvg-name="ESPN+ 166 | 02:02PM UNC GREENSBORO VS. MERCER (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 166 | 02:02PM UNC GREENSBORO VS. MERCER (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222178
+#EXTINF:-1 tvg-name="ESPN+ 167 | 02:03PM ABILENE CHRISTIAN VS. AUSTIN PEAY (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 167 | 02:03PM ABILENE CHRISTIAN VS. AUSTIN PEAY (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222179
+#EXTINF:-1 tvg-name="ESPN+ 168 | 02:03PM EUREKA VS. SIU EDWARDSVILLE (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 168 | 02:03PM EUREKA VS. SIU EDWARDSVILLE (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222180
+#EXTINF:-1 tvg-name="ESPN+ 169 | 02:03PM CENTRAL ARKANSAS VS. EASTERN KENTUCKY (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 169 | 02:03PM CENTRAL ARKANSAS VS. EASTERN KENTUCKY (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222181
+#EXTINF:-1 tvg-name="ESPN+ 170 | 02:03PM SOUTH CAROLINA STATE VS. HIGH POINT (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 170 | 02:03PM SOUTH CAROLINA STATE VS. HIGH POINT (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222182
+#EXTINF:-1 tvg-name="ESPN+ 171 | 02:03PM QUEENS UNIVERSITY VS. GARDNER_WEBB (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 171 | 02:03PM QUEENS UNIVERSITY VS. GARDNER_WEBB (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222183
+#EXTINF:-1 tvg-name="ESPN+ 172 | 02:03PM KENNESAW STATE VS. SAM HOUSTON (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 172 | 02:03PM KENNESAW STATE VS. SAM HOUSTON (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222184
+#EXTINF:-1 tvg-name="ESPN+ 173 | 02:03PM SOUTH DAKOTA STATE VS. SOUTHERN ILLINOIS (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 173 | 02:03PM SOUTH DAKOTA STATE VS. SOUTHERN ILLINOIS (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222185
+#EXTINF:-1 tvg-name="ESPN+ 174 | 02:03PM BUCKNELL VS. MOUNT ST. MARY`S (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 174 | 02:03PM BUCKNELL VS. MOUNT ST. MARY`S (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222186
+#EXTINF:-1 tvg-name="ESPN+ 175 | 02:03PM NORTHWESTERN STATE VS. EAST TEXAS A&M (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 175 | 02:03PM NORTHWESTERN STATE VS. EAST TEXAS A&M (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222187
+#EXTINF:-1 tvg-name="ESPN+ 176 | 02:03PM RICE VS. STEPHEN F. AUSTIN (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 176 | 02:03PM RICE VS. STEPHEN F. AUSTIN (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222188
+#EXTINF:-1 tvg-name="ESPN+ 177 | 02:04PM FOOTBALL: KANSAS ST VS. TCU (KANSAS ST VS. TCU) (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 177 | 02:04PM FOOTBALL: KANSAS ST VS. TCU (KANSAS ST VS. TCU) (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222189
+#EXTINF:-1 tvg-name="ESPN+ 178 | 02:05PM BASKETBALL: GARDNER_WEBB VS. SOUTH CAROLINA (GARDNER_WEBB VS. SOUTH CAROLINA) (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 178 | 02:05PM BASKETBALL: GARDNER_WEBB VS. SOUTH CAROLINA (GARDNER_WEBB VS. SOUTH CAROLINA) (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222190
+#EXTINF:-1 tvg-name="ESPN+ 179 | 02:06PM NCAA MEN`S BASKETBALL: STO VS. #16 TTU • GWEB VS. SC (STO VS. #16 TTU ) (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 179 | 02:06PM NCAA MEN`S BASKETBALL: STO VS. #16 TTU • GWEB VS. SC (STO VS. #16 TTU ) (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222191
+#EXTINF:-1 tvg-name="ESPN+ 180 | 02:30PM ILLINOIS STATE VS. BELMONT (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 180 | 02:30PM ILLINOIS STATE VS. BELMONT (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222192
+#EXTINF:-1 tvg-name="ESPN+ 181 | 02:30PM JACKSON STATE VS. WINTHROP (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 181 | 02:30PM JACKSON STATE VS. WINTHROP (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222193
+#EXTINF:-1 tvg-name="ESPN+ 182 | 02:30PM MERCER VS. TENNESSEE TECH (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 182 | 02:30PM MERCER VS. TENNESSEE TECH (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222194
+#EXTINF:-1 tvg-name="ESPN+ 183 | 02:30PM SHENANDOAH VS. RADFORD (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 183 | 02:30PM SHENANDOAH VS. RADFORD (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222195
+#EXTINF:-1 tvg-name="ESPN+ 184 | 02:30PM NCAA FOOTBALL: MER VS. TNTC • ACU VS. APSU (MER VS. TNTC ) (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 184 | 02:30PM NCAA FOOTBALL: MER VS. TNTC • ACU VS. APSU (MER VS. TNTC ) (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222196
+#EXTINF:-1 tvg-name="ESPN+ 186 | 02:50PM REAL OVIEDO VS. GIRONA FC (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 186 | 02:50PM REAL OVIEDO VS. GIRONA FC (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222198
+#EXTINF:-1 tvg-name="ESPN+ 187 | 02:50PM BROWN VS. #10 CLARKSON (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 187 | 02:50PM BROWN VS. #10 CLARKSON (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222199
+#EXTINF:-1 tvg-name="ESPN+ 188 | 03:00PM NICHOLLS VS. INCARNATE WORD (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 188 | 03:00PM NICHOLLS VS. INCARNATE WORD (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222200
+#EXTINF:-1 tvg-name="ESPN+ 189 | 03:00PM WYOMING VS. DENVER (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 189 | 03:00PM WYOMING VS. DENVER (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222201
+#EXTINF:-1 tvg-name="ESPN+ 190 | 03:00PM BUTLER VS. UCONN (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 190 | 03:00PM BUTLER VS. UCONN (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222202
+#EXTINF:-1 tvg-name="ESPN+ 191 | 03:00PM JACKSON STATE VS. ALABAMA STATE (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 191 | 03:00PM JACKSON STATE VS. ALABAMA STATE (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222203
+#EXTINF:-1 tvg-name="ESPN+ 192 | 03:00PM INCARNATE WORD VS. NORTH TEXAS (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 192 | 03:00PM INCARNATE WORD VS. NORTH TEXAS (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222204
+#EXTINF:-1 tvg-name="ESPN+ 193 | 03:00PM FLORIDA INTERNATIONAL VS. DELAWARE (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 193 | 03:00PM FLORIDA INTERNATIONAL VS. DELAWARE (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222205
+#EXTINF:-1 tvg-name="ESPN+ 194 | 03:00PM WINNIPEG JETS VS. CHICAGO BLACKHAWKS (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 194 | 03:00PM WINNIPEG JETS VS. CHICAGO BLACKHAWKS (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222206
+#EXTINF:-1 tvg-name="ESPN+ 195 | 03:00PM DENVER VS. PEPPERDINE (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 195 | 03:00PM DENVER VS. PEPPERDINE (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222207
+#EXTINF:-1 tvg-name="ESPN+ 196 | 03:00PM NEW MEXICO VS. BYU (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 196 | 03:00PM NEW MEXICO VS. BYU (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222208
+#EXTINF:-1 tvg-name="ESPN+ 197 | 03:00PM APP STATE VS. TROY (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 197 | 03:00PM APP STATE VS. TROY (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222209
+#EXTINF:-1 tvg-name="ESPN+ 198 | 03:00PM #13 YALE VS. ST. LAWRENCE (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 198 | 03:00PM #13 YALE VS. ST. LAWRENCE (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222210
+#EXTINF:-1 tvg-name="ESPN+ 199 | 03:00PM SAM HOUSTON VS. NORTHERN COLORADO (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 199 | 03:00PM SAM HOUSTON VS. NORTHERN COLORADO (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222211
+#EXTINF:-1 tvg-name="ESPN+ 200 | 03:01PM GREEN BAY VS. ROBERT MORRIS (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 200 | 03:01PM GREEN BAY VS. ROBERT MORRIS (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222212
+#EXTINF:-1 tvg-name="ESPN+ 201 | 03:01PM HOUSTON CHRISTIAN VS. WEBER STATE (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 201 | 03:01PM HOUSTON CHRISTIAN VS. WEBER STATE (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222213
+#EXTINF:-1 tvg-name="ESPN+ 202 | 03:01PM NORTH CAROLINA CENTRAL VS. GEORGE MASON (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 202 | 03:01PM NORTH CAROLINA CENTRAL VS. GEORGE MASON (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222214
+#EXTINF:-1 tvg-name="ESPN+ 203 | 03:01PM UCF FOOTBALL PREGAME SHOW (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 203 | 03:01PM UCF FOOTBALL PREGAME SHOW (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222215
+#EXTINF:-1 tvg-name="ESPN+ 204 | 03:01PM YOUNGSTOWN STATE VS. COLORADO (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 204 | 03:01PM YOUNGSTOWN STATE VS. COLORADO (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222216
+#EXTINF:-1 tvg-name="ESPN+ 205 | 03:01PM NEW MEXICO STATE VS. MISSOURI STATE (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 205 | 03:01PM NEW MEXICO STATE VS. MISSOURI STATE (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222217
+#EXTINF:-1 tvg-name="ESPN+ 206 | 03:01PM COLGATE VS. LAFAYETTE (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 206 | 03:01PM COLGATE VS. LAFAYETTE (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222218
+#EXTINF:-1 tvg-name="ESPN+ 207 | 03:01PM HOLY CROSS VS. LOYOLA MARYLAND (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 207 | 03:01PM HOLY CROSS VS. LOYOLA MARYLAND (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222219
+#EXTINF:-1 tvg-name="ESPN+ 208 | 03:01PM XAVIER VS. PROVIDENCE (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 208 | 03:01PM XAVIER VS. PROVIDENCE (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222220
+#EXTINF:-1 tvg-name="ESPN+ 209 | 03:01PM LINDENWOOD VS. UT MARTIN (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 209 | 03:01PM LINDENWOOD VS. UT MARTIN (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222221
+#EXTINF:-1 tvg-name="ESPN+ 210 | 03:01PM HARVARD VS. #8 COLGATE (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 210 | 03:01PM HARVARD VS. #8 COLGATE (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222222
+#EXTINF:-1 tvg-name="ESPN+ 211 | 03:01PM DARTMOUTH VS. #14 CORNELL (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 211 | 03:01PM DARTMOUTH VS. #14 CORNELL (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222223
+#EXTINF:-1 tvg-name="ESPN+ 212 | 03:02PM PACIFIC VS. PORTLAND (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 212 | 03:02PM PACIFIC VS. PORTLAND (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222224
+#EXTINF:-1 tvg-name="ESPN+ 213 | 03:02PM SAINT MARY`S VS. UC SAN DIEGO (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 213 | 03:02PM SAINT MARY`S VS. UC SAN DIEGO (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222225
+#EXTINF:-1 tvg-name="ESPN+ 214 | 03:02PM #19 NORTHEASTERN VS. UCONN (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 214 | 03:02PM #19 NORTHEASTERN VS. UCONN (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222226
+#EXTINF:-1 tvg-name="ESPN+ 215 | 03:02PM TARLETON STATE VS. WEST FLORIDA (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 215 | 03:02PM TARLETON STATE VS. WEST FLORIDA (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222227
+#EXTINF:-1 tvg-name="ESPN+ 216 | 03:02PM UC RIVERSIDE VS. WICHITA STATE (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 216 | 03:02PM UC RIVERSIDE VS. WICHITA STATE (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222228
+#EXTINF:-1 tvg-name="ESPN+ 217 | 03:02PM CALIFORNIA VS. UC SANTA BARBARA (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 217 | 03:02PM CALIFORNIA VS. UC SANTA BARBARA (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222229
+#EXTINF:-1 tvg-name="ESPN+ 218 | 03:02PM WINNIPEG JETS VS. CHICAGO BLACKHAWKS (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 218 | 03:02PM WINNIPEG JETS VS. CHICAGO BLACKHAWKS (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222230
+#EXTINF:-1 tvg-name="ESPN+ 219 | 03:02PM DUQUESNE VS. GEORGE MASON (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 219 | 03:02PM DUQUESNE VS. GEORGE MASON (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222231
+#EXTINF:-1 tvg-name="ESPN+ 220 | 03:04PM ESPN UNLIMITED: SKYCAST _ #8 TENNESSEE VS. TEXAS A&M (SKYCAST) (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 220 | 03:04PM ESPN UNLIMITED: SKYCAST _ #8 TENNESSEE VS. TEXAS A&M (SKYCAST) (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222232
+#EXTINF:-1 tvg-name="ESPN+ 221 | 03:10PM COASTAL CAROLINA VS. LOUISIANA (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 221 | 03:10PM COASTAL CAROLINA VS. LOUISIANA (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222233
+#EXTINF:-1 tvg-name="ESPN+ 222 | 03:15PM SEC NETWORK +: OKLAHOMA FOOTBALL IN THE BOOTH (OKLAHOMA FOOTBALL IN THE BOOTH) (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 222 | 03:15PM SEC NETWORK +: OKLAHOMA FOOTBALL IN THE BOOTH (OKLAHOMA FOOTBALL IN THE BOOTH) (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222234
+#EXTINF:-1 tvg-name="ESPN+ 223 | 03:30PM LSU_SHREVEPORT VS. UT ARLINGTON (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 223 | 03:30PM LSU_SHREVEPORT VS. UT ARLINGTON (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222235
+#EXTINF:-1 tvg-name="ESPN+ 224 | 03:30PM WESTERN CAROLINA VS. SAMFORD (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 224 | 03:30PM WESTERN CAROLINA VS. SAMFORD (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222236
+#EXTINF:-1 tvg-name="ESPN+ 225 | 03:30PM CENTRAL MICHIGAN VS. NORTHERN KENTUCKY (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 225 | 03:30PM CENTRAL MICHIGAN VS. NORTHERN KENTUCKY (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222237
+#EXTINF:-1 tvg-name="ESPN+ 226 | 03:30PM EASTERN ILLINOIS VS. TENNESSEE STATE (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 226 | 03:30PM EASTERN ILLINOIS VS. TENNESSEE STATE (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222238
+#EXTINF:-1 tvg-name="ESPN+ 227 | 03:30PM JACKSONVILLE STATE VS. WESTERN KENTUCKY (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 227 | 03:30PM JACKSONVILLE STATE VS. WESTERN KENTUCKY (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222239
+#EXTINF:-1 tvg-name="ESPN+ 228 | 03:30PM BROWN_ COLUMBIA_ HARVARD (DIVING) (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 228 | 03:30PM BROWN_ COLUMBIA_ HARVARD (DIVING) (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222240
+#EXTINF:-1 tvg-name="ESPN+ 229 | 03:30PM BROWN_ COLUMBIA_ HARVARD (SWIMMING) (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 229 | 03:30PM BROWN_ COLUMBIA_ HARVARD (SWIMMING) (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222241
+#EXTINF:-1 tvg-name="ESPN+ 230 | 03:30PM GEORGIA SOUTHERN VS. GEORGIA STATE (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 230 | 03:30PM GEORGIA SOUTHERN VS. GEORGIA STATE (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222242
+#EXTINF:-1 tvg-name="ESPN+ 231 | 03:30PM ST. THOMAS (MN) VS. ARMY (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 231 | 03:30PM ST. THOMAS (MN) VS. ARMY (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222243
+#EXTINF:-1 tvg-name="ESPN+ 232 | 03:30PM NCAA FOOTBALL: KSU VS. TCU • ASU VS. UCF (KSU VS. TCU ) (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 232 | 03:30PM NCAA FOOTBALL: KSU VS. TCU • ASU VS. UCF (KSU VS. TCU ) (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222244
+#EXTINF:-1 tvg-name="ESPN+ 233 | 03:31PM ESPN UNLIMITED: SKYCAST _ #22 MISSOURI VS. #1 GEORGIA (SKYCAST) (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 233 | 03:31PM ESPN UNLIMITED: SKYCAST _ #22 MISSOURI VS. #1 GEORGIA (SKYCAST) (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222245
+#EXTINF:-1 tvg-name="ESPN+ 234 | 03:40PM NCAA FOOTBALL: #8 TENN VS. TA&M • #22 MIZ VS. #1 UGA (#8 TENN VS. TA&M ) (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 234 | 03:40PM NCAA FOOTBALL: #8 TENN VS. TA&M • #22 MIZ VS. #1 UGA (#8 TENN VS. TA&M ) (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222246
+#EXTINF:-1 tvg-name="ESPN+ 235 | 03:40PM ESPN ON ABC: #22 MISSOURI VS. #1 GEORGIA (#22 MISSOURI VS. #1 GEORGIA) (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 235 | 03:40PM ESPN ON ABC: #22 MISSOURI VS. #1 GEORGIA (#22 MISSOURI VS. #1 GEORGIA) (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222247
+#EXTINF:-1 tvg-name="ESPN+ 236 | 04:00PM HAMPTON VS. NAVY (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 236 | 04:00PM HAMPTON VS. NAVY (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222248
+#EXTINF:-1 tvg-name="ESPN+ 237 | 04:00PM LAFAYETTE VS. ST. BONAVENTURE (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 237 | 04:00PM LAFAYETTE VS. ST. BONAVENTURE (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222249
+#EXTINF:-1 tvg-name="ESPN+ 238 | 04:00PM AIR FORCE VS. PACIFIC (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 238 | 04:00PM AIR FORCE VS. PACIFIC (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222250
+#EXTINF:-1 tvg-name="ESPN+ 239 | 04:00PM LONGWOOD VS. OLD DOMINION (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 239 | 04:00PM LONGWOOD VS. OLD DOMINION (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222251
+#EXTINF:-1 tvg-name="ESPN+ 240 | 04:00PM TOLEDO VS. DETROIT MERCY (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 240 | 04:00PM TOLEDO VS. DETROIT MERCY (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222252
+#EXTINF:-1 tvg-name="ESPN+ 241 | 04:00PM LOYOLA MARYMOUNT VS. CALIFORNIA BAPTIST (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 241 | 04:00PM LOYOLA MARYMOUNT VS. CALIFORNIA BAPTIST (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222253
+#EXTINF:-1 tvg-name="ESPN+ 242 | 04:00PM SAINT MARY`S VS. SEATTLE U (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 242 | 04:00PM SAINT MARY`S VS. SEATTLE U (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222254
+#EXTINF:-1 tvg-name="ESPN+ 243 | 04:00PM SAN FRANCISCO VS. SANTA CLARA (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 243 | 04:00PM SAN FRANCISCO VS. SANTA CLARA (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222255
+#EXTINF:-1 tvg-name="ESPN+ 244 | 04:00PM EAST TEXAS A&M VS. LAMAR (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 244 | 04:00PM EAST TEXAS A&M VS. LAMAR (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222256
+#EXTINF:-1 tvg-name="ESPN+ 245 | 04:00PM #15 BOSTON COLLEGE VS. BOSTON UNIVERSITY (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 245 | 04:00PM #15 BOSTON COLLEGE VS. BOSTON UNIVERSITY (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222257
+#EXTINF:-1 tvg-name="ESPN+ 246 | 04:00PM CHARLOTTE VS. TULSA (CHAMPIONSHIP) (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 246 | 04:00PM CHARLOTTE VS. TULSA (CHAMPIONSHIP) (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222258
+#EXTINF:-1 tvg-name="ESPN+ 247 | 04:00PM HOLY CROSS VS. MAINE (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 247 | 04:00PM HOLY CROSS VS. MAINE (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222259
+#EXTINF:-1 tvg-name="ESPN+ 248 | 04:01PM SAN DIEGO VS. LOYOLA MARYMOUNT (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 248 | 04:01PM SAN DIEGO VS. LOYOLA MARYMOUNT (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222260
+#EXTINF:-1 tvg-name="ESPN+ 249 | 04:01PM NAVY VS. LEHIGH (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 249 | 04:01PM NAVY VS. LEHIGH (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222261
+#EXTINF:-1 tvg-name="ESPN+ 250 | 04:01PM DELAWARE STATE VS. EAST CAROLINA (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 250 | 04:01PM DELAWARE STATE VS. EAST CAROLINA (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222262
+#EXTINF:-1 tvg-name="ESPN+ 251 | 04:01PM #23 NORTH CAROLINA VS. PENNSYLVANIA (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 251 | 04:01PM #23 NORTH CAROLINA VS. PENNSYLVANIA (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222263
+#EXTINF:-1 tvg-name="ESPN+ 252 | 04:01PM SEC HALFTIME BAND PERFORMANCES AT TEXAS A&M (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 252 | 04:01PM SEC HALFTIME BAND PERFORMANCES AT TEXAS A&M (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222264
+#EXTINF:-1 tvg-name="ESPN+ 253 | 04:01PM BALL STATE VS. EASTERN MICHIGAN (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 253 | 04:01PM BALL STATE VS. EASTERN MICHIGAN (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222265
+#EXTINF:-1 tvg-name="ESPN+ 254 | 04:01PM TEXAS TECH VS. #7 BYU (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 254 | 04:01PM TEXAS TECH VS. #7 BYU (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222266
+#EXTINF:-1 tvg-name="ESPN+ 255 | 04:01PM NEVADA VS. UTAH VALLEY (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 255 | 04:01PM NEVADA VS. UTAH VALLEY (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222267
+#EXTINF:-1 tvg-name="ESPN+ 256 | 04:01PM NCAA FOOTBALL: CAL VS. UVA • FRES VS. TXST (CAL VS. UVA ) (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 256 | 04:01PM NCAA FOOTBALL: CAL VS. UVA • FRES VS. TXST (CAL VS. UVA ) (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222268
+#EXTINF:-1 tvg-name="ESPN+ 257 | 04:02PM NCAA MEN`S BASKETBALL: SOUTHERN UTAH VS. WAKE FOREST (SOUTHERN UTAH VS. WAKE FOREST) (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 257 | 04:02PM NCAA MEN`S BASKETBALL: SOUTHERN UTAH VS. WAKE FOREST (SOUTHERN UTAH VS. WAKE FOREST) (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222269
+#EXTINF:-1 tvg-name="ESPN+ 258 | 04:02PM NCAA MEN`S BASKETBALL: UNC ASHEVILLE VS. GEORGIA TECH (UNC ASHEVILLE VS. GEORGIA TECH) (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 258 | 04:02PM NCAA MEN`S BASKETBALL: UNC ASHEVILLE VS. GEORGIA TECH (UNC ASHEVILLE VS. GEORGIA TECH) (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222270
+#EXTINF:-1 tvg-name="ESPN+ 259 | 04:02PM NCAA MEN`S BASKETBALL: UNCA VS. GT • SUU VS. WAKE (UNCA VS. GT ) (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 259 | 04:02PM NCAA MEN`S BASKETBALL: UNCA VS. GT • SUU VS. WAKE (UNCA VS. GT ) (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222271
+#EXTINF:-1 tvg-name="ESPN+ 260 | 04:03PM CW SPORTS: FRESNO ST VS. TEXAS STATE (FRESNO ST VS. TEXAS STATE) (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 260 | 04:03PM CW SPORTS: FRESNO ST VS. TEXAS STATE (FRESNO ST VS. TEXAS STATE) (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222272
+#EXTINF:-1 tvg-name="ESPN+ 261 | 04:05PM RPI VS. UMASS LOWELL (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 261 | 04:05PM RPI VS. UMASS LOWELL (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222273
+#EXTINF:-1 tvg-name="ESPN+ 262 | 04:15PM NCAA FOOTBALL: #22 MIZ VS. #1 UGA • #19 MISS VS. OU (#22 MIZ VS. #1 UGA ) (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 262 | 04:15PM NCAA FOOTBALL: #22 MIZ VS. #1 UGA • #19 MISS VS. OU (#22 MIZ VS. #1 UGA ) (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222274
+#EXTINF:-1 tvg-name="ESPN+ 263 | 04:15PM NCAA FOOTBALL: #8 TENN VS. TA&M • #22 MIZ VS. #1 UGA • #19 MISS VS. OU (#8 TENN VS. TA&M ) (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 263 | 04:15PM NCAA FOOTBALL: #8 TENN VS. TA&M • #22 MIZ VS. #1 UGA • #19 MISS VS. OU (#8 TENN VS. TA&M ) (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222275
+#EXTINF:-1 tvg-name="ESPN+ 264 | 04:15PM NCAA FOOTBALL: #8 TENN VS. TA&M • #19 MISS VS. OU (#8 TENN VS. TA&M ) (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 264 | 04:15PM NCAA FOOTBALL: #8 TENN VS. TA&M • #19 MISS VS. OU (#8 TENN VS. TA&M ) (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222276
+#EXTINF:-1 tvg-name="ESPN+ 265 | 04:30PM TULANE VS. RICE (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 265 | 04:30PM TULANE VS. RICE (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222277
+#EXTINF:-1 tvg-name="ESPN+ 266 | 04:30PM SEC HALFTIME BAND PERFORMANCES AT GEORGIA (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 266 | 04:30PM SEC HALFTIME BAND PERFORMANCES AT GEORGIA (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222278
+#EXTINF:-1 tvg-name="ESPN+ 267 | 04:30PM ILLINOIS STATE VS. YOUNGSTOWN STATE (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 267 | 04:30PM ILLINOIS STATE VS. YOUNGSTOWN STATE (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222279
+#EXTINF:-1 tvg-name="ESPN+ 268 | 04:30PM COAST GUARD ACADEMY VS. MERCHANT MARINE ACADEMY (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 268 | 04:30PM COAST GUARD ACADEMY VS. MERCHANT MARINE ACADEMY (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222280
+#EXTINF:-1 tvg-name="ESPN+ 269 | 05:00PM HOUSTON CHRISTIAN VS. EASTERN ILLINOIS (CHAMPIONSHIP) (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 269 | 05:00PM HOUSTON CHRISTIAN VS. EASTERN ILLINOIS (CHAMPIONSHIP) (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222281
+#EXTINF:-1 tvg-name="ESPN+ 270 | 05:00PM BELLARMINE VS. LIPSCOMB (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 270 | 05:00PM BELLARMINE VS. LIPSCOMB (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222282
+#EXTINF:-1 tvg-name="ESPN+ 271 | 05:00PM BRADLEY VS. BELLARMINE (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 271 | 05:00PM BRADLEY VS. BELLARMINE (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222283
+#EXTINF:-1 tvg-name="ESPN+ 272 | 05:00PM CLEVELAND STATE VS. IU INDIANAPOLIS (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 272 | 05:00PM CLEVELAND STATE VS. IU INDIANAPOLIS (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222284
+#EXTINF:-1 tvg-name="ESPN+ 273 | 05:00PM FORDHAM VS. SAINT LOUIS (CHAMPIONSHIP) (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 273 | 05:00PM FORDHAM VS. SAINT LOUIS (CHAMPIONSHIP) (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222285
+#EXTINF:-1 tvg-name="ESPN+ 274 | 05:00PM PRINCETON VS. YALE (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 274 | 05:00PM PRINCETON VS. YALE (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222286
+#EXTINF:-1 tvg-name="ESPN+ 275 | 05:00PM UC RIVERSIDE VS. CAL STATE FULLERTON (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 275 | 05:00PM UC RIVERSIDE VS. CAL STATE FULLERTON (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222287
+#EXTINF:-1 tvg-name="ESPN+ 276 | 05:00PM CAL STATE NORTHRIDGE VS. SAN DIEGO (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 276 | 05:00PM CAL STATE NORTHRIDGE VS. SAN DIEGO (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222288
+#EXTINF:-1 tvg-name="ESPN+ 277 | 05:00PM PENNSYLVANIA VS. BROWN (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 277 | 05:00PM PENNSYLVANIA VS. BROWN (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222289
+#EXTINF:-1 tvg-name="ESPN+ 278 | 05:00PM SOUTHERN MISS VS. LOUISIANA TECH (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 278 | 05:00PM SOUTHERN MISS VS. LOUISIANA TECH (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222290
+#EXTINF:-1 tvg-name="ESPN+ 279 | 05:00PM SAT_ 11/14 _ ESPN FC (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 279 | 05:00PM SAT_ 11/14 _ ESPN FC (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222291
+#EXTINF:-1 tvg-name="ESPN+ 280 | 05:00PM MAINE VS. #20 VERMONT (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 280 | 05:00PM MAINE VS. #20 VERMONT (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222292
+#EXTINF:-1 tvg-name="ESPN+ 281 | 05:01PM MONTANA VS. EASTERN WASHINGTON (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 281 | 05:01PM MONTANA VS. EASTERN WASHINGTON (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222293
+#EXTINF:-1 tvg-name="ESPN+ 282 | 05:01PM CORNELL VS. DARTMOUTH (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 282 | 05:01PM CORNELL VS. DARTMOUTH (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222294
+#EXTINF:-1 tvg-name="ESPN+ 283 | 05:01PM NORTHERN IOWA VS. OAKLAND (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 283 | 05:01PM NORTHERN IOWA VS. OAKLAND (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222295
+#EXTINF:-1 tvg-name="ESPN+ 284 | 05:01PM COLUMBIA VS. HARVARD (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 284 | 05:01PM COLUMBIA VS. HARVARD (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222296
+#EXTINF:-1 tvg-name="ESPN+ 285 | 05:01PM NCAA MEN`S BASKETBALL: UTAH TECH VS. CALIFORNIA (UTAH TECH VS. CALIFORNIA) (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 285 | 05:01PM NCAA MEN`S BASKETBALL: UTAH TECH VS. CALIFORNIA (UTAH TECH VS. CALIFORNIA) (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222297
+#EXTINF:-1 tvg-name="ESPN+ 286 | 05:01PM NCAA MEN`S BASKETBALL: UNCA VS. GT • SUU VS. WAKE • UTU VS. CAL (UNCA VS. GT ) (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 286 | 05:01PM NCAA MEN`S BASKETBALL: UNCA VS. GT • SUU VS. WAKE • UTU VS. CAL (UNCA VS. GT ) (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222298
+#EXTINF:-1 tvg-name="ESPN+ 287 | 05:01PM NCAA MEN`S BASKETBALL: UNCA VS. GT • UTU VS. CAL (UNCA VS. GT ) (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 287 | 05:01PM NCAA MEN`S BASKETBALL: UNCA VS. GT • UTU VS. CAL (UNCA VS. GT ) (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222299
+#EXTINF:-1 tvg-name="ESPN+ 288 | 05:01PM NCAA MEN`S BASKETBALL: SUU VS. WAKE • UTU VS. CAL (SUU VS. WAKE ) (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 288 | 05:01PM NCAA MEN`S BASKETBALL: SUU VS. WAKE • UTU VS. CAL (SUU VS. WAKE ) (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222300
+#EXTINF:-1 tvg-name="ESPN+ 289 | 05:15PM SEC NETWORK +: HALFTIME AT OKLAHOMA (HALFTIME AT OKLAHOMA) (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 289 | 05:15PM SEC NETWORK +: HALFTIME AT OKLAHOMA (HALFTIME AT OKLAHOMA) (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222301
+#EXTINF:-1 tvg-name="ESPN+ 290 | 05:30PM LONG ISLAND UNIVERSITY VS. GEORGE WASHINGTON (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 290 | 05:30PM LONG ISLAND UNIVERSITY VS. GEORGE WASHINGTON (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222302
+#EXTINF:-1 tvg-name="ESPN+ 291 | 05:30PM WESTERN MICHIGAN VS. CENTRAL MICHIGAN (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 291 | 05:30PM WESTERN MICHIGAN VS. CENTRAL MICHIGAN (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222303
+#EXTINF:-1 tvg-name="ESPN+ 292 | 05:30PM NCAA FOOTBALL: ASU VS. UCF • KU VS. WVU (ASU VS. UCF ) (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 292 | 05:30PM NCAA FOOTBALL: ASU VS. UCF • KU VS. WVU (ASU VS. UCF ) (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222304
+#EXTINF:-1 tvg-name="ESPN+ 293 | 06:00PM SOUTHERN_NEW ORLEANS VS. LSU NEW ORLEANS (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 293 | 06:00PM SOUTHERN_NEW ORLEANS VS. LSU NEW ORLEANS (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222305
+#EXTINF:-1 tvg-name="ESPN+ 294 | 06:00PM SETON HALL VS. DEPAUL (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 294 | 06:00PM SETON HALL VS. DEPAUL (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222306
+#EXTINF:-1 tvg-name="ESPN+ 295 | 06:00PM SAINT ANSELM VS. SACRED HEART (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 295 | 06:00PM SAINT ANSELM VS. SACRED HEART (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222307
+#EXTINF:-1 tvg-name="ESPN+ 296 | 06:00PM NORTHERN IOWA VS. VALPARAISO (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 296 | 06:00PM NORTHERN IOWA VS. VALPARAISO (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222308
+#EXTINF:-1 tvg-name="ESPN+ 297 | 06:00PM STEPHEN F. AUSTIN VS. UT RIO GRANDE VALLEY (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 297 | 06:00PM STEPHEN F. AUSTIN VS. UT RIO GRANDE VALLEY (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222309
+#EXTINF:-1 tvg-name="ESPN+ 298 | 06:00PM SOUTH ALABAMA VS. NORTH TEXAS (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 298 | 06:00PM SOUTH ALABAMA VS. NORTH TEXAS (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222310
+#EXTINF:-1 tvg-name="ESPN+ 299 | 06:00PM LEHIGH VS. BUCKNELL (CHAMPIONSHIP) (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 299 | 06:00PM LEHIGH VS. BUCKNELL (CHAMPIONSHIP) (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222311
+#EXTINF:-1 tvg-name="ESPN+ 300 | 06:00PM MERRIMACK VS. SACRED HEART (CHAMPIONSHIP) (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 300 | 06:00PM MERRIMACK VS. SACRED HEART (CHAMPIONSHIP) (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222312
+#EXTINF:-1 tvg-name="ESPN+ 301 | 06:00PM DRAKE VS. UIC (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 301 | 06:00PM DRAKE VS. UIC (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222313
+#EXTINF:-1 tvg-name="ESPN+ 302 | 06:00PM COLGATE VS. BROWN (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 302 | 06:00PM COLGATE VS. BROWN (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222314
+#EXTINF:-1 tvg-name="ESPN+ 303 | 06:00PM FLORIDA GULF COAST VS. STETSON (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 303 | 06:00PM FLORIDA GULF COAST VS. STETSON (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222315
+#EXTINF:-1 tvg-name="ESPN+ 304 | 06:00PM KENT STATE VS. AKRON (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 304 | 06:00PM KENT STATE VS. AKRON (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222316
+#EXTINF:-1 tvg-name="ESPN+ 305 | 06:01PM CANISIUS VS. SACRED HEART (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 305 | 06:01PM CANISIUS VS. SACRED HEART (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222317
+#EXTINF:-1 tvg-name="ESPN+ 306 | 06:01PM BRADLEY VS. MURRAY STATE (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 306 | 06:01PM BRADLEY VS. MURRAY STATE (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222318
+#EXTINF:-1 tvg-name="ESPN+ 307 | 06:01PM WEBER STATE VS. NORTHERN ARIZONA (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 307 | 06:01PM WEBER STATE VS. NORTHERN ARIZONA (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222319
+#EXTINF:-1 tvg-name="ESPN+ 308 | 06:01PM CHARLESTON BATTERY VS. LOUISVILLE CITY FC (EASTERN CONFERENCE FINAL) (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 308 | 06:01PM CHARLESTON BATTERY VS. LOUISVILLE CITY FC (EASTERN CONFERENCE FINAL) (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222320
+#EXTINF:-1 tvg-name="ESPN+ 309 | 06:01PM LIBERTY VS. UNC GREENSBORO (CHAMPIONSHIP) (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 309 | 06:01PM LIBERTY VS. UNC GREENSBORO (CHAMPIONSHIP) (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222321
+#EXTINF:-1 tvg-name="ESPN+ 310 | 06:01PM ST. JOHN`S VS. MARQUETTE (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 310 | 06:01PM ST. JOHN`S VS. MARQUETTE (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222322
+#EXTINF:-1 tvg-name="ESPN+ 311 | 06:01PM APP STATE VS. MARSHALL (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 311 | 06:01PM APP STATE VS. MARSHALL (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222323
+#EXTINF:-1 tvg-name="ESPN+ 312 | 06:01PM SANTA CLARA VS. SEATTLE U (CHAMPIONSHIP) (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 312 | 06:01PM SANTA CLARA VS. SEATTLE U (CHAMPIONSHIP) (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222324
+#EXTINF:-1 tvg-name="ESPN+ 313 | 06:01PM LINCOLN (CA) VS. WEBER STATE (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 313 | 06:01PM LINCOLN (CA) VS. WEBER STATE (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222325
+#EXTINF:-1 tvg-name="ESPN+ 314 | 06:15PM ESPN UNLIMITED: SKYCAST _ FLORIDA VS. #11 KENTUCKY (SKYCAST) (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 314 | 06:15PM ESPN UNLIMITED: SKYCAST _ FLORIDA VS. #11 KENTUCKY (SKYCAST) (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222326
+#EXTINF:-1 tvg-name="ESPN+ 315 | 06:30PM PHILADELPHIA FLYERS VS. COLUMBUS BLUE JACKETS (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 315 | 06:30PM PHILADELPHIA FLYERS VS. COLUMBUS BLUE JACKETS (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222327
+#EXTINF:-1 tvg-name="ESPN+ 316 | 06:30PM FLORIDA PANTHERS VS. ST. LOUIS BLUES (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 316 | 06:30PM FLORIDA PANTHERS VS. ST. LOUIS BLUES (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222328
+#EXTINF:-1 tvg-name="ESPN+ 317 | 06:30PM FLORIDA PANTHERS VS. ST. LOUIS BLUES (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 317 | 06:30PM FLORIDA PANTHERS VS. ST. LOUIS BLUES (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222329
+#EXTINF:-1 tvg-name="ESPN+ 318 | 06:30PM COLORADO AVALANCHE VS. MONTREAL CANADIENS (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 318 | 06:30PM COLORADO AVALANCHE VS. MONTREAL CANADIENS (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222330
+#EXTINF:-1 tvg-name="ESPN+ 319 | 06:30PM PENNSYLVANIA VS. SAINT JOSEPH`S (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 319 | 06:30PM PENNSYLVANIA VS. SAINT JOSEPH`S (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222331
+#EXTINF:-1 tvg-name="ESPN+ 320 | 06:30PM MINNESOTA WILD VS. BOSTON BRUINS (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 320 | 06:30PM MINNESOTA WILD VS. BOSTON BRUINS (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222332
+#EXTINF:-1 tvg-name="ESPN+ 321 | 06:30PM NEW JERSEY DEVILS VS. WASHINGTON CAPITALS (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 321 | 06:30PM NEW JERSEY DEVILS VS. WASHINGTON CAPITALS (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222333
+#EXTINF:-1 tvg-name="ESPN+ 322 | 06:30PM DETROIT RED WINGS VS. TAMPA BAY LIGHTNING (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 322 | 06:30PM DETROIT RED WINGS VS. TAMPA BAY LIGHTNING (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222334
+#EXTINF:-1 tvg-name="ESPN+ 323 | 06:30PM COLORADO AVALANCHE VS. MONTREAL CANADIENS (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 323 | 06:30PM COLORADO AVALANCHE VS. MONTREAL CANADIENS (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222335
+#EXTINF:-1 tvg-name="ESPN+ 324 | 06:30PM NEW JERSEY DEVILS VS. WASHINGTON CAPITALS (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 324 | 06:30PM NEW JERSEY DEVILS VS. WASHINGTON CAPITALS (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222336
+#EXTINF:-1 tvg-name="ESPN+ 325 | 06:30PM BYU FOOTBALL POSTGAME (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 325 | 06:30PM BYU FOOTBALL POSTGAME (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222337
+#EXTINF:-1 tvg-name="ESPN+ 326 | 06:30PM DETROIT RED WINGS VS. TAMPA BAY LIGHTNING (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 326 | 06:30PM DETROIT RED WINGS VS. TAMPA BAY LIGHTNING (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222338
+#EXTINF:-1 tvg-name="ESPN+ 327 | 06:31PM MINNESOTA WILD VS. BOSTON BRUINS (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 327 | 06:31PM MINNESOTA WILD VS. BOSTON BRUINS (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222339
+#EXTINF:-1 tvg-name="ESPN+ 328 | 06:31PM PHILADELPHIA FLYERS VS. COLUMBUS BLUE JACKETS (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 328 | 06:31PM PHILADELPHIA FLYERS VS. COLUMBUS BLUE JACKETS (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222340
+#EXTINF:-1 tvg-name="ESPN+ 329 | 06:32PM NHL: COL VS. MTL • DET VS. TB (COL VS. MTL ) (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 329 | 06:32PM NHL: COL VS. MTL • DET VS. TB (COL VS. MTL ) (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222341
+#EXTINF:-1 tvg-name="ESPN+ 330 | 06:32PM NHL: NJ VS. WSH • MIN VS. BOS (NJ VS. WSH ) (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 330 | 06:32PM NHL: NJ VS. WSH • MIN VS. BOS (NJ VS. WSH ) (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222342
+#EXTINF:-1 tvg-name="ESPN+ 331 | 06:32PM NHL: PHI VS. CBJ • NJ VS. WSH • MIN VS. BOS (PHI VS. CBJ ) (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 331 | 06:32PM NHL: PHI VS. CBJ • NJ VS. WSH • MIN VS. BOS (PHI VS. CBJ ) (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222343
+#EXTINF:-1 tvg-name="ESPN+ 332 | 06:32PM NHL: PHI VS. CBJ • MIN VS. BOS (PHI VS. CBJ ) (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 332 | 06:32PM NHL: PHI VS. CBJ • MIN VS. BOS (PHI VS. CBJ ) (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222344
+#EXTINF:-1 tvg-name="ESPN+ 333 | 06:32PM NHL: PHI VS. CBJ • NJ VS. WSH (PHI VS. CBJ ) (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 333 | 06:32PM NHL: PHI VS. CBJ • NJ VS. WSH (PHI VS. CBJ ) (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222345
+#EXTINF:-1 tvg-name="ESPN+ 335 | 07:00PM UAB VS. JACKSONVILLE STATE (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 335 | 07:00PM UAB VS. JACKSONVILLE STATE (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222346
+#EXTINF:-1 tvg-name="ESPN+ 336 | 07:00PM WEST GEORGIA VS. CHARLESTON SOUTHERN (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 336 | 07:00PM WEST GEORGIA VS. CHARLESTON SOUTHERN (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222347
+#EXTINF:-1 tvg-name="ESPN+ 337 | 07:00PM WESTERN MICHIGAN VS. BOWLING GREEN (CHAMPIONSHIP) (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 337 | 07:00PM WESTERN MICHIGAN VS. BOWLING GREEN (CHAMPIONSHIP) (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222348
+#EXTINF:-1 tvg-name="ESPN+ 338 | 07:00PM HOWARD VS. DAVIDSON (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 338 | 07:00PM HOWARD VS. DAVIDSON (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222349
+#EXTINF:-1 tvg-name="ESPN+ 339 | 07:00PM #11 DARTMOUTH VS. PRINCETON (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 339 | 07:00PM #11 DARTMOUTH VS. PRINCETON (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222350
+#EXTINF:-1 tvg-name="ESPN+ 340 | 07:00PM SACRAMENTO STATE VS. CAL POLY (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 340 | 07:00PM SACRAMENTO STATE VS. CAL POLY (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222351
+#EXTINF:-1 tvg-name="ESPN+ 341 | 07:00PM FUTBOL AMERICAS: USMNT VS. HAITI REACTION SHOW (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 341 | 07:00PM FUTBOL AMERICAS: USMNT VS. HAITI REACTION SHOW (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222352
+#EXTINF:-1 tvg-name="ESPN+ 342 | 07:00PM QUEENS UNIVERSITY VS. NORTH FLORIDA (CHAMPIONSHIP) (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 342 | 07:00PM QUEENS UNIVERSITY VS. NORTH FLORIDA (CHAMPIONSHIP) (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222353
+#EXTINF:-1 tvg-name="ESPN+ 343 | 07:00PM UCF FOOTBALL POSTGAME PRESS CONFERENCE (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 343 | 07:00PM UCF FOOTBALL POSTGAME PRESS CONFERENCE (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222354
+#EXTINF:-1 tvg-name="ESPN+ 344 | 07:00PM VILLANOVA VS. #25 XAVIER (CHAMPIONSHIP) (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 344 | 07:00PM VILLANOVA VS. #25 XAVIER (CHAMPIONSHIP) (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222355
+#EXTINF:-1 tvg-name="ESPN+ 345 | 07:00PM OTTAWA SENATORS VS. PITTSBURGH PENGUINS (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 345 | 07:00PM OTTAWA SENATORS VS. PITTSBURGH PENGUINS (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222356
+#EXTINF:-1 tvg-name="ESPN+ 346 | 07:00PM OTTAWA SENATORS VS. PITTSBURGH PENGUINS (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 346 | 07:00PM OTTAWA SENATORS VS. PITTSBURGH PENGUINS (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222357
+#EXTINF:-1 tvg-name="ESPN+ 347 | 07:01PM BROWN VS. SIENA (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 347 | 07:01PM BROWN VS. SIENA (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222358
+#EXTINF:-1 tvg-name="ESPN+ 348 | 07:01PM UC SAN DIEGO VS. UTAH VALLEY (CHAMPIONSHIP) (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 348 | 07:01PM UC SAN DIEGO VS. UTAH VALLEY (CHAMPIONSHIP) (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222359
+#EXTINF:-1 tvg-name="ESPN+ 349 | 07:01PM WASHINGTON VS. UTAH (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 349 | 07:01PM WASHINGTON VS. UTAH (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222360
+#EXTINF:-1 tvg-name="ESPN+ 350 | 07:01PM UNION VS. NEW HAMPSHIRE (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 350 | 07:01PM UNION VS. NEW HAMPSHIRE (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222361
+#EXTINF:-1 tvg-name="ESPN+ 351 | 07:01PM AUSTIN PEAY VS. WICHITA STATE (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 351 | 07:01PM AUSTIN PEAY VS. WICHITA STATE (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222362
+#EXTINF:-1 tvg-name="ESPN+ 352 | 07:01PM PORTLAND STATE VS. SAN FRANCISCO (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 352 | 07:01PM PORTLAND STATE VS. SAN FRANCISCO (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222363
+#EXTINF:-1 tvg-name="ESPN+ 353 | 07:01PM MCNEESE VS. SE LOUISIANA (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 353 | 07:01PM MCNEESE VS. SE LOUISIANA (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222364
+#EXTINF:-1 tvg-name="ESPN+ 354 | 07:01PM UT RIO GRANDE VALLEY VS. UT ARLINGTON (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 354 | 07:01PM UT RIO GRANDE VALLEY VS. UT ARLINGTON (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222365
+#EXTINF:-1 tvg-name="ESPN+ 355 | 07:01PM LIPSCOMB VS. WESTERN CAROLINA (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 355 | 07:01PM LIPSCOMB VS. WESTERN CAROLINA (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222366
+#EXTINF:-1 tvg-name="ESPN+ 356 | 07:01PM UAB VS. MEMPHIS (CHAMPIONSHIP) (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 356 | 07:01PM UAB VS. MEMPHIS (CHAMPIONSHIP) (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222367
+#EXTINF:-1 tvg-name="ESPN+ 357 | 07:01PM ILLINOIS VS. THE CITADEL (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 357 | 07:01PM ILLINOIS VS. THE CITADEL (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222368
+#EXTINF:-1 tvg-name="ESPN+ 358 | 07:01PM HARVARD VS. #5 QUINNIPIAC (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 358 | 07:01PM HARVARD VS. #5 QUINNIPIAC (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222369
+#EXTINF:-1 tvg-name="ESPN+ 359 | 07:02PM MASSACHUSETTS VS. BOSTON COLLEGE (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 359 | 07:02PM MASSACHUSETTS VS. BOSTON COLLEGE (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222370
+#EXTINF:-1 tvg-name="ESPN+ 360 | 07:02PM RIDER VS. VILLANOVA (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 360 | 07:02PM RIDER VS. VILLANOVA (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222371
+#EXTINF:-1 tvg-name="ESPN+ 361 | 07:02PM TROY VS. SOUTH ALABAMA (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 361 | 07:02PM TROY VS. SOUTH ALABAMA (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222372
+#EXTINF:-1 tvg-name="ESPN+ 362 | 07:02PM NJIT VS. FAIRFIELD (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 362 | 07:02PM NJIT VS. FAIRFIELD (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222373
+#EXTINF:-1 tvg-name="ESPN+ 363 | 07:02PM #16 CORNELL VS. YALE (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 363 | 07:02PM #16 CORNELL VS. YALE (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222374
+#EXTINF:-1 tvg-name="ESPN+ 364 | 07:02PM LONGWOOD VS. GARDNER_WEBB (CHAMPIONSHIP) (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 364 | 07:02PM LONGWOOD VS. GARDNER_WEBB (CHAMPIONSHIP) (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222375
+#EXTINF:-1 tvg-name="ESPN+ 365 | 07:02PM #10 PROVIDENCE VS. #15 MERRIMACK (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 365 | 07:02PM #10 PROVIDENCE VS. #15 MERRIMACK (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222376
+#EXTINF:-1 tvg-name="ESPN+ 366 | 07:02PM NCAA FOOTBALL: FLA VS. #11 UK • LOU VS. UNC (FLA VS. #11 UK ) (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 366 | 07:02PM NCAA FOOTBALL: FLA VS. #11 UK • LOU VS. UNC (FLA VS. #11 UK ) (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222377
+#EXTINF:-1 tvg-name="ESPN+ 367 | 07:04PM NHL: COL VS. MTL • OTT VS. PIT (COL VS. MTL ) (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 367 | 07:04PM NHL: COL VS. MTL • OTT VS. PIT (COL VS. MTL ) (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222378
+#EXTINF:-1 tvg-name="ESPN+ 368 | 07:04PM NHL: DET VS. TB • OTT VS. PIT (DET VS. TB ) (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 368 | 07:04PM NHL: DET VS. TB • OTT VS. PIT (DET VS. TB ) (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222379
+#EXTINF:-1 tvg-name="ESPN+ 369 | 07:04PM NHL: COL VS. MTL • DET VS. TB • OTT VS. PIT (COL VS. MTL ) (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 369 | 07:04PM NHL: COL VS. MTL • DET VS. TB • OTT VS. PIT (COL VS. MTL ) (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222380
+#EXTINF:-1 tvg-name="ESPN+ 370 | 07:05PM MONTANA STATE VS. NORTHERN COLORADO (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 370 | 07:05PM MONTANA STATE VS. NORTHERN COLORADO (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222381
+#EXTINF:-1 tvg-name="ESPN+ 371 | 07:05PM ESPN ON ABC: COLLEGE FOOTBALL SCOREBOARD (COLLEGE FOOTBALL SCOREBOARD) (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 371 | 07:05PM ESPN ON ABC: COLLEGE FOOTBALL SCOREBOARD (COLLEGE FOOTBALL SCOREBOARD) (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222382
+#EXTINF:-1 tvg-name="ESPN+ 372 | 07:15PM FLORIDA ATLANTIC VS. TULSA (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 372 | 07:15PM FLORIDA ATLANTIC VS. TULSA (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222383
+#EXTINF:-1 tvg-name="ESPN+ 373 | 07:15PM SEC HALFTIME BAND PERFORMANCES AT KENTUCKY (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 373 | 07:15PM SEC HALFTIME BAND PERFORMANCES AT KENTUCKY (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222384
+#EXTINF:-1 tvg-name="ESPN+ 374 | 07:30PM BINGHAMTON VS. DUQUESNE (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 374 | 07:30PM BINGHAMTON VS. DUQUESNE (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222385
+#EXTINF:-1 tvg-name="ESPN+ 375 | 07:30PM BUFFALO SABRES VS. DALLAS STARS (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 375 | 07:30PM BUFFALO SABRES VS. DALLAS STARS (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222386
+#EXTINF:-1 tvg-name="ESPN+ 376 | 07:30PM BUFFALO SABRES VS. DALLAS STARS (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 376 | 07:30PM BUFFALO SABRES VS. DALLAS STARS (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222387
+#EXTINF:-1 tvg-name="ESPN+ 377 | 07:30PM CINCINNATI VS. DAYTON (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 377 | 07:30PM CINCINNATI VS. DAYTON (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222388
+#EXTINF:-1 tvg-name="ESPN+ 378 | 07:30PM IU INDIANAPOLIS VS. MOREHEAD STATE (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 378 | 07:30PM IU INDIANAPOLIS VS. MOREHEAD STATE (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222389
+#EXTINF:-1 tvg-name="ESPN+ 379 | 07:30PM BOWLING GREEN VS. TOLEDO (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 379 | 07:30PM BOWLING GREEN VS. TOLEDO (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222390
+#EXTINF:-1 tvg-name="ESPN+ 380 | 07:30PM NCAA FOOTBALL: UNLV VS. UNM • STAN VS. VT (UNLV VS. UNM ) (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 380 | 07:30PM NCAA FOOTBALL: UNLV VS. UNM • STAN VS. VT (UNLV VS. UNM ) (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222391
+#EXTINF:-1 tvg-name="ESPN+ 381 | 07:31PM CW SPORTS: UNLV VS. NEW MEXICO (UNLV VS. NEW MEXICO) (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 381 | 07:31PM CW SPORTS: UNLV VS. NEW MEXICO (UNLV VS. NEW MEXICO) (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222392
+#EXTINF:-1 tvg-name="ESPN+ 382 | 07:31PM ESPN UNLIMITED: SKYCAST+: #6 TEXAS VS. #21 LSU (SKYCAST+) (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 382 | 07:31PM ESPN UNLIMITED: SKYCAST+: #6 TEXAS VS. #21 LSU (SKYCAST+) (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222393
+#EXTINF:-1 tvg-name="ESPN+ 383 | 07:37PM NCAA FOOTBALL: FLA VS. #11 UK • LOU VS. UNC • #6 TEX VS. #21 LSU (FLA VS. #11 UK ) (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 383 | 07:37PM NCAA FOOTBALL: FLA VS. #11 UK • LOU VS. UNC • #6 TEX VS. #21 LSU (FLA VS. #11 UK ) (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222394
+#EXTINF:-1 tvg-name="ESPN+ 384 | 07:37PM NCAA FOOTBALL: LOU VS. UNC • #6 TEX VS. #21 LSU (LOU VS. UNC ) (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 384 | 07:37PM NCAA FOOTBALL: LOU VS. UNC • #6 TEX VS. #21 LSU (LOU VS. UNC ) (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222395
+#EXTINF:-1 tvg-name="ESPN+ 385 | 07:37PM NCAA FOOTBALL: FLA VS. #11 UK • #6 TEX VS. #21 LSU (FLA VS. #11 UK ) (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 385 | 07:37PM NCAA FOOTBALL: FLA VS. #11 UK • #6 TEX VS. #21 LSU (FLA VS. #11 UK ) (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222396
+#EXTINF:-1 tvg-name="ESPN+ 386 | 07:37PM ESPN ON ABC: #6 TEXAS VS. #21 LSU (#6 TEXAS VS. #21 LSU) (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 386 | 07:37PM ESPN ON ABC: #6 TEXAS VS. #21 LSU (#6 TEXAS VS. #21 LSU) (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222397
+#EXTINF:-1 tvg-name="ESPN+ 387 | 07:45PM NCAA FOOTBALL: #6 TEX VS. #21 LSU • #17 SC VS. ARK (#6 TEX VS. #21 LSU ) (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 387 | 07:45PM NCAA FOOTBALL: #6 TEX VS. #21 LSU • #17 SC VS. ARK (#6 TEX VS. #21 LSU ) (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222398
+#EXTINF:-1 tvg-name="ESPN+ 388 | 07:45PM NCAA FOOTBALL: FLA VS. #11 UK • #6 TEX VS. #21 LSU • #17 SC VS. ARK (FLA VS. #11 UK ) (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 388 | 07:45PM NCAA FOOTBALL: FLA VS. #11 UK • #6 TEX VS. #21 LSU • #17 SC VS. ARK (FLA VS. #11 UK ) (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222399
+#EXTINF:-1 tvg-name="ESPN+ 389 | 07:45PM NCAA FOOTBALL: FLA VS. #11 UK • LOU VS. UNC • #6 TEX VS. #21 LSU • #17 SC VS. ARK (FLA VS. #11 UK ) (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 389 | 07:45PM NCAA FOOTBALL: FLA VS. #11 UK • LOU VS. UNC • #6 TEX VS. #21 LSU • #17 SC VS. ARK (FLA VS. #11 UK ) (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222400
+#EXTINF:-1 tvg-name="ESPN+ 390 | 07:45PM NCAA FOOTBALL: FLA VS. #11 UK • #17 SC VS. ARK (FLA VS. #11 UK ) (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 390 | 07:45PM NCAA FOOTBALL: FLA VS. #11 UK • #17 SC VS. ARK (FLA VS. #11 UK ) (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222401
+#EXTINF:-1 tvg-name="ESPN+ 391 | 07:45PM NCAA FOOTBALL: LOU VS. UNC • #6 TEX VS. #21 LSU • #17 SC VS. ARK (LOU VS. UNC ) (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 391 | 07:45PM NCAA FOOTBALL: LOU VS. UNC • #6 TEX VS. #21 LSU • #17 SC VS. ARK (LOU VS. UNC ) (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222402
+#EXTINF:-1 tvg-name="ESPN+ 392 | 07:45PM NCAA FOOTBALL: FLA VS. #11 UK • LOU VS. UNC • #17 SC VS. ARK (FLA VS. #11 UK ) (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 392 | 07:45PM NCAA FOOTBALL: FLA VS. #11 UK • LOU VS. UNC • #17 SC VS. ARK (FLA VS. #11 UK ) (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222403
+#EXTINF:-1 tvg-name="ESPN+ 393 | 07:45PM NCAA FOOTBALL: LOU VS. UNC • #17 SC VS. ARK (LOU VS. UNC ) (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 393 | 07:45PM NCAA FOOTBALL: LOU VS. UNC • #17 SC VS. ARK (LOU VS. UNC ) (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222404
+#EXTINF:-1 tvg-name="ESPN+ 394 | 07:55PM WELLINGTON PHOENIX VS. SYDNEY FC (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 394 | 07:55PM WELLINGTON PHOENIX VS. SYDNEY FC (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222405
+#EXTINF:-1 tvg-name="ESPN+ 395 | 08:00PM NORTHWESTERN STATE VS. LITTLE ROCK (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 395 | 08:00PM NORTHWESTERN STATE VS. LITTLE ROCK (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222406
+#EXTINF:-1 tvg-name="ESPN+ 396 | 08:00PM CAL STATE BAKERSFIELD VS. UC IRVINE (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 396 | 08:00PM CAL STATE BAKERSFIELD VS. UC IRVINE (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222407
+#EXTINF:-1 tvg-name="ESPN+ 397 | 08:00PM LOUISIANA TECH VS. NICHOLLS (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 397 | 08:00PM LOUISIANA TECH VS. NICHOLLS (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222408
+#EXTINF:-1 tvg-name="ESPN+ 398 | 08:00PM UC DAVIS VS. SACRAMENTO STATE (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 398 | 08:00PM UC DAVIS VS. SACRAMENTO STATE (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222409
+#EXTINF:-1 tvg-name="ESPN+ 399 | 08:00PM #7 BAYLOR VS. #14 BYU (CHAMPIONSHIP) (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 399 | 08:00PM #7 BAYLOR VS. #14 BYU (CHAMPIONSHIP) (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222410
+#EXTINF:-1 tvg-name="ESPN+ 400 | 08:00PM ABILENE CHRISTIAN VS. EASTERN KENTUCKY (CHAMPIONSHIP) (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 400 | 08:00PM ABILENE CHRISTIAN VS. EASTERN KENTUCKY (CHAMPIONSHIP) (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222411
+#EXTINF:-1 tvg-name="ESPN+ 401 | 08:00PM UC DAVIS VS. IDAHO (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 401 | 08:00PM UC DAVIS VS. IDAHO (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222412
+#EXTINF:-1 tvg-name="ESPN+ 402 | 08:00PM LONG BEACH STATE VS. PEPPERDINE (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 402 | 08:00PM LONG BEACH STATE VS. PEPPERDINE (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222413
+#EXTINF:-1 tvg-name="ESPN+ 403 | 08:00PM WEBER STATE VS. PORTLAND STATE (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 403 | 08:00PM WEBER STATE VS. PORTLAND STATE (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222414
+#EXTINF:-1 tvg-name="ESPN+ 404 | 08:00PM CAL STATE NORTHRIDGE VS. UC SAN DIEGO (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 404 | 08:00PM CAL STATE NORTHRIDGE VS. UC SAN DIEGO (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222415
+#EXTINF:-1 tvg-name="ESPN+ 405 | 08:00PM SOUTH ALABAMA VS. OLD DOMINION (CHAMPIONSHIP) (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 405 | 08:00PM SOUTH ALABAMA VS. OLD DOMINION (CHAMPIONSHIP) (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222416
+#EXTINF:-1 tvg-name="ESPN+ 406 | 08:00PM LONG BEACH STATE VS. PORTLAND (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 406 | 08:00PM LONG BEACH STATE VS. PORTLAND (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222417
+#EXTINF:-1 tvg-name="ESPN+ 407 | 08:01PM DILLARD VS. ARKANSAS STATE (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 407 | 08:01PM DILLARD VS. ARKANSAS STATE (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222418
+#EXTINF:-1 tvg-name="ESPN+ 408 | 08:30PM FURMAN VS. BELMONT (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 408 | 08:30PM FURMAN VS. BELMONT (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222419
+#EXTINF:-1 tvg-name="ESPN+ 409 | 08:30PM SAN JOSE SHARKS VS. UTAH MAMMOTH (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 409 | 08:30PM SAN JOSE SHARKS VS. UTAH MAMMOTH (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222420
+#EXTINF:-1 tvg-name="ESPN+ 410 | 08:30PM SEC HALFTIME BAND PERFORMANCES AT LSU (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 410 | 08:30PM SEC HALFTIME BAND PERFORMANCES AT LSU (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222421
+#EXTINF:-1 tvg-name="ESPN+ 411 | 08:30PM SAN JOSE SHARKS VS. UTAH MAMMOTH (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 411 | 08:30PM SAN JOSE SHARKS VS. UTAH MAMMOTH (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222422
+#EXTINF:-1 tvg-name="ESPN+ 412 | 08:30PM NHL: BUF VS. DAL • SJ VS. UTA (BUF VS. DAL ) (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 412 | 08:30PM NHL: BUF VS. DAL • SJ VS. UTA (BUF VS. DAL ) (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222423
+#EXTINF:-1 tvg-name="ESPN+ 413 | 08:45PM SEC NETWORK +: HALFTIME AT ARKANSAS (HALFTIME AT ARKANSAS) (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 413 | 08:45PM SEC NETWORK +: HALFTIME AT ARKANSAS (HALFTIME AT ARKANSAS) (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222424
+#EXTINF:-1 tvg-name="ESPN+ 414 | 09:00PM TAURANGA WHAI VS. TOKOMANAWA QUEENS (ROUND 8) (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 414 | 09:00PM TAURANGA WHAI VS. TOKOMANAWA QUEENS (ROUND 8) (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222425
+#EXTINF:-1 tvg-name="ESPN+ 415 | 09:00PM EASTERN WASHINGTON VS. UTAH TECH (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 415 | 09:00PM EASTERN WASHINGTON VS. UTAH TECH (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222426
+#EXTINF:-1 tvg-name="ESPN+ 416 | 09:00PM MONTANA STATE VS. IDAHO (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 416 | 09:00PM MONTANA STATE VS. IDAHO (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222427
+#EXTINF:-1 tvg-name="ESPN+ 417 | 09:00PM CALIFORNIA BAPTIST VS. LONG BEACH STATE (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 417 | 09:00PM CALIFORNIA BAPTIST VS. LONG BEACH STATE (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222428
+#EXTINF:-1 tvg-name="ESPN+ 418 | 09:30PM CALGARY FLAMES VS. LOS ANGELES KINGS (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 418 | 09:30PM CALGARY FLAMES VS. LOS ANGELES KINGS (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222429
+#EXTINF:-1 tvg-name="ESPN+ 419 | 09:30PM CALGARY FLAMES VS. LOS ANGELES KINGS (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 419 | 09:30PM CALGARY FLAMES VS. LOS ANGELES KINGS (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222430
+#EXTINF:-1 tvg-name="ESPN+ 420 | 09:30PM NCAA FOOTBALL: #12 TTU VS. #25 OKST • #6 TEX VS. #21 LSU • LOU VS. UNC • #17 SC VS. ARK (#12 TTU VS. #25 OKST ) (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 420 | 09:30PM NCAA FOOTBALL: #12 TTU VS. #25 OKST • #6 TEX VS. #21 LSU • LOU VS. UNC • #17 SC VS. ARK (#12 TTU VS. #25 OKST ) (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222431
+#EXTINF:-1 tvg-name="ESPN+ 421 | 09:30PM NCAA FOOTBALL: #12 TTU VS. #25 OKST • #6 TEX VS. #21 LSU (#12 TTU VS. #25 OKST ) (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 421 | 09:30PM NCAA FOOTBALL: #12 TTU VS. #25 OKST • #6 TEX VS. #21 LSU (#12 TTU VS. #25 OKST ) (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222432
+#EXTINF:-1 tvg-name="ESPN+ 422 | 09:30PM NCAA FOOTBALL: #12 TTU VS. #25 OKST • #17 SC VS. ARK (#12 TTU VS. #25 OKST ) (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 422 | 09:30PM NCAA FOOTBALL: #12 TTU VS. #25 OKST • #17 SC VS. ARK (#12 TTU VS. #25 OKST ) (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222433
+#EXTINF:-1 tvg-name="ESPN+ 423 | 09:30PM NCAA FOOTBALL: #12 TTU VS. #25 OKST • LOU VS. UNC (#12 TTU VS. #25 OKST ) (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 423 | 09:30PM NCAA FOOTBALL: #12 TTU VS. #25 OKST • LOU VS. UNC (#12 TTU VS. #25 OKST ) (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222434
+#EXTINF:-1 tvg-name="ESPN+ 424 | 09:30PM NCAA FOOTBALL: #12 TTU VS. #25 OKST • #6 TEX VS. #21 LSU • #17 SC VS. ARK (#12 TTU VS. #25 OKST ) (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 424 | 09:30PM NCAA FOOTBALL: #12 TTU VS. #25 OKST • #6 TEX VS. #21 LSU • #17 SC VS. ARK (#12 TTU VS. #25 OKST ) (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222435
+#EXTINF:-1 tvg-name="ESPN+ 425 | 09:30PM NCAA FOOTBALL: #12 TTU VS. #25 OKST • #6 TEX VS. #21 LSU • LOU VS. UNC (#12 TTU VS. #25 OKST ) (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 425 | 09:30PM NCAA FOOTBALL: #12 TTU VS. #25 OKST • #6 TEX VS. #21 LSU • LOU VS. UNC (#12 TTU VS. #25 OKST ) (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222436
+#EXTINF:-1 tvg-name="ESPN+ 426 | 09:30PM NCAA FOOTBALL: #12 TTU VS. #25 OKST • LOU VS. UNC • #17 SC VS. ARK (#12 TTU VS. #25 OKST ) (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 426 | 09:30PM NCAA FOOTBALL: #12 TTU VS. #25 OKST • LOU VS. UNC • #17 SC VS. ARK (#12 TTU VS. #25 OKST ) (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222437
+#EXTINF:-1 tvg-name="ESPN+ 427 | 10:00PM #19 SAN DIEGO VS. #6 PORTLAND (CHAMPIONSHIP) (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 427 | 10:00PM #19 SAN DIEGO VS. #6 PORTLAND (CHAMPIONSHIP) (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222438
+#EXTINF:-1 tvg-name="ESPN+ 428 | 10:00PM UTAH VALLEY VS. UC SANTA BARBARA (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 428 | 10:00PM UTAH VALLEY VS. UC SANTA BARBARA (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222439
+#EXTINF:-1 tvg-name="ESPN+ 429 | 10:00PM NEW YORK ISLANDERS VS. ANAHEIM DUCKS (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 429 | 10:00PM NEW YORK ISLANDERS VS. ANAHEIM DUCKS (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222440
+#EXTINF:-1 tvg-name="ESPN+ 430 | 10:00PM NEW MEXICO VS. SANTA CLARA (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 430 | 10:00PM NEW MEXICO VS. SANTA CLARA (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222441
+#EXTINF:-1 tvg-name="ESPN+ 431 | 10:00PM NEW YORK ISLANDERS VS. ANAHEIM DUCKS (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 431 | 10:00PM NEW YORK ISLANDERS VS. ANAHEIM DUCKS (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222442
+#EXTINF:-1 tvg-name="ESPN+ 432 | 10:00PM NHL: CGY VS. LA • NYI VS. ANA (CGY VS. LA ) (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 432 | 10:00PM NHL: CGY VS. LA • NYI VS. ANA (CGY VS. LA ) (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222443
+#EXTINF:-1 tvg-name="ESPN+ 433 | 10:00PM ACCNX: GEORGIA TECH VS. #24 STANFORD (GEORGIA TECH VS. #24 STANFORD) (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 433 | 10:00PM ACCNX: GEORGIA TECH VS. #24 STANFORD (GEORGIA TECH VS. #24 STANFORD) (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222444
+#EXTINF:-1 tvg-name="ESPN+ 434 | 10:30PM NCAA FOOTBALL: IDST VS. MONT • #12 TTU VS. #25 OKST (IDST VS. MONT ) (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 434 | 10:30PM NCAA FOOTBALL: IDST VS. MONT • #12 TTU VS. #25 OKST (IDST VS. MONT ) (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222445
+#EXTINF:-1 tvg-name="ESPN+ 435 | 10:55PM CANBERRA UNITED VS. BRISBANE ROAR FC (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 435 | 10:55PM CANBERRA UNITED VS. BRISBANE ROAR FC (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222446
+#EXTINF:-1 tvg-name="ESPN+ 436 | 11:00PM NCAA FOOTBALL: ACC HUDDLE FINAL SCORE • SEC FOOTBALL FINAL (ACC HUDDLE FINAL SCORE ) (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 436 | 11:00PM NCAA FOOTBALL: ACC HUDDLE FINAL SCORE • SEC FOOTBALL FINAL (ACC HUDDLE FINAL SCORE ) (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222447
+#EXTINF:-1 tvg-name="ESPN+ 437 | 11:00PM NCAA FOOTBALL: IDST VS. MONT • NDSU VS. HAW (IDST VS. MONT ) (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 437 | 11:00PM NCAA FOOTBALL: IDST VS. MONT • NDSU VS. HAW (IDST VS. MONT ) (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222448
+#EXTINF:-1 tvg-name="ESPN+ 438 | 11:00PM NCAA FOOTBALL: NDSU VS. HAW • #12 TTU VS. #25 OKST (NDSU VS. HAW ) (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 438 | 11:00PM NCAA FOOTBALL: NDSU VS. HAW • #12 TTU VS. #25 OKST (NDSU VS. HAW ) (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222449
+#EXTINF:-1 tvg-name="ESPN+ 439 | 11:00PM NCAA FOOTBALL: IDST VS. MONT • NDSU VS. HAW • #12 TTU VS. #25 OKST (IDST VS. MONT ) (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 439 | 11:00PM NCAA FOOTBALL: IDST VS. MONT • NDSU VS. HAW • #12 TTU VS. #25 OKST (IDST VS. MONT ) (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222450
+#EXTINF:-1 tvg-name="ESPN+ 440 | 11:00PM CW SPORTS: N DAKOTA ST VS. HAWAI`I (N DAKOTA ST VS. HAWAI`I) (NOV 14)" tvg-logo="" group-title="sports",ESPN+ 440 | 11:00PM CW SPORTS: N DAKOTA ST VS. HAWAI`I (N DAKOTA ST VS. HAWAI`I) (NOV 14)
+http://23.227.132.58:25461/nigel1966/1966nigel/222451
+#EXTINF:-1 tvg-name="EN - NO MATCH" tvg-logo="" group-title="sports",EN - NO MATCH
+http://aguauzua.com:80/Shpiatirane/D13W5HW/682949
+#EXTINF:-1 tvg-name="##### FRANCE EUROSPORT #####" tvg-logo="" group-title="sports",##### FRANCE EUROSPORT #####
+http://aguauzua.com:80/Shpiatirane/D13W5HW/1121056
+#EXTINF:-1 tvg-name="##### BEIN SPORTS ENGLISH FM #####" tvg-logo="" group-title="sports",##### BEIN SPORTS ENGLISH FM #####
+http://aguauzua.com:80/Shpiatirane/D13W5HW/1306290
+#EXTINF:-1 tvg-name="EN - BEIN SPORTS 1 ENGLISH HD" tvg-logo="" group-title="sports",EN - BEIN SPORTS 1 ENGLISH HD
+http://aguauzua.com:80/Shpiatirane/D13W5HW/987005
+#EXTINF:-1 tvg-name="EN - BEIN SPORTS 2 ENGLISH HD" tvg-logo="" group-title="sports",EN - BEIN SPORTS 2 ENGLISH HD
+http://aguauzua.com:80/Shpiatirane/D13W5HW/987006
+#EXTINF:-1 tvg-name="##### BEIN SPORTS ENGLISH 8K #####" tvg-logo="" group-title="sports",##### BEIN SPORTS ENGLISH 8K #####
+http://aguauzua.com:80/Shpiatirane/D13W5HW/1306295
+#EXTINF:-1 tvg-name="AR - BEIN SPORTS ENGLISH 1 HD" tvg-logo="" group-title="sports",AR - BEIN SPORTS ENGLISH 1 HD
+http://aguauzua.com:80/Shpiatirane/D13W5HW/552082
+#EXTINF:-1 tvg-name="AR - BEIN SPORTS ENGLISH 2 HD" tvg-logo="" group-title="sports",AR - BEIN SPORTS ENGLISH 2 HD
+http://aguauzua.com:80/Shpiatirane/D13W5HW/552083
+#EXTINF:-1 tvg-name="##### UK - SKY SPORTS PREMIER LEAGUE #####" tvg-logo="" group-title="sports",##### UK - SKY SPORTS PREMIER LEAGUE #####
+http://aguauzua.com:80/Shpiatirane/D13W5HW/1356564
+#EXTINF:-1 tvg-name="UK - SKY SPORTS PREMIER LEAGUE SD" tvg-logo="" group-title="sports",UK - SKY SPORTS PREMIER LEAGUE SD
+http://aguauzua.com:80/Shpiatirane/D13W5HW/17285
+#EXTINF:-1 tvg-name="##### UK - SKY SPORTS F1 #####" tvg-logo="" group-title="sports",##### UK - SKY SPORTS F1 #####
+http://aguauzua.com:80/Shpiatirane/D13W5HW/1356568
+#EXTINF:-1 tvg-name="UK - SKY SPORTS F1 SD" tvg-logo="" group-title="sports",UK - SKY SPORTS F1 SD
+http://aguauzua.com:80/Shpiatirane/D13W5HW/980431
+#EXTINF:-1 tvg-name="##### UK - SKY SPORTS NEWS #####" tvg-logo="" group-title="sports",##### UK - SKY SPORTS NEWS #####
+http://aguauzua.com:80/Shpiatirane/D13W5HW/325432
+#EXTINF:-1 tvg-name="UK - SKY SPORTS NEWS SD" tvg-logo="" group-title="sports",UK - SKY SPORTS NEWS SD
+http://aguauzua.com:80/Shpiatirane/D13W5HW/980429
+#EXTINF:-1 tvg-name="UK - SKY SPORTS NEWS HEVC2" tvg-logo="" group-title="sports",UK - SKY SPORTS NEWS HEVC2
+http://aguauzua.com:80/Shpiatirane/D13W5HW/980403
+#EXTINF:-1 tvg-name="UK - SKY SPORTS NEWS HD2" tvg-logo="" group-title="sports",UK - SKY SPORTS NEWS HD2
+http://aguauzua.com:80/Shpiatirane/D13W5HW/17283
+#EXTINF:-1 tvg-name="##### UK - SKY SPORTS MAIN EVENT #####" tvg-logo="" group-title="sports",##### UK - SKY SPORTS MAIN EVENT #####
+http://aguauzua.com:80/Shpiatirane/D13W5HW/1356565
+#EXTINF:-1 tvg-name="UK - SKY SPORTS MAIN EVENT SD" tvg-logo="" group-title="sports",UK - SKY SPORTS MAIN EVENT SD
+http://aguauzua.com:80/Shpiatirane/D13W5HW/17286
+#EXTINF:-1 tvg-name="##### UK - SKY SPORTS FOOTBALL #####" tvg-logo="" group-title="sports",##### UK - SKY SPORTS FOOTBALL #####
+http://aguauzua.com:80/Shpiatirane/D13W5HW/1356566
+#EXTINF:-1 tvg-name="UK - SKY SPORTS FOOTBALL SD" tvg-logo="" group-title="sports",UK - SKY SPORTS FOOTBALL SD
+http://aguauzua.com:80/Shpiatirane/D13W5HW/17288
+#EXTINF:-1 tvg-name="UK - SKY SPORTS FOOTBALL HD2" tvg-logo="" group-title="sports",UK - SKY SPORTS FOOTBALL HD2
+http://aguauzua.com:80/Shpiatirane/D13W5HW/365035
+#EXTINF:-1 tvg-name="##### UK - SKY SPORTS TENNIS #####" tvg-logo="" group-title="sports",##### UK - SKY SPORTS TENNIS #####
+http://aguauzua.com:80/Shpiatirane/D13W5HW/1356567
+#EXTINF:-1 tvg-name="UK - SKY SPORTS TENNIS HD" tvg-logo="" group-title="sports",UK - SKY SPORTS TENNIS HD
+http://aguauzua.com:80/Shpiatirane/D13W5HW/664452
+#EXTINF:-1 tvg-name="##### UK - SKY SPORTS RACING #####" tvg-logo="" group-title="sports",##### UK - SKY SPORTS RACING #####
+http://aguauzua.com:80/Shpiatirane/D13W5HW/1356569
+#EXTINF:-1 tvg-name="UK - SKY SPORTS RACING SD" tvg-logo="" group-title="sports",UK - SKY SPORTS RACING SD
+http://aguauzua.com:80/Shpiatirane/D13W5HW/980434
+#EXTINF:-1 tvg-name="##### UK - SKY SPORTS CRICKET #####" tvg-logo="" group-title="sports",##### UK - SKY SPORTS CRICKET #####
+http://aguauzua.com:80/Shpiatirane/D13W5HW/1356570
+#EXTINF:-1 tvg-name="UK - SKY SPORTS CRICKET SD" tvg-logo="" group-title="sports",UK - SKY SPORTS CRICKET SD
+http://aguauzua.com:80/Shpiatirane/D13W5HW/17290
+#EXTINF:-1 tvg-name="##### UK - SKY SPORTS GOLF #####" tvg-logo="" group-title="sports",##### UK - SKY SPORTS GOLF #####
+http://aguauzua.com:80/Shpiatirane/D13W5HW/1356571
+#EXTINF:-1 tvg-name="UK - SKY SPORTS GOLF SD" tvg-logo="" group-title="sports",UK - SKY SPORTS GOLF SD
+http://aguauzua.com:80/Shpiatirane/D13W5HW/17287
+#EXTINF:-1 tvg-name="##### UK - SKY SPORTS ARENA #####" tvg-logo="" group-title="sports",##### UK - SKY SPORTS ARENA #####
+http://aguauzua.com:80/Shpiatirane/D13W5HW/1356573
+#EXTINF:-1 tvg-name="UK - SKY SPORTS ARENA SD" tvg-logo="" group-title="sports",UK - SKY SPORTS ARENA SD
+http://aguauzua.com:80/Shpiatirane/D13W5HW/17291
+#EXTINF:-1 tvg-name="##### UK - SKY SPORTS MIX #####" tvg-logo="" group-title="sports",##### UK - SKY SPORTS MIX #####
+http://aguauzua.com:80/Shpiatirane/D13W5HW/1356574
+#EXTINF:-1 tvg-name="UK - SKY SPORTS MIX SD" tvg-logo="" group-title="sports",UK - SKY SPORTS MIX SD
+http://aguauzua.com:80/Shpiatirane/D13W5HW/17284
+#EXTINF:-1 tvg-name="##### UK - SKY SPORTS ACTION #####" tvg-logo="" group-title="sports",##### UK - SKY SPORTS ACTION #####
+http://aguauzua.com:80/Shpiatirane/D13W5HW/1356563
+#EXTINF:-1 tvg-name="UK - SKY SPORTS ACTION SD" tvg-logo="" group-title="sports",UK - SKY SPORTS ACTION SD
+http://aguauzua.com:80/Shpiatirane/D13W5HW/980410
+#EXTINF:-1 tvg-name="##### UK - PREMIER SPORTS #####" tvg-logo="" group-title="sports",##### UK - PREMIER SPORTS #####
+http://aguauzua.com:80/Shpiatirane/D13W5HW/362586
+#EXTINF:-1 tvg-name="UK - PREMIER SPORTS 1 HD" tvg-logo="" group-title="sports",UK - PREMIER SPORTS 1 HD
+http://aguauzua.com:80/Shpiatirane/D13W5HW/17271
+#EXTINF:-1 tvg-name="UK - PREMIER SPORTS 1 FHD [BK]" tvg-logo="" group-title="sports",UK - PREMIER SPORTS 1 FHD [BK]
+http://aguauzua.com:80/Shpiatirane/D13W5HW/362593
+#EXTINF:-1 tvg-name="UK - PREMIER SPORTS 2 SD" tvg-logo="" group-title="sports",UK - PREMIER SPORTS 2 SD
+http://aguauzua.com:80/Shpiatirane/D13W5HW/362595
+#EXTINF:-1 tvg-name="UK - PREMIER SPORTS 2 FHD [BK]" tvg-logo="" group-title="sports",UK - PREMIER SPORTS 2 FHD [BK]
+http://aguauzua.com:80/Shpiatirane/D13W5HW/362597
+#EXTINF:-1 tvg-name="##### UK - SUPERSPORT #####" tvg-logo="" group-title="sports",##### UK - SUPERSPORT #####
+http://aguauzua.com:80/Shpiatirane/D13W5HW/1276876
+#EXTINF:-1 tvg-name="UK - SUPERSPORT PREMIER LEAGUE HD" tvg-logo="" group-title="sports",UK - SUPERSPORT PREMIER LEAGUE HD
+http://aguauzua.com:80/Shpiatirane/D13W5HW/348284
+#EXTINF:-1 tvg-name="UK - SUPERSPORT LA LIGA HD" tvg-logo="" group-title="sports",UK - SUPERSPORT LA LIGA HD
+http://aguauzua.com:80/Shpiatirane/D13W5HW/348283
+#EXTINF:-1 tvg-name="UK - SUPERSPORT GOLF HD" tvg-logo="" group-title="sports",UK - SUPERSPORT GOLF HD
+http://aguauzua.com:80/Shpiatirane/D13W5HW/348281
+#EXTINF:-1 tvg-name="UK - SUPERSPORT TENNIS HD" tvg-logo="" group-title="sports",UK - SUPERSPORT TENNIS HD
+http://aguauzua.com:80/Shpiatirane/D13W5HW/348291
+#EXTINF:-1 tvg-name="UK - SUPERSPORT RUGBY HD" tvg-logo="" group-title="sports",UK - SUPERSPORT RUGBY HD
+http://aguauzua.com:80/Shpiatirane/D13W5HW/348290
+#EXTINF:-1 tvg-name="UK - SUPERSPORT CRICKET HD" tvg-logo="" group-title="sports",UK - SUPERSPORT CRICKET HD
+http://aguauzua.com:80/Shpiatirane/D13W5HW/348289
+#EXTINF:-1 tvg-name="UK - SUPERSPORT MOTOSPORT HD" tvg-logo="" group-title="sports",UK - SUPERSPORT MOTOSPORT HD
+http://aguauzua.com:80/Shpiatirane/D13W5HW/348293
+#EXTINF:-1 tvg-name="UK - SUPERSPORT BLITZ HD" tvg-logo="" group-title="sports",UK - SUPERSPORT BLITZ HD
+http://aguauzua.com:80/Shpiatirane/D13W5HW/348282
+#EXTINF:-1 tvg-name="UK - SUPERSPORT FOOTBALL HD" tvg-logo="" group-title="sports",UK - SUPERSPORT FOOTBALL HD
+http://aguauzua.com:80/Shpiatirane/D13W5HW/348285
+#EXTINF:-1 tvg-name="UK - SUPERSPORT VARIETY 1 HD" tvg-logo="" group-title="sports",UK - SUPERSPORT VARIETY 1 HD
+http://aguauzua.com:80/Shpiatirane/D13W5HW/348292
+#EXTINF:-1 tvg-name="UK - SUPERSPORT VARIETY 2 HD" tvg-logo="" group-title="sports",UK - SUPERSPORT VARIETY 2 HD
+http://aguauzua.com:80/Shpiatirane/D13W5HW/348288
+#EXTINF:-1 tvg-name="UK - SUPERSPORT VARIETY 3 HD" tvg-logo="" group-title="sports",UK - SUPERSPORT VARIETY 3 HD
+http://aguauzua.com:80/Shpiatirane/D13W5HW/348287
+#EXTINF:-1 tvg-name="UK - SUPERSPORT VARIETY 4 HD" tvg-logo="" group-title="sports",UK - SUPERSPORT VARIETY 4 HD
+http://aguauzua.com:80/Shpiatirane/D13W5HW/348286
+#EXTINF:-1 tvg-name="##### UK - SPORTS #####" tvg-logo="" group-title="sports",##### UK - SPORTS #####
+http://aguauzua.com:80/Shpiatirane/D13W5HW/325434
+#EXTINF:-1 tvg-name="UK - PREMIER SPORTS RUGBY SD" tvg-logo="" group-title="sports",UK - PREMIER SPORTS RUGBY SD
+http://aguauzua.com:80/Shpiatirane/D13W5HW/1481891
