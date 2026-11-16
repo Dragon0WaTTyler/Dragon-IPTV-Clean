@@ -1,40 +1,336 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="Eurosport 1" tvg-logo="" group-title="sports",Eurosport 1
+http://caffe.link:25461/200Zrinko/UB9quKy8uSvy/1508
+#EXTINF:-1 tvg-name="UK| TNT SPORT ESPN HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/bt-sport-espn-hz-uk.png" group-title="sports",UK| TNT SPORT ESPN HD
+http://globaltv.org.uk:8080/iptv.kosiptv.comNEW/gJUP3KsM2ENEW/9883
+#EXTINF:-1 tvg-name="UK : TNT Sport 2" tvg-logo="" group-title="sports",UK : TNT Sport 2
+http://aguauzua.com:80/Shpiatirane/D13W5HW/846013
+#EXTINF:-1 tvg-name="UK| TNT SPORT 1 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/bt-sport-1-uk.png" group-title="sports",UK| TNT SPORT 1 HD
+http://aguauzua.com:80/Shpiatirane/D13W5HW/846012
+#EXTINF:-1 tvg-name="UK: Sky Sports Mix" tvg-logo="" group-title="sports",UK: Sky Sports Mix
+http://aguauzua.com:80/Shpiatirane/D13W5HW/17284
+#EXTINF:-1 tvg-name="UK-Sky Sports Arena" tvg-logo="" group-title="sports",UK-Sky Sports Arena
+http://tvmate.icu:8080/34164995/34164995/35238
+#EXTINF:-1 tvg-name="UK-Sky Sports Action" tvg-logo="" group-title="sports",UK-Sky Sports Action
+http://tvmate.icu:8080/34164995/34164995/53705
+#EXTINF:-1 tvg-name="GB : SKY SPORTS CRICKET" tvg-logo="" group-title="sports",GB : SKY SPORTS CRICKET
+http://aguauzua.com:80/Shpiatirane/D13W5HW/17290
+#EXTINF:-1 tvg-name="UK-Sky Sports News" tvg-logo="" group-title="sports",UK-Sky Sports News
+http://tvmate.icu:8080/34164995/34164995/35241
+#EXTINF:-1 tvg-name="|UK| UK SPORT |UK|" tvg-logo="" group-title="sports",|UK| UK SPORT |UK|
+http://globaltv.org.uk:8080/iptv.kosiptv.comNEW/gJUP3KsM2ENEW/4219
+#EXTINF:-1 tvg-name="UK: Sky Sports F1" tvg-logo="" group-title="sports",UK: Sky Sports F1
+http://aguauzua.com:80/Shpiatirane/D13W5HW/980431
+#EXTINF:-1 tvg-name="UK| SKY SPORTS 5 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-sports-hz-uk.png" group-title="sports",UK| SKY SPORTS 5 HD
+http://aguauzua.com:80/Shpiatirane/D13W5HW/974993
+#EXTINF:-1 tvg-name="EN - BEIN SPORTS 1 ENGLISH HD" tvg-logo="" group-title="sports",EN - BEIN SPORTS 1 ENGLISH HD
+http://aguauzua.com:80/Shpiatirane/D13W5HW/987005
+#EXTINF:-1 tvg-name="UK : TNT Sport 3" tvg-logo="" group-title="sports",UK : TNT Sport 3
+http://aguauzua.com:80/Shpiatirane/D13W5HW/846014
+#EXTINF:-1 tvg-name="UK| TNT SPORT EXTRA 1 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/bt-sport-1-uk.png" group-title="sports",UK| TNT SPORT EXTRA 1 HD
+http://globaltv.org.uk:8080/iptv.kosiptv.comNEW/gJUP3KsM2ENEW/4225
+#EXTINF:-1 tvg-name="UK| TNT SPORT EXTRA 2 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/bt-sport-2-uk.png" group-title="sports",UK| TNT SPORT EXTRA 2 HD
+http://globaltv.org.uk:8080/iptv.kosiptv.comNEW/gJUP3KsM2ENEW/4224
+#EXTINF:-1 tvg-name="UK| TNT SPORT EXTRA 3 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/bt-sport-3-uk.png" group-title="sports",UK| TNT SPORT EXTRA 3 HD
+http://globaltv.org.uk:8080/iptv.kosiptv.comNEW/gJUP3KsM2ENEW/4223
+#EXTINF:-1 tvg-name="UK| TNT SPORT EXTRA 4 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/bt-sport-4-uk.png" group-title="sports",UK| TNT SPORT EXTRA 4 HD
+http://globaltv.org.uk:8080/iptv.kosiptv.comNEW/gJUP3KsM2ENEW/4222
+#EXTINF:-1 tvg-name="UK| EIR SPORT 1 HD" tvg-logo="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBxAQERISEBMVFRUVFRgTFRgWFhUVEBUXFxYWFhUVFhcYHSgjGRslGxcWIjEiJykrLjoxFx8zODMtNygtLisBCgoKDg0OGxAQGy0mICUtLy0uLy0uLS0wLS0tLy0tLS8tLy0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLf/AABEIAMgA/AMBEQACEQEDEQH/xAAbAAEAAgMBAQAAAAAAAAAAAAAABgcDBAUCAf/EAEIQAAEDAgMEBgYIBAYDAQAAAAEAAgMEEQYSIQUxQVEHYXGBkaETFCJCUrEjMjNicoKSwaKywvA0Q2Nz0dIkU4MW/8QAGgEBAAIDAQAAAAAAAAAAAAAAAAQFAgMGAf/EADERAQACAQIEAwcEAgMBAAAAAAABAgMEEQUSITETQVEiMmFxgZGhFDNCscHRFSNS8f/aAAwDAQACE" group-title="sports",UK| EIR SPORT 1 HD
+http://neorcqds.top:8080/73178655033646/buivnsppffxq/29681
+#EXTINF:-1 tvg-name="UK| EIR SPORT 2 HD" tvg-logo="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBxAQERISEBMVFRUVFRgTFRgWFhUVEBUXFxYWFhUVFhcYHSgjGRslGxcWIjEiJykrLjoxFx8zODMtNygtLisBCgoKDg0OGxAQGy0mICUtLy0uLy0uLS0wLS0tLy0tLS8tLy0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLf/AABEIAMgA/AMBEQACEQEDEQH/xAAbAAEAAgMBAQAAAAAAAAAAAAAABgcDBAUCAf/EAEIQAAEDAgMEBgYIBAYDAQAAAAEAAgMEEQYSIQUxQVEHYXGBkaETFCJCUrEjMjNicoKSwaKywvA0Q2Nz0dIkU4MW/8QAGgEBAAIDAQAAAAAAAAAAAAAAAAQFAgMGAf/EADERAQACAQIEAwcEAgMBAAAAAAABAgMEEQUSITETQVEiMmFxgZGhFDNCscHRFSNS8f/aAAwDAQACE" group-title="sports",UK| EIR SPORT 2 HD
+http://neorcqds.top:8080/73178655033646/buivnsppffxq/29680
+#EXTINF:-1 tvg-name="Eurosport 2" tvg-logo="https://tvprofil.com/img/kanali-logo/Eurosport_2_2015_logo.png" group-title="sports",Eurosport 2
+http://caffe.link:25461/200Zrinko/UB9quKy8uSvy/1507
+#EXTINF:-1 tvg-name="UK| PREMIER SPORTS HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/premier-sports-1-uk.png" group-title="sports",UK| PREMIER SPORTS HD
+http://globaltv.org.uk:8080/iptv.kosiptv.comNEW/gJUP3KsM2ENEW/4182
+#EXTINF:-1 tvg-name="UK: SKY SPORTS RACING" tvg-logo="" group-title="sports",UK: SKY SPORTS RACING
+http://aguauzua.com:80/Shpiatirane/D13W5HW/980434
+#EXTINF:-1 tvg-name="UK: SKY SPORTS FOOTBALL" tvg-logo="" group-title="sports",UK: SKY SPORTS FOOTBALL
+http://aguauzua.com:80/Shpiatirane/D13W5HW/17288
+#EXTINF:-1 tvg-name="UK: Sky Sports Golf" tvg-logo="" group-title="sports",UK: Sky Sports Golf
+http://aguauzua.com:80/Shpiatirane/D13W5HW/17287
+#EXTINF:-1 tvg-name="UK-Sky Sports Main Event" tvg-logo="" group-title="sports",UK-Sky Sports Main Event
+http://tvmate.icu:8080/34164995/34164995/35243
+#EXTINF:-1 tvg-name="UK: Sky Sports Premier League" tvg-logo="" group-title="sports",UK: Sky Sports Premier League
+http://aguauzua.com:80/Shpiatirane/D13W5HW/17285
+#EXTINF:-1 tvg-name="UK| FREE SPORTS HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/free-sports-uk.png" group-title="sports",UK| FREE SPORTS HD
+http://neorcqds.top:8080/73178655033646/buivnsppffxq/29927
+#EXTINF:-1 tvg-name="UK| USA|FOX SPORTS 1 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fox-sports-us.png" group-title="sports",UK| USA|FOX SPORTS 1 HD
+http://globaltv.org.uk:8080/iptv.kosiptv.comNEW/gJUP3KsM2ENEW/4159
+#EXTINF:-1 tvg-name="UK| USA|FOX SPORTS 2 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fox-sports-us.png" group-title="sports",UK| USA|FOX SPORTS 2 HD
+http://globaltv.org.uk:8080/iptv.kosiptv.comNEW/gJUP3KsM2ENEW/4157
+#EXTINF:-1 tvg-name="UK| USA|SPORTSNET WORLD HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/spectrum-sportsnet-us.png" group-title="sports",UK| USA|SPORTSNET WORLD HD
+http://globaltv.org.uk:8080/iptv.kosiptv.comNEW/gJUP3KsM2ENEW/4153
+#EXTINF:-1 tvg-name="USA| ESPN 1 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/espn-plus-us.png" group-title="sports",USA| ESPN 1 HD
+http://globaltv.org.uk:8080/iptv.kosiptv.comNEW/gJUP3KsM2ENEW/5398
+#EXTINF:-1 tvg-name="ESPN 2" tvg-logo="" group-title="sports",ESPN 2
+http://23.227.132.58:25461/scott/101924/171819
+#EXTINF:-1 tvg-name="ESPN 3" tvg-logo="" group-title="sports",ESPN 3
+http://23.227.132.58:25461/scott/101924/117359
+#EXTINF:-1 tvg-name="ESPN Deportes" tvg-logo="" group-title="sports",ESPN Deportes
+http://tvmate.icu:8080/34164995/34164995/328470
+#EXTINF:-1 tvg-name="US: ESPN U" tvg-logo="" group-title="sports",US: ESPN U
+http://23.227.132.58:25461/scott/101924/115380
+#EXTINF:-1 tvg-name="UK| TENNIS CHANNEL HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-sports-tennis-hz-uk.png" group-title="sports",UK| TENNIS CHANNEL HD
+http://hostengine.live/live/john/franklin/249142.m3u
 #EXTINF:-1 tvg-name="EUROSPORT" tvg-logo="https://layout.eurosport.com/i/v8_5/logo/epg/e1_new.png" group-title="sports",EUROSPORT
-http://client.nodomain.vip:80/c0:48:e6:1a:ca:49/VQz47wkcjl6prZh2MG65/128
-#EXTINF:-1 tvg-name="EUROSPORT 2" tvg-logo="https://layout.eurosport.com/i/v8_5/logo/epg/e2_new.png" group-title="sports",EUROSPORT 2
-http://client.nodomain.vip:80/c0:48:e6:1a:ca:49/VQz47wkcjl6prZh2MG65/129
-#EXTINF:-1 tvg-name="EUROSPORT 1 DE" tvg-logo="https://sport-tv-guide.live/images/tv-station-de-eurosport-1-150.png" group-title="sports",EUROSPORT 1 DE
-http://client.nodomain.vip:80/c0:48:e6:1a:ca:49/VQz47wkcjl6prZh2MG65/1686
-#EXTINF:-1 tvg-name="EUROSPORT 2 DE" tvg-logo="https://sport-tv-guide.live/images/tv-station-de-eurosport-2-151.png" group-title="sports",EUROSPORT 2 DE
-http://client.nodomain.vip:80/c0:48:e6:1a:ca:49/VQz47wkcjl6prZh2MG65/1687
+http://client.nodomain.vip:80/sadetaa/aiMWZsQYsT/128
+#EXTINF:-1 tvg-name="Eurosport 1 DE" tvg-logo="https://tvprofil.com/img/kanali-logo/Eurosport_2015_logo.png" group-title="sports",Eurosport 1 DE
+http://caffe.link:25461/200Zrinko/UB9quKy8uSvy/1506
+#EXTINF:-1 tvg-name="Eurosport 2 DE" tvg-logo="" group-title="sports",Eurosport 2 DE
+http://caffe.link:25461/200Zrinko/UB9quKy8uSvy/5822
 #EXTINF:-1 tvg-name="ESPN US" tvg-logo="https://sport-tv-guide.live/images/tv-station-us-espn-29.png" group-title="sports",ESPN US
-http://client.nodomain.vip:80/c0:48:e6:1a:ca:49/VQz47wkcjl6prZh2MG65/1703
+http://client.nodomain.vip:80/sadetaa/aiMWZsQYsT/1703
 #EXTINF:-1 tvg-name="ESPN SPORTS 1 NL" tvg-logo="" group-title="sports",ESPN SPORTS 1 NL
-http://client.nodomain.vip:80/c0:48:e6:1a:ca:49/VQz47wkcjl6prZh2MG65/1721
+http://client.nodomain.vip:80/sadetaa/aiMWZsQYsT/1721
 #EXTINF:-1 tvg-name="ESPN SPORTS 2 NL" tvg-logo="" group-title="sports",ESPN SPORTS 2 NL
-http://client.nodomain.vip:80/c0:48:e6:1a:ca:49/VQz47wkcjl6prZh2MG65/1722
+http://client.nodomain.vip:80/sadetaa/aiMWZsQYsT/1722
 #EXTINF:-1 tvg-name="ESPN SPORTS 3 NL" tvg-logo="" group-title="sports",ESPN SPORTS 3 NL
-http://client.nodomain.vip:80/c0:48:e6:1a:ca:49/VQz47wkcjl6prZh2MG65/1723
+http://client.nodomain.vip:80/sadetaa/aiMWZsQYsT/1723
 #EXTINF:-1 tvg-name="ESPN SPORTS 4 NL" tvg-logo="" group-title="sports",ESPN SPORTS 4 NL
-http://client.nodomain.vip:80/c0:48:e6:1a:ca:49/VQz47wkcjl6prZh2MG65/1724
+http://client.nodomain.vip:80/sadetaa/aiMWZsQYsT/1724
+#EXTINF:-1 tvg-name="EN - NO MATCH" tvg-logo="" group-title="sports",EN - NO MATCH
+http://aguauzua.com:80/Shpiatirane/D13W5HW/682949
+#EXTINF:-1 tvg-name="##### FRANCE EUROSPORT #####" tvg-logo="" group-title="sports",##### FRANCE EUROSPORT #####
+http://aguauzua.com:80/Shpiatirane/D13W5HW/1121056
+#EXTINF:-1 tvg-name="##### BEIN SPORTS ENGLISH FM #####" tvg-logo="" group-title="sports",##### BEIN SPORTS ENGLISH FM #####
+http://aguauzua.com:80/Shpiatirane/D13W5HW/1306290
+#EXTINF:-1 tvg-name="EN - BEIN SPORTS 2 ENGLISH HD" tvg-logo="" group-title="sports",EN - BEIN SPORTS 2 ENGLISH HD
+http://aguauzua.com:80/Shpiatirane/D13W5HW/987006
+#EXTINF:-1 tvg-name="##### BEIN SPORTS ENGLISH 8K #####" tvg-logo="" group-title="sports",##### BEIN SPORTS ENGLISH 8K #####
+http://aguauzua.com:80/Shpiatirane/D13W5HW/1306295
+#EXTINF:-1 tvg-name="AR - BEIN SPORTS ENGLISH 1 HD" tvg-logo="" group-title="sports",AR - BEIN SPORTS ENGLISH 1 HD
+http://aguauzua.com:80/Shpiatirane/D13W5HW/552082
+#EXTINF:-1 tvg-name="AR - BEIN SPORTS ENGLISH 2 HD" tvg-logo="" group-title="sports",AR - BEIN SPORTS ENGLISH 2 HD
+http://aguauzua.com:80/Shpiatirane/D13W5HW/552083
+#EXTINF:-1 tvg-name="##### UK - SKY SPORTS PREMIER LEAGUE #####" tvg-logo="" group-title="sports",##### UK - SKY SPORTS PREMIER LEAGUE #####
+http://aguauzua.com:80/Shpiatirane/D13W5HW/1356564
+#EXTINF:-1 tvg-name="##### UK - SKY SPORTS F1 #####" tvg-logo="" group-title="sports",##### UK - SKY SPORTS F1 #####
+http://aguauzua.com:80/Shpiatirane/D13W5HW/1356568
+#EXTINF:-1 tvg-name="##### UK - SKY SPORTS NEWS #####" tvg-logo="" group-title="sports",##### UK - SKY SPORTS NEWS #####
+http://aguauzua.com:80/Shpiatirane/D13W5HW/325432
+#EXTINF:-1 tvg-name="UK - SKY SPORTS NEWS HEVC2" tvg-logo="" group-title="sports",UK - SKY SPORTS NEWS HEVC2
+http://aguauzua.com:80/Shpiatirane/D13W5HW/980403
+#EXTINF:-1 tvg-name="UK - SKY SPORTS NEWS HD2" tvg-logo="" group-title="sports",UK - SKY SPORTS NEWS HD2
+http://aguauzua.com:80/Shpiatirane/D13W5HW/17283
+#EXTINF:-1 tvg-name="##### UK - SKY SPORTS MAIN EVENT #####" tvg-logo="" group-title="sports",##### UK - SKY SPORTS MAIN EVENT #####
+http://aguauzua.com:80/Shpiatirane/D13W5HW/1356565
+#EXTINF:-1 tvg-name="##### UK - SKY SPORTS FOOTBALL #####" tvg-logo="" group-title="sports",##### UK - SKY SPORTS FOOTBALL #####
+http://aguauzua.com:80/Shpiatirane/D13W5HW/1356566
+#EXTINF:-1 tvg-name="UK - SKY SPORTS FOOTBALL HD2" tvg-logo="" group-title="sports",UK - SKY SPORTS FOOTBALL HD2
+http://aguauzua.com:80/Shpiatirane/D13W5HW/365035
+#EXTINF:-1 tvg-name="##### UK - SKY SPORTS TENNIS #####" tvg-logo="" group-title="sports",##### UK - SKY SPORTS TENNIS #####
+http://aguauzua.com:80/Shpiatirane/D13W5HW/1356567
+#EXTINF:-1 tvg-name="GB : SKY SPORTS TENNIS" tvg-logo="" group-title="sports",GB : SKY SPORTS TENNIS
+http://aguauzua.com:80/Shpiatirane/D13W5HW/664452
+#EXTINF:-1 tvg-name="##### UK - SKY SPORTS RACING #####" tvg-logo="" group-title="sports",##### UK - SKY SPORTS RACING #####
+http://aguauzua.com:80/Shpiatirane/D13W5HW/1356569
+#EXTINF:-1 tvg-name="##### UK - SKY SPORTS CRICKET #####" tvg-logo="" group-title="sports",##### UK - SKY SPORTS CRICKET #####
+http://aguauzua.com:80/Shpiatirane/D13W5HW/1356570
+#EXTINF:-1 tvg-name="##### UK - SKY SPORTS GOLF #####" tvg-logo="" group-title="sports",##### UK - SKY SPORTS GOLF #####
+http://aguauzua.com:80/Shpiatirane/D13W5HW/1356571
+#EXTINF:-1 tvg-name="##### UK - SKY SPORTS ARENA #####" tvg-logo="" group-title="sports",##### UK - SKY SPORTS ARENA #####
+http://aguauzua.com:80/Shpiatirane/D13W5HW/1356573
+#EXTINF:-1 tvg-name="##### UK - SKY SPORTS MIX #####" tvg-logo="" group-title="sports",##### UK - SKY SPORTS MIX #####
+http://aguauzua.com:80/Shpiatirane/D13W5HW/1356574
+#EXTINF:-1 tvg-name="##### UK - SKY SPORTS ACTION #####" tvg-logo="" group-title="sports",##### UK - SKY SPORTS ACTION #####
+http://aguauzua.com:80/Shpiatirane/D13W5HW/1356563
+#EXTINF:-1 tvg-name="##### UK - PREMIER SPORTS #####" tvg-logo="" group-title="sports",##### UK - PREMIER SPORTS #####
+http://aguauzua.com:80/Shpiatirane/D13W5HW/362586
+#EXTINF:-1 tvg-name="UK: Premier Sports 1" tvg-logo="" group-title="sports",UK: Premier Sports 1
+http://aguauzua.com:80/Shpiatirane/D13W5HW/17271
+#EXTINF:-1 tvg-name="UK - PREMIER SPORTS 1 FHD [BK]" tvg-logo="" group-title="sports",UK - PREMIER SPORTS 1 FHD [BK]
+http://aguauzua.com:80/Shpiatirane/D13W5HW/362593
+#EXTINF:-1 tvg-name="UK: Premier Sports 2" tvg-logo="" group-title="sports",UK: Premier Sports 2
+http://aguauzua.com:80/Shpiatirane/D13W5HW/362595
+#EXTINF:-1 tvg-name="UK - PREMIER SPORTS 2 FHD [BK]" tvg-logo="" group-title="sports",UK - PREMIER SPORTS 2 FHD [BK]
+http://aguauzua.com:80/Shpiatirane/D13W5HW/362597
+#EXTINF:-1 tvg-name="##### UK - SUPERSPORT #####" tvg-logo="" group-title="sports",##### UK - SUPERSPORT #####
+http://aguauzua.com:80/Shpiatirane/D13W5HW/1276876
+#EXTINF:-1 tvg-name="UK - SUPERSPORT PREMIER LEAGUE HD" tvg-logo="" group-title="sports",UK - SUPERSPORT PREMIER LEAGUE HD
+http://aguauzua.com:80/Shpiatirane/D13W5HW/348284
+#EXTINF:-1 tvg-name="UK - SUPERSPORT LA LIGA HD" tvg-logo="" group-title="sports",UK - SUPERSPORT LA LIGA HD
+http://aguauzua.com:80/Shpiatirane/D13W5HW/348283
+#EXTINF:-1 tvg-name="UK - SUPERSPORT GOLF HD" tvg-logo="" group-title="sports",UK - SUPERSPORT GOLF HD
+http://aguauzua.com:80/Shpiatirane/D13W5HW/348281
+#EXTINF:-1 tvg-name="UK - SUPERSPORT TENNIS HD" tvg-logo="" group-title="sports",UK - SUPERSPORT TENNIS HD
+http://aguauzua.com:80/Shpiatirane/D13W5HW/348291
+#EXTINF:-1 tvg-name="UK - SUPERSPORT RUGBY HD" tvg-logo="" group-title="sports",UK - SUPERSPORT RUGBY HD
+http://aguauzua.com:80/Shpiatirane/D13W5HW/348290
+#EXTINF:-1 tvg-name="UK - SUPERSPORT CRICKET HD" tvg-logo="" group-title="sports",UK - SUPERSPORT CRICKET HD
+http://aguauzua.com:80/Shpiatirane/D13W5HW/348289
+#EXTINF:-1 tvg-name="UK - SUPERSPORT MOTOSPORT HD" tvg-logo="" group-title="sports",UK - SUPERSPORT MOTOSPORT HD
+http://aguauzua.com:80/Shpiatirane/D13W5HW/348293
+#EXTINF:-1 tvg-name="UK - SUPERSPORT BLITZ HD" tvg-logo="" group-title="sports",UK - SUPERSPORT BLITZ HD
+http://aguauzua.com:80/Shpiatirane/D13W5HW/348282
+#EXTINF:-1 tvg-name="UK - SUPERSPORT FOOTBALL HD" tvg-logo="" group-title="sports",UK - SUPERSPORT FOOTBALL HD
+http://aguauzua.com:80/Shpiatirane/D13W5HW/348285
+#EXTINF:-1 tvg-name="UK - SUPERSPORT VARIETY 1 HD" tvg-logo="" group-title="sports",UK - SUPERSPORT VARIETY 1 HD
+http://aguauzua.com:80/Shpiatirane/D13W5HW/348292
+#EXTINF:-1 tvg-name="UK - SUPERSPORT VARIETY 2 HD" tvg-logo="" group-title="sports",UK - SUPERSPORT VARIETY 2 HD
+http://aguauzua.com:80/Shpiatirane/D13W5HW/348288
+#EXTINF:-1 tvg-name="UK - SUPERSPORT VARIETY 3 HD" tvg-logo="" group-title="sports",UK - SUPERSPORT VARIETY 3 HD
+http://aguauzua.com:80/Shpiatirane/D13W5HW/348287
+#EXTINF:-1 tvg-name="UK - SUPERSPORT VARIETY 4 HD" tvg-logo="" group-title="sports",UK - SUPERSPORT VARIETY 4 HD
+http://aguauzua.com:80/Shpiatirane/D13W5HW/348286
+#EXTINF:-1 tvg-name="##### UK - SPORTS #####" tvg-logo="" group-title="sports",##### UK - SPORTS #####
+http://aguauzua.com:80/Shpiatirane/D13W5HW/325434
+#EXTINF:-1 tvg-name="UK - PREMIER SPORTS RUGBY SD" tvg-logo="" group-title="sports",UK - PREMIER SPORTS RUGBY SD
+http://aguauzua.com:80/Shpiatirane/D13W5HW/1481891
+#EXTINF:-1 tvg-name="UK - BT SPORTS BOX OFFICE PPV HD" tvg-logo="" group-title="sports",UK - BT SPORTS BOX OFFICE PPV HD
+http://aguauzua.com:80/Shpiatirane/D13W5HW/180048
+#EXTINF:-1 tvg-name="UK - TRACE SPORT STARS SD" tvg-logo="" group-title="sports",UK - TRACE SPORT STARS SD
+http://aguauzua.com:80/Shpiatirane/D13W5HW/980416
+#EXTINF:-1 tvg-name="##### UK - SKY SPORT+ #####" tvg-logo="" group-title="sports",##### UK - SKY SPORT+ #####
+http://aguauzua.com:80/Shpiatirane/D13W5HW/1276918
+#EXTINF:-1 tvg-name="UK: Sky Sports" tvg-logo="" group-title="sports",UK: Sky Sports
+http://aguauzua.com:80/Shpiatirane/D13W5HW/973139
+#EXTINF:-1 tvg-name="UK - SKY SPORTS+ 1 FHD" tvg-logo="" group-title="sports",UK - SKY SPORTS+ 1 FHD
+http://aguauzua.com:80/Shpiatirane/D13W5HW/974989
+#EXTINF:-1 tvg-name="UK - SKY SPORTS+ 2 FHD" tvg-logo="" group-title="sports",UK - SKY SPORTS+ 2 FHD
+http://aguauzua.com:80/Shpiatirane/D13W5HW/974990
+#EXTINF:-1 tvg-name="UK - SKY SPORTS+ 3 FHD" tvg-logo="" group-title="sports",UK - SKY SPORTS+ 3 FHD
+http://aguauzua.com:80/Shpiatirane/D13W5HW/974991
+#EXTINF:-1 tvg-name="UK - SKY SPORTS+ 4 FHD" tvg-logo="" group-title="sports",UK - SKY SPORTS+ 4 FHD
+http://aguauzua.com:80/Shpiatirane/D13W5HW/974992
+#EXTINF:-1 tvg-name="UK - SKY SPORTS+ 6 FHD" tvg-logo="" group-title="sports",UK - SKY SPORTS+ 6 FHD
+http://aguauzua.com:80/Shpiatirane/D13W5HW/974994
+#EXTINF:-1 tvg-name="UK - SKY SPORTS+ 7 FHD" tvg-logo="" group-title="sports",UK - SKY SPORTS+ 7 FHD
+http://aguauzua.com:80/Shpiatirane/D13W5HW/974995
+#EXTINF:-1 tvg-name="UK - SKY SPORTS+ 8 FHD" tvg-logo="" group-title="sports",UK - SKY SPORTS+ 8 FHD
+http://aguauzua.com:80/Shpiatirane/D13W5HW/974996
+#EXTINF:-1 tvg-name="UK - SKY SPORTS+ 9 FHD" tvg-logo="" group-title="sports",UK - SKY SPORTS+ 9 FHD
+http://aguauzua.com:80/Shpiatirane/D13W5HW/974997
+#EXTINF:-1 tvg-name="UK - SKY SPORTS+ 10 FHD" tvg-logo="" group-title="sports",UK - SKY SPORTS+ 10 FHD
+http://aguauzua.com:80/Shpiatirane/D13W5HW/974998
+#EXTINF:-1 tvg-name="UK - SKY SPORTS+ 11 FHD" tvg-logo="" group-title="sports",UK - SKY SPORTS+ 11 FHD
+http://aguauzua.com:80/Shpiatirane/D13W5HW/974999
+#EXTINF:-1 tvg-name="UK - SKY SPORTS+ 12 FHD" tvg-logo="" group-title="sports",UK - SKY SPORTS+ 12 FHD
+http://aguauzua.com:80/Shpiatirane/D13W5HW/975000
+#EXTINF:-1 tvg-name="UK - SKY SPORTS+ 13 FHD" tvg-logo="" group-title="sports",UK - SKY SPORTS+ 13 FHD
+http://aguauzua.com:80/Shpiatirane/D13W5HW/975001
+#EXTINF:-1 tvg-name="UK - SKY SPORTS+ 14 FHD" tvg-logo="" group-title="sports",UK - SKY SPORTS+ 14 FHD
+http://aguauzua.com:80/Shpiatirane/D13W5HW/975002
+#EXTINF:-1 tvg-name="UK - SKY SPORTS+ 15 FHD" tvg-logo="" group-title="sports",UK - SKY SPORTS+ 15 FHD
+http://aguauzua.com:80/Shpiatirane/D13W5HW/975003
+#EXTINF:-1 tvg-name="UK - SKY SPORTS+ 16 FHD" tvg-logo="" group-title="sports",UK - SKY SPORTS+ 16 FHD
+http://aguauzua.com:80/Shpiatirane/D13W5HW/975004
+#EXTINF:-1 tvg-name="UK - SKY SPORTS+ 17 FHD" tvg-logo="" group-title="sports",UK - SKY SPORTS+ 17 FHD
+http://aguauzua.com:80/Shpiatirane/D13W5HW/975005
+#EXTINF:-1 tvg-name="UK - SKY SPORTS+ 18 FHD" tvg-logo="" group-title="sports",UK - SKY SPORTS+ 18 FHD
+http://aguauzua.com:80/Shpiatirane/D13W5HW/975006
+#EXTINF:-1 tvg-name="UK - SKY SPORTS+ 19 FHD" tvg-logo="" group-title="sports",UK - SKY SPORTS+ 19 FHD
+http://aguauzua.com:80/Shpiatirane/D13W5HW/975007
+#EXTINF:-1 tvg-name="UK - SKY SPORTS+ 20 FHD" tvg-logo="" group-title="sports",UK - SKY SPORTS+ 20 FHD
+http://aguauzua.com:80/Shpiatirane/D13W5HW/975008
+#EXTINF:-1 tvg-name="UK - SKY SPORTS+ 21 FHD" tvg-logo="" group-title="sports",UK - SKY SPORTS+ 21 FHD
+http://aguauzua.com:80/Shpiatirane/D13W5HW/975009
+#EXTINF:-1 tvg-name="UK - SKY SPORTS+ 22 FHD" tvg-logo="" group-title="sports",UK - SKY SPORTS+ 22 FHD
+http://aguauzua.com:80/Shpiatirane/D13W5HW/975010
+#EXTINF:-1 tvg-name="UK - SKY SPORTS+ 23 FHD" tvg-logo="" group-title="sports",UK - SKY SPORTS+ 23 FHD
+http://aguauzua.com:80/Shpiatirane/D13W5HW/975011
+#EXTINF:-1 tvg-name="UK - SKY SPORTS+ 24 FHD" tvg-logo="" group-title="sports",UK - SKY SPORTS+ 24 FHD
+http://aguauzua.com:80/Shpiatirane/D13W5HW/975012
+#EXTINF:-1 tvg-name="UK - SKY SPORTS+ 25 FHD" tvg-logo="" group-title="sports",UK - SKY SPORTS+ 25 FHD
+http://aguauzua.com:80/Shpiatirane/D13W5HW/975013
+#EXTINF:-1 tvg-name="UK - SKY SPORTS+ 26 FHD" tvg-logo="" group-title="sports",UK - SKY SPORTS+ 26 FHD
+http://aguauzua.com:80/Shpiatirane/D13W5HW/975014
+#EXTINF:-1 tvg-name="UK - SKY SPORTS+ 27 FHD" tvg-logo="" group-title="sports",UK - SKY SPORTS+ 27 FHD
+http://aguauzua.com:80/Shpiatirane/D13W5HW/975015
+#EXTINF:-1 tvg-name="UK - SKY SPORTS+ 28 FHD" tvg-logo="" group-title="sports",UK - SKY SPORTS+ 28 FHD
+http://aguauzua.com:80/Shpiatirane/D13W5HW/975016
+#EXTINF:-1 tvg-name="UK - SKY SPORTS+ 29 FHD" tvg-logo="" group-title="sports",UK - SKY SPORTS+ 29 FHD
+http://aguauzua.com:80/Shpiatirane/D13W5HW/975017
+#EXTINF:-1 tvg-name="UK - SKY SPORTS+ 30 FHD" tvg-logo="" group-title="sports",UK - SKY SPORTS+ 30 FHD
+http://aguauzua.com:80/Shpiatirane/D13W5HW/975018
+#EXTINF:-1 tvg-name="UK - SKY SPORTS+ 31 FHD" tvg-logo="" group-title="sports",UK - SKY SPORTS+ 31 FHD
+http://aguauzua.com:80/Shpiatirane/D13W5HW/975019
+#EXTINF:-1 tvg-name="UK - SKY SPORTS+ 32 FHD" tvg-logo="" group-title="sports",UK - SKY SPORTS+ 32 FHD
+http://aguauzua.com:80/Shpiatirane/D13W5HW/975020
+#EXTINF:-1 tvg-name="UK - SKY SPORTS+ 33 FHD" tvg-logo="" group-title="sports",UK - SKY SPORTS+ 33 FHD
+http://aguauzua.com:80/Shpiatirane/D13W5HW/975021
+#EXTINF:-1 tvg-name="UK - SKY SPORTS+ 34 FHD" tvg-logo="" group-title="sports",UK - SKY SPORTS+ 34 FHD
+http://aguauzua.com:80/Shpiatirane/D13W5HW/975022
+#EXTINF:-1 tvg-name="UK - SKY SPORTS+ 35 FHD" tvg-logo="" group-title="sports",UK - SKY SPORTS+ 35 FHD
+http://aguauzua.com:80/Shpiatirane/D13W5HW/975023
+#EXTINF:-1 tvg-name="UK - SKY SPORTS+ 36 FHD" tvg-logo="" group-title="sports",UK - SKY SPORTS+ 36 FHD
+http://aguauzua.com:80/Shpiatirane/D13W5HW/975024
+#EXTINF:-1 tvg-name="UK - SKY SPORTS+ 37 FHD" tvg-logo="" group-title="sports",UK - SKY SPORTS+ 37 FHD
+http://aguauzua.com:80/Shpiatirane/D13W5HW/975025
+#EXTINF:-1 tvg-name="UK - SKY SPORTS+ 38 FHD" tvg-logo="" group-title="sports",UK - SKY SPORTS+ 38 FHD
+http://aguauzua.com:80/Shpiatirane/D13W5HW/975026
+#EXTINF:-1 tvg-name="UK - SKY SPORTS+ 39 FHD" tvg-logo="" group-title="sports",UK - SKY SPORTS+ 39 FHD
+http://aguauzua.com:80/Shpiatirane/D13W5HW/975027
+#EXTINF:-1 tvg-name="UK - SKY SPORTS+ 40 FHD" tvg-logo="" group-title="sports",UK - SKY SPORTS+ 40 FHD
+http://aguauzua.com:80/Shpiatirane/D13W5HW/975028
+#EXTINF:-1 tvg-name="##### UK - TNT SPORTS #####" tvg-logo="" group-title="sports",##### UK - TNT SPORTS #####
+http://aguauzua.com:80/Shpiatirane/D13W5HW/325431
+#EXTINF:-1 tvg-name="UK: TNT Sports 1" tvg-logo="" group-title="sports",UK: TNT Sports 1
+http://aguauzua.com:80/Shpiatirane/D13W5HW/17281
+#EXTINF:-1 tvg-name="UK - TNT SPORTS 2 HD" tvg-logo="" group-title="sports",UK - TNT SPORTS 2 HD
+http://aguauzua.com:80/Shpiatirane/D13W5HW/980406
+#EXTINF:-1 tvg-name="UK - TNT SPORTS 3 HD" tvg-logo="" group-title="sports",UK - TNT SPORTS 3 HD
+http://aguauzua.com:80/Shpiatirane/D13W5HW/17279
+#EXTINF:-1 tvg-name="UK: TNT Sports 4" tvg-logo="" group-title="sports",UK: TNT Sports 4
+http://aguauzua.com:80/Shpiatirane/D13W5HW/311556
+#EXTINF:-1 tvg-name="UK: TNT Sports 5" tvg-logo="" group-title="sports",UK: TNT Sports 5
+http://aguauzua.com:80/Shpiatirane/D13W5HW/311558
+#EXTINF:-1 tvg-name="UK: VIP TNT SPORT 4" tvg-logo="https://docdog.top/logo/countries/uk/btsportespn.png" group-title="sports",UK: VIP TNT SPORT 4
+http://aguauzua.com:80/Shpiatirane/D13W5HW/846015
+#EXTINF:-1 tvg-name="UK - TNT SPORTS 2 HD2" tvg-logo="" group-title="sports",UK - TNT SPORTS 2 HD2
+http://aguauzua.com:80/Shpiatirane/D13W5HW/17280
+#EXTINF:-1 tvg-name="UK - TNT SPORTS 3 HD2" tvg-logo="" group-title="sports",UK - TNT SPORTS 3 HD2
+http://aguauzua.com:80/Shpiatirane/D13W5HW/348299
+#EXTINF:-1 tvg-name="UK - TNT SPORTS | EVENT 1 HD :" tvg-logo="" group-title="sports",UK - TNT SPORTS | EVENT 1 HD :
+http://aguauzua.com:80/Shpiatirane/D13W5HW/955971
+#EXTINF:-1 tvg-name="UK - TNT SPORTS | EVENT 2 HD :" tvg-logo="" group-title="sports",UK - TNT SPORTS | EVENT 2 HD :
+http://aguauzua.com:80/Shpiatirane/D13W5HW/955970
+#EXTINF:-1 tvg-name="UK - TNT SPORTS | EVENT 3 HD :" tvg-logo="" group-title="sports",UK - TNT SPORTS | EVENT 3 HD :
+http://aguauzua.com:80/Shpiatirane/D13W5HW/955969
+#EXTINF:-1 tvg-name="UK - TNT SPORTS | EVENT 4 HD :" tvg-logo="" group-title="sports",UK - TNT SPORTS | EVENT 4 HD :
+http://aguauzua.com:80/Shpiatirane/D13W5HW/955968
+#EXTINF:-1 tvg-name="UK - TNT SPORTS | EVENT 5 HD :" tvg-logo="" group-title="sports",UK - TNT SPORTS | EVENT 5 HD :
+http://aguauzua.com:80/Shpiatirane/D13W5HW/955967
+#EXTINF:-1 tvg-name="UK - TNT SPORTS | EVENT 6 HD :" tvg-logo="" group-title="sports",UK - TNT SPORTS | EVENT 6 HD :
+http://aguauzua.com:80/Shpiatirane/D13W5HW/955966
+#EXTINF:-1 tvg-name="UK - TNT SPORTS | EVENT 7 HD :" tvg-logo="" group-title="sports",UK - TNT SPORTS | EVENT 7 HD :
+http://aguauzua.com:80/Shpiatirane/D13W5HW/955965
+#EXTINF:-1 tvg-name="UK - TNT SPORTS | EVENT 8 HD :" tvg-logo="" group-title="sports",UK - TNT SPORTS | EVENT 8 HD :
+http://aguauzua.com:80/Shpiatirane/D13W5HW/955963
+#EXTINF:-1 tvg-name="UK - TNT SPORTS | EVENT 9 HD :" tvg-logo="" group-title="sports",UK - TNT SPORTS | EVENT 9 HD :
+http://aguauzua.com:80/Shpiatirane/D13W5HW/1297854
+#EXTINF:-1 tvg-name="UK - TNT SPORTS | EVENT 10 HD :" tvg-logo="" group-title="sports",UK - TNT SPORTS | EVENT 10 HD :
+http://aguauzua.com:80/Shpiatirane/D13W5HW/955962
+#EXTINF:-1 tvg-name="UK - TNT SPORTS | EVENT 11 HD :" tvg-logo="" group-title="sports",UK - TNT SPORTS | EVENT 11 HD :
+http://aguauzua.com:80/Shpiatirane/D13W5HW/955961
+#EXTINF:-1 tvg-name="UK - TNT SPORTS | EVENT 12 HD :" tvg-logo="" group-title="sports",UK - TNT SPORTS | EVENT 12 HD :
+http://aguauzua.com:80/Shpiatirane/D13W5HW/955960
+#EXTINF:-1 tvg-name="UK - TNT SPORTS | EVENT 13 HD :" tvg-logo="" group-title="sports",UK - TNT SPORTS | EVENT 13 HD :
+http://aguauzua.com:80/Shpiatirane/D13W5HW/955959
+#EXTINF:-1 tvg-name="UK - TNT SPORTS | EVENT 14 HD :" tvg-logo="" group-title="sports",UK - TNT SPORTS | EVENT 14 HD :
+http://aguauzua.com:80/Shpiatirane/D13W5HW/955958
+#EXTINF:-1 tvg-name="UK - TNT SPORTS | EVENT 15 HD :" tvg-logo="" group-title="sports",UK - TNT SPORTS | EVENT 15 HD :
+http://aguauzua.com:80/Shpiatirane/D13W5HW/955957
+#EXTINF:-1 tvg-name="UK - TNT SPORTS | EVENT 16 HD :" tvg-logo="" group-title="sports",UK - TNT SPORTS | EVENT 16 HD :
+http://aguauzua.com:80/Shpiatirane/D13W5HW/955956
+#EXTINF:-1 tvg-name="UK - TNT SPORTS | EVENT 17 HD :" tvg-logo="" group-title="sports",UK - TNT SPORTS | EVENT 17 HD :
+http://aguauzua.com:80/Shpiatirane/D13W5HW/955955
+#EXTINF:-1 tvg-name="UK - TNT SPORTS | EVENT 18 HD :" tvg-logo="" group-title="sports",UK - TNT SPORTS | EVENT 18 HD :
+http://aguauzua.com:80/Shpiatirane/D13W5HW/955954
+#EXTINF:-1 tvg-name="BT Sport ESPN HD" tvg-logo="" group-title="sports",BT Sport ESPN HD
+http://xfast-media.info:25461/play/TKPvLMLF-BGcFd-6_GdH9Y7SkFFDgmjte_e6PUuXpXk/ts
 #EXTINF:-1 tvg-name="ESPN" tvg-logo="" group-title="sports",ESPN
 http://23.227.132.58:25461/scott/101924/117299
-#EXTINF:-1 tvg-name="ESPN 3." tvg-logo="" group-title="sports",ESPN 3.
-http://go.iptvhn.net:25461/7619/7619/838
 #EXTINF:-1 tvg-name="ESPN NEWS | HD" tvg-logo="" group-title="sports",ESPN NEWS | HD
 http://23.227.132.58:25461/scott/101924/115379
-#EXTINF:-1 tvg-name="ESPN U | HD" tvg-logo="" group-title="sports",ESPN U | HD
-http://23.227.132.58:25461/scott/101924/115380
 #EXTINF:-1 tvg-name="ESPN SEC NETWORK | HD*" tvg-logo="" group-title="sports",ESPN SEC NETWORK | HD*
 http://23.227.132.58:25461/scott/101924/115381
 #EXTINF:-1 tvg-name="US: SPECTRUM SPORTSNET LAKERS | HD" tvg-logo="" group-title="sports",US: SPECTRUM SPORTSNET LAKERS | HD
 http://23.227.132.58:25461/scott/101924/115431
-#EXTINF:-1 tvg-name="CA | TVA Sports" tvg-logo="" group-title="sports",CA | TVA Sports
+#EXTINF:-1 tvg-name="CA: TVA SPORTS" tvg-logo="https://docdog.top/logo/countries/canada/tvasports.png" group-title="sports",CA: TVA SPORTS
 http://23.227.132.58:25461/scott/101924/115670
 #EXTINF:-1 tvg-name="CA | TVA 2 Sports" tvg-logo="" group-title="sports",CA | TVA 2 Sports
 http://23.227.132.58:25461/scott/101924/115671
-#EXTINF:-1 tvg-name="ESPN 2 HD" tvg-logo="" group-title="sports",ESPN 2 HD
-http://go.iptvhn.net:25461/7619/7619/837
 #EXTINF:-1 tvg-name="008: ESPN" tvg-logo="" group-title="sports",008: ESPN
 http://23.227.132.58:25461/scott/101924/222503
 #EXTINF:-1 tvg-name="009: ESPN2" tvg-logo="" group-title="sports",009: ESPN2
@@ -457,285 +753,249 @@ http://23.227.132.58:25461/scott/101924/222789
 http://23.227.132.58:25461/scott/101924/222790
 #EXTINF:-1 tvg-name="ESPN+ 220 | 11:30PM FOOTBALL: NFL GAMEDAY FINAL (NFL GAMEDAY FINAL) (NOV 15)" tvg-logo="" group-title="sports",ESPN+ 220 | 11:30PM FOOTBALL: NFL GAMEDAY FINAL (NFL GAMEDAY FINAL) (NOV 15)
 http://23.227.132.58:25461/scott/101924/222791
-#EXTINF:-1 tvg-name="ESPN 1 HD" tvg-logo="" group-title="sports",ESPN 1 HD
-http://go.iptvhn.net:25461/7619/7619/836
-#EXTINF:-1 tvg-name="ESPN 4 HD" tvg-logo="" group-title="sports",ESPN 4 HD
-http://go.iptvhn.net:25461/7619/7619/909
-#EXTINF:-1 tvg-name="ESPN 5 HD" tvg-logo="" group-title="sports",ESPN 5 HD
-http://go.iptvhn.net:25461/7619/7619/1069
-#EXTINF:-1 tvg-name="ESPN 6 HD" tvg-logo="" group-title="sports",ESPN 6 HD
-http://go.iptvhn.net:25461/7619/7619/1072
-#EXTINF:-1 tvg-name="ESPN SUR" tvg-logo="" group-title="sports",ESPN SUR
-http://go.iptvhn.net:25461/7619/7619/2469
-#EXTINF:-1 tvg-name="ESPN 2 SUR" tvg-logo="" group-title="sports",ESPN 2 SUR
-http://go.iptvhn.net:25461/7619/7619/2470
-#EXTINF:-1 tvg-name="ESPN 4 SUR" tvg-logo="" group-title="sports",ESPN 4 SUR
-http://go.iptvhn.net:25461/7619/7619/2473
-#EXTINF:-1 tvg-name="UK: BT SPORT 1 FHD" tvg-logo="/noicon.png" group-title="sports",UK: BT SPORT 1 FHD
-http://asd2.de:8000/Muhamedmidzan/ywgRrqjKcJ/26712
-#EXTINF:-1 tvg-name="UK:BT Sport 2 FHD" tvg-logo="" group-title="sports",UK:BT Sport 2 FHD
-http://asd2.de:8000/Muhamedmidzan/ywgRrqjKcJ/26711
-#EXTINF:-1 tvg-name="ESPN 6 SD [P]" tvg-logo="" group-title="sports",ESPN 6 SD [P]
-http://fonte.lista.luxe:8080/pandoscanew/sdikfhvnwqpiweh/3978
-#EXTINF:-1 tvg-name="ESPN 2 FHD [P]" tvg-logo="" group-title="sports",ESPN 2 FHD [P]
-http://fonte.lista.luxe:8080/pandoscanew/sdikfhvnwqpiweh/4791
-#EXTINF:-1 tvg-name="EN - NO MATCH" tvg-logo="" group-title="sports",EN - NO MATCH
-http://aguauzua.com:80/Shpiatirane/D13W5HW/682949
-#EXTINF:-1 tvg-name="##### FRANCE EUROSPORT #####" tvg-logo="" group-title="sports",##### FRANCE EUROSPORT #####
-http://aguauzua.com:80/Shpiatirane/D13W5HW/1121056
-#EXTINF:-1 tvg-name="##### BEIN SPORTS ENGLISH FM #####" tvg-logo="" group-title="sports",##### BEIN SPORTS ENGLISH FM #####
-http://aguauzua.com:80/Shpiatirane/D13W5HW/1306290
-#EXTINF:-1 tvg-name="EN - BEIN SPORTS 1 ENGLISH HD" tvg-logo="" group-title="sports",EN - BEIN SPORTS 1 ENGLISH HD
-http://aguauzua.com:80/Shpiatirane/D13W5HW/987005
-#EXTINF:-1 tvg-name="EN - BEIN SPORTS 2 ENGLISH HD" tvg-logo="" group-title="sports",EN - BEIN SPORTS 2 ENGLISH HD
-http://aguauzua.com:80/Shpiatirane/D13W5HW/987006
-#EXTINF:-1 tvg-name="##### BEIN SPORTS ENGLISH 8K #####" tvg-logo="" group-title="sports",##### BEIN SPORTS ENGLISH 8K #####
-http://aguauzua.com:80/Shpiatirane/D13W5HW/1306295
-#EXTINF:-1 tvg-name="AR - BEIN SPORTS ENGLISH 1 HD" tvg-logo="" group-title="sports",AR - BEIN SPORTS ENGLISH 1 HD
-http://aguauzua.com:80/Shpiatirane/D13W5HW/552082
-#EXTINF:-1 tvg-name="AR - BEIN SPORTS ENGLISH 2 HD" tvg-logo="" group-title="sports",AR - BEIN SPORTS ENGLISH 2 HD
-http://aguauzua.com:80/Shpiatirane/D13W5HW/552083
-#EXTINF:-1 tvg-name="##### UK - SKY SPORTS PREMIER LEAGUE #####" tvg-logo="" group-title="sports",##### UK - SKY SPORTS PREMIER LEAGUE #####
-http://aguauzua.com:80/Shpiatirane/D13W5HW/1356564
-#EXTINF:-1 tvg-name="UK - SKY SPORTS PREMIER LEAGUE SD" tvg-logo="" group-title="sports",UK - SKY SPORTS PREMIER LEAGUE SD
-http://aguauzua.com:80/Shpiatirane/D13W5HW/17285
-#EXTINF:-1 tvg-name="##### UK - SKY SPORTS F1 #####" tvg-logo="" group-title="sports",##### UK - SKY SPORTS F1 #####
-http://aguauzua.com:80/Shpiatirane/D13W5HW/1356568
-#EXTINF:-1 tvg-name="UK - SKY SPORTS F1 SD" tvg-logo="" group-title="sports",UK - SKY SPORTS F1 SD
-http://aguauzua.com:80/Shpiatirane/D13W5HW/980431
-#EXTINF:-1 tvg-name="##### UK - SKY SPORTS NEWS #####" tvg-logo="" group-title="sports",##### UK - SKY SPORTS NEWS #####
-http://aguauzua.com:80/Shpiatirane/D13W5HW/325432
-#EXTINF:-1 tvg-name="UK - SKY SPORTS NEWS SD" tvg-logo="" group-title="sports",UK - SKY SPORTS NEWS SD
-http://aguauzua.com:80/Shpiatirane/D13W5HW/980429
-#EXTINF:-1 tvg-name="UK - SKY SPORTS NEWS HEVC2" tvg-logo="" group-title="sports",UK - SKY SPORTS NEWS HEVC2
-http://aguauzua.com:80/Shpiatirane/D13W5HW/980403
-#EXTINF:-1 tvg-name="UK - SKY SPORTS NEWS HD2" tvg-logo="" group-title="sports",UK - SKY SPORTS NEWS HD2
-http://aguauzua.com:80/Shpiatirane/D13W5HW/17283
-#EXTINF:-1 tvg-name="##### UK - SKY SPORTS MAIN EVENT #####" tvg-logo="" group-title="sports",##### UK - SKY SPORTS MAIN EVENT #####
-http://aguauzua.com:80/Shpiatirane/D13W5HW/1356565
-#EXTINF:-1 tvg-name="UK - SKY SPORTS MAIN EVENT SD" tvg-logo="" group-title="sports",UK - SKY SPORTS MAIN EVENT SD
-http://aguauzua.com:80/Shpiatirane/D13W5HW/17286
-#EXTINF:-1 tvg-name="##### UK - SKY SPORTS FOOTBALL #####" tvg-logo="" group-title="sports",##### UK - SKY SPORTS FOOTBALL #####
-http://aguauzua.com:80/Shpiatirane/D13W5HW/1356566
-#EXTINF:-1 tvg-name="UK - SKY SPORTS FOOTBALL SD" tvg-logo="" group-title="sports",UK - SKY SPORTS FOOTBALL SD
-http://aguauzua.com:80/Shpiatirane/D13W5HW/17288
-#EXTINF:-1 tvg-name="UK - SKY SPORTS FOOTBALL HD2" tvg-logo="" group-title="sports",UK - SKY SPORTS FOOTBALL HD2
-http://aguauzua.com:80/Shpiatirane/D13W5HW/365035
-#EXTINF:-1 tvg-name="##### UK - SKY SPORTS TENNIS #####" tvg-logo="" group-title="sports",##### UK - SKY SPORTS TENNIS #####
-http://aguauzua.com:80/Shpiatirane/D13W5HW/1356567
-#EXTINF:-1 tvg-name="UK - SKY SPORTS TENNIS HD" tvg-logo="" group-title="sports",UK - SKY SPORTS TENNIS HD
-http://aguauzua.com:80/Shpiatirane/D13W5HW/664452
-#EXTINF:-1 tvg-name="##### UK - SKY SPORTS RACING #####" tvg-logo="" group-title="sports",##### UK - SKY SPORTS RACING #####
-http://aguauzua.com:80/Shpiatirane/D13W5HW/1356569
-#EXTINF:-1 tvg-name="UK - SKY SPORTS RACING SD" tvg-logo="" group-title="sports",UK - SKY SPORTS RACING SD
-http://aguauzua.com:80/Shpiatirane/D13W5HW/980434
-#EXTINF:-1 tvg-name="##### UK - SKY SPORTS CRICKET #####" tvg-logo="" group-title="sports",##### UK - SKY SPORTS CRICKET #####
-http://aguauzua.com:80/Shpiatirane/D13W5HW/1356570
-#EXTINF:-1 tvg-name="UK - SKY SPORTS CRICKET SD" tvg-logo="" group-title="sports",UK - SKY SPORTS CRICKET SD
-http://aguauzua.com:80/Shpiatirane/D13W5HW/17290
-#EXTINF:-1 tvg-name="##### UK - SKY SPORTS GOLF #####" tvg-logo="" group-title="sports",##### UK - SKY SPORTS GOLF #####
-http://aguauzua.com:80/Shpiatirane/D13W5HW/1356571
-#EXTINF:-1 tvg-name="UK - SKY SPORTS GOLF SD" tvg-logo="" group-title="sports",UK - SKY SPORTS GOLF SD
-http://aguauzua.com:80/Shpiatirane/D13W5HW/17287
-#EXTINF:-1 tvg-name="##### UK - SKY SPORTS ARENA #####" tvg-logo="" group-title="sports",##### UK - SKY SPORTS ARENA #####
-http://aguauzua.com:80/Shpiatirane/D13W5HW/1356573
-#EXTINF:-1 tvg-name="UK - SKY SPORTS ARENA SD" tvg-logo="" group-title="sports",UK - SKY SPORTS ARENA SD
-http://aguauzua.com:80/Shpiatirane/D13W5HW/17291
-#EXTINF:-1 tvg-name="##### UK - SKY SPORTS MIX #####" tvg-logo="" group-title="sports",##### UK - SKY SPORTS MIX #####
-http://aguauzua.com:80/Shpiatirane/D13W5HW/1356574
-#EXTINF:-1 tvg-name="UK - SKY SPORTS MIX SD" tvg-logo="" group-title="sports",UK - SKY SPORTS MIX SD
-http://aguauzua.com:80/Shpiatirane/D13W5HW/17284
-#EXTINF:-1 tvg-name="##### UK - SKY SPORTS ACTION #####" tvg-logo="" group-title="sports",##### UK - SKY SPORTS ACTION #####
-http://aguauzua.com:80/Shpiatirane/D13W5HW/1356563
-#EXTINF:-1 tvg-name="UK - SKY SPORTS ACTION SD" tvg-logo="" group-title="sports",UK - SKY SPORTS ACTION SD
-http://aguauzua.com:80/Shpiatirane/D13W5HW/980410
-#EXTINF:-1 tvg-name="##### UK - PREMIER SPORTS #####" tvg-logo="" group-title="sports",##### UK - PREMIER SPORTS #####
-http://aguauzua.com:80/Shpiatirane/D13W5HW/362586
-#EXTINF:-1 tvg-name="UK - PREMIER SPORTS 1 HD" tvg-logo="" group-title="sports",UK - PREMIER SPORTS 1 HD
-http://aguauzua.com:80/Shpiatirane/D13W5HW/17271
-#EXTINF:-1 tvg-name="UK - PREMIER SPORTS 1 FHD [BK]" tvg-logo="" group-title="sports",UK - PREMIER SPORTS 1 FHD [BK]
-http://aguauzua.com:80/Shpiatirane/D13W5HW/362593
-#EXTINF:-1 tvg-name="UK - PREMIER SPORTS 2 SD" tvg-logo="" group-title="sports",UK - PREMIER SPORTS 2 SD
-http://aguauzua.com:80/Shpiatirane/D13W5HW/362595
-#EXTINF:-1 tvg-name="UK - PREMIER SPORTS 2 FHD [BK]" tvg-logo="" group-title="sports",UK - PREMIER SPORTS 2 FHD [BK]
-http://aguauzua.com:80/Shpiatirane/D13W5HW/362597
-#EXTINF:-1 tvg-name="##### UK - SUPERSPORT #####" tvg-logo="" group-title="sports",##### UK - SUPERSPORT #####
-http://aguauzua.com:80/Shpiatirane/D13W5HW/1276876
-#EXTINF:-1 tvg-name="UK - SUPERSPORT PREMIER LEAGUE HD" tvg-logo="" group-title="sports",UK - SUPERSPORT PREMIER LEAGUE HD
-http://aguauzua.com:80/Shpiatirane/D13W5HW/348284
-#EXTINF:-1 tvg-name="UK - SUPERSPORT LA LIGA HD" tvg-logo="" group-title="sports",UK - SUPERSPORT LA LIGA HD
-http://aguauzua.com:80/Shpiatirane/D13W5HW/348283
-#EXTINF:-1 tvg-name="UK - SUPERSPORT GOLF HD" tvg-logo="" group-title="sports",UK - SUPERSPORT GOLF HD
-http://aguauzua.com:80/Shpiatirane/D13W5HW/348281
-#EXTINF:-1 tvg-name="UK - SUPERSPORT TENNIS HD" tvg-logo="" group-title="sports",UK - SUPERSPORT TENNIS HD
-http://aguauzua.com:80/Shpiatirane/D13W5HW/348291
-#EXTINF:-1 tvg-name="UK - SUPERSPORT RUGBY HD" tvg-logo="" group-title="sports",UK - SUPERSPORT RUGBY HD
-http://aguauzua.com:80/Shpiatirane/D13W5HW/348290
-#EXTINF:-1 tvg-name="UK - SUPERSPORT CRICKET HD" tvg-logo="" group-title="sports",UK - SUPERSPORT CRICKET HD
-http://aguauzua.com:80/Shpiatirane/D13W5HW/348289
-#EXTINF:-1 tvg-name="UK - SUPERSPORT MOTOSPORT HD" tvg-logo="" group-title="sports",UK - SUPERSPORT MOTOSPORT HD
-http://aguauzua.com:80/Shpiatirane/D13W5HW/348293
-#EXTINF:-1 tvg-name="UK - SUPERSPORT BLITZ HD" tvg-logo="" group-title="sports",UK - SUPERSPORT BLITZ HD
-http://aguauzua.com:80/Shpiatirane/D13W5HW/348282
-#EXTINF:-1 tvg-name="UK - SUPERSPORT FOOTBALL HD" tvg-logo="" group-title="sports",UK - SUPERSPORT FOOTBALL HD
-http://aguauzua.com:80/Shpiatirane/D13W5HW/348285
-#EXTINF:-1 tvg-name="UK - SUPERSPORT VARIETY 1 HD" tvg-logo="" group-title="sports",UK - SUPERSPORT VARIETY 1 HD
-http://aguauzua.com:80/Shpiatirane/D13W5HW/348292
-#EXTINF:-1 tvg-name="UK - SUPERSPORT VARIETY 2 HD" tvg-logo="" group-title="sports",UK - SUPERSPORT VARIETY 2 HD
-http://aguauzua.com:80/Shpiatirane/D13W5HW/348288
-#EXTINF:-1 tvg-name="UK - SUPERSPORT VARIETY 3 HD" tvg-logo="" group-title="sports",UK - SUPERSPORT VARIETY 3 HD
-http://aguauzua.com:80/Shpiatirane/D13W5HW/348287
-#EXTINF:-1 tvg-name="UK - SUPERSPORT VARIETY 4 HD" tvg-logo="" group-title="sports",UK - SUPERSPORT VARIETY 4 HD
-http://aguauzua.com:80/Shpiatirane/D13W5HW/348286
-#EXTINF:-1 tvg-name="##### UK - SPORTS #####" tvg-logo="" group-title="sports",##### UK - SPORTS #####
-http://aguauzua.com:80/Shpiatirane/D13W5HW/325434
-#EXTINF:-1 tvg-name="UK - PREMIER SPORTS RUGBY SD" tvg-logo="" group-title="sports",UK - PREMIER SPORTS RUGBY SD
-http://aguauzua.com:80/Shpiatirane/D13W5HW/1481891
-#EXTINF:-1 tvg-name="UK - BT SPORTS BOX OFFICE PPV HD" tvg-logo="" group-title="sports",UK - BT SPORTS BOX OFFICE PPV HD
-http://aguauzua.com:80/Shpiatirane/D13W5HW/180048
-#EXTINF:-1 tvg-name="UK - TRACE SPORT STARS SD" tvg-logo="" group-title="sports",UK - TRACE SPORT STARS SD
-http://aguauzua.com:80/Shpiatirane/D13W5HW/980416
-#EXTINF:-1 tvg-name="##### UK - SKY SPORT+ #####" tvg-logo="" group-title="sports",##### UK - SKY SPORT+ #####
-http://aguauzua.com:80/Shpiatirane/D13W5HW/1276918
-#EXTINF:-1 tvg-name="UK - SKY SPORTS+ HD" tvg-logo="" group-title="sports",UK - SKY SPORTS+ HD
-http://aguauzua.com:80/Shpiatirane/D13W5HW/973139
-#EXTINF:-1 tvg-name="UK - SKY SPORTS+ 1 FHD" tvg-logo="" group-title="sports",UK - SKY SPORTS+ 1 FHD
-http://aguauzua.com:80/Shpiatirane/D13W5HW/974989
-#EXTINF:-1 tvg-name="UK - SKY SPORTS+ 2 FHD" tvg-logo="" group-title="sports",UK - SKY SPORTS+ 2 FHD
-http://aguauzua.com:80/Shpiatirane/D13W5HW/974990
-#EXTINF:-1 tvg-name="UK - SKY SPORTS+ 3 FHD" tvg-logo="" group-title="sports",UK - SKY SPORTS+ 3 FHD
-http://aguauzua.com:80/Shpiatirane/D13W5HW/974991
-#EXTINF:-1 tvg-name="UK - SKY SPORTS+ 4 FHD" tvg-logo="" group-title="sports",UK - SKY SPORTS+ 4 FHD
-http://aguauzua.com:80/Shpiatirane/D13W5HW/974992
-#EXTINF:-1 tvg-name="UK - SKY SPORTS+ 5 FHD" tvg-logo="" group-title="sports",UK - SKY SPORTS+ 5 FHD
-http://aguauzua.com:80/Shpiatirane/D13W5HW/974993
-#EXTINF:-1 tvg-name="UK - SKY SPORTS+ 6 FHD" tvg-logo="" group-title="sports",UK - SKY SPORTS+ 6 FHD
-http://aguauzua.com:80/Shpiatirane/D13W5HW/974994
-#EXTINF:-1 tvg-name="UK - SKY SPORTS+ 7 FHD" tvg-logo="" group-title="sports",UK - SKY SPORTS+ 7 FHD
-http://aguauzua.com:80/Shpiatirane/D13W5HW/974995
-#EXTINF:-1 tvg-name="UK - SKY SPORTS+ 8 FHD" tvg-logo="" group-title="sports",UK - SKY SPORTS+ 8 FHD
-http://aguauzua.com:80/Shpiatirane/D13W5HW/974996
-#EXTINF:-1 tvg-name="UK - SKY SPORTS+ 9 FHD" tvg-logo="" group-title="sports",UK - SKY SPORTS+ 9 FHD
-http://aguauzua.com:80/Shpiatirane/D13W5HW/974997
-#EXTINF:-1 tvg-name="UK - SKY SPORTS+ 10 FHD" tvg-logo="" group-title="sports",UK - SKY SPORTS+ 10 FHD
-http://aguauzua.com:80/Shpiatirane/D13W5HW/974998
-#EXTINF:-1 tvg-name="UK - SKY SPORTS+ 11 FHD" tvg-logo="" group-title="sports",UK - SKY SPORTS+ 11 FHD
-http://aguauzua.com:80/Shpiatirane/D13W5HW/974999
-#EXTINF:-1 tvg-name="UK - SKY SPORTS+ 12 FHD" tvg-logo="" group-title="sports",UK - SKY SPORTS+ 12 FHD
-http://aguauzua.com:80/Shpiatirane/D13W5HW/975000
-#EXTINF:-1 tvg-name="UK - SKY SPORTS+ 13 FHD" tvg-logo="" group-title="sports",UK - SKY SPORTS+ 13 FHD
-http://aguauzua.com:80/Shpiatirane/D13W5HW/975001
-#EXTINF:-1 tvg-name="UK - SKY SPORTS+ 14 FHD" tvg-logo="" group-title="sports",UK - SKY SPORTS+ 14 FHD
-http://aguauzua.com:80/Shpiatirane/D13W5HW/975002
-#EXTINF:-1 tvg-name="UK - SKY SPORTS+ 15 FHD" tvg-logo="" group-title="sports",UK - SKY SPORTS+ 15 FHD
-http://aguauzua.com:80/Shpiatirane/D13W5HW/975003
-#EXTINF:-1 tvg-name="UK - SKY SPORTS+ 16 FHD" tvg-logo="" group-title="sports",UK - SKY SPORTS+ 16 FHD
-http://aguauzua.com:80/Shpiatirane/D13W5HW/975004
-#EXTINF:-1 tvg-name="UK - SKY SPORTS+ 17 FHD" tvg-logo="" group-title="sports",UK - SKY SPORTS+ 17 FHD
-http://aguauzua.com:80/Shpiatirane/D13W5HW/975005
-#EXTINF:-1 tvg-name="UK - SKY SPORTS+ 18 FHD" tvg-logo="" group-title="sports",UK - SKY SPORTS+ 18 FHD
-http://aguauzua.com:80/Shpiatirane/D13W5HW/975006
-#EXTINF:-1 tvg-name="UK - SKY SPORTS+ 19 FHD" tvg-logo="" group-title="sports",UK - SKY SPORTS+ 19 FHD
-http://aguauzua.com:80/Shpiatirane/D13W5HW/975007
-#EXTINF:-1 tvg-name="UK - SKY SPORTS+ 20 FHD" tvg-logo="" group-title="sports",UK - SKY SPORTS+ 20 FHD
-http://aguauzua.com:80/Shpiatirane/D13W5HW/975008
-#EXTINF:-1 tvg-name="UK - SKY SPORTS+ 21 FHD" tvg-logo="" group-title="sports",UK - SKY SPORTS+ 21 FHD
-http://aguauzua.com:80/Shpiatirane/D13W5HW/975009
-#EXTINF:-1 tvg-name="UK - SKY SPORTS+ 22 FHD" tvg-logo="" group-title="sports",UK - SKY SPORTS+ 22 FHD
-http://aguauzua.com:80/Shpiatirane/D13W5HW/975010
-#EXTINF:-1 tvg-name="UK - SKY SPORTS+ 23 FHD" tvg-logo="" group-title="sports",UK - SKY SPORTS+ 23 FHD
-http://aguauzua.com:80/Shpiatirane/D13W5HW/975011
-#EXTINF:-1 tvg-name="UK - SKY SPORTS+ 24 FHD" tvg-logo="" group-title="sports",UK - SKY SPORTS+ 24 FHD
-http://aguauzua.com:80/Shpiatirane/D13W5HW/975012
-#EXTINF:-1 tvg-name="UK - SKY SPORTS+ 25 FHD" tvg-logo="" group-title="sports",UK - SKY SPORTS+ 25 FHD
-http://aguauzua.com:80/Shpiatirane/D13W5HW/975013
-#EXTINF:-1 tvg-name="UK - SKY SPORTS+ 26 FHD" tvg-logo="" group-title="sports",UK - SKY SPORTS+ 26 FHD
-http://aguauzua.com:80/Shpiatirane/D13W5HW/975014
-#EXTINF:-1 tvg-name="UK - SKY SPORTS+ 27 FHD" tvg-logo="" group-title="sports",UK - SKY SPORTS+ 27 FHD
-http://aguauzua.com:80/Shpiatirane/D13W5HW/975015
-#EXTINF:-1 tvg-name="UK - SKY SPORTS+ 28 FHD" tvg-logo="" group-title="sports",UK - SKY SPORTS+ 28 FHD
-http://aguauzua.com:80/Shpiatirane/D13W5HW/975016
-#EXTINF:-1 tvg-name="UK - SKY SPORTS+ 29 FHD" tvg-logo="" group-title="sports",UK - SKY SPORTS+ 29 FHD
-http://aguauzua.com:80/Shpiatirane/D13W5HW/975017
-#EXTINF:-1 tvg-name="UK - SKY SPORTS+ 30 FHD" tvg-logo="" group-title="sports",UK - SKY SPORTS+ 30 FHD
-http://aguauzua.com:80/Shpiatirane/D13W5HW/975018
-#EXTINF:-1 tvg-name="UK - SKY SPORTS+ 31 FHD" tvg-logo="" group-title="sports",UK - SKY SPORTS+ 31 FHD
-http://aguauzua.com:80/Shpiatirane/D13W5HW/975019
-#EXTINF:-1 tvg-name="UK - SKY SPORTS+ 32 FHD" tvg-logo="" group-title="sports",UK - SKY SPORTS+ 32 FHD
-http://aguauzua.com:80/Shpiatirane/D13W5HW/975020
-#EXTINF:-1 tvg-name="UK - SKY SPORTS+ 33 FHD" tvg-logo="" group-title="sports",UK - SKY SPORTS+ 33 FHD
-http://aguauzua.com:80/Shpiatirane/D13W5HW/975021
-#EXTINF:-1 tvg-name="UK - SKY SPORTS+ 34 FHD" tvg-logo="" group-title="sports",UK - SKY SPORTS+ 34 FHD
-http://aguauzua.com:80/Shpiatirane/D13W5HW/975022
-#EXTINF:-1 tvg-name="UK - SKY SPORTS+ 35 FHD" tvg-logo="" group-title="sports",UK - SKY SPORTS+ 35 FHD
-http://aguauzua.com:80/Shpiatirane/D13W5HW/975023
-#EXTINF:-1 tvg-name="UK - SKY SPORTS+ 36 FHD" tvg-logo="" group-title="sports",UK - SKY SPORTS+ 36 FHD
-http://aguauzua.com:80/Shpiatirane/D13W5HW/975024
-#EXTINF:-1 tvg-name="UK - SKY SPORTS+ 37 FHD" tvg-logo="" group-title="sports",UK - SKY SPORTS+ 37 FHD
-http://aguauzua.com:80/Shpiatirane/D13W5HW/975025
-#EXTINF:-1 tvg-name="UK - SKY SPORTS+ 38 FHD" tvg-logo="" group-title="sports",UK - SKY SPORTS+ 38 FHD
-http://aguauzua.com:80/Shpiatirane/D13W5HW/975026
-#EXTINF:-1 tvg-name="UK - SKY SPORTS+ 39 FHD" tvg-logo="" group-title="sports",UK - SKY SPORTS+ 39 FHD
-http://aguauzua.com:80/Shpiatirane/D13W5HW/975027
-#EXTINF:-1 tvg-name="UK - SKY SPORTS+ 40 FHD" tvg-logo="" group-title="sports",UK - SKY SPORTS+ 40 FHD
-http://aguauzua.com:80/Shpiatirane/D13W5HW/975028
-#EXTINF:-1 tvg-name="##### UK - TNT SPORTS #####" tvg-logo="" group-title="sports",##### UK - TNT SPORTS #####
-http://aguauzua.com:80/Shpiatirane/D13W5HW/325431
-#EXTINF:-1 tvg-name="UK - TNT SPORTS 1 HD" tvg-logo="" group-title="sports",UK - TNT SPORTS 1 HD
-http://aguauzua.com:80/Shpiatirane/D13W5HW/17281
-#EXTINF:-1 tvg-name="UK - TNT SPORTS 2 HD" tvg-logo="" group-title="sports",UK - TNT SPORTS 2 HD
-http://aguauzua.com:80/Shpiatirane/D13W5HW/980406
-#EXTINF:-1 tvg-name="UK - TNT SPORTS 3 HD" tvg-logo="" group-title="sports",UK - TNT SPORTS 3 HD
-http://aguauzua.com:80/Shpiatirane/D13W5HW/17279
-#EXTINF:-1 tvg-name="UK - TNT SPORTS 4 HD" tvg-logo="" group-title="sports",UK - TNT SPORTS 4 HD
-http://aguauzua.com:80/Shpiatirane/D13W5HW/311556
-#EXTINF:-1 tvg-name="UK - TNT SPORTS 5 HD" tvg-logo="" group-title="sports",UK - TNT SPORTS 5 HD
-http://aguauzua.com:80/Shpiatirane/D13W5HW/311558
-#EXTINF:-1 tvg-name="UK - TNT SPORT 1 HEVC" tvg-logo="" group-title="sports",UK - TNT SPORT 1 HEVC
-http://aguauzua.com:80/Shpiatirane/D13W5HW/846012
-#EXTINF:-1 tvg-name="UK - TNT SPORT 2 HEVC" tvg-logo="" group-title="sports",UK - TNT SPORT 2 HEVC
-http://aguauzua.com:80/Shpiatirane/D13W5HW/846013
-#EXTINF:-1 tvg-name="UK - TNT SPORT 3 HEVC" tvg-logo="" group-title="sports",UK - TNT SPORT 3 HEVC
-http://aguauzua.com:80/Shpiatirane/D13W5HW/846014
-#EXTINF:-1 tvg-name="UK - TNT SPORT 4 HEVC" tvg-logo="" group-title="sports",UK - TNT SPORT 4 HEVC
-http://aguauzua.com:80/Shpiatirane/D13W5HW/846015
-#EXTINF:-1 tvg-name="UK - TNT SPORTS 2 HD2" tvg-logo="" group-title="sports",UK - TNT SPORTS 2 HD2
-http://aguauzua.com:80/Shpiatirane/D13W5HW/17280
-#EXTINF:-1 tvg-name="UK - TNT SPORTS 3 HD2" tvg-logo="" group-title="sports",UK - TNT SPORTS 3 HD2
-http://aguauzua.com:80/Shpiatirane/D13W5HW/348299
-#EXTINF:-1 tvg-name="UK - TNT SPORTS | EVENT 1 HD :" tvg-logo="" group-title="sports",UK - TNT SPORTS | EVENT 1 HD :
-http://aguauzua.com:80/Shpiatirane/D13W5HW/955971
-#EXTINF:-1 tvg-name="UK - TNT SPORTS | EVENT 2 HD :" tvg-logo="" group-title="sports",UK - TNT SPORTS | EVENT 2 HD :
-http://aguauzua.com:80/Shpiatirane/D13W5HW/955970
-#EXTINF:-1 tvg-name="UK - TNT SPORTS | EVENT 3 HD :" tvg-logo="" group-title="sports",UK - TNT SPORTS | EVENT 3 HD :
-http://aguauzua.com:80/Shpiatirane/D13W5HW/955969
-#EXTINF:-1 tvg-name="UK - TNT SPORTS | EVENT 4 HD :" tvg-logo="" group-title="sports",UK - TNT SPORTS | EVENT 4 HD :
-http://aguauzua.com:80/Shpiatirane/D13W5HW/955968
-#EXTINF:-1 tvg-name="UK - TNT SPORTS | EVENT 5 HD :" tvg-logo="" group-title="sports",UK - TNT SPORTS | EVENT 5 HD :
-http://aguauzua.com:80/Shpiatirane/D13W5HW/955967
-#EXTINF:-1 tvg-name="UK - TNT SPORTS | EVENT 6 HD :" tvg-logo="" group-title="sports",UK - TNT SPORTS | EVENT 6 HD :
-http://aguauzua.com:80/Shpiatirane/D13W5HW/955966
-#EXTINF:-1 tvg-name="UK - TNT SPORTS | EVENT 7 HD :" tvg-logo="" group-title="sports",UK - TNT SPORTS | EVENT 7 HD :
-http://aguauzua.com:80/Shpiatirane/D13W5HW/955965
-#EXTINF:-1 tvg-name="UK - TNT SPORTS | EVENT 8 HD :" tvg-logo="" group-title="sports",UK - TNT SPORTS | EVENT 8 HD :
-http://aguauzua.com:80/Shpiatirane/D13W5HW/955963
-#EXTINF:-1 tvg-name="UK - TNT SPORTS | EVENT 9 HD :" tvg-logo="" group-title="sports",UK - TNT SPORTS | EVENT 9 HD :
-http://aguauzua.com:80/Shpiatirane/D13W5HW/1297854
-#EXTINF:-1 tvg-name="UK - TNT SPORTS | EVENT 10 HD :" tvg-logo="" group-title="sports",UK - TNT SPORTS | EVENT 10 HD :
-http://aguauzua.com:80/Shpiatirane/D13W5HW/955962
-#EXTINF:-1 tvg-name="UK - TNT SPORTS | EVENT 11 HD :" tvg-logo="" group-title="sports",UK - TNT SPORTS | EVENT 11 HD :
-http://aguauzua.com:80/Shpiatirane/D13W5HW/955961
-#EXTINF:-1 tvg-name="UK - TNT SPORTS | EVENT 12 HD :" tvg-logo="" group-title="sports",UK - TNT SPORTS | EVENT 12 HD :
-http://aguauzua.com:80/Shpiatirane/D13W5HW/955960
-#EXTINF:-1 tvg-name="UK - TNT SPORTS | EVENT 13 HD :" tvg-logo="" group-title="sports",UK - TNT SPORTS | EVENT 13 HD :
-http://aguauzua.com:80/Shpiatirane/D13W5HW/955959
-#EXTINF:-1 tvg-name="UK - TNT SPORTS | EVENT 14 HD :" tvg-logo="" group-title="sports",UK - TNT SPORTS | EVENT 14 HD :
-http://aguauzua.com:80/Shpiatirane/D13W5HW/955958
-#EXTINF:-1 tvg-name="UK - TNT SPORTS | EVENT 15 HD :" tvg-logo="" group-title="sports",UK - TNT SPORTS | EVENT 15 HD :
-http://aguauzua.com:80/Shpiatirane/D13W5HW/955957
-#EXTINF:-1 tvg-name="UK - TNT SPORTS | EVENT 16 HD :" tvg-logo="" group-title="sports",UK - TNT SPORTS | EVENT 16 HD :
-http://aguauzua.com:80/Shpiatirane/D13W5HW/955956
-#EXTINF:-1 tvg-name="UK - TNT SPORTS | EVENT 17 HD :" tvg-logo="" group-title="sports",UK - TNT SPORTS | EVENT 17 HD :
-http://aguauzua.com:80/Shpiatirane/D13W5HW/955955
-#EXTINF:-1 tvg-name="UK - TNT SPORTS | EVENT 18 HD :" tvg-logo="" group-title="sports",UK - TNT SPORTS | EVENT 18 HD :
-http://aguauzua.com:80/Shpiatirane/D13W5HW/955954
+#EXTINF:-1 tvg-name="24/7: ESPN 30 For 30" tvg-logo="" group-title="sports",24/7: ESPN 30 For 30
+http://hostengine.live/live/john/franklin/224099.m3u
+#EXTINF:-1 tvg-name="AU: 10 SPORT 01" tvg-logo="" group-title="sports",AU: 10 SPORT 01
+http://hostengine.live/live/john/franklin/278769.m3u
+#EXTINF:-1 tvg-name="AU: 10 SPORT 02" tvg-logo="" group-title="sports",AU: 10 SPORT 02
+http://hostengine.live/live/john/franklin/280441.m3u
+#EXTINF:-1 tvg-name="AU: 10 SPORT 03" tvg-logo="" group-title="sports",AU: 10 SPORT 03
+http://hostengine.live/live/john/franklin/280439.m3u
+#EXTINF:-1 tvg-name="AU: 10 SPORT 04" tvg-logo="" group-title="sports",AU: 10 SPORT 04
+http://hostengine.live/live/john/franklin/280440.m3u
+#EXTINF:-1 tvg-name="CA : (FR) TVA SPORTS 2" tvg-logo="" group-title="sports",CA : (FR) TVA SPORTS 2
+http://hostengine.live/live/john/franklin/309489.m3u
+#EXTINF:-1 tvg-name="CA: BeIN SPORTS CANADA" tvg-logo="https://logo.unimaxapp.eu/Bayraklar/Canada.png" group-title="sports",CA: BeIN SPORTS CANADA
+http://hostengine.live/live/john/franklin/53609.m3u
+#EXTINF:-1 tvg-name="CA: FOX SPORTS RACING" tvg-logo="https://docdog.top/logo/countries/canada/foxsportsracing.png" group-title="sports",CA: FOX SPORTS RACING
+http://hostengine.live/live/john/franklin/53688.m3u
+#EXTINF:-1 tvg-name="CA : SPORTSMAN HD" tvg-logo="" group-title="sports",CA : SPORTSMAN HD
+http://hostengine.live/live/john/franklin/103320.m3u
+#EXTINF:-1 tvg-name="CA: SPORTSNET 360" tvg-logo="https://logo.unimaxapp.eu/Bayraklar/Canada.png" group-title="sports",CA: SPORTSNET 360
+http://hostengine.live/live/john/franklin/53748.m3u
+#EXTINF:-1 tvg-name="CA: SPORTSNET EAST" tvg-logo="https://logo.unimaxapp.eu/Bayraklar/Canada.png" group-title="sports",CA: SPORTSNET EAST
+http://hostengine.live/live/john/franklin/188567.m3u
+#EXTINF:-1 tvg-name="CA : SPORTSNET EAST b" tvg-logo="" group-title="sports",CA : SPORTSNET EAST b
+http://hostengine.live/live/john/franklin/53749.m3u
+#EXTINF:-1 tvg-name="CA: SPORTSNET ONE" tvg-logo="" group-title="sports",CA: SPORTSNET ONE
+http://hostengine.live/live/john/franklin/53750.m3u
+#EXTINF:-1 tvg-name="CA: Sportsnet Ontario" tvg-logo="" group-title="sports",CA: Sportsnet Ontario
+http://tvmate.icu:8080/34164995/34164995/57463
+#EXTINF:-1 tvg-name="CA: SPORTSNET PACIFIC" tvg-logo="https://logo.unimaxapp.eu/Bayraklar/Canada.png" group-title="sports",CA: SPORTSNET PACIFIC
+http://hostengine.live/live/john/franklin/53752.m3u
+#EXTINF:-1 tvg-name="CA: SPORTSNET WEST" tvg-logo="" group-title="sports",CA: SPORTSNET WEST
+http://tvmate.icu:8080/34164995/34164995/57300
+#EXTINF:-1 tvg-name="CA: SPORTSNET WORLD" tvg-logo="https://logo.unimaxapp.eu/Bayraklar/Canada.png" group-title="sports",CA: SPORTSNET WORLD
+http://hostengine.live/live/john/franklin/53754.m3u
+#EXTINF:-1 tvg-name="CARIBBEAN : ESPN" tvg-logo="" group-title="sports",CARIBBEAN : ESPN
+http://hostengine.live/live/john/franklin/118998.m3u
+#EXTINF:-1 tvg-name="ESPN+ EVENT 001" tvg-logo="" group-title="sports",ESPN+ EVENT 001
+http://hostengine.live/live/john/franklin/343699.m3u
+#EXTINF:-1 tvg-name="ESPN+ EVENT 002" tvg-logo="" group-title="sports",ESPN+ EVENT 002
+http://hostengine.live/live/john/franklin/343700.m3u
+#EXTINF:-1 tvg-name="ESPN+ EVENT 003" tvg-logo="" group-title="sports",ESPN+ EVENT 003
+http://hostengine.live/live/john/franklin/343701.m3u
+#EXTINF:-1 tvg-name="ESPN+ EVENT 004" tvg-logo="" group-title="sports",ESPN+ EVENT 004
+http://hostengine.live/live/john/franklin/343702.m3u
+#EXTINF:-1 tvg-name="ESPN+ EVENT 005" tvg-logo="" group-title="sports",ESPN+ EVENT 005
+http://hostengine.live/live/john/franklin/343703.m3u
+#EXTINF:-1 tvg-name="ESPN+ EVENT 006" tvg-logo="" group-title="sports",ESPN+ EVENT 006
+http://hostengine.live/live/john/franklin/343704.m3u
+#EXTINF:-1 tvg-name="ESPN+ EVENT 007" tvg-logo="" group-title="sports",ESPN+ EVENT 007
+http://hostengine.live/live/john/franklin/343705.m3u
+#EXTINF:-1 tvg-name="ESPN+ EVENT 008" tvg-logo="" group-title="sports",ESPN+ EVENT 008
+http://hostengine.live/live/john/franklin/343706.m3u
+#EXTINF:-1 tvg-name="ESPN+ EVENT 009" tvg-logo="" group-title="sports",ESPN+ EVENT 009
+http://hostengine.live/live/john/franklin/343707.m3u
+#EXTINF:-1 tvg-name="ESPN+ EVENT 010" tvg-logo="" group-title="sports",ESPN+ EVENT 010
+http://hostengine.live/live/john/franklin/343708.m3u
+#EXTINF:-1 tvg-name="ESPN+ EVENT 011" tvg-logo="" group-title="sports",ESPN+ EVENT 011
+http://hostengine.live/live/john/franklin/343709.m3u
+#EXTINF:-1 tvg-name="ESPN+ EVENT 012" tvg-logo="" group-title="sports",ESPN+ EVENT 012
+http://hostengine.live/live/john/franklin/343710.m3u
+#EXTINF:-1 tvg-name="ESPN+ EVENT 013" tvg-logo="" group-title="sports",ESPN+ EVENT 013
+http://hostengine.live/live/john/franklin/343711.m3u
+#EXTINF:-1 tvg-name="ESPN+ EVENT 014" tvg-logo="" group-title="sports",ESPN+ EVENT 014
+http://hostengine.live/live/john/franklin/343712.m3u
+#EXTINF:-1 tvg-name="ESPN+ EVENT 015" tvg-logo="" group-title="sports",ESPN+ EVENT 015
+http://hostengine.live/live/john/franklin/343713.m3u
+#EXTINF:-1 tvg-name="ESPN+ EVENT 016" tvg-logo="" group-title="sports",ESPN+ EVENT 016
+http://hostengine.live/live/john/franklin/343714.m3u
+#EXTINF:-1 tvg-name="ESPN+ EVENT 017" tvg-logo="" group-title="sports",ESPN+ EVENT 017
+http://hostengine.live/live/john/franklin/343715.m3u
+#EXTINF:-1 tvg-name="ESPN+ EVENT 018" tvg-logo="" group-title="sports",ESPN+ EVENT 018
+http://hostengine.live/live/john/franklin/343716.m3u
+#EXTINF:-1 tvg-name="ESPN+ EVENT 019" tvg-logo="" group-title="sports",ESPN+ EVENT 019
+http://hostengine.live/live/john/franklin/343717.m3u
+#EXTINF:-1 tvg-name="ESPN+ EVENT 020" tvg-logo="" group-title="sports",ESPN+ EVENT 020
+http://hostengine.live/live/john/franklin/343718.m3u
+#EXTINF:-1 tvg-name="ESPN+ EVENT 021" tvg-logo="" group-title="sports",ESPN+ EVENT 021
+http://hostengine.live/live/john/franklin/343719.m3u
+#EXTINF:-1 tvg-name="ESPN+ EVENT 022" tvg-logo="" group-title="sports",ESPN+ EVENT 022
+http://hostengine.live/live/john/franklin/343720.m3u
+#EXTINF:-1 tvg-name="ESPN+ EVENT 023" tvg-logo="" group-title="sports",ESPN+ EVENT 023
+http://hostengine.live/live/john/franklin/343721.m3u
+#EXTINF:-1 tvg-name="ESPN+ EVENT 024" tvg-logo="" group-title="sports",ESPN+ EVENT 024
+http://hostengine.live/live/john/franklin/343722.m3u
+#EXTINF:-1 tvg-name="ESPN+ EVENT 025" tvg-logo="" group-title="sports",ESPN+ EVENT 025
+http://hostengine.live/live/john/franklin/343723.m3u
+#EXTINF:-1 tvg-name="ESPN+ EVENT 026" tvg-logo="" group-title="sports",ESPN+ EVENT 026
+http://hostengine.live/live/john/franklin/343724.m3u
+#EXTINF:-1 tvg-name="ESPN+ EVENT 027" tvg-logo="" group-title="sports",ESPN+ EVENT 027
+http://hostengine.live/live/john/franklin/343725.m3u
+#EXTINF:-1 tvg-name="ESPN+ EVENT 028" tvg-logo="" group-title="sports",ESPN+ EVENT 028
+http://hostengine.live/live/john/franklin/343726.m3u
+#EXTINF:-1 tvg-name="ESPN+ EVENT 029" tvg-logo="" group-title="sports",ESPN+ EVENT 029
+http://hostengine.live/live/john/franklin/343727.m3u
+#EXTINF:-1 tvg-name="ESPN+ EVENT 030" tvg-logo="" group-title="sports",ESPN+ EVENT 030
+http://hostengine.live/live/john/franklin/343728.m3u
+#EXTINF:-1 tvg-name="ESPN+ EVENT 031" tvg-logo="" group-title="sports",ESPN+ EVENT 031
+http://hostengine.live/live/john/franklin/343729.m3u
+#EXTINF:-1 tvg-name="ESPN+ EVENT 032" tvg-logo="" group-title="sports",ESPN+ EVENT 032
+http://hostengine.live/live/john/franklin/343730.m3u
+#EXTINF:-1 tvg-name="ESPN+ EVENT 033" tvg-logo="" group-title="sports",ESPN+ EVENT 033
+http://hostengine.live/live/john/franklin/343731.m3u
+#EXTINF:-1 tvg-name="ESPN+ EVENT 034" tvg-logo="" group-title="sports",ESPN+ EVENT 034
+http://hostengine.live/live/john/franklin/343732.m3u
+#EXTINF:-1 tvg-name="ESPN+ EVENT 035" tvg-logo="" group-title="sports",ESPN+ EVENT 035
+http://hostengine.live/live/john/franklin/343733.m3u
+#EXTINF:-1 tvg-name="ESPN+ EVENT 036" tvg-logo="" group-title="sports",ESPN+ EVENT 036
+http://hostengine.live/live/john/franklin/343734.m3u
+#EXTINF:-1 tvg-name="ESPN+ EVENT 037" tvg-logo="" group-title="sports",ESPN+ EVENT 037
+http://hostengine.live/live/john/franklin/343735.m3u
+#EXTINF:-1 tvg-name="ESPN+ EVENT 038" tvg-logo="" group-title="sports",ESPN+ EVENT 038
+http://hostengine.live/live/john/franklin/343736.m3u
+#EXTINF:-1 tvg-name="ESPN+ EVENT 039" tvg-logo="" group-title="sports",ESPN+ EVENT 039
+http://hostengine.live/live/john/franklin/343737.m3u
+#EXTINF:-1 tvg-name="ESPN+ EVENT 040" tvg-logo="" group-title="sports",ESPN+ EVENT 040
+http://hostengine.live/live/john/franklin/343738.m3u
+#EXTINF:-1 tvg-name="ESPN+ EVENT 041" tvg-logo="" group-title="sports",ESPN+ EVENT 041
+http://hostengine.live/live/john/franklin/343739.m3u
+#EXTINF:-1 tvg-name="ESPN+ EVENT 042" tvg-logo="" group-title="sports",ESPN+ EVENT 042
+http://hostengine.live/live/john/franklin/343740.m3u
+#EXTINF:-1 tvg-name="ESPN+ EVENT 043" tvg-logo="" group-title="sports",ESPN+ EVENT 043
+http://hostengine.live/live/john/franklin/343741.m3u
+#EXTINF:-1 tvg-name="ESPN+ EVENT 044" tvg-logo="" group-title="sports",ESPN+ EVENT 044
+http://hostengine.live/live/john/franklin/343742.m3u
+#EXTINF:-1 tvg-name="ESPN+ EVENT 045" tvg-logo="" group-title="sports",ESPN+ EVENT 045
+http://hostengine.live/live/john/franklin/343743.m3u
+#EXTINF:-1 tvg-name="ESPN+ EVENT 046" tvg-logo="" group-title="sports",ESPN+ EVENT 046
+http://hostengine.live/live/john/franklin/343744.m3u
+#EXTINF:-1 tvg-name="ESPN+ EVENT 047" tvg-logo="" group-title="sports",ESPN+ EVENT 047
+http://hostengine.live/live/john/franklin/343745.m3u
+#EXTINF:-1 tvg-name="ESPN+ EVENT 048" tvg-logo="" group-title="sports",ESPN+ EVENT 048
+http://hostengine.live/live/john/franklin/343746.m3u
+#EXTINF:-1 tvg-name="ESPN+ EVENT 049" tvg-logo="" group-title="sports",ESPN+ EVENT 049
+http://hostengine.live/live/john/franklin/343747.m3u
+#EXTINF:-1 tvg-name="ESPN+ EVENT 050" tvg-logo="" group-title="sports",ESPN+ EVENT 050
+http://hostengine.live/live/john/franklin/343748.m3u
+#EXTINF:-1 tvg-name="ESPN+ EVENT 051" tvg-logo="" group-title="sports",ESPN+ EVENT 051
+http://hostengine.live/live/john/franklin/343749.m3u
+#EXTINF:-1 tvg-name="ESPN+ EVENT 052" tvg-logo="" group-title="sports",ESPN+ EVENT 052
+http://hostengine.live/live/john/franklin/343750.m3u
+#EXTINF:-1 tvg-name="ESPN+ EVENT 053" tvg-logo="" group-title="sports",ESPN+ EVENT 053
+http://hostengine.live/live/john/franklin/343751.m3u
+#EXTINF:-1 tvg-name="ESPN+ EVENT 054" tvg-logo="" group-title="sports",ESPN+ EVENT 054
+http://hostengine.live/live/john/franklin/343752.m3u
+#EXTINF:-1 tvg-name="ESPN+ EVENT 055" tvg-logo="" group-title="sports",ESPN+ EVENT 055
+http://hostengine.live/live/john/franklin/343753.m3u
+#EXTINF:-1 tvg-name="ESPN+ EVENT 056" tvg-logo="" group-title="sports",ESPN+ EVENT 056
+http://hostengine.live/live/john/franklin/343754.m3u
+#EXTINF:-1 tvg-name="ESPN+ EVENT 057" tvg-logo="" group-title="sports",ESPN+ EVENT 057
+http://hostengine.live/live/john/franklin/343755.m3u
+#EXTINF:-1 tvg-name="ESPN+ EVENT 058" tvg-logo="" group-title="sports",ESPN+ EVENT 058
+http://hostengine.live/live/john/franklin/343756.m3u
+#EXTINF:-1 tvg-name="ESPN+ EVENT 059" tvg-logo="" group-title="sports",ESPN+ EVENT 059
+http://hostengine.live/live/john/franklin/343757.m3u
+#EXTINF:-1 tvg-name="ESPN+ EVENT 060" tvg-logo="" group-title="sports",ESPN+ EVENT 060
+http://hostengine.live/live/john/franklin/343758.m3u
+#EXTINF:-1 tvg-name="ESPN+ EVENT 061" tvg-logo="" group-title="sports",ESPN+ EVENT 061
+http://hostengine.live/live/john/franklin/343759.m3u
+#EXTINF:-1 tvg-name="ESPN+ EVENT 062" tvg-logo="" group-title="sports",ESPN+ EVENT 062
+http://hostengine.live/live/john/franklin/343760.m3u
+#EXTINF:-1 tvg-name="ESPN+ EVENT 063" tvg-logo="" group-title="sports",ESPN+ EVENT 063
+http://hostengine.live/live/john/franklin/343761.m3u
+#EXTINF:-1 tvg-name="ESPN+ EVENT 064" tvg-logo="" group-title="sports",ESPN+ EVENT 064
+http://hostengine.live/live/john/franklin/343762.m3u
+#EXTINF:-1 tvg-name="ESPN+ EVENT 065" tvg-logo="" group-title="sports",ESPN+ EVENT 065
+http://hostengine.live/live/john/franklin/343763.m3u
+#EXTINF:-1 tvg-name="ESPN+ EVENT 066" tvg-logo="" group-title="sports",ESPN+ EVENT 066
+http://hostengine.live/live/john/franklin/343764.m3u
+#EXTINF:-1 tvg-name="ESPN+ EVENT 067" tvg-logo="" group-title="sports",ESPN+ EVENT 067
+http://hostengine.live/live/john/franklin/343765.m3u
+#EXTINF:-1 tvg-name="ESPN+ EVENT 068" tvg-logo="" group-title="sports",ESPN+ EVENT 068
+http://hostengine.live/live/john/franklin/343766.m3u
+#EXTINF:-1 tvg-name="ESPN+ EVENT 069" tvg-logo="" group-title="sports",ESPN+ EVENT 069
+http://hostengine.live/live/john/franklin/343767.m3u
+#EXTINF:-1 tvg-name="ESPN+ EVENT 070" tvg-logo="" group-title="sports",ESPN+ EVENT 070
+http://hostengine.live/live/john/franklin/343768.m3u
+#EXTINF:-1 tvg-name="ESPN+ EVENT 071" tvg-logo="" group-title="sports",ESPN+ EVENT 071
+http://hostengine.live/live/john/franklin/343769.m3u
+#EXTINF:-1 tvg-name="ESPN+ EVENT 072" tvg-logo="" group-title="sports",ESPN+ EVENT 072
+http://hostengine.live/live/john/franklin/343770.m3u
+#EXTINF:-1 tvg-name="ESPN+ EVENT 073" tvg-logo="" group-title="sports",ESPN+ EVENT 073
+http://hostengine.live/live/john/franklin/343771.m3u
+#EXTINF:-1 tvg-name="ESPN+ EVENT 074" tvg-logo="" group-title="sports",ESPN+ EVENT 074
+http://hostengine.live/live/john/franklin/343772.m3u
+#EXTINF:-1 tvg-name="ESPN+ EVENT 075" tvg-logo="" group-title="sports",ESPN+ EVENT 075
+http://hostengine.live/live/john/franklin/343773.m3u
+#EXTINF:-1 tvg-name="ESPN+ EVENT 076" tvg-logo="" group-title="sports",ESPN+ EVENT 076
+http://hostengine.live/live/john/franklin/343774.m3u
+#EXTINF:-1 tvg-name="ESPN+ EVENT 077" tvg-logo="" group-title="sports",ESPN+ EVENT 077
+http://hostengine.live/live/john/franklin/343775.m3u
+#EXTINF:-1 tvg-name="ESPN+ EVENT 078" tvg-logo="" group-title="sports",ESPN+ EVENT 078
+http://hostengine.live/live/john/franklin/343776.m3u
+#EXTINF:-1 tvg-name="ESPN+ EVENT 079" tvg-logo="" group-title="sports",ESPN+ EVENT 079
+http://hostengine.live/live/john/franklin/343777.m3u
+#EXTINF:-1 tvg-name="ESPN+ EVENT 080" tvg-logo="" group-title="sports",ESPN+ EVENT 080
+http://hostengine.live/live/john/franklin/343778.m3u
+#EXTINF:-1 tvg-name="ESPN+ EVENT 081" tvg-logo="" group-title="sports",ESPN+ EVENT 081
+http://hostengine.live/live/john/franklin/343779.m3u
+#EXTINF:-1 tvg-name="ESPN+ EVENT 082" tvg-logo="" group-title="sports",ESPN+ EVENT 082
+http://hostengine.live/live/john/franklin/343780.m3u
+#EXTINF:-1 tvg-name="ESPN+ EVENT 083" tvg-logo="" group-title="sports",ESPN+ EVENT 083
+http://hostengine.live/live/john/franklin/343781.m3u
+#EXTINF:-1 tvg-name="ESPN+ EVENT 084" tvg-logo="" group-title="sports",ESPN+ EVENT 084
+http://hostengine.live/live/john/franklin/343782.m3u
+#EXTINF:-1 tvg-name="ESPN+ EVENT 085" tvg-logo="" group-title="sports",ESPN+ EVENT 085
+http://hostengine.live/live/john/franklin/343783.m3u
+#EXTINF:-1 tvg-name="ESPN+ EVENT 086" tvg-logo="" group-title="sports",ESPN+ EVENT 086
+http://hostengine.live/live/john/franklin/343784.m3u
+#EXTINF:-1 tvg-name="ESPN+ EVENT 087" tvg-logo="" group-title="sports",ESPN+ EVENT 087
+http://hostengine.live/live/john/franklin/343785.m3u
+#EXTINF:-1 tvg-name="ESPN+ EVENT 088" tvg-logo="" group-title="sports",ESPN+ EVENT 088
+http://hostengine.live/live/john/franklin/343786.m3u
+#EXTINF:-1 tvg-name="ESPN+ EVENT 089" tvg-logo="" group-title="sports",ESPN+ EVENT 089
+http://hostengine.live/live/john/franklin/343787.m3u
+#EXTINF:-1 tvg-name="ESPN+ EVENT 090" tvg-logo="" group-title="sports",ESPN+ EVENT 090
+http://hostengine.live/live/john/franklin/343788.m3u
+#EXTINF:-1 tvg-name="ESPN+ EVENT 091" tvg-logo="" group-title="sports",ESPN+ EVENT 091
+http://hostengine.live/live/john/franklin/343789.m3u
+#EXTINF:-1 tvg-name="ESPN+ EVENT 092" tvg-logo="" group-title="sports",ESPN+ EVENT 092
+http://hostengine.live/live/john/franklin/343790.m3u
+#EXTINF:-1 tvg-name="ESPN+ EVENT 093" tvg-logo="" group-title="sports",ESPN+ EVENT 093
+http://hostengine.live/live/john/franklin/343791.m3u
+#EXTINF:-1 tvg-name="ESPN+ EVENT 094" tvg-logo="" group-title="sports",ESPN+ EVENT 094
+http://hostengine.live/live/john/franklin/343792.m3u
+#EXTINF:-1 tvg-name="ESPN+ EVENT 095" tvg-logo="" group-title="sports",ESPN+ EVENT 095
+http://hostengine.live/live/john/franklin/343793.m3u
+#EXTINF:-1 tvg-name="ESPN+ EVENT 096" tvg-logo="" group-title="sports",ESPN+ EVENT 096
+http://hostengine.live/live/john/franklin/343794.m3u
+#EXTINF:-1 tvg-name="ESPN+ EVENT 097" tvg-logo="" group-title="sports",ESPN+ EVENT 097
+http://hostengine.live/live/john/franklin/343795.m3u
+#EXTINF:-1 tvg-name="ESPN+ EVENT 098" tvg-logo="" group-title="sports",ESPN+ EVENT 098
+http://hostengine.live/live/john/franklin/343796.m3u
+#EXTINF:-1 tvg-name="ESPN+ EVENT 099" tvg-logo="" group-title="sports",ESPN+ EVENT 099
+http://hostengine.live/live/john/franklin/343797.m3u
+#EXTINF:-1 tvg-name="ESPN+ EVENT 100" tvg-logo="" group-title="sports",ESPN+ EVENT 100
+http://hostengine.live/live/john/franklin/343798.m3u
+#EXTINF:-1 tvg-name="ESPN+ EVENT 101" tvg-logo="" group-title="sports",ESPN+ EVENT 101
+http://hostengine.live/live/john/franklin/343698.m3u
+#EXTINF:-1 tvg-name="ESPN+ EVENT 102" tvg-logo="" group-title="sports",ESPN+ EVENT 102
+http://hostengine.live/live/john/franklin/343697.m3u
+#EXTINF:-1 tvg-name="ESPN+ EVENT 103" tvg-logo="" group-title="sports",ESPN+ EVENT 103
+http://hostengine.live/live/john/franklin/343696.m3u
+#EXTINF:-1 tvg-name="ESPN+ EVENT 104" tvg-logo="" group-title="sports",ESPN+ EVENT 104
+http://hostengine.live/live/john/franklin/343695.m3u
+#EXTINF:-1 tvg-name="ESPN+ EVENT 105" tvg-logo="" group-title="sports",ESPN+ EVENT 105
+http://hostengine.live/live/john/franklin/343694.m3u
