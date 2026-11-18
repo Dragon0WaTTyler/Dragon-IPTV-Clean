@@ -1,42 +1,210 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="USA: AlJazeera English FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Aljazeera_eng.svg/300px-Aljazeera_eng.svg.png" group-title="news",USA: AlJazeera English FHD
+http://1sn.ns1.name:18800/boris/rZqe9mKf/241620
+#EXTINF:-1 tvg-name="UK: BBC News HD" tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/united-kingdom/bbc-news-uk.png" group-title="news",UK: BBC News HD
+http://1sn.ns1.name:18800/boris/rZqe9mKf/28823
+#EXTINF:-1 tvg-name="UK: BBC NEWS 24 SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/BBC_News_2019.svg/1200px-BBC_News_2019.svg.png" group-title="news",UK: BBC NEWS 24 SD
+http://1sn.ns1.name:18800/boris/rZqe9mKf/310550
 #EXTINF:-1 tvg-name="BBC NEWS UK" tvg-logo="" group-title="news",BBC NEWS UK
 http://xfast-media.info:25461/play/wKx2ECU0_3OoRJWXv4stzbQZefMPRWTHXcPyu46qSt0/ts
-#EXTINF:-1 tvg-name="GB : BBC NEWS HD" tvg-logo="" group-title="news",GB : BBC NEWS HD
-http://hostengine.live/live/john/franklin/53840.m3u
 #EXTINF:-1 tvg-name="CNN International" tvg-logo="" group-title="news",CNN International
 http://hostengine.live/live/john/franklin/337600.m3u
 #EXTINF:-1 tvg-name="CNN Canada" tvg-logo="" group-title="news",CNN Canada
-http://23.227.132.58:25461/STREAM2/Brewers825/115630
+http://23.227.132.58:25461/peedee0420/Jts62dms59/115630
 #EXTINF:-1 tvg-name="CNN International (mex)" tvg-logo="" group-title="news",CNN International (mex)
-http://23.227.132.58:25461/nodi01/Juicyjuice1/117249
-#EXTINF:-1 tvg-name="US : CNN" tvg-logo="" group-title="news",US : CNN
-http://hostengine.live/live/john/franklin/56588.m3u
+http://23.227.132.58:25461/pepperann71/990848ms/117249
+#EXTINF:-1 tvg-name="USA: CNN" tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Scandinav-Ilhan/55/CNN.png" group-title="news",USA: CNN
+http://1sn.ns1.name:18800/boris/rZqe9mKf/8393
+#EXTINF:-1 tvg-name="USA: CNN INT HD" tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Scandinav-Ilhan/55/CNN.png" group-title="news",USA: CNN INT HD
+http://1sn.ns1.name:18800/boris/rZqe9mKf/241362
+#EXTINF:-1 tvg-name="USA: CNNI EAST FHD" tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Scandinav-Ilhan/55/CNN.png" group-title="news",USA: CNNI EAST FHD
+http://1sn.ns1.name:18800/boris/rZqe9mKf/216411
 #EXTINF:-1 tvg-name="CNN US" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cnn-international-us.png" group-title="news",CNN US
-http://client.nodomain.vip:80/milan.stancic/stancic.milan/1161
+http://client.nodomain.vip:80/sadetaa/aiMWZsQYsT/1161
+#EXTINF:-1 tvg-name="USA: SKY NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/57/Sky_News_logo.svg/375px-Sky_News_logo.svg.png" group-title="news",USA: SKY NEWS
+http://1sn.ns1.name:18800/boris/rZqe9mKf/18250
+#EXTINF:-1 tvg-name="USA: Peacock Live | Sky News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/NBCUniversal_Peacock_Logo.svg/1199px-NBCUniversal_Peacock_Logo.svg.png" group-title="news",USA: Peacock Live | Sky News
+http://1sn.ns1.name:18800/boris/rZqe9mKf/164716
+#EXTINF:-1 tvg-name="SKY NEWS UK" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-news-uk.png" group-title="news",SKY NEWS UK
+http://client.nodomain.vip:80/sadetaa/aiMWZsQYsT/1146
 #EXTINF:-1 tvg-name="AU: SKY NEWS NOW" tvg-logo="" group-title="news",AU: SKY NEWS NOW
 http://hostengine.live/live/john/franklin/264919.m3u
-#EXTINF:-1 tvg-name="GB : SKY NEWS" tvg-logo="" group-title="news",GB : SKY NEWS
-http://hostengine.live/live/john/franklin/53974.m3u
-#EXTINF:-1 tvg-name="SKY NEWS UK" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-news-uk.png" group-title="news",SKY NEWS UK
-http://client.nodomain.vip:80/milan.stancic/stancic.milan/1146
 #EXTINF:-1 tvg-name="US : FRANCE 24 ENGLISH" tvg-logo="" group-title="news",US : FRANCE 24 ENGLISH
-http://hostengine.live/live/john/franklin/295121.m3u
-#EXTINF:-1 tvg-name="Euronews Serbia" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/EuroNews_Srbija_logo.jpg" group-title="news",Euronews Serbia
-http://185.149.233.91:80/dren/dren/4581
-#EXTINF:-1 tvg-name="EuroNews Srbija" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/4/img/kanali-logo/EuroNews_Serbia_RS_logo.jpg" group-title="news",EuroNews Srbija
-http://client.nodomain.vip:80/milan.stancic/stancic.milan/2060
-#EXTINF:-1 tvg-name="TRT World" tvg-logo="https://tvprofil.com/img/kanali-logo/TRT_World_TR_logo.png" group-title="news",TRT World
-http://caffe.link:25461/200Zrinko/UB9quKy8uSvy/53706
+http://1sn.ns1.name:18800/boris/rZqe9mKf/244316
+#EXTINF:-1 tvg-name="EX YU: Euronews BiH" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/Euronews._2016_alternative_logo.png" group-title="news",EX YU: Euronews BiH
+http://1sn.ns1.name:18800/boris/rZqe9mKf/286369
+#EXTINF:-1 tvg-name="EX YU: Euronews Srbija" tvg-logo="https://pbs.twimg.com/media/D_gjLGWWkAAzhBY.jpg" group-title="news",EX YU: Euronews Srbija
+http://1sn.ns1.name:18800/boris/rZqe9mKf/258160
+#EXTINF:-1 tvg-name="EURONEWS SRBIJA" tvg-logo="https://www.euronews.rs/files/img/logo-new.png" group-title="news",EURONEWS SRBIJA
+http://client.nodomain.vip:80/sadetaa/aiMWZsQYsT/2060
 #EXTINF:-1 tvg-name="TRT WORLD TR" tvg-logo="" group-title="news",TRT WORLD TR
-http://client.nodomain.vip:80/milan.stancic/stancic.milan/1525
+http://client.nodomain.vip:80/sadetaa/aiMWZsQYsT/1525
 #EXTINF:-1 tvg-name="BBC World News" tvg-logo="" group-title="news",BBC World News
-http://hostengine.live/live/john/franklin/53608.m3u
+http://1sn.ns1.name:18800/boris/rZqe9mKf/197246
 #EXTINF:-1 tvg-name="CA | Global News Channel" tvg-logo="" group-title="news",CA | Global News Channel
-http://23.227.132.58:25461/STREAM2/Brewers825/115677
+http://23.227.132.58:25461/pepperann71/990848ms/115677
 #EXTINF:-1 tvg-name="CA | CBC NEWS HD" tvg-logo="" group-title="news",CA | CBC NEWS HD
-http://23.227.132.58:25461/STREAM2/Brewers825/115678
+http://23.227.132.58:25461/pepperann71/990848ms/115678
 #EXTINF:-1 tvg-name="CA | CTV NEWS NETWORK" tvg-logo="" group-title="news",CA | CTV NEWS NETWORK
-http://23.227.132.58:25461/STREAM2/Brewers825/115679
+http://23.227.132.58:25461/pepperann71/990848ms/115679
+#EXTINF:-1 tvg-name="USA: 7 News Boston HD" tvg-logo="" group-title="news",USA: 7 News Boston HD
+http://1sn.ns1.name:18800/boris/rZqe9mKf/287079
+#EXTINF:-1 tvg-name="USA: ACC Network HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/ACC_Network_Raycom_Logo.png/330px-ACC_Network_Raycom_Logo.png" group-title="news",USA: ACC Network HD
+http://1sn.ns1.name:18800/boris/rZqe9mKf/45374
+#EXTINF:-1 tvg-name="USA: ACCUWEATHER FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/AccuWeather_Logo.svg/1200px-AccuWeather_Logo.svg.png" group-title="news",USA: ACCUWEATHER FHD
+http://1sn.ns1.name:18800/boris/rZqe9mKf/197247
+#EXTINF:-1 tvg-name="USA: Aljazeera America" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/31/Al_Jazeera_America_Logo.png/225px-Al_Jazeera_America_Logo.png" group-title="news",USA: Aljazeera America
+http://1sn.ns1.name:18800/boris/rZqe9mKf/241621
+#EXTINF:-1 tvg-name="USA: Black News Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/BNC_logo_2021.png/300px-BNC_logo_2021.png" group-title="news",USA: Black News Channel
+http://1sn.ns1.name:18800/boris/rZqe9mKf/245038
+#EXTINF:-1 tvg-name="USA: Bloomberg Europe" tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Scandinav-Ilhan/55/Bloomberg.png" group-title="news",USA: Bloomberg Europe
+http://1sn.ns1.name:18800/boris/rZqe9mKf/10808
+#EXTINF:-1 tvg-name="UK: BLOOMBERG" tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/united-kingdom/bloomberg-television-us.png" group-title="news",UK: BLOOMBERG
+http://1sn.ns1.name:18800/boris/rZqe9mKf/30535
+#EXTINF:-1 tvg-name="USA: Bloomberg Quicktake FHD" tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Scandinav-Ilhan/55/Bloomberg.png" group-title="news",USA: Bloomberg Quicktake FHD
+http://1sn.ns1.name:18800/boris/rZqe9mKf/245503
+#EXTINF:-1 tvg-name="USA: BLOOMBERG TV" tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Scandinav-Ilhan/55/Bloomberg.png" group-title="news",USA: BLOOMBERG TV
+http://1sn.ns1.name:18800/boris/rZqe9mKf/44558
+#EXTINF:-1 tvg-name="USA: C-SPAN" tvg-logo="https://www.lyngsat.com/logo/tv/cc/c-span-us.png" group-title="news",USA: C-SPAN
+http://1sn.ns1.name:18800/boris/rZqe9mKf/244258
+#EXTINF:-1 tvg-name="US : CSPAN 2" tvg-logo="http://icons.tw:8080/images/b27cedaf0ff83525403980572ea93543.png" group-title="news",US : CSPAN 2
+http://1sn.ns1.name:18800/boris/rZqe9mKf/244259
+#EXTINF:-1 tvg-name="USA: C-SPAN 3" tvg-logo="https://www.lyngsat.com/logo/tv/cc/c-span-3-us.png" group-title="news",USA: C-SPAN 3
+http://hostengine.live/live/john/franklin/325335.m3u
+#EXTINF:-1 tvg-name="USA: CBN NEWS HD" tvg-logo="https://www.clipartmax.com/png/middle/31-311826_cbn-us-logo-things-happen-to-good-people.png" group-title="news",USA: CBN NEWS HD
+http://1sn.ns1.name:18800/boris/rZqe9mKf/245039
+#EXTINF:-1 tvg-name="USA: CBN TV HD" tvg-logo="https://www.clipartmax.com/png/middle/31-311826_cbn-us-logo-things-happen-to-good-people.png" group-title="news",USA: CBN TV HD
+http://1sn.ns1.name:18800/boris/rZqe9mKf/44666
+#EXTINF:-1 tvg-name="USA: CBSN NEWS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/CBSN_logo_%282021%29.svg/2560px-CBSN_logo_%282021%29.svg.png" group-title="news",USA: CBSN NEWS HD
+http://1sn.ns1.name:18800/boris/rZqe9mKf/10796
+#EXTINF:-1 tvg-name="USA: CGTN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/CGTN-America_Logo.svg/375px-CGTN-America_Logo.svg.png" group-title="news",USA: CGTN
+http://1sn.ns1.name:18800/boris/rZqe9mKf/244304
+#EXTINF:-1 tvg-name="USA: Cheddar Business FHD" tvg-logo="https://pbs.twimg.com/media/EI4bxIPXUAAV2Hc.jpg" group-title="news",USA: Cheddar Business FHD
+http://1sn.ns1.name:18800/boris/rZqe9mKf/241359
+#EXTINF:-1 tvg-name="USA: Cheddar HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f2/Cheddar_2019.png" group-title="news",USA: Cheddar HD
+http://1sn.ns1.name:18800/boris/rZqe9mKf/241360
+#EXTINF:-1 tvg-name="USA: CHEDDAR NEWS FHD 1080" tvg-logo="https://image.pngaaa.com/587/5973587-middle.png" group-title="news",USA: CHEDDAR NEWS FHD 1080
+http://1sn.ns1.name:18800/boris/rZqe9mKf/244252
+#EXTINF:-1 tvg-name="US : CHEDDAR NEWS" tvg-logo="" group-title="news",US : CHEDDAR NEWS
+http://1sn.ns1.name:18800/boris/rZqe9mKf/197256
+#EXTINF:-1 tvg-name="USA: CNBC" tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Scandinav-Ilhan/55/CNBC.png" group-title="news",USA: CNBC
+http://1sn.ns1.name:18800/boris/rZqe9mKf/10773
+#EXTINF:-1 tvg-name="USA: CNBC WORLD" tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Scandinav-Ilhan/55/CNBC.png" group-title="news",USA: CNBC WORLD
+http://1sn.ns1.name:18800/boris/rZqe9mKf/241599
+#EXTINF:-1 tvg-name="USA: DW" tvg-logo="https://w7.pngwing.com/pngs/23/40/png-transparent-logo-deutsche-welle-dw-tv-dw-espanol-lacrosse-talk-radio-television-blue-text.png" group-title="news",USA: DW
+http://1sn.ns1.name:18800/boris/rZqe9mKf/44572
+#EXTINF:-1 tvg-name="US : FOX BUSINESS" tvg-logo="http://icons.tw:8080/images/7f4b266bf19e409a10d42a6f53360468.png" group-title="news",US : FOX BUSINESS
+http://hostengine.live/live/john/franklin/56592.m3u
+#EXTINF:-1 tvg-name="USA: FOX NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/255px-Fox_News_Channel_logo.svg.png" group-title="news",USA: FOX NEWS
+http://1sn.ns1.name:18800/boris/rZqe9mKf/8373
+#EXTINF:-1 tvg-name="USA: Fox Weather" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="news",USA: Fox Weather
+http://hostengine.live/live/john/franklin/286613.m3u
+#EXTINF:-1 tvg-name="USA: I24 NEWS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/I24NEWS_logo.svg/330px-I24NEWS_logo.svg.png" group-title="news",USA: I24 NEWS HD
+http://1sn.ns1.name:18800/boris/rZqe9mKf/197279
+#EXTINF:-1 tvg-name="USA: India Today" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ab/India_Today_logo.png" group-title="news",USA: India Today
+http://1sn.ns1.name:18800/boris/rZqe9mKf/244323
+#EXTINF:-1 tvg-name="USA: Investment Pitch" tvg-logo="https://geomega.ca/wp-content/uploads/2020/02/2020-02-1-InvestmentPitchMedia.jpg" group-title="news",USA: Investment Pitch
+http://1sn.ns1.name:18800/boris/rZqe9mKf/245467
+#EXTINF:-1 tvg-name="USA: Live NOW from FOX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/LiveNOW_from_FOX.png/375px-LiveNOW_from_FOX.png" group-title="news",USA: Live NOW from FOX
+http://1sn.ns1.name:18800/boris/rZqe9mKf/245522
+#EXTINF:-1 tvg-name="USA: NBC News HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/NBC_News_%282023%29.svg/315px-NBC_News_%282023%29.svg.png" group-title="news",USA: NBC News HD
+http://1sn.ns1.name:18800/boris/rZqe9mKf/44605
+#EXTINF:-1 tvg-name="USA: NBC News Now" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/NBC_News_Now_2023.svg/242px-NBC_News_Now_2023.svg.png" group-title="news",USA: NBC News Now
+http://1sn.ns1.name:18800/boris/rZqe9mKf/180169
+#EXTINF:-1 tvg-name="USA: NDTV 24x7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/NDTV_247.svg/330px-NDTV_247.svg.png" group-title="news",USA: NDTV 24x7
+http://1sn.ns1.name:18800/boris/rZqe9mKf/244327
+#EXTINF:-1 tvg-name="USA: News 12 Brooklyn FHD" tvg-logo="https://logowik.com/content/uploads/images/news-12-networks2756.jpg" group-title="news",USA: News 12 Brooklyn FHD
+http://1sn.ns1.name:18800/boris/rZqe9mKf/44826
+#EXTINF:-1 tvg-name="USA: News 12 Connecticut FHD" tvg-logo="https://logowik.com/content/uploads/images/news-12-networks2756.jpg" group-title="news",USA: News 12 Connecticut FHD
+http://1sn.ns1.name:18800/boris/rZqe9mKf/241067
+#EXTINF:-1 tvg-name="USA: News 12 Hudson Valley & Westchester FHD" tvg-logo="https://logowik.com/content/uploads/images/news-12-networks2756.jpg" group-title="news",USA: News 12 Hudson Valley & Westchester FHD
+http://1sn.ns1.name:18800/boris/rZqe9mKf/44827
+#EXTINF:-1 tvg-name="USA: News 12 Long Island FHD" tvg-logo="https://logowik.com/content/uploads/images/news-12-networks2756.jpg" group-title="news",USA: News 12 Long Island FHD
+http://1sn.ns1.name:18800/boris/rZqe9mKf/44828
+#EXTINF:-1 tvg-name="USA: News 12 New Jersey FHD" tvg-logo="https://logowik.com/content/uploads/images/news-12-networks2756.jpg" group-title="news",USA: News 12 New Jersey FHD
+http://1sn.ns1.name:18800/boris/rZqe9mKf/44829
+#EXTINF:-1 tvg-name="USA: News 12 New York" tvg-logo="https://logowik.com/content/uploads/images/news-12-networks2756.jpg" group-title="news",USA: News 12 New York
+http://1sn.ns1.name:18800/boris/rZqe9mKf/245114
+#EXTINF:-1 tvg-name="USA: News 12 Bronx FHD" tvg-logo="https://logowik.com/content/uploads/images/news-12-networks2756.jpg" group-title="news",USA: News 12 Bronx FHD
+http://1sn.ns1.name:18800/boris/rZqe9mKf/44830
+#EXTINF:-1 tvg-name="USA: News Channel 5" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="news",USA: News Channel 5
+http://1sn.ns1.name:18800/boris/rZqe9mKf/245472
+#EXTINF:-1 tvg-name="USA: NEWS NATION FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/News_nation_logo.jpg/360px-News_nation_logo.jpg" group-title="news",USA: NEWS NATION FHD
+http://1sn.ns1.name:18800/boris/rZqe9mKf/197354
+#EXTINF:-1 tvg-name="USA: News18" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Network_18_Logo.svg/330px-Network_18_Logo.svg.png" group-title="news",USA: News18
+http://1sn.ns1.name:18800/boris/rZqe9mKf/244328
+#EXTINF:-1 tvg-name="USA: NEWSMAX 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Newsmax_logo.svg/405px-Newsmax_logo.svg.png" group-title="news",USA: NEWSMAX 2 HD
+http://1sn.ns1.name:18800/boris/rZqe9mKf/245115
+#EXTINF:-1 tvg-name="USA: NEWSMAX HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Newsmax_logo.svg/405px-Newsmax_logo.svg.png" group-title="news",USA: NEWSMAX HD
+http://1sn.ns1.name:18800/boris/rZqe9mKf/197304
+#EXTINF:-1 tvg-name="USA: Newsnet" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-08/d81b78bc2752e9c75032ecd8ba9b37cc.jpeg" group-title="news",USA: Newsnet
+http://1sn.ns1.name:18800/boris/rZqe9mKf/245527
+#EXTINF:-1 tvg-name="USA: NEWSY HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-02/29106a904946af93fc6e8b2a312783db.png" group-title="news",USA: NEWSY HD
+http://1sn.ns1.name:18800/boris/rZqe9mKf/245528
+#EXTINF:-1 tvg-name="USA: NHK World" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/NHK_World.svg/300px-NHK_World.svg.png" group-title="news",USA: NHK World
+http://1sn.ns1.name:18800/boris/rZqe9mKf/241632
+#EXTINF:-1 tvg-name="USA: ONE AMERICA NEWS HD" tvg-logo="https://www.lyngsat.com/logo/tv/oo/one-america-news-network-us.png" group-title="news",USA: ONE AMERICA NEWS HD
+http://1sn.ns1.name:18800/boris/rZqe9mKf/70965
+#EXTINF:-1 tvg-name="USA: Parliament TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-06/e0283ca54f0bbb3afdcd1eb41567de60.jfif" group-title="news",USA: Parliament TV
+http://1sn.ns1.name:18800/boris/rZqe9mKf/245474
+#EXTINF:-1 tvg-name="USA: Revry News HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-08/22e183bb136428e17490ead897e96308.png" group-title="news",USA: Revry News HD
+http://1sn.ns1.name:18800/boris/rZqe9mKf/245512
+#EXTINF:-1 tvg-name="USA: RT NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/300px-Russia-today-logo.svg.png" group-title="news",USA: RT NEWS
+http://1sn.ns1.name:18800/boris/rZqe9mKf/73816
+#EXTINF:-1 tvg-name="USA: SPECTRUM NEWS 1 ROTX HD" tvg-logo="https://seeklogo.com/images/S/spectrum-news-logo-18F2FBBA65-seeklogo.com.png" group-title="news",USA: SPECTRUM NEWS 1 ROTX HD
+http://1sn.ns1.name:18800/boris/rZqe9mKf/197326
+#EXTINF:-1 tvg-name="USA: THE WEATHER CH" tvg-logo="https://www.lyngsat.com/logo/tv/tt/the-weather-channel-us.png" group-title="news",USA: THE WEATHER CH
+http://1sn.ns1.name:18800/boris/rZqe9mKf/218709
+#EXTINF:-1 tvg-name="USA: The Weather Channel HD" tvg-logo="https://www.lyngsat.com/logo/tv/tt/the-weather-channel-us.png" group-title="news",USA: The Weather Channel HD
+http://1sn.ns1.name:18800/boris/rZqe9mKf/44782
+#EXTINF:-1 tvg-name="USA: The Weather Nation HD" tvg-logo="https://www.lyngsat.com/logo/tv/ww/weather_nation_us.png" group-title="news",USA: The Weather Nation HD
+http://1sn.ns1.name:18800/boris/rZqe9mKf/241365
+#EXTINF:-1 tvg-name="USA: USA Today" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-06/afe4bf117614366978b258379a9961f0.png" group-title="news",USA: USA Today
+http://1sn.ns1.name:18800/boris/rZqe9mKf/245530
+#EXTINF:-1 tvg-name="USA: WGN America HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/WGN_America_logo_2014.png/300px-WGN_America_logo_2014.png" group-title="news",USA: WGN America HD
+http://1sn.ns1.name:18800/boris/rZqe9mKf/241639
+#EXTINF:-1 tvg-name="USA: Yahoo Finance" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-08/bf2c6ae873ef09a313a98db61191a3a4.png" group-title="news",USA: Yahoo Finance
+http://hostengine.live/live/john/franklin/300166.m3u
+#EXTINF:-1 tvg-name="USA: NECN HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/CNN-International-Logo.svg/1116px-CNN-International-Logo.svg.png" group-title="news",USA: NECN HD
+http://1sn.ns1.name:18800/boris/rZqe9mKf/253615
+#EXTINF:-1 tvg-name="USA: TYT Network" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="news",USA: TYT Network
+http://1sn.ns1.name:18800/boris/rZqe9mKf/245491
+#EXTINF:-1 tvg-name="USA: Fox News Now" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Fox_news_live_logo_2021.jpg/330px-Fox_news_live_logo_2021.jpg" group-title="news",USA: Fox News Now
+http://1sn.ns1.name:18800/boris/rZqe9mKf/146235
+#EXTINF:-1 tvg-name="USA: ABC 25 News Central Texas" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="news",USA: ABC 25 News Central Texas
+http://1sn.ns1.name:18800/boris/rZqe9mKf/245406
+#EXTINF:-1 tvg-name="USA: ABC News HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/ABC_News_logo_2021.svg/330px-ABC_News_logo_2021.svg.png" group-title="news",USA: ABC News HD
+http://1sn.ns1.name:18800/boris/rZqe9mKf/10814
+#EXTINF:-1 tvg-name="USA: NBC 2 News" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-07/e3d296dfb2d0aab1bf46d958887fe98e.jpeg" group-title="news",USA: NBC 2 News
+http://1sn.ns1.name:18800/boris/rZqe9mKf/245438
+#EXTINF:-1 tvg-name="USA: Peacock Live | NBC News Boston" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/NBCUniversal_Peacock_Logo.svg/1199px-NBCUniversal_Peacock_Logo.svg.png" group-title="news",USA: Peacock Live | NBC News Boston
+http://1sn.ns1.name:18800/boris/rZqe9mKf/164734
+#EXTINF:-1 tvg-name="USA: Peacock Live | NBC News Chicago" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/NBCUniversal_Peacock_Logo.svg/1199px-NBCUniversal_Peacock_Logo.svg.png" group-title="news",USA: Peacock Live | NBC News Chicago
+http://1sn.ns1.name:18800/boris/rZqe9mKf/164737
+#EXTINF:-1 tvg-name="USA: Peacock Live | NBC News Florida" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/NBCUniversal_Peacock_Logo.svg/1199px-NBCUniversal_Peacock_Logo.svg.png" group-title="news",USA: Peacock Live | NBC News Florida
+http://1sn.ns1.name:18800/boris/rZqe9mKf/164732
+#EXTINF:-1 tvg-name="USA: Peacock Live | NBC News LA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/NBCUniversal_Peacock_Logo.svg/1199px-NBCUniversal_Peacock_Logo.svg.png" group-title="news",USA: Peacock Live | NBC News LA
+http://1sn.ns1.name:18800/boris/rZqe9mKf/164736
+#EXTINF:-1 tvg-name="USA: Peacock Live | NBC News New York" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/NBCUniversal_Peacock_Logo.svg/1199px-NBCUniversal_Peacock_Logo.svg.png" group-title="news",USA: Peacock Live | NBC News New York
+http://1sn.ns1.name:18800/boris/rZqe9mKf/164735
+#EXTINF:-1 tvg-name="USA: Peacock Live | NBC News Now" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/NBCUniversal_Peacock_Logo.svg/1199px-NBCUniversal_Peacock_Logo.svg.png" group-title="news",USA: Peacock Live | NBC News Now
+http://1sn.ns1.name:18800/boris/rZqe9mKf/164731
+#EXTINF:-1 tvg-name="USA: Peacock Live | NBC News Philadelphia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/NBCUniversal_Peacock_Logo.svg/1199px-NBCUniversal_Peacock_Logo.svg.png" group-title="news",USA: Peacock Live | NBC News Philadelphia
+http://1sn.ns1.name:18800/boris/rZqe9mKf/164733
+#EXTINF:-1 tvg-name="USA: CBS NEWS BAY AREA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/CBS_logo_%282020%29.svg/330px-CBS_logo_%282020%29.svg.png" group-title="news",USA: CBS NEWS BAY AREA
+http://hostengine.live/live/john/franklin/54160.m3u
+#EXTINF:-1 tvg-name="USA: CBS NEWS MINNESOTA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/CBS_logo_%282020%29.svg/330px-CBS_logo_%282020%29.svg.png" group-title="news",USA: CBS NEWS MINNESOTA
+http://hostengine.live/live/john/franklin/54166.m3u
+#EXTINF:-1 tvg-name="IE: RTE News" tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/united-kingdom/rte-news-now-hz-uk.png" group-title="news",IE: RTE News
+http://1sn.ns1.name:18800/boris/rZqe9mKf/54083
+#EXTINF:-1 tvg-name="UK: 92 News" tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/united-kingdom/92-news-uk-uk.png" group-title="news",UK: 92 News
+http://1sn.ns1.name:18800/boris/rZqe9mKf/57008
+#EXTINF:-1 tvg-name="UK: AL JAZEERA" tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/united-kingdom/aljazeera-uk.png" group-title="news",UK: AL JAZEERA
+http://1sn.ns1.name:18800/boris/rZqe9mKf/54122
+#EXTINF:-1 tvg-name="UK: France 24 UK FHD" tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/united-kingdom/france-24-fr.png" group-title="news",UK: France 24 UK FHD
+http://1sn.ns1.name:18800/boris/rZqe9mKf/54123
+#EXTINF:-1 tvg-name="UK: Geo News" tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/united-kingdom/geonews.png" group-title="news",UK: Geo News
+http://1sn.ns1.name:18800/boris/rZqe9mKf/57006
 #EXTINF:-1 tvg-name="AU: ABC NEWS (ADELAIDE)" tvg-logo="" group-title="news",AU: ABC NEWS (ADELAIDE)
 http://hostengine.live/live/john/franklin/250032.m3u
 #EXTINF:-1 tvg-name="AU: ABC NEWS (BRISBANE)" tvg-logo="" group-title="news",AU: ABC NEWS (BRISBANE)
@@ -47,8 +215,6 @@ http://hostengine.live/live/john/franklin/250034.m3u
 http://hostengine.live/live/john/franklin/250035.m3u
 #EXTINF:-1 tvg-name="AU: ABC NEWS (SYDNEY)" tvg-logo="" group-title="news",AU: ABC NEWS (SYDNEY)
 http://hostengine.live/live/john/franklin/250008.m3u
-#EXTINF:-1 tvg-name="AU: AL JAZEERA" tvg-logo="" group-title="news",AU: AL JAZEERA
-http://hostengine.live/live/john/franklin/250038.m3u
 #EXTINF:-1 tvg-name="AU: CHANNEL NEWS ASIA" tvg-logo="" group-title="news",AU: CHANNEL NEWS ASIA
 http://hostengine.live/live/john/franklin/250018.m3u
 #EXTINF:-1 tvg-name="CA : CBC" tvg-logo="http://icons.tw:8080/images/7a94339a256c062a68d3ff0f8b3b237e.png" group-title="news",CA : CBC
@@ -77,22 +243,14 @@ http://hostengine.live/live/john/franklin/53624.m3u
 http://hostengine.live/live/john/franklin/53636.m3u
 #EXTINF:-1 tvg-name="CA : CTV NEWS CHANNEL" tvg-logo="" group-title="news",CA : CTV NEWS CHANNEL
 http://hostengine.live/live/john/franklin/53658.m3u
-#EXTINF:-1 tvg-name="CA : FOX NEWS" tvg-logo="" group-title="news",CA : FOX NEWS
-http://hostengine.live/live/john/franklin/53687.m3u
 #EXTINF:-1 tvg-name="GB : AL JAZEERA ENG" tvg-logo="" group-title="news",GB : AL JAZEERA ENG
 http://hostengine.live/live/john/franklin/53834.m3u
 #EXTINF:-1 tvg-name="GB : GB NEWS" tvg-logo="" group-title="news",GB : GB NEWS
 http://hostengine.live/live/john/franklin/122840.m3u
-#EXTINF:-1 tvg-name="GB : RTE NEWS" tvg-logo="" group-title="news",GB : RTE NEWS
-http://hostengine.live/live/john/franklin/53950.m3u
 #EXTINF:-1 tvg-name="US : BAY NEWS 9 TAMPA" tvg-logo="" group-title="news",US : BAY NEWS 9 TAMPA
 http://hostengine.live/live/john/franklin/325691.m3u
-#EXTINF:-1 tvg-name="US : BLOOMBERG TV" tvg-logo="http://icons.tw:8080/images/1b87225c734b0a934e9ce33ffc53c9ce.png" group-title="news",US : BLOOMBERG TV
-http://hostengine.live/live/john/franklin/56584.m3u
 #EXTINF:-1 tvg-name="US : CBS NEWS 247" tvg-logo="" group-title="news",US : CBS NEWS 247
 http://hostengine.live/live/john/franklin/54167.m3u
-#EXTINF:-1 tvg-name="US : CBS NEWS BAY AREA" tvg-logo="" group-title="news",US : CBS NEWS BAY AREA
-http://hostengine.live/live/john/franklin/54160.m3u
 #EXTINF:-1 tvg-name="US : CBS NEWS BOSTON" tvg-logo="" group-title="news",US : CBS NEWS BOSTON
 http://hostengine.live/live/john/franklin/54161.m3u
 #EXTINF:-1 tvg-name="US : CBS NEWS CHICAGO" tvg-logo="" group-title="news",US : CBS NEWS CHICAGO
@@ -101,26 +259,14 @@ http://hostengine.live/live/john/franklin/54162.m3u
 http://hostengine.live/live/john/franklin/54164.m3u
 #EXTINF:-1 tvg-name="US : CBS NEWS LOS ANGELES" tvg-logo="" group-title="news",US : CBS NEWS LOS ANGELES
 http://hostengine.live/live/john/franklin/54165.m3u
-#EXTINF:-1 tvg-name="US : CBS NEWS MINNESOTA" tvg-logo="" group-title="news",US : CBS NEWS MINNESOTA
-http://hostengine.live/live/john/franklin/54166.m3u
 #EXTINF:-1 tvg-name="US : CBS NEWS NEW YORK" tvg-logo="" group-title="news",US : CBS NEWS NEW YORK
 http://hostengine.live/live/john/franklin/54168.m3u
 #EXTINF:-1 tvg-name="US : CBS NEWS PHILADELPHIA" tvg-logo="" group-title="news",US : CBS NEWS PHILADELPHIA
 http://hostengine.live/live/john/franklin/54170.m3u
 #EXTINF:-1 tvg-name="US : CBS NEWS TEXAS" tvg-logo="" group-title="news",US : CBS NEWS TEXAS
 http://hostengine.live/live/john/franklin/54163.m3u
-#EXTINF:-1 tvg-name="US : CHEDDAR NEWS" tvg-logo="" group-title="news",US : CHEDDAR NEWS
-http://hostengine.live/live/john/franklin/56585.m3u
-#EXTINF:-1 tvg-name="US : CNBC" tvg-logo="http://icons.tw:8080/images/17c6cdfa9240e3ca5f6e9dd2ef3d0441.png" group-title="news",US : CNBC
-http://hostengine.live/live/john/franklin/56586.m3u
-#EXTINF:-1 tvg-name="US : CNBC WORLD" tvg-logo="http://icons.tw:8080/images/8e73a8b6152376af322c16a42571885b.png" group-title="news",US : CNBC WORLD
-http://hostengine.live/live/john/franklin/56587.m3u
 #EXTINF:-1 tvg-name="US : CSPAN 1" tvg-logo="http://icons.tw:8080/images/e48f93bb225015d64af95220587f81aa.png" group-title="news",US : CSPAN 1
 http://hostengine.live/live/john/franklin/56589.m3u
-#EXTINF:-1 tvg-name="US : CSPAN 2" tvg-logo="http://icons.tw:8080/images/b27cedaf0ff83525403980572ea93543.png" group-title="news",US : CSPAN 2
-http://hostengine.live/live/john/franklin/56590.m3u
-#EXTINF:-1 tvg-name="US : FOX BUSINESS" tvg-logo="http://icons.tw:8080/images/7f4b266bf19e409a10d42a6f53360468.png" group-title="news",US : FOX BUSINESS
-http://hostengine.live/live/john/franklin/56592.m3u
 #EXTINF:-1 tvg-name="US : FOX NEWS CHANNEL" tvg-logo="" group-title="news",US : FOX NEWS CHANNEL
 http://hostengine.live/live/john/franklin/56593.m3u
 #EXTINF:-1 tvg-name="US : FOX NEWS LIVE NOW" tvg-logo="" group-title="news",US : FOX NEWS LIVE NOW
@@ -152,7 +298,7 @@ http://hostengine.live/live/john/franklin/325666.m3u
 #EXTINF:-1 tvg-name="US : NEWS 1 - (MA) WORCESTER" tvg-logo="" group-title="news",US : NEWS 1 - (MA) WORCESTER
 http://hostengine.live/live/john/franklin/325665.m3u
 #EXTINF:-1 tvg-name="US : NEWS 1 - (NEW YORK) ROCHESTER" tvg-logo="" group-title="news",US : NEWS 1 - (NEW YORK) ROCHESTER
-http://hostengine.live/live/TanekaG/63937363/325663.m3u
+http://hostengine.live/live/john/franklin/325663.m3u
 #EXTINF:-1 tvg-name="US : NEWS 1 - ALBANY CAPITAL REGION" tvg-logo="" group-title="news",US : NEWS 1 - ALBANY CAPITAL REGION
 http://hostengine.live/live/john/franklin/325688.m3u
 #EXTINF:-1 tvg-name="US : NEWS 1 - AUSTIN" tvg-logo="" group-title="news",US : NEWS 1 - AUSTIN
@@ -178,7 +324,7 @@ http://hostengine.live/live/john/franklin/325673.m3u
 #EXTINF:-1 tvg-name="US : NEWS 1 - HUDSON VALLEY" tvg-logo="" group-title="news",US : NEWS 1 - HUDSON VALLEY
 http://hostengine.live/live/john/franklin/325672.m3u
 #EXTINF:-1 tvg-name="US : NEWS 1 - MADISON" tvg-logo="" group-title="news",US : NEWS 1 - MADISON
-http://hostengine.live/live/TanekaG/63937363/325668.m3u
+http://hostengine.live/live/john/franklin/325668.m3u
 #EXTINF:-1 tvg-name="US : NEWS 1 - MILWAUKEE" tvg-logo="" group-title="news",US : NEWS 1 - MILWAUKEE
 http://hostengine.live/live/john/franklin/325664.m3u
 #EXTINF:-1 tvg-name="US : NEWS 1 - NEW YORK (NYC)" tvg-logo="" group-title="news",US : NEWS 1 - NEW YORK (NYC)
@@ -212,7 +358,7 @@ http://hostengine.live/live/john/franklin/56603.m3u
 #EXTINF:-1 tvg-name="US : NEWSNATION" tvg-logo="" group-title="news",US : NEWSNATION
 http://hostengine.live/live/john/franklin/225548.m3u
 #EXTINF:-1 tvg-name="US : ONE AMERICA NEWS ENCORE" tvg-logo="" group-title="news",US : ONE AMERICA NEWS ENCORE
-http://hostengine.live/live/TanekaG/63937363/56606.m3u
+http://hostengine.live/live/john/franklin/56606.m3u
 #EXTINF:-1 tvg-name="US : ONE AMERICA NEWS NETWORK" tvg-logo="" group-title="news",US : ONE AMERICA NEWS NETWORK
 http://hostengine.live/live/john/franklin/56607.m3u
 #EXTINF:-1 tvg-name="US : RT NEWS ENGLISH" tvg-logo="" group-title="news",US : RT NEWS ENGLISH
