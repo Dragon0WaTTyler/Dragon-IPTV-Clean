@@ -72,17 +72,17 @@
     ],
     "raw_group": "",
     "logo": "",
-    "primary_url": "http://23.227.132.58:25461/robtnking/NorrisTTL/115630",
+    "primary_url": "http://23.227.132.58:25461/STREAM2/Brewers825/115630",
     "alternates": [
       "http://23.227.132.58:25461/nodi01/Juicyjuice1/115630",
-      "http://23.227.132.58:25461/STREAM2/Brewers825/115630",
+      "http://23.227.132.58:25461/robtnking/NorrisTTL/115630",
       "http://23.227.132.58:25461/nigel1966/1966nigel/115630",
       "http://23.227.132.58:25461/pepperann71/990848ms/115630",
       "http://23.227.132.58:25461/peedee0420/Jts62dms59/115630"
     ],
     "source_file": "FIW_1794941716_2_791211_Hunter_2946.m3u",
     "health_status": "reachable",
-    "health_checked_urls": 3,
+    "health_checked_urls": 2,
     "health_promoted": true
   },
   {
@@ -255,15 +255,15 @@
     ],
     "raw_group": "Srbija",
     "logo": "https://cdn-0.tvprofil.com/cdn/100x40/4/img/kanali-logo/EuroNews_Serbia_RS_logo.jpg",
-    "primary_url": "http://caffe.link:25461/200Zrinko/UB9quKy8uSvy/118733",
+    "primary_url": "http://client.nodomain.vip:80/milan.stancic/stancic.milan/2060",
     "alternates": [
-      "http://client.nodomain.vip:80/milan.stancic/stancic.milan/2060",
+      "http://caffe.link:25461/200Zrinko/UB9quKy8uSvy/118733",
       "http://client.nodomain.vip:80/c0:48:e6:1a:ca:49/VQz47wkcjl6prZh2MG65/2060"
     ],
     "source_file": "FIW_1794941741_1_e15a1f_Hunter_0EDE.m3u",
     "health_status": "reachable",
-    "health_checked_urls": 1,
-    "health_promoted": false
+    "health_checked_urls": 2,
+    "health_promoted": true
   },
   {
     "id": "dragon_english_6c5e3565d098",
@@ -464,7 +464,7 @@
     "primary_url": "http://caffe.link:25461/200Zrinko/UB9quKy8uSvy/1543",
     "alternates": [],
     "source_file": "FIW_1794941741_1_e15a1f_Hunter_0EDE.m3u",
-    "health_status": "reachable",
+    "health_status": "unreachable",
     "health_checked_urls": 1,
     "health_promoted": false
   },
@@ -495,9 +495,9 @@
     ],
     "raw_group": "",
     "logo": "",
-    "primary_url": "http://23.227.132.58:25461/STREAM2/Brewers825/115172",
+    "primary_url": "http://23.227.132.58:25461/nodi01/Juicyjuice1/115172",
     "alternates": [
-      "http://23.227.132.58:25461/nodi01/Juicyjuice1/115172",
+      "http://23.227.132.58:25461/STREAM2/Brewers825/115172",
       "http://23.227.132.58:25461/robtnking/NorrisTTL/115172",
       "http://23.227.132.58:25461/nigel1966/1966nigel/115172",
       "http://23.227.132.58:25461/pepperann71/990848ms/115172",
@@ -505,8 +505,8 @@
     ],
     "source_file": "FIW_1794941716_2_791211_Hunter_2946.m3u",
     "health_status": "reachable",
-    "health_checked_urls": 2,
-    "health_promoted": true
+    "health_checked_urls": 1,
+    "health_promoted": false
   },
   {
     "id": "dragon_english_1ae28ee26658",
@@ -1157,10 +1157,10 @@
     ],
     "raw_group": "Doku & Style",
     "logo": "https://images-web.ug-be.cdn.united.cloud/2020/01/29/14/14/42/2.png",
-    "primary_url": "http://caffe.link:25461/200Zrinko/UB9quKy8uSvy/73560",
+    "primary_url": "http://23.227.132.58:25461/STREAM2/Brewers825/115642",
     "alternates": [
+      "http://caffe.link:25461/200Zrinko/UB9quKy8uSvy/73560",
       "http://23.227.132.58:25461/nodi01/Juicyjuice1/115642",
-      "http://23.227.132.58:25461/STREAM2/Brewers825/115642",
       "http://23.227.132.58:25461/robtnking/NorrisTTL/115642",
       "http://23.227.132.58:25461/nigel1966/1966nigel/115642",
       "http://23.227.132.58:25461/pepperann71/990848ms/115642",
@@ -1172,8 +1172,8 @@
     ],
     "source_file": "FIW_1794927210_1_c9db8c_Hunter_4215.m3u",
     "health_status": "reachable",
-    "health_checked_urls": 1,
-    "health_promoted": false
+    "health_checked_urls": 3,
+    "health_promoted": true
   },
   {
     "id": "dragon_english_13d5d4a824ec",
@@ -5874,9 +5874,9 @@
     ],
     "raw_group": "",
     "logo": "",
-    "primary_url": "http://23.227.132.58:25461/STREAM2/Brewers825/115092",
+    "primary_url": "http://23.227.132.58:25461/nodi01/Juicyjuice1/115092",
     "alternates": [
-      "http://23.227.132.58:25461/nodi01/Juicyjuice1/115092",
+      "http://23.227.132.58:25461/STREAM2/Brewers825/115092",
       "http://23.227.132.58:25461/robtnking/NorrisTTL/115092",
       "http://23.227.132.58:25461/nigel1966/1966nigel/115092",
       "http://23.227.132.58:25461/pepperann71/990848ms/115092",
@@ -5884,8 +5884,8 @@
     ],
     "source_file": "FIW_1794941716_2_791211_Hunter_2946.m3u",
     "health_status": "reachable",
-    "health_checked_urls": 2,
-    "health_promoted": true
+    "health_checked_urls": 1,
+    "health_promoted": false
   },
   {
     "id": "dragon_english_55fb212956e5",
@@ -5897,9 +5897,9 @@
     ],
     "raw_group": "",
     "logo": "",
-    "primary_url": "http://23.227.132.58:25461/nodi01/Juicyjuice1/115093",
+    "primary_url": "http://23.227.132.58:25461/STREAM2/Brewers825/115093",
     "alternates": [
-      "http://23.227.132.58:25461/STREAM2/Brewers825/115093",
+      "http://23.227.132.58:25461/nodi01/Juicyjuice1/115093",
       "http://23.227.132.58:25461/robtnking/NorrisTTL/115093",
       "http://23.227.132.58:25461/nigel1966/1966nigel/115093",
       "http://23.227.132.58:25461/pepperann71/990848ms/115093",
@@ -5907,8 +5907,8 @@
     ],
     "source_file": "FIW_1794941716_2_791211_Hunter_2946.m3u",
     "health_status": "reachable",
-    "health_checked_urls": 1,
-    "health_promoted": false
+    "health_checked_urls": 2,
+    "health_promoted": true
   },
   {
     "id": "dragon_english_8efda1f45b8d",
@@ -6597,17 +6597,17 @@
     ],
     "raw_group": "",
     "logo": "",
-    "primary_url": "http://23.227.132.58:25461/robtnking/NorrisTTL/115650",
+    "primary_url": "http://23.227.132.58:25461/STREAM2/Brewers825/115650",
     "alternates": [
       "http://23.227.132.58:25461/nodi01/Juicyjuice1/115650",
-      "http://23.227.132.58:25461/STREAM2/Brewers825/115650",
+      "http://23.227.132.58:25461/robtnking/NorrisTTL/115650",
       "http://23.227.132.58:25461/nigel1966/1966nigel/115650",
       "http://23.227.132.58:25461/pepperann71/990848ms/115650",
       "http://23.227.132.58:25461/peedee0420/Jts62dms59/115650"
     ],
     "source_file": "FIW_1794941716_2_791211_Hunter_2946.m3u",
     "health_status": "reachable",
-    "health_checked_urls": 3,
+    "health_checked_urls": 2,
     "health_promoted": true
   },
   {
@@ -7458,18 +7458,18 @@
     ],
     "raw_group": "",
     "logo": "",
-    "primary_url": "http://23.227.132.58:25461/STREAM2/Brewers825/117215",
+    "primary_url": "http://23.227.132.58:25461/nodi01/Juicyjuice1/117215",
     "alternates": [
-      "http://23.227.132.58:25461/nodi01/Juicyjuice1/117215",
+      "http://23.227.132.58:25461/STREAM2/Brewers825/117215",
       "http://23.227.132.58:25461/robtnking/NorrisTTL/117215",
       "http://23.227.132.58:25461/nigel1966/1966nigel/117215",
       "http://23.227.132.58:25461/pepperann71/990848ms/117215",
       "http://23.227.132.58:25461/peedee0420/Jts62dms59/117215"
     ],
     "source_file": "FIW_1794941716_2_791211_Hunter_2946.m3u",
-    "health_status": "reachable",
-    "health_checked_urls": 2,
-    "health_promoted": true
+    "health_status": "unreachable",
+    "health_checked_urls": 3,
+    "health_promoted": false
   },
   {
     "id": "dragon_english_aa2d923ab13b",
@@ -16170,8 +16170,8 @@
       "http://hostengine.live/live/TanekaG/63937363/53950.m3u"
     ],
     "source_file": "FIW_1794941424_1_511f6f_Hunter_69F6.m3u",
-    "health_status": "unreachable",
-    "health_checked_urls": 2,
+    "health_status": "reachable",
+    "health_checked_urls": 1,
     "health_promoted": false
   },
   {
@@ -16829,14 +16829,14 @@
     ],
     "raw_group": "NEWS NETWORKS",
     "logo": "",
-    "primary_url": "http://hostengine.live/live/john/franklin/325663.m3u",
+    "primary_url": "http://hostengine.live/live/TanekaG/63937363/325663.m3u",
     "alternates": [
-      "http://hostengine.live/live/TanekaG/63937363/325663.m3u"
+      "http://hostengine.live/live/john/franklin/325663.m3u"
     ],
     "source_file": "FIW_1794941424_1_511f6f_Hunter_69F6.m3u",
     "health_status": "reachable",
-    "health_checked_urls": 1,
-    "health_promoted": false
+    "health_checked_urls": 2,
+    "health_promoted": true
   },
   {
     "id": "dragon_english_67b7d73f4142",
@@ -17076,14 +17076,14 @@
     ],
     "raw_group": "NEWS NETWORKS",
     "logo": "",
-    "primary_url": "http://hostengine.live/live/john/franklin/325668.m3u",
+    "primary_url": "http://hostengine.live/live/TanekaG/63937363/325668.m3u",
     "alternates": [
-      "http://hostengine.live/live/TanekaG/63937363/325668.m3u"
+      "http://hostengine.live/live/john/franklin/325668.m3u"
     ],
     "source_file": "FIW_1794941424_1_511f6f_Hunter_69F6.m3u",
     "health_status": "reachable",
-    "health_checked_urls": 1,
-    "health_promoted": false
+    "health_checked_urls": 2,
+    "health_promoted": true
   },
   {
     "id": "dragon_english_ea597c4b1399",
@@ -17399,14 +17399,14 @@
     ],
     "raw_group": "NEWS NETWORKS",
     "logo": "",
-    "primary_url": "http://hostengine.live/live/john/franklin/56606.m3u",
+    "primary_url": "http://hostengine.live/live/TanekaG/63937363/56606.m3u",
     "alternates": [
-      "http://hostengine.live/live/TanekaG/63937363/56606.m3u"
+      "http://hostengine.live/live/john/franklin/56606.m3u"
     ],
     "source_file": "FIW_1794941424_1_511f6f_Hunter_69F6.m3u",
     "health_status": "reachable",
-    "health_checked_urls": 1,
-    "health_promoted": false
+    "health_checked_urls": 2,
+    "health_promoted": true
   },
   {
     "id": "dragon_english_a6354fddbe07",
