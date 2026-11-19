@@ -1,17 +1,7 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="LB : AL JAZEERA ARABIC" tvg-logo="" group-title="news",LB : AL JAZEERA ARABIC
-http://hostengine.live/live/john/franklin/289820.m3u
-#EXTINF:-1 tvg-name="UAE : AL JAZEERA" tvg-logo="" group-title="news",UAE : AL JAZEERA
-http://hostengine.live/live/john/franklin/81857.m3u
-#EXTINF:-1 tvg-name="UAE : AL ARABIYA" tvg-logo="" group-title="news",UAE : AL ARABIYA
-http://hostengine.live/live/john/franklin/81855.m3u
-#EXTINF:-1 tvg-name="UAE : AL ARABIYA AL HADATH" tvg-logo="" group-title="news",UAE : AL ARABIYA AL HADATH
-http://hostengine.live/live/john/franklin/81856.m3u
-#EXTINF:-1 tvg-name="SA : SKY NEWS ARABIA" tvg-logo="" group-title="news",SA : SKY NEWS ARABIA
-http://hostengine.live/live/john/franklin/81882.m3u
-#EXTINF:-1 tvg-name="UAE : BBC ARABIC" tvg-logo="" group-title="news",UAE : BBC ARABIC
-http://hostengine.live/live/john/franklin/81876.m3u
-#EXTINF:-1 tvg-name="LB : DW ARABIC" tvg-logo="" group-title="news",LB : DW ARABIC
-http://hostengine.live/live/john/franklin/289805.m3u
-#EXTINF:-1 tvg-name="LB : AL MAYADEEN" tvg-logo="" group-title="news",LB : AL MAYADEEN
-http://hostengine.live/live/john/franklin/289815.m3u
+#EXTINF:-1 tvg-name="QA: AL JAZEERA FULL HD" tvg-logo="" group-title="news",QA: AL JAZEERA FULL HD
+http://tvr.iptvboss.net:80/tree141es/sdfsdvvcxvxcvx/2557
+#EXTINF:-1 tvg-name="DZ: ECHOROUK NEWS" tvg-logo="" group-title="news",DZ: ECHOROUK NEWS
+http://tvr.iptvboss.net:80/tree141es/sdfsdvvcxvxcvx/2655
+#EXTINF:-1 tvg-name="NEWS: RT ARABIC" tvg-logo="" group-title="news",NEWS: RT ARABIC
+http://tvr.iptvboss.net:80/tree141es/sdfsdvvcxvxcvx/2474
