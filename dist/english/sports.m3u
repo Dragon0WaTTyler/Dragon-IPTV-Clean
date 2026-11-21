@@ -1,1001 +1,721 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="11/20 Soccer 8:00pm Puebla vs Atlético San Luis = ESPN MEXICO *" tvg-logo="" group-title="sports",11/20 Soccer 8:00pm Puebla vs Atlético San Luis = ESPN MEXICO *
-http://ambar.city:8080/live/243658aw1av/aa05102026/416336.ts
-#EXTINF:-1 tvg-name="11/20 17:00 Fri, 11/20 - ESPN FC" tvg-logo="" group-title="sports",11/20 17:00 Fri, 11/20 - ESPN FC
-http://ambar.city:8080/live/243658aw1av/aa05102026/416423.ts
-#EXTINF:-1 tvg-name="USA: ESPN DEPORTES" tvg-logo="" group-title="sports",USA: ESPN DEPORTES
-https://velive.lat:443/manfredstv/ffutNGsQwEQF/420243
-#EXTINF:-1 tvg-name="ESPN PREMIUM" tvg-logo="" group-title="sports",ESPN PREMIUM
-https://velive.lat:443/manfredstv/ffutNGsQwEQF/487072
-#EXTINF:-1 tvg-name="ESPN 2" tvg-logo="" group-title="sports",ESPN 2
-https://velive.lat:443/manfredstv/ffutNGsQwEQF/487064
-#EXTINF:-1 tvg-name="ESPN 3" tvg-logo="" group-title="sports",ESPN 3
-https://velive.lat:443/manfredstv/ffutNGsQwEQF/487065
-#EXTINF:-1 tvg-name="ESPN 4" tvg-logo="" group-title="sports",ESPN 4
-https://velive.lat:443/manfredstv/ffutNGsQwEQF/487066
-#EXTINF:-1 tvg-name="ESPN 5" tvg-logo="" group-title="sports",ESPN 5
-https://velive.lat:443/manfredstv/ffutNGsQwEQF/487067
-#EXTINF:-1 tvg-name="ESPN 6" tvg-logo="" group-title="sports",ESPN 6
-https://velive.lat:443/manfredstv/ffutNGsQwEQF/487068
-#EXTINF:-1 tvg-name="ESPN 7" tvg-logo="" group-title="sports",ESPN 7
-https://velive.lat:443/manfredstv/ffutNGsQwEQF/487069
-#EXTINF:-1 tvg-name="ESPN CENTRO AMERICA" tvg-logo="" group-title="sports",ESPN CENTRO AMERICA
-http://ambar.city:8080/live/243658aw1av/aa05102026/368608.ts
-#EXTINF:-1 tvg-name="EUROSPORT 1 HD" tvg-logo="" group-title="sports",EUROSPORT 1 HD
-https://velive.lat:443/manfredstv/ffutNGsQwEQF/317038
-#EXTINF:-1 tvg-name="EUROSPORT 2 HD" tvg-logo="" group-title="sports",EUROSPORT 2 HD
-https://velive.lat:443/manfredstv/ffutNGsQwEQF/187333
-#EXTINF:-1 tvg-name="ESPN (ARGENTINA)" tvg-logo="" group-title="sports",ESPN (ARGENTINA)
-http://ambar.city:8080/live/243658aw1av/aa05102026/419.ts
-#EXTINF:-1 tvg-name="ESPN 2 (ARGENTINA)" tvg-logo="" group-title="sports",ESPN 2 (ARGENTINA)
-http://ambar.city:8080/live/243658aw1av/aa05102026/420.ts
-#EXTINF:-1 tvg-name="ESPN extra" tvg-logo="" group-title="sports",ESPN extra
-https://velive.lat:443/manfredstv/ffutNGsQwEQF/245195
+#EXTINF:-1 tvg-name="HD EUROSPORT 1 (BE)" tvg-logo="" group-title="sports",HD EUROSPORT 1 (BE)
+http://publicaspace.com:80/80692cdd0902/c3RKSp2/133577
+#EXTINF:-1 tvg-name="HD EUROSPORT 2 (BE)" tvg-logo="" group-title="sports",HD EUROSPORT 2 (BE)
+http://publicaspace.com:80/80692cdd0902/c3RKSp2/133578
+#EXTINF:-1 tvg-name="(ES) Eurosport 2" tvg-logo="" group-title="sports",(ES) Eurosport 2
+http://publicaspace.com:80/80692cdd0902/c3RKSp2/210599
+#EXTINF:-1 tvg-name="(ES) Eurosport 1 4K+" tvg-logo="" group-title="sports",(ES) Eurosport 1 4K+
+http://publicaspace.com:80/80692cdd0902/c3RKSp2/210598
+#EXTINF:-1 tvg-name="UK: TNT Sport 3 HD" tvg-logo="" group-title="sports",UK: TNT Sport 3 HD
+http://publicaspace.com:80/80692cdd0902/c3RKSp2/51297
+#EXTINF:-1 tvg-name="UK: BT Sport 1 HD" tvg-logo="" group-title="sports",UK: BT Sport 1 HD
+http://publicaspace.com:80/80692cdd0902/c3RKSp2/4619
+#EXTINF:-1 tvg-name="Uk: BT Sport 2 HD" tvg-logo="" group-title="sports",Uk: BT Sport 2 HD
+http://publicaspace.com:80/80692cdd0902/c3RKSp2/445
+#EXTINF:-1 tvg-name="UK: BT Sport 3 HD" tvg-logo="" group-title="sports",UK: BT Sport 3 HD
+http://publicaspace.com:80/80692cdd0902/c3RKSp2/4617
+#EXTINF:-1 tvg-name="UK: BT Sport ESPN HD" tvg-logo="" group-title="sports",UK: BT Sport ESPN HD
+http://publicaspace.com:80/80692cdd0902/c3RKSp2/4614
+#EXTINF:-1 tvg-name="UK: SKY SPORTS Football HD" tvg-logo="" group-title="sports",UK: SKY SPORTS Football HD
+http://publicaspace.com:80/80692cdd0902/c3RKSp2/442
+#EXTINF:-1 tvg-name="UK: Sky Sport Football" tvg-logo="" group-title="sports",UK: Sky Sport Football
+http://publicaspace.com:80/80692cdd0902/c3RKSp2/4550
+#EXTINF:-1 tvg-name="UK: Sky Sport Premier League HD" tvg-logo="" group-title="sports",UK: Sky Sport Premier League HD
+http://publicaspace.com:80/80692cdd0902/c3RKSp2/4551
+#EXTINF:-1 tvg-name="UK: Sky Sports Premier Leagues" tvg-logo="" group-title="sports",UK: Sky Sports Premier Leagues
+http://publicaspace.com:80/80692cdd0902/c3RKSp2/4564
+#EXTINF:-1 tvg-name="UK: Sky Sport Main Event HD" tvg-logo="" group-title="sports",UK: Sky Sport Main Event HD
+http://publicaspace.com:80/80692cdd0902/c3RKSp2/4552
+#EXTINF:-1 tvg-name="UK: Sky Sports Arena HD" tvg-logo="" group-title="sports",UK: Sky Sports Arena HD
+http://publicaspace.com:80/80692cdd0902/c3RKSp2/4544
+#EXTINF:-1 tvg-name="UK: Sky Sports F1 FHD" tvg-logo="" group-title="sports",UK: Sky Sports F1 FHD
+http://publicaspace.com:80/80692cdd0902/c3RKSp2/5118
+#EXTINF:-1 tvg-name="UK: Sky Sport F1 HD" tvg-logo="" group-title="sports",UK: Sky Sport F1 HD
+http://publicaspace.com:80/80692cdd0902/c3RKSp2/4547
+#EXTINF:-1 tvg-name="UK: Sky Sport Mix" tvg-logo="" group-title="sports",UK: Sky Sport Mix
+http://publicaspace.com:80/80692cdd0902/c3RKSp2/440
+#EXTINF:-1 tvg-name="GB: STAR SPORT 2 FHD" tvg-logo="" group-title="sports",GB: STAR SPORT 2 FHD
+http://publicaspace.com:80/80692cdd0902/c3RKSp2/182504
+#EXTINF:-1 tvg-name="GB: Star Sports 1" tvg-logo="" group-title="sports",GB: Star Sports 1
+http://publicaspace.com:80/80692cdd0902/c3RKSp2/182499
+#EXTINF:-1 tvg-name="GB: Sky Sports Action HD" tvg-logo="" group-title="sports",GB: Sky Sports Action HD
+http://publicaspace.com:80/80692cdd0902/c3RKSp2/182497
+#EXTINF:-1 tvg-name="GB: Sky Sports Racing" tvg-logo="" group-title="sports",GB: Sky Sports Racing
+http://publicaspace.com:80/80692cdd0902/c3RKSp2/182494
+#EXTINF:-1 tvg-name="GB: Sky Sports Golf FHD" tvg-logo="" group-title="sports",GB: Sky Sports Golf FHD
+http://publicaspace.com:80/80692cdd0902/c3RKSp2/182493
+#EXTINF:-1 tvg-name="GB: Sky Sports Cricket FHD" tvg-logo="" group-title="sports",GB: Sky Sports Cricket FHD
+http://publicaspace.com:80/80692cdd0902/c3RKSp2/182492
+#EXTINF:-1 tvg-name="GB: Sky Sports Main Event FHD" tvg-logo="" group-title="sports",GB: Sky Sports Main Event FHD
+http://publicaspace.com:80/80692cdd0902/c3RKSp2/182491
+#EXTINF:-1 tvg-name="UK: TNT Sports 1 HD" tvg-logo="" group-title="sports",UK: TNT Sports 1 HD
+http://publicaspace.com:80/80692cdd0902/c3RKSp2/51293
+#EXTINF:-1 tvg-name="UK: TNT Sport 2 HD" tvg-logo="" group-title="sports",UK: TNT Sport 2 HD
+http://publicaspace.com:80/80692cdd0902/c3RKSp2/51301
+#EXTINF:-1 tvg-name="UK: Sky Sport Cricket" tvg-logo="" group-title="sports",UK: Sky Sport Cricket
+http://publicaspace.com:80/80692cdd0902/c3RKSp2/4549
+#EXTINF:-1 tvg-name="UK: EUROSPORT 1HD" tvg-logo="" group-title="sports",UK: EUROSPORT 1HD
+http://publicaspace.com:80/80692cdd0902/c3RKSp2/467
+#EXTINF:-1 tvg-name="UK: EUROSPORT 2 HD" tvg-logo="" group-title="sports",UK: EUROSPORT 2 HD
+http://publicaspace.com:80/80692cdd0902/c3RKSp2/466
+#EXTINF:-1 tvg-name="UK: BT Sport Extra 1" tvg-logo="" group-title="sports",UK: BT Sport Extra 1
+http://publicaspace.com:80/80692cdd0902/c3RKSp2/9586
+#EXTINF:-1 tvg-name="UK: BT Sport Extra 2" tvg-logo="" group-title="sports",UK: BT Sport Extra 2
+http://publicaspace.com:80/80692cdd0902/c3RKSp2/9587
+#EXTINF:-1 tvg-name="UK: BT Sport Extra 4" tvg-logo="" group-title="sports",UK: BT Sport Extra 4
+http://publicaspace.com:80/80692cdd0902/c3RKSp2/9588
+#EXTINF:-1 tvg-name="UK: BT Sport Extra 5" tvg-logo="" group-title="sports",UK: BT Sport Extra 5
+http://publicaspace.com:80/80692cdd0902/c3RKSp2/9589
+#EXTINF:-1 tvg-name="UK: Eir Sport 1" tvg-logo="" group-title="sports",UK: Eir Sport 1
+http://publicaspace.com:80/80692cdd0902/c3RKSp2/5852
+#EXTINF:-1 tvg-name="UK: Eir Sport 2" tvg-logo="" group-title="sports",UK: Eir Sport 2
+http://publicaspace.com:80/80692cdd0902/c3RKSp2/6458
+#EXTINF:-1 tvg-name="UK: TNT Sport 4 HD" tvg-logo="" group-title="sports",UK: TNT Sport 4 HD
+http://publicaspace.com:80/80692cdd0902/c3RKSp2/71863
+#EXTINF:-1 tvg-name="GB: TNT Sport 4 ESPN FHD" tvg-logo="" group-title="sports",GB: TNT Sport 4 ESPN FHD
+http://publicaspace.com:80/80692cdd0902/c3RKSp2/182498
+#EXTINF:-1 tvg-name="(UK) Eurosport 2" tvg-logo="" group-title="sports",(UK) Eurosport 2
+http://publicaspace.com:80/80692cdd0902/c3RKSp2/210846
+#EXTINF:-1 tvg-name="(UK) Eurosport 1" tvg-logo="" group-title="sports",(UK) Eurosport 1
+http://publicaspace.com:80/80692cdd0902/c3RKSp2/210845
+#EXTINF:-1 tvg-name="UK: BT Sport Extra 3" tvg-logo="" group-title="sports",UK: BT Sport Extra 3
+http://publicaspace.com:80/80692cdd0902/c3RKSp2/12060
+#EXTINF:-1 tvg-name="C+AF: EUROSPORT 2" tvg-logo="" group-title="sports",C+AF: EUROSPORT 2
+http://publicaspace.com:80/80692cdd0902/c3RKSp2/141239
+#EXTINF:-1 tvg-name="C+AF: EUROSPORT 1 HD" tvg-logo="" group-title="sports",C+AF: EUROSPORT 1 HD
+http://publicaspace.com:80/80692cdd0902/c3RKSp2/141238
+#EXTINF:-1 tvg-name="(NL) Eurosport 2 4K" tvg-logo="" group-title="sports",(NL) Eurosport 2 4K
+http://publicaspace.com:80/80692cdd0902/c3RKSp2/210116
+#EXTINF:-1 tvg-name="(NL) Eurosport 1 4K" tvg-logo="" group-title="sports",(NL) Eurosport 1 4K
+http://publicaspace.com:80/80692cdd0902/c3RKSp2/210115
+#EXTINF:-1 tvg-name="(NL) ESPN 4 hevc" tvg-logo="" group-title="sports",(NL) ESPN 4 hevc
+http://publicaspace.com:80/80692cdd0902/c3RKSp2/210114
+#EXTINF:-1 tvg-name="(NL) ESPN 3 hevc" tvg-logo="" group-title="sports",(NL) ESPN 3 hevc
+http://publicaspace.com:80/80692cdd0902/c3RKSp2/210113
+#EXTINF:-1 tvg-name="(NL) ESPN 2 hevc" tvg-logo="" group-title="sports",(NL) ESPN 2 hevc
+http://publicaspace.com:80/80692cdd0902/c3RKSp2/210112
+#EXTINF:-1 tvg-name="(NL) ESPN 1 hevc" tvg-logo="" group-title="sports",(NL) ESPN 1 hevc
+http://publicaspace.com:80/80692cdd0902/c3RKSp2/210111
+#EXTINF:-1 tvg-name="[SE] Eurosport 2" tvg-logo="" group-title="sports",[SE] Eurosport 2
+http://publicaspace.com:80/80692cdd0902/c3RKSp2/163029
+#EXTINF:-1 tvg-name="[SE] Eurosport 1" tvg-logo="" group-title="sports",[SE] Eurosport 1
+http://publicaspace.com:80/80692cdd0902/c3RKSp2/163028
+#EXTINF:-1 tvg-name="[NO] Eurosport Norge" tvg-logo="" group-title="sports",[NO] Eurosport Norge
+http://publicaspace.com:80/80692cdd0902/c3RKSp2/100992
+#EXTINF:-1 tvg-name="[NO] Eurosport" tvg-logo="" group-title="sports",[NO] Eurosport
+http://publicaspace.com:80/80692cdd0902/c3RKSp2/100991
+#EXTINF:-1 tvg-name="[PL] EuroSport 2" tvg-logo="" group-title="sports",[PL] EuroSport 2
+http://publicaspace.com:80/80692cdd0902/c3RKSp2/213783
+#EXTINF:-1 tvg-name="[PL] EuroSport 1" tvg-logo="" group-title="sports",[PL] EuroSport 1
+http://publicaspace.com:80/80692cdd0902/c3RKSp2/213782
+#EXTINF:-1 tvg-name="[BR] ESPN+ HD" tvg-logo="" group-title="sports",[BR] ESPN+ HD
+http://publicaspace.com:80/80692cdd0902/c3RKSp2/100794
+#EXTINF:-1 tvg-name="[BR] ESPN 1 HD" tvg-logo="" group-title="sports",[BR] ESPN 1 HD
+http://publicaspace.com:80/80692cdd0902/c3RKSp2/100793
+#EXTINF:-1 tvg-name="[BR] ESPN EXTRA HD" tvg-logo="" group-title="sports",[BR] ESPN EXTRA HD
+http://publicaspace.com:80/80692cdd0902/c3RKSp2/100792
+#EXTINF:-1 tvg-name="[BR] ESPN 3 HD" tvg-logo="" group-title="sports",[BR] ESPN 3 HD
+http://publicaspace.com:80/80692cdd0902/c3RKSp2/100790
+#EXTINF:-1 tvg-name="[BR] ESPN 2 HD" tvg-logo="" group-title="sports",[BR] ESPN 2 HD
+http://publicaspace.com:80/80692cdd0902/c3RKSp2/100789
+#EXTINF:-1 tvg-name="[VIP AL] Eurosport 2" tvg-logo="" group-title="sports",[VIP AL] Eurosport 2
+http://publicaspace.com:80/80692cdd0902/c3RKSp2/215799
+#EXTINF:-1 tvg-name="[VIP AL] Eurosport 1" tvg-logo="" group-title="sports",[VIP AL] Eurosport 1
+http://publicaspace.com:80/80692cdd0902/c3RKSp2/215798
+#EXTINF:-1 tvg-name="[USA] ESPN News" tvg-logo="" group-title="sports",[USA] ESPN News
+http://publicaspace.com:80/80692cdd0902/c3RKSp2/33841
+#EXTINF:-1 tvg-name="(RO) Eurosport 2 FHD" tvg-logo="" group-title="sports",(RO) Eurosport 2 FHD
+http://publicaspace.com:80/80692cdd0902/c3RKSp2/215624
+#EXTINF:-1 tvg-name="(RO) Eurosport 1 FHD" tvg-logo="" group-title="sports",(RO) Eurosport 1 FHD
+http://publicaspace.com:80/80692cdd0902/c3RKSp2/215623
+#EXTINF:-1 tvg-name="RU* | Eurosport 2 HD" tvg-logo="" group-title="sports",RU* | Eurosport 2 HD
+http://publicaspace.com:80/80692cdd0902/c3RKSp2/193896
+#EXTINF:-1 tvg-name="RU* | Eurosport 1 HD" tvg-logo="" group-title="sports",RU* | Eurosport 1 HD
+http://publicaspace.com:80/80692cdd0902/c3RKSp2/193895
+#EXTINF:-1 tvg-name="(BG) Eurosport 2 4K+" tvg-logo="" group-title="sports",(BG) Eurosport 2 4K+
+http://publicaspace.com:80/80692cdd0902/c3RKSp2/210264
+#EXTINF:-1 tvg-name="(BG) Eurosport 1 4K+" tvg-logo="" group-title="sports",(BG) Eurosport 1 4K+
+http://publicaspace.com:80/80692cdd0902/c3RKSp2/210263
+#EXTINF:-1 tvg-name="ESPN 1 HD" tvg-logo="" group-title="sports",ESPN 1 HD
+http://go.iptvhn.net:25461/7151/71512023/836
+#EXTINF:-1 tvg-name="ESPN 2 HD" tvg-logo="" group-title="sports",ESPN 2 HD
+http://go.iptvhn.net:25461/7151/71512023/837
+#EXTINF:-1 tvg-name="ESPN 3." tvg-logo="" group-title="sports",ESPN 3.
+http://go.iptvhn.net:25461/7151/71512023/838
+#EXTINF:-1 tvg-name="ESPN 4 HD" tvg-logo="" group-title="sports",ESPN 4 HD
+http://go.iptvhn.net:25461/7151/71512023/909
+#EXTINF:-1 tvg-name="ESPN 5 HD" tvg-logo="" group-title="sports",ESPN 5 HD
+http://go.iptvhn.net:25461/7151/71512023/1069
+#EXTINF:-1 tvg-name="ESPN 6 HD" tvg-logo="" group-title="sports",ESPN 6 HD
+http://go.iptvhn.net:25461/7151/71512023/1072
+#EXTINF:-1 tvg-name="ESPN SUR" tvg-logo="" group-title="sports",ESPN SUR
+http://go.iptvhn.net:25461/7151/71512023/2469
+#EXTINF:-1 tvg-name="ESPN 2 SUR" tvg-logo="" group-title="sports",ESPN 2 SUR
+http://go.iptvhn.net:25461/7151/71512023/2470
+#EXTINF:-1 tvg-name="ESPN 4 SUR" tvg-logo="" group-title="sports",ESPN 4 SUR
+http://go.iptvhn.net:25461/7151/71512023/2473
 #EXTINF:-1 tvg-name="ESPN" tvg-logo="" group-title="sports",ESPN
-https://velive.lat:443/manfredstv/ffutNGsQwEQF/487071
-#EXTINF:-1 tvg-name="ESPN2 HD" tvg-logo="" group-title="sports",ESPN2 HD
-http://ambar.city:8080/live/243658aw1av/aa05102026/391849.ts
-#EXTINF:-1 tvg-name="ESPN3 HD" tvg-logo="" group-title="sports",ESPN3 HD
-http://ambar.city:8080/live/243658aw1av/aa05102026/391851.ts
-#EXTINF:-1 tvg-name="ESPN4 HD" tvg-logo="" group-title="sports",ESPN4 HD
-http://ambar.city:8080/live/243658aw1av/aa05102026/391854.ts
-#EXTINF:-1 tvg-name="ESPN (COLOMBIA)" tvg-logo="" group-title="sports",ESPN (COLOMBIA)
-http://ambar.city:8080/live/243658aw1av/aa05102026/405.ts
-#EXTINF:-1 tvg-name="ESPN 2 (COLOMBIA)" tvg-logo="" group-title="sports",ESPN 2 (COLOMBIA)
-http://ambar.city:8080/live/243658aw1av/aa05102026/406.ts
-#EXTINF:-1 tvg-name="PERU | ESPN 2 PERU" tvg-logo="" group-title="sports",PERU | ESPN 2 PERU
-http://ambar.city:8080/live/243658aw1av/aa05102026/1348.ts
-#EXTINF:-1 tvg-name="USA: ESPN NEWS" tvg-logo="" group-title="sports",USA: ESPN NEWS
-https://velive.lat:443/manfredstv/ffutNGsQwEQF/420245
-#EXTINF:-1 tvg-name="USA: ESPN U" tvg-logo="" group-title="sports",USA: ESPN U
-https://velive.lat:443/manfredstv/ffutNGsQwEQF/420246
-#EXTINF:-1 tvg-name="USA | ARIZONA FAMILY SPORTS NETWORK" tvg-logo="" group-title="sports",USA | ARIZONA FAMILY SPORTS NETWORK
-http://ambar.city:8080/live/243658aw1av/aa05102026/391889.ts
-#EXTINF:-1 tvg-name="USA: MONUMENTAL SPORTS NETWORK" tvg-logo="" group-title="sports",USA: MONUMENTAL SPORTS NETWORK
-http://ambar.city:8080/live/243658aw1av/aa05102026/391891.ts
-#EXTINF:-1 tvg-name="USA: ALTITUDE SPORTS" tvg-logo="" group-title="sports",USA: ALTITUDE SPORTS
-http://1sn.ns1.name:18800/boris/rZqe9mKf/241454
-#EXTINF:-1 tvg-name="USA: ALTITUDE SPORTS 2" tvg-logo="" group-title="sports",USA: ALTITUDE SPORTS 2
-http://ambar.city:8080/live/243658aw1av/aa05102026/391893.ts
-#EXTINF:-1 tvg-name="USA: AT&T SPORTSNET PITTSBURGH" tvg-logo="" group-title="sports",USA: AT&T SPORTSNET PITTSBURGH
-https://velive.lat:443/manfredstv/ffutNGsQwEQF/420225
-#EXTINF:-1 tvg-name="USA: ATT SPORTSNET PITSBURG ALT" tvg-logo="" group-title="sports",USA: ATT SPORTSNET PITSBURG ALT
-http://ambar.city:8080/live/243658aw1av/aa05102026/391895.ts
-#EXTINF:-1 tvg-name="USA: AT&T SPORTSNET SOUTHWEST" tvg-logo="" group-title="sports",USA: AT&T SPORTSNET SOUTHWEST
-http://ambar.city:8080/live/243658aw1av/aa05102026/391896.ts
-#EXTINF:-1 tvg-name="USA: FANDUEL SPORTS NETWORK DETROIT" tvg-logo="" group-title="sports",USA: FANDUEL SPORTS NETWORK DETROIT
-http://ambar.city:8080/live/243658aw1av/aa05102026/391898.ts
-#EXTINF:-1 tvg-name="USA: FANDUEL SPORT NETWORK FLORIDA" tvg-logo="" group-title="sports",USA: FANDUEL SPORT NETWORK FLORIDA
-http://ambar.city:8080/live/243658aw1av/aa05102026/391899.ts
-#EXTINF:-1 tvg-name="USA: BALLY SPORTS GREAT LAKES" tvg-logo="" group-title="sports",USA: BALLY SPORTS GREAT LAKES
-http://1sn.ns1.name:18800/boris/rZqe9mKf/216383
-#EXTINF:-1 tvg-name="USA: FANDUEL SPORTS NETWORK KANSAS CITY" tvg-logo="" group-title="sports",USA: FANDUEL SPORTS NETWORK KANSAS CITY
-http://ambar.city:8080/live/243658aw1av/aa05102026/391901.ts
-#EXTINF:-1 tvg-name="USA: BALLY SPORTS OHIO PLUS" tvg-logo="" group-title="sports",USA: BALLY SPORTS OHIO PLUS
-http://1sn.ns1.name:18800/boris/rZqe9mKf/245121
-#EXTINF:-1 tvg-name="USA: FANDUEL SPORTS NETWORK SO CAL" tvg-logo="" group-title="sports",USA: FANDUEL SPORTS NETWORK SO CAL
-http://ambar.city:8080/live/243658aw1av/aa05102026/391906.ts
-#EXTINF:-1 tvg-name="USA: BALLY SPORTS SOUTH PLUS" tvg-logo="" group-title="sports",USA: BALLY SPORTS SOUTH PLUS
-http://1sn.ns1.name:18800/boris/rZqe9mKf/215602
-#EXTINF:-1 tvg-name="USA: FanDuel SPORTS SOUTHEAST" tvg-logo="" group-title="sports",USA: FanDuel SPORTS SOUTHEAST
-https://velive.lat:443/manfredstv/ffutNGsQwEQF/420269
-#EXTINF:-1 tvg-name="USA: FANDUEL SPORTS NETWORK SOUTHEAST" tvg-logo="" group-title="sports",USA: FANDUEL SPORTS NETWORK SOUTHEAST
-http://ambar.city:8080/live/243658aw1av/aa05102026/391909.ts
-#EXTINF:-1 tvg-name="USA: BALLY SPORTS SOUTHWEST PLUS" tvg-logo="" group-title="sports",USA: BALLY SPORTS SOUTHWEST PLUS
-http://1sn.ns1.name:18800/boris/rZqe9mKf/215614
-#EXTINF:-1 tvg-name="USA: FanDuel SPORTS WISCONSIN" tvg-logo="" group-title="sports",USA: FanDuel SPORTS WISCONSIN
-https://velive.lat:443/manfredstv/ffutNGsQwEQF/420273
-#EXTINF:-1 tvg-name="USA: ATTSPORTSNET SOUTHWEST ALT" tvg-logo="" group-title="sports",USA: ATTSPORTSNET SOUTHWEST ALT
-http://ambar.city:8080/live/243658aw1av/aa05102026/391915.ts
-#EXTINF:-1 tvg-name="USA: BEIN SPORTS 4" tvg-logo="" group-title="sports",USA: BEIN SPORTS 4
-https://velive.lat:443/manfredstv/ffutNGsQwEQF/420228
-#EXTINF:-1 tvg-name="USA: BEIN SPORTS 5" tvg-logo="" group-title="sports",USA: BEIN SPORTS 5
-http://ambar.city:8080/live/243658aw1av/aa05102026/391917.ts
-#EXTINF:-1 tvg-name="USA: BEIN SPORTS 6" tvg-logo="" group-title="sports",USA: BEIN SPORTS 6
-https://velive.lat:443/manfredstv/ffutNGsQwEQF/420230
-#EXTINF:-1 tvg-name="USA: BEIN SPORTS 7" tvg-logo="" group-title="sports",USA: BEIN SPORTS 7
-https://velive.lat:443/manfredstv/ffutNGsQwEQF/420231
-#EXTINF:-1 tvg-name="USA: BEIN SPORTS 8" tvg-logo="" group-title="sports",USA: BEIN SPORTS 8
-https://velive.lat:443/manfredstv/ffutNGsQwEQF/420232
-#EXTINF:-1 tvg-name="USA: CBS SPORTS NETWORK" tvg-logo="" group-title="sports",USA: CBS SPORTS NETWORK
-https://velive.lat:443/manfredstv/ffutNGsQwEQF/420239
-#EXTINF:-1 tvg-name="USA: Fight Sports" tvg-logo="https://w7.pngwing.com/pngs/405/493/png-transparent-boxing-combat-sport-sports-entertainment-television-channel-boxing.png" group-title="sports",USA: Fight Sports
-http://1sn.ns1.name:18800/boris/rZqe9mKf/237696
-#EXTINF:-1 tvg-name="USA: Fubo Sports Network HD" tvg-logo="https://variety.com/wp-content/uploads/2019/06/fubo-sports-network-logo-dark.jpg" group-title="sports",USA: Fubo Sports Network HD
-http://1sn.ns1.name:18800/boris/rZqe9mKf/241595
-#EXTINF:-1 tvg-name="USA: Fox Deportes HD" tvg-logo="https://www.lyngsat.com/logo/tv/ff/fox_deportes_us.png" group-title="sports",USA: Fox Deportes HD
-https://velive.lat:443/manfredstv/ffutNGsQwEQF/420278
-#EXTINF:-1 tvg-name="USA: Fox Soccer Plus" tvg-logo="https://www.lyngsat.com/logo/tv/ff/fox_soccer_plus.png" group-title="sports",USA: Fox Soccer Plus
-https://velive.lat:443/manfredstv/ffutNGsQwEQF/420279
-#EXTINF:-1 tvg-name="USA: FOX SPORTS 1" tvg-logo="" group-title="sports",USA: FOX SPORTS 1
-https://velive.lat:443/manfredstv/ffutNGsQwEQF/420280
-#EXTINF:-1 tvg-name="USA: FOX SPORTS 2" tvg-logo="" group-title="sports",USA: FOX SPORTS 2
-https://velive.lat:443/manfredstv/ffutNGsQwEQF/420281
-#EXTINF:-1 tvg-name="USA: MARQUEE SPORTS NETWORK" tvg-logo="" group-title="sports",USA: MARQUEE SPORTS NETWORK
-https://velive.lat:443/manfredstv/ffutNGsQwEQF/420286
-#EXTINF:-1 tvg-name="USA: MASN FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e5/MASN-Logo.png" group-title="sports",USA: MASN FHD
-https://velive.lat:443/manfredstv/ffutNGsQwEQF/420287
-#EXTINF:-1 tvg-name="USA: MSG HD" tvg-logo="https://pbs.twimg.com/media/FdSGVdDXoAMjkNs.jpg" group-title="sports",USA: MSG HD
-https://velive.lat:443/manfredstv/ffutNGsQwEQF/420290
-#EXTINF:-1 tvg-name="USA: SEC Network HD" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sec-network-us.png" group-title="sports",USA: SEC Network HD
-https://velive.lat:443/manfredstv/ffutNGsQwEQF/420311
-#EXTINF:-1 tvg-name="USA: SPECTRUM SPORTSNET DODGERS" tvg-logo="" group-title="sports",USA: SPECTRUM SPORTSNET DODGERS
-http://1sn.ns1.name:18800/boris/rZqe9mKf/244236
-#EXTINF:-1 tvg-name="USA: SPECTRUM SPORTSNET LAKERS" tvg-logo="" group-title="sports",USA: SPECTRUM SPORTSNET LAKERS
-http://1sn.ns1.name:18800/boris/rZqe9mKf/244233
-#EXTINF:-1 tvg-name="USA: ATT SportsNet" tvg-logo="" group-title="sports",USA: ATT SportsNet
-http://ambar.city:8080/live/243658aw1av/aa05102026/391943.ts
-#EXTINF:-1 tvg-name="USA: Sportsman Channel" tvg-logo="" group-title="sports",USA: Sportsman Channel
-https://velive.lat:443/manfredstv/ffutNGsQwEQF/420314
-#EXTINF:-1 tvg-name="USA: SPORTSNET NEW YORK" tvg-logo="" group-title="sports",USA: SPORTSNET NEW YORK
-http://1sn.ns1.name:18800/boris/rZqe9mKf/8336
-#EXTINF:-1 tvg-name="USA: Stadium 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c6/Stadium_new_logo.png" group-title="sports",USA: Stadium 1 HD
-http://1sn.ns1.name:18800/boris/rZqe9mKf/44528
-#EXTINF:-1 tvg-name="USA: Stadium 3 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c6/Stadium_new_logo.png" group-title="sports",USA: Stadium 3 HD
-http://1sn.ns1.name:18800/boris/rZqe9mKf/44530
-#EXTINF:-1 tvg-name="USA: Tennis Channel HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Tennis_Channel_logo.svg/165px-Tennis_Channel_logo.svg.png" group-title="sports",USA: Tennis Channel HD
-https://velive.lat:443/manfredstv/ffutNGsQwEQF/420321
-#EXTINF:-1 tvg-name="USA: THE COWBOY CHANNEL" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="sports",USA: THE COWBOY CHANNEL
-https://velive.lat:443/manfredstv/ffutNGsQwEQF/416643
-#EXTINF:-1 tvg-name="USA: TUDN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/330px-TUDN_Logo.svg.png" group-title="sports",USA: TUDN
-http://1sn.ns1.name:18800/boris/rZqe9mKf/241233
-#EXTINF:-1 tvg-name="USA: Willow Cricket HD" tvg-logo="https://www.lyngsat.com/logo/tv/ww/willow_us.png" group-title="sports",USA: Willow Cricket HD
-http://1sn.ns1.name:18800/boris/rZqe9mKf/10812
-#EXTINF:-1 tvg-name="USA: Yes Network HD" tvg-logo="https://www.lyngsat.com/logo/tv/yy/yes-network-us.png" group-title="sports",USA: Yes Network HD
-https://velive.lat:443/manfredstv/ffutNGsQwEQF/420326
-#EXTINF:-1 tvg-name="USA: Bounce TV" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bounce-us.png" group-title="sports",USA: Bounce TV
-http://1sn.ns1.name:18800/boris/rZqe9mKf/237677
-#EXTINF:-1 tvg-name="USA: MGM+ MARQUEE HD" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mgm-plus-marquee-us.png" group-title="sports",USA: MGM+ MARQUEE HD
-http://1sn.ns1.name:18800/boris/rZqe9mKf/197292
-#EXTINF:-1 tvg-name="CA: TVA SPORTS 2" tvg-logo="" group-title="sports",CA: TVA SPORTS 2
-http://ambar.city:8080/live/243658aw1av/aa05102026/371150.ts
-#EXTINF:-1 tvg-name="USA: Golf FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Golf_Channel_Logo_2018.png/405px-Golf_Channel_Logo_2018.png" group-title="sports",USA: Golf FHD
-http://1sn.ns1.name:18800/boris/rZqe9mKf/10794
-#EXTINF:-1 tvg-name="CA: SPORTSNET ONE | SN1" tvg-logo="" group-title="sports",CA: SPORTSNET ONE | SN1
-http://ambar.city:8080/live/243658aw1av/aa05102026/371153.ts
-#EXTINF:-1 tvg-name="CA: SPORTSNET 360 | SN360" tvg-logo="" group-title="sports",CA: SPORTSNET 360 | SN360
-http://ambar.city:8080/live/243658aw1av/aa05102026/371154.ts
-#EXTINF:-1 tvg-name="CA: SPORTSNET PACIFIC | SNP" tvg-logo="" group-title="sports",CA: SPORTSNET PACIFIC | SNP
-http://ambar.city:8080/live/243658aw1av/aa05102026/371155.ts
-#EXTINF:-1 tvg-name="CA: SPORTSNET WEST | SNW" tvg-logo="" group-title="sports",CA: SPORTSNET WEST | SNW
-http://ambar.city:8080/live/243658aw1av/aa05102026/371156.ts
-#EXTINF:-1 tvg-name="CA: SPORTSNET EAST | SNE" tvg-logo="" group-title="sports",CA: SPORTSNET EAST | SNE
-http://ambar.city:8080/live/243658aw1av/aa05102026/371157.ts
-#EXTINF:-1 tvg-name="CA: SPORTSNET ONTARIO | SNO" tvg-logo="" group-title="sports",CA: SPORTSNET ONTARIO | SNO
-http://ambar.city:8080/live/243658aw1av/aa05102026/371158.ts
-#EXTINF:-1 tvg-name="USA: TSN 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/TSN_Logo.svg/330px-TSN_Logo.svg.png" group-title="sports",USA: TSN 3
-http://1sn.ns1.name:18800/boris/rZqe9mKf/237693
-#EXTINF:-1 tvg-name="USA: TSN 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/TSN_Logo.svg/330px-TSN_Logo.svg.png" group-title="sports",USA: TSN 4
-http://1sn.ns1.name:18800/boris/rZqe9mKf/237694
-#EXTINF:-1 tvg-name="USA: TSN 5 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/TSN_Logo.svg/330px-TSN_Logo.svg.png" group-title="sports",USA: TSN 5 HD
-http://1sn.ns1.name:18800/boris/rZqe9mKf/237695
-#EXTINF:-1 tvg-name="USA: TSN 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/TSN_Logo.svg/330px-TSN_Logo.svg.png" group-title="sports",USA: TSN 1 HD
-http://1sn.ns1.name:18800/boris/rZqe9mKf/237692
-#EXTINF:-1 tvg-name="USA: BEIN SPORTS HD" tvg-logo="" group-title="sports",USA: BEIN SPORTS HD
-https://velive.lat:443/manfredstv/ffutNGsQwEQF/420234
-#EXTINF:-1 tvg-name="CA: FOX SPORTS RACING" tvg-logo="" group-title="sports",CA: FOX SPORTS RACING
-http://1sn.ns1.name:18800/boris/rZqe9mKf/241593
-#EXTINF:-1 tvg-name="USA: SportsNet One HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Logo_Sportsnet_2011.svg/375px-Logo_Sportsnet_2011.svg.png" group-title="sports",USA: SportsNet One HD
-http://1sn.ns1.name:18800/boris/rZqe9mKf/10783
-#EXTINF:-1 tvg-name="USA: Sportsnet Ontario" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Logo_Sportsnet_2011.svg/375px-Logo_Sportsnet_2011.svg.png" group-title="sports",USA: Sportsnet Ontario
-http://1sn.ns1.name:18800/boris/rZqe9mKf/237700
-#EXTINF:-1 tvg-name="CA: SPORTSNET 360 FHD" tvg-logo="" group-title="sports",CA: SPORTSNET 360 FHD
-http://ambar.city:8080/live/243658aw1av/aa05102026/371174.ts
-#EXTINF:-1 tvg-name="USA: Sportsnet World" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Logo_Sportsnet_2011.svg/375px-Logo_Sportsnet_2011.svg.png" group-title="sports",USA: Sportsnet World
-http://1sn.ns1.name:18800/boris/rZqe9mKf/237697
-#EXTINF:-1 tvg-name="CA: SPORTSNET EAST FHD" tvg-logo="" group-title="sports",CA: SPORTSNET EAST FHD
-http://ambar.city:8080/live/243658aw1av/aa05102026/371176.ts
-#EXTINF:-1 tvg-name="CA: SPORTSNET WL FHD" tvg-logo="" group-title="sports",CA: SPORTSNET WL FHD
-http://ambar.city:8080/live/243658aw1av/aa05102026/371177.ts
-#EXTINF:-1 tvg-name="USA: Fight Network FHD" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/be74b3f4-088f-4981-a2fa-c8b64335dc92/dfhhmph-500b2fcf-2a6a-4cb2-b819-88ea880b186f.png" group-title="sports",USA: Fight Network FHD
-http://1sn.ns1.name:18800/boris/rZqe9mKf/237686
-#EXTINF:-1 tvg-name="EUROSPORT" tvg-logo="https://layout.eurosport.com/i/v8_5/logo/epg/e1_new.png" group-title="sports",EUROSPORT
-http://1sn.ns1.name:18800/boris/rZqe9mKf/310997
-#EXTINF:-1 tvg-name="EUROSPORT 1 DE" tvg-logo="https://sport-tv-guide.live/images/tv-station-de-eurosport-1-150.png" group-title="sports",EUROSPORT 1 DE
-http://client.nodomain.vip:80/milan.stancic/stancic.milan/1686
-#EXTINF:-1 tvg-name="EUROSPORT 2 DE" tvg-logo="https://sport-tv-guide.live/images/tv-station-de-eurosport-2-151.png" group-title="sports",EUROSPORT 2 DE
-http://client.nodomain.vip:80/milan.stancic/stancic.milan/1687
-#EXTINF:-1 tvg-name="ESPN US" tvg-logo="https://sport-tv-guide.live/images/tv-station-us-espn-29.png" group-title="sports",ESPN US
-http://client.nodomain.vip:80/milan.stancic/stancic.milan/1703
-#EXTINF:-1 tvg-name="ESPN SPORTS 1 NL" tvg-logo="" group-title="sports",ESPN SPORTS 1 NL
-http://client.nodomain.vip:80/milan.stancic/stancic.milan/1721
-#EXTINF:-1 tvg-name="ESPN SPORTS 2 NL" tvg-logo="" group-title="sports",ESPN SPORTS 2 NL
-http://client.nodomain.vip:80/milan.stancic/stancic.milan/1722
-#EXTINF:-1 tvg-name="ESPN SPORTS 3 NL" tvg-logo="" group-title="sports",ESPN SPORTS 3 NL
-http://client.nodomain.vip:80/milan.stancic/stancic.milan/1723
-#EXTINF:-1 tvg-name="ESPN SPORTS 4 NL" tvg-logo="" group-title="sports",ESPN SPORTS 4 NL
-http://client.nodomain.vip:80/milan.stancic/stancic.milan/1724
-#EXTINF:-1 tvg-name="BT Sport ESPN HD" tvg-logo="" group-title="sports",BT Sport ESPN HD
-http://xfast-media.info:25461/play/TKPvLMLF-BGcFd-6_GdH9Y7SkFFDgmjte_e6PUuXpXk/ts
-#EXTINF:-1 tvg-name="USA: AMC+ Original HD" tvg-logo="https://logodownload.org/wp-content/uploads/2021/05/cbs-sports-logo-1.png" group-title="sports",USA: AMC+ Original HD
-http://1sn.ns1.name:18800/boris/rZqe9mKf/316561
-#EXTINF:-1 tvg-name="USA: AFL 24/7" tvg-logo="https://1000logos.net/wp-content/uploads/2018/07/AFL-Logo-640x400.png" group-title="sports",USA: AFL 24/7
-http://1sn.ns1.name:18800/boris/rZqe9mKf/245532
-#EXTINF:-1 tvg-name="USA: AFN Sport FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/American_Forces_Network_logo.png/263px-American_Forces_Network_logo.png" group-title="sports",USA: AFN Sport FHD
-http://1sn.ns1.name:18800/boris/rZqe9mKf/215179
-#EXTINF:-1 tvg-name="USA: AFN Sports HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/American_Forces_Network_logo.png/263px-American_Forces_Network_logo.png" group-title="sports",USA: AFN Sports HD
-http://1sn.ns1.name:18800/boris/rZqe9mKf/215178
-#EXTINF:-1 tvg-name="USA: ASPIRE HD" tvg-logo="https://www.lyngsat.com/logo/tv/aa/aspire-tv-us.png" group-title="sports",USA: ASPIRE HD
-https://velive.lat:443/manfredstv/ffutNGsQwEQF/416525
-#EXTINF:-1 tvg-name="UK: BEIN SPORT 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/Logo_bein_sports_2.png" group-title="sports",UK: BEIN SPORT 2
-http://1sn.ns1.name:18800/boris/rZqe9mKf/44533
-#EXTINF:-1 tvg-name="USA: beIN Sport 3 HD" tvg-logo="https://banner2.cleanpng.com/20180409/vhq/avg8otqlj.webp" group-title="sports",USA: beIN Sport 3 HD
-http://1sn.ns1.name:18800/boris/rZqe9mKf/245122
-#EXTINF:-1 tvg-name="USA: beIN Sport 4 HD" tvg-logo="https://banner2.cleanpng.com/20180409/vhq/avg8otqlj.webp" group-title="sports",USA: beIN Sport 4 HD
-http://1sn.ns1.name:18800/boris/rZqe9mKf/44534
-#EXTINF:-1 tvg-name="USA: beIN Sport 5 HD" tvg-logo="https://banner2.cleanpng.com/20180409/vhq/avg8otqlj.webp" group-title="sports",USA: beIN Sport 5 HD
-http://1sn.ns1.name:18800/boris/rZqe9mKf/44535
-#EXTINF:-1 tvg-name="USA: beIN Sport 6 HD" tvg-logo="https://banner2.cleanpng.com/20180409/vhq/avg8otqlj.webp" group-title="sports",USA: beIN Sport 6 HD
-http://1sn.ns1.name:18800/boris/rZqe9mKf/44536
-#EXTINF:-1 tvg-name="USA: beIN Sport 7 HD" tvg-logo="https://banner2.cleanpng.com/20180409/vhq/avg8otqlj.webp" group-title="sports",USA: beIN Sport 7 HD
-http://1sn.ns1.name:18800/boris/rZqe9mKf/44537
-#EXTINF:-1 tvg-name="USA: beIN Sport 8 HD" tvg-logo="https://banner2.cleanpng.com/20180409/vhq/avg8otqlj.webp" group-title="sports",USA: beIN Sport 8 HD
-http://1sn.ns1.name:18800/boris/rZqe9mKf/44538
-#EXTINF:-1 tvg-name="UK: BEIN SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png" group-title="sports",UK: BEIN SPORT
-http://1sn.ns1.name:18800/boris/rZqe9mKf/311959
-#EXTINF:-1 tvg-name="USA: beIN Sports USA" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-08/1af633ac21f674213181b644bd010f25.png" group-title="sports",USA: beIN Sports USA
-http://1sn.ns1.name:18800/boris/rZqe9mKf/245440
-#EXTINF:-1 tvg-name="USA: BeIN Sports Xtra HD" tvg-logo="https://hubdeportivo.com/wp-content/uploads/2022/09/Bein-Sport-XTRA.png" group-title="sports",USA: BeIN Sports Xtra HD
-http://1sn.ns1.name:18800/boris/rZqe9mKf/44651
-#EXTINF:-1 tvg-name="USA: beIN Sports XTRA Ñ HD" tvg-logo="https://hubdeportivo.com/wp-content/uploads/2022/09/Bein-Sports-Xtra.png" group-title="sports",USA: beIN Sports XTRA Ñ HD
-http://1sn.ns1.name:18800/boris/rZqe9mKf/44652
-#EXTINF:-1 tvg-name="USA: BTN Sport HD" tvg-logo="https://btn.com/wp-content/uploads/2019/08/btn_logo_kit_page_4a.jpg" group-title="sports",USA: BTN Sport HD
-http://1sn.ns1.name:18800/boris/rZqe9mKf/44663
-#EXTINF:-1 tvg-name="USA: BTN2 HD" tvg-logo="https://btn.com/wp-content/uploads/2019/08/btn_logo_kit_page_4a.jpg" group-title="sports",USA: BTN2 HD
-http://1sn.ns1.name:18800/boris/rZqe9mKf/241071
-#EXTINF:-1 tvg-name="USA: BTN3 FHD" tvg-logo="https://btn.com/wp-content/uploads/2019/08/btn_logo_kit_page_4a.jpg" group-title="sports",USA: BTN3 FHD
-http://1sn.ns1.name:18800/boris/rZqe9mKf/216398
-#EXTINF:-1 tvg-name="USA: BTN4 HD" tvg-logo="https://btn.com/wp-content/uploads/2019/08/btn_logo_kit_page_4a.jpg" group-title="sports",USA: BTN4 HD
-http://1sn.ns1.name:18800/boris/rZqe9mKf/241457
-#EXTINF:-1 tvg-name="USA: CBS SPORTS GOLAZO" tvg-logo="" group-title="sports",USA: CBS SPORTS GOLAZO
-https://velive.lat:443/manfredstv/ffutNGsQwEQF/420237
-#EXTINF:-1 tvg-name="USA: CBS Sports Net (CBSSN) HD" tvg-logo="https://logodownload.org/wp-content/uploads/2021/05/cbs-sports-logo-1.png" group-title="sports",USA: CBS Sports Net (CBSSN) HD
-http://1sn.ns1.name:18800/boris/rZqe9mKf/44668
-#EXTINF:-1 tvg-name="USA: Choppertown" tvg-logo="https://image.roku.com/developer_channels/prod/44e5aee167dc4b57d7c8a83b97c240a4b46ef1358781e42508f366f6aa122689.png" group-title="sports",USA: Choppertown
-http://1sn.ns1.name:18800/boris/rZqe9mKf/244306
-#EXTINF:-1 tvg-name="USA: DAZN UNBEATEN" tvg-logo="https://unbeaten.com/assets/images/Unbeaten_Buffering.jpg" group-title="sports",USA: DAZN UNBEATEN
-http://1sn.ns1.name:18800/boris/rZqe9mKf/237701
-#EXTINF:-1 tvg-name="USA: Eleven Sports Network HD" tvg-logo="https://banner2.cleanpng.com/20180711/kso/kisspng-eleven-sports-network-eleven-sports-1-austrian-gra-11-logo-ki-maut-5b468ca21a9500.1127593115313501781089.jpg" group-title="sports",USA: Eleven Sports Network HD
-http://1sn.ns1.name:18800/boris/rZqe9mKf/44681
-#EXTINF:-1 tvg-name="USA: FANDUEL HD" tvg-logo="https://cdn.sanity.io/images/pbwem9y5/fanduel_marketing_production/17fee95afff4d1731b8474194d094fd0aed47e09-6868x2434.png" group-title="sports",USA: FANDUEL HD
-http://1sn.ns1.name:18800/boris/rZqe9mKf/244292
-#EXTINF:-1 tvg-name="USA: FANTASY SPORTS NETWORK" tvg-logo="" group-title="sports",USA: FANTASY SPORTS NETWORK
-http://1sn.ns1.name:18800/boris/rZqe9mKf/244241
-#EXTINF:-1 tvg-name="USA: Fight Box HD" tvg-logo="https://www.lyngsat.com/logo/tv/ff/fight_box_hd.png" group-title="sports",USA: Fight Box HD
-http://1sn.ns1.name:18800/boris/rZqe9mKf/10795
-#EXTINF:-1 tvg-name="USA: FUEL TV" tvg-logo="https://www.lyngsat.com/logo/tv/ff/fuel_tv_us.png" group-title="sports",USA: FUEL TV
-https://velive.lat:443/manfredstv/ffutNGsQwEQF/420282
-#EXTINF:-1 tvg-name="USA: GAME+ HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c1/Game_Plus_Neetwork.png/300px-Game_Plus_Neetwork.png" group-title="sports",USA: GAME+ HD
-https://velive.lat:443/manfredstv/ffutNGsQwEQF/420283
-#EXTINF:-1 tvg-name="USA: GINX eSports HD" tvg-logo="https://tileyard.co.uk/app/uploads/2019/03/GINX_Esports_TV_Logo.jpg" group-title="sports",USA: GINX eSports HD
-http://1sn.ns1.name:18800/boris/rZqe9mKf/241596
-#EXTINF:-1 tvg-name="USA: GOL TV HD" tvg-logo="https://www.lyngsat.com/logo/tv/gg/gol-tv-us.png" group-title="sports",USA: GOL TV HD
-http://1sn.ns1.name:18800/boris/rZqe9mKf/197264
-#EXTINF:-1 tvg-name="USA: Golf Kingdom" tvg-logo="https://golfkingdom.net/wp-content/uploads/2022/04/golf-kingdom-st.jpg" group-title="sports",USA: Golf Kingdom
-http://1sn.ns1.name:18800/boris/rZqe9mKf/245461
-#EXTINF:-1 tvg-name="USA: LALIGA 01" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/LaLiga_EA_Sports_2023_Vertical_Logo.svg/360px-LaLiga_EA_Sports_2023_Vertical_Logo.svg.png" group-title="sports",USA: LALIGA 01
-http://1sn.ns1.name:18800/boris/rZqe9mKf/243084
-#EXTINF:-1 tvg-name="USA: LALIGA 02" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/LaLiga_EA_Sports_2023_Vertical_Logo.svg/360px-LaLiga_EA_Sports_2023_Vertical_Logo.svg.png" group-title="sports",USA: LALIGA 02
-http://1sn.ns1.name:18800/boris/rZqe9mKf/243085
-#EXTINF:-1 tvg-name="USA: LALIGA 03" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/LaLiga_EA_Sports_2023_Vertical_Logo.svg/360px-LaLiga_EA_Sports_2023_Vertical_Logo.svg.png" group-title="sports",USA: LALIGA 03
-http://1sn.ns1.name:18800/boris/rZqe9mKf/243086
-#EXTINF:-1 tvg-name="USA: LALIGA 04" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/LaLiga_EA_Sports_2023_Vertical_Logo.svg/360px-LaLiga_EA_Sports_2023_Vertical_Logo.svg.png" group-title="sports",USA: LALIGA 04
-http://1sn.ns1.name:18800/boris/rZqe9mKf/243087
-#EXTINF:-1 tvg-name="USA: LONGHORN NET HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Longhorn_Network_logo.svg/375px-Longhorn_Network_logo.svg.png" group-title="sports",USA: LONGHORN NET HD
-http://1sn.ns1.name:18800/boris/rZqe9mKf/197287
-#EXTINF:-1 tvg-name="USA: MARQUEE SPORTS NET FHD" tvg-logo="https://www.lyngsat.com/logo/tv/mm/marquee-sports-network-us.png" group-title="sports",USA: MARQUEE SPORTS NET FHD
-http://1sn.ns1.name:18800/boris/rZqe9mKf/222864
-#EXTINF:-1 tvg-name="USA: MASN 2 FHD" tvg-logo="https://images.fubo.tv/channel-config-ui/station-logos/on-white/masn-2-logo-black.png" group-title="sports",USA: MASN 2 FHD
-http://1sn.ns1.name:18800/boris/rZqe9mKf/222866
-#EXTINF:-1 tvg-name="USA: MAV TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/MavTV-2018.PNG/300px-MavTV-2018.PNG" group-title="sports",USA: MAV TV HD
-https://velive.lat:443/manfredstv/ffutNGsQwEQF/420289
-#EXTINF:-1 tvg-name="USA: MONUMENTAL SPORTS NET FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e1/Monumental_Sports_Network_Logo.png/375px-Monumental_Sports_Network_Logo.png" group-title="sports",USA: MONUMENTAL SPORTS NET FHD
-http://1sn.ns1.name:18800/boris/rZqe9mKf/222869
-#EXTINF:-1 tvg-name="USA: MOTO America TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-02/57bcd81b2a03c1f91d9245c0cb3edb36.jpg" group-title="sports",USA: MOTO America TV
-http://1sn.ns1.name:18800/boris/rZqe9mKf/245441
-#EXTINF:-1 tvg-name="USA: Motor Trend HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Motor_Trend.svg/300px-Motor_Trend.svg.png" group-title="sports",USA: Motor Trend HD
-http://1sn.ns1.name:18800/boris/rZqe9mKf/44786
-#EXTINF:-1 tvg-name="USA: Motorsport FHD" tvg-logo="https://www.lyngsat.com/logo/tv/mm/motorsport-tv-us.png" group-title="sports",USA: Motorsport FHD
-http://1sn.ns1.name:18800/boris/rZqe9mKf/241068
-#EXTINF:-1 tvg-name="USA: MSG 2 HD" tvg-logo="https://images.fubo.tv/station_logos/msg_2_m.png" group-title="sports",USA: MSG 2 HD
-https://velive.lat:443/manfredstv/ffutNGsQwEQF/420291
-#EXTINF:-1 tvg-name="USA: NESN Boston" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/NBCSN_logo_%28flat%29.svg/270px-NBCSN_logo_%28flat%29.svg.png" group-title="sports",USA: NESN Boston
-http://1sn.ns1.name:18800/boris/rZqe9mKf/44756
-#EXTINF:-1 tvg-name="USA: NESN+ HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/NBCSN_logo_%28flat%29.svg/270px-NBCSN_logo_%28flat%29.svg.png" group-title="sports",USA: NESN+ HD
-https://velive.lat:443/manfredstv/ffutNGsQwEQF/420306
-#EXTINF:-1 tvg-name="USA: NEXT LEVEL SPORTS FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/ELEVEN_SPORTS.png/375px-ELEVEN_SPORTS.png" group-title="sports",USA: NEXT LEVEL SPORTS FHD
-http://1sn.ns1.name:18800/boris/rZqe9mKf/222873
-#EXTINF:-1 tvg-name="USA: Now Premier League 4 HD EN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Now_logo.svg/375px-Now_logo.svg.png" group-title="sports",USA: Now Premier League 4 HD EN
-http://1sn.ns1.name:18800/boris/rZqe9mKf/44505
-#EXTINF:-1 tvg-name="USA: Now Premier League 6 HD EN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Now_logo.svg/375px-Now_logo.svg.png" group-title="sports",USA: Now Premier League 6 HD EN
-http://1sn.ns1.name:18800/boris/rZqe9mKf/44507
-#EXTINF:-1 tvg-name="USA: OLYMPIC CH" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Olympic_Channel_logo.png/300px-Olympic_Channel_logo.png" group-title="sports",USA: OLYMPIC CH
-http://1sn.ns1.name:18800/boris/rZqe9mKf/218679
-#EXTINF:-1 tvg-name="USA: PAC-12 Arizona HD" tvg-logo="https://banner2.cleanpng.com/20180527/oze/kisspng-pac-12-football-championship-game-pac-12-conferenc-5b0b2b6b8eaae6.5584318415274586675844.jpg" group-title="sports",USA: PAC-12 Arizona HD
-http://1sn.ns1.name:18800/boris/rZqe9mKf/10759
-#EXTINF:-1 tvg-name="USA: PAC-12 Bay Area HD" tvg-logo="https://banner2.cleanpng.com/20180527/oze/kisspng-pac-12-football-championship-game-pac-12-conferenc-5b0b2b6b8eaae6.5584318415274586675844.jpg" group-title="sports",USA: PAC-12 Bay Area HD
-http://1sn.ns1.name:18800/boris/rZqe9mKf/10758
-#EXTINF:-1 tvg-name="USA: PAC-12 Insider HD" tvg-logo="https://banner2.cleanpng.com/20180527/oze/kisspng-pac-12-football-championship-game-pac-12-conferenc-5b0b2b6b8eaae6.5584318415274586675844.jpg" group-title="sports",USA: PAC-12 Insider HD
-http://1sn.ns1.name:18800/boris/rZqe9mKf/245127
-#EXTINF:-1 tvg-name="USA: PAC-12 Los Angeles HD" tvg-logo="https://banner2.cleanpng.com/20180527/oze/kisspng-pac-12-football-championship-game-pac-12-conferenc-5b0b2b6b8eaae6.5584318415274586675844.jpg" group-title="sports",USA: PAC-12 Los Angeles HD
-http://1sn.ns1.name:18800/boris/rZqe9mKf/10757
-#EXTINF:-1 tvg-name="USA: PAC-12 Mountain HD" tvg-logo="https://banner2.cleanpng.com/20180527/oze/kisspng-pac-12-football-championship-game-pac-12-conferenc-5b0b2b6b8eaae6.5584318415274586675844.jpg" group-title="sports",USA: PAC-12 Mountain HD
-http://1sn.ns1.name:18800/boris/rZqe9mKf/10756
-#EXTINF:-1 tvg-name="USA: PAC-12 NET HD" tvg-logo="https://banner2.cleanpng.com/20180527/oze/kisspng-pac-12-football-championship-game-pac-12-conferenc-5b0b2b6b8eaae6.5584318415274586675844.jpg" group-title="sports",USA: PAC-12 NET HD
-http://1sn.ns1.name:18800/boris/rZqe9mKf/197315
-#EXTINF:-1 tvg-name="USA: PAC-12 Oregon HD" tvg-logo="https://banner2.cleanpng.com/20180527/oze/kisspng-pac-12-football-championship-game-pac-12-conferenc-5b0b2b6b8eaae6.5584318415274586675844.jpg" group-title="sports",USA: PAC-12 Oregon HD
-http://1sn.ns1.name:18800/boris/rZqe9mKf/10755
-#EXTINF:-1 tvg-name="USA: PAC-12 Washington HD" tvg-logo="https://banner2.cleanpng.com/20180527/oze/kisspng-pac-12-football-championship-game-pac-12-conferenc-5b0b2b6b8eaae6.5584318415274586675844.jpg" group-title="sports",USA: PAC-12 Washington HD
-http://1sn.ns1.name:18800/boris/rZqe9mKf/10754
-#EXTINF:-1 tvg-name="USA: Poker GO+" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-05/1b24e7341716224d55c4eaf9dfce2ae1.png" group-title="sports",USA: Poker GO+
-http://1sn.ns1.name:18800/boris/rZqe9mKf/253620
-#EXTINF:-1 tvg-name="IE: Premier Sports 2 SD" tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/united-kingdom/premier-sports-2-uk.png" group-title="sports",IE: Premier Sports 2 SD
-http://1sn.ns1.name:18800/boris/rZqe9mKf/28825
-#EXTINF:-1 tvg-name="USA: Red Bull TV FHD" tvg-logo="https://dhhmpfovkf2ub.cloudfront.net/content/dam/appstore/visual_update_2020/blog/blog_redbull_thumb_690x493.jpg" group-title="sports",USA: Red Bull TV FHD
-http://1sn.ns1.name:18800/boris/rZqe9mKf/44762
-#EXTINF:-1 tvg-name="USA: ROOT SPORTS NORTHWEST HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8b/Root_Sports_logo.svg/300px-Root_Sports_logo.svg.png" group-title="sports",USA: ROOT SPORTS NORTHWEST HD
-http://1sn.ns1.name:18800/boris/rZqe9mKf/222882
-#EXTINF:-1 tvg-name="USA: Sony Ten 1" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-channel-sur-us.png" group-title="sports",USA: Sony Ten 1
-http://1sn.ns1.name:18800/boris/rZqe9mKf/45375
-#EXTINF:-1 tvg-name="USA: SPECTRUM SPORTS NET LA HD" tvg-logo="https://www.lyngsat.com/logo/tv/ss/spectrum-sportsnet-us.png" group-title="sports",USA: SPECTRUM SPORTS NET LA HD
-http://1sn.ns1.name:18800/boris/rZqe9mKf/197328
-#EXTINF:-1 tvg-name="USA: SPECTRUM SPORTSNET LA FHD" tvg-logo="https://www.lyngsat.com/logo/tv/ss/spectrum-sportsnet-us.png" group-title="sports",USA: SPECTRUM SPORTSNET LA FHD
-http://1sn.ns1.name:18800/boris/rZqe9mKf/222886
-#EXTINF:-1 tvg-name="USA: SPORTS CALIFORNIA FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Logo_Sportsnet_2011.svg/1280px-Logo_Sportsnet_2011.svg.png" group-title="sports",USA: SPORTS CALIFORNIA FHD
-http://1sn.ns1.name:18800/boris/rZqe9mKf/222887
-#EXTINF:-1 tvg-name="USA: SPORTS GRID FHD" tvg-logo="https://www.sportstribal.tv/home/wp-content/uploads/2022/08/sportsgrid.png" group-title="sports",USA: SPORTS GRID FHD
-http://1sn.ns1.name:18800/boris/rZqe9mKf/222889
-#EXTINF:-1 tvg-name="USA: SportsNet California+ FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Logo_Sportsnet_2011.svg/375px-Logo_Sportsnet_2011.svg.png" group-title="sports",USA: SportsNet California+ FHD
-http://1sn.ns1.name:18800/boris/rZqe9mKf/222861
-#EXTINF:-1 tvg-name="USA: Sportsnet Ontario New York HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Logo_Sportsnet_2011.svg/375px-Logo_Sportsnet_2011.svg.png" group-title="sports",USA: Sportsnet Ontario New York HD
-http://1sn.ns1.name:18800/boris/rZqe9mKf/241598
-#EXTINF:-1 tvg-name="USA: Sportsnet Pacific" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Logo_Sportsnet_2011.svg/375px-Logo_Sportsnet_2011.svg.png" group-title="sports",USA: Sportsnet Pacific
-http://1sn.ns1.name:18800/boris/rZqe9mKf/237699
-#EXTINF:-1 tvg-name="USA: SPORTSNET PITTSBURGH HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Logo_Sportsnet_2011.svg/375px-Logo_Sportsnet_2011.svg.png" group-title="sports",USA: SPORTSNET PITTSBURGH HD
-http://1sn.ns1.name:18800/boris/rZqe9mKf/241070
-#EXTINF:-1 tvg-name="USA: SportsNet Rocky Mountain FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Logo_Sportsnet_2011.svg/375px-Logo_Sportsnet_2011.svg.png" group-title="sports",USA: SportsNet Rocky Mountain FHD
-http://1sn.ns1.name:18800/boris/rZqe9mKf/222862
-#EXTINF:-1 tvg-name="USA: Sportsnet South HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/47/Logo_for_AT%26T_SportsNet.svg/1023px-Logo_for_AT%26T_SportsNet.svg.png" group-title="sports",USA: Sportsnet South HD
-http://1sn.ns1.name:18800/boris/rZqe9mKf/241654
-#EXTINF:-1 tvg-name="USA: Sportsnet SouthWest HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Logo_Sportsnet_2011.svg/375px-Logo_Sportsnet_2011.svg.png" group-title="sports",USA: Sportsnet SouthWest HD
-http://1sn.ns1.name:18800/boris/rZqe9mKf/237698
-#EXTINF:-1 tvg-name="USA: Stadium 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c6/Stadium_new_logo.png" group-title="sports",USA: Stadium 2 HD
-http://1sn.ns1.name:18800/boris/rZqe9mKf/44529
-#EXTINF:-1 tvg-name="USA: Stadium HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c6/Stadium_new_logo.png" group-title="sports",USA: Stadium HD
-http://1sn.ns1.name:18800/boris/rZqe9mKf/44527
-#EXTINF:-1 tvg-name="USA: TENNIS PLUS HD" tvg-logo="https://d6u22qyv3ngwz.cloudfront.net/ad/AMwV/tennis-channel-plus-over-100-hours-small-2.jpg" group-title="sports",USA: TENNIS PLUS HD
-http://1sn.ns1.name:18800/boris/rZqe9mKf/241080
-#EXTINF:-1 tvg-name="USA: The Point" tvg-logo="https://images.squarespace-cdn.com/content/v1/5ee9d957b8c54e3c6056b014/1594113293683-KJLXIZN4K4R3P4CJ827X/logo-01.png" group-title="sports",USA: The Point
-http://1sn.ns1.name:18800/boris/rZqe9mKf/245487
-#EXTINF:-1 tvg-name="USA: TVG 2 NET" tvg-logo="https://allvectorlogo.com/img/2016/07/tvg-logo.png" group-title="sports",USA: TVG 2 NET
-http://1sn.ns1.name:18800/boris/rZqe9mKf/254007
-#EXTINF:-1 tvg-name="USA: TVG NET HD" tvg-logo="https://allvectorlogo.com/img/2016/07/tvg-logo.png" group-title="sports",USA: TVG NET HD
-http://1sn.ns1.name:18800/boris/rZqe9mKf/197351
-#EXTINF:-1 tvg-name="USA: TYC SPORTS INT FHD" tvg-logo="https://immaa.xyz/ARGttyccc.png" group-title="sports",USA: TYC SPORTS INT FHD
-http://1sn.ns1.name:18800/boris/rZqe9mKf/251859
-#EXTINF:-1 tvg-name="USA: VSiN FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2d/Vegas_Stats_%26_Information_Network_logo.png" group-title="sports",USA: VSiN FHD
-https://velive.lat:443/manfredstv/ffutNGsQwEQF/416661
-#EXTINF:-1 tvg-name="USA: Willow Cricket Xtra HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d3/Willow_Cricket.PNG" group-title="sports",USA: Willow Cricket Xtra HD
-http://1sn.ns1.name:18800/boris/rZqe9mKf/244235
-#EXTINF:-1 tvg-name="USA: World Poker Tour" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-05/1b24e7341716224d55c4eaf9dfce2ae1.png" group-title="sports",USA: World Poker Tour
-http://1sn.ns1.name:18800/boris/rZqe9mKf/245442
-#EXTINF:-1 tvg-name="USA: WWE" tvg-logo="https://www.lyngsat.com/logo/tv/ww/world_wrestling_entertainment.png" group-title="sports",USA: WWE
-http://1sn.ns1.name:18800/boris/rZqe9mKf/8402
-#EXTINF:-1 tvg-name="USA: WWE 24" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8c/WWE_Network_logo.jpeg" group-title="sports",USA: WWE 24
-http://1sn.ns1.name:18800/boris/rZqe9mKf/237685
-#EXTINF:-1 tvg-name="USA: ZONA FUTBOL" tvg-logo="https://dishpromotions.com/wp-content/uploads/zona-football-hero-1.jpg" group-title="sports",USA: ZONA FUTBOL
-http://1sn.ns1.name:18800/boris/rZqe9mKf/218724
-#EXTINF:-1 tvg-name="USA: [PARAMOUNT] LIGA PREMIERE 1" tvg-logo="https://static.wikia.nocookie.net/southpark/images/9/99/Paramount_Plus.png" group-title="sports",USA: [PARAMOUNT] LIGA PREMIERE 1
-http://1sn.ns1.name:18800/boris/rZqe9mKf/243054
-#EXTINF:-1 tvg-name="USA: [PARAMOUNT] LIGA PREMIERE 10" tvg-logo="https://static.wikia.nocookie.net/southpark/images/9/99/Paramount_Plus.png" group-title="sports",USA: [PARAMOUNT] LIGA PREMIERE 10
-http://1sn.ns1.name:18800/boris/rZqe9mKf/243063
-#EXTINF:-1 tvg-name="USA: [PARAMOUNT] LIGA PREMIERE 2" tvg-logo="https://static.wikia.nocookie.net/southpark/images/9/99/Paramount_Plus.png" group-title="sports",USA: [PARAMOUNT] LIGA PREMIERE 2
-http://1sn.ns1.name:18800/boris/rZqe9mKf/243055
-#EXTINF:-1 tvg-name="USA: [PARAMOUNT] LIGA PREMIERE 3" tvg-logo="https://static.wikia.nocookie.net/southpark/images/9/99/Paramount_Plus.png" group-title="sports",USA: [PARAMOUNT] LIGA PREMIERE 3
-http://1sn.ns1.name:18800/boris/rZqe9mKf/243056
-#EXTINF:-1 tvg-name="USA: [PARAMOUNT] LIGA PREMIERE 4" tvg-logo="https://static.wikia.nocookie.net/southpark/images/9/99/Paramount_Plus.png" group-title="sports",USA: [PARAMOUNT] LIGA PREMIERE 4
-http://1sn.ns1.name:18800/boris/rZqe9mKf/243057
-#EXTINF:-1 tvg-name="USA: [PARAMOUNT] LIGA PREMIERE 5" tvg-logo="https://static.wikia.nocookie.net/southpark/images/9/99/Paramount_Plus.png" group-title="sports",USA: [PARAMOUNT] LIGA PREMIERE 5
-http://1sn.ns1.name:18800/boris/rZqe9mKf/243058
-#EXTINF:-1 tvg-name="USA: [PARAMOUNT] LIGA PREMIERE 6" tvg-logo="https://static.wikia.nocookie.net/southpark/images/9/99/Paramount_Plus.png" group-title="sports",USA: [PARAMOUNT] LIGA PREMIERE 6
-http://1sn.ns1.name:18800/boris/rZqe9mKf/243059
-#EXTINF:-1 tvg-name="USA: [PARAMOUNT] LIGA PREMIERE 7" tvg-logo="https://static.wikia.nocookie.net/southpark/images/9/99/Paramount_Plus.png" group-title="sports",USA: [PARAMOUNT] LIGA PREMIERE 7
-http://1sn.ns1.name:18800/boris/rZqe9mKf/243060
-#EXTINF:-1 tvg-name="USA: [PARAMOUNT] LIGA PREMIERE 8" tvg-logo="https://static.wikia.nocookie.net/southpark/images/9/99/Paramount_Plus.png" group-title="sports",USA: [PARAMOUNT] LIGA PREMIERE 8
-http://1sn.ns1.name:18800/boris/rZqe9mKf/243061
-#EXTINF:-1 tvg-name="USA: [PARAMOUNT] LIGA PREMIERE 9" tvg-logo="https://static.wikia.nocookie.net/southpark/images/9/99/Paramount_Plus.png" group-title="sports",USA: [PARAMOUNT] LIGA PREMIERE 9
-http://1sn.ns1.name:18800/boris/rZqe9mKf/243062
-#EXTINF:-1 tvg-name="USA: [PARAMOUNT] LIGA PREMIERE THE ART" tvg-logo="https://static.wikia.nocookie.net/southpark/images/9/99/Paramount_Plus.png" group-title="sports",USA: [PARAMOUNT] LIGA PREMIERE THE ART
-http://1sn.ns1.name:18800/boris/rZqe9mKf/243097
-#EXTINF:-1 tvg-name="USA: ESR" tvg-logo="https://pbs.twimg.com/profile_images/1780260934373507072/4fZU91UA_400x400.jpg" group-title="sports",USA: ESR
-http://1sn.ns1.name:18800/boris/rZqe9mKf/244314
-#EXTINF:-1 tvg-name="USA: ESPN MNF HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bc/ESPN_NFL_Monday_Night_Football_logo_2023.jpg/220px-ESPN_NFL_Monday_Night_Football_logo_2023.jpg" group-title="sports",USA: ESPN MNF HD
-http://1sn.ns1.name:18800/boris/rZqe9mKf/241076
-#EXTINF:-1 tvg-name="USA: ESPN PLUS PPV:" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/ESPN_Plus.svg/1024px-ESPN_Plus.svg.png" group-title="sports",USA: ESPN PLUS PPV:
-http://1sn.ns1.name:18800/boris/rZqe9mKf/164947
-#EXTINF:-1 tvg-name="USA: ESPN College Extra 1" tvg-logo="" group-title="sports",USA: ESPN College Extra 1
-http://1sn.ns1.name:18800/boris/rZqe9mKf/253467
-#EXTINF:-1 tvg-name="USA: ESPN College Extra 2" tvg-logo="" group-title="sports",USA: ESPN College Extra 2
-http://1sn.ns1.name:18800/boris/rZqe9mKf/253468
-#EXTINF:-1 tvg-name="USA: ESPN College Extra 3" tvg-logo="" group-title="sports",USA: ESPN College Extra 3
-http://1sn.ns1.name:18800/boris/rZqe9mKf/253469
-#EXTINF:-1 tvg-name="USA: ESPN College Extra 4" tvg-logo="" group-title="sports",USA: ESPN College Extra 4
-http://1sn.ns1.name:18800/boris/rZqe9mKf/253470
-#EXTINF:-1 tvg-name="USA: ESPN College Extra 5" tvg-logo="" group-title="sports",USA: ESPN College Extra 5
-http://1sn.ns1.name:18800/boris/rZqe9mKf/253471
-#EXTINF:-1 tvg-name="USA: ESPN College Extra 6" tvg-logo="" group-title="sports",USA: ESPN College Extra 6
-http://1sn.ns1.name:18800/boris/rZqe9mKf/253472
-#EXTINF:-1 tvg-name="USA: ESPN College Extra 7" tvg-logo="" group-title="sports",USA: ESPN College Extra 7
-http://1sn.ns1.name:18800/boris/rZqe9mKf/253473
-#EXTINF:-1 tvg-name="USA: ESPN PLUS 00:" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/ESPN_Plus.svg/1024px-ESPN_Plus.svg.png" group-title="sports",USA: ESPN PLUS 00:
-http://1sn.ns1.name:18800/boris/rZqe9mKf/164836
-#EXTINF:-1 tvg-name="USA: ESPN PLUS 01:" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/ESPN_Plus.svg/1024px-ESPN_Plus.svg.png" group-title="sports",USA: ESPN PLUS 01:
-http://1sn.ns1.name:18800/boris/rZqe9mKf/164837
-#EXTINF:-1 tvg-name="USA: ESPN PLUS 02:" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/ESPN_Plus.svg/1024px-ESPN_Plus.svg.png" group-title="sports",USA: ESPN PLUS 02:
-http://1sn.ns1.name:18800/boris/rZqe9mKf/164838
-#EXTINF:-1 tvg-name="USA: ESPN PLUS 03:" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/ESPN_Plus.svg/1024px-ESPN_Plus.svg.png" group-title="sports",USA: ESPN PLUS 03:
-http://1sn.ns1.name:18800/boris/rZqe9mKf/164839
-#EXTINF:-1 tvg-name="USA: ESPN PLUS 04:" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/ESPN_Plus.svg/1024px-ESPN_Plus.svg.png" group-title="sports",USA: ESPN PLUS 04:
-http://1sn.ns1.name:18800/boris/rZqe9mKf/164840
-#EXTINF:-1 tvg-name="USA: ESPN PLUS 05:" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/ESPN_Plus.svg/1024px-ESPN_Plus.svg.png" group-title="sports",USA: ESPN PLUS 05:
-http://1sn.ns1.name:18800/boris/rZqe9mKf/164841
-#EXTINF:-1 tvg-name="USA: ESPN PLUS 06:" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/ESPN_Plus.svg/1024px-ESPN_Plus.svg.png" group-title="sports",USA: ESPN PLUS 06:
-http://1sn.ns1.name:18800/boris/rZqe9mKf/164842
-#EXTINF:-1 tvg-name="USA: ESPN PLUS 07:" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/ESPN_Plus.svg/1024px-ESPN_Plus.svg.png" group-title="sports",USA: ESPN PLUS 07:
-http://1sn.ns1.name:18800/boris/rZqe9mKf/164843
-#EXTINF:-1 tvg-name="USA: ESPN PLUS 08:" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/ESPN_Plus.svg/1024px-ESPN_Plus.svg.png" group-title="sports",USA: ESPN PLUS 08:
-http://1sn.ns1.name:18800/boris/rZqe9mKf/164844
-#EXTINF:-1 tvg-name="USA: ESPN PLUS 09:" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/ESPN_Plus.svg/1024px-ESPN_Plus.svg.png" group-title="sports",USA: ESPN PLUS 09:
-http://1sn.ns1.name:18800/boris/rZqe9mKf/164845
-#EXTINF:-1 tvg-name="USA: ESPN PLUS 10:" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/ESPN_Plus.svg/1024px-ESPN_Plus.svg.png" group-title="sports",USA: ESPN PLUS 10:
-http://1sn.ns1.name:18800/boris/rZqe9mKf/164846
-#EXTINF:-1 tvg-name="USA: ESPN PLUS 11:" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/ESPN_Plus.svg/1024px-ESPN_Plus.svg.png" group-title="sports",USA: ESPN PLUS 11:
-http://1sn.ns1.name:18800/boris/rZqe9mKf/164847
-#EXTINF:-1 tvg-name="USA: ESPN PLUS 12:" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/ESPN_Plus.svg/1024px-ESPN_Plus.svg.png" group-title="sports",USA: ESPN PLUS 12:
-http://1sn.ns1.name:18800/boris/rZqe9mKf/164848
-#EXTINF:-1 tvg-name="USA: ESPN PLUS 13:" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/ESPN_Plus.svg/1024px-ESPN_Plus.svg.png" group-title="sports",USA: ESPN PLUS 13:
-http://1sn.ns1.name:18800/boris/rZqe9mKf/164849
-#EXTINF:-1 tvg-name="USA: ESPN PLUS 14:" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/ESPN_Plus.svg/1024px-ESPN_Plus.svg.png" group-title="sports",USA: ESPN PLUS 14:
-http://1sn.ns1.name:18800/boris/rZqe9mKf/164850
-#EXTINF:-1 tvg-name="USA: ESPN PLUS 15:" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/ESPN_Plus.svg/1024px-ESPN_Plus.svg.png" group-title="sports",USA: ESPN PLUS 15:
-http://1sn.ns1.name:18800/boris/rZqe9mKf/164851
-#EXTINF:-1 tvg-name="USA: ESPN PLUS 16:" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/ESPN_Plus.svg/1024px-ESPN_Plus.svg.png" group-title="sports",USA: ESPN PLUS 16:
-http://1sn.ns1.name:18800/boris/rZqe9mKf/164852
-#EXTINF:-1 tvg-name="USA: ESPN PLUS 17:" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/ESPN_Plus.svg/1024px-ESPN_Plus.svg.png" group-title="sports",USA: ESPN PLUS 17:
-http://1sn.ns1.name:18800/boris/rZqe9mKf/164853
-#EXTINF:-1 tvg-name="USA: ESPN PLUS 18:" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/ESPN_Plus.svg/1024px-ESPN_Plus.svg.png" group-title="sports",USA: ESPN PLUS 18:
-http://1sn.ns1.name:18800/boris/rZqe9mKf/164854
-#EXTINF:-1 tvg-name="USA: ESPN PLUS 19:" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/ESPN_Plus.svg/1024px-ESPN_Plus.svg.png" group-title="sports",USA: ESPN PLUS 19:
-http://1sn.ns1.name:18800/boris/rZqe9mKf/164855
-#EXTINF:-1 tvg-name="USA: ESPN PLUS 20:" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/ESPN_Plus.svg/1024px-ESPN_Plus.svg.png" group-title="sports",USA: ESPN PLUS 20:
-http://1sn.ns1.name:18800/boris/rZqe9mKf/164856
-#EXTINF:-1 tvg-name="USA: ESPN PLUS 21:" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/ESPN_Plus.svg/1024px-ESPN_Plus.svg.png" group-title="sports",USA: ESPN PLUS 21:
-http://1sn.ns1.name:18800/boris/rZqe9mKf/164857
-#EXTINF:-1 tvg-name="USA: ESPN PLUS 22:" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/ESPN_Plus.svg/1024px-ESPN_Plus.svg.png" group-title="sports",USA: ESPN PLUS 22:
-http://1sn.ns1.name:18800/boris/rZqe9mKf/164858
-#EXTINF:-1 tvg-name="USA: ESPN PLUS 23:" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/ESPN_Plus.svg/1024px-ESPN_Plus.svg.png" group-title="sports",USA: ESPN PLUS 23:
-http://1sn.ns1.name:18800/boris/rZqe9mKf/164859
-#EXTINF:-1 tvg-name="USA: ESPN PLUS 24:" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/ESPN_Plus.svg/1024px-ESPN_Plus.svg.png" group-title="sports",USA: ESPN PLUS 24:
-http://1sn.ns1.name:18800/boris/rZqe9mKf/164860
-#EXTINF:-1 tvg-name="USA: ESPN PLUS 25:" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/ESPN_Plus.svg/1024px-ESPN_Plus.svg.png" group-title="sports",USA: ESPN PLUS 25:
-http://1sn.ns1.name:18800/boris/rZqe9mKf/164861
-#EXTINF:-1 tvg-name="USA: ESPN PLUS 26:" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/ESPN_Plus.svg/1024px-ESPN_Plus.svg.png" group-title="sports",USA: ESPN PLUS 26:
-http://1sn.ns1.name:18800/boris/rZqe9mKf/164862
-#EXTINF:-1 tvg-name="USA: ESPN PLUS 27:" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/ESPN_Plus.svg/1024px-ESPN_Plus.svg.png" group-title="sports",USA: ESPN PLUS 27:
-http://1sn.ns1.name:18800/boris/rZqe9mKf/164863
-#EXTINF:-1 tvg-name="USA: ESPN PLUS 28:" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/ESPN_Plus.svg/1024px-ESPN_Plus.svg.png" group-title="sports",USA: ESPN PLUS 28:
-http://1sn.ns1.name:18800/boris/rZqe9mKf/164864
-#EXTINF:-1 tvg-name="USA: ESPN PLUS 29:" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/ESPN_Plus.svg/1024px-ESPN_Plus.svg.png" group-title="sports",USA: ESPN PLUS 29:
-http://1sn.ns1.name:18800/boris/rZqe9mKf/164865
-#EXTINF:-1 tvg-name="USA: ESPN PLUS 30:" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/ESPN_Plus.svg/1024px-ESPN_Plus.svg.png" group-title="sports",USA: ESPN PLUS 30:
-http://1sn.ns1.name:18800/boris/rZqe9mKf/164866
-#EXTINF:-1 tvg-name="USA: ESPN PLUS 31:" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/ESPN_Plus.svg/1024px-ESPN_Plus.svg.png" group-title="sports",USA: ESPN PLUS 31:
-http://1sn.ns1.name:18800/boris/rZqe9mKf/164867
-#EXTINF:-1 tvg-name="USA: ESPN PLUS 32:" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/ESPN_Plus.svg/1024px-ESPN_Plus.svg.png" group-title="sports",USA: ESPN PLUS 32:
-http://1sn.ns1.name:18800/boris/rZqe9mKf/164868
-#EXTINF:-1 tvg-name="USA: ESPN PLUS 33:" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/ESPN_Plus.svg/1024px-ESPN_Plus.svg.png" group-title="sports",USA: ESPN PLUS 33:
-http://1sn.ns1.name:18800/boris/rZqe9mKf/164869
-#EXTINF:-1 tvg-name="USA: ESPN PLUS 34:" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/ESPN_Plus.svg/1024px-ESPN_Plus.svg.png" group-title="sports",USA: ESPN PLUS 34:
-http://1sn.ns1.name:18800/boris/rZqe9mKf/164870
-#EXTINF:-1 tvg-name="USA: ESPN PLUS 35:" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/ESPN_Plus.svg/1024px-ESPN_Plus.svg.png" group-title="sports",USA: ESPN PLUS 35:
-http://1sn.ns1.name:18800/boris/rZqe9mKf/164871
-#EXTINF:-1 tvg-name="USA: ESPN PLUS 36:" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/ESPN_Plus.svg/1024px-ESPN_Plus.svg.png" group-title="sports",USA: ESPN PLUS 36:
-http://1sn.ns1.name:18800/boris/rZqe9mKf/164872
-#EXTINF:-1 tvg-name="USA: ESPN PLUS 37:" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/ESPN_Plus.svg/1024px-ESPN_Plus.svg.png" group-title="sports",USA: ESPN PLUS 37:
-http://1sn.ns1.name:18800/boris/rZqe9mKf/164873
-#EXTINF:-1 tvg-name="USA: ESPN PLUS 38:" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/ESPN_Plus.svg/1024px-ESPN_Plus.svg.png" group-title="sports",USA: ESPN PLUS 38:
-http://1sn.ns1.name:18800/boris/rZqe9mKf/164874
-#EXTINF:-1 tvg-name="USA: ESPN PLUS 39:" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/ESPN_Plus.svg/1024px-ESPN_Plus.svg.png" group-title="sports",USA: ESPN PLUS 39:
-http://1sn.ns1.name:18800/boris/rZqe9mKf/164875
-#EXTINF:-1 tvg-name="USA: ESPN PLUS 40:" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/ESPN_Plus.svg/1024px-ESPN_Plus.svg.png" group-title="sports",USA: ESPN PLUS 40:
-http://1sn.ns1.name:18800/boris/rZqe9mKf/164876
-#EXTINF:-1 tvg-name="USA: ESPN PLUS 41:" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/ESPN_Plus.svg/1024px-ESPN_Plus.svg.png" group-title="sports",USA: ESPN PLUS 41:
-http://1sn.ns1.name:18800/boris/rZqe9mKf/164877
-#EXTINF:-1 tvg-name="USA: ESPN PLUS 42:" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/ESPN_Plus.svg/1024px-ESPN_Plus.svg.png" group-title="sports",USA: ESPN PLUS 42:
-http://1sn.ns1.name:18800/boris/rZqe9mKf/164878
-#EXTINF:-1 tvg-name="USA: ESPN PLUS 43:" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/ESPN_Plus.svg/1024px-ESPN_Plus.svg.png" group-title="sports",USA: ESPN PLUS 43:
-http://1sn.ns1.name:18800/boris/rZqe9mKf/164879
-#EXTINF:-1 tvg-name="USA: ESPN PLUS 44:" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/ESPN_Plus.svg/1024px-ESPN_Plus.svg.png" group-title="sports",USA: ESPN PLUS 44:
-http://1sn.ns1.name:18800/boris/rZqe9mKf/164880
-#EXTINF:-1 tvg-name="USA: ESPN PLUS 45:" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/ESPN_Plus.svg/1024px-ESPN_Plus.svg.png" group-title="sports",USA: ESPN PLUS 45:
-http://1sn.ns1.name:18800/boris/rZqe9mKf/164881
-#EXTINF:-1 tvg-name="USA: ESPN PLUS 46:" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/ESPN_Plus.svg/1024px-ESPN_Plus.svg.png" group-title="sports",USA: ESPN PLUS 46:
-http://1sn.ns1.name:18800/boris/rZqe9mKf/164882
-#EXTINF:-1 tvg-name="USA: ESPN PLUS 47:" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/ESPN_Plus.svg/1024px-ESPN_Plus.svg.png" group-title="sports",USA: ESPN PLUS 47:
-http://1sn.ns1.name:18800/boris/rZqe9mKf/164883
-#EXTINF:-1 tvg-name="USA: ESPN PLUS 48:" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/ESPN_Plus.svg/1024px-ESPN_Plus.svg.png" group-title="sports",USA: ESPN PLUS 48:
-http://1sn.ns1.name:18800/boris/rZqe9mKf/164884
-#EXTINF:-1 tvg-name="USA: ESPN PLUS 49:" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/ESPN_Plus.svg/1024px-ESPN_Plus.svg.png" group-title="sports",USA: ESPN PLUS 49:
-http://1sn.ns1.name:18800/boris/rZqe9mKf/164885
-#EXTINF:-1 tvg-name="USA: ESPN PLUS 50:" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/ESPN_Plus.svg/1024px-ESPN_Plus.svg.png" group-title="sports",USA: ESPN PLUS 50:
-http://1sn.ns1.name:18800/boris/rZqe9mKf/164886
-#EXTINF:-1 tvg-name="USA: ESPN PLUS 51:" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/ESPN_Plus.svg/1024px-ESPN_Plus.svg.png" group-title="sports",USA: ESPN PLUS 51:
-http://1sn.ns1.name:18800/boris/rZqe9mKf/164887
-#EXTINF:-1 tvg-name="USA: ESPN PLUS 52:" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/ESPN_Plus.svg/1024px-ESPN_Plus.svg.png" group-title="sports",USA: ESPN PLUS 52:
-http://1sn.ns1.name:18800/boris/rZqe9mKf/164888
-#EXTINF:-1 tvg-name="USA: ESPN PLUS 53:" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/ESPN_Plus.svg/1024px-ESPN_Plus.svg.png" group-title="sports",USA: ESPN PLUS 53:
-http://1sn.ns1.name:18800/boris/rZqe9mKf/164889
-#EXTINF:-1 tvg-name="USA: ESPN PLUS 54:" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/ESPN_Plus.svg/1024px-ESPN_Plus.svg.png" group-title="sports",USA: ESPN PLUS 54:
-http://1sn.ns1.name:18800/boris/rZqe9mKf/164890
-#EXTINF:-1 tvg-name="USA: ESPN PLUS 55:" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/ESPN_Plus.svg/1024px-ESPN_Plus.svg.png" group-title="sports",USA: ESPN PLUS 55:
-http://1sn.ns1.name:18800/boris/rZqe9mKf/164891
-#EXTINF:-1 tvg-name="USA: ESPN PLUS 56:" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/ESPN_Plus.svg/1024px-ESPN_Plus.svg.png" group-title="sports",USA: ESPN PLUS 56:
-http://1sn.ns1.name:18800/boris/rZqe9mKf/164892
-#EXTINF:-1 tvg-name="USA: ESPN PLUS 57:" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/ESPN_Plus.svg/1024px-ESPN_Plus.svg.png" group-title="sports",USA: ESPN PLUS 57:
-http://1sn.ns1.name:18800/boris/rZqe9mKf/164893
-#EXTINF:-1 tvg-name="USA: ESPN PLUS 58:" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/ESPN_Plus.svg/1024px-ESPN_Plus.svg.png" group-title="sports",USA: ESPN PLUS 58:
-http://1sn.ns1.name:18800/boris/rZqe9mKf/164894
-#EXTINF:-1 tvg-name="USA: ESPN PLUS 59:" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/ESPN_Plus.svg/1024px-ESPN_Plus.svg.png" group-title="sports",USA: ESPN PLUS 59:
-http://1sn.ns1.name:18800/boris/rZqe9mKf/164895
-#EXTINF:-1 tvg-name="USA: ESPN PLUS 60:" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/ESPN_Plus.svg/1024px-ESPN_Plus.svg.png" group-title="sports",USA: ESPN PLUS 60:
-http://1sn.ns1.name:18800/boris/rZqe9mKf/164896
-#EXTINF:-1 tvg-name="USA: ESPN PLUS 61:" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/ESPN_Plus.svg/1024px-ESPN_Plus.svg.png" group-title="sports",USA: ESPN PLUS 61:
-http://1sn.ns1.name:18800/boris/rZqe9mKf/164897
-#EXTINF:-1 tvg-name="USA: ESPN PLUS 62:" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/ESPN_Plus.svg/1024px-ESPN_Plus.svg.png" group-title="sports",USA: ESPN PLUS 62:
-http://1sn.ns1.name:18800/boris/rZqe9mKf/164898
-#EXTINF:-1 tvg-name="USA: ESPN PLUS 63:" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/ESPN_Plus.svg/1024px-ESPN_Plus.svg.png" group-title="sports",USA: ESPN PLUS 63:
-http://1sn.ns1.name:18800/boris/rZqe9mKf/164899
-#EXTINF:-1 tvg-name="USA: ESPN PLUS 64:" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/ESPN_Plus.svg/1024px-ESPN_Plus.svg.png" group-title="sports",USA: ESPN PLUS 64:
-http://1sn.ns1.name:18800/boris/rZqe9mKf/164900
-#EXTINF:-1 tvg-name="USA: ESPN PLUS 65:" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/ESPN_Plus.svg/1024px-ESPN_Plus.svg.png" group-title="sports",USA: ESPN PLUS 65:
-http://1sn.ns1.name:18800/boris/rZqe9mKf/164901
-#EXTINF:-1 tvg-name="USA: ESPN PLUS 66:" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/ESPN_Plus.svg/1024px-ESPN_Plus.svg.png" group-title="sports",USA: ESPN PLUS 66:
-http://1sn.ns1.name:18800/boris/rZqe9mKf/164902
-#EXTINF:-1 tvg-name="USA: ESPN PLUS 67:" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/ESPN_Plus.svg/1024px-ESPN_Plus.svg.png" group-title="sports",USA: ESPN PLUS 67:
-http://1sn.ns1.name:18800/boris/rZqe9mKf/164903
-#EXTINF:-1 tvg-name="USA: ESPN PLUS 68:" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/ESPN_Plus.svg/1024px-ESPN_Plus.svg.png" group-title="sports",USA: ESPN PLUS 68:
-http://1sn.ns1.name:18800/boris/rZqe9mKf/164904
-#EXTINF:-1 tvg-name="USA: ESPN PLUS 69:" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/ESPN_Plus.svg/1024px-ESPN_Plus.svg.png" group-title="sports",USA: ESPN PLUS 69:
-http://1sn.ns1.name:18800/boris/rZqe9mKf/164905
-#EXTINF:-1 tvg-name="USA: ESPN PLUS 70:" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/ESPN_Plus.svg/1024px-ESPN_Plus.svg.png" group-title="sports",USA: ESPN PLUS 70:
-http://1sn.ns1.name:18800/boris/rZqe9mKf/164906
-#EXTINF:-1 tvg-name="USA: ESPN PLUS 71:" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/ESPN_Plus.svg/1024px-ESPN_Plus.svg.png" group-title="sports",USA: ESPN PLUS 71:
-http://1sn.ns1.name:18800/boris/rZqe9mKf/164907
-#EXTINF:-1 tvg-name="USA: ESPN PLUS 72:" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/ESPN_Plus.svg/1024px-ESPN_Plus.svg.png" group-title="sports",USA: ESPN PLUS 72:
-http://1sn.ns1.name:18800/boris/rZqe9mKf/164908
-#EXTINF:-1 tvg-name="USA: ESPN PLUS 73:" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/ESPN_Plus.svg/1024px-ESPN_Plus.svg.png" group-title="sports",USA: ESPN PLUS 73:
-http://1sn.ns1.name:18800/boris/rZqe9mKf/164909
-#EXTINF:-1 tvg-name="USA: ESPN PLUS 74:" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/ESPN_Plus.svg/1024px-ESPN_Plus.svg.png" group-title="sports",USA: ESPN PLUS 74:
-http://1sn.ns1.name:18800/boris/rZqe9mKf/164910
-#EXTINF:-1 tvg-name="USA: ESPN PLUS 75:" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/ESPN_Plus.svg/1024px-ESPN_Plus.svg.png" group-title="sports",USA: ESPN PLUS 75:
-http://1sn.ns1.name:18800/boris/rZqe9mKf/164911
-#EXTINF:-1 tvg-name="USA: ESPN PLUS 76:" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/ESPN_Plus.svg/1024px-ESPN_Plus.svg.png" group-title="sports",USA: ESPN PLUS 76:
-http://1sn.ns1.name:18800/boris/rZqe9mKf/164912
-#EXTINF:-1 tvg-name="USA: ESPN PLUS 77:" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/ESPN_Plus.svg/1024px-ESPN_Plus.svg.png" group-title="sports",USA: ESPN PLUS 77:
-http://1sn.ns1.name:18800/boris/rZqe9mKf/164913
-#EXTINF:-1 tvg-name="USA: ESPN PLUS 78:" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/ESPN_Plus.svg/1024px-ESPN_Plus.svg.png" group-title="sports",USA: ESPN PLUS 78:
-http://1sn.ns1.name:18800/boris/rZqe9mKf/164914
-#EXTINF:-1 tvg-name="USA: ESPN PLUS 79:" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/ESPN_Plus.svg/1024px-ESPN_Plus.svg.png" group-title="sports",USA: ESPN PLUS 79:
-http://1sn.ns1.name:18800/boris/rZqe9mKf/164915
-#EXTINF:-1 tvg-name="USA: ESPN PLUS 80:" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/ESPN_Plus.svg/1024px-ESPN_Plus.svg.png" group-title="sports",USA: ESPN PLUS 80:
-http://1sn.ns1.name:18800/boris/rZqe9mKf/164916
-#EXTINF:-1 tvg-name="USA: ESPN PLUS 81:" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/ESPN_Plus.svg/1024px-ESPN_Plus.svg.png" group-title="sports",USA: ESPN PLUS 81:
-http://1sn.ns1.name:18800/boris/rZqe9mKf/164917
-#EXTINF:-1 tvg-name="USA: ESPN PLUS 82:" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/ESPN_Plus.svg/1024px-ESPN_Plus.svg.png" group-title="sports",USA: ESPN PLUS 82:
-http://1sn.ns1.name:18800/boris/rZqe9mKf/164918
-#EXTINF:-1 tvg-name="USA: ESPN PLUS 83:" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/ESPN_Plus.svg/1024px-ESPN_Plus.svg.png" group-title="sports",USA: ESPN PLUS 83:
-http://1sn.ns1.name:18800/boris/rZqe9mKf/164919
-#EXTINF:-1 tvg-name="USA: ESPN PLUS 84:" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/ESPN_Plus.svg/1024px-ESPN_Plus.svg.png" group-title="sports",USA: ESPN PLUS 84:
-http://1sn.ns1.name:18800/boris/rZqe9mKf/164920
-#EXTINF:-1 tvg-name="USA: ESPN PLUS 85:" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/ESPN_Plus.svg/1024px-ESPN_Plus.svg.png" group-title="sports",USA: ESPN PLUS 85:
-http://1sn.ns1.name:18800/boris/rZqe9mKf/164921
-#EXTINF:-1 tvg-name="USA: ESPN PLUS 86:" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/ESPN_Plus.svg/1024px-ESPN_Plus.svg.png" group-title="sports",USA: ESPN PLUS 86:
-http://1sn.ns1.name:18800/boris/rZqe9mKf/164922
-#EXTINF:-1 tvg-name="USA: ESPN PLUS 87:" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/ESPN_Plus.svg/1024px-ESPN_Plus.svg.png" group-title="sports",USA: ESPN PLUS 87:
-http://1sn.ns1.name:18800/boris/rZqe9mKf/164923
-#EXTINF:-1 tvg-name="USA: ESPN PLUS 88:" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/ESPN_Plus.svg/1024px-ESPN_Plus.svg.png" group-title="sports",USA: ESPN PLUS 88:
-http://1sn.ns1.name:18800/boris/rZqe9mKf/164924
-#EXTINF:-1 tvg-name="USA: ESPN PLUS 89:" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/ESPN_Plus.svg/1024px-ESPN_Plus.svg.png" group-title="sports",USA: ESPN PLUS 89:
-http://1sn.ns1.name:18800/boris/rZqe9mKf/164925
-#EXTINF:-1 tvg-name="USA: ESPN PLUS 90:" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/ESPN_Plus.svg/1024px-ESPN_Plus.svg.png" group-title="sports",USA: ESPN PLUS 90:
-http://1sn.ns1.name:18800/boris/rZqe9mKf/164926
-#EXTINF:-1 tvg-name="USA: ESPN PLUS 91:" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/ESPN_Plus.svg/1024px-ESPN_Plus.svg.png" group-title="sports",USA: ESPN PLUS 91:
-http://1sn.ns1.name:18800/boris/rZqe9mKf/164927
-#EXTINF:-1 tvg-name="USA: ESPN PLUS 92:" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/ESPN_Plus.svg/1024px-ESPN_Plus.svg.png" group-title="sports",USA: ESPN PLUS 92:
-http://1sn.ns1.name:18800/boris/rZqe9mKf/164928
-#EXTINF:-1 tvg-name="USA: ESPN PLUS 93:" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/ESPN_Plus.svg/1024px-ESPN_Plus.svg.png" group-title="sports",USA: ESPN PLUS 93:
-http://1sn.ns1.name:18800/boris/rZqe9mKf/164929
-#EXTINF:-1 tvg-name="USA: ESPN PLUS 94:" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/ESPN_Plus.svg/1024px-ESPN_Plus.svg.png" group-title="sports",USA: ESPN PLUS 94:
-http://1sn.ns1.name:18800/boris/rZqe9mKf/164930
-#EXTINF:-1 tvg-name="USA: ESPN PLUS 95:" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/ESPN_Plus.svg/1024px-ESPN_Plus.svg.png" group-title="sports",USA: ESPN PLUS 95:
-http://1sn.ns1.name:18800/boris/rZqe9mKf/164931
-#EXTINF:-1 tvg-name="USA: ESPN PLUS 96:" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/ESPN_Plus.svg/1024px-ESPN_Plus.svg.png" group-title="sports",USA: ESPN PLUS 96:
-http://1sn.ns1.name:18800/boris/rZqe9mKf/164932
-#EXTINF:-1 tvg-name="USA: ESPN PLUS 97:" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/ESPN_Plus.svg/1024px-ESPN_Plus.svg.png" group-title="sports",USA: ESPN PLUS 97:
-http://1sn.ns1.name:18800/boris/rZqe9mKf/164933
-#EXTINF:-1 tvg-name="USA: ESPN PLUS 98:" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/ESPN_Plus.svg/1024px-ESPN_Plus.svg.png" group-title="sports",USA: ESPN PLUS 98:
-http://1sn.ns1.name:18800/boris/rZqe9mKf/164934
-#EXTINF:-1 tvg-name="USA: ESPN PLUS 99:" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/ESPN_Plus.svg/1024px-ESPN_Plus.svg.png" group-title="sports",USA: ESPN PLUS 99:
-http://1sn.ns1.name:18800/boris/rZqe9mKf/164935
-#EXTINF:-1 tvg-name="USA: ESPN PLUS 100:" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/ESPN_Plus.svg/1024px-ESPN_Plus.svg.png" group-title="sports",USA: ESPN PLUS 100:
-http://1sn.ns1.name:18800/boris/rZqe9mKf/164936
-#EXTINF:-1 tvg-name="USA: ESPN PLUS 101:" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/ESPN_Plus.svg/1024px-ESPN_Plus.svg.png" group-title="sports",USA: ESPN PLUS 101:
-http://1sn.ns1.name:18800/boris/rZqe9mKf/164937
-#EXTINF:-1 tvg-name="USA: ESPN PLUS 102:" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/ESPN_Plus.svg/1024px-ESPN_Plus.svg.png" group-title="sports",USA: ESPN PLUS 102:
-http://1sn.ns1.name:18800/boris/rZqe9mKf/164938
-#EXTINF:-1 tvg-name="USA: ESPN PLUS 103:" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/ESPN_Plus.svg/1024px-ESPN_Plus.svg.png" group-title="sports",USA: ESPN PLUS 103:
-http://1sn.ns1.name:18800/boris/rZqe9mKf/164939
-#EXTINF:-1 tvg-name="USA: ESPN PLUS 104:" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/ESPN_Plus.svg/1024px-ESPN_Plus.svg.png" group-title="sports",USA: ESPN PLUS 104:
-http://1sn.ns1.name:18800/boris/rZqe9mKf/164940
-#EXTINF:-1 tvg-name="USA: ESPN PLUS 105:" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/ESPN_Plus.svg/1024px-ESPN_Plus.svg.png" group-title="sports",USA: ESPN PLUS 105:
-http://1sn.ns1.name:18800/boris/rZqe9mKf/164941
-#EXTINF:-1 tvg-name="USA: ESPN PLUS 106:" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/ESPN_Plus.svg/1024px-ESPN_Plus.svg.png" group-title="sports",USA: ESPN PLUS 106:
-http://1sn.ns1.name:18800/boris/rZqe9mKf/164942
-#EXTINF:-1 tvg-name="USA: ESPN PLUS 107:" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/ESPN_Plus.svg/1024px-ESPN_Plus.svg.png" group-title="sports",USA: ESPN PLUS 107:
-http://1sn.ns1.name:18800/boris/rZqe9mKf/164943
-#EXTINF:-1 tvg-name="USA: ESPN PLUS 108:" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/ESPN_Plus.svg/1024px-ESPN_Plus.svg.png" group-title="sports",USA: ESPN PLUS 108:
-http://1sn.ns1.name:18800/boris/rZqe9mKf/164944
-#EXTINF:-1 tvg-name="USA: ESPN PLUS 109:" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/ESPN_Plus.svg/1024px-ESPN_Plus.svg.png" group-title="sports",USA: ESPN PLUS 109:
-http://1sn.ns1.name:18800/boris/rZqe9mKf/164945
-#EXTINF:-1 tvg-name="USA: ESPN PLUS 110:" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/ESPN_Plus.svg/1024px-ESPN_Plus.svg.png" group-title="sports",USA: ESPN PLUS 110:
-http://1sn.ns1.name:18800/boris/rZqe9mKf/164946
-#EXTINF:-1 tvg-name="USA: Fox College Sports Pacific" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/517e6234b4cda003a9ee14e52ca657d7.png" group-title="sports",USA: Fox College Sports Pacific
-http://1sn.ns1.name:18800/boris/rZqe9mKf/245434
-#EXTINF:-1 tvg-name="USA: FOX SPORT 1" tvg-logo="https://www.lyngsat.com/logo/tv/ff/fox_sports_global.png" group-title="sports",USA: FOX SPORT 1
-http://1sn.ns1.name:18800/boris/rZqe9mKf/218648
-#EXTINF:-1 tvg-name="USA: FOX SPORT 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/FS2_logo_2015.svg/345px-FS2_logo_2015.svg.png" group-title="sports",USA: FOX SPORT 2
-http://1sn.ns1.name:18800/boris/rZqe9mKf/218649
-#EXTINF:-1 tvg-name="USA: FOX SPORTS 506 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bd/Fox_Sports_Racing_%28television_channel%29_logo.png" group-title="sports",USA: FOX SPORTS 506 HD
-http://1sn.ns1.name:18800/boris/rZqe9mKf/245125
-#EXTINF:-1 tvg-name="USA: Fox Sports Arizona HD" tvg-logo="https://foxsports-wordpress-www-prsupports-prod.s3.amazonaws.com/uploads/sites/2/2016/12/FSLogo_1040x585.jpg" group-title="sports",USA: Fox Sports Arizona HD
-http://1sn.ns1.name:18800/boris/rZqe9mKf/44688
-#EXTINF:-1 tvg-name="USA: Fox Sports Carolina HD" tvg-logo="https://foxsports-wordpress-www-prsupports-prod.s3.amazonaws.com/uploads/sites/2/2016/12/FSLogo_1040x585.jpg" group-title="sports",USA: Fox Sports Carolina HD
-http://1sn.ns1.name:18800/boris/rZqe9mKf/44690
-#EXTINF:-1 tvg-name="USA: Fox Sports College Central HD" tvg-logo="https://w7.pngwing.com/pngs/10/846/png-transparent-fox-sports-sun-fox-sports-networks-fox-sports-radio-sports-logo-thumbnail.png" group-title="sports",USA: Fox Sports College Central HD
-http://1sn.ns1.name:18800/boris/rZqe9mKf/44586
-#EXTINF:-1 tvg-name="USA: Fox Sports Detroit HD" tvg-logo="https://foxsports-wordpress-www-prsupports-prod.s3.amazonaws.com/uploads/sites/2/2016/12/FSLogo_1040x585.jpg" group-title="sports",USA: Fox Sports Detroit HD
-http://1sn.ns1.name:18800/boris/rZqe9mKf/44694
-#EXTINF:-1 tvg-name="USA: Fox Sports Florida HD" tvg-logo="https://foxsports-wordpress-www-prsupports-prod.s3.amazonaws.com/uploads/sites/2/2016/12/FSLogo_1040x585.jpg" group-title="sports",USA: Fox Sports Florida HD
-http://1sn.ns1.name:18800/boris/rZqe9mKf/44700
-#EXTINF:-1 tvg-name="USA: Fox Sports Indiana HD" tvg-logo="https://foxsports-wordpress-www-prsupports-prod.s3.amazonaws.com/uploads/sites/2/2016/12/FSLogo_1040x585.jpg" group-title="sports",USA: Fox Sports Indiana HD
-http://1sn.ns1.name:18800/boris/rZqe9mKf/44696
-#EXTINF:-1 tvg-name="USA: Fox Sports Midwest HD" tvg-logo="https://foxsports-wordpress-www-prsupports-prod.s3.amazonaws.com/uploads/sites/2/2016/12/FSLogo_1040x585.jpg" group-title="sports",USA: Fox Sports Midwest HD
-http://1sn.ns1.name:18800/boris/rZqe9mKf/44701
-#EXTINF:-1 tvg-name="USA: Fox Sports NetBase HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/01/Fox_Sports_Net_%28logo%29.png" group-title="sports",USA: Fox Sports NetBase HD
-http://1sn.ns1.name:18800/boris/rZqe9mKf/241592
-#EXTINF:-1 tvg-name="USA: Fox Sports New Orleans HD" tvg-logo="https://foxsports-wordpress-www-prsupports-prod.s3.amazonaws.com/uploads/sites/2/2016/12/FSLogo_1040x585.jpg" group-title="sports",USA: Fox Sports New Orleans HD
-http://1sn.ns1.name:18800/boris/rZqe9mKf/44703
-#EXTINF:-1 tvg-name="USA: Fox Sports North HD" tvg-logo="https://minnesotahockeymag.com/wp-content/uploads/2014/09/fsn0924415.jpg" group-title="sports",USA: Fox Sports North HD
-http://1sn.ns1.name:18800/boris/rZqe9mKf/44587
-#EXTINF:-1 tvg-name="USA: Fox Sports Ohio HD" tvg-logo="https://foxsports-wordpress-www-prsupports-prod.s3.amazonaws.com/uploads/sites/2/2016/12/FSLogo_1040x585.jpg" group-title="sports",USA: Fox Sports Ohio HD
-http://1sn.ns1.name:18800/boris/rZqe9mKf/44706
-#EXTINF:-1 tvg-name="USA: Fox Sports Oklahoma HD" tvg-logo="https://foxsports-wordpress-www-prsupports-prod.s3.amazonaws.com/uploads/sites/2/2016/12/FSLogo_1040x585.jpg" group-title="sports",USA: Fox Sports Oklahoma HD
-http://1sn.ns1.name:18800/boris/rZqe9mKf/44708
-#EXTINF:-1 tvg-name="USA: Fox Sports Prime Ticket HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ea/Fox_sports_primeticket_2012.png/200px-Fox_sports_primeticket_2012.png" group-title="sports",USA: Fox Sports Prime Ticket HD
-http://1sn.ns1.name:18800/boris/rZqe9mKf/44711
-#EXTINF:-1 tvg-name="USA: Fox Sports San Antonio HD" tvg-logo="https://foxsports-wordpress-www-prsupports-prod.s3.amazonaws.com/uploads/sites/2/2016/12/FSLogo_1040x585.jpg" group-title="sports",USA: Fox Sports San Antonio HD
-http://1sn.ns1.name:18800/boris/rZqe9mKf/44691
-#EXTINF:-1 tvg-name="USA: Fox Sports San Diego HD" tvg-logo="https://www.lyngsat.com/logo/tv/ff/fox_sports_global.png" group-title="sports",USA: Fox Sports San Diego HD
-http://1sn.ns1.name:18800/boris/rZqe9mKf/44712
-#EXTINF:-1 tvg-name="USA: Fox Sports South East HD" tvg-logo="https://logovectorseek.com/wp-content/uploads/2019/08/fox-sports-southeast-logo-vector.png" group-title="sports",USA: Fox Sports South East HD
-http://1sn.ns1.name:18800/boris/rZqe9mKf/44714
-#EXTINF:-1 tvg-name="USA: Fox Sports South Georgia HD" tvg-logo="https://foxsports-wordpress-www-prsupports-prod.s3.amazonaws.com/uploads/sites/2/2016/12/FSLogo_1040x585.jpg" group-title="sports",USA: Fox Sports South Georgia HD
-http://1sn.ns1.name:18800/boris/rZqe9mKf/241594
-#EXTINF:-1 tvg-name="USA: Fox Sports South HD" tvg-logo="https://w7.pngwing.com/pngs/867/692/png-transparent-sportsouth-fox-sports-networks-fox-sports-south-fox-entertainment-group-fox-sports-north-others-television-text-trademark-thumbnail.png" group-title="sports",USA: Fox Sports South HD
-http://1sn.ns1.name:18800/boris/rZqe9mKf/44715
-#EXTINF:-1 tvg-name="USA: Fox Sports South West HD" tvg-logo="https://banner2.cleanpng.com/20180406/ukw/avggmdq10.webp" group-title="sports",USA: Fox Sports South West HD
-http://1sn.ns1.name:18800/boris/rZqe9mKf/44716
-#EXTINF:-1 tvg-name="USA: Fox Sports Sun HD" tvg-logo="https://w7.pngwing.com/pngs/960/715/png-transparent-fox-sports-sun-fox-sports-networks-fox-entertainment-group-television-nascar-miscellaneous-television-blue.png" group-title="sports",USA: Fox Sports Sun HD
-http://1sn.ns1.name:18800/boris/rZqe9mKf/44717
-#EXTINF:-1 tvg-name="USA: Fox Sports West HD" tvg-logo="https://www.lyngsat.com/logo/tv/ff/fox_sports_global.png" group-title="sports",USA: Fox Sports West HD
-http://1sn.ns1.name:18800/boris/rZqe9mKf/44718
-#EXTINF:-1 tvg-name="USA: Fox Sports Wisconsin HD" tvg-logo="https://www.lyngsat.com/logo/tv/ff/fox_sports_global.png" group-title="sports",USA: Fox Sports Wisconsin HD
-http://1sn.ns1.name:18800/boris/rZqe9mKf/44720
-#EXTINF:-1 tvg-name="USA: Fox Sportstime OH" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Fox_Sports_wordmark_logo.svg/330px-Fox_Sports_wordmark_logo.svg.png" group-title="sports",USA: Fox Sportstime OH
-http://1sn.ns1.name:18800/boris/rZqe9mKf/241655
-#EXTINF:-1 tvg-name="NCAAF 01: ESPN" tvg-logo="http://apk.eternaltv.net/icons/ncaaf.jpg" group-title="sports",NCAAF 01: ESPN
-http://1sn.ns1.name:18800/boris/rZqe9mKf/285503
-#EXTINF:-1 tvg-name="NCAAF 02: ESPN2" tvg-logo="http://apk.eternaltv.net/icons/ncaaf.jpg" group-title="sports",NCAAF 02: ESPN2
-http://1sn.ns1.name:18800/boris/rZqe9mKf/285502
-#EXTINF:-1 tvg-name="NCAAF 03: ESPNU" tvg-logo="http://apk.eternaltv.net/icons/ncaaf.jpg" group-title="sports",NCAAF 03: ESPNU
-http://1sn.ns1.name:18800/boris/rZqe9mKf/285501
-#EXTINF:-1 tvg-name="USA: NBC GOLF" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/NBCSN_logo_%28flat%29.svg/270px-NBCSN_logo_%28flat%29.svg.png" group-title="sports",USA: NBC GOLF
-https://velive.lat:443/manfredstv/ffutNGsQwEQF/420293
-#EXTINF:-1 tvg-name="USA: NBC Golf Channel FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/NBCSN_logo_%28flat%29.svg/270px-NBCSN_logo_%28flat%29.svg.png" group-title="sports",USA: NBC Golf Channel FHD
-http://1sn.ns1.name:18800/boris/rZqe9mKf/44602
-#EXTINF:-1 tvg-name="USA: NBC Sport Northeast HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/NBCSN_logo_%28flat%29.svg/270px-NBCSN_logo_%28flat%29.svg.png" group-title="sports",USA: NBC Sport Northeast HD
-http://1sn.ns1.name:18800/boris/rZqe9mKf/44482
-#EXTINF:-1 tvg-name="USA: NBC Sports Bay Area HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/NBCSN_logo_%28flat%29.svg/270px-NBCSN_logo_%28flat%29.svg.png" group-title="sports",USA: NBC Sports Bay Area HD
-http://1sn.ns1.name:18800/boris/rZqe9mKf/44748
-#EXTINF:-1 tvg-name="USA: NBC Sports Boston HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/NBCSN_logo_%28flat%29.svg/270px-NBCSN_logo_%28flat%29.svg.png" group-title="sports",USA: NBC Sports Boston HD
-http://1sn.ns1.name:18800/boris/rZqe9mKf/44749
-#EXTINF:-1 tvg-name="USA: NBC Sports California HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/NBCSN_logo_%28flat%29.svg/270px-NBCSN_logo_%28flat%29.svg.png" group-title="sports",USA: NBC Sports California HD
-http://1sn.ns1.name:18800/boris/rZqe9mKf/44750
-#EXTINF:-1 tvg-name="USA: NBC Sports California Plus FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/NBCSN_logo_%28flat%29.svg/270px-NBCSN_logo_%28flat%29.svg.png" group-title="sports",USA: NBC Sports California Plus FHD
-http://1sn.ns1.name:18800/boris/rZqe9mKf/222859
-#EXTINF:-1 tvg-name="USA: NBC Sports Chicago FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/NBCSN_logo_%28flat%29.svg/270px-NBCSN_logo_%28flat%29.svg.png" group-title="sports",USA: NBC Sports Chicago FHD
-http://1sn.ns1.name:18800/boris/rZqe9mKf/44751
-#EXTINF:-1 tvg-name="USA: NBC Sports Chicago Plus HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/NBCSN_logo_%28flat%29.svg/270px-NBCSN_logo_%28flat%29.svg.png" group-title="sports",USA: NBC Sports Chicago Plus HD
-http://1sn.ns1.name:18800/boris/rZqe9mKf/65716
-#EXTINF:-1 tvg-name="USA: NBC SPORTS" tvg-logo="" group-title="sports",USA: NBC SPORTS
-http://1sn.ns1.name:18800/boris/rZqe9mKf/146312
-#EXTINF:-1 tvg-name="USA: NBC Sports North West HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/NBCSN_logo_%28flat%29.svg/270px-NBCSN_logo_%28flat%29.svg.png" group-title="sports",USA: NBC Sports North West HD
-http://1sn.ns1.name:18800/boris/rZqe9mKf/146306
-#EXTINF:-1 tvg-name="USA: NBC Sports Northwest FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/NBCSN_logo_%28flat%29.svg/270px-NBCSN_logo_%28flat%29.svg.png" group-title="sports",USA: NBC Sports Northwest FHD
-http://1sn.ns1.name:18800/boris/rZqe9mKf/44752
-#EXTINF:-1 tvg-name="USA: NBC Sports Philadelphia HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/NBCSN_logo_%28flat%29.svg/270px-NBCSN_logo_%28flat%29.svg.png" group-title="sports",USA: NBC Sports Philadelphia HD
-http://1sn.ns1.name:18800/boris/rZqe9mKf/65714
-#EXTINF:-1 tvg-name="USA: NBC Sports Philadelphia Plus FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/NBCSN_logo_%28flat%29.svg/270px-NBCSN_logo_%28flat%29.svg.png" group-title="sports",USA: NBC Sports Philadelphia Plus FHD
-http://1sn.ns1.name:18800/boris/rZqe9mKf/44754
-#EXTINF:-1 tvg-name="USA: NBC Sports Washington HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/NBCSN_logo_%28flat%29.svg/270px-NBCSN_logo_%28flat%29.svg.png" group-title="sports",USA: NBC Sports Washington HD
-http://1sn.ns1.name:18800/boris/rZqe9mKf/65717
-#EXTINF:-1 tvg-name="USA: NBCSN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/NBCSN_logo_%28flat%29.svg/270px-NBCSN_logo_%28flat%29.svg.png" group-title="sports",USA: NBCSN
-http://1sn.ns1.name:18800/boris/rZqe9mKf/65718
-#EXTINF:-1 tvg-name="USA: NBCSN Sacramento HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/NBCSN_logo_%28flat%29.svg/270px-NBCSN_logo_%28flat%29.svg.png" group-title="sports",USA: NBCSN Sacramento HD
-http://1sn.ns1.name:18800/boris/rZqe9mKf/65713
-#EXTINF:-1 tvg-name="USA: NBCSN SNY HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/NBCSN_logo_%28flat%29.svg/270px-NBCSN_logo_%28flat%29.svg.png" group-title="sports",USA: NBCSN SNY HD
-http://1sn.ns1.name:18800/boris/rZqe9mKf/65715
-#EXTINF:-1 tvg-name="USA: Peacock Live | NBC Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/NBCUniversal_Peacock_Logo.svg/1199px-NBCUniversal_Peacock_Logo.svg.png" group-title="sports",USA: Peacock Live | NBC Sports
-http://1sn.ns1.name:18800/boris/rZqe9mKf/164738
-#EXTINF:-1 tvg-name="USA: Peacock: NBC Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/NBCUniversal_Peacock_Logo.svg/1199px-NBCUniversal_Peacock_Logo.svg.png" group-title="sports",USA: Peacock: NBC Sport
-http://1sn.ns1.name:18800/boris/rZqe9mKf/151019
-#EXTINF:-1 tvg-name="USA: CBS SPORTS NET FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/CBS_logo_%282020%29.svg/330px-CBS_logo_%282020%29.svg.png" group-title="sports",USA: CBS SPORTS NET FHD
-http://1sn.ns1.name:18800/boris/rZqe9mKf/216391
-#EXTINF:-1 tvg-name="USA: Bally Sports Arizona HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Bally_Sports_logo.svg/1200px-Bally_Sports_logo.svg.png" group-title="sports",USA: Bally Sports Arizona HD
-http://1sn.ns1.name:18800/boris/rZqe9mKf/215613
-#EXTINF:-1 tvg-name="USA: Bally Sports Arizona Plus" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Bally_Sports_logo.svg/1200px-Bally_Sports_logo.svg.png" group-title="sports",USA: Bally Sports Arizona Plus
-http://1sn.ns1.name:18800/boris/rZqe9mKf/245116
-#EXTINF:-1 tvg-name="USA: Bally SPORTS CAROLINAS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Bally_Sports_logo.svg/1200px-Bally_Sports_logo.svg.png" group-title="sports",USA: Bally SPORTS CAROLINAS HD
-http://1sn.ns1.name:18800/boris/rZqe9mKf/215594
-#EXTINF:-1 tvg-name="USA: Bally SPORTS CINCINATTI PLUS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Bally_Sports_logo.svg/1200px-Bally_Sports_logo.svg.png" group-title="sports",USA: Bally SPORTS CINCINATTI PLUS HD
-http://1sn.ns1.name:18800/boris/rZqe9mKf/215596
-#EXTINF:-1 tvg-name="USA: Bally Sports Detroit HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Bally_Sports_logo.svg/1200px-Bally_Sports_logo.svg.png" group-title="sports",USA: Bally Sports Detroit HD
-http://1sn.ns1.name:18800/boris/rZqe9mKf/74331
-#EXTINF:-1 tvg-name="USA: Bally Sports Detroit Plus HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Bally_Sports_logo.svg/1200px-Bally_Sports_logo.svg.png" group-title="sports",USA: Bally Sports Detroit Plus HD
-http://1sn.ns1.name:18800/boris/rZqe9mKf/215599
-#EXTINF:-1 tvg-name="USA: Bally Sports Florida HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Bally_Sports_logo.svg/1200px-Bally_Sports_logo.svg.png" group-title="sports",USA: Bally Sports Florida HD
-http://1sn.ns1.name:18800/boris/rZqe9mKf/215612
-#EXTINF:-1 tvg-name="USA: Bally Sports Florida Plus HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Bally_Sports_logo.svg/1200px-Bally_Sports_logo.svg.png" group-title="sports",USA: Bally Sports Florida Plus HD
-http://1sn.ns1.name:18800/boris/rZqe9mKf/215625
-#EXTINF:-1 tvg-name="USA: Bally Sports Indiana HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Bally_Sports_logo.svg/1200px-Bally_Sports_logo.svg.png" group-title="sports",USA: Bally Sports Indiana HD
-http://1sn.ns1.name:18800/boris/rZqe9mKf/215598
-#EXTINF:-1 tvg-name="USA: Bally Sports Indiana Plus HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Bally_Sports_logo.svg/1200px-Bally_Sports_logo.svg.png" group-title="sports",USA: Bally Sports Indiana Plus HD
-http://1sn.ns1.name:18800/boris/rZqe9mKf/215603
-#EXTINF:-1 tvg-name="USA: Bally Sports Kansas City HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Bally_Sports_logo.svg/1200px-Bally_Sports_logo.svg.png" group-title="sports",USA: Bally Sports Kansas City HD
-http://1sn.ns1.name:18800/boris/rZqe9mKf/245117
-#EXTINF:-1 tvg-name="USA: Bally Sports Midwest HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Bally_Sports_logo.svg/1200px-Bally_Sports_logo.svg.png" group-title="sports",USA: Bally Sports Midwest HD
-http://1sn.ns1.name:18800/boris/rZqe9mKf/215615
-#EXTINF:-1 tvg-name="USA: Bally Sports Midwest Plus HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Bally_Sports_logo.svg/1200px-Bally_Sports_logo.svg.png" group-title="sports",USA: Bally Sports Midwest Plus HD
-http://1sn.ns1.name:18800/boris/rZqe9mKf/215618
-#EXTINF:-1 tvg-name="USA: Bally Sports Midwest Plus Nebraska HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Bally_Sports_logo.svg/1200px-Bally_Sports_logo.svg.png" group-title="sports",USA: Bally Sports Midwest Plus Nebraska HD
-http://1sn.ns1.name:18800/boris/rZqe9mKf/215617
-#EXTINF:-1 tvg-name="USA: Bally Sports Netbase HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Bally_Sports_logo.svg/1200px-Bally_Sports_logo.svg.png" group-title="sports",USA: Bally Sports Netbase HD
-http://1sn.ns1.name:18800/boris/rZqe9mKf/215616
-#EXTINF:-1 tvg-name="USA: Bally Sports New Orleans HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Bally_Sports_logo.svg/1200px-Bally_Sports_logo.svg.png" group-title="sports",USA: Bally Sports New Orleans HD
-http://1sn.ns1.name:18800/boris/rZqe9mKf/215597
-#EXTINF:-1 tvg-name="USA: Bally Sports New Orleans Plus HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Bally_Sports_logo.svg/1200px-Bally_Sports_logo.svg.png" group-title="sports",USA: Bally Sports New Orleans Plus HD
-http://1sn.ns1.name:18800/boris/rZqe9mKf/215601
-#EXTINF:-1 tvg-name="USA: Bally Sports North HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Bally_Sports_logo.svg/1200px-Bally_Sports_logo.svg.png" group-title="sports",USA: Bally Sports North HD
-http://1sn.ns1.name:18800/boris/rZqe9mKf/215600
-#EXTINF:-1 tvg-name="USA: Bally Sports North Plus HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Bally_Sports_logo.svg/1200px-Bally_Sports_logo.svg.png" group-title="sports",USA: Bally Sports North Plus HD
-http://1sn.ns1.name:18800/boris/rZqe9mKf/216384
-#EXTINF:-1 tvg-name="USA: Bally Sports Ohio Cincinnati HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Bally_Sports_logo.svg/1200px-Bally_Sports_logo.svg.png" group-title="sports",USA: Bally Sports Ohio Cincinnati HD
-http://1sn.ns1.name:18800/boris/rZqe9mKf/245118
-#EXTINF:-1 tvg-name="USA: Bally Sports Ohio Cleveland" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Bally_Sports_logo.svg/1200px-Bally_Sports_logo.svg.png" group-title="sports",USA: Bally Sports Ohio Cleveland
-http://1sn.ns1.name:18800/boris/rZqe9mKf/245120
-#EXTINF:-1 tvg-name="USA: Bally Sports Ohio HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Bally_Sports_logo.svg/1200px-Bally_Sports_logo.svg.png" group-title="sports",USA: Bally Sports Ohio HD
-http://1sn.ns1.name:18800/boris/rZqe9mKf/215590
-#EXTINF:-1 tvg-name="USA: Bally Sports Oklahoma HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Bally_Sports_logo.svg/1200px-Bally_Sports_logo.svg.png" group-title="sports",USA: Bally Sports Oklahoma HD
-http://1sn.ns1.name:18800/boris/rZqe9mKf/215589
-#EXTINF:-1 tvg-name="USA: Bally Sports Oklahoma Plus HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Bally_Sports_logo.svg/1200px-Bally_Sports_logo.svg.png" group-title="sports",USA: Bally Sports Oklahoma Plus HD
-http://1sn.ns1.name:18800/boris/rZqe9mKf/215604
-#EXTINF:-1 tvg-name="USA: Bally Sports San Diego HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Bally_Sports_logo.svg/1200px-Bally_Sports_logo.svg.png" group-title="sports",USA: Bally Sports San Diego HD
-http://1sn.ns1.name:18800/boris/rZqe9mKf/215611
-#EXTINF:-1 tvg-name="USA: Bally Sports San Diego Plus HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Bally_Sports_logo.svg/1200px-Bally_Sports_logo.svg.png" group-title="sports",USA: Bally Sports San Diego Plus HD
-http://1sn.ns1.name:18800/boris/rZqe9mKf/215605
-#EXTINF:-1 tvg-name="USA: Bally Sports Sandiego FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Bally_Sports_logo.svg/1200px-Bally_Sports_logo.svg.png" group-title="sports",USA: Bally Sports Sandiego FHD
-http://1sn.ns1.name:18800/boris/rZqe9mKf/216385
-#EXTINF:-1 tvg-name="USA: Bally Sports SoCal HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Bally_Sports_logo.svg/1200px-Bally_Sports_logo.svg.png" group-title="sports",USA: Bally Sports SoCal HD
-http://1sn.ns1.name:18800/boris/rZqe9mKf/216386
-#EXTINF:-1 tvg-name="USA: Bally Sports SoCal Plus HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Bally_Sports_logo.svg/1200px-Bally_Sports_logo.svg.png" group-title="sports",USA: Bally Sports SoCal Plus HD
-http://1sn.ns1.name:18800/boris/rZqe9mKf/215595
-#EXTINF:-1 tvg-name="USA: Bally Sports South HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Bally_Sports_logo.svg/1200px-Bally_Sports_logo.svg.png" group-title="sports",USA: Bally Sports South HD
-http://1sn.ns1.name:18800/boris/rZqe9mKf/216387
-#EXTINF:-1 tvg-name="USA: Bally SPORTS SOUTH GEORGIA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Bally_Sports_logo.svg/1200px-Bally_Sports_logo.svg.png" group-title="sports",USA: Bally SPORTS SOUTH GEORGIA HD
-http://1sn.ns1.name:18800/boris/rZqe9mKf/215623
-#EXTINF:-1 tvg-name="USA: Bally Sports Southeast HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Bally_Sports_logo.svg/1200px-Bally_Sports_logo.svg.png" group-title="sports",USA: Bally Sports Southeast HD
-http://1sn.ns1.name:18800/boris/rZqe9mKf/216388
-#EXTINF:-1 tvg-name="USA: Bally Sports Southeast Plus HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Bally_Sports_logo.svg/1200px-Bally_Sports_logo.svg.png" group-title="sports",USA: Bally Sports Southeast Plus HD
-http://1sn.ns1.name:18800/boris/rZqe9mKf/215619
-#EXTINF:-1 tvg-name="USA: BALLY SPORTS SOUTHWEST HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Bally_Sports_logo.svg/1200px-Bally_Sports_logo.svg.png" group-title="sports",USA: BALLY SPORTS SOUTHWEST HD
-http://1sn.ns1.name:18800/boris/rZqe9mKf/74329
-#EXTINF:-1 tvg-name="USA: Bally Sports Sun HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Bally_Sports_logo.svg/1200px-Bally_Sports_logo.svg.png" group-title="sports",USA: Bally Sports Sun HD
-http://1sn.ns1.name:18800/boris/rZqe9mKf/215592
-#EXTINF:-1 tvg-name="USA: Bally Sports Sun Plus HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Bally_Sports_logo.svg/1200px-Bally_Sports_logo.svg.png" group-title="sports",USA: Bally Sports Sun Plus HD
-http://1sn.ns1.name:18800/boris/rZqe9mKf/215620
-#EXTINF:-1 tvg-name="USA: BALLY SPORTS TENNESSEE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Bally_Sports_logo.svg/1200px-Bally_Sports_logo.svg.png" group-title="sports",USA: BALLY SPORTS TENNESSEE
-http://1sn.ns1.name:18800/boris/rZqe9mKf/74330
-#EXTINF:-1 tvg-name="USA: Bally Sports West HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Bally_Sports_logo.svg/1200px-Bally_Sports_logo.svg.png" group-title="sports",USA: Bally Sports West HD
-http://1sn.ns1.name:18800/boris/rZqe9mKf/216389
-#EXTINF:-1 tvg-name="USA: Bally Sports West Plus HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Bally_Sports_logo.svg/1200px-Bally_Sports_logo.svg.png" group-title="sports",USA: Bally Sports West Plus HD
-http://1sn.ns1.name:18800/boris/rZqe9mKf/215626
-#EXTINF:-1 tvg-name="USA: Bally Sports Wisconsin HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Bally_Sports_logo.svg/1200px-Bally_Sports_logo.svg.png" group-title="sports",USA: Bally Sports Wisconsin HD
-http://1sn.ns1.name:18800/boris/rZqe9mKf/216390
-#EXTINF:-1 tvg-name="USA: Bally Sports Wisconsin Plus HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Bally_Sports_logo.svg/1200px-Bally_Sports_logo.svg.png" group-title="sports",USA: Bally Sports Wisconsin Plus HD
-http://1sn.ns1.name:18800/boris/rZqe9mKf/215621
-#EXTINF:-1 tvg-name="USA: 24/7 UFC TV" tvg-logo="https://immaa.xyz/ARGttyccc.png" group-title="sports",USA: 24/7 UFC TV
-http://1sn.ns1.name:18800/boris/rZqe9mKf/252222
-#EXTINF:-1 tvg-name="USA: UFC" tvg-logo="https://immaa.xyz/dieeeccFIGG.png" group-title="sports",USA: UFC
-http://1sn.ns1.name:18800/boris/rZqe9mKf/243113
-#EXTINF:-1 tvg-name="USA: UFC COMBATE" tvg-logo="https://immaa.xyz/netppall.png:8000/images/76197be262262f915e48b3ed55e43708.png" group-title="sports",USA: UFC COMBATE
-http://1sn.ns1.name:18800/boris/rZqe9mKf/243114
-#EXTINF:-1 tvg-name="USA: UFC DAZN COMBATE" tvg-logo="" group-title="sports",USA: UFC DAZN COMBATE
-http://1sn.ns1.name:18800/boris/rZqe9mKf/243098
-#EXTINF:-1 tvg-name="USA: UFC EUROPLAYER 01 MMATV" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhY-3fzVN_2oseV6LYeVVaVz1iA-kRyAhn_YSu7_uisQiZ-1lDTbdBLYLpe8vXCu5LleuOMDlKIHY7D0r9ruLIhzMKyXIQwxCsq-xEqwNzS9rqpll6GdZz5DRX_tMnfBLpXEzyikUNgi5h2NpZ5nbHDaHpgGVThte7_QJveaOwcqw00IHipkUx4j8fY/s1600/GRATIS%20MMATV.jpg" group-title="sports",USA: UFC EUROPLAYER 01 MMATV
-http://1sn.ns1.name:18800/boris/rZqe9mKf/243103
-#EXTINF:-1 tvg-name="USA: UFC EUROPLAYER 01 MMATV 002" tvg-logo="" group-title="sports",USA: UFC EUROPLAYER 01 MMATV 002
-http://1sn.ns1.name:18800/boris/rZqe9mKf/243109
-#EXTINF:-1 tvg-name="USA: UFC Fight Channel - BOX PASS" tvg-logo="https://immaa.xyz/siiinloggg.png" group-title="sports",USA: UFC Fight Channel - BOX PASS
-http://1sn.ns1.name:18800/boris/rZqe9mKf/243100
-#EXTINF:-1 tvg-name="USA: UFC Fight Pass" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/UFC_Logo.svg/2560px-UFC_Logo.svg.png" group-title="sports",USA: UFC Fight Pass
-https://velive.lat:443/manfredstv/ffutNGsQwEQF/420324
-#EXTINF:-1 tvg-name="USA: UFC FITE BOX" tvg-logo="https://immaa.xyz/siiinloggg.png" group-title="sports",USA: UFC FITE BOX
-http://1sn.ns1.name:18800/boris/rZqe9mKf/243102
-#EXTINF:-1 tvg-name="USA: UFC FOX SPORTS PREMIUM (UFC- BOX )" tvg-logo="http://svtv.xyz:8000/images/5385bc7561abcaea5ba38b1abf7dab36.png" group-title="sports",USA: UFC FOX SPORTS PREMIUM (UFC- BOX )
-http://1sn.ns1.name:18800/boris/rZqe9mKf/243110
-#EXTINF:-1 tvg-name="USA: UFC PASS EVENTS 001" tvg-logo="https://immaa.xyz/uuffccpassseven.png" group-title="sports",USA: UFC PASS EVENTS 001
-http://1sn.ns1.name:18800/boris/rZqe9mKf/243106
-#EXTINF:-1 tvg-name="USA: UFC PASS EVENTS 002" tvg-logo="https://immaa.xyz/uuffccpassseven1.png" group-title="sports",USA: UFC PASS EVENTS 002
-http://1sn.ns1.name:18800/boris/rZqe9mKf/243115
-#EXTINF:-1 tvg-name="USA: UFC PPV BOXING EVENTS 001" tvg-logo="https://immaa.xyz/netppall.png" group-title="sports",USA: UFC PPV BOXING EVENTS 001
-http://1sn.ns1.name:18800/boris/rZqe9mKf/243112
-#EXTINF:-1 tvg-name="USA: UFC PPV BOXING EVENTS 002" tvg-logo="https://immaa.xyz/netppall.png" group-title="sports",USA: UFC PPV BOXING EVENTS 002
-http://1sn.ns1.name:18800/boris/rZqe9mKf/243117
-#EXTINF:-1 tvg-name="USA: UFC REPLAYS" tvg-logo="https://immaa.xyz/UFFFFrepplaay.png" group-title="sports",USA: UFC REPLAYS
-http://1sn.ns1.name:18800/boris/rZqe9mKf/243108
-#EXTINF:-1 tvg-name="USA: UFC THE FIGHT NETWORK Box" tvg-logo="https://immaa.xyz/siiinloggg.png" group-title="sports",USA: UFC THE FIGHT NETWORK Box
-http://1sn.ns1.name:18800/boris/rZqe9mKf/243104
-#EXTINF:-1 tvg-name="USA: UFC TYC SPORTS" tvg-logo="https://immaa.xyz/ARGttyccc.png" group-title="sports",USA: UFC TYC SPORTS
-http://1sn.ns1.name:18800/boris/rZqe9mKf/243116
-#EXTINF:-1 tvg-name="English Football League: Barnsley vs Sheffield Wednesday @ Nov 20 2:50 PM :Paramount+ 03" tvg-logo="https://variety.com/wp-content/uploads/2021/02/Paramount-Plus.png" group-title="sports",English Football League: Barnsley vs Sheffield Wednesday @ Nov 20 2:50 PM :Paramount+ 03
-http://1sn.ns1.name:18800/boris/rZqe9mKf/283591
-#EXTINF:-1 tvg-name="NCAAB 007: ESPN Bracketology | 7 PM ET | 3.15" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/Ncaa_basketball_series_logo.png" group-title="sports",NCAAB 007: ESPN Bracketology | 7 PM ET | 3.15
-http://1sn.ns1.name:18800/boris/rZqe9mKf/242811
-#EXTINF:-1 tvg-name="NZ: SPARK 1" tvg-logo="" group-title="sports",NZ: SPARK 1
-http://1sn.ns1.name:18800/boris/rZqe9mKf/144730
-#EXTINF:-1 tvg-name="NZ: SPARK 2" tvg-logo="" group-title="sports",NZ: SPARK 2
-http://1sn.ns1.name:18800/boris/rZqe9mKf/144731
-#EXTINF:-1 tvg-name="NZ: SPARK 3" tvg-logo="" group-title="sports",NZ: SPARK 3
-http://1sn.ns1.name:18800/boris/rZqe9mKf/144732
-#EXTINF:-1 tvg-name="NZ: SPARK 4" tvg-logo="" group-title="sports",NZ: SPARK 4
-http://1sn.ns1.name:18800/boris/rZqe9mKf/144733
-#EXTINF:-1 tvg-name="NZ: SPARK 5" tvg-logo="" group-title="sports",NZ: SPARK 5
-http://1sn.ns1.name:18800/boris/rZqe9mKf/144734
-#EXTINF:-1 tvg-name="NZ: SPARK 6" tvg-logo="" group-title="sports",NZ: SPARK 6
-http://1sn.ns1.name:18800/boris/rZqe9mKf/144735
-#EXTINF:-1 tvg-name="NZ: SPARK 7" tvg-logo="" group-title="sports",NZ: SPARK 7
-http://1sn.ns1.name:18800/boris/rZqe9mKf/144736
-#EXTINF:-1 tvg-name="NZ: SPARK 8" tvg-logo="" group-title="sports",NZ: SPARK 8
-http://1sn.ns1.name:18800/boris/rZqe9mKf/144737
-#EXTINF:-1 tvg-name="NZ: SPARK 9" tvg-logo="" group-title="sports",NZ: SPARK 9
-http://1sn.ns1.name:18800/boris/rZqe9mKf/144738
-#EXTINF:-1 tvg-name="NZ: SPARK 10" tvg-logo="" group-title="sports",NZ: SPARK 10
-http://1sn.ns1.name:18800/boris/rZqe9mKf/144739
-#EXTINF:-1 tvg-name="NZ: SPARK SPORTS 11" tvg-logo="" group-title="sports",NZ: SPARK SPORTS 11
-http://1sn.ns1.name:18800/boris/rZqe9mKf/144740
-#EXTINF:-1 tvg-name="IE: GaaGo Fixtures 00" tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/united-kingdom/gaa-go-uk.png" group-title="sports",IE: GaaGo Fixtures 00
-http://1sn.ns1.name:18800/boris/rZqe9mKf/144729
-#EXTINF:-1 tvg-name="IE: GaaGo Fixtures 01" tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/united-kingdom/gaa-go-uk.png" group-title="sports",IE: GaaGo Fixtures 01
-http://1sn.ns1.name:18800/boris/rZqe9mKf/144728
-#EXTINF:-1 tvg-name="IE: GaaGo Fixtures 02" tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/united-kingdom/gaa-go-uk.png" group-title="sports",IE: GaaGo Fixtures 02
-http://1sn.ns1.name:18800/boris/rZqe9mKf/144727
-#EXTINF:-1 tvg-name="IE: GaaGo Fixtures 03" tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/united-kingdom/gaa-go-uk.png" group-title="sports",IE: GaaGo Fixtures 03
-http://1sn.ns1.name:18800/boris/rZqe9mKf/144726
-#EXTINF:-1 tvg-name="IE: GaaGo Fixtures 04" tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/united-kingdom/gaa-go-uk.png" group-title="sports",IE: GaaGo Fixtures 04
-http://1sn.ns1.name:18800/boris/rZqe9mKf/144725
-#EXTINF:-1 tvg-name="IE: GaaGo Fixtures 05" tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/united-kingdom/gaa-go-uk.png" group-title="sports",IE: GaaGo Fixtures 05
-http://1sn.ns1.name:18800/boris/rZqe9mKf/144724
-#EXTINF:-1 tvg-name="IE: GaaGo Fixtures 06" tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/united-kingdom/gaa-go-uk.png" group-title="sports",IE: GaaGo Fixtures 06
-http://1sn.ns1.name:18800/boris/rZqe9mKf/144723
-#EXTINF:-1 tvg-name="IE: GaaGo Fixtures 07" tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/united-kingdom/gaa-go-uk.png" group-title="sports",IE: GaaGo Fixtures 07
-http://1sn.ns1.name:18800/boris/rZqe9mKf/144722
-#EXTINF:-1 tvg-name="IE: GaaGo Fixtures 08" tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/united-kingdom/gaa-go-uk.png" group-title="sports",IE: GaaGo Fixtures 08
-http://1sn.ns1.name:18800/boris/rZqe9mKf/144721
-#EXTINF:-1 tvg-name="IE: GaaGo Fixtures 09" tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/united-kingdom/gaa-go-uk.png" group-title="sports",IE: GaaGo Fixtures 09
-http://1sn.ns1.name:18800/boris/rZqe9mKf/144720
-#EXTINF:-1 tvg-name="IE: GaaGo Fixtures 10" tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/united-kingdom/gaa-go-uk.png" group-title="sports",IE: GaaGo Fixtures 10
-http://1sn.ns1.name:18800/boris/rZqe9mKf/144719
-#EXTINF:-1 tvg-name="NZ: Rugby 1" tvg-logo="" group-title="sports",NZ: Rugby 1
-http://1sn.ns1.name:18800/boris/rZqe9mKf/144633
-#EXTINF:-1 tvg-name="NZ: Rugby 2" tvg-logo="" group-title="sports",NZ: Rugby 2
-http://1sn.ns1.name:18800/boris/rZqe9mKf/144634
-#EXTINF:-1 tvg-name="NZ: Rugby 3" tvg-logo="" group-title="sports",NZ: Rugby 3
-http://1sn.ns1.name:18800/boris/rZqe9mKf/144635
-#EXTINF:-1 tvg-name="NZ: Rugby 4" tvg-logo="" group-title="sports",NZ: Rugby 4
-http://1sn.ns1.name:18800/boris/rZqe9mKf/144636
-#EXTINF:-1 tvg-name="NZ: Rugby 5" tvg-logo="" group-title="sports",NZ: Rugby 5
-http://1sn.ns1.name:18800/boris/rZqe9mKf/144637
-#EXTINF:-1 tvg-name="NZ: Rugby 6" tvg-logo="" group-title="sports",NZ: Rugby 6
-http://1sn.ns1.name:18800/boris/rZqe9mKf/144638
-#EXTINF:-1 tvg-name="NZ: Rugby 7" tvg-logo="" group-title="sports",NZ: Rugby 7
-http://1sn.ns1.name:18800/boris/rZqe9mKf/144639
-#EXTINF:-1 tvg-name="NZ: Rugby 8" tvg-logo="" group-title="sports",NZ: Rugby 8
-http://1sn.ns1.name:18800/boris/rZqe9mKf/144640
-#EXTINF:-1 tvg-name="NZ: Rugby 9" tvg-logo="" group-title="sports",NZ: Rugby 9
-http://1sn.ns1.name:18800/boris/rZqe9mKf/144641
-#EXTINF:-1 tvg-name="NZ: Rugby 10" tvg-logo="" group-title="sports",NZ: Rugby 10
-http://1sn.ns1.name:18800/boris/rZqe9mKf/144630
-#EXTINF:-1 tvg-name="NZ: Rugby 11" tvg-logo="" group-title="sports",NZ: Rugby 11
-http://1sn.ns1.name:18800/boris/rZqe9mKf/144631
-#EXTINF:-1 tvg-name="NZ: Rugby 12" tvg-logo="" group-title="sports",NZ: Rugby 12
-http://1sn.ns1.name:18800/boris/rZqe9mKf/144632
-#EXTINF:-1 tvg-name="NZ: Rugby 13" tvg-logo="" group-title="sports",NZ: Rugby 13
-http://1sn.ns1.name:18800/boris/rZqe9mKf/144627
-#EXTINF:-1 tvg-name="NZ: Rugby 14" tvg-logo="" group-title="sports",NZ: Rugby 14
-http://1sn.ns1.name:18800/boris/rZqe9mKf/144628
-#EXTINF:-1 tvg-name="NZ: Rugby 15" tvg-logo="" group-title="sports",NZ: Rugby 15
-http://1sn.ns1.name:18800/boris/rZqe9mKf/144629
-#EXTINF:-1 tvg-name="IE: Premier Sports 1 SD" tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/united-kingdom/premier-sports-1-uk.png" group-title="sports",IE: Premier Sports 1 SD
-http://1sn.ns1.name:18800/boris/rZqe9mKf/28826
-#EXTINF:-1 tvg-name="UK: HUM Masala" tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/united-kingdom/hummasala.default.png" group-title="sports",UK: HUM Masala
-http://1sn.ns1.name:18800/boris/rZqe9mKf/57004
-#EXTINF:-1 tvg-name="UK: TNT SPORT Ultimate 4K" tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/united-kingdom/tnt-sports-ultimate-uk.png" group-title="sports",UK: TNT SPORT Ultimate 4K
-http://1sn.ns1.name:18800/boris/rZqe9mKf/75454
-#EXTINF:-1 tvg-name="UK: TNT SPORT Box Office FHD" tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/united-kingdom/tnt-sports-box-office-uk.png" group-title="sports",UK: TNT SPORT Box Office FHD
-http://1sn.ns1.name:18800/boris/rZqe9mKf/144390
-#EXTINF:-1 tvg-name="UK: TNT SPORT 1 HD" tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/united-kingdom/tnt-sports-1-uk.png" group-title="sports",UK: TNT SPORT 1 HD
-http://1sn.ns1.name:18800/boris/rZqe9mKf/41482
-#EXTINF:-1 tvg-name="UK: TNT SPORT 2 HD" tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/united-kingdom/tnt-sports-2-uk.png" group-title="sports",UK: TNT SPORT 2 HD
-http://1sn.ns1.name:18800/boris/rZqe9mKf/41481
-#EXTINF:-1 tvg-name="UK: TNT SPORT 3 HD" tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/united-kingdom/tnt-sports-3-uk.png" group-title="sports",UK: TNT SPORT 3 HD
-http://1sn.ns1.name:18800/boris/rZqe9mKf/41480
-#EXTINF:-1 tvg-name="UK: TNT SPORT 4 HD" tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/united-kingdom/tnt-sports-4-uk.png" group-title="sports",UK: TNT SPORT 4 HD
-http://1sn.ns1.name:18800/boris/rZqe9mKf/41479
-#EXTINF:-1 tvg-name="UK: TNT SPORT 5 HD" tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/united-kingdom/tnt-sports-5-uk.png" group-title="sports",UK: TNT SPORT 5 HD
-http://1sn.ns1.name:18800/boris/rZqe9mKf/18262
-#EXTINF:-1 tvg-name="UK: TNT SPORT 6 HD" tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/united-kingdom/tnt-sports-6-uk.png" group-title="sports",UK: TNT SPORT 6 HD
-http://1sn.ns1.name:18800/boris/rZqe9mKf/18261
-#EXTINF:-1 tvg-name="UK: TNT SPORT 7 HD" tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/united-kingdom/tnt-sports-7-uk.png" group-title="sports",UK: TNT SPORT 7 HD
-http://1sn.ns1.name:18800/boris/rZqe9mKf/18260
-#EXTINF:-1 tvg-name="UK: TNT SPORT 8 HD" tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/united-kingdom/tnt-sports-8-uk.png" group-title="sports",UK: TNT SPORT 8 HD
-http://1sn.ns1.name:18800/boris/rZqe9mKf/18259
-#EXTINF:-1 tvg-name="UK: TNT SPORT 9 HD" tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/united-kingdom/tnt-sports-9-uk.png" group-title="sports",UK: TNT SPORT 9 HD
-http://1sn.ns1.name:18800/boris/rZqe9mKf/18258
-#EXTINF:-1 tvg-name="UK: TNT SPORT 10 HD" tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/united-kingdom/tnt-sports-10-uk.png" group-title="sports",UK: TNT SPORT 10 HD
-http://1sn.ns1.name:18800/boris/rZqe9mKf/18257
-#EXTINF:-1 tvg-name="UK: SKY SPORTS 1" tvg-logo="https://p7.hiclipart.com/preview/150/904/34/sky-sports-news-television-channel-sky-sports-f1-others.jpg" group-title="sports",UK: SKY SPORTS 1
-http://1sn.ns1.name:18800/boris/rZqe9mKf/265178
-#EXTINF:-1 tvg-name="UK: SKY SPORTS 2" tvg-logo="https://cdn.freebiesupply.com/logos/thumbs/2x/sky-sport-2-hd-logo.png" group-title="sports",UK: SKY SPORTS 2
-http://1sn.ns1.name:18800/boris/rZqe9mKf/265181
-#EXTINF:-1 tvg-name="UK: Sky Sports Action HD" tvg-logo="https://tvprofil.com/img/kanali-logo/Sky-sports-action-logo.png" group-title="sports",UK: Sky Sports Action HD
-http://1sn.ns1.name:18800/boris/rZqe9mKf/41488
-#EXTINF:-1 tvg-name="UK: Sky Sports+ HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Sky_Sport_Arena_-_Logo_2020.svg/1280px-Sky_Sport_Arena_-_Logo_2020.svg.png" group-title="sports",UK: Sky Sports+ HD
-http://1sn.ns1.name:18800/boris/rZqe9mKf/41494
-#EXTINF:-1 tvg-name="UK: Sky Sports Box Office SD" tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/united-kingdom/sky-sports-box-office-hz-uk.png" group-title="sports",UK: Sky Sports Box Office SD
-http://1sn.ns1.name:18800/boris/rZqe9mKf/75571
-#EXTINF:-1 tvg-name="UK: Sky Sports Cricket HD" tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/united-kingdom/sky-sports-cricket-hz-uk.png" group-title="sports",UK: Sky Sports Cricket HD
-http://1sn.ns1.name:18800/boris/rZqe9mKf/54146
-#EXTINF:-1 tvg-name="UK: Sky Sports F1 HD" tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/united-kingdom/sky-sports-f1-hz-uk.png" group-title="sports",UK: Sky Sports F1 HD
-http://1sn.ns1.name:18800/boris/rZqe9mKf/41492
-#EXTINF:-1 tvg-name="UK: Sky Sports Football HD" tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/united-kingdom/sky-sports-football-hz-uk.png" group-title="sports",UK: Sky Sports Football HD
-http://1sn.ns1.name:18800/boris/rZqe9mKf/41491
-#EXTINF:-1 tvg-name="UK: Sky Sports Golf HD" tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/united-kingdom/sky-sports-golf-hz-uk.png" group-title="sports",UK: Sky Sports Golf HD
-http://1sn.ns1.name:18800/boris/rZqe9mKf/41484
-#EXTINF:-1 tvg-name="UK: Sky Sports Main Event HD" tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/united-kingdom/sky-sports-main-event-hz-uk.png" group-title="sports",UK: Sky Sports Main Event HD
-http://1sn.ns1.name:18800/boris/rZqe9mKf/41490
-#EXTINF:-1 tvg-name="UK: Sky Sports Mix HD" tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/united-kingdom/sky-sports-mix-hz-uk.png" group-title="sports",UK: Sky Sports Mix HD
-http://1sn.ns1.name:18800/boris/rZqe9mKf/41486
-#EXTINF:-1 tvg-name="UK: Sky Sports News HD" tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/united-kingdom/sky-sports-news-hz-uk.png" group-title="sports",UK: Sky Sports News HD
-http://1sn.ns1.name:18800/boris/rZqe9mKf/41483
-#EXTINF:-1 tvg-name="UK: Sky Sports Premier League HD" tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/united-kingdom/sky-sports-premier-league-hz-uk.png" group-title="sports",UK: Sky Sports Premier League HD
-http://1sn.ns1.name:18800/boris/rZqe9mKf/41489
+http://23.227.132.58:25461/Toolsplus/6969/117299
+#EXTINF:-1 tvg-name="ESPN NEWS | HD" tvg-logo="" group-title="sports",ESPN NEWS | HD
+http://23.227.132.58:25461/Toolsplus/6969/115379
+#EXTINF:-1 tvg-name="ESPN U | HD" tvg-logo="" group-title="sports",ESPN U | HD
+http://23.227.132.58:25461/Toolsplus/6969/115380
+#EXTINF:-1 tvg-name="ESPN SEC NETWORK | HD*" tvg-logo="" group-title="sports",ESPN SEC NETWORK | HD*
+http://23.227.132.58:25461/Toolsplus/6969/115381
+#EXTINF:-1 tvg-name="US: SPECTRUM SPORTSNET LAKERS | HD" tvg-logo="" group-title="sports",US: SPECTRUM SPORTSNET LAKERS | HD
+http://23.227.132.58:25461/Toolsplus/6969/115431
+#EXTINF:-1 tvg-name="CA | TVA Sports" tvg-logo="" group-title="sports",CA | TVA Sports
+http://23.227.132.58:25461/Toolsplus/6969/115670
+#EXTINF:-1 tvg-name="CA | TVA 2 Sports" tvg-logo="" group-title="sports",CA | TVA 2 Sports
+http://23.227.132.58:25461/Toolsplus/6969/115671
+#EXTINF:-1 tvg-name="ESPN+ 002 | 05:00AM FOOTBALL: NFL FOOTBALL: PRIME VISION WEEK 11 INDIANAPOLIS COLTS VS. HOUSTON TEXANS (NFL FOOTBALL: PRIME VISION WEEK 11 INDIANAPOLIS COLTS VS. HOUSTON TEXANS) (NOV 20)" tvg-logo="" group-title="sports",ESPN+ 002 | 05:00AM FOOTBALL: NFL FOOTBALL: PRIME VISION WEEK 11 INDIANAPOLIS COLTS VS. HOUSTON TEXANS (NFL FOOTBALL: PRIME VISION WEEK 11 INDIANAPOLIS COLTS VS. HOUSTON TEXANS) (NOV 20)
+http://23.227.132.58:25461/Toolsplus/6969/224207
+#EXTINF:-1 tvg-name="ESPN+ 003 | 08:00AM FOOTBALL: GOOD MORNING FOOTBALL (GOOD MORNING FOOTBALL) (NOV 20)" tvg-logo="" group-title="sports",ESPN+ 003 | 08:00AM FOOTBALL: GOOD MORNING FOOTBALL (GOOD MORNING FOOTBALL) (NOV 20)
+http://23.227.132.58:25461/Toolsplus/6969/224208
+#EXTINF:-1 tvg-name="ESPN+ 004 | 08:30AM THE RSM CLASSIC: KOEPKA & BRENNAN FEATURED GROUPS (SECOND ROUND) (NOV 20)" tvg-logo="" group-title="sports",ESPN+ 004 | 08:30AM THE RSM CLASSIC: KOEPKA & BRENNAN FEATURED GROUPS (SECOND ROUND) (NOV 20)
+http://23.227.132.58:25461/Toolsplus/6969/224209
+#EXTINF:-1 tvg-name="ESPN+ 005 | 09:30AM SWIMMING AND DIVING: UGA FALL INVITATIONAL (SWIM PRELIMS) (UGA FALL INVITATIONAL (SWIM PRELIMS)) (NOV 20)" tvg-logo="" group-title="sports",ESPN+ 005 | 09:30AM SWIMMING AND DIVING: UGA FALL INVITATIONAL (SWIM PRELIMS) (UGA FALL INVITATIONAL (SWIM PRELIMS)) (NOV 20)
+http://23.227.132.58:25461/Toolsplus/6969/224210
+#EXTINF:-1 tvg-name="ESPN+ 006 | 09:30AM SWIMMING AND DIVING: TENNESSEE INVITATIONAL (TENNESSEE INVITATIONAL) (NOV 20)" tvg-logo="" group-title="sports",ESPN+ 006 | 09:30AM SWIMMING AND DIVING: TENNESSEE INVITATIONAL (TENNESSEE INVITATIONAL) (NOV 20)
+http://23.227.132.58:25461/Toolsplus/6969/224211
+#EXTINF:-1 tvg-name="ESPN+ 007 | 10:00AM TERRIER INVITATIONAL (NOV 20)" tvg-logo="" group-title="sports",ESPN+ 007 | 10:00AM TERRIER INVITATIONAL (NOV 20)
+http://23.227.132.58:25461/Toolsplus/6969/224212
+#EXTINF:-1 tvg-name="ESPN+ 008 | 10:00AM THE GOLICS (NOV 20)" tvg-logo="" group-title="sports",ESPN+ 008 | 10:00AM THE GOLICS (NOV 20)
+http://23.227.132.58:25461/Toolsplus/6969/224213
+#EXTINF:-1 tvg-name="ESPN+ 009 | 10:00AM BRUNO INVITE (NOV 20)" tvg-logo="" group-title="sports",ESPN+ 009 | 10:00AM BRUNO INVITE (NOV 20)
+http://23.227.132.58:25461/Toolsplus/6969/224214
+#EXTINF:-1 tvg-name="ESPN+ 010 | 10:30AM SWIMMING AND DIVING: MIZZOU INVITE _ PRELIMS (MIZZOU INVITE _ PRELIMS) (NOV 20)" tvg-logo="" group-title="sports",ESPN+ 010 | 10:30AM SWIMMING AND DIVING: MIZZOU INVITE _ PRELIMS (MIZZOU INVITE _ PRELIMS) (NOV 20)
+http://23.227.132.58:25461/Toolsplus/6969/224215
+#EXTINF:-1 tvg-name="ESPN+ 011 | 11:00AM EAST TEXAS A&M VS. SE LOUISIANA (QUARTERFINAL) (NOV 20)" tvg-logo="" group-title="sports",ESPN+ 011 | 11:00AM EAST TEXAS A&M VS. SE LOUISIANA (QUARTERFINAL) (NOV 20)
+http://23.227.132.58:25461/Toolsplus/6969/224216
+#EXTINF:-1 tvg-name="ESPN+ 012 | 11:00AM ROBERT MORRIS VS. AKRON (NOV 20)" tvg-logo="" group-title="sports",ESPN+ 012 | 11:00AM ROBERT MORRIS VS. AKRON (NOV 20)
+http://23.227.132.58:25461/Toolsplus/6969/224217
+#EXTINF:-1 tvg-name="ESPN+ 013 | 11:00AM WESTERN CAROLINA VS. WOFFORD (QUARTERFINAL) (NOV 20)" tvg-logo="" group-title="sports",ESPN+ 013 | 11:00AM WESTERN CAROLINA VS. WOFFORD (QUARTERFINAL) (NOV 20)
+http://23.227.132.58:25461/Toolsplus/6969/224218
+#EXTINF:-1 tvg-name="ESPN+ 014 | 11:00AM GRAND SLAM OF CURLING: NATIONAL (NOV 20)" tvg-logo="" group-title="sports",ESPN+ 014 | 11:00AM GRAND SLAM OF CURLING: NATIONAL (NOV 20)
+http://23.227.132.58:25461/Toolsplus/6969/224219
+#EXTINF:-1 tvg-name="ESPN+ 015 | 11:00AM BOSTON UNIVERSITY VS. PROVIDENCE (NOV 20)" tvg-logo="" group-title="sports",ESPN+ 015 | 11:00AM BOSTON UNIVERSITY VS. PROVIDENCE (NOV 20)
+http://23.227.132.58:25461/Toolsplus/6969/224220
+#EXTINF:-1 tvg-name="ESPN+ 016 | 11:30AM SWIMMING AND DIVING: UGA FALL INVITATIONAL (DIVE PRELIMS) (UGA FALL INVITATIONAL (DIVE PRELIMS)) (NOV 20)" tvg-logo="" group-title="sports",ESPN+ 016 | 11:30AM SWIMMING AND DIVING: UGA FALL INVITATIONAL (DIVE PRELIMS) (UGA FALL INVITATIONAL (DIVE PRELIMS)) (NOV 20)
+http://23.227.132.58:25461/Toolsplus/6969/224221
+#EXTINF:-1 tvg-name="ESPN+ 017 | 12:00PM COURT 5_NCAA DIVISION I SINGLES & DOUBLES CHAMPIONSHIPS (QUARTERFINALS) (NOV 20)" tvg-logo="" group-title="sports",ESPN+ 017 | 12:00PM COURT 5_NCAA DIVISION I SINGLES & DOUBLES CHAMPIONSHIPS (QUARTERFINALS) (NOV 20)
+http://23.227.132.58:25461/Toolsplus/6969/224222
+#EXTINF:-1 tvg-name="ESPN+ 018 | 12:00PM TEMPLE VS. RICE (QUARTERFINAL) (NOV 20)" tvg-logo="" group-title="sports",ESPN+ 018 | 12:00PM TEMPLE VS. RICE (QUARTERFINAL) (NOV 20)
+http://23.227.132.58:25461/Toolsplus/6969/224223
+#EXTINF:-1 tvg-name="ESPN+ 019 | 12:00PM CROSSCOURT CAST_NCAA DIVISION I SINGLES & DOUBLES CHAMPIONSHIPS (QUARTERFINALS) (NOV 20)" tvg-logo="" group-title="sports",ESPN+ 019 | 12:00PM CROSSCOURT CAST_NCAA DIVISION I SINGLES & DOUBLES CHAMPIONSHIPS (QUARTERFINALS) (NOV 20)
+http://23.227.132.58:25461/Toolsplus/6969/224224
+#EXTINF:-1 tvg-name="ESPN+ 020 | 12:00PM ALCORN STATE VS. TULANE (NOV 20)" tvg-logo="" group-title="sports",ESPN+ 020 | 12:00PM ALCORN STATE VS. TULANE (NOV 20)
+http://23.227.132.58:25461/Toolsplus/6969/224225
+#EXTINF:-1 tvg-name="ESPN+ 022 | 12:00PM MARSHALL VS. TROY (QUARTERFINAL) (NOV 20)" tvg-logo="" group-title="sports",ESPN+ 022 | 12:00PM MARSHALL VS. TROY (QUARTERFINAL) (NOV 20)
+http://23.227.132.58:25461/Toolsplus/6969/224227
+#EXTINF:-1 tvg-name="ESPN+ 023 | 12:00PM FEATURED MATCHES_NCAA DIVISION I SINGLES & DOUBLES CHAMPIONSHIPS (QUARTERFINALS) (NOV 20)" tvg-logo="" group-title="sports",ESPN+ 023 | 12:00PM FEATURED MATCHES_NCAA DIVISION I SINGLES & DOUBLES CHAMPIONSHIPS (QUARTERFINALS) (NOV 20)
+http://23.227.132.58:25461/Toolsplus/6969/224228
+#EXTINF:-1 tvg-name="ESPN+ 024 | 12:00PM COURT 6_NCAA DIVISION I SINGLES & DOUBLES CHAMPIONSHIPS (QUARTERFINALS) (NOV 20)" tvg-logo="" group-title="sports",ESPN+ 024 | 12:00PM COURT 6_NCAA DIVISION I SINGLES & DOUBLES CHAMPIONSHIPS (QUARTERFINALS) (NOV 20)
+http://23.227.132.58:25461/Toolsplus/6969/224229
+#EXTINF:-1 tvg-name="ESPN+ 025 | 12:00PM COURT 1_NCAA DIVISION I SINGLES & DOUBLES CHAMPIONSHIPS (QUARTERFINALS) (NOV 20)" tvg-logo="" group-title="sports",ESPN+ 025 | 12:00PM COURT 1_NCAA DIVISION I SINGLES & DOUBLES CHAMPIONSHIPS (QUARTERFINALS) (NOV 20)
+http://23.227.132.58:25461/Toolsplus/6969/224230
+#EXTINF:-1 tvg-name="ESPN+ 026 | 12:00PM FRI_ 11/20 _ THE RICH EISEN SHOW (NOV 20)" tvg-logo="" group-title="sports",ESPN+ 026 | 12:00PM FRI_ 11/20 _ THE RICH EISEN SHOW (NOV 20)
+http://23.227.132.58:25461/Toolsplus/6969/224231
+#EXTINF:-1 tvg-name="ESPN+ 027 | 12:00PM COURT 2_NCAA DIVISION I SINGLES & DOUBLES CHAMPIONSHIPS (QUARTERFINALS) (NOV 20)" tvg-logo="" group-title="sports",ESPN+ 027 | 12:00PM COURT 2_NCAA DIVISION I SINGLES & DOUBLES CHAMPIONSHIPS (QUARTERFINALS) (NOV 20)
+http://23.227.132.58:25461/Toolsplus/6969/224232
+#EXTINF:-1 tvg-name="ESPN+ 028 | 12:00PM COURT 3_NCAA DIVISION I SINGLES & DOUBLES CHAMPIONSHIPS (QUARTERFINALS) (NOV 20)" tvg-logo="" group-title="sports",ESPN+ 028 | 12:00PM COURT 3_NCAA DIVISION I SINGLES & DOUBLES CHAMPIONSHIPS (QUARTERFINALS) (NOV 20)
+http://23.227.132.58:25461/Toolsplus/6969/224233
+#EXTINF:-1 tvg-name="ESPN+ 029 | 12:01PM GRAMBLING VS. CENTRAL ARKANSAS (NOV 20)" tvg-logo="" group-title="sports",ESPN+ 029 | 12:01PM GRAMBLING VS. CENTRAL ARKANSAS (NOV 20)
+http://23.227.132.58:25461/Toolsplus/6969/224234
+#EXTINF:-1 tvg-name="ESPN+ 030 | 12:01PM COURT 4_NCAA DIVISION I SINGLES & DOUBLES CHAMPIONSHIPS (QUARTERFINALS) (NOV 20)" tvg-logo="" group-title="sports",ESPN+ 030 | 12:01PM COURT 4_NCAA DIVISION I SINGLES & DOUBLES CHAMPIONSHIPS (QUARTERFINALS) (NOV 20)
+http://23.227.132.58:25461/Toolsplus/6969/224235
+#EXTINF:-1 tvg-name="ESPN+ 031 | 12:01PM THE PAT MCAFEE SHOW (NOV 20)" tvg-logo="" group-title="sports",ESPN+ 031 | 12:01PM THE PAT MCAFEE SHOW (NOV 20)
+http://23.227.132.58:25461/Toolsplus/6969/224236
+#EXTINF:-1 tvg-name="ESPN+ 032 | 12:01PM FOOTBALL: THE BREAKDOWN WITH PEYTON AND KUECHLY (EPISODE 6) (THE BREAKDOWN WITH PEYTON AND KUECHLY (EPISODE 6)) (NOV 20)" tvg-logo="" group-title="sports",ESPN+ 032 | 12:01PM FOOTBALL: THE BREAKDOWN WITH PEYTON AND KUECHLY (EPISODE 6) (THE BREAKDOWN WITH PEYTON AND KUECHLY (EPISODE 6)) (NOV 20)
+http://23.227.132.58:25461/Toolsplus/6969/224237
+#EXTINF:-1 tvg-name="ESPN+ 033 | 12:01PM FOOTBALL: TOTAL ACCESS (TOTAL ACCESS) (NOV 20)" tvg-logo="" group-title="sports",ESPN+ 033 | 12:01PM FOOTBALL: TOTAL ACCESS (TOTAL ACCESS) (NOV 20)
+http://23.227.132.58:25461/Toolsplus/6969/224238
+#EXTINF:-1 tvg-name="ESPN+ 034 | 12:01PM BASKETBALL: GREEN BAY VS. FLORIDA ST (GREEN BAY VS. FLORIDA ST) (NOV 20)" tvg-logo="" group-title="sports",ESPN+ 034 | 12:01PM BASKETBALL: GREEN BAY VS. FLORIDA ST (GREEN BAY VS. FLORIDA ST) (NOV 20)
+http://23.227.132.58:25461/Toolsplus/6969/224239
+#EXTINF:-1 tvg-name="ESPN+ 035 | 12:01PM FIELD HOCKEY: #3 HARVARD VS. #2 MARYLAND (#3 HARVARD VS. #2 MARYLAND) (NOV 20)" tvg-logo="" group-title="sports",ESPN+ 035 | 12:01PM FIELD HOCKEY: #3 HARVARD VS. #2 MARYLAND (#3 HARVARD VS. #2 MARYLAND) (NOV 20)
+http://23.227.132.58:25461/Toolsplus/6969/224240
+#EXTINF:-1 tvg-name="ESPN+ 036 | 12:02PM VOLLEYBALL: FLORIDA ST VS. DUKE (FLORIDA ST VS. DUKE) (NOV 20)" tvg-logo="" group-title="sports",ESPN+ 036 | 12:02PM VOLLEYBALL: FLORIDA ST VS. DUKE (FLORIDA ST VS. DUKE) (NOV 20)
+http://23.227.132.58:25461/Toolsplus/6969/224241
+#EXTINF:-1 tvg-name="ESPN+ 037 | 12:02PM VOLLEYBALL: OLE MISS VS. GEORGIA (OLE MISS VS. GEORGIA) (NOV 20)" tvg-logo="" group-title="sports",ESPN+ 037 | 12:02PM VOLLEYBALL: OLE MISS VS. GEORGIA (OLE MISS VS. GEORGIA) (NOV 20)
+http://23.227.132.58:25461/Toolsplus/6969/224242
+#EXTINF:-1 tvg-name="ESPN+ 038 | 12:30PM TEMPLE VS. MIDDLE TENNESSEE (GAME 1) (NOV 20)" tvg-logo="" group-title="sports",ESPN+ 038 | 12:30PM TEMPLE VS. MIDDLE TENNESSEE (GAME 1) (NOV 20)
+http://23.227.132.58:25461/Toolsplus/6969/224243
+#EXTINF:-1 tvg-name="ESPN+ 039 | 12:30PM AIR FORCE VS. UC DAVIS (NOV 20)" tvg-logo="" group-title="sports",ESPN+ 039 | 12:30PM AIR FORCE VS. UC DAVIS (NOV 20)
+http://23.227.132.58:25461/Toolsplus/6969/224244
+#EXTINF:-1 tvg-name="ESPN+ 040 | 12:30PM BASKETBALL: OKLAHOMA ST VS. MINNESOTA (OKLAHOMA ST VS. MINNESOTA) (NOV 20)" tvg-logo="" group-title="sports",ESPN+ 040 | 12:30PM BASKETBALL: OKLAHOMA ST VS. MINNESOTA (OKLAHOMA ST VS. MINNESOTA) (NOV 20)
+http://23.227.132.58:25461/Toolsplus/6969/224245
+#EXTINF:-1 tvg-name="ESPN+ 041 | 01:00PM FLORIDA INTERNATIONAL VS. WESTERN KENTUCKY (QUARTERFINAL) (NOV 20)" tvg-logo="" group-title="sports",ESPN+ 041 | 01:00PM FLORIDA INTERNATIONAL VS. WESTERN KENTUCKY (QUARTERFINAL) (NOV 20)
+http://23.227.132.58:25461/Toolsplus/6969/224246
+#EXTINF:-1 tvg-name="ESPN+ 042 | 01:00PM VIKTORIA KOLN VS. TSV HAVELSE (NOV 20)" tvg-logo="" group-title="sports",ESPN+ 042 | 01:00PM VIKTORIA KOLN VS. TSV HAVELSE (NOV 20)
+http://23.227.132.58:25461/Toolsplus/6969/224247
+#EXTINF:-1 tvg-name="ESPN+ 043 | 01:30PM SAMFORD VS. MERCER (QUARTERFINAL) (NOV 20)" tvg-logo="" group-title="sports",ESPN+ 043 | 01:30PM SAMFORD VS. MERCER (QUARTERFINAL) (NOV 20)
+http://23.227.132.58:25461/Toolsplus/6969/224248
+#EXTINF:-1 tvg-name="ESPN+ 044 | 02:00PM BOSTON COLLEGE VS. MERRIMACK (NOV 20)" tvg-logo="" group-title="sports",ESPN+ 044 | 02:00PM BOSTON COLLEGE VS. MERRIMACK (NOV 20)
+http://23.227.132.58:25461/Toolsplus/6969/224249
+#EXTINF:-1 tvg-name="ESPN+ 045 | 02:00PM FLAMES CENTRAL (NOV 20)" tvg-logo="" group-title="sports",ESPN+ 045 | 02:00PM FLAMES CENTRAL (NOV 20)
+http://23.227.132.58:25461/Toolsplus/6969/224250
+#EXTINF:-1 tvg-name="ESPN+ 046 | 02:00PM PACIFIC VS. SACRAMENTO STATE (NOV 20)" tvg-logo="" group-title="sports",ESPN+ 046 | 02:00PM PACIFIC VS. SACRAMENTO STATE (NOV 20)
+http://23.227.132.58:25461/Toolsplus/6969/224251
+#EXTINF:-1 tvg-name="ESPN+ 047 | 02:00PM CENTRAL CONNECTICUT VS. LONG ISLAND UNIVERSITY (NOV 20)" tvg-logo="" group-title="sports",ESPN+ 047 | 02:00PM CENTRAL CONNECTICUT VS. LONG ISLAND UNIVERSITY (NOV 20)
+http://23.227.132.58:25461/Toolsplus/6969/224252
+#EXTINF:-1 tvg-name="ESPN+ 048 | 02:00PM GRAND SLAM OF DARTS (QUARTERFINALS) (NOV 20)" tvg-logo="" group-title="sports",ESPN+ 048 | 02:00PM GRAND SLAM OF DARTS (QUARTERFINALS) (NOV 20)
+http://23.227.132.58:25461/Toolsplus/6969/224253
+#EXTINF:-1 tvg-name="ESPN+ 050 | 02:00PM GEORGE MASON VS. GEORGE WASHINGTON (FIRST ROUND) (NOV 20)" tvg-logo="" group-title="sports",ESPN+ 050 | 02:00PM GEORGE MASON VS. GEORGE WASHINGTON (FIRST ROUND) (NOV 20)
+http://23.227.132.58:25461/Toolsplus/6969/224255
+#EXTINF:-1 tvg-name="ESPN+ 051 | 02:00PM MCNEESE VS. UT RIO GRANDE VALLEY (QUARTERFINAL) (NOV 20)" tvg-logo="" group-title="sports",ESPN+ 051 | 02:00PM MCNEESE VS. UT RIO GRANDE VALLEY (QUARTERFINAL) (NOV 20)
+http://23.227.132.58:25461/Toolsplus/6969/224256
+#EXTINF:-1 tvg-name="ESPN+ 053 | 02:00PM FOOTBALL: SOONER GAMEDAY (SOONER GAMEDAY) (NOV 20)" tvg-logo="" group-title="sports",ESPN+ 053 | 02:00PM FOOTBALL: SOONER GAMEDAY (SOONER GAMEDAY) (NOV 20)
+http://23.227.132.58:25461/Toolsplus/6969/224258
+#EXTINF:-1 tvg-name="ESPN+ 054 | 02:01PM SOCCER: FUTBOL PICANTE (FUTBOL PICANTE) (NOV 20)" tvg-logo="" group-title="sports",ESPN+ 054 | 02:01PM SOCCER: FUTBOL PICANTE (FUTBOL PICANTE) (NOV 20)
+http://23.227.132.58:25461/Toolsplus/6969/224259
+#EXTINF:-1 tvg-name="ESPN+ 055 | 02:01PM EQUESTRIAN: AUBURN VS. GEORGIA (AUBURN VS. GEORGIA) (NOV 20)" tvg-logo="" group-title="sports",ESPN+ 055 | 02:01PM EQUESTRIAN: AUBURN VS. GEORGIA (AUBURN VS. GEORGIA) (NOV 20)
+http://23.227.132.58:25461/Toolsplus/6969/224260
+#EXTINF:-1 tvg-name="ESPN+ 056 | 02:30PM SOUTH ALABAMA VS. GEORGIA SOUTHERN (QUARTERFINAL) (NOV 20)" tvg-logo="" group-title="sports",ESPN+ 056 | 02:30PM SOUTH ALABAMA VS. GEORGIA SOUTHERN (QUARTERFINAL) (NOV 20)
+http://23.227.132.58:25461/Toolsplus/6969/224261
+#EXTINF:-1 tvg-name="ESPN+ 057 | 02:30PM SANTA CLARA VS. PEPPERDINE (NOV 20)" tvg-logo="" group-title="sports",ESPN+ 057 | 02:30PM SANTA CLARA VS. PEPPERDINE (NOV 20)
+http://23.227.132.58:25461/Toolsplus/6969/224262
+#EXTINF:-1 tvg-name="ESPN+ 058 | 02:30PM SOUTH FLORIDA VS. FLORIDA ATLANTIC (QUARTERFINAL) (NOV 20)" tvg-logo="" group-title="sports",ESPN+ 058 | 02:30PM SOUTH FLORIDA VS. FLORIDA ATLANTIC (QUARTERFINAL) (NOV 20)
+http://23.227.132.58:25461/Toolsplus/6969/224263
+#EXTINF:-1 tvg-name="ESPN+ 059 | 02:30PM BASKETBALL: COLLEGE BASKETBALL SCOREBOARD (COLLEGE BASKETBALL SCOREBOARD) (NOV 20)" tvg-logo="" group-title="sports",ESPN+ 059 | 02:30PM BASKETBALL: COLLEGE BASKETBALL SCOREBOARD (COLLEGE BASKETBALL SCOREBOARD) (NOV 20)
+http://23.227.132.58:25461/Toolsplus/6969/224264
+#EXTINF:-1 tvg-name="ESPN+ 060 | 02:30PM FIELD HOCKEY: #4 UCONN VS. #1 NORTHWESTERN (#4 UCONN VS. #1 NORTHWESTERN) (NOV 20)" tvg-logo="" group-title="sports",ESPN+ 060 | 02:30PM FIELD HOCKEY: #4 UCONN VS. #1 NORTHWESTERN (#4 UCONN VS. #1 NORTHWESTERN) (NOV 20)
+http://23.227.132.58:25461/Toolsplus/6969/224265
+#EXTINF:-1 tvg-name="ESPN+ 061 | 02:30PM VOLLEYBALL: OKLAHOMA VS. ARKANSAS (OKLAHOMA VS. ARKANSAS) (NOV 20)" tvg-logo="" group-title="sports",ESPN+ 061 | 02:30PM VOLLEYBALL: OKLAHOMA VS. ARKANSAS (OKLAHOMA VS. ARKANSAS) (NOV 20)
+http://23.227.132.58:25461/Toolsplus/6969/224266
+#EXTINF:-1 tvg-name="ESPN+ 065 | 03:00PM UNC ASHEVILLE VS. GARDNER_WEBB (FIRST ROUND) (NOV 20)" tvg-logo="" group-title="sports",ESPN+ 065 | 03:00PM UNC ASHEVILLE VS. GARDNER_WEBB (FIRST ROUND) (NOV 20)
+http://23.227.132.58:25461/Toolsplus/6969/224267
+#EXTINF:-1 tvg-name="ESPN+ 066 | 03:00PM GRAND SLAM OF CURLING: NATIONAL (NOV 20)" tvg-logo="" group-title="sports",ESPN+ 066 | 03:00PM GRAND SLAM OF CURLING: NATIONAL (NOV 20)
+http://23.227.132.58:25461/Toolsplus/6969/224268
+#EXTINF:-1 tvg-name="ESPN+ 067 | 03:00PM NWPC CHAMPIONSHIPS (NOV 20)" tvg-logo="" group-title="sports",ESPN+ 067 | 03:00PM NWPC CHAMPIONSHIPS (NOV 20)
+http://23.227.132.58:25461/Toolsplus/6969/224269
+#EXTINF:-1 tvg-name="ESPN+ 068 | 03:00PM BRYANT VS. #2 VIRGINIA (FIRST ROUND) (NOV 20)" tvg-logo="" group-title="sports",ESPN+ 068 | 03:00PM BRYANT VS. #2 VIRGINIA (FIRST ROUND) (NOV 20)
+http://23.227.132.58:25461/Toolsplus/6969/224270
+#EXTINF:-1 tvg-name="ESPN+ 069 | 03:00PM INDIANA STATE VS. STEPHEN F. AUSTIN (GAME 2) (NOV 20)" tvg-logo="" group-title="sports",ESPN+ 069 | 03:00PM INDIANA STATE VS. STEPHEN F. AUSTIN (GAME 2) (NOV 20)
+http://23.227.132.58:25461/Toolsplus/6969/224271
+#EXTINF:-1 tvg-name="ESPN+ 070 | 03:00PM MIDDLE TENNESSEE VS. NEW MEXICO STATE (QUARTERFINAL) (NOV 20)" tvg-logo="" group-title="sports",ESPN+ 070 | 03:00PM MIDDLE TENNESSEE VS. NEW MEXICO STATE (QUARTERFINAL) (NOV 20)
+http://23.227.132.58:25461/Toolsplus/6969/224272
+#EXTINF:-1 tvg-name="ESPN+ 071 | 03:00PM #10 COLGATE VS. #14 CORNELL (NOV 20)" tvg-logo="" group-title="sports",ESPN+ 071 | 03:00PM #10 COLGATE VS. #14 CORNELL (NOV 20)
+http://23.227.132.58:25461/Toolsplus/6969/224273
+#EXTINF:-1 tvg-name="ESPN+ 072 | 03:00PM BUCKNELL VS. LEHIGH (SEMIFINAL) (NOV 20)" tvg-logo="" group-title="sports",ESPN+ 072 | 03:00PM BUCKNELL VS. LEHIGH (SEMIFINAL) (NOV 20)
+http://23.227.132.58:25461/Toolsplus/6969/224274
+#EXTINF:-1 tvg-name="ESPN+ 073 | 03:00PM UALBANY VS. WESTERN ILLINOIS (NOV 20)" tvg-logo="" group-title="sports",ESPN+ 073 | 03:00PM UALBANY VS. WESTERN ILLINOIS (NOV 20)
+http://23.227.132.58:25461/Toolsplus/6969/224275
+#EXTINF:-1 tvg-name="ESPN+ 075 | 03:00PM BASKETBALL: NBA TODAY (NBA TODAY) (NOV 20)" tvg-logo="" group-title="sports",ESPN+ 075 | 03:00PM BASKETBALL: NBA TODAY (NBA TODAY) (NOV 20)
+http://23.227.132.58:25461/Toolsplus/6969/224277
+#EXTINF:-1 tvg-name="ESPN+ 076 | 03:01PM BASKETBALL: NORTHWESTERN VS. VIRGINIA TECH (NORTHWESTERN VS. VIRGINIA TECH) (NOV 20)" tvg-logo="" group-title="sports",ESPN+ 076 | 03:01PM BASKETBALL: NORTHWESTERN VS. VIRGINIA TECH (NORTHWESTERN VS. VIRGINIA TECH) (NOV 20)
+http://23.227.132.58:25461/Toolsplus/6969/224278
+#EXTINF:-1 tvg-name="ESPN+ 077 | 03:01PM NCAA MEN`S BASKETBALL: NU VS. VT • ATH VS. ESP (NU VS. VT ) (NOV 20)" tvg-logo="" group-title="sports",ESPN+ 077 | 03:01PM NCAA MEN`S BASKETBALL: NU VS. VT • ATH VS. ESP (NU VS. VT ) (NOV 20)
+http://23.227.132.58:25461/Toolsplus/6969/224279
+#EXTINF:-1 tvg-name="ESPN+ 078 | 03:01PM SEC NETWORK +: THE PAUL FINEBAUM SHOW (THE PAUL FINEBAUM SHOW) (NOV 20)" tvg-logo="" group-title="sports",ESPN+ 078 | 03:01PM SEC NETWORK +: THE PAUL FINEBAUM SHOW (THE PAUL FINEBAUM SHOW) (NOV 20)
+http://23.227.132.58:25461/Toolsplus/6969/224280
+#EXTINF:-1 tvg-name="ESPN+ 079 | 04:00PM MID_AMERICAN WOMEN`S VOLLEYBALL CHAMPIONSHIP (QUARTERFINAL) (NOV 20)" tvg-logo="" group-title="sports",ESPN+ 079 | 04:00PM MID_AMERICAN WOMEN`S VOLLEYBALL CHAMPIONSHIP (QUARTERFINAL) (NOV 20)
+http://23.227.132.58:25461/Toolsplus/6969/224281
+#EXTINF:-1 tvg-name="ESPN+ 080 | 04:00PM SIMMONS (KY) VS. EASTERN KENTUCKY (NOV 20)" tvg-logo="" group-title="sports",ESPN+ 080 | 04:00PM SIMMONS (KY) VS. EASTERN KENTUCKY (NOV 20)
+http://23.227.132.58:25461/Toolsplus/6969/224282
+#EXTINF:-1 tvg-name="ESPN+ 081 | 04:00PM FURMAN VS. UNC GREENSBORO (QUARTERFINAL) (NOV 20)" tvg-logo="" group-title="sports",ESPN+ 081 | 04:00PM FURMAN VS. UNC GREENSBORO (QUARTERFINAL) (NOV 20)
+http://23.227.132.58:25461/Toolsplus/6969/224283
+#EXTINF:-1 tvg-name="ESPN+ 082 | 04:00PM ASUN VOLLEYBALL CHAMPIONSHIP (SEMIFINAL) (NOV 20)" tvg-logo="" group-title="sports",ESPN+ 082 | 04:00PM ASUN VOLLEYBALL CHAMPIONSHIP (SEMIFINAL) (NOV 20)
+http://23.227.132.58:25461/Toolsplus/6969/224284
+#EXTINF:-1 tvg-name="ESPN+ 083 | 04:00PM SOUTH DAKOTA STATE VS. IDAHO STATE (NOV 20)" tvg-logo="" group-title="sports",ESPN+ 083 | 04:00PM SOUTH DAKOTA STATE VS. IDAHO STATE (NOV 20)
+http://23.227.132.58:25461/Toolsplus/6969/224285
+#EXTINF:-1 tvg-name="ESPN+ 084 | 04:00PM UAC WOMEN`S VOLLEYBALL CHAMPIONSHIP (SEMIFINAL) (NOV 20)" tvg-logo="" group-title="sports",ESPN+ 084 | 04:00PM UAC WOMEN`S VOLLEYBALL CHAMPIONSHIP (SEMIFINAL) (NOV 20)
+http://23.227.132.58:25461/Toolsplus/6969/224286
+#EXTINF:-1 tvg-name="ESPN+ 085 | 04:00PM IVY LEAGUE WOMEN`S VB CHAMPIONSHIP (SEMIFINAL) (NOV 20)" tvg-logo="" group-title="sports",ESPN+ 085 | 04:00PM IVY LEAGUE WOMEN`S VB CHAMPIONSHIP (SEMIFINAL) (NOV 20)
+http://23.227.132.58:25461/Toolsplus/6969/224287
+#EXTINF:-1 tvg-name="ESPN+ 086 | 04:00PM FOOTBALL: NFL LIVE (NFL LIVE) (NOV 20)" tvg-logo="" group-title="sports",ESPN+ 086 | 04:00PM FOOTBALL: NFL LIVE (NFL LIVE) (NOV 20)
+http://23.227.132.58:25461/Toolsplus/6969/224288
+#EXTINF:-1 tvg-name="ESPN+ 087 | 04:30PM PACIFIC VS. SAN JOSé STATE (NOV 20)" tvg-logo="" group-title="sports",ESPN+ 087 | 04:30PM PACIFIC VS. SAN JOSé STATE (NOV 20)
+http://23.227.132.58:25461/Toolsplus/6969/224289
+#EXTINF:-1 tvg-name="ESPN+ 088 | 04:30PM DUQUESNE VS. LOYOLA CHICAGO (FIRST ROUND) (NOV 20)" tvg-logo="" group-title="sports",ESPN+ 088 | 04:30PM DUQUESNE VS. LOYOLA CHICAGO (FIRST ROUND) (NOV 20)
+http://23.227.132.58:25461/Toolsplus/6969/224290
+#EXTINF:-1 tvg-name="ESPN+ 089 | 05:00PM METRO CONFERENCE WOMEN`S VOLLEYBALL CHAMPIONSHIP (SEMIFINAL) (NOV 20)" tvg-logo="" group-title="sports",ESPN+ 089 | 05:00PM METRO CONFERENCE WOMEN`S VOLLEYBALL CHAMPIONSHIP (SEMIFINAL) (NOV 20)
+http://23.227.132.58:25461/Toolsplus/6969/224291
+#EXTINF:-1 tvg-name="ESPN+ 090 | 05:00PM YOUNGSTOWN STATE INVITE (NOV 20)" tvg-logo="" group-title="sports",ESPN+ 090 | 05:00PM YOUNGSTOWN STATE INVITE (NOV 20)
+http://23.227.132.58:25461/Toolsplus/6969/224292
+#EXTINF:-1 tvg-name="ESPN+ 091 | 05:00PM UCF VS. #5 FLORIDA STATE (FIRST ROUND) (NOV 20)" tvg-logo="" group-title="sports",ESPN+ 091 | 05:00PM UCF VS. #5 FLORIDA STATE (FIRST ROUND) (NOV 20)
+http://23.227.132.58:25461/Toolsplus/6969/224293
+#EXTINF:-1 tvg-name="ESPN+ 092 | 05:00PM BRUNO INVITE (NOV 20)" tvg-logo="" group-title="sports",ESPN+ 092 | 05:00PM BRUNO INVITE (NOV 20)
+http://23.227.132.58:25461/Toolsplus/6969/224294
+#EXTINF:-1 tvg-name="ESPN+ 094 | 05:00PM TEXAS A&M_CORPUS CHRISTI VS. STEPHEN F. AUSTIN (QUARTERFINAL) (NOV 20)" tvg-logo="" group-title="sports",ESPN+ 094 | 05:00PM TEXAS A&M_CORPUS CHRISTI VS. STEPHEN F. AUSTIN (QUARTERFINAL) (NOV 20)
+http://23.227.132.58:25461/Toolsplus/6969/224295
+#EXTINF:-1 tvg-name="ESPN+ 095 | 05:00PM FOOTBALL: FANTASY FOCUS (FANTASY FOCUS) (NOV 20)" tvg-logo="" group-title="sports",ESPN+ 095 | 05:00PM FOOTBALL: FANTASY FOCUS (FANTASY FOCUS) (NOV 20)
+http://23.227.132.58:25461/Toolsplus/6969/224296
+#EXTINF:-1 tvg-name="ESPN+ 096 | 05:00PM FOOTBALL: COLLEGE FOOTBALL LIVE (COLLEGE FOOTBALL LIVE) (NOV 20)" tvg-logo="" group-title="sports",ESPN+ 096 | 05:00PM FOOTBALL: COLLEGE FOOTBALL LIVE (COLLEGE FOOTBALL LIVE) (NOV 20)
+http://23.227.132.58:25461/Toolsplus/6969/224297
+#EXTINF:-1 tvg-name="ESPN+ 097 | 05:00PM FOOTBALL: NFL FANTASY LIVE (NFL FANTASY LIVE) (NOV 20)" tvg-logo="" group-title="sports",ESPN+ 097 | 05:00PM FOOTBALL: NFL FANTASY LIVE (NFL FANTASY LIVE) (NOV 20)
+http://23.227.132.58:25461/Toolsplus/6969/224298
+#EXTINF:-1 tvg-name="ESPN+ 098 | 05:00PM BASKETBALL: UNC ASHEVILLE VS. CLEMSON (UNC ASHEVILLE VS. CLEMSON) (NOV 20)" tvg-logo="" group-title="sports",ESPN+ 098 | 05:00PM BASKETBALL: UNC ASHEVILLE VS. CLEMSON (UNC ASHEVILLE VS. CLEMSON) (NOV 20)
+http://23.227.132.58:25461/Toolsplus/6969/224299
+#EXTINF:-1 tvg-name="ESPN+ 099 | 05:00PM NCAA MEN`S BASKETBALL: MANHATTAN VS. #17 MIAMI (MANHATTAN VS. #17 MIAMI) (NOV 20)" tvg-logo="" group-title="sports",ESPN+ 099 | 05:00PM NCAA MEN`S BASKETBALL: MANHATTAN VS. #17 MIAMI (MANHATTAN VS. #17 MIAMI) (NOV 20)
+http://23.227.132.58:25461/Toolsplus/6969/224300
+#EXTINF:-1 tvg-name="ESPN+ 100 | 05:01PM VOLLEYBALL: SOUTH CAROLINA VS. LSU (SOUTH CAROLINA VS. LSU) (NOV 20)" tvg-logo="" group-title="sports",ESPN+ 100 | 05:01PM VOLLEYBALL: SOUTH CAROLINA VS. LSU (SOUTH CAROLINA VS. LSU) (NOV 20)
+http://23.227.132.58:25461/Toolsplus/6969/224301
+#EXTINF:-1 tvg-name="ESPN+ 101 | 05:30PM UT MARTIN VS. SOUTHERN ILLINOIS (GAME 3) (NOV 20)" tvg-logo="" group-title="sports",ESPN+ 101 | 05:30PM UT MARTIN VS. SOUTHERN ILLINOIS (GAME 3) (NOV 20)
+http://23.227.132.58:25461/Toolsplus/6969/224302
+#EXTINF:-1 tvg-name="ESPN+ 102 | 05:30PM UCF FOOTBALL PREGAME SHOW (NOV 20)" tvg-logo="" group-title="sports",ESPN+ 102 | 05:30PM UCF FOOTBALL PREGAME SHOW (NOV 20)
+http://23.227.132.58:25461/Toolsplus/6969/224303
+#EXTINF:-1 tvg-name="ESPN+ 103 | 05:30PM SOUTHERN MISS VS. ARKANSAS STATE (QUARTERFINAL) (NOV 20)" tvg-logo="" group-title="sports",ESPN+ 103 | 05:30PM SOUTHERN MISS VS. ARKANSAS STATE (QUARTERFINAL) (NOV 20)
+http://23.227.132.58:25461/Toolsplus/6969/224304
+#EXTINF:-1 tvg-name="ESPN+ 104 | 05:30PM TOWSON VS. LEHIGH (NOV 20)" tvg-logo="" group-title="sports",ESPN+ 104 | 05:30PM TOWSON VS. LEHIGH (NOV 20)
+http://23.227.132.58:25461/Toolsplus/6969/224305
+#EXTINF:-1 tvg-name="ESPN+ 105 | 05:30PM MERCYHURST VS. CANISIUS (NOV 20)" tvg-logo="" group-title="sports",ESPN+ 105 | 05:30PM MERCYHURST VS. CANISIUS (NOV 20)
+http://23.227.132.58:25461/Toolsplus/6969/224306
+#EXTINF:-1 tvg-name="ESPN+ 106 | 05:30PM BASKETBALL: DAYTON VS. UTAH (DAYTON VS. UTAH) (NOV 20)" tvg-logo="" group-title="sports",ESPN+ 106 | 05:30PM BASKETBALL: DAYTON VS. UTAH (DAYTON VS. UTAH) (NOV 20)
+http://23.227.132.58:25461/Toolsplus/6969/224307
+#EXTINF:-1 tvg-name="ESPN+ 107 | 05:30PM NCAA MEN`S BASKETBALL: MAN VS. #17 MIA • DAY VS. UTAH (MAN VS. #17 MIA ) (NOV 20)" tvg-logo="" group-title="sports",ESPN+ 107 | 05:30PM NCAA MEN`S BASKETBALL: MAN VS. #17 MIA • DAY VS. UTAH (MAN VS. #17 MIA ) (NOV 20)
+http://23.227.132.58:25461/Toolsplus/6969/224308
+#EXTINF:-1 tvg-name="ESPN+ 108 | 05:30PM SWIMMING AND DIVING: UGA FALL INVITATIONAL (SWIM FINALS) (UGA FALL INVITATIONAL (SWIM FINALS)) (NOV 20)" tvg-logo="" group-title="sports",ESPN+ 108 | 05:30PM SWIMMING AND DIVING: UGA FALL INVITATIONAL (SWIM FINALS) (UGA FALL INVITATIONAL (SWIM FINALS)) (NOV 20)
+http://23.227.132.58:25461/Toolsplus/6969/224309
+#EXTINF:-1 tvg-name="ESPN+ 109 | 05:31PM SWIMMING AND DIVING: TENNESSEE INVITATIONAL (TENNESSEE INVITATIONAL) (NOV 20)" tvg-logo="" group-title="sports",ESPN+ 109 | 05:31PM SWIMMING AND DIVING: TENNESSEE INVITATIONAL (TENNESSEE INVITATIONAL) (NOV 20)
+http://23.227.132.58:25461/Toolsplus/6969/224310
+#EXTINF:-1 tvg-name="ESPN+ 110 | 05:31PM SWIMMING AND DIVING: UGA FALL INVITATIONAL (DIVE FINALS) (UGA FALL INVITATIONAL (DIVE FINALS)) (NOV 20)" tvg-logo="" group-title="sports",ESPN+ 110 | 05:31PM SWIMMING AND DIVING: UGA FALL INVITATIONAL (DIVE FINALS) (UGA FALL INVITATIONAL (DIVE FINALS)) (NOV 20)
+http://23.227.132.58:25461/Toolsplus/6969/224311
+#EXTINF:-1 tvg-name="ESPN+ 111 | 05:50PM #4 PRINCETON VS. #8 CLARKSON (NOV 20)" tvg-logo="" group-title="sports",ESPN+ 111 | 05:50PM #4 PRINCETON VS. #8 CLARKSON (NOV 20)
+http://23.227.132.58:25461/Toolsplus/6969/224312
+#EXTINF:-1 tvg-name="ESPN+ 112 | 06:00PM WISCONSIN VS. #8 LOUISVILLE (FIRST ROUND) (NOV 20)" tvg-logo="" group-title="sports",ESPN+ 112 | 06:00PM WISCONSIN VS. #8 LOUISVILLE (FIRST ROUND) (NOV 20)
+http://23.227.132.58:25461/Toolsplus/6969/224313
+#EXTINF:-1 tvg-name="ESPN+ 113 | 06:00PM UAB VS. #4 SOUTH CAROLINA (FIRST ROUND) (NOV 20)" tvg-logo="" group-title="sports",ESPN+ 113 | 06:00PM UAB VS. #4 SOUTH CAROLINA (FIRST ROUND) (NOV 20)
+http://23.227.132.58:25461/Toolsplus/6969/224314
+#EXTINF:-1 tvg-name="ESPN+ 114 | 06:00PM MILWAUKEE VS. GREEN BAY (SECOND ROUND) (NOV 20)" tvg-logo="" group-title="sports",ESPN+ 114 | 06:00PM MILWAUKEE VS. GREEN BAY (SECOND ROUND) (NOV 20)
+http://23.227.132.58:25461/Toolsplus/6969/224315
+#EXTINF:-1 tvg-name="ESPN+ 115 | 06:00PM CENTRAL BAPTIST VS. INCARNATE WORD (NOV 20)" tvg-logo="" group-title="sports",ESPN+ 115 | 06:00PM CENTRAL BAPTIST VS. INCARNATE WORD (NOV 20)
+http://23.227.132.58:25461/Toolsplus/6969/224316
+#EXTINF:-1 tvg-name="ESPN+ 116 | 06:00PM KENNESAW STATE VS. MISSOURI STATE (QUARTERFINAL) (NOV 20)" tvg-logo="" group-title="sports",ESPN+ 116 | 06:00PM KENNESAW STATE VS. MISSOURI STATE (QUARTERFINAL) (NOV 20)
+http://23.227.132.58:25461/Toolsplus/6969/224317
+#EXTINF:-1 tvg-name="ESPN+ 117 | 06:00PM PATRIOT INVITATIONAL (NOV 20)" tvg-logo="" group-title="sports",ESPN+ 117 | 06:00PM PATRIOT INVITATIONAL (NOV 20)
+http://23.227.132.58:25461/Toolsplus/6969/224318
+#EXTINF:-1 tvg-name="ESPN+ 118 | 06:00PM NORTH CAROLINA A&T VS. NAVY (NOV 20)" tvg-logo="" group-title="sports",ESPN+ 118 | 06:00PM NORTH CAROLINA A&T VS. NAVY (NOV 20)
+http://23.227.132.58:25461/Toolsplus/6969/224319
+#EXTINF:-1 tvg-name="ESPN+ 119 | 06:00PM MILWAUKEE VS. #2 NOTRE DAME (FIRST ROUND) (NOV 20)" tvg-logo="" group-title="sports",ESPN+ 119 | 06:00PM MILWAUKEE VS. #2 NOTRE DAME (FIRST ROUND) (NOV 20)
+http://23.227.132.58:25461/Toolsplus/6969/224320
+#EXTINF:-1 tvg-name="ESPN+ 120 | 06:00PM WORCESTER STATE VS. BRYANT (NOV 20)" tvg-logo="" group-title="sports",ESPN+ 120 | 06:00PM WORCESTER STATE VS. BRYANT (NOV 20)
+http://23.227.132.58:25461/Toolsplus/6969/224321
+#EXTINF:-1 tvg-name="ESPN+ 121 | 06:00PM TERRIER INVITATIONAL (NOV 20)" tvg-logo="" group-title="sports",ESPN+ 121 | 06:00PM TERRIER INVITATIONAL (NOV 20)
+http://23.227.132.58:25461/Toolsplus/6969/224322
+#EXTINF:-1 tvg-name="ESPN+ 122 | 06:00PM PRESBYTERIAN VS. RADFORD (FIRST ROUND) (NOV 20)" tvg-logo="" group-title="sports",ESPN+ 122 | 06:00PM PRESBYTERIAN VS. RADFORD (FIRST ROUND) (NOV 20)
+http://23.227.132.58:25461/Toolsplus/6969/224323
+#EXTINF:-1 tvg-name="ESPN+ 123 | 06:00PM DELAWARE VS. CAL STATE NORTHRIDGE (NOV 20)" tvg-logo="" group-title="sports",ESPN+ 123 | 06:00PM DELAWARE VS. CAL STATE NORTHRIDGE (NOV 20)
+http://23.227.132.58:25461/Toolsplus/6969/224324
+#EXTINF:-1 tvg-name="ESPN+ 124 | 06:01PM LIPSCOMB VS. #1 OHIO STATE (FIRST ROUND) (NOV 20)" tvg-logo="" group-title="sports",ESPN+ 124 | 06:01PM LIPSCOMB VS. #1 OHIO STATE (FIRST ROUND) (NOV 20)
+http://23.227.132.58:25461/Toolsplus/6969/224325
+#EXTINF:-1 tvg-name="ESPN+ 125 | 06:01PM NORTH TEXAS VS. TULANE (QUARTERFINAL) (NOV 20)" tvg-logo="" group-title="sports",ESPN+ 125 | 06:01PM NORTH TEXAS VS. TULANE (QUARTERFINAL) (NOV 20)
+http://23.227.132.58:25461/Toolsplus/6969/224326
+#EXTINF:-1 tvg-name="ESPN+ 126 | 06:01PM FLORIDA GULF COAST VS. GEORGIA SOUTHERN (NOV 20)" tvg-logo="" group-title="sports",ESPN+ 126 | 06:01PM FLORIDA GULF COAST VS. GEORGIA SOUTHERN (NOV 20)
+http://23.227.132.58:25461/Toolsplus/6969/224327
+#EXTINF:-1 tvg-name="ESPN+ 127 | 06:01PM #6 QUINNIPIAC VS. ST. LAWRENCE (NOV 20)" tvg-logo="" group-title="sports",ESPN+ 127 | 06:01PM #6 QUINNIPIAC VS. ST. LAWRENCE (NOV 20)
+http://23.227.132.58:25461/Toolsplus/6969/224328
+#EXTINF:-1 tvg-name="ESPN+ 128 | 06:01PM HOLY CROSS VS. NEW HAMPSHIRE (NOV 20)" tvg-logo="" group-title="sports",ESPN+ 128 | 06:01PM HOLY CROSS VS. NEW HAMPSHIRE (NOV 20)
+http://23.227.132.58:25461/Toolsplus/6969/224329
+#EXTINF:-1 tvg-name="ESPN+ 129 | 06:01PM BIG AL INVITATIONAL (NOV 20)" tvg-logo="" group-title="sports",ESPN+ 129 | 06:01PM BIG AL INVITATIONAL (NOV 20)
+http://23.227.132.58:25461/Toolsplus/6969/224330
+#EXTINF:-1 tvg-name="ESPN+ 130 | 06:01PM VILLANOVA VS. #6 PENN STATE (FIRST ROUND) (NOV 20)" tvg-logo="" group-title="sports",ESPN+ 130 | 06:01PM VILLANOVA VS. #6 PENN STATE (FIRST ROUND) (NOV 20)
+http://23.227.132.58:25461/Toolsplus/6969/224331
+#EXTINF:-1 tvg-name="ESPN+ 131 | 06:01PM WESTERN MICHIGAN VS. #6 MICHIGAN (FIRST ROUND) (NOV 20)" tvg-logo="" group-title="sports",ESPN+ 131 | 06:01PM WESTERN MICHIGAN VS. #6 MICHIGAN (FIRST ROUND) (NOV 20)
+http://23.227.132.58:25461/Toolsplus/6969/224332
+#EXTINF:-1 tvg-name="ESPN+ 132 | 06:01PM #9 UCONN VS. VERMONT (NOV 20)" tvg-logo="" group-title="sports",ESPN+ 132 | 06:01PM #9 UCONN VS. VERMONT (NOV 20)
+http://23.227.132.58:25461/Toolsplus/6969/224333
+#EXTINF:-1 tvg-name="ESPN+ 133 | 06:01PM NEW HAVEN VS. RHODE ISLAND (NOV 20)" tvg-logo="" group-title="sports",ESPN+ 133 | 06:01PM NEW HAVEN VS. RHODE ISLAND (NOV 20)
+http://23.227.132.58:25461/Toolsplus/6969/224334
+#EXTINF:-1 tvg-name="ESPN+ 134 | 06:01PM LIBERTY VS. #8 TENNESSEE (FIRST ROUND) (NOV 20)" tvg-logo="" group-title="sports",ESPN+ 134 | 06:01PM LIBERTY VS. #8 TENNESSEE (FIRST ROUND) (NOV 20)
+http://23.227.132.58:25461/Toolsplus/6969/224335
+#EXTINF:-1 tvg-name="ESPN+ 135 | 06:02PM BASKETBALL: MARSHALL VS. #12 KENTUCKY (MARSHALL VS. #12 KENTUCKY) (NOV 20)" tvg-logo="" group-title="sports",ESPN+ 135 | 06:02PM BASKETBALL: MARSHALL VS. #12 KENTUCKY (MARSHALL VS. #12 KENTUCKY) (NOV 20)
+http://23.227.132.58:25461/Toolsplus/6969/224336
+#EXTINF:-1 tvg-name="ESPN+ 136 | 06:02PM BASKETBALL: UMASS VS. BOSTON COLLEGE (UMASS VS. BOSTON COLLEGE) (NOV 20)" tvg-logo="" group-title="sports",ESPN+ 136 | 06:02PM BASKETBALL: UMASS VS. BOSTON COLLEGE (UMASS VS. BOSTON COLLEGE) (NOV 20)
+http://23.227.132.58:25461/Toolsplus/6969/224337
+#EXTINF:-1 tvg-name="ESPN+ 137 | 06:02PM BASKETBALL: THE HOOP COLLECTIVE (THE HOOP COLLECTIVE) (NOV 20)" tvg-logo="" group-title="sports",ESPN+ 137 | 06:02PM BASKETBALL: THE HOOP COLLECTIVE (THE HOOP COLLECTIVE) (NOV 20)
+http://23.227.132.58:25461/Toolsplus/6969/224338
+#EXTINF:-1 tvg-name="ESPN+ 138 | 06:02PM NCAA WOMEN`S BASKETBALL: MRSH VS. #12 UK • MASS VS. BC (MRSH VS. #12 UK ) (NOV 20)" tvg-logo="" group-title="sports",ESPN+ 138 | 06:02PM NCAA WOMEN`S BASKETBALL: MRSH VS. #12 UK • MASS VS. BC (MRSH VS. #12 UK ) (NOV 20)
+http://23.227.132.58:25461/Toolsplus/6969/224339
+#EXTINF:-1 tvg-name="ESPN+ 139 | 06:04PM VOLLEYBALL: GEORGIA TECH VS. CLEMSON (GEORGIA TECH VS. CLEMSON) (NOV 20)" tvg-logo="" group-title="sports",ESPN+ 139 | 06:04PM VOLLEYBALL: GEORGIA TECH VS. CLEMSON (GEORGIA TECH VS. CLEMSON) (NOV 20)
+http://23.227.132.58:25461/Toolsplus/6969/224340
+#EXTINF:-1 tvg-name="ESPN+ 140 | 06:04PM VOLLEYBALL: #4 SMU VS. VIRGINIA TECH (#4 SMU VS. VIRGINIA TECH) (NOV 20)" tvg-logo="" group-title="sports",ESPN+ 140 | 06:04PM VOLLEYBALL: #4 SMU VS. VIRGINIA TECH (#4 SMU VS. VIRGINIA TECH) (NOV 20)
+http://23.227.132.58:25461/Toolsplus/6969/224341
+#EXTINF:-1 tvg-name="ESPN+ 141 | 06:30PM ALICE LLOYD VS. BELLARMINE (NOV 20)" tvg-logo="" group-title="sports",ESPN+ 141 | 06:30PM ALICE LLOYD VS. BELLARMINE (NOV 20)
+http://23.227.132.58:25461/Toolsplus/6969/224342
+#EXTINF:-1 tvg-name="ESPN+ 142 | 06:30PM ORAL ROBERTS VS. #4 KANSAS (FIRST ROUND) (NOV 20)" tvg-logo="" group-title="sports",ESPN+ 142 | 06:30PM ORAL ROBERTS VS. #4 KANSAS (FIRST ROUND) (NOV 20)
+http://23.227.132.58:25461/Toolsplus/6969/224343
+#EXTINF:-1 tvg-name="ESPN+ 143 | 06:30PM COLGATE VS. AMERICAN UNIVERSITY (SEMIFINAL) (NOV 20)" tvg-logo="" group-title="sports",ESPN+ 143 | 06:30PM COLGATE VS. AMERICAN UNIVERSITY (SEMIFINAL) (NOV 20)
+http://23.227.132.58:25461/Toolsplus/6969/224344
+#EXTINF:-1 tvg-name="ESPN+ 144 | 06:30PM TRINITY COLLEGE OF JACKSONVILLE VS. JACKSONVILLE (NOV 20)" tvg-logo="" group-title="sports",ESPN+ 144 | 06:30PM TRINITY COLLEGE OF JACKSONVILLE VS. JACKSONVILLE (NOV 20)
+http://23.227.132.58:25461/Toolsplus/6969/224345
+#EXTINF:-1 tvg-name="ESPN+ 145 | 06:30PM CHARLESTON SOUTHERN VS. FURMAN (NOV 20)" tvg-logo="" group-title="sports",ESPN+ 145 | 06:30PM CHARLESTON SOUTHERN VS. FURMAN (NOV 20)
+http://23.227.132.58:25461/Toolsplus/6969/224346
+#EXTINF:-1 tvg-name="ESPN+ 146 | 06:30PM TENNESEE TECH VS. EAST TENNESSEE STATE (QUARTERFINAL) (NOV 20)" tvg-logo="" group-title="sports",ESPN+ 146 | 06:30PM TENNESEE TECH VS. EAST TENNESSEE STATE (QUARTERFINAL) (NOV 20)
+http://23.227.132.58:25461/Toolsplus/6969/224347
+#EXTINF:-1 tvg-name="ESPN+ 147 | 06:30PM NORTH TEXAS VS. APP STATE (NOV 20)" tvg-logo="" group-title="sports",ESPN+ 147 | 06:30PM NORTH TEXAS VS. APP STATE (NOV 20)
+http://23.227.132.58:25461/Toolsplus/6969/224348
+#EXTINF:-1 tvg-name="ESPN+ 148 | 06:30PM BASKETBALL: UK BASKETBALL: COUNTDOWN TO TIP_OFF (UK BASKETBALL: COUNTDOWN TO TIP_OFF) (NOV 20)" tvg-logo="" group-title="sports",ESPN+ 148 | 06:30PM BASKETBALL: UK BASKETBALL: COUNTDOWN TO TIP_OFF (UK BASKETBALL: COUNTDOWN TO TIP_OFF) (NOV 20)
+http://23.227.132.58:25461/Toolsplus/6969/224349
+#EXTINF:-1 tvg-name="ESPN+ 149 | 06:31PM SWIMMING AND DIVING: MIZZOU INVITE _ FINALS (MIZZOU INVITE _ FINALS) (NOV 20)" tvg-logo="" group-title="sports",ESPN+ 149 | 06:31PM SWIMMING AND DIVING: MIZZOU INVITE _ FINALS (MIZZOU INVITE _ FINALS) (NOV 20)
+http://23.227.132.58:25461/Toolsplus/6969/224350
+#EXTINF:-1 tvg-name="ESPN+ 150 | 06:31PM VOLLEYBALL: NC STATE VS. NOTRE DAME (NC STATE VS. NOTRE DAME) (NOV 20)" tvg-logo="" group-title="sports",ESPN+ 150 | 06:31PM VOLLEYBALL: NC STATE VS. NOTRE DAME (NC STATE VS. NOTRE DAME) (NOV 20)
+http://23.227.132.58:25461/Toolsplus/6969/224351
+#EXTINF:-1 tvg-name="ESPN+ 151 | 06:45PM SAINT MARY`S VS. LOYOLA MARYMOUNT (NOV 20)" tvg-logo="" group-title="sports",ESPN+ 151 | 06:45PM SAINT MARY`S VS. LOYOLA MARYMOUNT (NOV 20)
+http://23.227.132.58:25461/Toolsplus/6969/224352
+#EXTINF:-1 tvg-name="ESPN+ 152 | 07:00PM CLARKSON VS. CORNELL (NOV 20)" tvg-logo="" group-title="sports",ESPN+ 152 | 07:00PM CLARKSON VS. CORNELL (NOV 20)
+http://23.227.132.58:25461/Toolsplus/6969/224353
+#EXTINF:-1 tvg-name="ESPN+ 153 | 07:00PM HOUSTON VS. #5 TEXAS (FIRST ROUND) (NOV 20)" tvg-logo="" group-title="sports",ESPN+ 153 | 07:00PM HOUSTON VS. #5 TEXAS (FIRST ROUND) (NOV 20)
+http://23.227.132.58:25461/Toolsplus/6969/224354
+#EXTINF:-1 tvg-name="ESPN+ 154 | 07:00PM UT MARTIN VS. SOUTHERN ILLINOIS (NOV 20)" tvg-logo="" group-title="sports",ESPN+ 154 | 07:00PM UT MARTIN VS. SOUTHERN ILLINOIS (NOV 20)
+http://23.227.132.58:25461/Toolsplus/6969/224355
+#EXTINF:-1 tvg-name="ESPN+ 156 | 07:00PM MILWAUKEE VS. WESTERN MICHIGAN (NOV 20)" tvg-logo="" group-title="sports",ESPN+ 156 | 07:00PM MILWAUKEE VS. WESTERN MICHIGAN (NOV 20)
+http://23.227.132.58:25461/Toolsplus/6969/224357
+#EXTINF:-1 tvg-name="ESPN+ 157 | 07:00PM SOUTH DAKOTA VS. VALPARAISO (NOV 20)" tvg-logo="" group-title="sports",ESPN+ 157 | 07:00PM SOUTH DAKOTA VS. VALPARAISO (NOV 20)
+http://23.227.132.58:25461/Toolsplus/6969/224358
+#EXTINF:-1 tvg-name="ESPN+ 158 | 07:00PM GRAND SLAM OF CURLING: NATIONAL (NOV 20)" tvg-logo="" group-title="sports",ESPN+ 158 | 07:00PM GRAND SLAM OF CURLING: NATIONAL (NOV 20)
+http://23.227.132.58:25461/Toolsplus/6969/224359
+#EXTINF:-1 tvg-name="ESPN+ 159 | 07:00PM MID_AMERICAN WOMEN`S VOLLEYBALL CHAMPIONSHIP (QUARTERFINAL) (NOV 20)" tvg-logo="" group-title="sports",ESPN+ 159 | 07:00PM MID_AMERICAN WOMEN`S VOLLEYBALL CHAMPIONSHIP (QUARTERFINAL) (NOV 20)
+http://23.227.132.58:25461/Toolsplus/6969/224360
+#EXTINF:-1 tvg-name="ESPN+ 160 | 07:00PM #13 BOSTON UNIVERSITY VS. #17 MERRIMACK (NOV 20)" tvg-logo="" group-title="sports",ESPN+ 160 | 07:00PM #13 BOSTON UNIVERSITY VS. #17 MERRIMACK (NOV 20)
+http://23.227.132.58:25461/Toolsplus/6969/224361
+#EXTINF:-1 tvg-name="ESPN+ 161 | 07:00PM WESTERN MICHIGAN VS. MOUNT ST. MARY`S (NOV 20)" tvg-logo="" group-title="sports",ESPN+ 161 | 07:00PM WESTERN MICHIGAN VS. MOUNT ST. MARY`S (NOV 20)
+http://23.227.132.58:25461/Toolsplus/6969/224362
+#EXTINF:-1 tvg-name="ESPN+ 162 | 07:00PM IVY LEAGUE WOMEN`S VB CHAMPIONSHIP (SEMIFINAL) (NOV 20)" tvg-logo="" group-title="sports",ESPN+ 162 | 07:00PM IVY LEAGUE WOMEN`S VB CHAMPIONSHIP (SEMIFINAL) (NOV 20)
+http://23.227.132.58:25461/Toolsplus/6969/224363
+#EXTINF:-1 tvg-name="ESPN+ 163 | 07:00PM CHARGERS VS. DEVILS (NOV 20)" tvg-logo="" group-title="sports",ESPN+ 163 | 07:00PM CHARGERS VS. DEVILS (NOV 20)
+http://23.227.132.58:25461/Toolsplus/6969/224364
+#EXTINF:-1 tvg-name="ESPN+ 164 | 07:01PM ABILENE CHRISTIAN VS. #3 TEXAS TECH (FIRST ROUND) (NOV 20)" tvg-logo="" group-title="sports",ESPN+ 164 | 07:01PM ABILENE CHRISTIAN VS. #3 TEXAS TECH (FIRST ROUND) (NOV 20)
+http://23.227.132.58:25461/Toolsplus/6969/224365
+#EXTINF:-1 tvg-name="ESPN+ 165 | 07:01PM HOFSTRA VS. COLUMBIA (NOV 20)" tvg-logo="" group-title="sports",ESPN+ 165 | 07:01PM HOFSTRA VS. COLUMBIA (NOV 20)
+http://23.227.132.58:25461/Toolsplus/6969/224366
+#EXTINF:-1 tvg-name="ESPN+ 166 | 07:01PM BOSTON COLLEGE VS. #20 MAINE (NOV 20)" tvg-logo="" group-title="sports",ESPN+ 166 | 07:01PM BOSTON COLLEGE VS. #20 MAINE (NOV 20)
+http://23.227.132.58:25461/Toolsplus/6969/224367
+#EXTINF:-1 tvg-name="ESPN+ 167 | 07:01PM OLD DOMINION VS. #7 WEST VIRGINIA (FIRST ROUND) (NOV 20)" tvg-logo="" group-title="sports",ESPN+ 167 | 07:01PM OLD DOMINION VS. #7 WEST VIRGINIA (FIRST ROUND) (NOV 20)
+http://23.227.132.58:25461/Toolsplus/6969/224368
+#EXTINF:-1 tvg-name="ESPN+ 168 | 07:01PM UAC WOMEN`S VOLLEYBALL CHAMPIONSHIP (SEMIFINAL) (NOV 20)" tvg-logo="" group-title="sports",ESPN+ 168 | 07:01PM UAC WOMEN`S VOLLEYBALL CHAMPIONSHIP (SEMIFINAL) (NOV 20)
+http://23.227.132.58:25461/Toolsplus/6969/224369
+#EXTINF:-1 tvg-name="ESPN+ 169 | 07:01PM SOUTH CAROLINA STATE VS. THE CITADEL (NOV 20)" tvg-logo="" group-title="sports",ESPN+ 169 | 07:01PM SOUTH CAROLINA STATE VS. THE CITADEL (NOV 20)
+http://23.227.132.58:25461/Toolsplus/6969/224370
+#EXTINF:-1 tvg-name="ESPN+ 170 | 07:01PM GEORGIA STATE VS. JACKSONVILLE STATE (NOV 20)" tvg-logo="" group-title="sports",ESPN+ 170 | 07:01PM GEORGIA STATE VS. JACKSONVILLE STATE (NOV 20)
+http://23.227.132.58:25461/Toolsplus/6969/224371
+#EXTINF:-1 tvg-name="ESPN+ 171 | 07:01PM MONMOUTH VS. PRINCETON (NOV 20)" tvg-logo="" group-title="sports",ESPN+ 171 | 07:01PM MONMOUTH VS. PRINCETON (NOV 20)
+http://23.227.132.58:25461/Toolsplus/6969/224372
+#EXTINF:-1 tvg-name="ESPN+ 172 | 07:01PM MIAMI (OH) VS. SOUTHERN INDIANA (NOV 20)" tvg-logo="" group-title="sports",ESPN+ 172 | 07:01PM MIAMI (OH) VS. SOUTHERN INDIANA (NOV 20)
+http://23.227.132.58:25461/Toolsplus/6969/224373
+#EXTINF:-1 tvg-name="ESPN+ 173 | 07:01PM MAINE VS. #5 NORTHEASTERN (NOV 20)" tvg-logo="" group-title="sports",ESPN+ 173 | 07:01PM MAINE VS. #5 NORTHEASTERN (NOV 20)
+http://23.227.132.58:25461/Toolsplus/6969/224374
+#EXTINF:-1 tvg-name="ESPN+ 174 | 07:01PM HARVARD VS. HOLY CROSS (NOV 20)" tvg-logo="" group-title="sports",ESPN+ 174 | 07:01PM HARVARD VS. HOLY CROSS (NOV 20)
+http://23.227.132.58:25461/Toolsplus/6969/224375
+#EXTINF:-1 tvg-name="ESPN+ 175 | 07:01PM MICHIGAN VS. RIDER (NOV 20)" tvg-logo="" group-title="sports",ESPN+ 175 | 07:01PM MICHIGAN VS. RIDER (NOV 20)
+http://23.227.132.58:25461/Toolsplus/6969/224376
+#EXTINF:-1 tvg-name="ESPN+ 176 | 07:02PM KANSAS CITY VS. IONA (NOV 20)" tvg-logo="" group-title="sports",ESPN+ 176 | 07:02PM KANSAS CITY VS. IONA (NOV 20)
+http://23.227.132.58:25461/Toolsplus/6969/224377
+#EXTINF:-1 tvg-name="ESPN+ 177 | 07:02PM UT MARTIN VS. #1 VANDERBILT (FIRST ROUND) (NOV 20)" tvg-logo="" group-title="sports",ESPN+ 177 | 07:02PM UT MARTIN VS. #1 VANDERBILT (FIRST ROUND) (NOV 20)
+http://23.227.132.58:25461/Toolsplus/6969/224378
+#EXTINF:-1 tvg-name="ESPN+ 179 | 07:02PM PAINE VS. WEST GEORGIA (NOV 20)" tvg-logo="" group-title="sports",ESPN+ 179 | 07:02PM PAINE VS. WEST GEORGIA (NOV 20)
+http://23.227.132.58:25461/Toolsplus/6969/224380
+#EXTINF:-1 tvg-name="ESPN+ 180 | 07:02PM ST. LAWRENCE VS. COLGATE (NOV 20)" tvg-logo="" group-title="sports",ESPN+ 180 | 07:02PM ST. LAWRENCE VS. COLGATE (NOV 20)
+http://23.227.132.58:25461/Toolsplus/6969/224381
+#EXTINF:-1 tvg-name="ESPN+ 181 | 07:02PM SE LOUISIANA VS. KENNESAW STATE (NOV 20)" tvg-logo="" group-title="sports",ESPN+ 181 | 07:02PM SE LOUISIANA VS. KENNESAW STATE (NOV 20)
+http://23.227.132.58:25461/Toolsplus/6969/224382
+#EXTINF:-1 tvg-name="ESPN+ 182 | 07:02PM BROWN VS. RPI (NOV 20)" tvg-logo="" group-title="sports",ESPN+ 182 | 07:02PM BROWN VS. RPI (NOV 20)
+http://23.227.132.58:25461/Toolsplus/6969/224383
+#EXTINF:-1 tvg-name="ESPN+ 183 | 07:02PM SAMFORD VS. #7 MISSISSIPPI STATE (FIRST ROUND) (NOV 20)" tvg-logo="" group-title="sports",ESPN+ 183 | 07:02PM SAMFORD VS. #7 MISSISSIPPI STATE (FIRST ROUND) (NOV 20)
+http://23.227.132.58:25461/Toolsplus/6969/224384
+#EXTINF:-1 tvg-name="ESPN+ 184 | 07:02PM BELLARMINE VS. EASTERN KENTUCKY (NOV 20)" tvg-logo="" group-title="sports",ESPN+ 184 | 07:02PM BELLARMINE VS. EASTERN KENTUCKY (NOV 20)
+http://23.227.132.58:25461/Toolsplus/6969/224385
+#EXTINF:-1 tvg-name="ESPN+ 185 | 07:02PM NORTHWEST MISSISSIPPI VS. HUTCHINSON COMMUNITY COLLEGE (DI SEMIFINAL) (NOV 20)" tvg-logo="" group-title="sports",ESPN+ 185 | 07:02PM NORTHWEST MISSISSIPPI VS. HUTCHINSON COMMUNITY COLLEGE (DI SEMIFINAL) (NOV 20)
+http://23.227.132.58:25461/Toolsplus/6969/224386
+#EXTINF:-1 tvg-name="ESPN+ 186 | 07:02PM YALE VS. UNION (NOV 20)" tvg-logo="" group-title="sports",ESPN+ 186 | 07:02PM YALE VS. UNION (NOV 20)
+http://23.227.132.58:25461/Toolsplus/6969/224387
+#EXTINF:-1 tvg-name="ESPN+ 187 | 07:02PM ASUN VOLLEYBALL CHAMPIONSHIP (SEMIFINAL) (NOV 20)" tvg-logo="" group-title="sports",ESPN+ 187 | 07:02PM ASUN VOLLEYBALL CHAMPIONSHIP (SEMIFINAL) (NOV 20)
+http://23.227.132.58:25461/Toolsplus/6969/224388
+#EXTINF:-1 tvg-name="ESPN+ 188 | 07:03PM FOOTBALL: COLLEGE FOOTBALL COUNTDOWN (COLLEGE FOOTBALL COUNTDOWN) (NOV 20)" tvg-logo="" group-title="sports",ESPN+ 188 | 07:03PM FOOTBALL: COLLEGE FOOTBALL COUNTDOWN (COLLEGE FOOTBALL COUNTDOWN) (NOV 20)
+http://23.227.132.58:25461/Toolsplus/6969/224389
+#EXTINF:-1 tvg-name="ESPN+ 189 | 07:03PM FOOTBALL: THE INSIDERS (THE INSIDERS) (NOV 20)" tvg-logo="" group-title="sports",ESPN+ 189 | 07:03PM FOOTBALL: THE INSIDERS (THE INSIDERS) (NOV 20)
+http://23.227.132.58:25461/Toolsplus/6969/224390
+#EXTINF:-1 tvg-name="ESPN+ 190 | 07:03PM BASKETBALL: C MICHIGAN VS. PITT (C MICHIGAN VS. PITT) (NOV 20)" tvg-logo="" group-title="sports",ESPN+ 190 | 07:03PM BASKETBALL: C MICHIGAN VS. PITT (C MICHIGAN VS. PITT) (NOV 20)
+http://23.227.132.58:25461/Toolsplus/6969/224391
+#EXTINF:-1 tvg-name="ESPN+ 191 | 07:03PM BASKETBALL: MTSU VS. AUBURN (MTSU VS. AUBURN) (NOV 20)" tvg-logo="" group-title="sports",ESPN+ 191 | 07:03PM BASKETBALL: MTSU VS. AUBURN (MTSU VS. AUBURN) (NOV 20)
+http://23.227.132.58:25461/Toolsplus/6969/224392
+#EXTINF:-1 tvg-name="ESPN+ 192 | 07:04PM BASKETBALL: COASTAL VS. #14 TENNESSEE (COASTAL VS. #14 TENNESSEE) (NOV 20)" tvg-logo="" group-title="sports",ESPN+ 192 | 07:04PM BASKETBALL: COASTAL VS. #14 TENNESSEE (COASTAL VS. #14 TENNESSEE) (NOV 20)
+http://23.227.132.58:25461/Toolsplus/6969/224393
+#EXTINF:-1 tvg-name="ESPN+ 193 | 07:04PM NCAA MEN`S BASKETBALL: LOYOLA MD VS. #4 VIRGINIA (LOYOLA MD VS. #4 VIRGINIA) (NOV 20)" tvg-logo="" group-title="sports",ESPN+ 193 | 07:04PM NCAA MEN`S BASKETBALL: LOYOLA MD VS. #4 VIRGINIA (LOYOLA MD VS. #4 VIRGINIA) (NOV 20)
+http://23.227.132.58:25461/Toolsplus/6969/224394
+#EXTINF:-1 tvg-name="ESPN+ 194 | 07:04PM NCAA MEN`S BASKETBALL: CMU VS. PITT • UNT VS. APP (CMU VS. PITT ) (NOV 20)" tvg-logo="" group-title="sports",ESPN+ 194 | 07:04PM NCAA MEN`S BASKETBALL: CMU VS. PITT • UNT VS. APP (CMU VS. PITT ) (NOV 20)
+http://23.227.132.58:25461/Toolsplus/6969/224395
+#EXTINF:-1 tvg-name="ESPN+ 195 | 07:04PM NCAA MEN`S BASKETBALL: L_MD VS. #4 UVA • CMU VS. PITT • UNT VS. APP (L_MD VS. #4 UVA ) (NOV 20)" tvg-logo="" group-title="sports",ESPN+ 195 | 07:04PM NCAA MEN`S BASKETBALL: L_MD VS. #4 UVA • CMU VS. PITT • UNT VS. APP (L_MD VS. #4 UVA ) (NOV 20)
+http://23.227.132.58:25461/Toolsplus/6969/224396
+#EXTINF:-1 tvg-name="ESPN+ 196 | 07:04PM NCAA MEN`S BASKETBALL: L_MD VS. #4 UVA • UNT VS. APP (L_MD VS. #4 UVA ) (NOV 20)" tvg-logo="" group-title="sports",ESPN+ 196 | 07:04PM NCAA MEN`S BASKETBALL: L_MD VS. #4 UVA • UNT VS. APP (L_MD VS. #4 UVA ) (NOV 20)
+http://23.227.132.58:25461/Toolsplus/6969/224397
+#EXTINF:-1 tvg-name="ESPN+ 197 | 07:04PM NCAA MEN`S BASKETBALL: L_MD VS. #4 UVA • CMU VS. PITT (L_MD VS. #4 UVA ) (NOV 20)" tvg-logo="" group-title="sports",ESPN+ 197 | 07:04PM NCAA MEN`S BASKETBALL: L_MD VS. #4 UVA • CMU VS. PITT (L_MD VS. #4 UVA ) (NOV 20)
+http://23.227.132.58:25461/Toolsplus/6969/224398
+#EXTINF:-1 tvg-name="ESPN+ 198 | 07:05PM NCAA WOMEN`S BASKETBALL: MRSH VS. #12 UK • MTSU VS. AUB (MRSH VS. #12 UK ) (NOV 20)" tvg-logo="" group-title="sports",ESPN+ 198 | 07:05PM NCAA WOMEN`S BASKETBALL: MRSH VS. #12 UK • MTSU VS. AUB (MRSH VS. #12 UK ) (NOV 20)
+http://23.227.132.58:25461/Toolsplus/6969/224399
+#EXTINF:-1 tvg-name="ESPN+ 199 | 07:05PM NCAA WOMEN`S BASKETBALL: MASS VS. BC • MTSU VS. AUB (MASS VS. BC ) (NOV 20)" tvg-logo="" group-title="sports",ESPN+ 199 | 07:05PM NCAA WOMEN`S BASKETBALL: MASS VS. BC • MTSU VS. AUB (MASS VS. BC ) (NOV 20)
+http://23.227.132.58:25461/Toolsplus/6969/224400
+#EXTINF:-1 tvg-name="ESPN+ 200 | 07:05PM NCAA WOMEN`S BASKETBALL: MRSH VS. #12 UK • MASS VS. BC • MTSU VS. AUB (MRSH VS. #12 UK ) (NOV 20)" tvg-logo="" group-title="sports",ESPN+ 200 | 07:05PM NCAA WOMEN`S BASKETBALL: MRSH VS. #12 UK • MASS VS. BC • MTSU VS. AUB (MRSH VS. #12 UK ) (NOV 20)
+http://23.227.132.58:25461/Toolsplus/6969/224401
+#EXTINF:-1 tvg-name="ESPN+ 201 | 07:06PM VOLLEYBALL: #2 PITT VS. VIRGINIA (#2 PITT VS. VIRGINIA) (NOV 20)" tvg-logo="" group-title="sports",ESPN+ 201 | 07:06PM VOLLEYBALL: #2 PITT VS. VIRGINIA (#2 PITT VS. VIRGINIA) (NOV 20)
+http://23.227.132.58:25461/Toolsplus/6969/224402
+#EXTINF:-1 tvg-name="ESPN+ 202 | 07:06PM VOLLEYBALL: WAKE FOREST VS. #5 LOUISVILLE (WAKE FOREST VS. #5 LOUISVILLE) (NOV 20)" tvg-logo="" group-title="sports",ESPN+ 202 | 07:06PM VOLLEYBALL: WAKE FOREST VS. #5 LOUISVILLE (WAKE FOREST VS. #5 LOUISVILLE) (NOV 20)
+http://23.227.132.58:25461/Toolsplus/6969/224403
+#EXTINF:-1 tvg-name="ESPN+ 203 | 07:06PM VOLLEYBALL: MIAMI VS. #21 NORTH CAROLINA (MIAMI VS. #21 NORTH CAROLINA) (NOV 20)" tvg-logo="" group-title="sports",ESPN+ 203 | 07:06PM VOLLEYBALL: MIAMI VS. #21 NORTH CAROLINA (MIAMI VS. #21 NORTH CAROLINA) (NOV 20)
+http://23.227.132.58:25461/Toolsplus/6969/224404
+#EXTINF:-1 tvg-name="ESPN+ 204 | 07:07PM WRESTLING: OHIO STATE VS. NC STATE (OHIO STATE VS. NC STATE) (NOV 20)" tvg-logo="" group-title="sports",ESPN+ 204 | 07:07PM WRESTLING: OHIO STATE VS. NC STATE (OHIO STATE VS. NC STATE) (NOV 20)
+http://23.227.132.58:25461/Toolsplus/6969/224405
+#EXTINF:-1 tvg-name="ESPN+ 205 | 07:15PM VERMONT VS. UMASS LOWELL (NOV 20)" tvg-logo="" group-title="sports",ESPN+ 205 | 07:15PM VERMONT VS. UMASS LOWELL (NOV 20)
+http://23.227.132.58:25461/Toolsplus/6969/224406
+#EXTINF:-1 tvg-name="ESPN+ 206 | 07:30PM VIRGINIA TECH VS. #7 KENTUCKY (FIRST ROUND) (NOV 20)" tvg-logo="" group-title="sports",ESPN+ 206 | 07:30PM VIRGINIA TECH VS. #7 KENTUCKY (FIRST ROUND) (NOV 20)
+http://23.227.132.58:25461/Toolsplus/6969/224407
+#EXTINF:-1 tvg-name="ESPN+ 207 | 07:30PM COLORADO VS. HOUSTON (NOV 20)" tvg-logo="" group-title="sports",ESPN+ 207 | 07:30PM COLORADO VS. HOUSTON (NOV 20)
+http://23.227.132.58:25461/Toolsplus/6969/224408
+#EXTINF:-1 tvg-name="ESPN+ 208 | 07:30PM DAYTON VS. BELMONT (NOV 20)" tvg-logo="" group-title="sports",ESPN+ 208 | 07:30PM DAYTON VS. BELMONT (NOV 20)
+http://23.227.132.58:25461/Toolsplus/6969/224409
+#EXTINF:-1 tvg-name="ESPN+ 209 | 07:30PM #8 ARIZONA STATE VS. #17 TCU (NOV 20)" tvg-logo="" group-title="sports",ESPN+ 209 | 07:30PM #8 ARIZONA STATE VS. #17 TCU (NOV 20)
+http://23.227.132.58:25461/Toolsplus/6969/224410
+#EXTINF:-1 tvg-name="ESPN+ 210 | 07:30PM LITTLE ROCK VS. #25 OKLAHOMA STATE (NOV 20)" tvg-logo="" group-title="sports",ESPN+ 210 | 07:30PM LITTLE ROCK VS. #25 OKLAHOMA STATE (NOV 20)
+http://23.227.132.58:25461/Toolsplus/6969/224411
+#EXTINF:-1 tvg-name="ESPN+ 211 | 07:30PM WASHINGTON VS. #8 AUBURN (FIRST ROUND) (NOV 20)" tvg-logo="" group-title="sports",ESPN+ 211 | 07:30PM WASHINGTON VS. #8 AUBURN (FIRST ROUND) (NOV 20)
+http://23.227.132.58:25461/Toolsplus/6969/224412
+#EXTINF:-1 tvg-name="ESPN+ 212 | 07:30PM TEXAS STATE VS. LAMAR (NOV 20)" tvg-logo="" group-title="sports",ESPN+ 212 | 07:30PM TEXAS STATE VS. LAMAR (NOV 20)
+http://23.227.132.58:25461/Toolsplus/6969/224413
+#EXTINF:-1 tvg-name="ESPN+ 213 | 07:30PM UT ARLINGTON VS. NORTHWESTERN STATE (NOV 20)" tvg-logo="" group-title="sports",ESPN+ 213 | 07:30PM UT ARLINGTON VS. NORTHWESTERN STATE (NOV 20)
+http://23.227.132.58:25461/Toolsplus/6969/224414
+#EXTINF:-1 tvg-name="ESPN+ 214 | 07:30PM FOOTBALL: THE SEASON: OLE MISS FOOTBALL (THE SEASON: OLE MISS FOOTBALL) (NOV 20)" tvg-logo="" group-title="sports",ESPN+ 214 | 07:30PM FOOTBALL: THE SEASON: OLE MISS FOOTBALL (THE SEASON: OLE MISS FOOTBALL) (NOV 20)
+http://23.227.132.58:25461/Toolsplus/6969/224415
+#EXTINF:-1 tvg-name="ESPN+ 215 | 07:30PM FOOTBALL: BOWLING GREEN VS. TOLEDO (BOWLING GREEN VS. TOLEDO) (NOV 20)" tvg-logo="" group-title="sports",ESPN+ 215 | 07:30PM FOOTBALL: BOWLING GREEN VS. TOLEDO (BOWLING GREEN VS. TOLEDO) (NOV 20)
+http://23.227.132.58:25461/Toolsplus/6969/224416
+#EXTINF:-1 tvg-name="ESPN+ 216 | 07:30PM FOOTBALL: CLEMSON VS. DUKE (CLEMSON VS. DUKE) (NOV 20)" tvg-logo="" group-title="sports",ESPN+ 216 | 07:30PM FOOTBALL: CLEMSON VS. DUKE (CLEMSON VS. DUKE) (NOV 20)
+http://23.227.132.58:25461/Toolsplus/6969/224417
+#EXTINF:-1 tvg-name="ESPN+ 217 | 07:30PM NCAA FOOTBALL: CLEM VS. DUKE • BGSU VS. TOL (CLEM VS. DUKE ) (NOV 20)" tvg-logo="" group-title="sports",ESPN+ 217 | 07:30PM NCAA FOOTBALL: CLEM VS. DUKE • BGSU VS. TOL (CLEM VS. DUKE ) (NOV 20)
+http://23.227.132.58:25461/Toolsplus/6969/224418
+#EXTINF:-1 tvg-name="ESPN+ 218 | 07:31PM NCAA MEN`S BASKETBALL: TULSA VS. MISSISSIPPI ST (TULSA VS. MISSISSIPPI ST) (NOV 20)" tvg-logo="" group-title="sports",ESPN+ 218 | 07:31PM NCAA MEN`S BASKETBALL: TULSA VS. MISSISSIPPI ST (TULSA VS. MISSISSIPPI ST) (NOV 20)
+http://23.227.132.58:25461/Toolsplus/6969/224419
+#EXTINF:-1 tvg-name="ESPN+ 219 | 07:31PM VOLLEYBALL: ALABAMA VS. AUBURN (ALABAMA VS. AUBURN) (NOV 20)" tvg-logo="" group-title="sports",ESPN+ 219 | 07:31PM VOLLEYBALL: ALABAMA VS. AUBURN (ALABAMA VS. AUBURN) (NOV 20)
+http://23.227.132.58:25461/Toolsplus/6969/224420
+#EXTINF:-1 tvg-name="ESPN+ 220 | 07:45PM AUBURN VS. ALABAMA (NOV 20)" tvg-logo="" group-title="sports",ESPN+ 220 | 07:45PM AUBURN VS. ALABAMA (NOV 20)
+http://23.227.132.58:25461/Toolsplus/6969/224421
+#EXTINF:-1 tvg-name="ESPN+ 221 | 08:00PM PORTLAND STATE VS. UTAH TECH (NOV 20)" tvg-logo="" group-title="sports",ESPN+ 221 | 08:00PM PORTLAND STATE VS. UTAH TECH (NOV 20)
+http://23.227.132.58:25461/Toolsplus/6969/224422
+#EXTINF:-1 tvg-name="ESPN+ 222 | 08:00PM EASTERN WASHINGTON VS. WEBER STATE (NOV 20)" tvg-logo="" group-title="sports",ESPN+ 222 | 08:00PM EASTERN WASHINGTON VS. WEBER STATE (NOV 20)
+http://23.227.132.58:25461/Toolsplus/6969/224423
+#EXTINF:-1 tvg-name="ESPN+ 224 | 08:00PM LOUISIANA VS. APP STATE (QUARTERFINAL) (NOV 20)" tvg-logo="" group-title="sports",ESPN+ 224 | 08:00PM LOUISIANA VS. APP STATE (QUARTERFINAL) (NOV 20)
+http://23.227.132.58:25461/Toolsplus/6969/224425
+#EXTINF:-1 tvg-name="ESPN+ 225 | 08:00PM OKLAHOMA STATE VS. ARIZONA STATE (NOV 20)" tvg-logo="" group-title="sports",ESPN+ 225 | 08:00PM OKLAHOMA STATE VS. ARIZONA STATE (NOV 20)
+http://23.227.132.58:25461/Toolsplus/6969/224426
+#EXTINF:-1 tvg-name="ESPN+ 226 | 08:00PM METRO CONFERENCE WOMEN`S VOLLEYBALL CHAMPIONSHIP (SEMIFINAL) (NOV 20)" tvg-logo="" group-title="sports",ESPN+ 226 | 08:00PM METRO CONFERENCE WOMEN`S VOLLEYBALL CHAMPIONSHIP (SEMIFINAL) (NOV 20)
+http://23.227.132.58:25461/Toolsplus/6969/224427
+#EXTINF:-1 tvg-name="ESPN+ 227 | 08:00PM SAM HOUSTON VS. LIBERTY (QUARTERFINAL) (NOV 20)" tvg-logo="" group-title="sports",ESPN+ 227 | 08:00PM SAM HOUSTON VS. LIBERTY (QUARTERFINAL) (NOV 20)
+http://23.227.132.58:25461/Toolsplus/6969/224428
+#EXTINF:-1 tvg-name="ESPN+ 228 | 08:00PM LAMAR VS. INCARNATE WORD (QUARTERFINAL) (NOV 20)" tvg-logo="" group-title="sports",ESPN+ 228 | 08:00PM LAMAR VS. INCARNATE WORD (QUARTERFINAL) (NOV 20)
+http://23.227.132.58:25461/Toolsplus/6969/224429
+#EXTINF:-1 tvg-name="ESPN+ 229 | 08:00PM LAMAR VS. #2 BAYLOR (FIRST ROUND) (NOV 20)" tvg-logo="" group-title="sports",ESPN+ 229 | 08:00PM LAMAR VS. #2 BAYLOR (FIRST ROUND) (NOV 20)
+http://23.227.132.58:25461/Toolsplus/6969/224430
+#EXTINF:-1 tvg-name="ESPN+ 230 | 08:00PM NEUMANN VS. LEHIGH (NOV 20)" tvg-logo="" group-title="sports",ESPN+ 230 | 08:00PM NEUMANN VS. LEHIGH (NOV 20)
+http://23.227.132.58:25461/Toolsplus/6969/224431
+#EXTINF:-1 tvg-name="ESPN+ 231 | 08:00PM UTAH VALLEY VS. #6 UTAH STATE (FIRST ROUND) (NOV 20)" tvg-logo="" group-title="sports",ESPN+ 231 | 08:00PM UTAH VALLEY VS. #6 UTAH STATE (FIRST ROUND) (NOV 20)
+http://23.227.132.58:25461/Toolsplus/6969/224432
+#EXTINF:-1 tvg-name="ESPN+ 232 | 08:00PM WEST COAST BAPTIST VS. PEPPERDINE (NOV 20)" tvg-logo="" group-title="sports",ESPN+ 232 | 08:00PM WEST COAST BAPTIST VS. PEPPERDINE (NOV 20)
+http://23.227.132.58:25461/Toolsplus/6969/224433
+#EXTINF:-1 tvg-name="ESPN+ 233 | 08:01PM IOWA STATE VS. #20 BAYLOR (NOV 20)" tvg-logo="" group-title="sports",ESPN+ 233 | 08:01PM IOWA STATE VS. #20 BAYLOR (NOV 20)
+http://23.227.132.58:25461/Toolsplus/6969/224434
+#EXTINF:-1 tvg-name="ESPN+ 234 | 08:01PM JACKSON STATE VS. #4 ALABAMA (FIRST ROUND) (NOV 20)" tvg-logo="" group-title="sports",ESPN+ 234 | 08:01PM JACKSON STATE VS. #4 ALABAMA (FIRST ROUND) (NOV 20)
+http://23.227.132.58:25461/Toolsplus/6969/224435
+#EXTINF:-1 tvg-name="ESPN+ 235 | 08:01PM WEBER STATE VS. #3 BYU (FIRST ROUND) (NOV 20)" tvg-logo="" group-title="sports",ESPN+ 235 | 08:01PM WEBER STATE VS. #3 BYU (FIRST ROUND) (NOV 20)
+http://23.227.132.58:25461/Toolsplus/6969/224436
+#EXTINF:-1 tvg-name="ESPN+ 236 | 08:01PM EAST CAROLINA VS. UTAH VALLEY (GAME 4) (NOV 20)" tvg-logo="" group-title="sports",ESPN+ 236 | 08:01PM EAST CAROLINA VS. UTAH VALLEY (GAME 4) (NOV 20)
+http://23.227.132.58:25461/Toolsplus/6969/224437
+#EXTINF:-1 tvg-name="ESPN+ 237 | 08:01PM AIR FORCE VS. LITTLE ROCK (NOV 20)" tvg-logo="" group-title="sports",ESPN+ 237 | 08:01PM AIR FORCE VS. LITTLE ROCK (NOV 20)
+http://23.227.132.58:25461/Toolsplus/6969/224438
+#EXTINF:-1 tvg-name="ESPN+ 238 | 08:01PM FOOTBALL: THE PULSE: TEXAS A&M FOOTBALL _ EP. 20 (THE PULSE: TEXAS A&M FOOTBALL _ EP. 20) (NOV 20)" tvg-logo="" group-title="sports",ESPN+ 238 | 08:01PM FOOTBALL: THE PULSE: TEXAS A&M FOOTBALL _ EP. 20 (THE PULSE: TEXAS A&M FOOTBALL _ EP. 20) (NOV 20)
+http://23.227.132.58:25461/Toolsplus/6969/224439
+#EXTINF:-1 tvg-name="ESPN+ 239 | 08:01PM NCAA FOOTBALL: UTEP VS. AIR FORCE (UTEP VS. AIR FORCE) (NOV 20)" tvg-logo="" group-title="sports",ESPN+ 239 | 08:01PM NCAA FOOTBALL: UTEP VS. AIR FORCE (UTEP VS. AIR FORCE) (NOV 20)
+http://23.227.132.58:25461/Toolsplus/6969/224440
+#EXTINF:-1 tvg-name="ESPN+ 240 | 08:01PM NCAA FOOTBALL: CLEM VS. DUKE • UTEP VS. AFA (CLEM VS. DUKE ) (NOV 20)" tvg-logo="" group-title="sports",ESPN+ 240 | 08:01PM NCAA FOOTBALL: CLEM VS. DUKE • UTEP VS. AFA (CLEM VS. DUKE ) (NOV 20)
+http://23.227.132.58:25461/Toolsplus/6969/224441
+#EXTINF:-1 tvg-name="ESPN+ 241 | 08:01PM NCAA FOOTBALL: CLEM VS. DUKE • BGSU VS. TOL • UTEP VS. AFA (CLEM VS. DUKE ) (NOV 20)" tvg-logo="" group-title="sports",ESPN+ 241 | 08:01PM NCAA FOOTBALL: CLEM VS. DUKE • BGSU VS. TOL • UTEP VS. AFA (CLEM VS. DUKE ) (NOV 20)
+http://23.227.132.58:25461/Toolsplus/6969/224442
+#EXTINF:-1 tvg-name="ESPN+ 242 | 08:01PM NCAA FOOTBALL: BGSU VS. TOL • UTEP VS. AFA (BGSU VS. TOL ) (NOV 20)" tvg-logo="" group-title="sports",ESPN+ 242 | 08:01PM NCAA FOOTBALL: BGSU VS. TOL • UTEP VS. AFA (BGSU VS. TOL ) (NOV 20)
+http://23.227.132.58:25461/Toolsplus/6969/224443
+#EXTINF:-1 tvg-name="ESPN+ 243 | 08:01PM NCAA MEN`S BASKETBALL: SOUTH ALABAMA VS. SMU (SOUTH ALABAMA VS. SMU) (NOV 20)" tvg-logo="" group-title="sports",ESPN+ 243 | 08:01PM NCAA MEN`S BASKETBALL: SOUTH ALABAMA VS. SMU (SOUTH ALABAMA VS. SMU) (NOV 20)
+http://23.227.132.58:25461/Toolsplus/6969/224444
+#EXTINF:-1 tvg-name="ESPN+ 244 | 08:02PM NCAA MEN`S BASKETBALL: MISS VALLEY ST VS. #20 ARKANSAS (MISS VALLEY ST VS. #20 ARKANSAS) (NOV 20)" tvg-logo="" group-title="sports",ESPN+ 244 | 08:02PM NCAA MEN`S BASKETBALL: MISS VALLEY ST VS. #20 ARKANSAS (MISS VALLEY ST VS. #20 ARKANSAS) (NOV 20)
+http://23.227.132.58:25461/Toolsplus/6969/224445
+#EXTINF:-1 tvg-name="ESPN+ 245 | 08:02PM NCAA MEN`S BASKETBALL: UCF VS. #15 VANDERBILT (UCF VS. #15 VANDERBILT) (NOV 20)" tvg-logo="" group-title="sports",ESPN+ 245 | 08:02PM NCAA MEN`S BASKETBALL: UCF VS. #15 VANDERBILT (UCF VS. #15 VANDERBILT) (NOV 20)
+http://23.227.132.58:25461/Toolsplus/6969/224446
+#EXTINF:-1 tvg-name="ESPN+ 246 | 08:02PM NCAA MEN`S BASKETBALL: LE MOYNE VS. MISSOURI (LE MOYNE VS. MISSOURI) (NOV 20)" tvg-logo="" group-title="sports",ESPN+ 246 | 08:02PM NCAA MEN`S BASKETBALL: LE MOYNE VS. MISSOURI (LE MOYNE VS. MISSOURI) (NOV 20)
+http://23.227.132.58:25461/Toolsplus/6969/224447
+#EXTINF:-1 tvg-name="ESPN+ 247 | 08:02PM NCAA MEN`S BASKETBALL: GEORGIA VS. GEORGIA TECH (GEORGIA VS. GEORGIA TECH) (NOV 20)" tvg-logo="" group-title="sports",ESPN+ 247 | 08:02PM NCAA MEN`S BASKETBALL: GEORGIA VS. GEORGIA TECH (GEORGIA VS. GEORGIA TECH) (NOV 20)
+http://23.227.132.58:25461/Toolsplus/6969/224448
+#EXTINF:-1 tvg-name="ESPN+ 248 | 08:02PM NCAA MEN`S BASKETBALL: UCF VS. #15 VAN • USA VS. SMU (UCF VS. #15 VAN ) (NOV 20)" tvg-logo="" group-title="sports",ESPN+ 248 | 08:02PM NCAA MEN`S BASKETBALL: UCF VS. #15 VAN • USA VS. SMU (UCF VS. #15 VAN ) (NOV 20)
+http://23.227.132.58:25461/Toolsplus/6969/224449
+#EXTINF:-1 tvg-name="ESPN+ 249 | 08:02PM NCAA MEN`S BASKETBALL: CCU VS. #14 TENN • LEM VS. MIZ (CCU VS. #14 TENN ) (NOV 20)" tvg-logo="" group-title="sports",ESPN+ 249 | 08:02PM NCAA MEN`S BASKETBALL: CCU VS. #14 TENN • LEM VS. MIZ (CCU VS. #14 TENN ) (NOV 20)
+http://23.227.132.58:25461/Toolsplus/6969/224450
+#EXTINF:-1 tvg-name="ESPN+ 250 | 08:02PM NCAA MEN`S BASKETBALL: CCU VS. #14 TENN • MVSU VS. #20 ARK (CCU VS. #14 TENN ) (NOV 20)" tvg-logo="" group-title="sports",ESPN+ 250 | 08:02PM NCAA MEN`S BASKETBALL: CCU VS. #14 TENN • MVSU VS. #20 ARK (CCU VS. #14 TENN ) (NOV 20)
+http://23.227.132.58:25461/Toolsplus/6969/224451
+#EXTINF:-1 tvg-name="ESPN+ 251 | 08:02PM NCAA MEN`S BASKETBALL: UGA VS. GT • UCF VS. #15 VAN (UGA VS. GT ) (NOV 20)" tvg-logo="" group-title="sports",ESPN+ 251 | 08:02PM NCAA MEN`S BASKETBALL: UGA VS. GT • UCF VS. #15 VAN (UGA VS. GT ) (NOV 20)
+http://23.227.132.58:25461/Toolsplus/6969/224452
+#EXTINF:-1 tvg-name="ESPN+ 252 | 08:02PM NCAA MEN`S BASKETBALL: MVSU VS. #20 ARK • LEM VS. MIZ (MVSU VS. #20 ARK ) (NOV 20)" tvg-logo="" group-title="sports",ESPN+ 252 | 08:02PM NCAA MEN`S BASKETBALL: MVSU VS. #20 ARK • LEM VS. MIZ (MVSU VS. #20 ARK ) (NOV 20)
+http://23.227.132.58:25461/Toolsplus/6969/224453
+#EXTINF:-1 tvg-name="ESPN+ 253 | 08:03PM NCAA MEN`S BASKETBALL: UGA VS. GT • USA VS. SMU (UGA VS. GT ) (NOV 20)" tvg-logo="" group-title="sports",ESPN+ 253 | 08:03PM NCAA MEN`S BASKETBALL: UGA VS. GT • USA VS. SMU (UGA VS. GT ) (NOV 20)
+http://23.227.132.58:25461/Toolsplus/6969/224454
+#EXTINF:-1 tvg-name="ESPN+ 254 | 08:03PM NCAA MEN`S BASKETBALL: UGA VS. GT • UCF VS. #15 VAN • USA VS. SMU (UGA VS. GT ) (NOV 20)" tvg-logo="" group-title="sports",ESPN+ 254 | 08:03PM NCAA MEN`S BASKETBALL: UGA VS. GT • UCF VS. #15 VAN • USA VS. SMU (UGA VS. GT ) (NOV 20)
+http://23.227.132.58:25461/Toolsplus/6969/224455
+#EXTINF:-1 tvg-name="ESPN+ 255 | 08:03PM NCAA MEN`S BASKETBALL: CCU VS. #14 TENN • MVSU VS. #20 ARK • LEM VS. MIZ (CCU VS. #14 TENN ) (NOV 20)" tvg-logo="" group-title="sports",ESPN+ 255 | 08:03PM NCAA MEN`S BASKETBALL: CCU VS. #14 TENN • MVSU VS. #20 ARK • LEM VS. MIZ (CCU VS. #14 TENN ) (NOV 20)
+http://23.227.132.58:25461/Toolsplus/6969/224456
+#EXTINF:-1 tvg-name="ESPN+ 256 | 08:03PM SOCCER: ES ASí Y PUNTO (ES ASí Y PUNTO) (NOV 20)" tvg-logo="" group-title="sports",ESPN+ 256 | 08:03PM SOCCER: ES ASí Y PUNTO (ES ASí Y PUNTO) (NOV 20)
+http://23.227.132.58:25461/Toolsplus/6969/224457
+#EXTINF:-1 tvg-name="ESPN+ 257 | 08:30PM EAST CAROLINA VS. TULSA (QUARTERFINAL) (NOV 20)" tvg-logo="" group-title="sports",ESPN+ 257 | 08:30PM EAST CAROLINA VS. TULSA (QUARTERFINAL) (NOV 20)
+http://23.227.132.58:25461/Toolsplus/6969/224458
+#EXTINF:-1 tvg-name="ESPN+ 258 | 08:30PM WEST VIRGINIA VS. #16 KANSAS (NOV 20)" tvg-logo="" group-title="sports",ESPN+ 258 | 08:30PM WEST VIRGINIA VS. #16 KANSAS (NOV 20)
+http://23.227.132.58:25461/Toolsplus/6969/224459
+#EXTINF:-1 tvg-name="ESPN+ 259 | 08:30PM NORTHERN ARIZONA VS. SOUTHERN UTAH (NOV 20)" tvg-logo="" group-title="sports",ESPN+ 259 | 08:30PM NORTHERN ARIZONA VS. SOUTHERN UTAH (NOV 20)
+http://23.227.132.58:25461/Toolsplus/6969/224460
+#EXTINF:-1 tvg-name="ESPN+ 260 | 08:30PM SANTA CLARA VS. ARIZONA STATE (NOV 20)" tvg-logo="" group-title="sports",ESPN+ 260 | 08:30PM SANTA CLARA VS. ARIZONA STATE (NOV 20)
+http://23.227.132.58:25461/Toolsplus/6969/224461
+#EXTINF:-1 tvg-name="ESPN+ 261 | 08:30PM NCAA WOMEN`S BASKETBALL: LR VS. #25 OKST • SCU VS. ASU (LR VS. #25 OKST ) (NOV 20)" tvg-logo="" group-title="sports",ESPN+ 261 | 08:30PM NCAA WOMEN`S BASKETBALL: LR VS. #25 OKST • SCU VS. ASU (LR VS. #25 OKST ) (NOV 20)
+http://23.227.132.58:25461/Toolsplus/6969/224462
+#EXTINF:-1 tvg-name="ESPN+ 262 | 09:00PM SACRAMENTO STATE VS. CAL STATE BAKERSFIELD (NOV 20)" tvg-logo="" group-title="sports",ESPN+ 262 | 09:00PM SACRAMENTO STATE VS. CAL STATE BAKERSFIELD (NOV 20)
+http://23.227.132.58:25461/Toolsplus/6969/224463
+#EXTINF:-1 tvg-name="ESPN+ 263 | 09:00PM UC SANTA BARBARA VS. CALIFORNIA BAPTIST (NOV 20)" tvg-logo="" group-title="sports",ESPN+ 263 | 09:00PM UC SANTA BARBARA VS. CALIFORNIA BAPTIST (NOV 20)
+http://23.227.132.58:25461/Toolsplus/6969/224464
+#EXTINF:-1 tvg-name="ESPN+ 264 | 09:00PM MONTANA VS. MONTANA STATE (NOV 20)" tvg-logo="" group-title="sports",ESPN+ 264 | 09:00PM MONTANA VS. MONTANA STATE (NOV 20)
+http://23.227.132.58:25461/Toolsplus/6969/224465
+#EXTINF:-1 tvg-name="ESPN+ 265 | 09:00PM AIR FORCE VS. #3 COLORADO (FIRST ROUND) (NOV 20)" tvg-logo="" group-title="sports",ESPN+ 265 | 09:00PM AIR FORCE VS. #3 COLORADO (FIRST ROUND) (NOV 20)
+http://23.227.132.58:25461/Toolsplus/6969/224466
+#EXTINF:-1 tvg-name="ESPN+ 266 | 09:00PM UTAH VALLEY VS. UTAH (NOV 20)" tvg-logo="" group-title="sports",ESPN+ 266 | 09:00PM UTAH VALLEY VS. UTAH (NOV 20)
+http://23.227.132.58:25461/Toolsplus/6969/224467
+#EXTINF:-1 tvg-name="ESPN+ 267 | 09:00PM IDAHO VS. IDAHO STATE (NOV 20)" tvg-logo="" group-title="sports",ESPN+ 267 | 09:00PM IDAHO VS. IDAHO STATE (NOV 20)
+http://23.227.132.58:25461/Toolsplus/6969/224468
+#EXTINF:-1 tvg-name="ESPN+ 268 | 09:00PM UC IRVINE VS. CAL STATE FULLERTON (NOV 20)" tvg-logo="" group-title="sports",ESPN+ 268 | 09:00PM UC IRVINE VS. CAL STATE FULLERTON (NOV 20)
+http://23.227.132.58:25461/Toolsplus/6969/224469
+#EXTINF:-1 tvg-name="ESPN+ 269 | 09:00PM CAL POLY VS. UC RIVERSIDE (NOV 20)" tvg-logo="" group-title="sports",ESPN+ 269 | 09:00PM CAL POLY VS. UC RIVERSIDE (NOV 20)
+http://23.227.132.58:25461/Toolsplus/6969/224470
+#EXTINF:-1 tvg-name="ESPN+ 270 | 09:00PM UTAH TECH VS. UC SANTA BARBARA (NOV 20)" tvg-logo="" group-title="sports",ESPN+ 270 | 09:00PM UTAH TECH VS. UC SANTA BARBARA (NOV 20)
+http://23.227.132.58:25461/Toolsplus/6969/224471
+#EXTINF:-1 tvg-name="ESPN+ 271 | 09:00PM CAL STATE BAKERSFIELD VS. IDAHO (NOV 20)" tvg-logo="" group-title="sports",ESPN+ 271 | 09:00PM CAL STATE BAKERSFIELD VS. IDAHO (NOV 20)
+http://23.227.132.58:25461/Toolsplus/6969/224472
+#EXTINF:-1 tvg-name="ESPN+ 272 | 09:00PM UCF FOOTBALL POSTGAME PRESS CONFERENCE (NOV 20)" tvg-logo="" group-title="sports",ESPN+ 272 | 09:00PM UCF FOOTBALL POSTGAME PRESS CONFERENCE (NOV 20)
+http://23.227.132.58:25461/Toolsplus/6969/224473
+#EXTINF:-1 tvg-name="ESPN+ 273 | 09:00PM SANTA CLARA VS. #5 STANFORD (FIRST ROUND) (NOV 20)" tvg-logo="" group-title="sports",ESPN+ 273 | 09:00PM SANTA CLARA VS. #5 STANFORD (FIRST ROUND) (NOV 20)
+http://23.227.132.58:25461/Toolsplus/6969/224474
+#EXTINF:-1 tvg-name="ESPN+ 274 | 09:01PM NCAA MEN`S BASKETBALL: MARSHALL VS. NORTH CAROLINA (MARSHALL VS. NORTH CAROLINA) (NOV 20)" tvg-logo="" group-title="sports",ESPN+ 274 | 09:01PM NCAA MEN`S BASKETBALL: MARSHALL VS. NORTH CAROLINA (MARSHALL VS. NORTH CAROLINA) (NOV 20)
+http://23.227.132.58:25461/Toolsplus/6969/224475
+#EXTINF:-1 tvg-name="ESPN+ 275 | 09:01PM NCAA MEN`S BASKETBALL: MRSH VS. UNC • CSUB VS. IDHO (MRSH VS. UNC ) (NOV 20)" tvg-logo="" group-title="sports",ESPN+ 275 | 09:01PM NCAA MEN`S BASKETBALL: MRSH VS. UNC • CSUB VS. IDHO (MRSH VS. UNC ) (NOV 20)
+http://23.227.132.58:25461/Toolsplus/6969/224476
+#EXTINF:-1 tvg-name="ESPN+ 276 | 09:01PM NCAA WOMEN`S BASKETBALL: UVU VS. UTAH • UTU VS. UCSB (UVU VS. UTAH ) (NOV 20)" tvg-logo="" group-title="sports",ESPN+ 276 | 09:01PM NCAA WOMEN`S BASKETBALL: UVU VS. UTAH • UTU VS. UCSB (UVU VS. UTAH ) (NOV 20)
+http://23.227.132.58:25461/Toolsplus/6969/224477
+#EXTINF:-1 tvg-name="ESPN+ 277 | 10:00PM UTAH VALLEY VS. CAL STATE NORTHRIDGE (NOV 20)" tvg-logo="" group-title="sports",ESPN+ 277 | 10:00PM UTAH VALLEY VS. CAL STATE NORTHRIDGE (NOV 20)
+http://23.227.132.58:25461/Toolsplus/6969/224478
+#EXTINF:-1 tvg-name="ESPN+ 278 | 10:00PM IDAHO STATE VS. LOYOLA MARYMOUNT (NOV 20)" tvg-logo="" group-title="sports",ESPN+ 278 | 10:00PM IDAHO STATE VS. LOYOLA MARYMOUNT (NOV 20)
+http://23.227.132.58:25461/Toolsplus/6969/224479
+#EXTINF:-1 tvg-name="ESPN+ 279 | 10:00PM UC SAN DIEGO VS. LONG BEACH STATE (NOV 20)" tvg-logo="" group-title="sports",ESPN+ 279 | 10:00PM UC SAN DIEGO VS. LONG BEACH STATE (NOV 20)
+http://23.227.132.58:25461/Toolsplus/6969/224480
+#EXTINF:-1 tvg-name="ESPN+ 280 | 10:00PM ACCNX: BOSTON COLLEGE VS. CALIFORNIA (BOSTON COLLEGE VS. CALIFORNIA) (NOV 20)" tvg-logo="" group-title="sports",ESPN+ 280 | 10:00PM ACCNX: BOSTON COLLEGE VS. CALIFORNIA (BOSTON COLLEGE VS. CALIFORNIA) (NOV 20)
+http://23.227.132.58:25461/Toolsplus/6969/224481
+#EXTINF:-1 tvg-name="ESPN+ 281 | 10:00PM ACCNX: SYRACUSE VS. #24 STANFORD (SYRACUSE VS. #24 STANFORD) (NOV 20)" tvg-logo="" group-title="sports",ESPN+ 281 | 10:00PM ACCNX: SYRACUSE VS. #24 STANFORD (SYRACUSE VS. #24 STANFORD) (NOV 20)
+http://23.227.132.58:25461/Toolsplus/6969/224482
+#EXTINF:-1 tvg-name="ESPN+ 282 | 10:30PM NCAA MEN`S BASKETBALL: COLLEGE BASKETBALL SCOREBOARD (COLLEGE BASKETBALL SCOREBOARD) (NOV 20)" tvg-logo="" group-title="sports",ESPN+ 282 | 10:30PM NCAA MEN`S BASKETBALL: COLLEGE BASKETBALL SCOREBOARD (COLLEGE BASKETBALL SCOREBOARD) (NOV 20)
+http://23.227.132.58:25461/Toolsplus/6969/224483
+#EXTINF:-1 tvg-name="ESPN+ 283 | 10:55PM AUCKLAND FC VS. MELBOURNE VICTORY (NOV 20)" tvg-logo="" group-title="sports",ESPN+ 283 | 10:55PM AUCKLAND FC VS. MELBOURNE VICTORY (NOV 20)
+http://23.227.132.58:25461/Toolsplus/6969/224484
+#EXTINF:-1 tvg-name="ESPN+ 284 | 11:00PM NCAA FOOTBALL: ACC HUDDLE FINAL SCORE (ACC HUDDLE FINAL SCORE) (NOV 20)" tvg-logo="" group-title="sports",ESPN+ 284 | 11:00PM NCAA FOOTBALL: ACC HUDDLE FINAL SCORE (ACC HUDDLE FINAL SCORE) (NOV 20)
+http://23.227.132.58:25461/Toolsplus/6969/224485
+#EXTINF:-1 tvg-name="ESPN+ 285 | 11:00PM NCAA MEN`S BASKETBALL: SAINT LOUIS VS. SAINT MARY`S (SAINT LOUIS VS. SAINT MARY`S) (NOV 20)" tvg-logo="" group-title="sports",ESPN+ 285 | 11:00PM NCAA MEN`S BASKETBALL: SAINT LOUIS VS. SAINT MARY`S (SAINT LOUIS VS. SAINT MARY`S) (NOV 20)
+http://23.227.132.58:25461/Toolsplus/6969/224486
+#EXTINF:-1 tvg-name="ESPN 6 SD [P]" tvg-logo="" group-title="sports",ESPN 6 SD [P]
+http://fonte.lista.luxe:8080/pandoscanew/sdikfhvnwqpiweh/3978
+#EXTINF:-1 tvg-name="ESPN 2 FHD [P]" tvg-logo="" group-title="sports",ESPN 2 FHD [P]
+http://fonte.lista.luxe:8080/pandoscanew/sdikfhvnwqpiweh/4791
