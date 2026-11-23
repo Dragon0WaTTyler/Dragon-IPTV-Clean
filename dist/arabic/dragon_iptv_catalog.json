@@ -37,42 +37,38 @@
   },
   {
     "id": "dragon_arabic_47245c94267d",
-    "name": "Al Jazeera Arabic",
-    "original_name": "Al Jazeera Arabic | 🌟 FREE IPTV WORLD 🌟",
+    "name": "AR|AL JAZEERA ARABIC FHD",
+    "original_name": "AR|AL JAZEERA ARABIC FHD | 🌟 FREE IPTV WORLD 🌟",
     "language": "arabic",
     "groups": [
       "news"
     ],
     "raw_group": "AR| ARABIC NEWS",
-    "logo": "",
-    "primary_url": "http://tvmate.icu:8080/34164995/34164995/285731",
-    "alternates": [
-      "http://tvmate.icu:8080/34164995/34164995/276588",
-      "http://sts.mydroon.com:8080/9127491274/QDXDbuLzFDYaYbD/28069"
-    ],
-    "source_file": "FIW_1795373296_1_d65779_Hunter_D41F.m3u",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfyXT2noimKLPI1Uca3qpnBT3f46GQvT1ltbi3qZJpafePVeJdw56M4b_U",
+    "primary_url": "http://sts.mydroon.com:8080/9127491274/QDXDbuLzFDYaYbD/28069",
+    "alternates": [],
+    "source_file": "FIW_1795379972_1_3d2979_Hunter_61B4.m3u",
     "health_status": "reachable",
     "health_checked_urls": 1,
     "health_promoted": false
   },
   {
     "id": "dragon_arabic_c8811cb3fb14",
-    "name": "AR| Al jazeera Mubasher",
-    "original_name": "|AR| Al jazeera Mubasher | 🌟 FREE IPTV WORLD 🌟",
+    "name": "AR: AL JAZEERA MUBASHER",
+    "original_name": "AR: AL JAZEERA MUBASHER | 🌟 FREE IPTV WORLD 🌟",
     "language": "arabic",
     "groups": [
       "news"
     ],
     "raw_group": "AR| ARABIC NEWS",
-    "logo": "http://silvertv.net:1997/images/nile/al-jazeera.png",
+    "logo": "https://docdog.top/logo/countries/arab/aljazeeramubasher.png",
     "primary_url": "http://sts.mydroon.com:8080/9127491274/QDXDbuLzFDYaYbD/74846",
     "alternates": [
       "http://sts.mydroon.com:8080/9127491274/QDXDbuLzFDYaYbD/28061",
-      "http://mjidiptv.com:1997/OIHfiptvtree2023f/6tYbxSIifTUwg8Vm/5038",
       "http://31.43.191.125:8080/VIP01411172649548598/999b760a35d3/6599",
       "http://31.43.191.125:8080/VIP01411172649548598/999b760a35d3/130860"
     ],
-    "source_file": "FIW_1795373517_1_c97f45_Hunter_50EC.m3u",
+    "source_file": "FIW_1795379821_2_064819_Hunter_9C87.m3u",
     "health_status": "reachable",
     "health_checked_urls": 1,
     "health_promoted": false
@@ -153,45 +149,42 @@
   },
   {
     "id": "dragon_arabic_ed51d247c049",
-    "name": "QA: AL JAZEERA DOCUMENTARY",
-    "original_name": "QA: AL JAZEERA DOCUMENTARY | 🌟 FREE IPTV WORLD 🌟",
+    "name": "AR: AL JAZEERA DOCUMENTARY",
+    "original_name": "AR: AL JAZEERA DOCUMENTARY | 🌟 FREE IPTV WORLD 🌟",
     "language": "arabic",
     "groups": [
       "documentary"
     ],
     "raw_group": "AR | QATAR",
-    "logo": "",
-    "primary_url": "http://tvr.iptvboss.net:80/tree141es/sdfsdvvcxvxcvx/2555",
+    "logo": "https://docdog.top/logo/countries/arab/aljazeeradocumentary.png",
+    "primary_url": "http://lordstreams.live:80/joe/joe/272692",
     "alternates": [
-      "http://lordstreams.live:80/joe/joe/272692",
       "http://31.43.191.125:8080/VIP01411172649548598/999b760a35d3/6598"
     ],
-    "source_file": "FIW_1795373435_2_21a8d9_Hunter_CC97.m3u",
-    "health_status": "reachable",
+    "source_file": "FIW_1795379821_2_064819_Hunter_9C87.m3u",
+    "health_status": "unreachable",
     "health_checked_urls": 2,
-    "health_promoted": true
+    "health_promoted": false
   },
   {
     "id": "dragon_arabic_23896afbfed8",
-    "name": "AR| Al jazeera",
-    "original_name": "|AR| Al jazeera | 🌟 FREE IPTV WORLD 🌟",
+    "name": "AR: AL JAZEERA",
+    "original_name": "AR: AL JAZEERA | 🌟 FREE IPTV WORLD 🌟",
     "language": "arabic",
     "groups": [
       "news"
     ],
     "raw_group": "AR | QATAR",
-    "logo": "http://silvertv.net:1997/images/nile/al-jazeera.png",
+    "logo": "https://docdog.top/logo/countries/arab/aljazeera.png",
     "primary_url": "http://lordstreams.live:80/joe/joe/272688",
     "alternates": [
       "http://lordstreams.live:80/joe/joe/272689",
-      "http://mjidiptv.com:1997/OIHfiptvtree2023f/6tYbxSIifTUwg8Vm/5039",
       "http://31.43.191.125:8080/VIP01411172649548598/999b760a35d3/6597",
-      "http://mjidiptv.com:1997/OIHfiptvtree2023f/6tYbxSIifTUwg8Vm/62185",
       "http://31.43.191.125:8080/VIP01411172649548598/999b760a35d3/130861",
       "http://31.43.191.125:8080/VIP01411172649548598/999b760a35d3/130859",
       "http://31.43.191.125:8080/VIP01411172649548598/999b760a35d3/130858"
     ],
-    "source_file": "FIW_1795373517_1_c97f45_Hunter_50EC.m3u",
+    "source_file": "FIW_1795379821_2_064819_Hunter_9C87.m3u",
     "health_status": "reachable",
     "health_checked_urls": 2,
     "health_promoted": true
@@ -231,23 +224,6 @@
     "health_promoted": false
   },
   {
-    "id": "dragon_arabic_51cac8bdb9fe",
-    "name": "QA: AL JAZEERA FULL HD",
-    "original_name": "QA: AL JAZEERA FULL HD | 🌟 FREE IPTV WORLD 🌟",
-    "language": "arabic",
-    "groups": [
-      "news"
-    ],
-    "raw_group": "",
-    "logo": "",
-    "primary_url": "http://tvr.iptvboss.net:80/tree141es/sdfsdvvcxvxcvx/2557",
-    "alternates": [],
-    "source_file": "FIW_1795373435_2_21a8d9_Hunter_CC97.m3u",
-    "health_status": "reachable",
-    "health_checked_urls": 1,
-    "health_promoted": false
-  },
-  {
     "id": "dragon_arabic_137efd2fab40",
     "name": "AR| Al Arabiya",
     "original_name": "AR| Al Arabiya | 🌟 FREE IPTV WORLD 🌟",
@@ -261,7 +237,6 @@
     "alternates": [
       "http://sts.mydroon.com:8080/9127491274/QDXDbuLzFDYaYbD/72341",
       "http://sts.mydroon.com:8080/9127491274/QDXDbuLzFDYaYbD/239717",
-      "http://mjidiptv.com:1997/OIHfiptvtree2023f/6tYbxSIifTUwg8Vm/5037",
       "http://31.43.191.125:8080/VIP01411172649548598/999b760a35d3/130848"
     ],
     "source_file": "FIW_1795379972_1_3d2979_Hunter_61B4.m3u",
@@ -315,14 +290,14 @@
     ],
     "raw_group": "AR | NEWS",
     "logo": "http://vod-logo.net/photos/223f1d0317177abf0647fc1c6039ba44.png",
-    "primary_url": "http://lordstreams.live:80/joe/joe/272258",
+    "primary_url": "http://lordstreams.live:80/joe/joe/272259",
     "alternates": [
-      "http://lordstreams.live:80/joe/joe/272259"
+      "http://lordstreams.live:80/joe/joe/272258"
     ],
     "source_file": "FIW_1795379822_2_f24022_Hunter_5780.m3u",
     "health_status": "reachable",
-    "health_checked_urls": 2,
-    "health_promoted": true
+    "health_checked_urls": 1,
+    "health_promoted": false
   },
   {
     "id": "dragon_arabic_86aa0d5c601a",
@@ -354,40 +329,6 @@
     "primary_url": "http://globaltv.org.uk:8080/iptv.kosiptv.comNEW/gJUP3KsM2ENEW/1328",
     "alternates": [],
     "source_file": "FIW_1795379806_1_f1d2eb_Hunter_CE50.m3u",
-    "health_status": "reachable",
-    "health_checked_urls": 1,
-    "health_promoted": false
-  },
-  {
-    "id": "dragon_arabic_e8dfd62b6574",
-    "name": "AR| Al Arabiya Hadath",
-    "original_name": "|AR| Al Arabiya Hadath | 🌟 FREE IPTV WORLD 🌟",
-    "language": "arabic",
-    "groups": [
-      "news"
-    ],
-    "raw_group": "ARABIC NEWS",
-    "logo": "http://silvertv.net:1997/images/nile/alarabiyahadat.png",
-    "primary_url": "http://mjidiptv.com:1997/OIHfiptvtree2023f/6tYbxSIifTUwg8Vm/5036",
-    "alternates": [],
-    "source_file": "FIW_1795373517_1_c97f45_Hunter_50EC.m3u",
-    "health_status": "reachable",
-    "health_checked_urls": 1,
-    "health_promoted": false
-  },
-  {
-    "id": "dragon_arabic_ba7b2c71b2f5",
-    "name": "Al Arabiya FM",
-    "original_name": "Al Arabiya FM | 🌟 FREE IPTV WORLD 🌟",
-    "language": "arabic",
-    "groups": [
-      "news"
-    ],
-    "raw_group": "",
-    "logo": "",
-    "primary_url": "http://tvmate.icu:8080/34164995/34164995/292906",
-    "alternates": [],
-    "source_file": "FIW_1795373296_1_d65779_Hunter_D41F.m3u",
     "health_status": "reachable",
     "health_checked_urls": 1,
     "health_promoted": false
@@ -426,7 +367,7 @@
     "primary_url": "http://lordstreams.live:80/joe/joe/272794",
     "alternates": [],
     "source_file": "FIW_1795379822_2_f24022_Hunter_5780.m3u",
-    "health_status": "reachable",
+    "health_status": "unreachable",
     "health_checked_urls": 1,
     "health_promoted": false
   },
@@ -443,42 +384,23 @@
     "primary_url": "http://lordstreams.live:80/joe/joe/272456",
     "alternates": [],
     "source_file": "FIW_1795379822_2_f24022_Hunter_5780.m3u",
-    "health_status": "reachable",
+    "health_status": "unreachable",
     "health_checked_urls": 1,
     "health_promoted": false
   },
   {
     "id": "dragon_arabic_627d8769d22d",
-    "name": "AR| Sky News Arabia",
-    "original_name": "|AR| Sky News Arabia | 🌟 FREE IPTV WORLD 🌟",
+    "name": "AR|SKY NEWS ARABIA HD",
+    "original_name": "AR|SKY NEWS ARABIA HD | 🌟 FREE IPTV WORLD 🌟",
     "language": "arabic",
     "groups": [
       "news"
     ],
     "raw_group": "AR| ARABIC NEWS",
-    "logo": "http://silvertv.net:1997/images/nile/sky_uk_news_arabia.png",
+    "logo": "https://images-na.ssl-images-amazon.com/images/I/51Ucx2Z-DdL._SY355_.png",
     "primary_url": "http://sts.mydroon.com:8080/9127491274/QDXDbuLzFDYaYbD/72350",
-    "alternates": [
-      "http://mjidiptv.com:1997/OIHfiptvtree2023f/6tYbxSIifTUwg8Vm/5020"
-    ],
-    "source_file": "FIW_1795373517_1_c97f45_Hunter_50EC.m3u",
-    "health_status": "reachable",
-    "health_checked_urls": 1,
-    "health_promoted": false
-  },
-  {
-    "id": "dragon_arabic_78f27ba58fcc",
-    "name": "sky news arabia radio",
-    "original_name": "sky news arabia radio | 🌟 FREE IPTV WORLD 🌟",
-    "language": "arabic",
-    "groups": [
-      "news"
-    ],
-    "raw_group": "",
-    "logo": "",
-    "primary_url": "http://tvmate.icu:8080/34164995/34164995/271637",
     "alternates": [],
-    "source_file": "FIW_1795373296_1_d65779_Hunter_D41F.m3u",
+    "source_file": "FIW_1795379972_1_3d2979_Hunter_61B4.m3u",
     "health_status": "reachable",
     "health_checked_urls": 1,
     "health_promoted": false
@@ -559,23 +481,6 @@
     "health_promoted": false
   },
   {
-    "id": "dragon_arabic_e114e0cd2c74",
-    "name": "BBC Arabic 1413 AM",
-    "original_name": "BBC Arabic 1413 AM | 🌟 FREE IPTV WORLD 🌟",
-    "language": "arabic",
-    "groups": [
-      "news"
-    ],
-    "raw_group": "",
-    "logo": "",
-    "primary_url": "http://tvmate.icu:8080/34164995/34164995/293384",
-    "alternates": [],
-    "source_file": "FIW_1795373296_1_d65779_Hunter_D41F.m3u",
-    "health_status": "reachable",
-    "health_checked_urls": 1,
-    "health_promoted": false
-  },
-  {
     "id": "dragon_arabic_8a0b665b5957",
     "name": "AR|DW ARABIC HD",
     "original_name": "AR|DW ARABIC HD | 🌟 FREE IPTV WORLD 🌟",
@@ -621,14 +526,14 @@
     ],
     "raw_group": "AR| ARABIC NEWS",
     "logo": "https://www9.0zz0.com/2020/04/18/22/211575414.jpg",
-    "primary_url": "http://lordstreams.live:80/joe/joe/273244",
+    "primary_url": "http://sts.mydroon.com:8080/9127491274/QDXDbuLzFDYaYbD/28067",
     "alternates": [
-      "http://sts.mydroon.com:8080/9127491274/QDXDbuLzFDYaYbD/28067"
+      "http://lordstreams.live:80/joe/joe/273244"
     ],
     "source_file": "FIW_1795379972_1_3d2979_Hunter_61B4.m3u",
     "health_status": "reachable",
-    "health_checked_urls": 1,
-    "health_promoted": false
+    "health_checked_urls": 2,
+    "health_promoted": true
   },
   {
     "id": "dragon_arabic_4d3717c2e019",
@@ -665,6 +570,109 @@
     "health_promoted": false
   },
   {
+    "id": "dragon_arabic_5beb3b09e3e4",
+    "name": "Kansas City Missouri ABC 9- KMBC",
+    "original_name": "Kansas City Missouri ABC 9- KMBC | 🌟 FREE IPTV WORLD 🌟",
+    "language": "arabic",
+    "groups": [],
+    "raw_group": "",
+    "logo": "",
+    "primary_url": "http://23.227.132.58:25461/Petepool/Rocky/201561",
+    "alternates": [
+      "http://23.227.132.58:25461/Titan0702/123456/201561",
+      "http://23.227.132.58:25461/nodi01/Juicyjuice1/201561",
+      "http://23.227.132.58:25461/STREAM2/Brewers825/201561",
+      "http://23.227.132.58:25461/robtnking/NorrisTTL/201561",
+      "http://23.227.132.58:25461/Torchrose/21Gigawatt/201561",
+      "http://23.227.132.58:25461/peedee0420/Jts62dms59/201561",
+      "http://23.227.132.58:25461/Redsilverado86/Dakota22/201561",
+      "http://23.227.132.58:25461/Prelude97matt/H22aturbo/201561",
+      "http://23.227.132.58:25461/Papshirley/Academyave311/201561"
+    ],
+    "source_file": "FIW_1795409124_2_456643_Hunter_823D.m3u",
+    "health_status": "not_checked",
+    "health_checked_urls": 0,
+    "health_promoted": false
+  },
+  {
+    "id": "dragon_arabic_3bc002fe1d7d",
+    "name": "ESPN+ 046 | 01:00PM LANCASTER BIBLE COLLEGE VS. UMBC (NOV 22)",
+    "original_name": "ESPN+ 046 | 01:00PM LANCASTER BIBLE COLLEGE VS. UMBC (NOV 22) | 🌟 FREE IPTV WORLD 🌟",
+    "language": "arabic",
+    "groups": [
+      "sports"
+    ],
+    "raw_group": "",
+    "logo": "",
+    "primary_url": "http://23.227.132.58:25461/Petepool/Rocky/225409",
+    "alternates": [
+      "http://23.227.132.58:25461/Titan0702/123456/225409",
+      "http://23.227.132.58:25461/nodi01/Juicyjuice1/225409",
+      "http://23.227.132.58:25461/STREAM2/Brewers825/225409",
+      "http://23.227.132.58:25461/robtnking/NorrisTTL/225409",
+      "http://23.227.132.58:25461/Torchrose/21Gigawatt/225409",
+      "http://23.227.132.58:25461/peedee0420/Jts62dms59/225409",
+      "http://23.227.132.58:25461/Redsilverado86/Dakota22/225409",
+      "http://23.227.132.58:25461/Prelude97matt/H22aturbo/225409",
+      "http://23.227.132.58:25461/Papshirley/Academyave311/225409"
+    ],
+    "source_file": "FIW_1795409124_2_456643_Hunter_823D.m3u",
+    "health_status": "not_checked",
+    "health_checked_urls": 0,
+    "health_promoted": false
+  },
+  {
+    "id": "dragon_arabic_56fe2458ffd0",
+    "name": "BH| ARENA 1 PREMIUM",
+    "original_name": "|BH| ARENA 1 PREMIUM | 🌟 FREE IPTV WORLD 🌟",
+    "language": "arabic",
+    "groups": [
+      "sports"
+    ],
+    "raw_group": "Sport",
+    "logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/serbia/arena-1-premium-rs.png?raw=true",
+    "primary_url": "http://p2.topten70.net:80/Alija-klub/ALv8DuHJUv/557",
+    "alternates": [],
+    "source_file": "FIW_1795413890_2_f240c1_Hunter_D9EB.m3u",
+    "health_status": "not_checked",
+    "health_checked_urls": 0,
+    "health_promoted": false
+  },
+  {
+    "id": "dragon_arabic_0d4cf70f4ed5",
+    "name": "BH| ARENA 2 PREMIUM",
+    "original_name": "|BH| ARENA 2 PREMIUM | 🌟 FREE IPTV WORLD 🌟",
+    "language": "arabic",
+    "groups": [
+      "sports"
+    ],
+    "raw_group": "Sport",
+    "logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/serbia/arena-2-premium-rs.png?raw=true",
+    "primary_url": "http://p2.topten70.net:80/Alija-klub/ALv8DuHJUv/695",
+    "alternates": [],
+    "source_file": "FIW_1795413890_2_f240c1_Hunter_D9EB.m3u",
+    "health_status": "not_checked",
+    "health_checked_urls": 0,
+    "health_promoted": false
+  },
+  {
+    "id": "dragon_arabic_d8e00ed1ae02",
+    "name": "BH| ARENA 3 PREMIUM",
+    "original_name": "|BH| ARENA 3 PREMIUM | 🌟 FREE IPTV WORLD 🌟",
+    "language": "arabic",
+    "groups": [
+      "sports"
+    ],
+    "raw_group": "Sport",
+    "logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/serbia/arena-3-premium-rs.png?raw=true",
+    "primary_url": "http://p2.topten70.net:80/Alija-klub/ALv8DuHJUv/696",
+    "alternates": [],
+    "source_file": "FIW_1795413890_2_f240c1_Hunter_D9EB.m3u",
+    "health_status": "not_checked",
+    "health_checked_urls": 0,
+    "health_promoted": false
+  },
+  {
     "id": "dragon_arabic_25e113dee71b",
     "name": "MA|2M NAT",
     "original_name": "MA|2M NAT | 🌟 FREE IPTV WORLD 🌟",
@@ -687,10 +695,8 @@
     "groups": [],
     "raw_group": "MA| MAROC (MOROCCO)",
     "logo": "",
-    "primary_url": "http://tvr.iptvboss.net:80/tree141es/sdfsdvvcxvxcvx/2671",
-    "alternates": [
-      "http://sts.mydroon.com:8080/9127491274/QDXDbuLzFDYaYbD/228687"
-    ],
+    "primary_url": "http://sts.mydroon.com:8080/9127491274/QDXDbuLzFDYaYbD/228687",
+    "alternates": [],
     "source_file": "FIW_1795379972_1_3d2979_Hunter_61B4.m3u",
     "health_status": "not_checked",
     "health_checked_urls": 0,
@@ -728,19 +734,18 @@
   },
   {
     "id": "dragon_arabic_5e0564526b87",
-    "name": "MA| Al AOULA INTER",
-    "original_name": "|MA| Al AOULA INTER | 🌟 FREE IPTV WORLD 🌟",
+    "name": "AR: AL AOULA INTER",
+    "original_name": "AR: AL AOULA INTER | 🌟 FREE IPTV WORLD 🌟",
     "language": "arabic",
     "groups": [],
     "raw_group": "MA| MAROC (MOROCCO)",
-    "logo": "",
-    "primary_url": "http://tvr.iptvboss.net:80/tree141es/sdfsdvvcxvxcvx/2672",
+    "logo": "https://docdog.top/logo/countries/arab/alaoulainter.png",
+    "primary_url": "http://sts.mydroon.com:8080/9127491274/QDXDbuLzFDYaYbD/228688",
     "alternates": [
-      "http://sts.mydroon.com:8080/9127491274/QDXDbuLzFDYaYbD/228688",
       "http://sts.mydroon.com:8080/9127491274/QDXDbuLzFDYaYbD/228685",
       "http://31.43.191.125:8080/VIP01411172649548598/999b760a35d3/6926"
     ],
-    "source_file": "FIW_1795373435_2_21a8d9_Hunter_CC97.m3u",
+    "source_file": "FIW_1795379821_2_064819_Hunter_9C87.m3u",
     "health_status": "not_checked",
     "health_checked_urls": 0,
     "health_promoted": false
@@ -832,10 +837,8 @@
     "groups": [],
     "raw_group": "MA| MAROC (MOROCCO)",
     "logo": "",
-    "primary_url": "http://tvr.iptvboss.net:80/tree141es/sdfsdvvcxvxcvx/2670",
-    "alternates": [
-      "http://sts.mydroon.com:8080/9127491274/QDXDbuLzFDYaYbD/238657"
-    ],
+    "primary_url": "http://sts.mydroon.com:8080/9127491274/QDXDbuLzFDYaYbD/238657",
+    "alternates": [],
     "source_file": "FIW_1795379972_1_3d2979_Hunter_61B4.m3u",
     "health_status": "not_checked",
     "health_checked_urls": 0,
@@ -851,10 +854,8 @@
     ],
     "raw_group": "MA| MAROC (MOROCCO)",
     "logo": "https://docdog.top/logo/countries/ar/ARRYADIA_HD.png",
-    "primary_url": "http://tvr.iptvboss.net:80/tree141es/sdfsdvvcxvxcvx/54157",
+    "primary_url": "http://sts.mydroon.com:8080/9127491274/QDXDbuLzFDYaYbD/1588",
     "alternates": [
-      "http://sts.mydroon.com:8080/9127491274/QDXDbuLzFDYaYbD/1588",
-      "http://mjidiptv.com:1997/OIHfiptvtree2023f/6tYbxSIifTUwg8Vm/4963",
       "http://31.43.191.125:8080/VIP01411172649548598/999b760a35d3/131036"
     ],
     "source_file": "FIW_1795379821_2_064819_Hunter_9C87.m3u",
@@ -864,18 +865,17 @@
   },
   {
     "id": "dragon_arabic_1fbf6230592d",
-    "name": "MA| ARRYADIA TNT",
-    "original_name": "|MA| ARRYADIA TNT | 🌟 FREE IPTV WORLD 🌟",
+    "name": "MA| ARRYADIA TNT FHD",
+    "original_name": "MA| ARRYADIA TNT FHD | 🌟 FREE IPTV WORLD 🌟",
     "language": "arabic",
     "groups": [],
     "raw_group": "MA| MAROC (MOROCCO)",
-    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKqOpjFBONr3xgk5WaXavlz5wpvYZjvVNBpsbH6BXprqceF2oGpanxSmE&s",
+    "logo": "https://www.cafonline.com/media/sa4cpure/afcon2025_logo_land_color-v1.png",
     "primary_url": "http://sts.mydroon.com:8080/9127491274/QDXDbuLzFDYaYbD/55547",
     "alternates": [
-      "http://sts.mydroon.com:8080/9127491274/QDXDbuLzFDYaYbD/240101",
-      "http://mjidiptv.com:1997/OIHfiptvtree2023f/6tYbxSIifTUwg8Vm/19365"
+      "http://sts.mydroon.com:8080/9127491274/QDXDbuLzFDYaYbD/240101"
     ],
-    "source_file": "FIW_1795373517_1_c97f45_Hunter_50EC.m3u",
+    "source_file": "FIW_1795379972_1_3d2979_Hunter_61B4.m3u",
     "health_status": "not_checked",
     "health_checked_urls": 0,
     "health_promoted": false
@@ -950,54 +950,51 @@
   },
   {
     "id": "dragon_arabic_e4896dce443d",
-    "name": "MA| ARRABIAA TNT",
-    "original_name": "|MA| ARRABIAA TNT | 🌟 FREE IPTV WORLD 🌟",
+    "name": "MA|ARRABIAA HD (TNT)",
+    "original_name": "MA|ARRABIAA HD (TNT) | 🌟 FREE IPTV WORLD 🌟",
     "language": "arabic",
     "groups": [],
     "raw_group": "MA| MAROC (MOROCCO)",
-    "logo": "http://silvertv.net:1997/images/MOROCCO/arrabiaa.png",
+    "logo": "http://kinglogo.newtvhd.com/logoo/MAROC4K/arrabia%20tnt.png",
     "primary_url": "http://sts.mydroon.com:8080/9127491274/QDXDbuLzFDYaYbD/1014",
     "alternates": [
-      "http://sts.mydroon.com:8080/9127491274/QDXDbuLzFDYaYbD/77803",
-      "http://mjidiptv.com:1997/OIHfiptvtree2023f/6tYbxSIifTUwg8Vm/19363"
+      "http://sts.mydroon.com:8080/9127491274/QDXDbuLzFDYaYbD/77803"
     ],
-    "source_file": "FIW_1795373517_1_c97f45_Hunter_50EC.m3u",
+    "source_file": "FIW_1795379972_1_3d2979_Hunter_61B4.m3u",
     "health_status": "not_checked",
     "health_checked_urls": 0,
     "health_promoted": false
   },
   {
     "id": "dragon_arabic_00ca824a50fb",
-    "name": "MA| AL MAGHRIBIA TNT",
-    "original_name": "|MA| AL MAGHRIBIA TNT | 🌟 FREE IPTV WORLD 🌟",
+    "name": "MA|AL MAGHRIBIA HD (TNT)",
+    "original_name": "MA|AL MAGHRIBIA HD (TNT) | 🌟 FREE IPTV WORLD 🌟",
     "language": "arabic",
     "groups": [],
     "raw_group": "MA| MAROC (MOROCCO)",
-    "logo": "http://silvertv.net:1997/images/MOROCCO/AlMaghribia.png",
+    "logo": "http://kinglogo.newtvhd.com/logoo/MAROC4K/al%20maghribia%20hd.png",
     "primary_url": "http://sts.mydroon.com:8080/9127491274/QDXDbuLzFDYaYbD/1012",
     "alternates": [
-      "http://sts.mydroon.com:8080/9127491274/QDXDbuLzFDYaYbD/14986",
-      "http://mjidiptv.com:1997/OIHfiptvtree2023f/6tYbxSIifTUwg8Vm/19362"
+      "http://sts.mydroon.com:8080/9127491274/QDXDbuLzFDYaYbD/14986"
     ],
-    "source_file": "FIW_1795373517_1_c97f45_Hunter_50EC.m3u",
+    "source_file": "FIW_1795379972_1_3d2979_Hunter_61B4.m3u",
     "health_status": "not_checked",
     "health_checked_urls": 0,
     "health_promoted": false
   },
   {
     "id": "dragon_arabic_182588a83efd",
-    "name": "MA| ASSADISSA TNT",
-    "original_name": "|MA| ASSADISSA TNT | 🌟 FREE IPTV WORLD 🌟",
+    "name": "MA|ASSADISSA HD (TNT)",
+    "original_name": "MA|ASSADISSA HD (TNT) | 🌟 FREE IPTV WORLD 🌟",
     "language": "arabic",
     "groups": [],
     "raw_group": "MA| MAROC (MOROCCO)",
-    "logo": "http://silvertv.net:1997/images/MOROCCO/Assadissa.png",
+    "logo": "http://kinglogo.newtvhd.com/logoo/MAROC4K/assadissa%20hd.png",
     "primary_url": "http://sts.mydroon.com:8080/9127491274/QDXDbuLzFDYaYbD/1015",
     "alternates": [
-      "http://sts.mydroon.com:8080/9127491274/QDXDbuLzFDYaYbD/55546",
-      "http://mjidiptv.com:1997/OIHfiptvtree2023f/6tYbxSIifTUwg8Vm/19364"
+      "http://sts.mydroon.com:8080/9127491274/QDXDbuLzFDYaYbD/55546"
     ],
-    "source_file": "FIW_1795373517_1_c97f45_Hunter_50EC.m3u",
+    "source_file": "FIW_1795379972_1_3d2979_Hunter_61B4.m3u",
     "health_status": "not_checked",
     "health_checked_urls": 0,
     "health_promoted": false
@@ -1095,7 +1092,6 @@
     "logo": "http://kinglogo.newtvhd.com/logoo/MAROC4K/CHADA%20TV.png",
     "primary_url": "http://sts.mydroon.com:8080/9127491274/QDXDbuLzFDYaYbD/7540",
     "alternates": [
-      "http://mjidiptv.com:1997/OIHfiptvtree2023f/6tYbxSIifTUwg8Vm/9981",
       "http://31.43.191.125:8080/VIP01411172649548598/999b760a35d3/6353"
     ],
     "source_file": "FIW_1795379972_1_3d2979_Hunter_61B4.m3u",
@@ -1128,8 +1124,7 @@
     "logo": "http://kinglogo.newtvhd.com/logoo/MAROC4K/AL%20ONS%20TV.png",
     "primary_url": "http://lordstreams.live:80/joe/joe/272173",
     "alternates": [
-      "http://sts.mydroon.com:8080/9127491274/QDXDbuLzFDYaYbD/73944",
-      "http://mjidiptv.com:1997/OIHfiptvtree2023f/6tYbxSIifTUwg8Vm/6650"
+      "http://sts.mydroon.com:8080/9127491274/QDXDbuLzFDYaYbD/73944"
     ],
     "source_file": "FIW_1795379972_1_3d2979_Hunter_61B4.m3u",
     "health_status": "not_checked",
@@ -3625,7 +3620,7 @@
     "primary_url": "http://sts.mydroon.com:8080/9127491274/QDXDbuLzFDYaYbD/52320",
     "alternates": [],
     "source_file": "FIW_1795379972_1_3d2979_Hunter_61B4.m3u",
-    "health_status": "reachable",
+    "health_status": "unreachable",
     "health_checked_urls": 1,
     "health_promoted": false
   },
@@ -4062,7 +4057,7 @@
     "primary_url": "http://sts.mydroon.com:8080/9127491274/QDXDbuLzFDYaYbD/199710",
     "alternates": [],
     "source_file": "FIW_1795379972_1_3d2979_Hunter_61B4.m3u",
-    "health_status": "reachable",
+    "health_status": "unreachable",
     "health_checked_urls": 1,
     "health_promoted": false
   },
@@ -4166,15 +4161,15 @@
     ],
     "raw_group": "AR| ARABIC NEWS",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/8/87/Alaraby_TV_Logo.png",
-    "primary_url": "http://lordstreams.live:80/joe/joe/272691",
+    "primary_url": "http://sts.mydroon.com:8080/9127491274/QDXDbuLzFDYaYbD/75014",
     "alternates": [
-      "http://sts.mydroon.com:8080/9127491274/QDXDbuLzFDYaYbD/75014",
+      "http://lordstreams.live:80/joe/joe/272691",
       "http://sts.mydroon.com:8080/9127491274/QDXDbuLzFDYaYbD/72342"
     ],
     "source_file": "FIW_1795379972_1_3d2979_Hunter_61B4.m3u",
     "health_status": "reachable",
-    "health_checked_urls": 1,
-    "health_promoted": false
+    "health_checked_urls": 2,
+    "health_promoted": true
   },
   {
     "id": "dragon_arabic_5aa82b64f686",
@@ -4222,14 +4217,14 @@
     ],
     "raw_group": "AR| ARABIC NEWS",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/4/45/%D9%82%D9%86%D8%A7%D8%A9_%D9%85%D9%83%D9%85%D9%84%D9%8A%D9%86.jpg",
-    "primary_url": "http://lordstreams.live:80/joe/joe/272495",
+    "primary_url": "http://sts.mydroon.com:8080/9127491274/QDXDbuLzFDYaYbD/72348",
     "alternates": [
-      "http://sts.mydroon.com:8080/9127491274/QDXDbuLzFDYaYbD/72348"
+      "http://lordstreams.live:80/joe/joe/272495"
     ],
     "source_file": "FIW_1795379972_1_3d2979_Hunter_61B4.m3u",
     "health_status": "reachable",
-    "health_checked_urls": 1,
-    "health_promoted": false
+    "health_checked_urls": 2,
+    "health_promoted": true
   },
   {
     "id": "dragon_arabic_a5c71e0d21be",
@@ -4731,9 +4726,7 @@
     "raw_group": "SA| SAUDI ARABIA",
     "logo": "",
     "primary_url": "http://sts.mydroon.com:8080/9127491274/QDXDbuLzFDYaYbD/125513",
-    "alternates": [
-      "http://mjidiptv.com:1997/OIHfiptvtree2023f/6tYbxSIifTUwg8Vm/5006"
-    ],
+    "alternates": [],
     "source_file": "FIW_1795379972_1_3d2979_Hunter_61B4.m3u",
     "health_status": "not_checked",
     "health_checked_urls": 0,
@@ -5200,9 +5193,7 @@
     "raw_group": "AR| ALGERIA",
     "logo": "http://kinglogo.newtvhd.com/logoo/ALGERIE/ALMAGHARIBIA.png",
     "primary_url": "http://sts.mydroon.com:8080/9127491274/QDXDbuLzFDYaYbD/154652",
-    "alternates": [
-      "http://mjidiptv.com:1997/OIHfiptvtree2023f/6tYbxSIifTUwg8Vm/49735"
-    ],
+    "alternates": [],
     "source_file": "FIW_1795379972_1_3d2979_Hunter_61B4.m3u",
     "health_status": "not_checked",
     "health_checked_urls": 0,
@@ -5218,9 +5209,7 @@
     "logo": "http://kinglogo.newtvhd.com/logoo/ALGERIE/SAMIRA+.png",
     "primary_url": "http://lordstreams.live:80/joe/joe/272524",
     "alternates": [
-      "http://tvr.iptvboss.net:80/tree141es/sdfsdvvcxvxcvx/2652",
       "http://sts.mydroon.com:8080/9127491274/QDXDbuLzFDYaYbD/135649",
-      "http://mjidiptv.com:1997/OIHfiptvtree2023f/6tYbxSIifTUwg8Vm/4976",
       "http://31.43.191.125:8080/VIP01411172649548598/999b760a35d3/6403"
     ],
     "source_file": "FIW_1795379972_1_3d2979_Hunter_61B4.m3u",
@@ -5542,10 +5531,8 @@
     "groups": [],
     "raw_group": "AR| ISLAMIC CHANNELS",
     "logo": "http://kinglogo.newtvhd.com/logoo/SAUDI/ALQURAN.png",
-    "primary_url": "http://tvr.iptvboss.net:80/tree141es/sdfsdvvcxvxcvx/2529",
+    "primary_url": "http://sts.mydroon.com:8080/9127491274/QDXDbuLzFDYaYbD/70328",
     "alternates": [
-      "http://sts.mydroon.com:8080/9127491274/QDXDbuLzFDYaYbD/70328",
-      "http://mjidiptv.com:1997/OIHfiptvtree2023f/6tYbxSIifTUwg8Vm/5002",
       "http://31.43.191.125:8080/VIP01411172649548598/999b760a35d3/6712"
     ],
     "source_file": "FIW_1795379972_1_3d2979_Hunter_61B4.m3u",
@@ -5576,11 +5563,8 @@
     "groups": [],
     "raw_group": "AR| ISLAMIC CHANNELS",
     "logo": "http://kinglogo.newtvhd.com/logoo/SAUDI/Saudi%20sunnah.png",
-    "primary_url": "http://tvr.iptvboss.net:80/tree141es/sdfsdvvcxvxcvx/2528",
-    "alternates": [
-      "http://sts.mydroon.com:8080/9127491274/QDXDbuLzFDYaYbD/70331",
-      "http://mjidiptv.com:1997/OIHfiptvtree2023f/6tYbxSIifTUwg8Vm/5001"
-    ],
+    "primary_url": "http://sts.mydroon.com:8080/9127491274/QDXDbuLzFDYaYbD/70331",
+    "alternates": [],
     "source_file": "FIW_1795379972_1_3d2979_Hunter_61B4.m3u",
     "health_status": "not_checked",
     "health_checked_urls": 0,
@@ -5630,9 +5614,7 @@
     "logo": "https://www3.0zz0.com/2020/04/18/22/631749320.jpg",
     "primary_url": "http://lordstreams.live:80/joe/joe/272639",
     "alternates": [
-      "http://tvr.iptvboss.net:80/tree141es/sdfsdvvcxvxcvx/2525",
-      "http://sts.mydroon.com:8080/9127491274/QDXDbuLzFDYaYbD/70334",
-      "http://mjidiptv.com:1997/OIHfiptvtree2023f/6tYbxSIifTUwg8Vm/5009"
+      "http://sts.mydroon.com:8080/9127491274/QDXDbuLzFDYaYbD/70334"
     ],
     "source_file": "FIW_1795379972_1_3d2979_Hunter_61B4.m3u",
     "health_status": "not_checked",
@@ -5647,10 +5629,8 @@
     "groups": [],
     "raw_group": "AR| ISLAMIC CHANNELS",
     "logo": "https://www14.0zz0.com/2020/04/18/22/861445734.jpg",
-    "primary_url": "http://tvr.iptvboss.net:80/tree141es/sdfsdvvcxvxcvx/2534",
-    "alternates": [
-      "http://sts.mydroon.com:8080/9127491274/QDXDbuLzFDYaYbD/70335"
-    ],
+    "primary_url": "http://sts.mydroon.com:8080/9127491274/QDXDbuLzFDYaYbD/70335",
+    "alternates": [],
     "source_file": "FIW_1795379972_1_3d2979_Hunter_61B4.m3u",
     "health_status": "not_checked",
     "health_checked_urls": 0,
@@ -5784,13 +5764,9 @@
     "primary_url": "http://lordstreams.live:80/joe/joe/273335",
     "alternates": [
       "http://lordstreams.live:80/joe/joe/273328",
-      "http://tvr.iptvboss.net:80/tree141es/sdfsdvvcxvxcvx/2607",
-      "http://tvr.iptvboss.net:80/tree141es/sdfsdvvcxvxcvx/2606",
       "http://sts.mydroon.com:8080/9127491274/QDXDbuLzFDYaYbD/71459",
       "http://sts.mydroon.com:8080/9127491274/QDXDbuLzFDYaYbD/70303",
-      "http://mjidiptv.com:1997/OIHfiptvtree2023f/6tYbxSIifTUwg8Vm/5059",
-      "http://31.43.191.125:8080/VIP01411172649548598/999b760a35d3/6410",
-      "http://mjidiptv.com:1997/OIHfiptvtree2023f/6tYbxSIifTUwg8Vm/18017"
+      "http://31.43.191.125:8080/VIP01411172649548598/999b760a35d3/6410"
     ],
     "source_file": "FIW_1795379822_2_f24022_Hunter_5780.m3u",
     "health_status": "not_checked",
@@ -5808,8 +5784,7 @@
     "primary_url": "http://lordstreams.live:80/joe/joe/272680",
     "alternates": [
       "http://sts.mydroon.com:8080/9127491274/QDXDbuLzFDYaYbD/70308",
-      "http://31.43.191.125:8080/VIP01411172649548598/999b760a35d3/7050",
-      "http://mjidiptv.com:1997/OIHfiptvtree2023f/6tYbxSIifTUwg8Vm/54074"
+      "http://31.43.191.125:8080/VIP01411172649548598/999b760a35d3/7050"
     ],
     "source_file": "FIW_1795379972_1_3d2979_Hunter_61B4.m3u",
     "health_status": "not_checked",
@@ -5856,11 +5831,8 @@
     "groups": [],
     "raw_group": "AR| ARABIC CINEMA TV",
     "logo": "http://kinglogo.newtvhd.com/logoo/OSN/ARTCINEMA.jpg",
-    "primary_url": "http://tvr.iptvboss.net:80/tree141es/sdfsdvvcxvxcvx/2560",
-    "alternates": [
-      "http://sts.mydroon.com:8080/9127491274/QDXDbuLzFDYaYbD/70323",
-      "http://mjidiptv.com:1997/OIHfiptvtree2023f/6tYbxSIifTUwg8Vm/5082"
-    ],
+    "primary_url": "http://sts.mydroon.com:8080/9127491274/QDXDbuLzFDYaYbD/70323",
+    "alternates": [],
     "source_file": "FIW_1795379972_1_3d2979_Hunter_61B4.m3u",
     "health_status": "not_checked",
     "health_checked_urls": 0,
@@ -5874,11 +5846,8 @@
     "groups": [],
     "raw_group": "AR| ARABIC CINEMA TV",
     "logo": "http://kinglogo.newtvhd.com/logoo/OSN/ART-AFLAM-1.png",
-    "primary_url": "http://tvr.iptvboss.net:80/tree141es/sdfsdvvcxvxcvx/2564",
-    "alternates": [
-      "http://sts.mydroon.com:8080/9127491274/QDXDbuLzFDYaYbD/70324",
-      "http://mjidiptv.com:1997/OIHfiptvtree2023f/6tYbxSIifTUwg8Vm/5084"
-    ],
+    "primary_url": "http://sts.mydroon.com:8080/9127491274/QDXDbuLzFDYaYbD/70324",
+    "alternates": [],
     "source_file": "FIW_1795379972_1_3d2979_Hunter_61B4.m3u",
     "health_status": "not_checked",
     "health_checked_urls": 0,
@@ -5892,11 +5861,8 @@
     "groups": [],
     "raw_group": "AR| ARABIC CINEMA TV",
     "logo": "http://kinglogo.newtvhd.com/logoo/OSN/AFLAM2.png",
-    "primary_url": "http://tvr.iptvboss.net:80/tree141es/sdfsdvvcxvxcvx/2563",
-    "alternates": [
-      "http://sts.mydroon.com:8080/9127491274/QDXDbuLzFDYaYbD/70325",
-      "http://mjidiptv.com:1997/OIHfiptvtree2023f/6tYbxSIifTUwg8Vm/5083"
-    ],
+    "primary_url": "http://sts.mydroon.com:8080/9127491274/QDXDbuLzFDYaYbD/70325",
+    "alternates": [],
     "source_file": "FIW_1795379972_1_3d2979_Hunter_61B4.m3u",
     "health_status": "not_checked",
     "health_checked_urls": 0,
@@ -5910,11 +5876,8 @@
     "groups": [],
     "raw_group": "AR| ARABIC CINEMA TV",
     "logo": "http://kinglogo.newtvhd.com/logoo/OSN/HEKAYAT-2.png",
-    "primary_url": "http://tvr.iptvboss.net:80/tree141es/sdfsdvvcxvxcvx/2561",
-    "alternates": [
-      "http://sts.mydroon.com:8080/9127491274/QDXDbuLzFDYaYbD/70327",
-      "http://mjidiptv.com:1997/OIHfiptvtree2023f/6tYbxSIifTUwg8Vm/5080"
-    ],
+    "primary_url": "http://sts.mydroon.com:8080/9127491274/QDXDbuLzFDYaYbD/70327",
+    "alternates": [],
     "source_file": "FIW_1795379972_1_3d2979_Hunter_61B4.m3u",
     "health_status": "not_checked",
     "health_checked_urls": 0,
@@ -6290,7 +6253,6 @@
     "primary_url": "http://lordstreams.live:80/joe/joe/272487",
     "alternates": [
       "http://sts.mydroon.com:8080/9127491274/QDXDbuLzFDYaYbD/71429",
-      "http://mjidiptv.com:1997/OIHfiptvtree2023f/6tYbxSIifTUwg8Vm/5023",
       "http://31.43.191.125:8080/VIP01411172649548598/999b760a35d3/6684"
     ],
     "source_file": "FIW_1795379972_1_3d2979_Hunter_61B4.m3u",
@@ -6311,7 +6273,6 @@
     "primary_url": "http://lordstreams.live:80/joe/joe/272488",
     "alternates": [
       "http://sts.mydroon.com:8080/9127491274/QDXDbuLzFDYaYbD/71430",
-      "http://mjidiptv.com:1997/OIHfiptvtree2023f/6tYbxSIifTUwg8Vm/5043",
       "http://31.43.191.125:8080/VIP01411172649548598/999b760a35d3/6685",
       "http://31.43.191.125:8080/VIP01411172649548598/999b760a35d3/131055"
     ],
@@ -6410,9 +6371,8 @@
     "groups": [],
     "raw_group": "EG| EGYPT",
     "logo": "https://www6.0zz0.com/2020/04/20/07/985699429.jpg",
-    "primary_url": "http://tvr.iptvboss.net:80/tree141es/sdfsdvvcxvxcvx/2567",
+    "primary_url": "http://sts.mydroon.com:8080/9127491274/QDXDbuLzFDYaYbD/71451",
     "alternates": [
-      "http://sts.mydroon.com:8080/9127491274/QDXDbuLzFDYaYbD/71451",
       "http://sts.mydroon.com:8080/9127491274/QDXDbuLzFDYaYbD/239705"
     ],
     "source_file": "FIW_1795379972_1_3d2979_Hunter_61B4.m3u",
@@ -6422,40 +6382,35 @@
   },
   {
     "id": "dragon_arabic_11dd7ffb7f20",
-    "name": "AR| Rotana Aflam",
-    "original_name": "|AR| Rotana Aflam | 🌟 FREE IPTV WORLD 🌟",
+    "name": "Rotana Aflam + HD",
+    "original_name": "Rotana Aflam + HD | 🌟 FREE IPTV WORLD 🌟",
     "language": "arabic",
     "groups": [],
     "raw_group": "EG| EGYPT",
-    "logo": "http://silvertv.net:1997/images/APREMUIM/RotanaAflam.png",
+    "logo": "http://vod-logo.net/photos/11f738347a814a471438be2eb80a3cdc.png",
     "primary_url": "http://lordstreams.live:80/joe/joe/273338",
     "alternates": [
       "http://sts.mydroon.com:8080/9127491274/QDXDbuLzFDYaYbD/71457",
-      "http://mjidiptv.com:1997/OIHfiptvtree2023f/6tYbxSIifTUwg8Vm/5061",
       "http://31.43.191.125:8080/VIP01411172649548598/999b760a35d3/6406"
     ],
-    "source_file": "FIW_1795373517_1_c97f45_Hunter_50EC.m3u",
+    "source_file": "FIW_1795379822_2_f24022_Hunter_5780.m3u",
     "health_status": "not_checked",
     "health_checked_urls": 0,
     "health_promoted": false
   },
   {
     "id": "dragon_arabic_4d3b4b9a1888",
-    "name": "AR| Rotana Cinema",
-    "original_name": "|AR| Rotana Cinema | 🌟 FREE IPTV WORLD 🌟",
+    "name": "AR: ROTANA CINEMA",
+    "original_name": "AR: ROTANA CINEMA | 🌟 FREE IPTV WORLD 🌟",
     "language": "arabic",
     "groups": [],
     "raw_group": "EG| EGYPT",
-    "logo": "http://silvertv.net:1997/images/APREMUIM/RotanaCinema.png",
-    "primary_url": "http://tvr.iptvboss.net:80/tree141es/sdfsdvvcxvxcvx/2616",
+    "logo": "https://docdog.top/logo/countries/arab/rotanacinema.png",
+    "primary_url": "http://sts.mydroon.com:8080/9127491274/QDXDbuLzFDYaYbD/71458",
     "alternates": [
-      "http://tvr.iptvboss.net:80/tree141es/sdfsdvvcxvxcvx/2615",
-      "http://sts.mydroon.com:8080/9127491274/QDXDbuLzFDYaYbD/71458",
-      "http://mjidiptv.com:1997/OIHfiptvtree2023f/6tYbxSIifTUwg8Vm/5060",
-      "http://31.43.191.125:8080/VIP01411172649548598/999b760a35d3/6407",
-      "http://mjidiptv.com:1997/OIHfiptvtree2023f/6tYbxSIifTUwg8Vm/18018"
+      "http://31.43.191.125:8080/VIP01411172649548598/999b760a35d3/6407"
     ],
-    "source_file": "FIW_1795373517_1_c97f45_Hunter_50EC.m3u",
+    "source_file": "FIW_1795379821_2_064819_Hunter_9C87.m3u",
     "health_status": "not_checked",
     "health_checked_urls": 0,
     "health_promoted": false
@@ -6470,9 +6425,7 @@
     "logo": "http://vod-logo.net/photos/9ca20ea14cdb22b789fd8e149569dc66.png",
     "primary_url": "http://lordstreams.live:80/joe/joe/273337",
     "alternates": [
-      "http://tvr.iptvboss.net:80/tree141es/sdfsdvvcxvxcvx/2608",
       "http://sts.mydroon.com:8080/9127491274/QDXDbuLzFDYaYbD/71460",
-      "http://mjidiptv.com:1997/OIHfiptvtree2023f/6tYbxSIifTUwg8Vm/5055",
       "http://31.43.191.125:8080/VIP01411172649548598/999b760a35d3/6411"
     ],
     "source_file": "FIW_1795379822_2_f24022_Hunter_5780.m3u",
@@ -6491,7 +6444,6 @@
     "primary_url": "http://lordstreams.live:80/joe/joe/273334",
     "alternates": [
       "http://sts.mydroon.com:8080/9127491274/QDXDbuLzFDYaYbD/71461",
-      "http://mjidiptv.com:1997/OIHfiptvtree2023f/6tYbxSIifTUwg8Vm/5058",
       "http://31.43.191.125:8080/VIP01411172649548598/999b760a35d3/6413"
     ],
     "source_file": "FIW_1795379822_2_f24022_Hunter_5780.m3u",
@@ -6501,19 +6453,17 @@
   },
   {
     "id": "dragon_arabic_bf112e3a16c3",
-    "name": "AR| Rotana Khalijia",
-    "original_name": "|AR| Rotana Khalijia | 🌟 FREE IPTV WORLD 🌟",
+    "name": "AR: ROTANA KHALIJIA",
+    "original_name": "AR: ROTANA KHALIJIA | 🌟 FREE IPTV WORLD 🌟",
     "language": "arabic",
     "groups": [],
     "raw_group": "EG| EGYPT",
-    "logo": "http://silvertv.net:1997/images/APREMUIM/RotanaKhaleejia.png",
+    "logo": "https://docdog.top/logo/countries/arab/rotanakhalijia.png",
     "primary_url": "http://sts.mydroon.com:8080/9127491274/QDXDbuLzFDYaYbD/71463",
     "alternates": [
-      "http://mjidiptv.com:1997/OIHfiptvtree2023f/6tYbxSIifTUwg8Vm/5056",
-      "http://31.43.191.125:8080/VIP01411172649548598/999b760a35d3/6414",
-      "http://mjidiptv.com:1997/OIHfiptvtree2023f/6tYbxSIifTUwg8Vm/18015"
+      "http://31.43.191.125:8080/VIP01411172649548598/999b760a35d3/6414"
     ],
-    "source_file": "FIW_1795373517_1_c97f45_Hunter_50EC.m3u",
+    "source_file": "FIW_1795379821_2_064819_Hunter_9C87.m3u",
     "health_status": "not_checked",
     "health_checked_urls": 0,
     "health_promoted": false
@@ -6609,10 +6559,8 @@
     "primary_url": "http://lordstreams.live:80/joe/joe/273336",
     "alternates": [
       "http://sts.mydroon.com:8080/9127491274/QDXDbuLzFDYaYbD/186540",
-      "http://mjidiptv.com:1997/OIHfiptvtree2023f/6tYbxSIifTUwg8Vm/5054",
       "http://31.43.191.125:8080/VIP01411172649548598/999b760a35d3/6417",
-      "http://31.43.191.125:8080/VIP01411172649548598/999b760a35d3/6405",
-      "http://mjidiptv.com:1997/OIHfiptvtree2023f/6tYbxSIifTUwg8Vm/18014"
+      "http://31.43.191.125:8080/VIP01411172649548598/999b760a35d3/6405"
     ],
     "source_file": "FIW_1795379822_2_f24022_Hunter_5780.m3u",
     "health_status": "not_checked",
@@ -6845,10 +6793,8 @@
     "logo": "http://kinglogo.newtvhd.com/logoo/IMARAT/DUBAI%20Zaman.jpg",
     "primary_url": "http://lordstreams.live:80/joe/joe/272676",
     "alternates": [
-      "http://tvr.iptvboss.net:80/tree141es/sdfsdvvcxvxcvx/2550",
       "http://sts.mydroon.com:8080/9127491274/QDXDbuLzFDYaYbD/69256",
-      "http://31.43.191.125:8080/VIP01411172649548598/999b760a35d3/6826",
-      "http://mjidiptv.com:1997/OIHfiptvtree2023f/6tYbxSIifTUwg8Vm/54070"
+      "http://31.43.191.125:8080/VIP01411172649548598/999b760a35d3/6826"
     ],
     "source_file": "FIW_1795379972_1_3d2979_Hunter_61B4.m3u",
     "health_status": "not_checked",
@@ -6891,18 +6837,17 @@
   },
   {
     "id": "dragon_arabic_e5834bb571d4",
-    "name": "AR| Majid Kids TV",
-    "original_name": "|AR| Majid Kids TV | 🌟 FREE IPTV WORLD 🌟",
+    "name": "UAE | Majid Kids TV",
+    "original_name": "UAE | Majid Kids TV | 🌟 FREE IPTV WORLD 🌟",
     "language": "arabic",
     "groups": [],
     "raw_group": "AE| UNITED ARAB EMIRATES",
-    "logo": "http://silvertv.net:1997/images/AKIDS/MajedKidsTv.png",
+    "logo": "http://vod-logo.net/photos/7e795aaa71caa044f562d9948b7d9db2.png",
     "primary_url": "http://lordstreams.live:80/joe/joe/272658",
     "alternates": [
-      "http://sts.mydroon.com:8080/9127491274/QDXDbuLzFDYaYbD/69259",
-      "http://mjidiptv.com:1997/OIHfiptvtree2023f/6tYbxSIifTUwg8Vm/5016"
+      "http://sts.mydroon.com:8080/9127491274/QDXDbuLzFDYaYbD/69259"
     ],
-    "source_file": "FIW_1795373517_1_c97f45_Hunter_50EC.m3u",
+    "source_file": "FIW_1795379822_2_f24022_Hunter_5780.m3u",
     "health_status": "not_checked",
     "health_checked_urls": 0,
     "health_promoted": false
@@ -6933,12 +6878,10 @@
     "groups": [],
     "raw_group": "AE| UNITED ARAB EMIRATES",
     "logo": "https://www2.0zz0.com/2020/04/20/01/635644496.jpg",
-    "primary_url": "http://tvr.iptvboss.net:80/tree141es/sdfsdvvcxvxcvx/2552",
+    "primary_url": "http://sts.mydroon.com:8080/9127491274/QDXDbuLzFDYaYbD/69262",
     "alternates": [
-      "http://sts.mydroon.com:8080/9127491274/QDXDbuLzFDYaYbD/69262",
       "http://sts.mydroon.com:8080/9127491274/QDXDbuLzFDYaYbD/69261",
-      "http://31.43.191.125:8080/VIP01411172649548598/999b760a35d3/6705",
-      "http://mjidiptv.com:1997/OIHfiptvtree2023f/6tYbxSIifTUwg8Vm/54063"
+      "http://31.43.191.125:8080/VIP01411172649548598/999b760a35d3/6705"
     ],
     "source_file": "FIW_1795379972_1_3d2979_Hunter_61B4.m3u",
     "health_status": "not_checked",
@@ -6958,8 +6901,7 @@
     "primary_url": "http://sts.mydroon.com:8080/9127491274/QDXDbuLzFDYaYbD/69264",
     "alternates": [
       "http://sts.mydroon.com:8080/9127491274/QDXDbuLzFDYaYbD/69263",
-      "http://31.43.191.125:8080/VIP01411172649548598/999b760a35d3/6891",
-      "http://mjidiptv.com:1997/OIHfiptvtree2023f/6tYbxSIifTUwg8Vm/54062"
+      "http://31.43.191.125:8080/VIP01411172649548598/999b760a35d3/6891"
     ],
     "source_file": "FIW_1795379972_1_3d2979_Hunter_61B4.m3u",
     "health_status": "reachable",
@@ -6976,10 +6918,8 @@
     "logo": "http://kinglogo.newtvhd.com/logoo/IMARAT/DUBAITV.png",
     "primary_url": "http://lordstreams.live:80/joe/joe/272678",
     "alternates": [
-      "http://tvr.iptvboss.net:80/tree141es/sdfsdvvcxvxcvx/2551",
       "http://sts.mydroon.com:8080/9127491274/QDXDbuLzFDYaYbD/69265",
-      "http://31.43.191.125:8080/VIP01411172649548598/999b760a35d3/6825",
-      "http://mjidiptv.com:1997/OIHfiptvtree2023f/6tYbxSIifTUwg8Vm/54068"
+      "http://31.43.191.125:8080/VIP01411172649548598/999b760a35d3/6825"
     ],
     "source_file": "FIW_1795379972_1_3d2979_Hunter_61B4.m3u",
     "health_status": "not_checked",
@@ -7013,10 +6953,8 @@
     "logo": "http://kinglogo.newtvhd.com/logoo/IMARAT/DUBAI_ONE.png",
     "primary_url": "http://lordstreams.live:80/joe/joe/272677",
     "alternates": [
-      "http://tvr.iptvboss.net:80/tree141es/sdfsdvvcxvxcvx/2549",
       "http://sts.mydroon.com:8080/9127491274/QDXDbuLzFDYaYbD/69268",
-      "http://31.43.191.125:8080/VIP01411172649548598/999b760a35d3/6818",
-      "http://mjidiptv.com:1997/OIHfiptvtree2023f/6tYbxSIifTUwg8Vm/54069"
+      "http://31.43.191.125:8080/VIP01411172649548598/999b760a35d3/6818"
     ],
     "source_file": "FIW_1795379972_1_3d2979_Hunter_61B4.m3u",
     "health_status": "not_checked",
@@ -7048,8 +6986,7 @@
     "logo": "https://www8.0zz0.com/2020/04/20/02/451123195.jpg",
     "primary_url": "http://lordstreams.live:80/joe/joe/272663",
     "alternates": [
-      "http://sts.mydroon.com:8080/9127491274/QDXDbuLzFDYaYbD/69272",
-      "http://mjidiptv.com:1997/OIHfiptvtree2023f/6tYbxSIifTUwg8Vm/54078"
+      "http://sts.mydroon.com:8080/9127491274/QDXDbuLzFDYaYbD/69272"
     ],
     "source_file": "FIW_1795379972_1_3d2979_Hunter_61B4.m3u",
     "health_status": "not_checked",
@@ -7069,7 +7006,6 @@
     "primary_url": "http://sts.mydroon.com:8080/9127491274/QDXDbuLzFDYaYbD/69273",
     "alternates": [
       "http://31.43.191.125:8080/VIP01411172649548598/999b760a35d3/6820",
-      "http://mjidiptv.com:1997/OIHfiptvtree2023f/6tYbxSIifTUwg8Vm/54059",
       "http://31.43.191.125:8080/VIP01411172649548598/999b760a35d3/131040"
     ],
     "source_file": "FIW_1795379821_2_064819_Hunter_9C87.m3u",
@@ -7079,20 +7015,19 @@
   },
   {
     "id": "dragon_arabic_592ef7762444",
-    "name": "AR| Dubai Racing",
-    "original_name": "|AR| Dubai Racing | 🌟 FREE IPTV WORLD 🌟",
+    "name": "AR|SPORT: DUBAI RACING",
+    "original_name": "AR|SPORT: DUBAI RACING | 🌟 FREE IPTV WORLD 🌟",
     "language": "arabic",
     "groups": [
       "sports"
     ],
     "raw_group": "AE| UNITED ARAB EMIRATES",
-    "logo": "http://silvertv.net:1997/images/ASPORTS/DubaiRacing.png",
+    "logo": "https://docdog.top/logo/countries/ar/DUBAI_RACING.png",
     "primary_url": "http://sts.mydroon.com:8080/9127491274/QDXDbuLzFDYaYbD/69274",
     "alternates": [
-      "http://mjidiptv.com:1997/OIHfiptvtree2023f/6tYbxSIifTUwg8Vm/5049",
       "http://31.43.191.125:8080/VIP01411172649548598/999b760a35d3/131039"
     ],
-    "source_file": "FIW_1795373517_1_c97f45_Hunter_50EC.m3u",
+    "source_file": "FIW_1795379821_2_064819_Hunter_9C87.m3u",
     "health_status": "not_checked",
     "health_checked_urls": 0,
     "health_promoted": false
@@ -7108,9 +7043,7 @@
     "raw_group": "AE| UNITED ARAB EMIRATES",
     "logo": "http://kinglogo.newtvhd.com/logoo/IMARAT/DUBAI%20SPORTS%202.jpg",
     "primary_url": "http://sts.mydroon.com:8080/9127491274/QDXDbuLzFDYaYbD/69275",
-    "alternates": [
-      "http://mjidiptv.com:1997/OIHfiptvtree2023f/6tYbxSIifTUwg8Vm/54056"
-    ],
+    "alternates": [],
     "source_file": "FIW_1795379972_1_3d2979_Hunter_61B4.m3u",
     "health_status": "not_checked",
     "health_checked_urls": 0,
@@ -7140,9 +7073,7 @@
     "raw_group": "AE| UNITED ARAB EMIRATES",
     "logo": "http://kinglogo.newtvhd.com/logoo/IMARAT/Noor_Dubai.jpg",
     "primary_url": "http://sts.mydroon.com:8080/9127491274/QDXDbuLzFDYaYbD/77793",
-    "alternates": [
-      "http://mjidiptv.com:1997/OIHfiptvtree2023f/6tYbxSIifTUwg8Vm/54071"
-    ],
+    "alternates": [],
     "source_file": "FIW_1795379972_1_3d2979_Hunter_61B4.m3u",
     "health_status": "not_checked",
     "health_checked_urls": 0,
@@ -7241,8 +7172,7 @@
     "primary_url": "http://lordstreams.live:80/joe/joe/272668",
     "alternates": [
       "http://sts.mydroon.com:8080/9127491274/QDXDbuLzFDYaYbD/169710",
-      "http://31.43.191.125:8080/VIP01411172649548598/999b760a35d3/6912",
-      "http://mjidiptv.com:1997/OIHfiptvtree2023f/6tYbxSIifTUwg8Vm/54073"
+      "http://31.43.191.125:8080/VIP01411172649548598/999b760a35d3/6912"
     ],
     "source_file": "FIW_1795379821_2_064819_Hunter_9C87.m3u",
     "health_status": "not_checked",
@@ -7278,7 +7208,6 @@
     "alternates": [
       "http://sts.mydroon.com:8080/9127491274/QDXDbuLzFDYaYbD/161995",
       "http://31.43.191.125:8080/VIP01411172649548598/999b760a35d3/6913",
-      "http://mjidiptv.com:1997/OIHfiptvtree2023f/6tYbxSIifTUwg8Vm/54061",
       "http://31.43.191.125:8080/VIP01411172649548598/999b760a35d3/131062"
     ],
     "source_file": "FIW_1795379972_1_3d2979_Hunter_61B4.m3u",
@@ -7297,9 +7226,7 @@
     "raw_group": "AE| UNITED ARAB EMIRATES",
     "logo": "https://i.imgur.com/iYgHR5D.png",
     "primary_url": "http://sts.mydroon.com:8080/9127491274/QDXDbuLzFDYaYbD/161994",
-    "alternates": [
-      "http://mjidiptv.com:1997/OIHfiptvtree2023f/6tYbxSIifTUwg8Vm/54055"
-    ],
+    "alternates": [],
     "source_file": "FIW_1795379972_1_3d2979_Hunter_61B4.m3u",
     "health_status": "not_checked",
     "health_checked_urls": 0,
@@ -7315,10 +7242,8 @@
     "logo": "https://docdog.top/logo/countries/arab/samadubai.png",
     "primary_url": "http://lordstreams.live:80/joe/joe/272671",
     "alternates": [
-      "http://tvr.iptvboss.net:80/tree141es/sdfsdvvcxvxcvx/2544",
       "http://sts.mydroon.com:8080/9127491274/QDXDbuLzFDYaYbD/77792",
-      "http://31.43.191.125:8080/VIP01411172649548598/999b760a35d3/6828",
-      "http://mjidiptv.com:1997/OIHfiptvtree2023f/6tYbxSIifTUwg8Vm/54072"
+      "http://31.43.191.125:8080/VIP01411172649548598/999b760a35d3/6828"
     ],
     "source_file": "FIW_1795379821_2_064819_Hunter_9C87.m3u",
     "health_status": "not_checked",
@@ -7462,7 +7387,6 @@
     "logo": "https://www5.0zz0.com/2020/04/20/03/469796073.jpg",
     "primary_url": "http://lordstreams.live:80/joe/joe/273232",
     "alternates": [
-      "http://tvr.iptvboss.net:80/tree141es/sdfsdvvcxvxcvx/2511",
       "http://sts.mydroon.com:8080/9127491274/QDXDbuLzFDYaYbD/74478",
       "http://31.43.191.125:8080/VIP01411172649548598/999b760a35d3/6762"
     ],
@@ -7827,15 +7751,15 @@
     ],
     "raw_group": "IQ| IRAQ",
     "logo": "http://212.8.253.112/logo/IRAQ/ALIRAQIANEWS.png",
-    "primary_url": "http://sts.mydroon.com:8080/9127491274/QDXDbuLzFDYaYbD/75229",
+    "primary_url": "http://lordstreams.live:80/joe/joe/273316",
     "alternates": [
-      "http://lordstreams.live:80/joe/joe/273316",
+      "http://sts.mydroon.com:8080/9127491274/QDXDbuLzFDYaYbD/75229",
       "http://31.43.191.125:8080/VIP01411172649548598/999b760a35d3/6577"
     ],
     "source_file": "FIW_1795379972_1_3d2979_Hunter_61B4.m3u",
     "health_status": "reachable",
-    "health_checked_urls": 2,
-    "health_promoted": true
+    "health_checked_urls": 1,
+    "health_promoted": false
   },
   {
     "id": "dragon_arabic_1cb796b14e40",
@@ -8218,19 +8142,18 @@
   },
   {
     "id": "dragon_arabic_5eaafb6418ce",
-    "name": "QA: QATAR",
-    "original_name": "QA: QATAR | 🌟 FREE IPTV WORLD 🌟",
+    "name": "AR|QATAR HD",
+    "original_name": "AR|QATAR HD | 🌟 FREE IPTV WORLD 🌟",
     "language": "arabic",
     "groups": [],
     "raw_group": "AR| QATAR & JORDAN & OMAN",
     "logo": "",
     "primary_url": "http://lordstreams.live:80/joe/joe/272685",
     "alternates": [
-      "http://tvr.iptvboss.net:80/tree141es/sdfsdvvcxvxcvx/2558",
       "http://sts.mydroon.com:8080/9127491274/QDXDbuLzFDYaYbD/136452",
       "http://31.43.191.125:8080/VIP01411172649548598/999b760a35d3/6595"
     ],
-    "source_file": "FIW_1795373435_2_21a8d9_Hunter_CC97.m3u",
+    "source_file": "FIW_1795379972_1_3d2979_Hunter_61B4.m3u",
     "health_status": "not_checked",
     "health_checked_urls": 0,
     "health_promoted": false
@@ -8570,9 +8493,7 @@
     "raw_group": "PPV| SHAHID VIP",
     "logo": "",
     "primary_url": "http://sts.mydroon.com:8080/9127491274/QDXDbuLzFDYaYbD/239702",
-    "alternates": [
-      "http://mjidiptv.com:1997/OIHfiptvtree2023f/6tYbxSIifTUwg8Vm/5075"
-    ],
+    "alternates": [],
     "source_file": "FIW_1795379972_1_3d2979_Hunter_61B4.m3u",
     "health_status": "not_checked",
     "health_checked_urls": 0,
@@ -8607,9 +8528,7 @@
       "http://lordstreams.live:80/joe/joe/272022",
       "http://lordstreams.live:80/joe/joe/272005",
       "http://sts.mydroon.com:8080/9127491274/QDXDbuLzFDYaYbD/239700",
-      "http://31.43.191.125:8080/VIP01411172649548598/999b760a35d3/6423",
-      "http://mjidiptv.com:1997/OIHfiptvtree2023f/6tYbxSIifTUwg8Vm/51765",
-      "http://mjidiptv.com:1997/OIHfiptvtree2023f/6tYbxSIifTUwg8Vm/17998"
+      "http://31.43.191.125:8080/VIP01411172649548598/999b760a35d3/6423"
     ],
     "source_file": "FIW_1795379972_1_3d2979_Hunter_61B4.m3u",
     "health_status": "not_checked",
@@ -8628,12 +8547,8 @@
     "alternates": [
       "http://lordstreams.live:80/joe/joe/272021",
       "http://lordstreams.live:80/joe/joe/272004",
-      "http://tvr.iptvboss.net:80/tree141es/sdfsdvvcxvxcvx/2569",
-      "http://tvr.iptvboss.net:80/tree141es/sdfsdvvcxvxcvx/2568",
       "http://sts.mydroon.com:8080/9127491274/QDXDbuLzFDYaYbD/239706",
-      "http://mjidiptv.com:1997/OIHfiptvtree2023f/6tYbxSIifTUwg8Vm/5072",
-      "http://31.43.191.125:8080/VIP01411172649548598/999b760a35d3/6424",
-      "http://mjidiptv.com:1997/OIHfiptvtree2023f/6tYbxSIifTUwg8Vm/17997"
+      "http://31.43.191.125:8080/VIP01411172649548598/999b760a35d3/6424"
     ],
     "source_file": "FIW_1795379972_1_3d2979_Hunter_61B4.m3u",
     "health_status": "not_checked",
@@ -8652,11 +8567,8 @@
     "alternates": [
       "http://lordstreams.live:80/joe/joe/272020",
       "http://lordstreams.live:80/joe/joe/272003",
-      "http://tvr.iptvboss.net:80/tree141es/sdfsdvvcxvxcvx/2570",
       "http://sts.mydroon.com:8080/9127491274/QDXDbuLzFDYaYbD/239710",
-      "http://mjidiptv.com:1997/OIHfiptvtree2023f/6tYbxSIifTUwg8Vm/5070",
-      "http://31.43.191.125:8080/VIP01411172649548598/999b760a35d3/6426",
-      "http://mjidiptv.com:1997/OIHfiptvtree2023f/6tYbxSIifTUwg8Vm/17996"
+      "http://31.43.191.125:8080/VIP01411172649548598/999b760a35d3/6426"
     ],
     "source_file": "FIW_1795379972_1_3d2979_Hunter_61B4.m3u",
     "health_status": "not_checked",
@@ -8678,10 +8590,7 @@
       "http://lordstreams.live:80/joe/joe/272019",
       "http://lordstreams.live:80/joe/joe/272018",
       "http://lordstreams.live:80/joe/joe/272002",
-      "http://tvr.iptvboss.net:80/tree141es/sdfsdvvcxvxcvx/2572",
-      "http://tvr.iptvboss.net:80/tree141es/sdfsdvvcxvxcvx/2571",
       "http://sts.mydroon.com:8080/9127491274/QDXDbuLzFDYaYbD/239699",
-      "http://mjidiptv.com:1997/OIHfiptvtree2023f/6tYbxSIifTUwg8Vm/5068",
       "http://31.43.191.125:8080/VIP01411172649548598/999b760a35d3/6427"
     ],
     "source_file": "FIW_1795379972_1_3d2979_Hunter_61B4.m3u",
@@ -8752,12 +8661,8 @@
     "alternates": [
       "http://lordstreams.live:80/joe/joe/272014",
       "http://lordstreams.live:80/joe/joe/272000",
-      "http://tvr.iptvboss.net:80/tree141es/sdfsdvvcxvxcvx/2574",
-      "http://tvr.iptvboss.net:80/tree141es/sdfsdvvcxvxcvx/2573",
       "http://sts.mydroon.com:8080/9127491274/QDXDbuLzFDYaYbD/239703",
-      "http://mjidiptv.com:1997/OIHfiptvtree2023f/6tYbxSIifTUwg8Vm/5071",
-      "http://31.43.191.125:8080/VIP01411172649548598/999b760a35d3/6431",
-      "http://mjidiptv.com:1997/OIHfiptvtree2023f/6tYbxSIifTUwg8Vm/17994"
+      "http://31.43.191.125:8080/VIP01411172649548598/999b760a35d3/6431"
     ],
     "source_file": "FIW_1795379972_1_3d2979_Hunter_61B4.m3u",
     "health_status": "not_checked",
@@ -8790,9 +8695,7 @@
     "raw_group": "PPV| SHAHID VIP",
     "logo": "",
     "primary_url": "http://sts.mydroon.com:8080/9127491274/QDXDbuLzFDYaYbD/239709",
-    "alternates": [
-      "http://mjidiptv.com:1997/OIHfiptvtree2023f/6tYbxSIifTUwg8Vm/17995"
-    ],
+    "alternates": [],
     "source_file": "FIW_1795379972_1_3d2979_Hunter_61B4.m3u",
     "health_status": "not_checked",
     "health_checked_urls": 0,
@@ -11434,38 +11337,6 @@
     "health_promoted": false
   },
   {
-    "id": "dragon_arabic_5beb3b09e3e4",
-    "name": "Kansas City Missouri ABC 9- KMBC",
-    "original_name": "Kansas City Missouri ABC 9- KMBC | 🌟 FREE IPTV WORLD 🌟",
-    "language": "arabic",
-    "groups": [],
-    "raw_group": "",
-    "logo": "",
-    "primary_url": "http://23.227.132.58:25461/Papshirley/Academyave311/201561",
-    "alternates": [],
-    "source_file": "FIW_1795379919_1_64443e_Hunter_9CE5.m3u",
-    "health_status": "not_checked",
-    "health_checked_urls": 0,
-    "health_promoted": false
-  },
-  {
-    "id": "dragon_arabic_3bc002fe1d7d",
-    "name": "ESPN+ 046 | 01:00PM LANCASTER BIBLE COLLEGE VS. UMBC (NOV 22)",
-    "original_name": "ESPN+ 046 | 01:00PM LANCASTER BIBLE COLLEGE VS. UMBC (NOV 22) | 🌟 FREE IPTV WORLD 🌟",
-    "language": "arabic",
-    "groups": [
-      "sports"
-    ],
-    "raw_group": "",
-    "logo": "",
-    "primary_url": "http://23.227.132.58:25461/Papshirley/Academyave311/225409",
-    "alternates": [],
-    "source_file": "FIW_1795379919_1_64443e_Hunter_9CE5.m3u",
-    "health_status": "not_checked",
-    "health_checked_urls": 0,
-    "health_promoted": false
-  },
-  {
     "id": "dragon_arabic_d4c116ac2afe",
     "name": "MALAYALAM| KAIRALI ARABIA",
     "original_name": "|MALAYALAM| KAIRALI ARABIA | 🌟 FREE IPTV WORLD 🌟",
@@ -11505,8 +11376,7 @@
     "logo": "http://logo.mypanel.one/logos/LogoEVDTV/BeIN/Kids/Cartoon_Network.png",
     "primary_url": "http://lordstreams.live:80/joe/joe/786416",
     "alternates": [
-      "http://lordstreams.live:80/joe/joe/786415",
-      "http://mjidiptv.com:1997/OIHfiptvtree2023f/6tYbxSIifTUwg8Vm/5018"
+      "http://lordstreams.live:80/joe/joe/786415"
     ],
     "source_file": "FIW_1795379822_2_f24022_Hunter_5780.m3u",
     "health_status": "not_checked",
@@ -11608,7 +11478,6 @@
     "logo": "https://s13.gifyu.com/images/SCfSk.png",
     "primary_url": "http://lordstreams.live:80/joe/joe/641711",
     "alternates": [
-      "http://mjidiptv.com:1997/OIHfiptvtree2023f/6tYbxSIifTUwg8Vm/5817",
       "http://31.43.191.125:8080/VIP01411172649548598/999b760a35d3/6436"
     ],
     "source_file": "FIW_1795379822_2_f24022_Hunter_5780.m3u",
@@ -11626,7 +11495,6 @@
     "logo": "https://s13.gifyu.com/images/SCfS5.png",
     "primary_url": "http://lordstreams.live:80/joe/joe/641710",
     "alternates": [
-      "http://mjidiptv.com:1997/OIHfiptvtree2023f/6tYbxSIifTUwg8Vm/5816",
       "http://31.43.191.125:8080/VIP01411172649548598/999b760a35d3/6437"
     ],
     "source_file": "FIW_1795379822_2_f24022_Hunter_5780.m3u",
@@ -11644,7 +11512,6 @@
     "logo": "https://s13.gifyu.com/images/SCfbu.png",
     "primary_url": "http://lordstreams.live:80/joe/joe/641709",
     "alternates": [
-      "http://mjidiptv.com:1997/OIHfiptvtree2023f/6tYbxSIifTUwg8Vm/5815",
       "http://31.43.191.125:8080/VIP01411172649548598/999b760a35d3/6438"
     ],
     "source_file": "FIW_1795379822_2_f24022_Hunter_5780.m3u",
@@ -11662,7 +11529,6 @@
     "logo": "https://s13.gifyu.com/images/SCfba.png",
     "primary_url": "http://lordstreams.live:80/joe/joe/641708",
     "alternates": [
-      "http://mjidiptv.com:1997/OIHfiptvtree2023f/6tYbxSIifTUwg8Vm/5814",
       "http://31.43.191.125:8080/VIP01411172649548598/999b760a35d3/6439"
     ],
     "source_file": "FIW_1795379822_2_f24022_Hunter_5780.m3u",
@@ -11695,7 +11561,6 @@
     "logo": "https://s13.gifyu.com/images/SCfbP.png",
     "primary_url": "http://lordstreams.live:80/joe/joe/641706",
     "alternates": [
-      "http://mjidiptv.com:1997/OIHfiptvtree2023f/6tYbxSIifTUwg8Vm/5813",
       "http://31.43.191.125:8080/VIP01411172649548598/999b760a35d3/6440"
     ],
     "source_file": "FIW_1795379822_2_f24022_Hunter_5780.m3u",
@@ -11712,9 +11577,7 @@
     "raw_group": "AR | MyHD & eLife",
     "logo": "https://s13.gifyu.com/images/SCfzN.png",
     "primary_url": "http://lordstreams.live:80/joe/joe/641705",
-    "alternates": [
-      "http://mjidiptv.com:1997/OIHfiptvtree2023f/6tYbxSIifTUwg8Vm/5812"
-    ],
+    "alternates": [],
     "source_file": "FIW_1795379822_2_f24022_Hunter_5780.m3u",
     "health_status": "not_checked",
     "health_checked_urls": 0,
@@ -11792,9 +11655,7 @@
     "raw_group": "AR | MyHD & eLife",
     "logo": "https://s13.gifyu.com/images/SCfMy.png",
     "primary_url": "http://lordstreams.live:80/joe/joe/641700",
-    "alternates": [
-      "http://mjidiptv.com:1997/OIHfiptvtree2023f/6tYbxSIifTUwg8Vm/5810"
-    ],
+    "alternates": [],
     "source_file": "FIW_1795379822_2_f24022_Hunter_5780.m3u",
     "health_status": "not_checked",
     "health_checked_urls": 0,
@@ -18148,7 +18009,6 @@
     "primary_url": "http://lordstreams.live:80/joe/joe/273332",
     "alternates": [
       "http://lordstreams.live:80/joe/joe/273329",
-      "http://tvr.iptvboss.net:80/tree141es/sdfsdvvcxvxcvx/2612",
       "http://31.43.191.125:8080/VIP01411172649548598/999b760a35d3/6412"
     ],
     "source_file": "FIW_1795379822_2_f24022_Hunter_5780.m3u",
@@ -18300,7 +18160,7 @@
     "primary_url": "http://lordstreams.live:80/joe/joe/273238",
     "alternates": [],
     "source_file": "FIW_1795379822_2_f24022_Hunter_5780.m3u",
-    "health_status": "reachable",
+    "health_status": "unreachable",
     "health_checked_urls": 1,
     "health_promoted": false
   },
@@ -18461,23 +18321,22 @@
   },
   {
     "id": "dragon_arabic_d2ae2a4ee2df",
-    "name": "AR| Syria News",
-    "original_name": "|AR| Syria News | 🌟 FREE IPTV WORLD 🌟",
+    "name": "AR: SYRIA NEWS",
+    "original_name": "AR: SYRIA NEWS | 🌟 FREE IPTV WORLD 🌟",
     "language": "arabic",
     "groups": [
       "news"
     ],
     "raw_group": "AR | SYRIA",
-    "logo": "http://silvertv.net:1997/images/nile/Syrian_News_Logo.png",
-    "primary_url": "http://lordstreams.live:80/joe/joe/273221",
+    "logo": "https://docdog.top/logo/countries/arab/SYRIANEWS.jpg",
+    "primary_url": "http://31.43.191.125:8080/VIP01411172649548598/999b760a35d3/6841",
     "alternates": [
-      "http://mjidiptv.com:1997/OIHfiptvtree2023f/6tYbxSIifTUwg8Vm/5027",
-      "http://31.43.191.125:8080/VIP01411172649548598/999b760a35d3/6841"
+      "http://lordstreams.live:80/joe/joe/273221"
     ],
-    "source_file": "FIW_1795373517_1_c97f45_Hunter_50EC.m3u",
-    "health_status": "unreachable",
-    "health_checked_urls": 3,
-    "health_promoted": false
+    "source_file": "FIW_1795379821_2_064819_Hunter_9C87.m3u",
+    "health_status": "reachable",
+    "health_checked_urls": 2,
+    "health_promoted": true
   },
   {
     "id": "dragon_arabic_443d9262ccf5",
@@ -18771,7 +18630,7 @@
     "primary_url": "http://lordstreams.live:80/joe/joe/272837",
     "alternates": [],
     "source_file": "FIW_1795379822_2_f24022_Hunter_5780.m3u",
-    "health_status": "reachable",
+    "health_status": "unreachable",
     "health_checked_urls": 1,
     "health_promoted": false
   },
@@ -19517,17 +19376,15 @@
   },
   {
     "id": "dragon_arabic_5d180c863ac8",
-    "name": "DZ| Salam TV",
-    "original_name": "|DZ| Salam TV | 🌟 FREE IPTV WORLD 🌟",
+    "name": "LY | Salam TV",
+    "original_name": "LY | Salam TV | 🌟 FREE IPTV WORLD 🌟",
     "language": "arabic",
     "groups": [],
     "raw_group": "AR | LIBYA",
-    "logo": "http://silvertv.net:1997/images/ALGERIA/algeria_5.png",
+    "logo": "http://vod-logo.net/photos/e8eff746916faf4e344e71e5412722b5.png",
     "primary_url": "http://lordstreams.live:80/joe/joe/272782",
-    "alternates": [
-      "http://mjidiptv.com:1997/OIHfiptvtree2023f/6tYbxSIifTUwg8Vm/4982"
-    ],
-    "source_file": "FIW_1795373517_1_c97f45_Hunter_50EC.m3u",
+    "alternates": [],
+    "source_file": "FIW_1795379822_2_f24022_Hunter_5780.m3u",
     "health_status": "not_checked",
     "health_checked_urls": 0,
     "health_promoted": false
@@ -19791,18 +19648,17 @@
   },
   {
     "id": "dragon_arabic_a764c6072918",
-    "name": "TN: TELVZA TV",
-    "original_name": "TN: TELVZA TV | 🌟 FREE IPTV WORLD 🌟",
+    "name": "AR: TELVZA TV",
+    "original_name": "AR: TELVZA TV | 🌟 FREE IPTV WORLD 🌟",
     "language": "arabic",
     "groups": [],
     "raw_group": "AR | TUNISIA",
-    "logo": "",
+    "logo": "https://docdog.top/logo/countries/arab/telvzatv.png",
     "primary_url": "http://lordstreams.live:80/joe/joe/272763",
     "alternates": [
-      "http://tvr.iptvboss.net:80/tree141es/sdfsdvvcxvxcvx/2629",
       "http://31.43.191.125:8080/VIP01411172649548598/999b760a35d3/7039"
     ],
-    "source_file": "FIW_1795373435_2_21a8d9_Hunter_CC97.m3u",
+    "source_file": "FIW_1795379821_2_064819_Hunter_9C87.m3u",
     "health_status": "not_checked",
     "health_checked_urls": 0,
     "health_promoted": false
@@ -20519,17 +20375,15 @@
   },
   {
     "id": "dragon_arabic_81fc7fa13478",
-    "name": "SA: AL MAJLIS",
-    "original_name": "SA: AL MAJLIS | 🌟 FREE IPTV WORLD 🌟",
+    "name": "KW | Al Majlis",
+    "original_name": "KW | Al Majlis | 🌟 FREE IPTV WORLD 🌟",
     "language": "arabic",
     "groups": [],
     "raw_group": "AR | KUWAIT",
-    "logo": "",
+    "logo": "http://vod-logo.net/photos/bc1a7ad76786e51eb52df49777b26ba3.png",
     "primary_url": "http://lordstreams.live:80/joe/joe/272707",
-    "alternates": [
-      "http://tvr.iptvboss.net:80/tree141es/sdfsdvvcxvxcvx/2473"
-    ],
-    "source_file": "FIW_1795373435_2_21a8d9_Hunter_CC97.m3u",
+    "alternates": [],
+    "source_file": "FIW_1795379822_2_f24022_Hunter_5780.m3u",
     "health_status": "not_checked",
     "health_checked_urls": 0,
     "health_promoted": false
@@ -20818,8 +20672,7 @@
     "logo": "https://docdog.top/logo/countries/arab/zeealwan.png",
     "primary_url": "http://lordstreams.live:80/joe/joe/272681",
     "alternates": [
-      "http://31.43.191.125:8080/VIP01411172649548598/999b760a35d3/7051",
-      "http://mjidiptv.com:1997/OIHfiptvtree2023f/6tYbxSIifTUwg8Vm/54075"
+      "http://31.43.191.125:8080/VIP01411172649548598/999b760a35d3/7051"
     ],
     "source_file": "FIW_1795379821_2_064819_Hunter_9C87.m3u",
     "health_status": "not_checked",
@@ -20960,8 +20813,7 @@
     "logo": "https://docdog.top/logo/countries/arab/hawastv.png",
     "primary_url": "http://lordstreams.live:80/joe/joe/272656",
     "alternates": [
-      "http://31.43.191.125:8080/VIP01411172649548598/999b760a35d3/6899",
-      "http://mjidiptv.com:1997/OIHfiptvtree2023f/6tYbxSIifTUwg8Vm/54081"
+      "http://31.43.191.125:8080/VIP01411172649548598/999b760a35d3/6899"
     ],
     "source_file": "FIW_1795379821_2_064819_Hunter_9C87.m3u",
     "health_status": "not_checked",
@@ -21154,7 +21006,7 @@
     "primary_url": "http://lordstreams.live:80/joe/joe/272640",
     "alternates": [],
     "source_file": "FIW_1795379822_2_f24022_Hunter_5780.m3u",
-    "health_status": "unreachable",
+    "health_status": "reachable",
     "health_checked_urls": 1,
     "health_promoted": false
   },
@@ -21743,8 +21595,8 @@
   },
   {
     "id": "dragon_arabic_a46e9ecced0e",
-    "name": "DZ: ECHOROUK NEWS",
-    "original_name": "DZ: ECHOROUK NEWS | 🌟 FREE IPTV WORLD 🌟",
+    "name": "AR: Echorouk NEWS",
+    "original_name": "AR: Echorouk NEWS | 🌟 FREE IPTV WORLD 🌟",
     "language": "arabic",
     "groups": [
       "news"
@@ -21753,10 +21605,9 @@
     "logo": "",
     "primary_url": "http://lordstreams.live:80/joe/joe/272525",
     "alternates": [
-      "http://tvr.iptvboss.net:80/tree141es/sdfsdvvcxvxcvx/2655",
       "http://31.43.191.125:8080/VIP01411172649548598/999b760a35d3/97149"
     ],
-    "source_file": "FIW_1795373435_2_21a8d9_Hunter_CC97.m3u",
+    "source_file": "FIW_1795379821_2_064819_Hunter_9C87.m3u",
     "health_status": "reachable",
     "health_checked_urls": 1,
     "health_promoted": false
@@ -21874,18 +21725,17 @@
   },
   {
     "id": "dragon_arabic_141c6c844960",
-    "name": "DZ: ENNAHAR TV",
-    "original_name": "DZ: ENNAHAR TV | 🌟 FREE IPTV WORLD 🌟",
+    "name": "AR: ENNAHAR TV",
+    "original_name": "AR: ENNAHAR TV | 🌟 FREE IPTV WORLD 🌟",
     "language": "arabic",
     "groups": [],
     "raw_group": "AR | ALGERIA",
-    "logo": "",
+    "logo": "https://docdog.top/logo/countries/arab/ennahartv.png",
     "primary_url": "http://lordstreams.live:80/joe/joe/272516",
     "alternates": [
-      "http://tvr.iptvboss.net:80/tree141es/sdfsdvvcxvxcvx/2654",
       "http://31.43.191.125:8080/VIP01411172649548598/999b760a35d3/6400"
     ],
-    "source_file": "FIW_1795373435_2_21a8d9_Hunter_CC97.m3u",
+    "source_file": "FIW_1795379821_2_064819_Hunter_9C87.m3u",
     "health_status": "not_checked",
     "health_checked_urls": 0,
     "health_promoted": false
@@ -22059,18 +21909,17 @@
   },
   {
     "id": "dragon_arabic_758e2f7cf0b3",
-    "name": "DZ: AL NAHAR DRAMA",
-    "original_name": "DZ: AL NAHAR DRAMA | 🌟 FREE IPTV WORLD 🌟",
+    "name": "AR: AL NAHAR DRAMA",
+    "original_name": "AR: AL NAHAR DRAMA | 🌟 FREE IPTV WORLD 🌟",
     "language": "arabic",
     "groups": [],
     "raw_group": "AR | EGYPT",
-    "logo": "",
+    "logo": "https://docdog.top/logo/countries/arab/alnahardrama.png",
     "primary_url": "http://lordstreams.live:80/joe/joe/272501",
     "alternates": [
-      "http://tvr.iptvboss.net:80/tree141es/sdfsdvvcxvxcvx/2650",
       "http://31.43.191.125:8080/VIP01411172649548598/999b760a35d3/6531"
     ],
-    "source_file": "FIW_1795373435_2_21a8d9_Hunter_CC97.m3u",
+    "source_file": "FIW_1795379821_2_064819_Hunter_9C87.m3u",
     "health_status": "not_checked",
     "health_checked_urls": 0,
     "health_promoted": false
@@ -24407,14 +24256,14 @@
     ],
     "raw_group": "AR | NEWS",
     "logo": "http://vod-logo.net/photos/d066e4539347c1beb65084696c674797.png",
-    "primary_url": "http://lordstreams.live:80/joe/joe/272247",
+    "primary_url": "http://lordstreams.live:80/joe/joe/272246",
     "alternates": [
-      "http://lordstreams.live:80/joe/joe/272246"
+      "http://lordstreams.live:80/joe/joe/272247"
     ],
     "source_file": "FIW_1795379822_2_f24022_Hunter_5780.m3u",
-    "health_status": "unreachable",
+    "health_status": "reachable",
     "health_checked_urls": 2,
-    "health_promoted": false
+    "health_promoted": true
   },
   {
     "id": "dragon_arabic_bd4048ff16d6",
@@ -24446,7 +24295,7 @@
     "primary_url": "http://lordstreams.live:80/joe/joe/272243",
     "alternates": [],
     "source_file": "FIW_1795379822_2_f24022_Hunter_5780.m3u",
-    "health_status": "reachable",
+    "health_status": "unreachable",
     "health_checked_urls": 1,
     "health_promoted": false
   },
@@ -24937,7 +24786,7 @@
     "primary_url": "http://lordstreams.live:80/joe/joe/272163",
     "alternates": [],
     "source_file": "FIW_1795379822_2_f24022_Hunter_5780.m3u",
-    "health_status": "unreachable",
+    "health_status": "reachable",
     "health_checked_urls": 1,
     "health_promoted": false
   },
@@ -25005,17 +24854,15 @@
   },
   {
     "id": "dragon_arabic_7f8b76e41ba3",
-    "name": "AR| AL MAJD TAGHAREED",
-    "original_name": "|AR| AL MAJD TAGHAREED | 🌟 FREE IPTV WORLD 🌟",
+    "name": "AR | Al Majd Taghareed",
+    "original_name": "AR | Al Majd Taghareed | 🌟 FREE IPTV WORLD 🌟",
     "language": "arabic",
     "groups": [],
     "raw_group": "AR | ALMAJD",
-    "logo": "",
+    "logo": "http://138.199.27.237:8080/0tv_logo/720.png",
     "primary_url": "http://lordstreams.live:80/joe/joe/272157",
-    "alternates": [
-      "http://mjidiptv.com:1997/OIHfiptvtree2023f/6tYbxSIifTUwg8Vm/69300"
-    ],
-    "source_file": "FIW_1795373517_1_c97f45_Hunter_50EC.m3u",
+    "alternates": [],
+    "source_file": "FIW_1795379822_2_f24022_Hunter_5780.m3u",
     "health_status": "not_checked",
     "health_checked_urls": 0,
     "health_promoted": false
@@ -25032,8 +24879,7 @@
     "alternates": [
       "http://lordstreams.live:80/joe/joe/272026",
       "http://lordstreams.live:80/joe/joe/272009",
-      "http://31.43.191.125:8080/VIP01411172649548598/999b760a35d3/6419",
-      "http://mjidiptv.com:1997/OIHfiptvtree2023f/6tYbxSIifTUwg8Vm/18001"
+      "http://31.43.191.125:8080/VIP01411172649548598/999b760a35d3/6419"
     ],
     "source_file": "FIW_1795379821_2_064819_Hunter_9C87.m3u",
     "health_status": "not_checked",
@@ -25052,10 +24898,7 @@
     "alternates": [
       "http://lordstreams.live:80/joe/joe/272025",
       "http://lordstreams.live:80/joe/joe/272008",
-      "http://tvr.iptvboss.net:80/tree141es/sdfsdvvcxvxcvx/2580",
-      "http://tvr.iptvboss.net:80/tree141es/sdfsdvvcxvxcvx/2579",
-      "http://31.43.191.125:8080/VIP01411172649548598/999b760a35d3/6420",
-      "http://mjidiptv.com:1997/OIHfiptvtree2023f/6tYbxSIifTUwg8Vm/18000"
+      "http://31.43.191.125:8080/VIP01411172649548598/999b760a35d3/6420"
     ],
     "source_file": "FIW_1795379821_2_064819_Hunter_9C87.m3u",
     "health_status": "not_checked",
@@ -25075,10 +24918,7 @@
       "http://lordstreams.live:80/joe/joe/272050",
       "http://lordstreams.live:80/joe/joe/272024",
       "http://lordstreams.live:80/joe/joe/272007",
-      "http://tvr.iptvboss.net:80/tree141es/sdfsdvvcxvxcvx/2578",
-      "http://tvr.iptvboss.net:80/tree141es/sdfsdvvcxvxcvx/2577",
-      "http://31.43.191.125:8080/VIP01411172649548598/999b760a35d3/6421",
-      "http://mjidiptv.com:1997/OIHfiptvtree2023f/6tYbxSIifTUwg8Vm/17999"
+      "http://31.43.191.125:8080/VIP01411172649548598/999b760a35d3/6421"
     ],
     "source_file": "FIW_1795379821_2_064819_Hunter_9C87.m3u",
     "health_status": "not_checked",
@@ -25087,21 +24927,18 @@
   },
   {
     "id": "dragon_arabic_d543b12cabeb",
-    "name": "AR| MBC 4 HD",
-    "original_name": "|AR| MBC 4 HD | 🌟 FREE IPTV WORLD 🌟",
+    "name": "AR | MBC 4 SD",
+    "original_name": "AR | MBC 4 SD | 🌟 FREE IPTV WORLD 🌟",
     "language": "arabic",
     "groups": [],
     "raw_group": "AR | MBC",
-    "logo": "http://silvertv.net:1997/images/APREMUIM/mbc4.png",
+    "logo": "http://vod-logo.net/photos/45013edcd037e6a8593144d6ca78241a.png",
     "primary_url": "http://lordstreams.live:80/joe/joe/272049",
     "alternates": [
       "http://lordstreams.live:80/joe/joe/272023",
-      "http://lordstreams.live:80/joe/joe/272006",
-      "http://tvr.iptvboss.net:80/tree141es/sdfsdvvcxvxcvx/2576",
-      "http://tvr.iptvboss.net:80/tree141es/sdfsdvvcxvxcvx/2575",
-      "http://mjidiptv.com:1997/OIHfiptvtree2023f/6tYbxSIifTUwg8Vm/5073"
+      "http://lordstreams.live:80/joe/joe/272006"
     ],
-    "source_file": "FIW_1795373517_1_c97f45_Hunter_50EC.m3u",
+    "source_file": "FIW_1795379822_2_f24022_Hunter_5780.m3u",
     "health_status": "not_checked",
     "health_checked_urls": 0,
     "health_promoted": false
@@ -25117,7 +24954,6 @@
     "primary_url": "http://lordstreams.live:80/joe/joe/272043",
     "alternates": [
       "http://lordstreams.live:80/joe/joe/272011",
-      "http://tvr.iptvboss.net:80/tree141es/sdfsdvvcxvxcvx/2565",
       "http://31.43.191.125:8080/VIP01411172649548598/999b760a35d3/6432"
     ],
     "source_file": "FIW_1795379821_2_064819_Hunter_9C87.m3u",
@@ -25127,41 +24963,38 @@
   },
   {
     "id": "dragon_arabic_4bad0bcba881",
-    "name": "AR| MBC Masr 1",
-    "original_name": "|AR| MBC Masr 1 | 🌟 FREE IPTV WORLD 🌟",
+    "name": "AR: MBC MASR 1",
+    "original_name": "AR: MBC MASR 1 | 🌟 FREE IPTV WORLD 🌟",
     "language": "arabic",
     "groups": [],
     "raw_group": "AR | MBC",
-    "logo": "http://silvertv.net:1997/images/APREMUIM/MBCMasr.png",
+    "logo": "https://docdog.top/logo/countries/arab/mbcmasr1.png",
     "primary_url": "http://lordstreams.live:80/joe/joe/272037",
     "alternates": [
       "http://lordstreams.live:80/joe/joe/272034",
       "http://lordstreams.live:80/joe/joe/272016",
-      "http://mjidiptv.com:1997/OIHfiptvtree2023f/6tYbxSIifTUwg8Vm/5067",
       "http://31.43.191.125:8080/VIP01411172649548598/999b760a35d3/6429"
     ],
-    "source_file": "FIW_1795373517_1_c97f45_Hunter_50EC.m3u",
+    "source_file": "FIW_1795379821_2_064819_Hunter_9C87.m3u",
     "health_status": "not_checked",
     "health_checked_urls": 0,
     "health_promoted": false
   },
   {
     "id": "dragon_arabic_efd0cf8b3ff4",
-    "name": "AR| MBC Masr 2",
-    "original_name": "|AR| MBC Masr 2 | 🌟 FREE IPTV WORLD 🌟",
+    "name": "AR: MBC MASR 2",
+    "original_name": "AR: MBC MASR 2 | 🌟 FREE IPTV WORLD 🌟",
     "language": "arabic",
     "groups": [],
     "raw_group": "AR | MBC",
-    "logo": "http://silvertv.net:1997/images/APREMUIM/MBCMasr2.png",
+    "logo": "https://docdog.top/logo/countries/arab/mbcmasr2.png",
     "primary_url": "http://lordstreams.live:80/joe/joe/272036",
     "alternates": [
       "http://lordstreams.live:80/joe/joe/272035",
       "http://lordstreams.live:80/joe/joe/272015",
-      "http://tvr.iptvboss.net:80/tree141es/sdfsdvvcxvxcvx/2566",
-      "http://mjidiptv.com:1997/OIHfiptvtree2023f/6tYbxSIifTUwg8Vm/5066",
       "http://31.43.191.125:8080/VIP01411172649548598/999b760a35d3/6430"
     ],
-    "source_file": "FIW_1795373517_1_c97f45_Hunter_50EC.m3u",
+    "source_file": "FIW_1795379821_2_064819_Hunter_9C87.m3u",
     "health_status": "not_checked",
     "health_checked_urls": 0,
     "health_promoted": false
@@ -25203,19 +25036,17 @@
   },
   {
     "id": "dragon_arabic_c178a98b1f84",
-    "name": "MBC FM",
-    "original_name": "MBC FM | 🌟 FREE IPTV WORLD 🌟",
+    "name": "AR | MBC FM HD",
+    "original_name": "AR | MBC FM HD | 🌟 FREE IPTV WORLD 🌟",
     "language": "arabic",
     "groups": [],
     "raw_group": "AR | MBC",
-    "logo": "",
+    "logo": "http://vod-logo.net/photos/6f8360d2279829954d4ed7c8ecd1bc14.png",
     "primary_url": "http://lordstreams.live:80/joe/joe/272029",
     "alternates": [
-      "http://lordstreams.live:80/joe/joe/272028",
-      "http://tvmate.icu:8080/34164995/34164995/302525",
-      "http://tvmate.icu:8080/34164995/34164995/270545"
+      "http://lordstreams.live:80/joe/joe/272028"
     ],
-    "source_file": "FIW_1795373296_1_d65779_Hunter_D41F.m3u",
+    "source_file": "FIW_1795379822_2_f24022_Hunter_5780.m3u",
     "health_status": "not_checked",
     "health_checked_urls": 0,
     "health_promoted": false
@@ -25729,8 +25560,7 @@
     "logo": "https://logo.m3uassets.com/nbcwbtsbostonma.png",
     "primary_url": "http://lordstreams.live:80/joe/joe/1913",
     "alternates": [
-      "http://lordstreams.live:80/joe/joe/1912",
-      "http://tvmate.icu:8080/34164995/34164995/324545"
+      "http://lordstreams.live:80/joe/joe/1912"
     ],
     "source_file": "FIW_1795379822_2_f24022_Hunter_5780.m3u",
     "health_status": "not_checked",
@@ -25746,10 +25576,7 @@
     "raw_group": "USA | LOCAL - NBC",
     "logo": "https://upload.wikimedia.org/wikipedia/en/0/09/WWLP_Logo.PNG",
     "primary_url": "http://lordstreams.live:80/joe/joe/1833",
-    "alternates": [
-      "http://tvmate.icu:8080/34164995/34164995/324550",
-      "http://tvmate.icu:8080/34164995/34164995/324549"
-    ],
+    "alternates": [],
     "source_file": "FIW_1795379822_2_f24022_Hunter_5780.m3u",
     "health_status": "not_checked",
     "health_checked_urls": 0,
@@ -25764,9 +25591,7 @@
     "raw_group": "USA | LOCAL - NBC",
     "logo": "https://logo.m3uassets.com/rapidcitynbcknbn.png",
     "primary_url": "http://lordstreams.live:80/joe/joe/1759",
-    "alternates": [
-      "http://tvmate.icu:8080/34164995/34164995/324713"
-    ],
+    "alternates": [],
     "source_file": "FIW_1795379822_2_f24022_Hunter_5780.m3u",
     "health_status": "not_checked",
     "health_checked_urls": 0,
@@ -25781,9 +25606,7 @@
     "raw_group": "USA | LOCAL - NBC",
     "logo": "https://logo.m3uassets.com/siouxfallsnbckdlt.png",
     "primary_url": "http://lordstreams.live:80/joe/joe/1758",
-    "alternates": [
-      "http://tvmate.icu:8080/34164995/34164995/324714"
-    ],
+    "alternates": [],
     "source_file": "FIW_1795379822_2_f24022_Hunter_5780.m3u",
     "health_status": "not_checked",
     "health_checked_urls": 0,
@@ -25798,9 +25621,7 @@
     "raw_group": "USA | LOCAL - NBC",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/LOGO_WCYB_TriCities_solid_news5_horz_nbc_blk.png/1920px-LOGO_WCYB_TriCities_solid_news5_horz_nbc_blk.png",
     "primary_url": "http://lordstreams.live:80/joe/joe/1751",
-    "alternates": [
-      "http://tvmate.icu:8080/34164995/34164995/324721"
-    ],
+    "alternates": [],
     "source_file": "FIW_1795379822_2_f24022_Hunter_5780.m3u",
     "health_status": "not_checked",
     "health_checked_urls": 0,
@@ -25875,10 +25696,7 @@
     "raw_group": "USA | LOCAL - NBC",
     "logo": "https://logo.m3uassets.com/nashvilletnnbcwsmv.png",
     "primary_url": "http://lordstreams.live:80/joe/joe/1811",
-    "alternates": [
-      "http://tvmate.icu:8080/34164995/34164995/324720",
-      "http://tvmate.icu:8080/34164995/34164995/324719"
-    ],
+    "alternates": [],
     "source_file": "FIW_1795379822_2_f24022_Hunter_5780.m3u",
     "health_status": "not_checked",
     "health_checked_urls": 0,
@@ -26148,9 +25966,7 @@
     "raw_group": "USA | LOCAL - CBS",
     "logo": "https://logo.m3uassets.com/cbs8chattanooga.png",
     "primary_url": "http://lordstreams.live:80/joe/joe/1428",
-    "alternates": [
-      "http://tvmate.icu:8080/34164995/34164995/324715"
-    ],
+    "alternates": [],
     "source_file": "FIW_1795379822_2_f24022_Hunter_5780.m3u",
     "health_status": "not_checked",
     "health_checked_urls": 0,
@@ -26465,9 +26281,7 @@
     "raw_group": "USA | LOCAL - FOX",
     "logo": "https://logo.m3uassets.com/bostonmafoxwfxt.png",
     "primary_url": "http://lordstreams.live:80/joe/joe/1639",
-    "alternates": [
-      "http://tvmate.icu:8080/34164995/34164995/324543"
-    ],
+    "alternates": [],
     "source_file": "FIW_1795379822_2_f24022_Hunter_5780.m3u",
     "health_status": "not_checked",
     "health_checked_urls": 0,
@@ -26527,9 +26341,7 @@
     "raw_group": "USA | LOCAL - FOX",
     "logo": "https://logo.m3uassets.com/chattanoogaabc9wtvc.png",
     "primary_url": "http://lordstreams.live:80/joe/joe/1583",
-    "alternates": [
-      "http://tvmate.icu:8080/34164995/34164995/324716"
-    ],
+    "alternates": [],
     "source_file": "FIW_1795379822_2_f24022_Hunter_5780.m3u",
     "health_status": "not_checked",
     "health_checked_urls": 0,
@@ -26574,9 +26386,7 @@
     "raw_group": "USA | LOCAL - FOX",
     "logo": "https://logo.m3uassets.com/nashvillefox17wztv.png",
     "primary_url": "http://lordstreams.live:80/joe/joe/1580",
-    "alternates": [
-      "http://tvmate.icu:8080/34164995/34164995/324718"
-    ],
+    "alternates": [],
     "source_file": "FIW_1795379822_2_f24022_Hunter_5780.m3u",
     "health_status": "not_checked",
     "health_checked_urls": 0,
@@ -27045,11 +26855,8 @@
     "groups": [],
     "raw_group": "ARAB VIP",
     "logo": "https://docdog.top/logo/countries/arab/tamazight.png",
-    "primary_url": "http://tvr.iptvboss.net:80/tree141es/sdfsdvvcxvxcvx/2664",
-    "alternates": [
-      "http://tvr.iptvboss.net:80/tree141es/sdfsdvvcxvxcvx/54155",
-      "http://31.43.191.125:8080/VIP01411172649548598/999b760a35d3/6355"
-    ],
+    "primary_url": "http://31.43.191.125:8080/VIP01411172649548598/999b760a35d3/6355",
+    "alternates": [],
     "source_file": "FIW_1795379821_2_064819_Hunter_9C87.m3u",
     "health_status": "not_checked",
     "health_checked_urls": 0,
@@ -27063,10 +26870,8 @@
     "groups": [],
     "raw_group": "ARAB VIP",
     "logo": "https://docdog.top/logo/countries/arab/assadissa.png",
-    "primary_url": "http://mjidiptv.com:1997/OIHfiptvtree2023f/6tYbxSIifTUwg8Vm/4962",
-    "alternates": [
-      "http://31.43.191.125:8080/VIP01411172649548598/999b760a35d3/6356"
-    ],
+    "primary_url": "http://31.43.191.125:8080/VIP01411172649548598/999b760a35d3/6356",
+    "alternates": [],
     "source_file": "FIW_1795379821_2_064819_Hunter_9C87.m3u",
     "health_status": "not_checked",
     "health_checked_urls": 0,
@@ -27080,12 +26885,8 @@
     "groups": [],
     "raw_group": "ARAB VIP",
     "logo": "https://docdog.top/logo/countries/arab/almaghribia.png",
-    "primary_url": "http://tvr.iptvboss.net:80/tree141es/sdfsdvvcxvxcvx/2663",
-    "alternates": [
-      "http://tvr.iptvboss.net:80/tree141es/sdfsdvvcxvxcvx/54154",
-      "http://mjidiptv.com:1997/OIHfiptvtree2023f/6tYbxSIifTUwg8Vm/4966",
-      "http://31.43.191.125:8080/VIP01411172649548598/999b760a35d3/6357"
-    ],
+    "primary_url": "http://31.43.191.125:8080/VIP01411172649548598/999b760a35d3/6357",
+    "alternates": [],
     "source_file": "FIW_1795379821_2_064819_Hunter_9C87.m3u",
     "health_status": "not_checked",
     "health_checked_urls": 0,
@@ -27099,12 +26900,8 @@
     "groups": [],
     "raw_group": "ARAB VIP",
     "logo": "https://docdog.top/logo/countries/arab/telemaroc.png",
-    "primary_url": "http://tvr.iptvboss.net:80/tree141es/sdfsdvvcxvxcvx/2662",
-    "alternates": [
-      "http://tvr.iptvboss.net:80/tree141es/sdfsdvvcxvxcvx/54159",
-      "http://mjidiptv.com:1997/OIHfiptvtree2023f/6tYbxSIifTUwg8Vm/5809",
-      "http://31.43.191.125:8080/VIP01411172649548598/999b760a35d3/6358"
-    ],
+    "primary_url": "http://31.43.191.125:8080/VIP01411172649548598/999b760a35d3/6358",
+    "alternates": [],
     "source_file": "FIW_1795379821_2_064819_Hunter_9C87.m3u",
     "health_status": "not_checked",
     "health_checked_urls": 0,
@@ -27118,10 +26915,8 @@
     "groups": [],
     "raw_group": "ARAB VIP",
     "logo": "https://docdog.top/logo/countries/arab/ARRABIAA.jpg",
-    "primary_url": "http://mjidiptv.com:1997/OIHfiptvtree2023f/6tYbxSIifTUwg8Vm/4964",
-    "alternates": [
-      "http://31.43.191.125:8080/VIP01411172649548598/999b760a35d3/6360"
-    ],
+    "primary_url": "http://31.43.191.125:8080/VIP01411172649548598/999b760a35d3/6360",
+    "alternates": [],
     "source_file": "FIW_1795379821_2_064819_Hunter_9C87.m3u",
     "health_status": "not_checked",
     "health_checked_urls": 0,
@@ -27294,17 +27089,15 @@
   },
   {
     "id": "dragon_arabic_a60c6aeb8d38",
-    "name": "DZ| EL FADJR",
-    "original_name": "|DZ| EL FADJR | 🌟 FREE IPTV WORLD 🌟",
+    "name": "AR: EL FADJR",
+    "original_name": "AR: EL FADJR | 🌟 FREE IPTV WORLD 🌟",
     "language": "arabic",
     "groups": [],
     "raw_group": "ARAB VIP",
-    "logo": "http://silvertv.net:1997/images/ALGERIA/kabc.png",
-    "primary_url": "http://mjidiptv.com:1997/OIHfiptvtree2023f/6tYbxSIifTUwg8Vm/6659",
-    "alternates": [
-      "http://31.43.191.125:8080/VIP01411172649548598/999b760a35d3/6377"
-    ],
-    "source_file": "FIW_1795373517_1_c97f45_Hunter_50EC.m3u",
+    "logo": "https://docdog.top/logo/countries/arab/elfadjrtv.png",
+    "primary_url": "http://31.43.191.125:8080/VIP01411172649548598/999b760a35d3/6377",
+    "alternates": [],
+    "source_file": "FIW_1795379821_2_064819_Hunter_9C87.m3u",
     "health_status": "not_checked",
     "health_checked_urls": 0,
     "health_promoted": false
@@ -27416,17 +27209,15 @@
   },
   {
     "id": "dragon_arabic_375e76e5dd71",
-    "name": "DZ| ALGERIA 4",
-    "original_name": "|DZ| ALGERIA 4 | 🌟 FREE IPTV WORLD 🌟",
+    "name": "AR: ALGERIA 4",
+    "original_name": "AR: ALGERIA 4 | 🌟 FREE IPTV WORLD 🌟",
     "language": "arabic",
     "groups": [],
     "raw_group": "ARAB VIP",
-    "logo": "http://silvertv.net:1997/images/ALGERIA/algeria_4.png",
-    "primary_url": "http://mjidiptv.com:1997/OIHfiptvtree2023f/6tYbxSIifTUwg8Vm/6658",
-    "alternates": [
-      "http://31.43.191.125:8080/VIP01411172649548598/999b760a35d3/6386"
-    ],
-    "source_file": "FIW_1795373517_1_c97f45_Hunter_50EC.m3u",
+    "logo": "https://docdog.top/logo/countries/arab/ALGERIA.png",
+    "primary_url": "http://31.43.191.125:8080/VIP01411172649548598/999b760a35d3/6386",
+    "alternates": [],
+    "source_file": "FIW_1795379821_2_064819_Hunter_9C87.m3u",
     "health_status": "not_checked",
     "health_checked_urls": 0,
     "health_promoted": false
@@ -27538,34 +27329,30 @@
   },
   {
     "id": "dragon_arabic_f41868cf9da9",
-    "name": "DZ: BAHIA TV",
-    "original_name": "DZ: BAHIA TV | 🌟 FREE IPTV WORLD 🌟",
+    "name": "AR: BAHIA TV",
+    "original_name": "AR: BAHIA TV | 🌟 FREE IPTV WORLD 🌟",
     "language": "arabic",
     "groups": [],
     "raw_group": "ARAB VIP",
-    "logo": "",
-    "primary_url": "http://tvr.iptvboss.net:80/tree141es/sdfsdvvcxvxcvx/2643",
-    "alternates": [
-      "http://31.43.191.125:8080/VIP01411172649548598/999b760a35d3/6394"
-    ],
-    "source_file": "FIW_1795373435_2_21a8d9_Hunter_CC97.m3u",
+    "logo": "https://docdog.top/logo/countries/arab/bahiatv.png",
+    "primary_url": "http://31.43.191.125:8080/VIP01411172649548598/999b760a35d3/6394",
+    "alternates": [],
+    "source_file": "FIW_1795379821_2_064819_Hunter_9C87.m3u",
     "health_status": "not_checked",
     "health_checked_urls": 0,
     "health_promoted": false
   },
   {
     "id": "dragon_arabic_41ddca6e754c",
-    "name": "DZ: BERBERE JEUNESSE",
-    "original_name": "DZ: BERBERE JEUNESSE | 🌟 FREE IPTV WORLD 🌟",
+    "name": "AR: BERBERE JEUNESSE",
+    "original_name": "AR: BERBERE JEUNESSE | 🌟 FREE IPTV WORLD 🌟",
     "language": "arabic",
     "groups": [],
     "raw_group": "ARAB VIP",
     "logo": "",
-    "primary_url": "http://tvr.iptvboss.net:80/tree141es/sdfsdvvcxvxcvx/2646",
-    "alternates": [
-      "http://31.43.191.125:8080/VIP01411172649548598/999b760a35d3/6395"
-    ],
-    "source_file": "FIW_1795373435_2_21a8d9_Hunter_CC97.m3u",
+    "primary_url": "http://31.43.191.125:8080/VIP01411172649548598/999b760a35d3/6395",
+    "alternates": [],
+    "source_file": "FIW_1795379821_2_064819_Hunter_9C87.m3u",
     "health_status": "not_checked",
     "health_checked_urls": 0,
     "health_promoted": false
@@ -27784,17 +27571,15 @@
   },
   {
     "id": "dragon_arabic_d1811bab0df2",
-    "name": "DZ: AL NAHAR ONE",
-    "original_name": "DZ: AL NAHAR ONE | 🌟 FREE IPTV WORLD 🌟",
+    "name": "AR: AL NAHAR ONE",
+    "original_name": "AR: AL NAHAR ONE | 🌟 FREE IPTV WORLD 🌟",
     "language": "arabic",
     "groups": [],
     "raw_group": "ARAB VIP",
-    "logo": "",
-    "primary_url": "http://tvr.iptvboss.net:80/tree141es/sdfsdvvcxvxcvx/2651",
-    "alternates": [
-      "http://31.43.191.125:8080/VIP01411172649548598/999b760a35d3/6532"
-    ],
-    "source_file": "FIW_1795373435_2_21a8d9_Hunter_CC97.m3u",
+    "logo": "https://docdog.top/logo/countries/arab/alnaharone.png",
+    "primary_url": "http://31.43.191.125:8080/VIP01411172649548598/999b760a35d3/6532",
+    "alternates": [],
+    "source_file": "FIW_1795379821_2_064819_Hunter_9C87.m3u",
     "health_status": "not_checked",
     "health_checked_urls": 0,
     "health_promoted": false
@@ -28135,17 +27920,15 @@
   },
   {
     "id": "dragon_arabic_da909c5659a1",
-    "name": "SAT 7 ARABIC",
-    "original_name": "SAT 7 ARABIC | 🌟 FREE IPTV WORLD 🌟",
+    "name": "AR: SAT 7 ARABIC",
+    "original_name": "AR: SAT 7 ARABIC | 🌟 FREE IPTV WORLD 🌟",
     "language": "arabic",
     "groups": [],
     "raw_group": "ARAB VIP",
-    "logo": "",
-    "primary_url": "http://tvr.iptvboss.net:80/tree141es/sdfsdvvcxvxcvx/2477",
-    "alternates": [
-      "http://31.43.191.125:8080/VIP01411172649548598/999b760a35d3/6570"
-    ],
-    "source_file": "FIW_1795373435_2_21a8d9_Hunter_CC97.m3u",
+    "logo": "https://docdog.top/logo/countries/arab/sat7arabic.png",
+    "primary_url": "http://31.43.191.125:8080/VIP01411172649548598/999b760a35d3/6570",
+    "alternates": [],
+    "source_file": "FIW_1795379821_2_064819_Hunter_9C87.m3u",
     "health_status": "not_checked",
     "health_checked_urls": 0,
     "health_promoted": false
@@ -29067,7 +28850,7 @@
     "primary_url": "http://31.43.191.125:8080/VIP01411172649548598/999b760a35d3/6657",
     "alternates": [],
     "source_file": "FIW_1795379821_2_064819_Hunter_9C87.m3u",
-    "health_status": "reachable",
+    "health_status": "unreachable",
     "health_checked_urls": 1,
     "health_promoted": false
   },
@@ -29281,7 +29064,7 @@
     "primary_url": "http://31.43.191.125:8080/VIP01411172649548598/999b760a35d3/6675",
     "alternates": [],
     "source_file": "FIW_1795379821_2_064819_Hunter_9C87.m3u",
-    "health_status": "reachable",
+    "health_status": "unreachable",
     "health_checked_urls": 1,
     "health_promoted": false
   },
@@ -29533,17 +29316,15 @@
   },
   {
     "id": "dragon_arabic_0eb6fd366e40",
-    "name": "SA: SAUDI 1",
-    "original_name": "SA: SAUDI 1 | 🌟 FREE IPTV WORLD 🌟",
+    "name": "AR: SAUDI 1",
+    "original_name": "AR: SAUDI 1 | 🌟 FREE IPTV WORLD 🌟",
     "language": "arabic",
     "groups": [],
     "raw_group": "ARAB VIP",
-    "logo": "",
-    "primary_url": "http://tvr.iptvboss.net:80/tree141es/sdfsdvvcxvxcvx/2530",
-    "alternates": [
-      "http://31.43.191.125:8080/VIP01411172649548598/999b760a35d3/6706"
-    ],
-    "source_file": "FIW_1795373435_2_21a8d9_Hunter_CC97.m3u",
+    "logo": "https://docdog.top/logo/countries/arab/saudi1.png",
+    "primary_url": "http://31.43.191.125:8080/VIP01411172649548598/999b760a35d3/6706",
+    "alternates": [],
+    "source_file": "FIW_1795379821_2_064819_Hunter_9C87.m3u",
     "health_status": "not_checked",
     "health_checked_urls": 0,
     "health_promoted": false
@@ -29565,17 +29346,15 @@
   },
   {
     "id": "dragon_arabic_204bff962be1",
-    "name": "SA: SAUDI 24",
-    "original_name": "SA: SAUDI 24 | 🌟 FREE IPTV WORLD 🌟",
+    "name": "AR: SAUDI 24",
+    "original_name": "AR: SAUDI 24 | 🌟 FREE IPTV WORLD 🌟",
     "language": "arabic",
     "groups": [],
     "raw_group": "ARAB VIP",
-    "logo": "",
-    "primary_url": "http://tvr.iptvboss.net:80/tree141es/sdfsdvvcxvxcvx/2527",
-    "alternates": [
-      "http://31.43.191.125:8080/VIP01411172649548598/999b760a35d3/6708"
-    ],
-    "source_file": "FIW_1795373435_2_21a8d9_Hunter_CC97.m3u",
+    "logo": "https://docdog.top/logo/countries/arab/saudi24.png",
+    "primary_url": "http://31.43.191.125:8080/VIP01411172649548598/999b760a35d3/6708",
+    "alternates": [],
+    "source_file": "FIW_1795379821_2_064819_Hunter_9C87.m3u",
     "health_status": "not_checked",
     "health_checked_urls": 0,
     "health_promoted": false
@@ -29623,7 +29402,7 @@
     "primary_url": "http://31.43.191.125:8080/VIP01411172649548598/999b760a35d3/6711",
     "alternates": [],
     "source_file": "FIW_1795379821_2_064819_Hunter_9C87.m3u",
-    "health_status": "reachable",
+    "health_status": "unreachable",
     "health_checked_urls": 1,
     "health_promoted": false
   },
@@ -30300,9 +30079,7 @@
     "raw_group": "ARAB VIP",
     "logo": "https://docdog.top/logo/countries/arab/wanasah.png",
     "primary_url": "http://31.43.191.125:8080/VIP01411172649548598/999b760a35d3/6778",
-    "alternates": [
-      "http://mjidiptv.com:1997/OIHfiptvtree2023f/6tYbxSIifTUwg8Vm/54082"
-    ],
+    "alternates": [],
     "source_file": "FIW_1795379821_2_064819_Hunter_9C87.m3u",
     "health_status": "not_checked",
     "health_checked_urls": 0,
@@ -30744,7 +30521,6 @@
     "logo": "https://docdog.top/logo/countries/ar/DUBAI_RACING_3.png",
     "primary_url": "http://31.43.191.125:8080/VIP01411172649548598/999b760a35d3/6821",
     "alternates": [
-      "http://mjidiptv.com:1997/OIHfiptvtree2023f/6tYbxSIifTUwg8Vm/54060",
       "http://31.43.191.125:8080/VIP01411172649548598/999b760a35d3/131041"
     ],
     "source_file": "FIW_1795379821_2_064819_Hunter_9C87.m3u",
@@ -31453,40 +31229,34 @@
   },
   {
     "id": "dragon_arabic_c3bf5b133159",
-    "name": "AR| AD Sport 1",
-    "original_name": "|AR| AD Sport 1 | 🌟 FREE IPTV WORLD 🌟",
+    "name": "AR: AD SPORT 1",
+    "original_name": "AR: AD SPORT 1 | 🌟 FREE IPTV WORLD 🌟",
     "language": "arabic",
     "groups": [
       "sports"
     ],
     "raw_group": "ARAB VIP",
-    "logo": "http://silvertv.net:1997/images/ASPORTS/ADSport1.png",
-    "primary_url": "http://mjidiptv.com:1997/OIHfiptvtree2023f/6tYbxSIifTUwg8Vm/5053",
-    "alternates": [
-      "http://31.43.191.125:8080/VIP01411172649548598/999b760a35d3/6892",
-      "http://mjidiptv.com:1997/OIHfiptvtree2023f/6tYbxSIifTUwg8Vm/54048"
-    ],
-    "source_file": "FIW_1795373517_1_c97f45_Hunter_50EC.m3u",
+    "logo": "https://docdog.top/logo/countries/arab/ADSPORT.png",
+    "primary_url": "http://31.43.191.125:8080/VIP01411172649548598/999b760a35d3/6892",
+    "alternates": [],
+    "source_file": "FIW_1795379821_2_064819_Hunter_9C87.m3u",
     "health_status": "not_checked",
     "health_checked_urls": 0,
     "health_promoted": false
   },
   {
     "id": "dragon_arabic_d389e030164b",
-    "name": "AR| AD Sport 2",
-    "original_name": "|AR| AD Sport 2 | 🌟 FREE IPTV WORLD 🌟",
+    "name": "AR: AD SPORT 2",
+    "original_name": "AR: AD SPORT 2 | 🌟 FREE IPTV WORLD 🌟",
     "language": "arabic",
     "groups": [
       "sports"
     ],
     "raw_group": "ARAB VIP",
-    "logo": "http://silvertv.net:1997/images/ASPORTS/ADSport2.png",
-    "primary_url": "http://mjidiptv.com:1997/OIHfiptvtree2023f/6tYbxSIifTUwg8Vm/5052",
-    "alternates": [
-      "http://31.43.191.125:8080/VIP01411172649548598/999b760a35d3/6893",
-      "http://mjidiptv.com:1997/OIHfiptvtree2023f/6tYbxSIifTUwg8Vm/54049"
-    ],
-    "source_file": "FIW_1795373517_1_c97f45_Hunter_50EC.m3u",
+    "logo": "https://docdog.top/logo/countries/arab/ADSPORT.png",
+    "primary_url": "http://31.43.191.125:8080/VIP01411172649548598/999b760a35d3/6893",
+    "alternates": [],
+    "source_file": "FIW_1795379821_2_064819_Hunter_9C87.m3u",
     "health_status": "not_checked",
     "health_checked_urls": 0,
     "health_promoted": false
@@ -31675,17 +31445,15 @@
   },
   {
     "id": "dragon_arabic_098ee9e18439",
-    "name": "AR| Toyour Baby",
-    "original_name": "|AR| Toyour Baby | 🌟 FREE IPTV WORLD 🌟",
+    "name": "AR: TOYOUR BABY",
+    "original_name": "AR: TOYOUR BABY | 🌟 FREE IPTV WORLD 🌟",
     "language": "arabic",
     "groups": [],
     "raw_group": "ARAB VIP",
-    "logo": "http://silvertv.net:1997/images/AKIDS/f524676bb08b2c562c28072d848927c2.png",
-    "primary_url": "http://mjidiptv.com:1997/OIHfiptvtree2023f/6tYbxSIifTUwg8Vm/5011",
-    "alternates": [
-      "http://31.43.191.125:8080/VIP01411172649548598/999b760a35d3/6916"
-    ],
-    "source_file": "FIW_1795373517_1_c97f45_Hunter_50EC.m3u",
+    "logo": "https://docdog.top/logo/countries/arab/TOYOURBABY.jpg",
+    "primary_url": "http://31.43.191.125:8080/VIP01411172649548598/999b760a35d3/6916",
+    "alternates": [],
+    "source_file": "FIW_1795379821_2_064819_Hunter_9C87.m3u",
     "health_status": "not_checked",
     "health_checked_urls": 0,
     "health_promoted": false
@@ -32098,10 +31866,8 @@
     "groups": [],
     "raw_group": "ARAB VIP",
     "logo": "https://docdog.top/logo/countries/arab/aflam7.png",
-    "primary_url": "http://tvr.iptvboss.net:80/tree141es/sdfsdvvcxvxcvx/2659",
-    "alternates": [
-      "http://31.43.191.125:8080/VIP01411172649548598/999b760a35d3/6958"
-    ],
+    "primary_url": "http://31.43.191.125:8080/VIP01411172649548598/999b760a35d3/6958",
+    "alternates": [],
     "source_file": "FIW_1795379821_2_064819_Hunter_9C87.m3u",
     "health_status": "not_checked",
     "health_checked_urls": 0,
@@ -32191,10 +31957,7 @@
     "raw_group": "ARAB VIP",
     "logo": "https://docdog.top/logo/countries/arab/b4uaflam.png",
     "primary_url": "http://31.43.191.125:8080/VIP01411172649548598/999b760a35d3/6966",
-    "alternates": [
-      "http://mjidiptv.com:1997/OIHfiptvtree2023f/6tYbxSIifTUwg8Vm/62521",
-      "http://mjidiptv.com:1997/OIHfiptvtree2023f/6tYbxSIifTUwg8Vm/54076"
-    ],
+    "alternates": [],
     "source_file": "FIW_1795379821_2_064819_Hunter_9C87.m3u",
     "health_status": "not_checked",
     "health_checked_urls": 0,
@@ -32209,9 +31972,7 @@
     "raw_group": "ARAB VIP",
     "logo": "https://docdog.top/logo/countries/arab/b4uplus.png",
     "primary_url": "http://31.43.191.125:8080/VIP01411172649548598/999b760a35d3/6967",
-    "alternates": [
-      "http://mjidiptv.com:1997/OIHfiptvtree2023f/6tYbxSIifTUwg8Vm/54077"
-    ],
+    "alternates": [],
     "source_file": "FIW_1795379821_2_064819_Hunter_9C87.m3u",
     "health_status": "not_checked",
     "health_checked_urls": 0,
@@ -32326,20 +32087,18 @@
   },
   {
     "id": "dragon_arabic_9eaf95842da6",
-    "name": "AR| Extra News",
-    "original_name": "|AR| Extra News | 🌟 FREE IPTV WORLD 🌟",
+    "name": "AR: EXTRA NEWS",
+    "original_name": "AR: EXTRA NEWS | 🌟 FREE IPTV WORLD 🌟",
     "language": "arabic",
     "groups": [
       "news"
     ],
     "raw_group": "ARAB VIP",
-    "logo": "http://silvertv.net:1997/images/nile/LOGO_ANN-1.png",
-    "primary_url": "http://mjidiptv.com:1997/OIHfiptvtree2023f/6tYbxSIifTUwg8Vm/5030",
-    "alternates": [
-      "http://31.43.191.125:8080/VIP01411172649548598/999b760a35d3/6976"
-    ],
-    "source_file": "FIW_1795373517_1_c97f45_Hunter_50EC.m3u",
-    "health_status": "reachable",
+    "logo": "https://docdog.top/logo/countries/arab/extranews.png",
+    "primary_url": "http://31.43.191.125:8080/VIP01411172649548598/999b760a35d3/6976",
+    "alternates": [],
+    "source_file": "FIW_1795379821_2_064819_Hunter_9C87.m3u",
+    "health_status": "unreachable",
     "health_checked_urls": 1,
     "health_promoted": false
   },
@@ -33210,17 +32969,15 @@
   },
   {
     "id": "dragon_arabic_5889a3f9212d",
-    "name": "TN: ZAYTOUNA",
-    "original_name": "TN: ZAYTOUNA | 🌟 FREE IPTV WORLD 🌟",
+    "name": "AR: ZAYTOUNA",
+    "original_name": "AR: ZAYTOUNA | 🌟 FREE IPTV WORLD 🌟",
     "language": "arabic",
     "groups": [],
     "raw_group": "ARAB VIP",
-    "logo": "",
-    "primary_url": "http://tvr.iptvboss.net:80/tree141es/sdfsdvvcxvxcvx/2636",
-    "alternates": [
-      "http://31.43.191.125:8080/VIP01411172649548598/999b760a35d3/7049"
-    ],
-    "source_file": "FIW_1795373435_2_21a8d9_Hunter_CC97.m3u",
+    "logo": "https://docdog.top/logo/countries/arab/zaytouna.png",
+    "primary_url": "http://31.43.191.125:8080/VIP01411172649548598/999b760a35d3/7049",
+    "alternates": [],
+    "source_file": "FIW_1795379821_2_064819_Hunter_9C87.m3u",
     "health_status": "not_checked",
     "health_checked_urls": 0,
     "health_promoted": false
@@ -33377,17 +33134,15 @@
   },
   {
     "id": "dragon_arabic_4f873916910c",
-    "name": "MYHD| MBC PLUS DRAMA HD",
-    "original_name": "|MYHD| MBC PLUS DRAMA HD | 🌟 FREE IPTV WORLD 🌟",
+    "name": "AR: MYHD MBC PLUS DRAMA",
+    "original_name": "AR: MYHD MBC PLUS DRAMA | 🌟 FREE IPTV WORLD 🌟",
     "language": "arabic",
     "groups": [],
     "raw_group": "ARAB | MBC & MYHD VIP",
-    "logo": "http://silvertv.net:1997/images/APREMUIM/MBCDramaPlus.png",
-    "primary_url": "http://mjidiptv.com:1997/OIHfiptvtree2023f/6tYbxSIifTUwg8Vm/5819",
-    "alternates": [
-      "http://31.43.191.125:8080/VIP01411172649548598/999b760a35d3/6442"
-    ],
-    "source_file": "FIW_1795373517_1_c97f45_Hunter_50EC.m3u",
+    "logo": "https://docdog.top/logo/countries/arab/MBCPLUSDRAMA.png",
+    "primary_url": "http://31.43.191.125:8080/VIP01411172649548598/999b760a35d3/6442",
+    "alternates": [],
+    "source_file": "FIW_1795379821_2_064819_Hunter_9C87.m3u",
     "health_status": "not_checked",
     "health_checked_urls": 0,
     "health_promoted": false
@@ -33420,7 +33175,7 @@
     "primary_url": "http://31.43.191.125:8080/VIP01411172649548598/999b760a35d3/6446",
     "alternates": [],
     "source_file": "FIW_1795379821_2_064819_Hunter_9C87.m3u",
-    "health_status": "reachable",
+    "health_status": "unreachable",
     "health_checked_urls": 1,
     "health_promoted": false
   },
@@ -33625,7 +33380,7 @@
     "primary_url": "http://31.43.191.125:8080/VIP01411172649548598/999b760a35d3/6459",
     "alternates": [],
     "source_file": "FIW_1795379821_2_064819_Hunter_9C87.m3u",
-    "health_status": "reachable",
+    "health_status": "unreachable",
     "health_checked_urls": 1,
     "health_promoted": false
   },
@@ -33960,8 +33715,8 @@
       "http://31.43.191.125:8080/VIP01411172649548598/999b760a35d3/130892"
     ],
     "source_file": "FIW_1795379821_2_064819_Hunter_9C87.m3u",
-    "health_status": "unreachable",
-    "health_checked_urls": 2,
+    "health_status": "reachable",
+    "health_checked_urls": 1,
     "health_promoted": false
   },
   {
@@ -43824,17 +43579,15 @@
   },
   {
     "id": "dragon_arabic_bb793a129f07",
-    "name": "AR| NETFLIX HORROR",
-    "original_name": "|AR| NETFLIX HORROR | 🌟 FREE IPTV WORLD 🌟",
+    "name": "AR|NETFLIX: HORROR",
+    "original_name": "AR|NETFLIX: HORROR | 🌟 FREE IPTV WORLD 🌟",
     "language": "arabic",
     "groups": [],
     "raw_group": "ARAB VIP NEW",
-    "logo": "",
-    "primary_url": "http://mjidiptv.com:1997/OIHfiptvtree2023f/6tYbxSIifTUwg8Vm/62754",
-    "alternates": [
-      "http://31.43.191.125:8080/VIP01411172649548598/999b760a35d3/130833"
-    ],
-    "source_file": "FIW_1795373517_1_c97f45_Hunter_50EC.m3u",
+    "logo": "https://docdog.top/logo/countries/ar/HORROR.jpg",
+    "primary_url": "http://31.43.191.125:8080/VIP01411172649548598/999b760a35d3/130833",
+    "alternates": [],
+    "source_file": "FIW_1795379821_2_064819_Hunter_9C87.m3u",
     "health_status": "not_checked",
     "health_checked_urls": 0,
     "health_promoted": false
@@ -47144,13 +46897,11 @@
     ],
     "raw_group": "EU | BOSNIA VIP",
     "logo": "https://docdog.top/logo/countries/bosnia/discoveryscience.png",
-    "primary_url": "http://mjidiptv.com:1997/OIHfiptvtree2023f/6tYbxSIifTUwg8Vm/5078",
-    "alternates": [
-      "http://31.43.191.125:8080/VIP01411172649548598/999b760a35d3/4112"
-    ],
+    "primary_url": "http://31.43.191.125:8080/VIP01411172649548598/999b760a35d3/4112",
+    "alternates": [],
     "source_file": "FIW_1795379821_2_064819_Hunter_9C87.m3u",
     "health_status": "unreachable",
-    "health_checked_urls": 2,
+    "health_checked_urls": 1,
     "health_promoted": false
   },
   {
@@ -52097,2428 +51848,6 @@
     "primary_url": "http://globaltv.org.uk:8080/iptv.kosiptv.comNEW/gJUP3KsM2ENEW/665017343",
     "alternates": [],
     "source_file": "FIW_1795379806_1_f1d2eb_Hunter_CE50.m3u",
-    "health_status": "not_checked",
-    "health_checked_urls": 0,
-    "health_promoted": false
-  },
-  {
-    "id": "dragon_arabic_0d33dacab96a",
-    "name": "AR| Almajd10 basma",
-    "original_name": "|AR| Almajd10 basma | 🌟 FREE IPTV WORLD 🌟",
-    "language": "arabic",
-    "groups": [],
-    "raw_group": "ARABIC ISLAMIC",
-    "logo": "http://silvertv.net:1997/images/nile/almajdquran.png",
-    "primary_url": "http://mjidiptv.com:1997/OIHfiptvtree2023f/6tYbxSIifTUwg8Vm/5000",
-    "alternates": [],
-    "source_file": "FIW_1795373517_1_c97f45_Hunter_50EC.m3u",
-    "health_status": "not_checked",
-    "health_checked_urls": 0,
-    "health_promoted": false
-  },
-  {
-    "id": "dragon_arabic_d2885d0fbed7",
-    "name": "AR| Al_Nas",
-    "original_name": "|AR| Al_Nas | 🌟 FREE IPTV WORLD 🌟",
-    "language": "arabic",
-    "groups": [],
-    "raw_group": "ARABIC ISLAMIC",
-    "logo": "http://silvertv.net:1997/images/nile/alnas.png",
-    "primary_url": "http://mjidiptv.com:1997/OIHfiptvtree2023f/6tYbxSIifTUwg8Vm/5005",
-    "alternates": [],
-    "source_file": "FIW_1795373517_1_c97f45_Hunter_50EC.m3u",
-    "health_status": "not_checked",
-    "health_checked_urls": 0,
-    "health_promoted": false
-  },
-  {
-    "id": "dragon_arabic_43d32929afe8",
-    "name": "AR| Almajd07 documentaire",
-    "original_name": "|AR| Almajd07 documentaire | 🌟 FREE IPTV WORLD 🌟",
-    "language": "arabic",
-    "groups": [
-      "documentary"
-    ],
-    "raw_group": "ARABIC ISLAMIC",
-    "logo": "http://silvertv.net:1997/images/nile/almajdhadit.png",
-    "primary_url": "http://mjidiptv.com:1997/OIHfiptvtree2023f/6tYbxSIifTUwg8Vm/6670",
-    "alternates": [],
-    "source_file": "FIW_1795373517_1_c97f45_Hunter_50EC.m3u",
-    "health_status": "reachable",
-    "health_checked_urls": 1,
-    "health_promoted": false
-  },
-  {
-    "id": "dragon_arabic_c83f17d2ef5c",
-    "name": "AR| The-Savior Quran",
-    "original_name": "|AR| The-Savior Quran | 🌟 FREE IPTV WORLD 🌟",
-    "language": "arabic",
-    "groups": [],
-    "raw_group": "ARABIC ISLAMIC",
-    "logo": "http://silvertv.net:1997/images/nile/qurankaifa.png",
-    "primary_url": "http://mjidiptv.com:1997/OIHfiptvtree2023f/6tYbxSIifTUwg8Vm/36742",
-    "alternates": [],
-    "source_file": "FIW_1795373517_1_c97f45_Hunter_50EC.m3u",
-    "health_status": "not_checked",
-    "health_checked_urls": 0,
-    "health_promoted": false
-  },
-  {
-    "id": "dragon_arabic_6688377e1fed",
-    "name": "MA| TAMAZIGHT MAROC HD",
-    "original_name": "|MA| TAMAZIGHT MAROC HD | 🌟 FREE IPTV WORLD 🌟",
-    "language": "arabic",
-    "groups": [],
-    "raw_group": "MAROC",
-    "logo": "http://silvertv.net:1997/images/MOROCCO/tamazight.png",
-    "primary_url": "http://mjidiptv.com:1997/OIHfiptvtree2023f/6tYbxSIifTUwg8Vm/4961",
-    "alternates": [],
-    "source_file": "FIW_1795373517_1_c97f45_Hunter_50EC.m3u",
-    "health_status": "not_checked",
-    "health_checked_urls": 0,
-    "health_promoted": false
-  },
-  {
-    "id": "dragon_arabic_c07588085516",
-    "name": "MA| MEDI 1 TV TNT",
-    "original_name": "|MA| MEDI 1 TV TNT | 🌟 FREE IPTV WORLD 🌟",
-    "language": "arabic",
-    "groups": [],
-    "raw_group": "MAROC",
-    "logo": "http://silvertv.net:1997/images/MOROCCO/medi1_tv.png",
-    "primary_url": "http://mjidiptv.com:1997/OIHfiptvtree2023f/6tYbxSIifTUwg8Vm/4965",
-    "alternates": [],
-    "source_file": "FIW_1795373517_1_c97f45_Hunter_50EC.m3u",
-    "health_status": "not_checked",
-    "health_checked_urls": 0,
-    "health_promoted": false
-  },
-  {
-    "id": "dragon_arabic_8c2700daeed2",
-    "name": "MA| AL AOULA LAYOUNE HD",
-    "original_name": "|MA| AL AOULA LAYOUNE HD | 🌟 FREE IPTV WORLD 🌟",
-    "language": "arabic",
-    "groups": [],
-    "raw_group": "MAROC",
-    "logo": "http://silvertv.net:1997/images/MOROCCO/LaayouneTV.png",
-    "primary_url": "http://mjidiptv.com:1997/OIHfiptvtree2023f/6tYbxSIifTUwg8Vm/6651",
-    "alternates": [],
-    "source_file": "FIW_1795373517_1_c97f45_Hunter_50EC.m3u",
-    "health_status": "not_checked",
-    "health_checked_urls": 0,
-    "health_promoted": false
-  },
-  {
-    "id": "dragon_arabic_807dc649fae9",
-    "name": "MA| AFLAM TV 7 MAROC",
-    "original_name": "|MA| AFLAM TV 7 MAROC | 🌟 FREE IPTV WORLD 🌟",
-    "language": "arabic",
-    "groups": [],
-    "raw_group": "MAROC",
-    "logo": "http://silvertv.net:1997/images/MOROCCO/aflam_tv.png",
-    "primary_url": "http://mjidiptv.com:1997/OIHfiptvtree2023f/6tYbxSIifTUwg8Vm/6653",
-    "alternates": [],
-    "source_file": "FIW_1795373517_1_c97f45_Hunter_50EC.m3u",
-    "health_status": "not_checked",
-    "health_checked_urls": 0,
-    "health_promoted": false
-  },
-  {
-    "id": "dragon_arabic_8cd1a6df6002",
-    "name": "MA| 2M LIVE TNT",
-    "original_name": "|MA| 2M LIVE TNT | 🌟 FREE IPTV WORLD 🌟",
-    "language": "arabic",
-    "groups": [],
-    "raw_group": "MAROC",
-    "logo": "http://silvertv.net:1997/images/MOROCCO/2M.png",
-    "primary_url": "http://mjidiptv.com:1997/OIHfiptvtree2023f/6tYbxSIifTUwg8Vm/6654",
-    "alternates": [],
-    "source_file": "FIW_1795373517_1_c97f45_Hunter_50EC.m3u",
-    "health_status": "not_checked",
-    "health_checked_urls": 0,
-    "health_promoted": false
-  },
-  {
-    "id": "dragon_arabic_932172b60a99",
-    "name": "MA| AL AOULA MAROC HD",
-    "original_name": "|MA| AL AOULA MAROC HD | 🌟 FREE IPTV WORLD 🌟",
-    "language": "arabic",
-    "groups": [],
-    "raw_group": "MAROC",
-    "logo": "http://t1.gstatic.com/images?q=tbn:ANd9GcTUuP1-GGeuE12jVOZiVLblIe41QjwS_B2uk-AwiH7pliJxGVTZ0MjerY5i",
-    "primary_url": "http://mjidiptv.com:1997/OIHfiptvtree2023f/6tYbxSIifTUwg8Vm/6655",
-    "alternates": [],
-    "source_file": "FIW_1795373517_1_c97f45_Hunter_50EC.m3u",
-    "health_status": "not_checked",
-    "health_checked_urls": 0,
-    "health_promoted": false
-  },
-  {
-    "id": "dragon_arabic_f15205944fcb",
-    "name": "MA| M24 TV HD",
-    "original_name": "|MA| M24 TV HD | 🌟 FREE IPTV WORLD 🌟",
-    "language": "arabic",
-    "groups": [],
-    "raw_group": "MAROC",
-    "logo": "http://silvertv.net:1997/images/MOROCCO/hitradio.png",
-    "primary_url": "http://mjidiptv.com:1997/OIHfiptvtree2023f/6tYbxSIifTUwg8Vm/10101",
-    "alternates": [],
-    "source_file": "FIW_1795373517_1_c97f45_Hunter_50EC.m3u",
-    "health_status": "not_checked",
-    "health_checked_urls": 0,
-    "health_promoted": false
-  },
-  {
-    "id": "dragon_arabic_3994a8a6c2bd",
-    "name": "MA| AL AOULA MAROC TNT",
-    "original_name": "|MA| AL AOULA MAROC TNT | 🌟 FREE IPTV WORLD 🌟",
-    "language": "arabic",
-    "groups": [],
-    "raw_group": "MAROC",
-    "logo": "http://t1.gstatic.com/images?q=tbn:ANd9GcTUuP1-GGeuE12jVOZiVLblIe41QjwS_B2uk-AwiH7pliJxGVTZ0MjerY5i",
-    "primary_url": "http://mjidiptv.com:1997/OIHfiptvtree2023f/6tYbxSIifTUwg8Vm/18004",
-    "alternates": [],
-    "source_file": "FIW_1795373517_1_c97f45_Hunter_50EC.m3u",
-    "health_status": "not_checked",
-    "health_checked_urls": 0,
-    "health_promoted": false
-  },
-  {
-    "id": "dragon_arabic_914437f08eb3",
-    "name": "MA| 2M MAROC HD",
-    "original_name": "|MA| 2M MAROC HD | 🌟 FREE IPTV WORLD 🌟",
-    "language": "arabic",
-    "groups": [],
-    "raw_group": "MAROC",
-    "logo": "http://silvertv.net:1997/images/MOROCCO/2M.png",
-    "primary_url": "http://mjidiptv.com:1997/OIHfiptvtree2023f/6tYbxSIifTUwg8Vm/18005",
-    "alternates": [],
-    "source_file": "FIW_1795373517_1_c97f45_Hunter_50EC.m3u",
-    "health_status": "not_checked",
-    "health_checked_urls": 0,
-    "health_promoted": false
-  },
-  {
-    "id": "dragon_arabic_ff08cd415a4b",
-    "name": "MA| MEDI 1 TV HD",
-    "original_name": "|MA| MEDI 1 TV HD | 🌟 FREE IPTV WORLD 🌟",
-    "language": "arabic",
-    "groups": [],
-    "raw_group": "MAROC",
-    "logo": "http://silvertv.net:1997/images/MOROCCO/medi1_tv.png",
-    "primary_url": "http://mjidiptv.com:1997/OIHfiptvtree2023f/6tYbxSIifTUwg8Vm/18006",
-    "alternates": [],
-    "source_file": "FIW_1795373517_1_c97f45_Hunter_50EC.m3u",
-    "health_status": "not_checked",
-    "health_checked_urls": 0,
-    "health_promoted": false
-  },
-  {
-    "id": "dragon_arabic_11dfc4f444d9",
-    "name": "MA| TAMAZIGHT MAROC TNT",
-    "original_name": "|MA| TAMAZIGHT MAROC TNT | 🌟 FREE IPTV WORLD 🌟",
-    "language": "arabic",
-    "groups": [],
-    "raw_group": "MAROC",
-    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTq20cSoRrMt24rxB4wP7C_l0AlNlz12ff0zdEt0WxUkPjCKe7W8-UEE8o&s",
-    "primary_url": "http://mjidiptv.com:1997/OIHfiptvtree2023f/6tYbxSIifTUwg8Vm/19366",
-    "alternates": [],
-    "source_file": "FIW_1795373517_1_c97f45_Hunter_50EC.m3u",
-    "health_status": "not_checked",
-    "health_checked_urls": 0,
-    "health_promoted": false
-  },
-  {
-    "id": "dragon_arabic_f3a0b2ce7a41",
-    "name": "MA| AL AOULA LAYOUNE TNT",
-    "original_name": "|MA| AL AOULA LAYOUNE TNT | 🌟 FREE IPTV WORLD 🌟",
-    "language": "arabic",
-    "groups": [],
-    "raw_group": "MAROC",
-    "logo": "http://silvertv.net:1997/images/MOROCCO/LaayouneTV.png",
-    "primary_url": "http://mjidiptv.com:1997/OIHfiptvtree2023f/6tYbxSIifTUwg8Vm/19367",
-    "alternates": [],
-    "source_file": "FIW_1795373517_1_c97f45_Hunter_50EC.m3u",
-    "health_status": "not_checked",
-    "health_checked_urls": 0,
-    "health_promoted": false
-  },
-  {
-    "id": "dragon_arabic_e1eaa8e031b2",
-    "name": "MA| TELE MAROC TNT",
-    "original_name": "|MA| TELE MAROC TNT | 🌟 FREE IPTV WORLD 🌟",
-    "language": "arabic",
-    "groups": [],
-    "raw_group": "MAROC",
-    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOzwsE9Mcu4xxu7jtHSABw9Uy4cEJpNgAm2zS-FOk_iMi5iJm0OvzZDuF9&s",
-    "primary_url": "http://mjidiptv.com:1997/OIHfiptvtree2023f/6tYbxSIifTUwg8Vm/19368",
-    "alternates": [],
-    "source_file": "FIW_1795373517_1_c97f45_Hunter_50EC.m3u",
-    "health_status": "not_checked",
-    "health_checked_urls": 0,
-    "health_promoted": false
-  },
-  {
-    "id": "dragon_arabic_f22bc82d9706",
-    "name": "DZ| EL HAYAT TV",
-    "original_name": "|DZ| EL HAYAT TV | 🌟 FREE IPTV WORLD 🌟",
-    "language": "arabic",
-    "groups": [],
-    "raw_group": "ALGERIE",
-    "logo": "http://silvertv.net:1997/images/ALGERIA/GROUPE-BRTV-1.png",
-    "primary_url": "http://mjidiptv.com:1997/OIHfiptvtree2023f/6tYbxSIifTUwg8Vm/4969",
-    "alternates": [],
-    "source_file": "FIW_1795373517_1_c97f45_Hunter_50EC.m3u",
-    "health_status": "not_checked",
-    "health_checked_urls": 0,
-    "health_promoted": false
-  },
-  {
-    "id": "dragon_arabic_93e0b3ca9981",
-    "name": "DZ| ALGERIA 7",
-    "original_name": "|DZ| ALGERIA 7 | 🌟 FREE IPTV WORLD 🌟",
-    "language": "arabic",
-    "groups": [],
-    "raw_group": "ALGERIE",
-    "logo": "http://silvertv.net:1997/images/ALGERIA/Al_Jazairya_TV.png",
-    "primary_url": "http://mjidiptv.com:1997/OIHfiptvtree2023f/6tYbxSIifTUwg8Vm/4972",
-    "alternates": [],
-    "source_file": "FIW_1795373517_1_c97f45_Hunter_50EC.m3u",
-    "health_status": "not_checked",
-    "health_checked_urls": 0,
-    "health_promoted": false
-  },
-  {
-    "id": "dragon_arabic_63bcb673b0a6",
-    "name": "DZ| Algeria ONE TV",
-    "original_name": "|DZ| Algeria ONE TV | 🌟 FREE IPTV WORLD 🌟",
-    "language": "arabic",
-    "groups": [],
-    "raw_group": "ALGERIE",
-    "logo": "http://silvertv.net:1997/images/ALGERIA/ennahar_dz_laki.png",
-    "primary_url": "http://mjidiptv.com:1997/OIHfiptvtree2023f/6tYbxSIifTUwg8Vm/4980",
-    "alternates": [],
-    "source_file": "FIW_1795373517_1_c97f45_Hunter_50EC.m3u",
-    "health_status": "not_checked",
-    "health_checked_urls": 0,
-    "health_promoted": false
-  },
-  {
-    "id": "dragon_arabic_fd8ae464929d",
-    "name": "DZ| ANNAHAR TV",
-    "original_name": "|DZ| ANNAHAR TV | 🌟 FREE IPTV WORLD 🌟",
-    "language": "arabic",
-    "groups": [],
-    "raw_group": "ALGERIE",
-    "logo": "http://silvertv.net:1997/images/ALGERIA/ennahar_dz_tv.png",
-    "primary_url": "http://mjidiptv.com:1997/OIHfiptvtree2023f/6tYbxSIifTUwg8Vm/4981",
-    "alternates": [],
-    "source_file": "FIW_1795373517_1_c97f45_Hunter_50EC.m3u",
-    "health_status": "not_checked",
-    "health_checked_urls": 0,
-    "health_promoted": false
-  },
-  {
-    "id": "dragon_arabic_218516d0af39",
-    "name": "DZ| EL 24NEWS",
-    "original_name": "|DZ| EL 24NEWS | 🌟 FREE IPTV WORLD 🌟",
-    "language": "arabic",
-    "groups": [
-      "news"
-    ],
-    "raw_group": "ALGERIE",
-    "logo": "http://silvertv.net:1997/images/ALGERIA/Dzair.png",
-    "primary_url": "http://mjidiptv.com:1997/OIHfiptvtree2023f/6tYbxSIifTUwg8Vm/4985",
-    "alternates": [],
-    "source_file": "FIW_1795373517_1_c97f45_Hunter_50EC.m3u",
-    "health_status": "reachable",
-    "health_checked_urls": 1,
-    "health_promoted": false
-  },
-  {
-    "id": "dragon_arabic_c3929e6bd564",
-    "name": "DZ| CANAL ALGERIE",
-    "original_name": "|DZ| CANAL ALGERIE | 🌟 FREE IPTV WORLD 🌟",
-    "language": "arabic",
-    "groups": [],
-    "raw_group": "ALGERIE",
-    "logo": "http://silvertv.net:1997/images/ALGERIA/Canal_Algérie.png",
-    "primary_url": "http://tvr.iptvboss.net:80/tree141es/sdfsdvvcxvxcvx/2657",
-    "alternates": [
-      "http://mjidiptv.com:1997/OIHfiptvtree2023f/6tYbxSIifTUwg8Vm/4988"
-    ],
-    "source_file": "FIW_1795373517_1_c97f45_Hunter_50EC.m3u",
-    "health_status": "not_checked",
-    "health_checked_urls": 0,
-    "health_promoted": false
-  },
-  {
-    "id": "dragon_arabic_eae237f42d7b",
-    "name": "DZ| ALGERIE 8",
-    "original_name": "|DZ| ALGERIE 8 | 🌟 FREE IPTV WORLD 🌟",
-    "language": "arabic",
-    "groups": [],
-    "raw_group": "ALGERIE",
-    "logo": "http://silvertv.net:1997/images/ALGERIA/al-djazairia-one.png",
-    "primary_url": "http://mjidiptv.com:1997/OIHfiptvtree2023f/6tYbxSIifTUwg8Vm/17864",
-    "alternates": [],
-    "source_file": "FIW_1795373517_1_c97f45_Hunter_50EC.m3u",
-    "health_status": "not_checked",
-    "health_checked_urls": 0,
-    "health_promoted": false
-  },
-  {
-    "id": "dragon_arabic_7826b686f795",
-    "name": "DZ| ALGERIA 1",
-    "original_name": "|DZ| ALGERIA 1 | 🌟 FREE IPTV WORLD 🌟",
-    "language": "arabic",
-    "groups": [],
-    "raw_group": "ALGERIE",
-    "logo": "http://silvertv.net:1997/images/ALGERIA/Dzair.png",
-    "primary_url": "http://mjidiptv.com:1997/OIHfiptvtree2023f/6tYbxSIifTUwg8Vm/17865",
-    "alternates": [],
-    "source_file": "FIW_1795373517_1_c97f45_Hunter_50EC.m3u",
-    "health_status": "not_checked",
-    "health_checked_urls": 0,
-    "health_promoted": false
-  },
-  {
-    "id": "dragon_arabic_0cfca53e881b",
-    "name": "DZ| ELWATANIA TV",
-    "original_name": "|DZ| ELWATANIA TV | 🌟 FREE IPTV WORLD 🌟",
-    "language": "arabic",
-    "groups": [],
-    "raw_group": "ALGERIE",
-    "logo": "",
-    "primary_url": "http://mjidiptv.com:1997/OIHfiptvtree2023f/6tYbxSIifTUwg8Vm/50099",
-    "alternates": [],
-    "source_file": "FIW_1795373517_1_c97f45_Hunter_50EC.m3u",
-    "health_status": "not_checked",
-    "health_checked_urls": 0,
-    "health_promoted": false
-  },
-  {
-    "id": "dragon_arabic_30a5e816ee1a",
-    "name": "TN: TUNISNA",
-    "original_name": "TN: TUNISNA | 🌟 FREE IPTV WORLD 🌟",
-    "language": "arabic",
-    "groups": [],
-    "raw_group": "TUNISIE",
-    "logo": "",
-    "primary_url": "http://tvr.iptvboss.net:80/tree141es/sdfsdvvcxvxcvx/2631",
-    "alternates": [
-      "http://mjidiptv.com:1997/OIHfiptvtree2023f/6tYbxSIifTUwg8Vm/4992"
-    ],
-    "source_file": "FIW_1795373435_2_21a8d9_Hunter_CC97.m3u",
-    "health_status": "not_checked",
-    "health_checked_urls": 0,
-    "health_promoted": false
-  },
-  {
-    "id": "dragon_arabic_f733b312851b",
-    "name": "TN: NESSMA",
-    "original_name": "TN: NESSMA | 🌟 FREE IPTV WORLD 🌟",
-    "language": "arabic",
-    "groups": [],
-    "raw_group": "TUNISIE",
-    "logo": "",
-    "primary_url": "http://tvr.iptvboss.net:80/tree141es/sdfsdvvcxvxcvx/2637",
-    "alternates": [
-      "http://mjidiptv.com:1997/OIHfiptvtree2023f/6tYbxSIifTUwg8Vm/4994"
-    ],
-    "source_file": "FIW_1795373435_2_21a8d9_Hunter_CC97.m3u",
-    "health_status": "not_checked",
-    "health_checked_urls": 0,
-    "health_promoted": false
-  },
-  {
-    "id": "dragon_arabic_8ec1fbba9103",
-    "name": "TN| ATTASIA TV",
-    "original_name": "|TN| ATTASIA TV | 🌟 FREE IPTV WORLD 🌟",
-    "language": "arabic",
-    "groups": [],
-    "raw_group": "TUNISIE",
-    "logo": "http://silvertv.net:1997/images/TUNISIA/atessia_tv_tn.png",
-    "primary_url": "http://mjidiptv.com:1997/OIHfiptvtree2023f/6tYbxSIifTUwg8Vm/4995",
-    "alternates": [],
-    "source_file": "FIW_1795373517_1_c97f45_Hunter_50EC.m3u",
-    "health_status": "not_checked",
-    "health_checked_urls": 0,
-    "health_promoted": false
-  },
-  {
-    "id": "dragon_arabic_89586e76f6f9",
-    "name": "AR| Bahrain Sport",
-    "original_name": "|AR| Bahrain Sport | 🌟 FREE IPTV WORLD 🌟",
-    "language": "arabic",
-    "groups": [
-      "sports"
-    ],
-    "raw_group": "ARABIC SPORT",
-    "logo": "http://silvertv.net:1997/images/ASPORTS/BahrainSport.png",
-    "primary_url": "http://mjidiptv.com:1997/OIHfiptvtree2023f/6tYbxSIifTUwg8Vm/5041",
-    "alternates": [],
-    "source_file": "FIW_1795373517_1_c97f45_Hunter_50EC.m3u",
-    "health_status": "not_checked",
-    "health_checked_urls": 0,
-    "health_promoted": false
-  },
-  {
-    "id": "dragon_arabic_45fa253b6c34",
-    "name": "AR| Saudi Sport 24",
-    "original_name": "|AR| Saudi Sport 24 | 🌟 FREE IPTV WORLD 🌟",
-    "language": "arabic",
-    "groups": [
-      "sports"
-    ],
-    "raw_group": "ARABIC SPORT",
-    "logo": "http://silvertv.net:1997/images/ASPORTS/SaudiSport.png",
-    "primary_url": "http://mjidiptv.com:1997/OIHfiptvtree2023f/6tYbxSIifTUwg8Vm/5042",
-    "alternates": [],
-    "source_file": "FIW_1795373517_1_c97f45_Hunter_50EC.m3u",
-    "health_status": "not_checked",
-    "health_checked_urls": 0,
-    "health_promoted": false
-  },
-  {
-    "id": "dragon_arabic_bd34a8a2b4d2",
-    "name": "AR| Al Kass Sports 2",
-    "original_name": "|AR| Al Kass Sports 2 | 🌟 FREE IPTV WORLD 🌟",
-    "language": "arabic",
-    "groups": [
-      "sports"
-    ],
-    "raw_group": "ARABIC SPORT",
-    "logo": "http://silvertv.net:1997/images/ASPORTS/AlKaas2.png",
-    "primary_url": "http://mjidiptv.com:1997/OIHfiptvtree2023f/6tYbxSIifTUwg8Vm/5047",
-    "alternates": [],
-    "source_file": "FIW_1795373517_1_c97f45_Hunter_50EC.m3u",
-    "health_status": "not_checked",
-    "health_checked_urls": 0,
-    "health_promoted": false
-  },
-  {
-    "id": "dragon_arabic_c5022add3317",
-    "name": "AR| Al Kass Sports 1",
-    "original_name": "|AR| Al Kass Sports 1 | 🌟 FREE IPTV WORLD 🌟",
-    "language": "arabic",
-    "groups": [
-      "sports"
-    ],
-    "raw_group": "ARABIC SPORT",
-    "logo": "http://silvertv.net:1997/images/ASPORTS/AlKaas1.png",
-    "primary_url": "http://mjidiptv.com:1997/OIHfiptvtree2023f/6tYbxSIifTUwg8Vm/5048",
-    "alternates": [],
-    "source_file": "FIW_1795373517_1_c97f45_Hunter_50EC.m3u",
-    "health_status": "not_checked",
-    "health_checked_urls": 0,
-    "health_promoted": false
-  },
-  {
-    "id": "dragon_arabic_761aea9267af",
-    "name": "AR| Dubai Sport",
-    "original_name": "|AR| Dubai Sport | 🌟 FREE IPTV WORLD 🌟",
-    "language": "arabic",
-    "groups": [
-      "sports"
-    ],
-    "raw_group": "ARABIC SPORT",
-    "logo": "http://silvertv.net:1997/images/ASPORTS/DubaiSports1.png",
-    "primary_url": "http://mjidiptv.com:1997/OIHfiptvtree2023f/6tYbxSIifTUwg8Vm/5050",
-    "alternates": [],
-    "source_file": "FIW_1795373517_1_c97f45_Hunter_50EC.m3u",
-    "health_status": "not_checked",
-    "health_checked_urls": 0,
-    "health_promoted": false
-  },
-  {
-    "id": "dragon_arabic_a50135d98f7f",
-    "name": "AR| AD Sport 3",
-    "original_name": "|AR| AD Sport 3 | 🌟 FREE IPTV WORLD 🌟",
-    "language": "arabic",
-    "groups": [
-      "sports"
-    ],
-    "raw_group": "ARABIC SPORT",
-    "logo": "http://silvertv.net:1997/images/ASPORTS/ADSport3.png",
-    "primary_url": "http://mjidiptv.com:1997/OIHfiptvtree2023f/6tYbxSIifTUwg8Vm/5051",
-    "alternates": [
-      "http://mjidiptv.com:1997/OIHfiptvtree2023f/6tYbxSIifTUwg8Vm/54050"
-    ],
-    "source_file": "FIW_1795373517_1_c97f45_Hunter_50EC.m3u",
-    "health_status": "not_checked",
-    "health_checked_urls": 0,
-    "health_promoted": false
-  },
-  {
-    "id": "dragon_arabic_aeb15f49e7af",
-    "name": "AR| AD Sport 4",
-    "original_name": "|AR| AD Sport 4 | 🌟 FREE IPTV WORLD 🌟",
-    "language": "arabic",
-    "groups": [
-      "sports"
-    ],
-    "raw_group": "ARABIC SPORT",
-    "logo": "http://silvertv.net:1997/images/ASPORTS/ADSport4.png",
-    "primary_url": "http://mjidiptv.com:1997/OIHfiptvtree2023f/6tYbxSIifTUwg8Vm/54051",
-    "alternates": [
-      "http://mjidiptv.com:1997/OIHfiptvtree2023f/6tYbxSIifTUwg8Vm/11427"
-    ],
-    "source_file": "FIW_1795373517_1_c97f45_Hunter_50EC.m3u",
-    "health_status": "not_checked",
-    "health_checked_urls": 0,
-    "health_promoted": false
-  },
-  {
-    "id": "dragon_arabic_b8c87fd51bcc",
-    "name": "AR| Al Kass Sports 3",
-    "original_name": "|AR| Al Kass Sports 3 | 🌟 FREE IPTV WORLD 🌟",
-    "language": "arabic",
-    "groups": [
-      "sports"
-    ],
-    "raw_group": "ARABIC SPORT",
-    "logo": "",
-    "primary_url": "http://mjidiptv.com:1997/OIHfiptvtree2023f/6tYbxSIifTUwg8Vm/62522",
-    "alternates": [],
-    "source_file": "FIW_1795373517_1_c97f45_Hunter_50EC.m3u",
-    "health_status": "not_checked",
-    "health_checked_urls": 0,
-    "health_promoted": false
-  },
-  {
-    "id": "dragon_arabic_358af43369cd",
-    "name": "AR| Al Kass Sports 4",
-    "original_name": "|AR| Al Kass Sports 4 | 🌟 FREE IPTV WORLD 🌟",
-    "language": "arabic",
-    "groups": [
-      "sports"
-    ],
-    "raw_group": "ARABIC SPORT",
-    "logo": "",
-    "primary_url": "http://mjidiptv.com:1997/OIHfiptvtree2023f/6tYbxSIifTUwg8Vm/62523",
-    "alternates": [],
-    "source_file": "FIW_1795373517_1_c97f45_Hunter_50EC.m3u",
-    "health_status": "not_checked",
-    "health_checked_urls": 0,
-    "health_promoted": false
-  },
-  {
-    "id": "dragon_arabic_fb730af2adee",
-    "name": "AR| Al Kass Sports 5",
-    "original_name": "|AR| Al Kass Sports 5 | 🌟 FREE IPTV WORLD 🌟",
-    "language": "arabic",
-    "groups": [
-      "sports"
-    ],
-    "raw_group": "ARABIC SPORT",
-    "logo": "",
-    "primary_url": "http://mjidiptv.com:1997/OIHfiptvtree2023f/6tYbxSIifTUwg8Vm/62524",
-    "alternates": [],
-    "source_file": "FIW_1795373517_1_c97f45_Hunter_50EC.m3u",
-    "health_status": "not_checked",
-    "health_checked_urls": 0,
-    "health_promoted": false
-  },
-  {
-    "id": "dragon_arabic_5ee2978b353f",
-    "name": "AR| Toyour Al Jannah",
-    "original_name": "|AR| Toyour Al Jannah | 🌟 FREE IPTV WORLD 🌟",
-    "language": "arabic",
-    "groups": [],
-    "raw_group": "ARABIC KIDS",
-    "logo": "http://silvertv.net:1997/images/AKIDS/ToyourAlJannah.png",
-    "primary_url": "http://mjidiptv.com:1997/OIHfiptvtree2023f/6tYbxSIifTUwg8Vm/5012",
-    "alternates": [],
-    "source_file": "FIW_1795373517_1_c97f45_Hunter_50EC.m3u",
-    "health_status": "not_checked",
-    "health_checked_urls": 0,
-    "health_promoted": false
-  },
-  {
-    "id": "dragon_arabic_bb218f1e18c2",
-    "name": "AR| Ajyal_TV",
-    "original_name": "|AR| Ajyal_TV | 🌟 FREE IPTV WORLD 🌟",
-    "language": "arabic",
-    "groups": [],
-    "raw_group": "ARABIC KIDS",
-    "logo": "http://silvertv.net:1997/images/AKIDS/ajyaltv.png",
-    "primary_url": "http://mjidiptv.com:1997/OIHfiptvtree2023f/6tYbxSIifTUwg8Vm/5014",
-    "alternates": [],
-    "source_file": "FIW_1795373517_1_c97f45_Hunter_50EC.m3u",
-    "health_status": "not_checked",
-    "health_checked_urls": 0,
-    "health_promoted": false
-  },
-  {
-    "id": "dragon_arabic_9bf5478eca43",
-    "name": "AR| Jeem kids",
-    "original_name": "|AR| Jeem kids | 🌟 FREE IPTV WORLD 🌟",
-    "language": "arabic",
-    "groups": [],
-    "raw_group": "ARABIC KIDS",
-    "logo": "http://silvertv.net:1997/images/AKIDS/JeemTV.png",
-    "primary_url": "http://mjidiptv.com:1997/OIHfiptvtree2023f/6tYbxSIifTUwg8Vm/5017",
-    "alternates": [],
-    "source_file": "FIW_1795373517_1_c97f45_Hunter_50EC.m3u",
-    "health_status": "not_checked",
-    "health_checked_urls": 0,
-    "health_promoted": false
-  },
-  {
-    "id": "dragon_arabic_4221c5088c7f",
-    "name": "AR| Baraem",
-    "original_name": "|AR| Baraem | 🌟 FREE IPTV WORLD 🌟",
-    "language": "arabic",
-    "groups": [],
-    "raw_group": "ARABIC KIDS",
-    "logo": "http://silvertv.net:1997/images/AKIDS/Baraem.png",
-    "primary_url": "http://mjidiptv.com:1997/OIHfiptvtree2023f/6tYbxSIifTUwg8Vm/5019",
-    "alternates": [],
-    "source_file": "FIW_1795373517_1_c97f45_Hunter_50EC.m3u",
-    "health_status": "not_checked",
-    "health_checked_urls": 0,
-    "health_promoted": false
-  },
-  {
-    "id": "dragon_arabic_08311a7fdf5a",
-    "name": "AR| Karameesh",
-    "original_name": "|AR| Karameesh | 🌟 FREE IPTV WORLD 🌟",
-    "language": "arabic",
-    "groups": [],
-    "raw_group": "ARABIC KIDS",
-    "logo": "http://silvertv.net:1997/images/AKIDS/karameech.png",
-    "primary_url": "http://mjidiptv.com:1997/OIHfiptvtree2023f/6tYbxSIifTUwg8Vm/17900",
-    "alternates": [],
-    "source_file": "FIW_1795373517_1_c97f45_Hunter_50EC.m3u",
-    "health_status": "not_checked",
-    "health_checked_urls": 0,
-    "health_promoted": false
-  },
-  {
-    "id": "dragon_arabic_8256730c2c0e",
-    "name": "AR| Russia Al Yaoum",
-    "original_name": "|AR| Russia Al Yaoum | 🌟 FREE IPTV WORLD 🌟",
-    "language": "arabic",
-    "groups": [
-      "news"
-    ],
-    "raw_group": "ARABIC NEWS",
-    "logo": "http://silvertv.net:1997/images/nile/RTArabic.png",
-    "primary_url": "http://mjidiptv.com:1997/OIHfiptvtree2023f/6tYbxSIifTUwg8Vm/5022",
-    "alternates": [],
-    "source_file": "FIW_1795373517_1_c97f45_Hunter_50EC.m3u",
-    "health_status": "reachable",
-    "health_checked_urls": 1,
-    "health_promoted": false
-  },
-  {
-    "id": "dragon_arabic_9f85ee578602",
-    "name": "AR| DW-TV",
-    "original_name": "|AR| DW-TV | 🌟 FREE IPTV WORLD 🌟",
-    "language": "arabic",
-    "groups": [
-      "news"
-    ],
-    "raw_group": "ARABIC NEWS",
-    "logo": "http://silvertv.net:1997/images/nile/DW-Arabic-TV.png",
-    "primary_url": "http://mjidiptv.com:1997/OIHfiptvtree2023f/6tYbxSIifTUwg8Vm/5024",
-    "alternates": [],
-    "source_file": "FIW_1795373517_1_c97f45_Hunter_50EC.m3u",
-    "health_status": "reachable",
-    "health_checked_urls": 1,
-    "health_promoted": false
-  },
-  {
-    "id": "dragon_arabic_5a79f6c5c1e3",
-    "name": "AR| Al Sharquia News",
-    "original_name": "|AR| Al Sharquia News | 🌟 FREE IPTV WORLD 🌟",
-    "language": "arabic",
-    "groups": [
-      "news"
-    ],
-    "raw_group": "ARABIC NEWS",
-    "logo": "http://silvertv.net:1997/images/nile/al_sharqiya_news.png",
-    "primary_url": "http://mjidiptv.com:1997/OIHfiptvtree2023f/6tYbxSIifTUwg8Vm/5025",
-    "alternates": [],
-    "source_file": "FIW_1795373517_1_c97f45_Hunter_50EC.m3u",
-    "health_status": "reachable",
-    "health_checked_urls": 1,
-    "health_promoted": false
-  },
-  {
-    "id": "dragon_arabic_f9b27affc4e3",
-    "name": "AR| lebanon Al Manar",
-    "original_name": "|AR| lebanon Al Manar | 🌟 FREE IPTV WORLD 🌟",
-    "language": "arabic",
-    "groups": [
-      "news"
-    ],
-    "raw_group": "ARABIC NEWS",
-    "logo": "http://silvertv.net:1997/images/nile/al_manar_tv.png",
-    "primary_url": "http://mjidiptv.com:1997/OIHfiptvtree2023f/6tYbxSIifTUwg8Vm/5026",
-    "alternates": [],
-    "source_file": "FIW_1795373517_1_c97f45_Hunter_50EC.m3u",
-    "health_status": "unreachable",
-    "health_checked_urls": 1,
-    "health_promoted": false
-  },
-  {
-    "id": "dragon_arabic_efc0a53cbc71",
-    "name": "AR| BBC World Arabic",
-    "original_name": "|AR| BBC World Arabic | 🌟 FREE IPTV WORLD 🌟",
-    "language": "arabic",
-    "groups": [
-      "news"
-    ],
-    "raw_group": "ARABIC NEWS",
-    "logo": "http://silvertv.net:1997/images/nile/bbcarabi.png",
-    "primary_url": "http://mjidiptv.com:1997/OIHfiptvtree2023f/6tYbxSIifTUwg8Vm/5029",
-    "alternates": [],
-    "source_file": "FIW_1795373517_1_c97f45_Hunter_50EC.m3u",
-    "health_status": "reachable",
-    "health_checked_urls": 1,
-    "health_promoted": false
-  },
-  {
-    "id": "dragon_arabic_f6377fca49cd",
-    "name": "AR| Al Aan",
-    "original_name": "|AR| Al Aan | 🌟 FREE IPTV WORLD 🌟",
-    "language": "arabic",
-    "groups": [
-      "news"
-    ],
-    "raw_group": "ARABIC NEWS",
-    "logo": "http://silvertv.net:1997/images/nile/AlAan.ae.png",
-    "primary_url": "http://mjidiptv.com:1997/OIHfiptvtree2023f/6tYbxSIifTUwg8Vm/5031",
-    "alternates": [
-      "http://mjidiptv.com:1997/OIHfiptvtree2023f/6tYbxSIifTUwg8Vm/54067"
-    ],
-    "source_file": "FIW_1795373517_1_c97f45_Hunter_50EC.m3u",
-    "health_status": "reachable",
-    "health_checked_urls": 1,
-    "health_promoted": false
-  },
-  {
-    "id": "dragon_arabic_fa9aa5b0179c",
-    "name": "AR| TV5 Monde",
-    "original_name": "|AR| TV5 Monde | 🌟 FREE IPTV WORLD 🌟",
-    "language": "arabic",
-    "groups": [
-      "news"
-    ],
-    "raw_group": "ARABIC NEWS",
-    "logo": "http://silvertv.net:1997/images/nile/TV5Monde-topview.png",
-    "primary_url": "http://mjidiptv.com:1997/OIHfiptvtree2023f/6tYbxSIifTUwg8Vm/5032",
-    "alternates": [],
-    "source_file": "FIW_1795373517_1_c97f45_Hunter_50EC.m3u",
-    "health_status": "reachable",
-    "health_checked_urls": 1,
-    "health_promoted": false
-  },
-  {
-    "id": "dragon_arabic_2f29a91548d8",
-    "name": "AR| France 24 FR",
-    "original_name": "|AR| France 24 FR | 🌟 FREE IPTV WORLD 🌟",
-    "language": "arabic",
-    "groups": [
-      "news"
-    ],
-    "raw_group": "ARABIC NEWS",
-    "logo": "http://silvertv.net:1997/images/nile/France24French.png",
-    "primary_url": "http://mjidiptv.com:1997/OIHfiptvtree2023f/6tYbxSIifTUwg8Vm/5033",
-    "alternates": [],
-    "source_file": "FIW_1795373517_1_c97f45_Hunter_50EC.m3u",
-    "health_status": "reachable",
-    "health_checked_urls": 1,
-    "health_promoted": false
-  },
-  {
-    "id": "dragon_arabic_369def694402",
-    "name": "AR| France 24 AR",
-    "original_name": "|AR| France 24 AR | 🌟 FREE IPTV WORLD 🌟",
-    "language": "arabic",
-    "groups": [
-      "news"
-    ],
-    "raw_group": "ARABIC NEWS",
-    "logo": "http://silvertv.net:1997/images/nile/france24_arabic.png",
-    "primary_url": "http://mjidiptv.com:1997/OIHfiptvtree2023f/6tYbxSIifTUwg8Vm/5035",
-    "alternates": [],
-    "source_file": "FIW_1795373517_1_c97f45_Hunter_50EC.m3u",
-    "health_status": "reachable",
-    "health_checked_urls": 1,
-    "health_promoted": false
-  },
-  {
-    "id": "dragon_arabic_cacdad7bf16b",
-    "name": "AR| MBC_Drama2",
-    "original_name": "|AR| MBC_Drama2 | 🌟 FREE IPTV WORLD 🌟",
-    "language": "arabic",
-    "groups": [],
-    "raw_group": "ARABIC PREMIUM",
-    "logo": "http://silvertv.net:1997/images/APREMUIM/MBCDrama.png",
-    "primary_url": "http://mjidiptv.com:1997/OIHfiptvtree2023f/6tYbxSIifTUwg8Vm/5069",
-    "alternates": [],
-    "source_file": "FIW_1795373517_1_c97f45_Hunter_50EC.m3u",
-    "health_status": "not_checked",
-    "health_checked_urls": 0,
-    "health_promoted": false
-  },
-  {
-    "id": "dragon_arabic_c7b86bd0e658",
-    "name": "AR| MBC3",
-    "original_name": "|AR| MBC3 | 🌟 FREE IPTV WORLD 🌟",
-    "language": "arabic",
-    "groups": [],
-    "raw_group": "ARABIC PREMIUM",
-    "logo": "http://silvertv.net:1997/images/APREMUIM/MBC3.png",
-    "primary_url": "http://mjidiptv.com:1997/OIHfiptvtree2023f/6tYbxSIifTUwg8Vm/5074",
-    "alternates": [],
-    "source_file": "FIW_1795373517_1_c97f45_Hunter_50EC.m3u",
-    "health_status": "not_checked",
-    "health_checked_urls": 0,
-    "health_promoted": false
-  },
-  {
-    "id": "dragon_arabic_5c0a0fc6dff0",
-    "name": "AR| MBC1",
-    "original_name": "|AR| MBC1 | 🌟 FREE IPTV WORLD 🌟",
-    "language": "arabic",
-    "groups": [],
-    "raw_group": "ARABIC PREMIUM",
-    "logo": "http://silvertv.net:1997/images/APREMUIM/MBC1.png",
-    "primary_url": "http://mjidiptv.com:1997/OIHfiptvtree2023f/6tYbxSIifTUwg8Vm/5076",
-    "alternates": [],
-    "source_file": "FIW_1795373517_1_c97f45_Hunter_50EC.m3u",
-    "health_status": "not_checked",
-    "health_checked_urls": 0,
-    "health_promoted": false
-  },
-  {
-    "id": "dragon_arabic_a2ebd0e08918",
-    "name": "AR| Lebanon LBC",
-    "original_name": "|AR| Lebanon LBC | 🌟 FREE IPTV WORLD 🌟",
-    "language": "arabic",
-    "groups": [],
-    "raw_group": "ARABIC PREMIUM",
-    "logo": "http://silvertv.net:1997/images/APREMUIM/lebanonlbc.png",
-    "primary_url": "http://mjidiptv.com:1997/OIHfiptvtree2023f/6tYbxSIifTUwg8Vm/5077",
-    "alternates": [],
-    "source_file": "FIW_1795373517_1_c97f45_Hunter_50EC.m3u",
-    "health_status": "not_checked",
-    "health_checked_urls": 0,
-    "health_promoted": false
-  },
-  {
-    "id": "dragon_arabic_67ae479b0165",
-    "name": "AR| Animal Planet",
-    "original_name": "|AR| Animal Planet | 🌟 FREE IPTV WORLD 🌟",
-    "language": "arabic",
-    "groups": [
-      "documentary"
-    ],
-    "raw_group": "ARABIC PREMIUM",
-    "logo": "http://silvertv.net:1997/images/APREMUIM/AnimalPlanet.png",
-    "primary_url": "http://mjidiptv.com:1997/OIHfiptvtree2023f/6tYbxSIifTUwg8Vm/5079",
-    "alternates": [],
-    "source_file": "FIW_1795373517_1_c97f45_Hunter_50EC.m3u",
-    "health_status": "unreachable",
-    "health_checked_urls": 1,
-    "health_promoted": false
-  },
-  {
-    "id": "dragon_arabic_8d8dfad4d74e",
-    "name": "SA: ART HEKAYAT 1",
-    "original_name": "SA: ART HEKAYAT 1 | 🌟 FREE IPTV WORLD 🌟",
-    "language": "arabic",
-    "groups": [],
-    "raw_group": "ARABIC PREMIUM",
-    "logo": "",
-    "primary_url": "http://tvr.iptvboss.net:80/tree141es/sdfsdvvcxvxcvx/2562",
-    "alternates": [
-      "http://mjidiptv.com:1997/OIHfiptvtree2023f/6tYbxSIifTUwg8Vm/5081"
-    ],
-    "source_file": "FIW_1795373435_2_21a8d9_Hunter_CC97.m3u",
-    "health_status": "not_checked",
-    "health_checked_urls": 0,
-    "health_promoted": false
-  },
-  {
-    "id": "dragon_arabic_a7557b8ca2ba",
-    "name": "AR| TDC",
-    "original_name": "|AR| TDC | 🌟 FREE IPTV WORLD 🌟",
-    "language": "arabic",
-    "groups": [],
-    "raw_group": "ARABIC PREMIUM",
-    "logo": "",
-    "primary_url": "http://mjidiptv.com:1997/OIHfiptvtree2023f/6tYbxSIifTUwg8Vm/58586",
-    "alternates": [],
-    "source_file": "FIW_1795373517_1_c97f45_Hunter_50EC.m3u",
-    "health_status": "not_checked",
-    "health_checked_urls": 0,
-    "health_promoted": false
-  },
-  {
-    "id": "dragon_arabic_7b2ccc365d76",
-    "name": "AR| NETFLIX KIDS",
-    "original_name": "|AR| NETFLIX KIDS | 🌟 FREE IPTV WORLD 🌟",
-    "language": "arabic",
-    "groups": [],
-    "raw_group": "SHOWTIMES",
-    "logo": "",
-    "primary_url": "http://mjidiptv.com:1997/OIHfiptvtree2023f/6tYbxSIifTUwg8Vm/62755",
-    "alternates": [],
-    "source_file": "FIW_1795373517_1_c97f45_Hunter_50EC.m3u",
-    "health_status": "not_checked",
-    "health_checked_urls": 0,
-    "health_promoted": false
-  },
-  {
-    "id": "dragon_arabic_be393e5877ca",
-    "name": "AR| NETFLIX DRAMA",
-    "original_name": "|AR| NETFLIX DRAMA | 🌟 FREE IPTV WORLD 🌟",
-    "language": "arabic",
-    "groups": [],
-    "raw_group": "SHOWTIMES",
-    "logo": "",
-    "primary_url": "http://mjidiptv.com:1997/OIHfiptvtree2023f/6tYbxSIifTUwg8Vm/62753",
-    "alternates": [],
-    "source_file": "FIW_1795373517_1_c97f45_Hunter_50EC.m3u",
-    "health_status": "not_checked",
-    "health_checked_urls": 0,
-    "health_promoted": false
-  },
-  {
-    "id": "dragon_arabic_9f87d71dde2b",
-    "name": "AR| NETFLIX COMEDY",
-    "original_name": "|AR| NETFLIX COMEDY | 🌟 FREE IPTV WORLD 🌟",
-    "language": "arabic",
-    "groups": [],
-    "raw_group": "SHOWTIMES",
-    "logo": "",
-    "primary_url": "http://mjidiptv.com:1997/OIHfiptvtree2023f/6tYbxSIifTUwg8Vm/62752",
-    "alternates": [],
-    "source_file": "FIW_1795373517_1_c97f45_Hunter_50EC.m3u",
-    "health_status": "not_checked",
-    "health_checked_urls": 0,
-    "health_promoted": false
-  },
-  {
-    "id": "dragon_arabic_d82f75f617a7",
-    "name": "UAE| DUBAI SPORTS 3 HD",
-    "original_name": "|UAE| DUBAI SPORTS 3 HD | 🌟 FREE IPTV WORLD 🌟",
-    "language": "arabic",
-    "groups": [
-      "sports"
-    ],
-    "raw_group": "UNITED ARABE EMARATE",
-    "logo": "",
-    "primary_url": "http://mjidiptv.com:1997/OIHfiptvtree2023f/6tYbxSIifTUwg8Vm/54057",
-    "alternates": [],
-    "source_file": "FIW_1795373517_1_c97f45_Hunter_50EC.m3u",
-    "health_status": "not_checked",
-    "health_checked_urls": 0,
-    "health_promoted": false
-  },
-  {
-    "id": "dragon_arabic_24e2dd76f847",
-    "name": "UAE| AD EMARAT HD",
-    "original_name": "|UAE| AD EMARAT HD | 🌟 FREE IPTV WORLD 🌟",
-    "language": "arabic",
-    "groups": [],
-    "raw_group": "UNITED ARABE EMARATE",
-    "logo": "",
-    "primary_url": "http://mjidiptv.com:1997/OIHfiptvtree2023f/6tYbxSIifTUwg8Vm/54064",
-    "alternates": [],
-    "source_file": "FIW_1795373517_1_c97f45_Hunter_50EC.m3u",
-    "health_status": "not_checked",
-    "health_checked_urls": 0,
-    "health_promoted": false
-  },
-  {
-    "id": "dragon_arabic_eb6f52f71a17",
-    "name": "UAE| ABU DHABI DRAMA HD",
-    "original_name": "|UAE| ABU DHABI DRAMA HD | 🌟 FREE IPTV WORLD 🌟",
-    "language": "arabic",
-    "groups": [],
-    "raw_group": "UNITED ARABE EMARATE",
-    "logo": "",
-    "primary_url": "http://mjidiptv.com:1997/OIHfiptvtree2023f/6tYbxSIifTUwg8Vm/54065",
-    "alternates": [],
-    "source_file": "FIW_1795373517_1_c97f45_Hunter_50EC.m3u",
-    "health_status": "not_checked",
-    "health_checked_urls": 0,
-    "health_promoted": false
-  },
-  {
-    "id": "dragon_arabic_51e56cf9ae90",
-    "name": "UAE| AL-WAHA",
-    "original_name": "|UAE| AL-WAHA | 🌟 FREE IPTV WORLD 🌟",
-    "language": "arabic",
-    "groups": [],
-    "raw_group": "UNITED ARABE EMARATE",
-    "logo": "",
-    "primary_url": "http://mjidiptv.com:1997/OIHfiptvtree2023f/6tYbxSIifTUwg8Vm/54066",
-    "alternates": [],
-    "source_file": "FIW_1795373517_1_c97f45_Hunter_50EC.m3u",
-    "health_status": "not_checked",
-    "health_checked_urls": 0,
-    "health_promoted": false
-  },
-  {
-    "id": "dragon_arabic_f671463401e9",
-    "name": "UAE| Beity",
-    "original_name": "|UAE| Beity | 🌟 FREE IPTV WORLD 🌟",
-    "language": "arabic",
-    "groups": [],
-    "raw_group": "UNITED ARABE EMARATE",
-    "logo": "",
-    "primary_url": "http://mjidiptv.com:1997/OIHfiptvtree2023f/6tYbxSIifTUwg8Vm/54079",
-    "alternates": [],
-    "source_file": "FIW_1795373517_1_c97f45_Hunter_50EC.m3u",
-    "health_status": "not_checked",
-    "health_checked_urls": 0,
-    "health_promoted": false
-  },
-  {
-    "id": "dragon_arabic_87a5babbf149",
-    "name": "UAE| CITRUSS TV HD",
-    "original_name": "|UAE| CITRUSS TV HD | 🌟 FREE IPTV WORLD 🌟",
-    "language": "arabic",
-    "groups": [],
-    "raw_group": "UNITED ARABE EMARATE",
-    "logo": "",
-    "primary_url": "http://mjidiptv.com:1997/OIHfiptvtree2023f/6tYbxSIifTUwg8Vm/54080",
-    "alternates": [],
-    "source_file": "FIW_1795373517_1_c97f45_Hunter_50EC.m3u",
-    "health_status": "not_checked",
-    "health_checked_urls": 0,
-    "health_promoted": false
-  },
-  {
-    "id": "dragon_arabic_a525b8480187",
-    "name": "UAE| Music Now",
-    "original_name": "|UAE| Music Now | 🌟 FREE IPTV WORLD 🌟",
-    "language": "arabic",
-    "groups": [],
-    "raw_group": "UNITED ARABE EMARATE",
-    "logo": "",
-    "primary_url": "http://mjidiptv.com:1997/OIHfiptvtree2023f/6tYbxSIifTUwg8Vm/54083",
-    "alternates": [],
-    "source_file": "FIW_1795373517_1_c97f45_Hunter_50EC.m3u",
-    "health_status": "not_checked",
-    "health_checked_urls": 0,
-    "health_promoted": false
-  },
-  {
-    "id": "dragon_arabic_63f9f11bd236",
-    "name": "beIN Cartoon Network",
-    "original_name": "beIN Cartoon Network | 🌟 FREE IPTV WORLD 🌟",
-    "language": "arabic",
-    "groups": [],
-    "raw_group": "BEIN ENTERTAINMENT",
-    "logo": "http://silvertv.net:1997/images/france/CartoonNetwork.fr.png",
-    "primary_url": "http://mjidiptv.com:1997/OIHfiptvtree2023f/6tYbxSIifTUwg8Vm/17812",
-    "alternates": [],
-    "source_file": "FIW_1795373517_1_c97f45_Hunter_50EC.m3u",
-    "health_status": "not_checked",
-    "health_checked_urls": 0,
-    "health_promoted": false
-  },
-  {
-    "id": "dragon_arabic_295bfbea3cc1",
-    "name": "Rotana Aflam+ HD AE",
-    "original_name": "Rotana Aflam+ HD AE | 🌟 FREE IPTV WORLD 🌟",
-    "language": "arabic",
-    "groups": [],
-    "raw_group": "ОАЭ | UAE",
-    "logo": "http://epg.one/img2/5671.png",
-    "primary_url": "http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/EBX97N4T5NSSM33N49RSNKLN/15193/index.m3u8",
-    "alternates": [],
-    "source_file": "FIW_1795373447_2_22c97c_Hunter_29A5.m3u",
-    "health_status": "not_checked",
-    "health_checked_urls": 0,
-    "health_promoted": false
-  },
-  {
-    "id": "dragon_arabic_df9a8a93e40b",
-    "name": "Mbc Max AE",
-    "original_name": "Mbc Max AE | 🌟 FREE IPTV WORLD 🌟",
-    "language": "arabic",
-    "groups": [],
-    "raw_group": "ОАЭ | UAE",
-    "logo": "http://epg.one/img2/5673.png",
-    "primary_url": "http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/EBX97N4T5NSSM33N49RSNKLN/15195/index.m3u8",
-    "alternates": [],
-    "source_file": "FIW_1795373447_2_22c97c_Hunter_29A5.m3u",
-    "health_status": "not_checked",
-    "health_checked_urls": 0,
-    "health_promoted": false
-  },
-  {
-    "id": "dragon_arabic_c21c8ec7b9a7",
-    "name": "Mbc Drama AE",
-    "original_name": "Mbc Drama AE | 🌟 FREE IPTV WORLD 🌟",
-    "language": "arabic",
-    "groups": [],
-    "raw_group": "ОАЭ | UAE",
-    "logo": "http://epg.one/img2/5674.png",
-    "primary_url": "http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/EBX97N4T5NSSM33N49RSNKLN/15196/index.m3u8",
-    "alternates": [],
-    "source_file": "FIW_1795373447_2_22c97c_Hunter_29A5.m3u",
-    "health_status": "not_checked",
-    "health_checked_urls": 0,
-    "health_promoted": false
-  },
-  {
-    "id": "dragon_arabic_55e6bf05e8e8",
-    "name": "Mbc Action AE",
-    "original_name": "Mbc Action AE | 🌟 FREE IPTV WORLD 🌟",
-    "language": "arabic",
-    "groups": [],
-    "raw_group": "ОАЭ | UAE",
-    "logo": "http://epg.one/img2/5675.png",
-    "primary_url": "http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/EBX97N4T5NSSM33N49RSNKLN/15197/index.m3u8",
-    "alternates": [],
-    "source_file": "FIW_1795373447_2_22c97c_Hunter_29A5.m3u",
-    "health_status": "not_checked",
-    "health_checked_urls": 0,
-    "health_promoted": false
-  },
-  {
-    "id": "dragon_arabic_554dde322b19",
-    "name": "MBC 2 SD AE",
-    "original_name": "MBC 2 SD AE | 🌟 FREE IPTV WORLD 🌟",
-    "language": "arabic",
-    "groups": [],
-    "raw_group": "ОАЭ | UAE",
-    "logo": "http://epg.one/img2/5676.png",
-    "primary_url": "http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/EBX97N4T5NSSM33N49RSNKLN/15198/index.m3u8",
-    "alternates": [],
-    "source_file": "FIW_1795373447_2_22c97c_Hunter_29A5.m3u",
-    "health_status": "not_checked",
-    "health_checked_urls": 0,
-    "health_promoted": false
-  },
-  {
-    "id": "dragon_arabic_035cc9f76338",
-    "name": "MBC 4 AE",
-    "original_name": "MBC 4 AE | 🌟 FREE IPTV WORLD 🌟",
-    "language": "arabic",
-    "groups": [],
-    "raw_group": "ОАЭ | UAE",
-    "logo": "http://epg.one/img2/5677.png",
-    "primary_url": "http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/EBX97N4T5NSSM33N49RSNKLN/15199/index.m3u8",
-    "alternates": [],
-    "source_file": "FIW_1795373447_2_22c97c_Hunter_29A5.m3u",
-    "health_status": "not_checked",
-    "health_checked_urls": 0,
-    "health_promoted": false
-  },
-  {
-    "id": "dragon_arabic_658037b58f9d",
-    "name": "MA| ASSADISiA HD",
-    "original_name": "|MA| ASSADISiA HD | 🌟 FREE IPTV WORLD 🌟",
-    "language": "arabic",
-    "groups": [],
-    "raw_group": "",
-    "logo": "",
-    "primary_url": "http://tvr.iptvboss.net:80/tree141es/sdfsdvvcxvxcvx/2667",
-    "alternates": [
-      "http://tvr.iptvboss.net:80/tree141es/sdfsdvvcxvxcvx/54152"
-    ],
-    "source_file": "FIW_1795373435_2_21a8d9_Hunter_CC97.m3u",
-    "health_status": "not_checked",
-    "health_checked_urls": 0,
-    "health_promoted": false
-  },
-  {
-    "id": "dragon_arabic_ec77fabb18a9",
-    "name": "MA| MEDI 1TV MAGHREB FHD",
-    "original_name": "|MA| MEDI 1TV MAGHREB FHD | 🌟 FREE IPTV WORLD 🌟",
-    "language": "arabic",
-    "groups": [],
-    "raw_group": "",
-    "logo": "",
-    "primary_url": "http://tvr.iptvboss.net:80/tree141es/sdfsdvvcxvxcvx/2666",
-    "alternates": [],
-    "source_file": "FIW_1795373435_2_21a8d9_Hunter_CC97.m3u",
-    "health_status": "not_checked",
-    "health_checked_urls": 0,
-    "health_promoted": false
-  },
-  {
-    "id": "dragon_arabic_e61972c22db5",
-    "name": "MA| MEDI 1TV AFRIQUE FHD",
-    "original_name": "|MA| MEDI 1TV AFRIQUE FHD | 🌟 FREE IPTV WORLD 🌟",
-    "language": "arabic",
-    "groups": [],
-    "raw_group": "",
-    "logo": "",
-    "primary_url": "http://tvr.iptvboss.net:80/tree141es/sdfsdvvcxvxcvx/2665",
-    "alternates": [],
-    "source_file": "FIW_1795373435_2_21a8d9_Hunter_CC97.m3u",
-    "health_status": "not_checked",
-    "health_checked_urls": 0,
-    "health_promoted": false
-  },
-  {
-    "id": "dragon_arabic_83b337006936",
-    "name": "MA| Al AOULA FHD",
-    "original_name": "|MA| Al AOULA FHD | 🌟 FREE IPTV WORLD 🌟",
-    "language": "arabic",
-    "groups": [],
-    "raw_group": "",
-    "logo": "",
-    "primary_url": "http://tvr.iptvboss.net:80/tree141es/sdfsdvvcxvxcvx/54150",
-    "alternates": [],
-    "source_file": "FIW_1795373435_2_21a8d9_Hunter_CC97.m3u",
-    "health_status": "not_checked",
-    "health_checked_urls": 0,
-    "health_promoted": false
-  },
-  {
-    "id": "dragon_arabic_7be1d13eddc4",
-    "name": "MA| MEDI 1 TV ARABIC FHD",
-    "original_name": "|MA| MEDI 1 TV ARABIC FHD | 🌟 FREE IPTV WORLD 🌟",
-    "language": "arabic",
-    "groups": [],
-    "raw_group": "",
-    "logo": "",
-    "primary_url": "http://tvr.iptvboss.net:80/tree141es/sdfsdvvcxvxcvx/54151",
-    "alternates": [],
-    "source_file": "FIW_1795373435_2_21a8d9_Hunter_CC97.m3u",
-    "health_status": "not_checked",
-    "health_checked_urls": 0,
-    "health_promoted": false
-  },
-  {
-    "id": "dragon_arabic_2f1d50b4bf50",
-    "name": "DZ: A3",
-    "original_name": "DZ: A3 | 🌟 FREE IPTV WORLD 🌟",
-    "language": "arabic",
-    "groups": [],
-    "raw_group": "",
-    "logo": "",
-    "primary_url": "http://tvr.iptvboss.net:80/tree141es/sdfsdvvcxvxcvx/2653",
-    "alternates": [
-      "http://tvr.iptvboss.net:80/tree141es/sdfsdvvcxvxcvx/54153"
-    ],
-    "source_file": "FIW_1795373435_2_21a8d9_Hunter_CC97.m3u",
-    "health_status": "not_checked",
-    "health_checked_urls": 0,
-    "health_promoted": false
-  },
-  {
-    "id": "dragon_arabic_71129ce13af4",
-    "name": "DZ: ECHOROUK",
-    "original_name": "DZ: ECHOROUK | 🌟 FREE IPTV WORLD 🌟",
-    "language": "arabic",
-    "groups": [],
-    "raw_group": "",
-    "logo": "",
-    "primary_url": "http://tvr.iptvboss.net:80/tree141es/sdfsdvvcxvxcvx/2656",
-    "alternates": [],
-    "source_file": "FIW_1795373435_2_21a8d9_Hunter_CC97.m3u",
-    "health_status": "not_checked",
-    "health_checked_urls": 0,
-    "health_promoted": false
-  },
-  {
-    "id": "dragon_arabic_4c5942a3da81",
-    "name": "DZ: TV CORAN",
-    "original_name": "DZ: TV CORAN | 🌟 FREE IPTV WORLD 🌟",
-    "language": "arabic",
-    "groups": [],
-    "raw_group": "",
-    "logo": "",
-    "primary_url": "http://tvr.iptvboss.net:80/tree141es/sdfsdvvcxvxcvx/2648",
-    "alternates": [],
-    "source_file": "FIW_1795373435_2_21a8d9_Hunter_CC97.m3u",
-    "health_status": "not_checked",
-    "health_checked_urls": 0,
-    "health_promoted": false
-  },
-  {
-    "id": "dragon_arabic_e741faad45da",
-    "name": "DZ: TV TAMAZIGHT",
-    "original_name": "DZ: TV TAMAZIGHT | 🌟 FREE IPTV WORLD 🌟",
-    "language": "arabic",
-    "groups": [],
-    "raw_group": "",
-    "logo": "",
-    "primary_url": "http://tvr.iptvboss.net:80/tree141es/sdfsdvvcxvxcvx/2647",
-    "alternates": [],
-    "source_file": "FIW_1795373435_2_21a8d9_Hunter_CC97.m3u",
-    "health_status": "not_checked",
-    "health_checked_urls": 0,
-    "health_promoted": false
-  },
-  {
-    "id": "dragon_arabic_ef16fecfa4ef",
-    "name": "DZ: BERBERE TELEVISION",
-    "original_name": "DZ: BERBERE TELEVISION | 🌟 FREE IPTV WORLD 🌟",
-    "language": "arabic",
-    "groups": [],
-    "raw_group": "",
-    "logo": "",
-    "primary_url": "http://tvr.iptvboss.net:80/tree141es/sdfsdvvcxvxcvx/2644",
-    "alternates": [],
-    "source_file": "FIW_1795373435_2_21a8d9_Hunter_CC97.m3u",
-    "health_status": "not_checked",
-    "health_checked_urls": 0,
-    "health_promoted": false
-  },
-  {
-    "id": "dragon_arabic_bb5f0fef6adc",
-    "name": "TN: TUNISIA 1 FHD",
-    "original_name": "TN: TUNISIA 1 FHD | 🌟 FREE IPTV WORLD 🌟",
-    "language": "arabic",
-    "groups": [],
-    "raw_group": "",
-    "logo": "",
-    "primary_url": "http://tvr.iptvboss.net:80/tree141es/sdfsdvvcxvxcvx/54334",
-    "alternates": [],
-    "source_file": "FIW_1795373435_2_21a8d9_Hunter_CC97.m3u",
-    "health_status": "not_checked",
-    "health_checked_urls": 0,
-    "health_promoted": false
-  },
-  {
-    "id": "dragon_arabic_2729f9d40285",
-    "name": "TN: TUNISIA NAT 1",
-    "original_name": "TN: TUNISIA NAT 1 | 🌟 FREE IPTV WORLD 🌟",
-    "language": "arabic",
-    "groups": [],
-    "raw_group": "",
-    "logo": "",
-    "primary_url": "http://tvr.iptvboss.net:80/tree141es/sdfsdvvcxvxcvx/2641",
-    "alternates": [],
-    "source_file": "FIW_1795373435_2_21a8d9_Hunter_CC97.m3u",
-    "health_status": "not_checked",
-    "health_checked_urls": 0,
-    "health_promoted": false
-  },
-  {
-    "id": "dragon_arabic_5b4818b5b4bf",
-    "name": "TN: TUNISIA NAT 2 FHD",
-    "original_name": "TN: TUNISIA NAT 2 FHD | 🌟 FREE IPTV WORLD 🌟",
-    "language": "arabic",
-    "groups": [],
-    "raw_group": "",
-    "logo": "",
-    "primary_url": "http://tvr.iptvboss.net:80/tree141es/sdfsdvvcxvxcvx/2640",
-    "alternates": [],
-    "source_file": "FIW_1795373435_2_21a8d9_Hunter_CC97.m3u",
-    "health_status": "not_checked",
-    "health_checked_urls": 0,
-    "health_promoted": false
-  },
-  {
-    "id": "dragon_arabic_8b5cbee4ecbb",
-    "name": "TN: HANNIBAL",
-    "original_name": "TN: HANNIBAL | 🌟 FREE IPTV WORLD 🌟",
-    "language": "arabic",
-    "groups": [],
-    "raw_group": "",
-    "logo": "",
-    "primary_url": "http://tvr.iptvboss.net:80/tree141es/sdfsdvvcxvxcvx/2639",
-    "alternates": [],
-    "source_file": "FIW_1795373435_2_21a8d9_Hunter_CC97.m3u",
-    "health_status": "not_checked",
-    "health_checked_urls": 0,
-    "health_promoted": false
-  },
-  {
-    "id": "dragon_arabic_f1e8280a845a",
-    "name": "TN: EL HIWAR ETTOUNSI",
-    "original_name": "TN: EL HIWAR ETTOUNSI | 🌟 FREE IPTV WORLD 🌟",
-    "language": "arabic",
-    "groups": [],
-    "raw_group": "",
-    "logo": "",
-    "primary_url": "http://tvr.iptvboss.net:80/tree141es/sdfsdvvcxvxcvx/2638",
-    "alternates": [],
-    "source_file": "FIW_1795373435_2_21a8d9_Hunter_CC97.m3u",
-    "health_status": "not_checked",
-    "health_checked_urls": 0,
-    "health_promoted": false
-  },
-  {
-    "id": "dragon_arabic_72d7215867b8",
-    "name": "TN: MTUNISNA",
-    "original_name": "TN: MTUNISNA | 🌟 FREE IPTV WORLD 🌟",
-    "language": "arabic",
-    "groups": [],
-    "raw_group": "",
-    "logo": "",
-    "primary_url": "http://tvr.iptvboss.net:80/tree141es/sdfsdvvcxvxcvx/2635",
-    "alternates": [],
-    "source_file": "FIW_1795373435_2_21a8d9_Hunter_CC97.m3u",
-    "health_status": "not_checked",
-    "health_checked_urls": 0,
-    "health_promoted": false
-  },
-  {
-    "id": "dragon_arabic_415f39813a51",
-    "name": "TN: AL JANOUBIA",
-    "original_name": "TN: AL JANOUBIA | 🌟 FREE IPTV WORLD 🌟",
-    "language": "arabic",
-    "groups": [],
-    "raw_group": "",
-    "logo": "",
-    "primary_url": "http://tvr.iptvboss.net:80/tree141es/sdfsdvvcxvxcvx/2634",
-    "alternates": [],
-    "source_file": "FIW_1795373435_2_21a8d9_Hunter_CC97.m3u",
-    "health_status": "not_checked",
-    "health_checked_urls": 0,
-    "health_promoted": false
-  },
-  {
-    "id": "dragon_arabic_ecc1cd18a79b",
-    "name": "TN: AL INSEN",
-    "original_name": "TN: AL INSEN | 🌟 FREE IPTV WORLD 🌟",
-    "language": "arabic",
-    "groups": [],
-    "raw_group": "",
-    "logo": "",
-    "primary_url": "http://tvr.iptvboss.net:80/tree141es/sdfsdvvcxvxcvx/2633",
-    "alternates": [],
-    "source_file": "FIW_1795373435_2_21a8d9_Hunter_CC97.m3u",
-    "health_status": "not_checked",
-    "health_checked_urls": 0,
-    "health_promoted": false
-  },
-  {
-    "id": "dragon_arabic_2857478cbce8",
-    "name": "TN: ATTESIA TV",
-    "original_name": "TN: ATTESIA TV | 🌟 FREE IPTV WORLD 🌟",
-    "language": "arabic",
-    "groups": [],
-    "raw_group": "",
-    "logo": "",
-    "primary_url": "http://tvr.iptvboss.net:80/tree141es/sdfsdvvcxvxcvx/2630",
-    "alternates": [],
-    "source_file": "FIW_1795373435_2_21a8d9_Hunter_CC97.m3u",
-    "health_status": "not_checked",
-    "health_checked_urls": 0,
-    "health_promoted": false
-  },
-  {
-    "id": "dragon_arabic_7a50c8ede739",
-    "name": "QA: BEIN MOVIES 1",
-    "original_name": "QA: BEIN MOVIES 1 | 🌟 FREE IPTV WORLD 🌟",
-    "language": "arabic",
-    "groups": [],
-    "raw_group": "",
-    "logo": "",
-    "primary_url": "http://tvr.iptvboss.net:80/tree141es/sdfsdvvcxvxcvx/2505",
-    "alternates": [],
-    "source_file": "FIW_1795373435_2_21a8d9_Hunter_CC97.m3u",
-    "health_status": "not_checked",
-    "health_checked_urls": 0,
-    "health_promoted": false
-  },
-  {
-    "id": "dragon_arabic_f6487acaf0d6",
-    "name": "QA: BEIN MOVIES 2",
-    "original_name": "QA: BEIN MOVIES 2 | 🌟 FREE IPTV WORLD 🌟",
-    "language": "arabic",
-    "groups": [],
-    "raw_group": "",
-    "logo": "",
-    "primary_url": "http://tvr.iptvboss.net:80/tree141es/sdfsdvvcxvxcvx/2504",
-    "alternates": [],
-    "source_file": "FIW_1795373435_2_21a8d9_Hunter_CC97.m3u",
-    "health_status": "not_checked",
-    "health_checked_urls": 0,
-    "health_promoted": false
-  },
-  {
-    "id": "dragon_arabic_d43206ffb3f7",
-    "name": "QA: BEIN MOVIES 3",
-    "original_name": "QA: BEIN MOVIES 3 | 🌟 FREE IPTV WORLD 🌟",
-    "language": "arabic",
-    "groups": [],
-    "raw_group": "",
-    "logo": "",
-    "primary_url": "http://tvr.iptvboss.net:80/tree141es/sdfsdvvcxvxcvx/2503",
-    "alternates": [],
-    "source_file": "FIW_1795373435_2_21a8d9_Hunter_CC97.m3u",
-    "health_status": "not_checked",
-    "health_checked_urls": 0,
-    "health_promoted": false
-  },
-  {
-    "id": "dragon_arabic_6bb68630690a",
-    "name": "QA: BEIN MOVIES 4",
-    "original_name": "QA: BEIN MOVIES 4 | 🌟 FREE IPTV WORLD 🌟",
-    "language": "arabic",
-    "groups": [],
-    "raw_group": "",
-    "logo": "",
-    "primary_url": "http://tvr.iptvboss.net:80/tree141es/sdfsdvvcxvxcvx/2502",
-    "alternates": [],
-    "source_file": "FIW_1795373435_2_21a8d9_Hunter_CC97.m3u",
-    "health_status": "not_checked",
-    "health_checked_urls": 0,
-    "health_promoted": false
-  },
-  {
-    "id": "dragon_arabic_fa2686a6fbfa",
-    "name": "UAE: NATIONAL GEO ABU DHABI",
-    "original_name": "UAE: NATIONAL GEO ABU DHABI | 🌟 FREE IPTV WORLD 🌟",
-    "language": "arabic",
-    "groups": [],
-    "raw_group": "",
-    "logo": "",
-    "primary_url": "http://tvr.iptvboss.net:80/tree141es/sdfsdvvcxvxcvx/2546",
-    "alternates": [],
-    "source_file": "FIW_1795373435_2_21a8d9_Hunter_CC97.m3u",
-    "health_status": "not_checked",
-    "health_checked_urls": 0,
-    "health_promoted": false
-  },
-  {
-    "id": "dragon_arabic_3c483d2ea77c",
-    "name": "UAE :ABU DHABI ELMARAT",
-    "original_name": "UAE :ABU DHABI ELMARAT | 🌟 FREE IPTV WORLD 🌟",
-    "language": "arabic",
-    "groups": [],
-    "raw_group": "",
-    "logo": "",
-    "primary_url": "http://tvr.iptvboss.net:80/tree141es/sdfsdvvcxvxcvx/2548",
-    "alternates": [],
-    "source_file": "FIW_1795373435_2_21a8d9_Hunter_CC97.m3u",
-    "health_status": "not_checked",
-    "health_checked_urls": 0,
-    "health_promoted": false
-  },
-  {
-    "id": "dragon_arabic_da88e6df15a5",
-    "name": "UAE: ABU DHABI SPORT 1",
-    "original_name": "UAE: ABU DHABI SPORT 1 | 🌟 FREE IPTV WORLD 🌟",
-    "language": "arabic",
-    "groups": [
-      "sports"
-    ],
-    "raw_group": "",
-    "logo": "",
-    "primary_url": "http://tvr.iptvboss.net:80/tree141es/sdfsdvvcxvxcvx/2543",
-    "alternates": [],
-    "source_file": "FIW_1795373435_2_21a8d9_Hunter_CC97.m3u",
-    "health_status": "not_checked",
-    "health_checked_urls": 0,
-    "health_promoted": false
-  },
-  {
-    "id": "dragon_arabic_903bb2fcec70",
-    "name": "UAE: BBC ARABE",
-    "original_name": "UAE: BBC ARABE | 🌟 FREE IPTV WORLD 🌟",
-    "language": "arabic",
-    "groups": [],
-    "raw_group": "",
-    "logo": "",
-    "primary_url": "http://tvr.iptvboss.net:80/tree141es/sdfsdvvcxvxcvx/2539",
-    "alternates": [],
-    "source_file": "FIW_1795373435_2_21a8d9_Hunter_CC97.m3u",
-    "health_status": "not_checked",
-    "health_checked_urls": 0,
-    "health_promoted": false
-  },
-  {
-    "id": "dragon_arabic_7d15a1aed75f",
-    "name": "SA: AL-ARABIYA",
-    "original_name": "SA: AL-ARABIYA | 🌟 FREE IPTV WORLD 🌟",
-    "language": "arabic",
-    "groups": [],
-    "raw_group": "",
-    "logo": "",
-    "primary_url": "http://tvr.iptvboss.net:80/tree141es/sdfsdvvcxvxcvx/2531",
-    "alternates": [],
-    "source_file": "FIW_1795373435_2_21a8d9_Hunter_CC97.m3u",
-    "health_status": "not_checked",
-    "health_checked_urls": 0,
-    "health_promoted": false
-  },
-  {
-    "id": "dragon_arabic_4bf063e0562d",
-    "name": "UAE: ROTANA KHALIJA",
-    "original_name": "UAE: ROTANA KHALIJA | 🌟 FREE IPTV WORLD 🌟",
-    "language": "arabic",
-    "groups": [],
-    "raw_group": "",
-    "logo": "",
-    "primary_url": "http://tvr.iptvboss.net:80/tree141es/sdfsdvvcxvxcvx/2610",
-    "alternates": [
-      "http://tvr.iptvboss.net:80/tree141es/sdfsdvvcxvxcvx/2609"
-    ],
-    "source_file": "FIW_1795373435_2_21a8d9_Hunter_CC97.m3u",
-    "health_status": "not_checked",
-    "health_checked_urls": 0,
-    "health_promoted": false
-  },
-  {
-    "id": "dragon_arabic_735172443dda",
-    "name": "UAE: ROTANA MOUSICA",
-    "original_name": "UAE: ROTANA MOUSICA | 🌟 FREE IPTV WORLD 🌟",
-    "language": "arabic",
-    "groups": [],
-    "raw_group": "",
-    "logo": "",
-    "primary_url": "http://tvr.iptvboss.net:80/tree141es/sdfsdvvcxvxcvx/2614",
-    "alternates": [
-      "http://tvr.iptvboss.net:80/tree141es/sdfsdvvcxvxcvx/2613"
-    ],
-    "source_file": "FIW_1795373435_2_21a8d9_Hunter_CC97.m3u",
-    "health_status": "not_checked",
-    "health_checked_urls": 0,
-    "health_promoted": false
-  },
-  {
-    "id": "dragon_arabic_55c751343914",
-    "name": "UAE: MBC HD",
-    "original_name": "UAE: MBC HD | 🌟 FREE IPTV WORLD 🌟",
-    "language": "arabic",
-    "groups": [],
-    "raw_group": "",
-    "logo": "",
-    "primary_url": "http://tvr.iptvboss.net:80/tree141es/sdfsdvvcxvxcvx/2582",
-    "alternates": [
-      "http://tvr.iptvboss.net:80/tree141es/sdfsdvvcxvxcvx/2581"
-    ],
-    "source_file": "FIW_1795373435_2_21a8d9_Hunter_CC97.m3u",
-    "health_status": "not_checked",
-    "health_checked_urls": 0,
-    "health_promoted": false
-  },
-  {
-    "id": "dragon_arabic_bf8c8bab40a5",
-    "name": "SA: AL MAJD 1",
-    "original_name": "SA: AL MAJD 1 | 🌟 FREE IPTV WORLD 🌟",
-    "language": "arabic",
-    "groups": [],
-    "raw_group": "",
-    "logo": "",
-    "primary_url": "http://tvr.iptvboss.net:80/tree141es/sdfsdvvcxvxcvx/2523",
-    "alternates": [],
-    "source_file": "FIW_1795373435_2_21a8d9_Hunter_CC97.m3u",
-    "health_status": "not_checked",
-    "health_checked_urls": 0,
-    "health_promoted": false
-  },
-  {
-    "id": "dragon_arabic_7d8813ad3298",
-    "name": "SA: AL MAJD 2",
-    "original_name": "SA: AL MAJD 2 | 🌟 FREE IPTV WORLD 🌟",
-    "language": "arabic",
-    "groups": [],
-    "raw_group": "",
-    "logo": "",
-    "primary_url": "http://tvr.iptvboss.net:80/tree141es/sdfsdvvcxvxcvx/2522",
-    "alternates": [],
-    "source_file": "FIW_1795373435_2_21a8d9_Hunter_CC97.m3u",
-    "health_status": "not_checked",
-    "health_checked_urls": 0,
-    "health_promoted": false
-  },
-  {
-    "id": "dragon_arabic_e3be76e4d59e",
-    "name": "SA: AL MAJD 3",
-    "original_name": "SA: AL MAJD 3 | 🌟 FREE IPTV WORLD 🌟",
-    "language": "arabic",
-    "groups": [],
-    "raw_group": "",
-    "logo": "",
-    "primary_url": "http://tvr.iptvboss.net:80/tree141es/sdfsdvvcxvxcvx/2521",
-    "alternates": [],
-    "source_file": "FIW_1795373435_2_21a8d9_Hunter_CC97.m3u",
-    "health_status": "not_checked",
-    "health_checked_urls": 0,
-    "health_promoted": false
-  },
-  {
-    "id": "dragon_arabic_2f43655b226b",
-    "name": "INDO ARABIC :ZEE AFLAM",
-    "original_name": "INDO ARABIC :ZEE AFLAM | 🌟 FREE IPTV WORLD 🌟",
-    "language": "arabic",
-    "groups": [],
-    "raw_group": "",
-    "logo": "",
-    "primary_url": "http://tvr.iptvboss.net:80/tree141es/sdfsdvvcxvxcvx/2482",
-    "alternates": [],
-    "source_file": "FIW_1795373435_2_21a8d9_Hunter_CC97.m3u",
-    "health_status": "not_checked",
-    "health_checked_urls": 0,
-    "health_promoted": false
-  },
-  {
-    "id": "dragon_arabic_167d09b913ae",
-    "name": "INDO ARABIC: ZEE ALWAN",
-    "original_name": "INDO ARABIC: ZEE ALWAN | 🌟 FREE IPTV WORLD 🌟",
-    "language": "arabic",
-    "groups": [],
-    "raw_group": "",
-    "logo": "",
-    "primary_url": "http://tvr.iptvboss.net:80/tree141es/sdfsdvvcxvxcvx/2483",
-    "alternates": [],
-    "source_file": "FIW_1795373435_2_21a8d9_Hunter_CC97.m3u",
-    "health_status": "not_checked",
-    "health_checked_urls": 0,
-    "health_promoted": false
-  },
-  {
-    "id": "dragon_arabic_06f0b5c8a507",
-    "name": "NEWS: RT ARABIC",
-    "original_name": "NEWS: RT ARABIC | 🌟 FREE IPTV WORLD 🌟",
-    "language": "arabic",
-    "groups": [
-      "news"
-    ],
-    "raw_group": "",
-    "logo": "",
-    "primary_url": "http://tvr.iptvboss.net:80/tree141es/sdfsdvvcxvxcvx/2474",
-    "alternates": [],
-    "source_file": "FIW_1795373435_2_21a8d9_Hunter_CC97.m3u",
-    "health_status": "reachable",
-    "health_checked_urls": 1,
-    "health_promoted": false
-  },
-  {
-    "id": "dragon_arabic_b7d3fe83a8cb",
-    "name": "SA: SAFA",
-    "original_name": "SA: SAFA | 🌟 FREE IPTV WORLD 🌟",
-    "language": "arabic",
-    "groups": [],
-    "raw_group": "",
-    "logo": "",
-    "primary_url": "http://tvr.iptvboss.net:80/tree141es/sdfsdvvcxvxcvx/2472",
-    "alternates": [],
-    "source_file": "FIW_1795373435_2_21a8d9_Hunter_CC97.m3u",
-    "health_status": "not_checked",
-    "health_checked_urls": 0,
-    "health_promoted": false
-  },
-  {
-    "id": "dragon_arabic_0836dc8b23db",
-    "name": "HOUB - Arabic Radio live",
-    "original_name": "HOUB - Arabic Radio live | 🌟 FREE IPTV WORLD 🌟",
-    "language": "arabic",
-    "groups": [],
-    "raw_group": "",
-    "logo": "",
-    "primary_url": "http://tvmate.icu:8080/34164995/34164995/122879",
-    "alternates": [],
-    "source_file": "FIW_1795373296_1_d65779_Hunter_D41F.m3u",
-    "health_status": "not_checked",
-    "health_checked_urls": 0,
-    "health_promoted": false
-  },
-  {
-    "id": "dragon_arabic_a0996af16606",
-    "name": "Arab American Radio live",
-    "original_name": "Arab American Radio live | 🌟 FREE IPTV WORLD 🌟",
-    "language": "arabic",
-    "groups": [],
-    "raw_group": "",
-    "logo": "",
-    "primary_url": "http://tvmate.icu:8080/34164995/34164995/123253",
-    "alternates": [],
-    "source_file": "FIW_1795373296_1_d65779_Hunter_D41F.m3u",
-    "health_status": "not_checked",
-    "health_checked_urls": 0,
-    "health_promoted": false
-  },
-  {
-    "id": "dragon_arabic_14896233cf8c",
-    "name": "France24 arabic",
-    "original_name": "France24 arabic | 🌟 FREE IPTV WORLD 🌟",
-    "language": "arabic",
-    "groups": [
-      "news"
-    ],
-    "raw_group": "",
-    "logo": "",
-    "primary_url": "http://tvmate.icu:8080/34164995/34164995/268567",
-    "alternates": [],
-    "source_file": "FIW_1795373296_1_d65779_Hunter_D41F.m3u",
-    "health_status": "reachable",
-    "health_checked_urls": 1,
-    "health_promoted": false
-  },
-  {
-    "id": "dragon_arabic_6aa82eb0c039",
-    "name": "radio maria arabic",
-    "original_name": "radio maria arabic | 🌟 FREE IPTV WORLD 🌟",
-    "language": "arabic",
-    "groups": [],
-    "raw_group": "",
-    "logo": "",
-    "primary_url": "http://tvmate.icu:8080/34164995/34164995/269644",
-    "alternates": [],
-    "source_file": "FIW_1795373296_1_d65779_Hunter_D41F.m3u",
-    "health_status": "not_checked",
-    "health_checked_urls": 0,
-    "health_promoted": false
-  },
-  {
-    "id": "dragon_arabic_abcfdd8682ea",
-    "name": "MA:-Radio Sawt Alamal",
-    "original_name": "MA:-Radio Sawt Alamal | 🌟 FREE IPTV WORLD 🌟",
-    "language": "arabic",
-    "groups": [],
-    "raw_group": "",
-    "logo": "",
-    "primary_url": "http://tvmate.icu:8080/34164995/34164995/270998",
-    "alternates": [],
-    "source_file": "FIW_1795373296_1_d65779_Hunter_D41F.m3u",
-    "health_status": "not_checked",
-    "health_checked_urls": 0,
-    "health_promoted": false
-  },
-  {
-    "id": "dragon_arabic_9dbb815c22a0",
-    "name": "MA:-Hit Radio Maroc",
-    "original_name": "MA:-Hit Radio Maroc | 🌟 FREE IPTV WORLD 🌟",
-    "language": "arabic",
-    "groups": [],
-    "raw_group": "",
-    "logo": "",
-    "primary_url": "http://tvmate.icu:8080/34164995/34164995/271138",
-    "alternates": [],
-    "source_file": "FIW_1795373296_1_d65779_Hunter_D41F.m3u",
-    "health_status": "not_checked",
-    "health_checked_urls": 0,
-    "health_promoted": false
-  },
-  {
-    "id": "dragon_arabic_2bb81fc853d8",
-    "name": "2ME Radio Arabic",
-    "original_name": "2ME Radio Arabic | 🌟 FREE IPTV WORLD 🌟",
-    "language": "arabic",
-    "groups": [],
-    "raw_group": "",
-    "logo": "",
-    "primary_url": "http://tvmate.icu:8080/34164995/34164995/272799",
-    "alternates": [],
-    "source_file": "FIW_1795373296_1_d65779_Hunter_D41F.m3u",
-    "health_status": "not_checked",
-    "health_checked_urls": 0,
-    "health_promoted": false
-  },
-  {
-    "id": "dragon_arabic_516e33d577be",
-    "name": "MBC FM for you",
-    "original_name": "MBC FM for you | 🌟 FREE IPTV WORLD 🌟",
-    "language": "arabic",
-    "groups": [],
-    "raw_group": "",
-    "logo": "",
-    "primary_url": "http://tvmate.icu:8080/34164995/34164995/275756",
-    "alternates": [],
-    "source_file": "FIW_1795373296_1_d65779_Hunter_D41F.m3u",
-    "health_status": "not_checked",
-    "health_checked_urls": 0,
-    "health_promoted": false
-  },
-  {
-    "id": "dragon_arabic_02f10b0f6141",
-    "name": "WMBC (University of Maryland Baltimore County)",
-    "original_name": "WMBC (University of Maryland Baltimore County) | 🌟 FREE IPTV WORLD 🌟",
-    "language": "arabic",
-    "groups": [],
-    "raw_group": "",
-    "logo": "",
-    "primary_url": "http://tvmate.icu:8080/34164995/34164995/277203",
-    "alternates": [],
-    "source_file": "FIW_1795373296_1_d65779_Hunter_D41F.m3u",
-    "health_status": "not_checked",
-    "health_checked_urls": 0,
-    "health_promoted": false
-  },
-  {
-    "id": "dragon_arabic_d9a50025806c",
-    "name": "Arab Mix 256",
-    "original_name": "Arab Mix 256 | 🌟 FREE IPTV WORLD 🌟",
-    "language": "arabic",
-    "groups": [],
-    "raw_group": "",
-    "logo": "",
-    "primary_url": "http://tvmate.icu:8080/34164995/34164995/277223",
-    "alternates": [],
-    "source_file": "FIW_1795373296_1_d65779_Hunter_D41F.m3u",
-    "health_status": "not_checked",
-    "health_checked_urls": 0,
-    "health_promoted": false
-  },
-  {
-    "id": "dragon_arabic_f08bc6dabcb4",
-    "name": "MBC http://serpent0.duckdns.org:8088/mbcatm.pls",
-    "original_name": "MBC http://serpent0.duckdns.org:8088/mbcatm.pls | 🌟 FREE IPTV WORLD 🌟",
-    "language": "arabic",
-    "groups": [],
-    "raw_group": "",
-    "logo": "",
-    "primary_url": "http://tvmate.icu:8080/34164995/34164995/278137",
-    "alternates": [],
-    "source_file": "FIW_1795373296_1_d65779_Hunter_D41F.m3u",
-    "health_status": "not_checked",
-    "health_checked_urls": 0,
-    "health_promoted": false
-  },
-  {
-    "id": "dragon_arabic_cb1887a542a4",
-    "name": "Arab Mix FM",
-    "original_name": "Arab Mix FM | 🌟 FREE IPTV WORLD 🌟",
-    "language": "arabic",
-    "groups": [],
-    "raw_group": "",
-    "logo": "",
-    "primary_url": "http://tvmate.icu:8080/34164995/34164995/278740",
-    "alternates": [],
-    "source_file": "FIW_1795373296_1_d65779_Hunter_D41F.m3u",
-    "health_status": "not_checked",
-    "health_checked_urls": 0,
-    "health_promoted": false
-  },
-  {
-    "id": "dragon_arabic_0506c6d668c6",
-    "name": "Rotana FM",
-    "original_name": "Rotana FM | 🌟 FREE IPTV WORLD 🌟",
-    "language": "arabic",
-    "groups": [],
-    "raw_group": "",
-    "logo": "",
-    "primary_url": "http://tvmate.icu:8080/34164995/34164995/280830",
-    "alternates": [],
-    "source_file": "FIW_1795373296_1_d65779_Hunter_D41F.m3u",
-    "health_status": "not_checked",
-    "health_checked_urls": 0,
-    "health_promoted": false
-  },
-  {
-    "id": "dragon_arabic_932e9c4a97d8",
-    "name": "https://stream-174.zeno.fm/qdi2wkplpdwuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJxZGkyd2twbHBkd3V2IiwiaG9zdCI6InN0cmVhbS0xNzQuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6IlIzVnE3dDZ4VFlpMFIyb0tZSVFUOHciLCJpYXQiOjE3NDc1OTU2NjksImV4cCI6MTc0NzU5NTcyOX0.DFUsugp-EF6XfjermbcNQM1YOvPDrpezpVSjZCgEHcU",
-    "original_name": "https://stream-174.zeno.fm/qdi2wkplpdwuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJxZGkyd2twbHBkd3V2IiwiaG9zdCI6InN0cmVhbS0xNzQuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6IlIzVnE3dDZ4VFlpMFIyb0tZSVFUOHciLCJpYXQiOjE3NDc1OTU2NjksImV4cCI6MTc0NzU5NTcyOX0.DFUsugp-EF6XfjermbcNQM1YOvPDrpezpVSjZCgEHcU | 🌟 FREE IPTV WORLD 🌟",
-    "language": "arabic",
-    "groups": [],
-    "raw_group": "",
-    "logo": "",
-    "primary_url": "http://tvmate.icu:8080/34164995/34164995/282424",
-    "alternates": [],
-    "source_file": "FIW_1795373296_1_d65779_Hunter_D41F.m3u",
-    "health_status": "not_checked",
-    "health_checked_urls": 0,
-    "health_promoted": false
-  },
-  {
-    "id": "dragon_arabic_d5e7ff06ec92",
-    "name": "Sputnik Arabic",
-    "original_name": "Sputnik Arabic | 🌟 FREE IPTV WORLD 🌟",
-    "language": "arabic",
-    "groups": [],
-    "raw_group": "",
-    "logo": "",
-    "primary_url": "http://tvmate.icu:8080/34164995/34164995/282812",
-    "alternates": [],
-    "source_file": "FIW_1795373296_1_d65779_Hunter_D41F.m3u",
-    "health_status": "not_checked",
-    "health_checked_urls": 0,
-    "health_promoted": false
-  },
-  {
-    "id": "dragon_arabic_88c7cc4ce183",
-    "name": "MBC Kool FM",
-    "original_name": "MBC Kool FM | 🌟 FREE IPTV WORLD 🌟",
-    "language": "arabic",
-    "groups": [],
-    "raw_group": "",
-    "logo": "",
-    "primary_url": "http://tvmate.icu:8080/34164995/34164995/283803",
-    "alternates": [],
-    "source_file": "FIW_1795373296_1_d65779_Hunter_D41F.m3u",
-    "health_status": "not_checked",
-    "health_checked_urls": 0,
-    "health_promoted": false
-  },
-  {
-    "id": "dragon_arabic_369d9a10755c",
-    "name": "CINA-FM 102.3 (Radio CINA Arabic Hits Stream) Windsor - ON",
-    "original_name": "CINA-FM 102.3 (Radio CINA Arabic Hits Stream) Windsor - ON | 🌟 FREE IPTV WORLD 🌟",
-    "language": "arabic",
-    "groups": [],
-    "raw_group": "",
-    "logo": "",
-    "primary_url": "http://tvmate.icu:8080/34164995/34164995/283906",
-    "alternates": [],
-    "source_file": "FIW_1795373296_1_d65779_Hunter_D41F.m3u",
-    "health_status": "not_checked",
-    "health_checked_urls": 0,
-    "health_promoted": false
-  },
-  {
-    "id": "dragon_arabic_bb8ba25b991b",
-    "name": "MBChttp://211.33.246.4:32954/radio_stfm/myStream.sdp/chunklist_w392819215.m3u8",
-    "original_name": "MBChttp://211.33.246.4:32954/radio_stfm/myStream.sdp/chunklist_w392819215.m3u8 | 🌟 FREE IPTV WORLD 🌟",
-    "language": "arabic",
-    "groups": [],
-    "raw_group": "",
-    "logo": "",
-    "primary_url": "http://tvmate.icu:8080/34164995/34164995/283962",
-    "alternates": [],
-    "source_file": "FIW_1795373296_1_d65779_Hunter_D41F.m3u",
-    "health_status": "not_checked",
-    "health_checked_urls": 0,
-    "health_promoted": false
-  },
-  {
-    "id": "dragon_arabic_3d965fe912d3",
-    "name": "Radio Caprice - Arabic Pop",
-    "original_name": "Radio Caprice - Arabic Pop | 🌟 FREE IPTV WORLD 🌟",
-    "language": "arabic",
-    "groups": [],
-    "raw_group": "",
-    "logo": "",
-    "primary_url": "http://tvmate.icu:8080/34164995/34164995/286634",
-    "alternates": [],
-    "source_file": "FIW_1795373296_1_d65779_Hunter_D41F.m3u",
-    "health_status": "not_checked",
-    "health_checked_urls": 0,
-    "health_promoted": false
-  },
-  {
-    "id": "dragon_arabic_36274b742ee4",
-    "name": "NPO Funx Arab",
-    "original_name": "NPO Funx Arab | 🌟 FREE IPTV WORLD 🌟",
-    "language": "arabic",
-    "groups": [],
-    "raw_group": "",
-    "logo": "",
-    "primary_url": "http://tvmate.icu:8080/34164995/34164995/287102",
-    "alternates": [],
-    "source_file": "FIW_1795373296_1_d65779_Hunter_D41F.m3u",
-    "health_status": "not_checked",
-    "health_checked_urls": 0,
-    "health_promoted": false
-  },
-  {
-    "id": "dragon_arabic_2cf23dcd4f4b",
-    "name": "Sky Arabia News TV",
-    "original_name": "Sky Arabia News TV | 🌟 FREE IPTV WORLD 🌟",
-    "language": "arabic",
-    "groups": [
-      "news"
-    ],
-    "raw_group": "",
-    "logo": "",
-    "primary_url": "http://tvmate.icu:8080/34164995/34164995/287577",
-    "alternates": [],
-    "source_file": "FIW_1795373296_1_d65779_Hunter_D41F.m3u",
-    "health_status": "reachable",
-    "health_checked_urls": 1,
-    "health_promoted": false
-  },
-  {
-    "id": "dragon_arabic_27bfe3c577f8",
-    "name": "https://live.andongmbc.co.kr/live/fmlive/playlist.m3u8",
-    "original_name": "https://live.andongmbc.co.kr/live/fmlive/playlist.m3u8 | 🌟 FREE IPTV WORLD 🌟",
-    "language": "arabic",
-    "groups": [],
-    "raw_group": "",
-    "logo": "",
-    "primary_url": "http://tvmate.icu:8080/34164995/34164995/289202",
-    "alternates": [],
-    "source_file": "FIW_1795373296_1_d65779_Hunter_D41F.m3u",
-    "health_status": "not_checked",
-    "health_checked_urls": 0,
-    "health_promoted": false
-  },
-  {
-    "id": "dragon_arabic_9dd0d1b95006",
-    "name": "MBC Radio Maurice",
-    "original_name": "MBC Radio Maurice | 🌟 FREE IPTV WORLD 🌟",
-    "language": "arabic",
-    "groups": [],
-    "raw_group": "",
-    "logo": "",
-    "primary_url": "http://tvmate.icu:8080/34164995/34164995/292796",
-    "alternates": [],
-    "source_file": "FIW_1795373296_1_d65779_Hunter_D41F.m3u",
-    "health_status": "not_checked",
-    "health_checked_urls": 0,
-    "health_promoted": false
-  },
-  {
-    "id": "dragon_arabic_6cdf0e2d1f3b",
-    "name": "BRN Radio - Arabic Channel",
-    "original_name": "BRN Radio - Arabic Channel | 🌟 FREE IPTV WORLD 🌟",
-    "language": "arabic",
-    "groups": [],
-    "raw_group": "",
-    "logo": "",
-    "primary_url": "http://tvmate.icu:8080/34164995/34164995/293466",
-    "alternates": [],
-    "source_file": "FIW_1795373296_1_d65779_Hunter_D41F.m3u",
-    "health_status": "not_checked",
-    "health_checked_urls": 0,
-    "health_promoted": false
-  },
-  {
-    "id": "dragon_arabic_cad97c2e2c18",
-    "name": "MBC Radio Mauritius",
-    "original_name": "MBC Radio Mauritius | 🌟 FREE IPTV WORLD 🌟",
-    "language": "arabic",
-    "groups": [],
-    "raw_group": "",
-    "logo": "",
-    "primary_url": "http://tvmate.icu:8080/34164995/34164995/293874",
-    "alternates": [],
-    "source_file": "FIW_1795373296_1_d65779_Hunter_D41F.m3u",
-    "health_status": "not_checked",
-    "health_checked_urls": 0,
-    "health_promoted": false
-  },
-  {
-    "id": "dragon_arabic_fbb22ef4eb1f",
-    "name": "DWG Radio Arabic (Bibel)",
-    "original_name": "DWG Radio Arabic (Bibel) | 🌟 FREE IPTV WORLD 🌟",
-    "language": "arabic",
-    "groups": [],
-    "raw_group": "",
-    "logo": "",
-    "primary_url": "http://tvmate.icu:8080/34164995/34164995/295034",
-    "alternates": [],
-    "source_file": "FIW_1795373296_1_d65779_Hunter_D41F.m3u",
-    "health_status": "not_checked",
-    "health_checked_urls": 0,
-    "health_promoted": false
-  },
-  {
-    "id": "dragon_arabic_666c367afc82",
-    "name": "MBChttp://211.33.246.4:32954/radio_fm/myStream.sdp/chunklist_w348337231.m3u8",
-    "original_name": "MBChttp://211.33.246.4:32954/radio_fm/myStream.sdp/chunklist_w348337231.m3u8 | 🌟 FREE IPTV WORLD 🌟",
-    "language": "arabic",
-    "groups": [],
-    "raw_group": "",
-    "logo": "",
-    "primary_url": "http://tvmate.icu:8080/34164995/34164995/296803",
-    "alternates": [],
-    "source_file": "FIW_1795373296_1_d65779_Hunter_D41F.m3u",
-    "health_status": "not_checked",
-    "health_checked_urls": 0,
-    "health_promoted": false
-  },
-  {
-    "id": "dragon_arabic_e6e227115cf7",
-    "name": "ma",
-    "original_name": "ma | 🌟 FREE IPTV WORLD 🌟",
-    "language": "arabic",
-    "groups": [],
-    "raw_group": "",
-    "logo": "",
-    "primary_url": "http://tvmate.icu:8080/34164995/34164995/304820",
-    "alternates": [],
-    "source_file": "FIW_1795373296_1_d65779_Hunter_D41F.m3u",
-    "health_status": "not_checked",
-    "health_checked_urls": 0,
-    "health_promoted": false
-  },
-  {
-    "id": "dragon_arabic_e5057defa117",
-    "name": "MBC Loud 94.3 FM",
-    "original_name": "MBC Loud 94.3 FM | 🌟 FREE IPTV WORLD 🌟",
-    "language": "arabic",
-    "groups": [],
-    "raw_group": "",
-    "logo": "",
-    "primary_url": "http://tvmate.icu:8080/34164995/34164995/305778",
-    "alternates": [],
-    "source_file": "FIW_1795373296_1_d65779_Hunter_D41F.m3u",
-    "health_status": "not_checked",
-    "health_checked_urls": 0,
-    "health_promoted": false
-  },
-  {
-    "id": "dragon_arabic_f5a4c5f49187",
-    "name": "Arabica TV",
-    "original_name": "Arabica TV | 🌟 FREE IPTV WORLD 🌟",
-    "language": "arabic",
-    "groups": [],
-    "raw_group": "",
-    "logo": "",
-    "primary_url": "http://tvmate.icu:8080/34164995/34164995/310144",
-    "alternates": [],
-    "source_file": "FIW_1795373296_1_d65779_Hunter_D41F.m3u",
-    "health_status": "not_checked",
-    "health_checked_urls": 0,
-    "health_promoted": false
-  },
-  {
-    "id": "dragon_arabic_058426b7920a",
-    "name": "MBC Loud",
-    "original_name": "MBC Loud | 🌟 FREE IPTV WORLD 🌟",
-    "language": "arabic",
-    "groups": [],
-    "raw_group": "",
-    "logo": "",
-    "primary_url": "http://tvmate.icu:8080/34164995/34164995/312279",
-    "alternates": [
-      "http://tvmate.icu:8080/34164995/34164995/311047"
-    ],
-    "source_file": "FIW_1795373296_1_d65779_Hunter_D41F.m3u",
-    "health_status": "not_checked",
-    "health_checked_urls": 0,
-    "health_promoted": false
-  },
-  {
-    "id": "dragon_arabic_d5a538eed413",
-    "name": "Arab Mix Drama",
-    "original_name": "Arab Mix Drama | 🌟 FREE IPTV WORLD 🌟",
-    "language": "arabic",
-    "groups": [],
-    "raw_group": "",
-    "logo": "",
-    "primary_url": "http://tvmate.icu:8080/34164995/34164995/312514",
-    "alternates": [],
-    "source_file": "FIW_1795373296_1_d65779_Hunter_D41F.m3u",
-    "health_status": "not_checked",
-    "health_checked_urls": 0,
-    "health_promoted": false
-  },
-  {
-    "id": "dragon_arabic_b9643bbc3bb6",
-    "name": "MBC Radio 2FM",
-    "original_name": "MBC Radio 2FM | 🌟 FREE IPTV WORLD 🌟",
-    "language": "arabic",
-    "groups": [],
-    "raw_group": "",
-    "logo": "",
-    "primary_url": "http://tvmate.icu:8080/34164995/34164995/313008",
-    "alternates": [],
-    "source_file": "FIW_1795373296_1_d65779_Hunter_D41F.m3u",
-    "health_status": "not_checked",
-    "health_checked_urls": 0,
-    "health_promoted": false
-  },
-  {
-    "id": "dragon_arabic_0bbc1252574f",
-    "name": "(BSOD) MBC mini All-That-Music",
-    "original_name": "(BSOD) MBC mini All-That-Music | 🌟 FREE IPTV WORLD 🌟",
-    "language": "arabic",
-    "groups": [],
-    "raw_group": "",
-    "logo": "",
-    "primary_url": "http://tvmate.icu:8080/34164995/34164995/313522",
-    "alternates": [],
-    "source_file": "FIW_1795373296_1_d65779_Hunter_D41F.m3u",
-    "health_status": "not_checked",
-    "health_checked_urls": 0,
-    "health_promoted": false
-  },
-  {
-    "id": "dragon_arabic_cbc8ae8f6ba0",
-    "name": "Public Health Radio Arabic",
-    "original_name": "Public Health Radio Arabic | 🌟 FREE IPTV WORLD 🌟",
-    "language": "arabic",
-    "groups": [],
-    "raw_group": "",
-    "logo": "",
-    "primary_url": "http://tvmate.icu:8080/34164995/34164995/313955",
-    "alternates": [],
-    "source_file": "FIW_1795373296_1_d65779_Hunter_D41F.m3u",
-    "health_status": "not_checked",
-    "health_checked_urls": 0,
-    "health_promoted": false
-  },
-  {
-    "id": "dragon_arabic_3f4778d55796",
-    "name": "MA | Boston | ABC (WCVB)",
-    "original_name": "MA | Boston | ABC (WCVB) | 🌟 FREE IPTV WORLD 🌟",
-    "language": "arabic",
-    "groups": [],
-    "raw_group": "",
-    "logo": "",
-    "primary_url": "http://tvmate.icu:8080/34164995/34164995/324541",
-    "alternates": [],
-    "source_file": "FIW_1795373296_1_d65779_Hunter_D41F.m3u",
-    "health_status": "not_checked",
-    "health_checked_urls": 0,
-    "health_promoted": false
-  },
-  {
-    "id": "dragon_arabic_f064bde349e9",
-    "name": "MA | Boston | CBS (WBZ)",
-    "original_name": "MA | Boston | CBS (WBZ) | 🌟 FREE IPTV WORLD 🌟",
-    "language": "arabic",
-    "groups": [],
-    "raw_group": "",
-    "logo": "",
-    "primary_url": "http://tvmate.icu:8080/34164995/34164995/324542",
-    "alternates": [],
-    "source_file": "FIW_1795373296_1_d65779_Hunter_D41F.m3u",
-    "health_status": "not_checked",
-    "health_checked_urls": 0,
-    "health_promoted": false
-  },
-  {
-    "id": "dragon_arabic_09850cddbab3",
-    "name": "MA | Boston | MY TV (WSBK)",
-    "original_name": "MA | Boston | MY TV (WSBK) | 🌟 FREE IPTV WORLD 🌟",
-    "language": "arabic",
-    "groups": [],
-    "raw_group": "",
-    "logo": "",
-    "primary_url": "http://tvmate.icu:8080/34164995/34164995/324544",
-    "alternates": [],
-    "source_file": "FIW_1795373296_1_d65779_Hunter_D41F.m3u",
-    "health_status": "not_checked",
-    "health_checked_urls": 0,
-    "health_promoted": false
-  },
-  {
-    "id": "dragon_arabic_474c4f0a4c28",
-    "name": "MA | Springfield | CBS (WSHM)",
-    "original_name": "MA | Springfield | CBS (WSHM) | 🌟 FREE IPTV WORLD 🌟",
-    "language": "arabic",
-    "groups": [],
-    "raw_group": "",
-    "logo": "",
-    "primary_url": "http://tvmate.icu:8080/34164995/34164995/324546",
-    "alternates": [],
-    "source_file": "FIW_1795373296_1_d65779_Hunter_D41F.m3u",
-    "health_status": "not_checked",
-    "health_checked_urls": 0,
-    "health_promoted": false
-  },
-  {
-    "id": "dragon_arabic_b207e0565974",
-    "name": "MA | Springfield | FOX (WGGB)",
-    "original_name": "MA | Springfield | FOX (WGGB) | 🌟 FREE IPTV WORLD 🌟",
-    "language": "arabic",
-    "groups": [],
-    "raw_group": "",
-    "logo": "",
-    "primary_url": "http://tvmate.icu:8080/34164995/34164995/324548",
-    "alternates": [
-      "http://tvmate.icu:8080/34164995/34164995/324547"
-    ],
-    "source_file": "FIW_1795373296_1_d65779_Hunter_D41F.m3u",
-    "health_status": "not_checked",
-    "health_checked_urls": 0,
-    "health_promoted": false
-  },
-  {
-    "id": "dragon_arabic_6372419f1388",
-    "name": "TN | CHATTANOOGA | NBC (WRCB)",
-    "original_name": "TN | CHATTANOOGA | NBC (WRCB) | 🌟 FREE IPTV WORLD 🌟",
-    "language": "arabic",
-    "groups": [],
-    "raw_group": "",
-    "logo": "",
-    "primary_url": "http://tvmate.icu:8080/34164995/34164995/324717",
-    "alternates": [],
-    "source_file": "FIW_1795373296_1_d65779_Hunter_D41F.m3u",
     "health_status": "not_checked",
     "health_checked_urls": 0,
     "health_promoted": false

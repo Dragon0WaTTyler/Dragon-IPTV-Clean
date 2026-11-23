@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "revision_utc": "2026-11-22T21:06:40Z",
+  "revision_utc": "2026-11-23T07:47:31Z",
   "source_repo": "https://github.com/mesbahikarim10-source/hot-dodo",
   "source_pattern": "FIW_17*.m3u",
   "language": "english",
@@ -21,22 +21,22 @@
     "sports": 500
   },
   "counts": {
-    "raw_files": 15,
-    "raw_channels": 276284,
-    "dropped_promo": 837,
-    "dropped_vod": 128567,
+    "raw_files": 26,
+    "raw_channels": 229301,
+    "dropped_promo": 450,
+    "dropped_vod": 135376,
     "dropped_unsupported_protocol": 0,
-    "dropped_language": 133083,
-    "deduped": 2587,
-    "kept_channels": 5459,
+    "dropped_language": 80311,
+    "deduped": 4507,
+    "kept_channels": 4700,
     "english": 3000,
-    "news": 196,
-    "documentary": 320,
+    "news": 151,
+    "documentary": 253,
     "sports": 500,
-    "health_checked": 516,
-    "health_reachable": 209,
-    "health_unreachable": 307,
-    "health_promoted": 27
+    "health_checked": 404,
+    "health_reachable": 159,
+    "health_unreachable": 245,
+    "health_promoted": 21
   },
   "files": {
     "catalog": "dragon_iptv_catalog.json",
