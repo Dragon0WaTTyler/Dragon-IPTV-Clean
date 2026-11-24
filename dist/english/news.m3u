@@ -1,47 +1,35 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="UK: Al Jazeera English FHD" tvg-logo="" group-title="news",UK: Al Jazeera English FHD
 http://cmskos.fastiptv.org:777/Ekremi_Belgjik/K1zy2KjUFf/5822
-#EXTINF:-1 tvg-name="BBC NEWS UK" tvg-logo="" group-title="news",BBC NEWS UK
-http://xfast-media.info:25461/play/TKPvLMLF-BGcFd-6_GdH9cq9--o83ymjxs1rOSbj0E0/ts
 #EXTINF:-1 tvg-name="US: CNN" tvg-logo="" group-title="news",US: CNN
-http://asd2.de:8000/testchnet/sKMiPrTmRB/28805
-#EXTINF:-1 tvg-name="CNN USA" tvg-logo="" group-title="news",CNN USA
-http://new.feniks.team:25461/live/400sinman/5zCW6KTeDS/ccf774de-f039-472a-9652-fff2cc761d4b.m3u
+http://cmskos.fastiptv.org:777/Ekremi_Belgjik/K1zy2KjUFf/3362
 #EXTINF:-1 tvg-name="CNN International" tvg-logo="" group-title="news",CNN International
-http://23.227.132.58:25461/scott/101924/115603
+http://23.227.132.58:25461/peedee0420/Jts62dms59/115603
 #EXTINF:-1 tvg-name="CNN Canada" tvg-logo="" group-title="news",CNN Canada
-http://23.227.132.58:25461/Petepool/Rocky/115630
+http://23.227.132.58:25461/peedee0420/Jts62dms59/115630
 #EXTINF:-1 tvg-name="CNN International (mex)" tvg-logo="" group-title="news",CNN International (mex)
 http://23.227.132.58:25461/Petepool/Rocky/117249
 #EXTINF:-1 tvg-name="UK: DW English" tvg-logo="" group-title="news",UK: DW English
 http://cmskos.fastiptv.org:777/Ekremi_Belgjik/K1zy2KjUFf/1544
-#EXTINF:-1 tvg-name="EURONEWS SRBIJA" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/Euronews_2016_Logo.png" group-title="news",EURONEWS SRBIJA
-http://p2.topten70.net:80/Alija-klub/ALv8DuHJUv/866
-#EXTINF:-1 tvg-name="EuroNews Serbia" tvg-logo="" group-title="news",EuroNews Serbia
-http://new.feniks.team:25461/live/400sinman/5zCW6KTeDS/e7f05a59-dfec-4417-9a03-66d4a49d83dd.m3u
-#EXTINF:-1 tvg-name="TRT WORLD" tvg-logo="" group-title="news",TRT WORLD
-http://p2.topten70.net:80/Alija-klub/ALv8DuHJUv/753
-#EXTINF:-1 tvg-name="US| Fox News Channel HD" tvg-logo="" group-title="news",US| Fox News Channel HD
-http://asd2.de:8000/testchnet/sKMiPrTmRB/28784
+#EXTINF:-1 tvg-name="Noticiero: BBC World" tvg-logo="" group-title="news",Noticiero: BBC World
+http://gamer3014.xyz:4565/live/243658aw1av/aa05102026/47040.ts
+#EXTINF:-1 tvg-name="US: Fox News" tvg-logo="" group-title="news",US: Fox News
+http://gamer3014.xyz:4565/live/243658aw1av/aa05102026/416226.ts
+#EXTINF:-1 tvg-name="CA: CTV News Channel HD" tvg-logo="https://moneroiptv.net/logot/CANADA/CTV-News.png" group-title="news",CA: CTV News Channel HD
+http://cmskos.fastiptv.org:777/Ekremi_Belgjik/K1zy2KjUFf/3363
+#EXTINF:-1 tvg-name="CA: CBC NEWS" tvg-logo="" group-title="news",CA: CBC NEWS
+http://23.227.132.58:25461/peedee0420/Jts62dms59/115678
+#EXTINF:-1 tvg-name="BBC World News" tvg-logo="" group-title="news",BBC World News
+http://23.227.132.58:25461/Petepool/Rocky/115614
+#EXTINF:-1 tvg-name="CA | Global News Channel" tvg-logo="" group-title="news",CA | Global News Channel
+http://23.227.132.58:25461/peedee0420/Jts62dms59/115677
+#EXTINF:-1 tvg-name="CA | CTV NEWS NETWORK" tvg-logo="" group-title="news",CA | CTV NEWS NETWORK
+http://23.227.132.58:25461/peedee0420/Jts62dms59/115679
 #EXTINF:-1 tvg-name="UK: Russia Today News" tvg-logo="http://iptvbeka.net/russia/1024px-Russia-today-logo.svg.png" group-title="news",UK: Russia Today News
 http://cmskos.fastiptv.org:777/Ekremi_Belgjik/K1zy2KjUFf/1547
 #EXTINF:-1 tvg-name="UK: RTE NEWS" tvg-logo="http://iptvbeka.net/uk/RTENEWS.png" group-title="news",UK: RTE NEWS
 http://cmskos.fastiptv.org:777/Ekremi_Belgjik/K1zy2KjUFf/1481
-#EXTINF:-1 tvg-name="CA: FOX NEWS" tvg-logo="" group-title="news",CA: FOX NEWS
-http://ambar.city:8080/live/243658aw1av/aa05102026/416226.ts
 #EXTINF:-1 tvg-name="US: ABC News HD" tvg-logo="" group-title="news",US: ABC News HD
 http://cmskos.fastiptv.org:777/Ekremi_Belgjik/K1zy2KjUFf/1868
 #EXTINF:-1 tvg-name="US: CBSN News" tvg-logo="" group-title="news",US: CBSN News
 http://cmskos.fastiptv.org:777/Ekremi_Belgjik/K1zy2KjUFf/1899
-#EXTINF:-1 tvg-name="CA: CBC NEWS" tvg-logo="" group-title="news",CA: CBC NEWS
-http://23.227.132.58:25461/Petepool/Rocky/115678
-#EXTINF:-1 tvg-name="CA: CTV NEWS CHANNEL HD" tvg-logo="" group-title="news",CA: CTV NEWS CHANNEL HD
-http://ambar.city:8080/live/243658aw1av/aa05102026/371189.ts
-#EXTINF:-1 tvg-name="BBC World News" tvg-logo="" group-title="news",BBC World News
-http://23.227.132.58:25461/scott/101924/115614
-#EXTINF:-1 tvg-name="CA | Global News Channel" tvg-logo="" group-title="news",CA | Global News Channel
-http://23.227.132.58:25461/Petepool/Rocky/115677
-#EXTINF:-1 tvg-name="CA | CTV NEWS NETWORK" tvg-logo="" group-title="news",CA | CTV NEWS NETWORK
-http://23.227.132.58:25461/scott/101924/115679
-#EXTINF:-1 tvg-name="Noticiero: BBC World" tvg-logo="" group-title="news",Noticiero: BBC World
-http://ambar.city:8080/live/243658aw1av/aa05102026/47040.ts
